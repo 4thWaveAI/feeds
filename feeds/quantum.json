@@ -1,0 +1,68 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "4thWave AI — Quantum (Aggregated)",
+  "home_page_url": "https://4thwave.ai",
+  "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/quantum.json",
+  "items": [
+    {
+      "id": "https://research.ibm.com/blog/surya-heliophysics-ai-model-sun",
+      "url": "https://research.ibm.com/blog/surya-heliophysics-ai-model-sun",
+      "title": "Introducing Surya, a new heliophysics foundation model",
+      "content_text": "IBM and NASA open-source a new AI foundation model for the Sun that could change how we look at solar flares."
+    },
+    {
+      "id": "https://research.ibm.com/blog/generative-computing-mellea",
+      "url": "https://research.ibm.com/blog/generative-computing-mellea",
+      "title": "Towards a generative future for computing",
+      "content_text": "IBM is exploring a future where generative AI isn’t limited to what’s in the prompt window."
+    },
+    {
+      "id": "https://research.ibm.com/blog/qiskit-v2x-developer-certification",
+      "url": "https://research.ibm.com/blog/qiskit-v2x-developer-certification",
+      "title": "Register for the new Qiskit v2.X developer certification | IBM Quantum Computing Blog",
+      "content_text": "Updated Qiskit developer certification exam tests your ability to perform essential quantum computing tasks with the latest version of Qiskit."
+    },
+    {
+      "id": "https://research.ibm.com/blog/ibm-researchers-win-prestigious-european-grants",
+      "url": "https://research.ibm.com/blog/ibm-researchers-win-prestigious-european-grants",
+      "title": "IBM researchers win prestigious European grants",
+      "content_text": "Ghazi Sarwat Syed and Gregor Seiler add to IBM Research’s strong history with European Research Council grants."
+    },
+    {
+      "id": "https://research.ibm.com/blog/ado-accelerated-discovery-orchestrator-experiments",
+      "url": "https://research.ibm.com/blog/ado-accelerated-discovery-orchestrator-experiments",
+      "title": "Ado: The accelerated discovery orchestrator",
+      "content_text": "The new platform for computational experiments at scale."
+    },
+    {
+      "id": "https://research.ibm.com/blog/granite-hackerone-bug-bounty",
+      "url": "https://research.ibm.com/blog/granite-hackerone-bug-bounty",
+      "title": "IBM further strengthens Granite for enterprise deployment with HackerOne",
+      "content_text": "IBM is partnering with HackerOne to offer a bug bounty program for Granite, with up to $100,000 in bounty payouts available. The objective is to identify successful jailbreaks of Granite models deployed in enterprise-like settings with guardrails enabled, as businesses look to scale their AI workflows."
+    },
+    {
+      "id": "https://research.ibm.com/blog/ai-algorithm-complexity",
+      "url": "https://research.ibm.com/blog/ai-algorithm-complexity",
+      "title": "Can AI generate truly novel algorithms?",
+      "content_text": "A decades-old approach to measuring algorithmic complexity could provide a window into better understanding how AI systems compute."
+    },
+    {
+      "id": "https://research.ibm.com/blog/quantum-credits",
+      "url": "https://research.ibm.com/blog/quantum-credits",
+      "title": "Updates on the IBM Quantum Credits program | IBM Quantum Computing Blog",
+      "content_text": "Apply today for free access to cutting-edge IBM quantum capabilities"
+    },
+    {
+      "id": "https://research.ibm.com/blog/how-the-ibm-research-ai-hardware-center-is-building-tomorrow-s-processors",
+      "url": "https://research.ibm.com/blog/how-the-ibm-research-ai-hardware-center-is-building-tomorrow-s-processors",
+      "title": "IBM’s AI Hardware Center is building tomorrow’s processors",
+      "content_text": "A look inside the group developing full-stack solutions to AI’s unique computational requirements."
+    },
+    {
+      "id": "https://research.ibm.com/blog/wei-sun-operations-research",
+      "url": "https://research.ibm.com/blog/wei-sun-operations-research",
+      "title": "IBM’s Wei Sun is an expert at navigating life’s trade-offs",
+      "content_text": "Her research focuses on applying operations research to real-world problems. We spoke to her about OR, AI, and what’s next."
+    }
+  ]
+}

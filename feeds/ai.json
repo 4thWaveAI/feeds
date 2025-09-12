@@ -1,0 +1,128 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "4thWave AI — Ai (Aggregated)",
+  "home_page_url": "https://4thwave.ai",
+  "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.json",
+  "items": [
+    {
+      "id": "https://deepmind.google/discover/blog/",
+      "url": "https://deepmind.google/discover/blog/",
+      "title": "Blog",
+      "content_text": "Discover our latest AI breakthroughs, projects, and updates."
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/",
+      "url": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/",
+      "title": "AlphaGenome: AI for better understanding the genome",
+      "content_text": "Introducing a new, unifying DNA sequence model that advances regulatory variant-effect prediction and promises to shed new light on genome function — now available via API."
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/",
+      "url": "https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/",
+      "title": "A catalogue of genetic mutations to help pinpoint the cause of diseases",
+      "content_text": "New AI tool classifies the effects of 71 million ‘missense’ mutations \nUncovering the root causes of disease is one of the greatest challenges in human genetics. With millions of possible..."
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/",
+      "url": "https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/",
+      "title": "AlphaProteo generates novel proteins for biology and health research",
+      "content_text": "New AI system designs proteins that successfully bind to target molecules, with potential for advancing drug design, disease understanding and more."
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+      "url": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+      "title": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms",
+      "content_text": "New AI agent evolves algorithms for math and practical applications in computing by combining the creativity of large language models with automated evaluators"
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/",
+      "url": "https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/",
+      "title": "AI achieves silver-medal standard solving International Mathematical Olympiad problems",
+      "content_text": "Breakthrough models AlphaProof and AlphaGeometry 2 solve advanced reasoning problems in mathematics"
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/",
+      "url": "https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/",
+      "title": "Millions of new materials discovered with deep learning",
+      "content_text": "We share the discovery of 2.2 million new crystals  –  equivalent to nearly 800 years’ worth of knowledge. We introduce Graph Networks for Materials Exploration (GNoME), our new deep learning tool..."
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/accelerating-fusion-science-through-learned-plasma-control/",
+      "url": "https://deepmind.google/discover/blog/accelerating-fusion-science-through-learned-plasma-control/",
+      "title": "Accelerating fusion science through learned plasma control",
+      "content_text": "Successfully controlling the nuclear fusion plasma in a tokamak with deep reinforcement learning"
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
+      "url": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
+      "title": "AlphaQubit tackles one of quantum computing’s biggest challenges",
+      "content_text": "AlphaQubit is an AI-based decoder that identifies quantum computing errors with state-of-the-art accuracy."
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/",
+      "url": "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/",
+      "title": "Genie 3: A New Frontier for World Models",
+      "content_text": "Today we are announcing Genie 3, a general purpose world model that can generate an unprecedented diversity of interactive environments. Given a text prompt, Genie 3 can generate dynamic worlds..."
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-opus-4-1",
+      "url": "https://www.anthropic.com/news/claude-opus-4-1",
+      "title": "Claude Opus 4.1",
+      "content_text": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "id": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+      "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+      "title": "Anthropic raises $13B Series F at $183B post-money valuation",
+      "content_text": "Anthropic has completed a Series F fundraising of $13 billion led by ICONIQ. This financing values Anthropic at $183 billion post-money. Along with ICONIQ, the round was co-led by Fidelity Management & Research Company and Lightspeed Venture Partners. The investment reflects Anthropic’s continued momentum and reinforces our position as the leading intelligence platform for enterprises, developers, and power users."
+    },
+    {
+      "id": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
+      "url": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
+      "title": "Thoughts on America’s AI Action Plan",
+      "content_text": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-for-financial-services",
+      "url": "https://www.anthropic.com/news/claude-for-financial-services",
+      "title": "Claude for Financial Services",
+      "content_text": "Today, we're introducing a comprehensive solution for financial analysis that transforms how finance professionals analyze markets, conduct research, and make investment decisions with Claude."
+    },
+    {
+      "id": "https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi",
+      "url": "https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi",
+      "title": "Strengthening our safeguards through collaboration with US CAISI and UK AISI",
+      "content_text": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "id": "https://www.anthropic.com/news/memory",
+      "url": "https://www.anthropic.com/news/memory",
+      "title": "Claude introduces memory for teams at work",
+      "content_text": "Claude now remembers your team's projects and preferences across conversations. Memory helps maintain context for complex work, with project-specific boundaries and full user control over what's remembered."
+    },
+    {
+      "id": "https://www.anthropic.com/news/create-files",
+      "url": "https://www.anthropic.com/news/create-files",
+      "title": "Claude can now create and use files",
+      "content_text": "Claude can now create and edit Excel spreadsheets, documents, PowerPoint slide decks, and PDFs directly in Claude.ai and the desktop app."
+    },
+    {
+      "id": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53",
+      "url": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53",
+      "title": "Anthropic is endorsing SB 53",
+      "content_text": "Anthropic is endorsing SB 53, the California bill that governs powerful AI systems built by frontier AI developers like Anthropic."
+    },
+    {
+      "id": "https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions",
+      "url": "https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions",
+      "title": "Updating restrictions of sales to unsupported regions",
+      "content_text": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "id": "https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education",
+      "url": "https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education",
+      "title": "Anthropic joins White House pledge for AI education",
+      "content_text": "Anthropic signs White House pledge investing in AI education for America's youth, supporting AI students and educators nationwide"
+    }
+  ]
+}

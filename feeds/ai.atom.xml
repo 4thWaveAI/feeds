@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>4thWave AI — Ai (Aggregated)</title>
+  <link href="https://4thwave.ai"/>
+  <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.atom.xml"/>
+  <id>urn:4thwaveai-feeds:ai</id>
+  <updated>Fri, 12 Sep 2025 22:45:56 +0000</updated>
+  <entry>
+    <title>Blog</title>
+    <link href="https://deepmind.google/discover/blog/"/>
+    <id>https://deepmind.google/discover/blog/</id>
+    <summary type="html"><![CDATA[Discover our latest AI breakthroughs, projects, and updates.]]></summary>
+  </entry>
+  <entry>
+    <title>AlphaGenome: AI for better understanding the genome</title>
+    <link href="https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/"/>
+    <id>https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/</id>
+    <summary type="html"><![CDATA[Introducing a new, unifying DNA sequence model that advances regulatory variant-effect prediction and promises to shed new light on genome function — now available via API.]]></summary>
+  </entry>
+  <entry>
+    <title>A catalogue of genetic mutations to help pinpoint the cause of diseases</title>
+    <link href="https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/"/>
+    <id>https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/</id>
+    <summary type="html"><![CDATA[New AI tool classifies the effects of 71 million ‘missense’ mutations 
+Uncovering the root causes of disease is one of the greatest challenges in human genetics. With millions of possible...]]></summary>
+  </entry>
+  <entry>
+    <title>AlphaProteo generates novel proteins for biology and health research</title>
+    <link href="https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/"/>
+    <id>https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/</id>
+    <summary type="html"><![CDATA[New AI system designs proteins that successfully bind to target molecules, with potential for advancing drug design, disease understanding and more.]]></summary>
+  </entry>
+  <entry>
+    <title>AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms</title>
+    <link href="https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/"/>
+    <id>https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/</id>
+    <summary type="html"><![CDATA[New AI agent evolves algorithms for math and practical applications in computing by combining the creativity of large language models with automated evaluators]]></summary>
+  </entry>
+  <entry>
+    <title>AI achieves silver-medal standard solving International Mathematical Olympiad problems</title>
+    <link href="https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/"/>
+    <id>https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/</id>
+    <summary type="html"><![CDATA[Breakthrough models AlphaProof and AlphaGeometry 2 solve advanced reasoning problems in mathematics]]></summary>
+  </entry>
+  <entry>
+    <title>Millions of new materials discovered with deep learning</title>
+    <link href="https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/"/>
+    <id>https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/</id>
+    <summary type="html"><![CDATA[We share the discovery of 2.2 million new crystals  –  equivalent to nearly 800 years’ worth of knowledge. We introduce Graph Networks for Materials Exploration (GNoME), our new deep learning tool...]]></summary>
+  </entry>
+  <entry>
+    <title>Accelerating fusion science through learned plasma control</title>
+    <link href="https://deepmind.google/discover/blog/accelerating-fusion-science-through-learned-plasma-control/"/>
+    <id>https://deepmind.google/discover/blog/accelerating-fusion-science-through-learned-plasma-control/</id>
+    <summary type="html"><![CDATA[Successfully controlling the nuclear fusion plasma in a tokamak with deep reinforcement learning]]></summary>
+  </entry>
+  <entry>
+    <title>AlphaQubit tackles one of quantum computing’s biggest challenges</title>
+    <link href="https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/"/>
+    <id>https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/</id>
+    <summary type="html"><![CDATA[AlphaQubit is an AI-based decoder that identifies quantum computing errors with state-of-the-art accuracy.]]></summary>
+    <updated>Wed, 20 Nov 2024 00:00:00 -0000</updated>
+  </entry>
+  <entry>
+    <title>Genie 3: A New Frontier for World Models</title>
+    <link href="https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/"/>
+    <id>https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/</id>
+    <summary type="html"><![CDATA[Today we are announcing Genie 3, a general purpose world model that can generate an unprecedented diversity of interactive environments. Given a text prompt, Genie 3 can generate dynamic worlds...]]></summary>
+  </entry>
+  <entry>
+    <title>Claude Opus 4.1</title>
+    <link href="https://www.anthropic.com/news/claude-opus-4-1"/>
+    <id>https://www.anthropic.com/news/claude-opus-4-1</id>
+    <summary type="html"><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></summary>
+  </entry>
+  <entry>
+    <title>Anthropic raises $13B Series F at $183B post-money valuation</title>
+    <link href="https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation"/>
+    <id>https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</id>
+    <summary type="html"><![CDATA[Anthropic has completed a Series F fundraising of $13 billion led by ICONIQ. This financing values Anthropic at $183 billion post-money. Along with ICONIQ, the round was co-led by Fidelity Management & Research Company and Lightspeed Venture Partners. The investment reflects Anthropic’s continued momentum and reinforces our position as the leading intelligence platform for enterprises, developers, and power users.]]></summary>
+  </entry>
+  <entry>
+    <title>Thoughts on America’s AI Action Plan</title>
+    <link href="https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan"/>
+    <id>https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</id>
+    <summary type="html"><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></summary>
+  </entry>
+  <entry>
+    <title>Claude for Financial Services</title>
+    <link href="https://www.anthropic.com/news/claude-for-financial-services"/>
+    <id>https://www.anthropic.com/news/claude-for-financial-services</id>
+    <summary type="html"><![CDATA[Today, we're introducing a comprehensive solution for financial analysis that transforms how finance professionals analyze markets, conduct research, and make investment decisions with Claude.]]></summary>
+  </entry>
+  <entry>
+    <title>Strengthening our safeguards through collaboration with US CAISI and UK AISI</title>
+    <link href="https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi"/>
+    <id>https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi</id>
+    <summary type="html"><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></summary>
+  </entry>
+  <entry>
+    <title>Claude introduces memory for teams at work</title>
+    <link href="https://www.anthropic.com/news/memory"/>
+    <id>https://www.anthropic.com/news/memory</id>
+    <summary type="html"><![CDATA[Claude now remembers your team's projects and preferences across conversations. Memory helps maintain context for complex work, with project-specific boundaries and full user control over what's remembered.]]></summary>
+  </entry>
+  <entry>
+    <title>Claude can now create and use files</title>
+    <link href="https://www.anthropic.com/news/create-files"/>
+    <id>https://www.anthropic.com/news/create-files</id>
+    <summary type="html"><![CDATA[Claude can now create and edit Excel spreadsheets, documents, PowerPoint slide decks, and PDFs directly in Claude.ai and the desktop app.]]></summary>
+  </entry>
+  <entry>
+    <title>Anthropic is endorsing SB 53</title>
+    <link href="https://www.anthropic.com/news/anthropic-is-endorsing-sb-53"/>
+    <id>https://www.anthropic.com/news/anthropic-is-endorsing-sb-53</id>
+    <summary type="html"><![CDATA[Anthropic is endorsing SB 53, the California bill that governs powerful AI systems built by frontier AI developers like Anthropic.]]></summary>
+  </entry>
+  <entry>
+    <title>Updating restrictions of sales to unsupported regions</title>
+    <link href="https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions"/>
+    <id>https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions</id>
+    <summary type="html"><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></summary>
+  </entry>
+  <entry>
+    <title>Anthropic joins White House pledge for AI education</title>
+    <link href="https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education"/>
+    <id>https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education</id>
+    <summary type="html"><![CDATA[Anthropic signs White House pledge investing in AI education for America's youth, supporting AI students and educators nationwide]]></summary>
+  </entry>
+</feed>
