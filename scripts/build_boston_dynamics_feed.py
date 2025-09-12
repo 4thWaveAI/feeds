@@ -16,7 +16,7 @@ from datetime import datetime, timezone
 INDEX_URL = "https://bostondynamics.com/blog/"
 BASE      = "https://bostondynamics.com"
 HOME_URL  = "https://bostondynamics.com/blog/"
-FEED_BASE = "https://4thwaveai-feeds.github.io/4thwaveai-feeds/"  # change if repo name/owner changes
+FEED_BASE = "https://4thwaveai-feeds.github.io/4thwaveai-feeds/"  # change if repo/owner changes
 
 RSS_OUT   = "boston-dynamics-blog.xml"
 ATOM_OUT  = "boston-dynamics-blog.atom.xml"
@@ -61,7 +61,7 @@ def parse_article(url: str):
             p = p.find("p")
             description = (p.get_text(" ", strip=True) if p else "")[:400]
 
-        # Published time (if present)
+        # Published time (optional)
         pub = s.find("meta", property="article:published_time")
         pubDate = None
         if pub and pub.get("content"):
@@ -73,7 +73,7 @@ def parse_article(url: str):
 
         return {"title": title, "link": url, "guid": url, "description": description, "pubDate": pubDate}
     except Exception:
-        return None  # skip silently on any page error
+        return None  # skip silently
 
 def build_rss(items):
     now_rfc = email.utils.format_datetime(datetime.now(timezone.utc))
@@ -126,46 +126,5 @@ def build_atom(items):
     parts += ["</feed>"]
     return "\n".join(parts)
 
-def build_json(items):
-    feed = {
-        "version": "https://jsonfeed.org/version/1",
-        "title": "Boston Dynamics Blog — Unofficial JSON Feed",
-        "home_page_url": HOME_URL,
-        "feed_url": FEED_BASE + JSON_OUT,
-        "items": []
-    }
-    for it in items:
-        feed["items"].append({
-            "id": it["guid"],
-            "url": it["link"],
-            "title": it["title"],
-            "content_text": it["description"]
-        })
-    return json.dumps(feed, ensure_ascii=False, indent=2)
-
-def main():
-    idx_html = fetch(INDEX_URL)
-    urls = parse_index(idx_html, limit=20)
-    articles = [parse_article(u) for u in urls]
-    items = [a for a in articles if a]
-    if not items:
-        print("No items parsed; leaving previous files untouched.")
-        return
-
-    # Write RSS
-    with open(RSS_OUT, "w", encoding="utf-8") as f:
-        f.write(build_rss(items))
-    print(f"Wrote {RSS_OUT} with {len(items)} items.")
-
-    # Write Atom
-    with open(ATOM_OUT, "w", encoding="utf-8") as f:
-        f.write(build_atom(items))
-    print(f"Wrote {ATOM_OUT} with {len(items)} items.")
-
-    # Write JSON
-    with open(JSON_OUT, "w", encoding="utf-8") as f:
-        f.write(build_json(items))
-    print(f"Wrote {JSON_OUT} with {len(items)} items.")
-
-if __name__ == "__main__":
-    main()
+def bu
+::contentReference[oaicite:0]{index=0}
