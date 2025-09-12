@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Boston Dynamics Blog — Unofficial RSS</title>
+    <link>https://bostondynamics.com/blog/</link>
+    <description>Unofficial feed generated for convenience. Source: Boston Dynamics Blog.</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Sep 2025 18:29:22 GMT</lastBuildDate>
+    <item>
+      <title>Large Behavior Models and Atlas Find New Footing</title>
+      <link>https://bostondynamics.com/blog/large-behavior-models-atlas-find-new-footing/</link>
+      <guid isPermaLink="true">https://bostondynamics.com/blog/large-behavior-models-atlas-find-new-footing/</guid>
+      <description><![CDATA[Boston Dynamics and Toyota Research Institute describe language‑conditioned, end‑to‑end policies for Atlas. The work focuses on long‑horizon mobile manipulation and recovery from disturbances.]]></description>
+    </item>
+    <item>
+      <title>Getting Real with Humanoids</title>
+      <link>https://bostondynamics.com/blog/getting-real-with-humanoids/</link>
+      <guid isPermaLink="true">https://bostondynamics.com/blog/getting-real-with-humanoids/</guid>
+      <description><![CDATA[An update on the new Atlas robot program: breaking big goals into practical problems and building useful capabilities step by step.]]></description>
+    </item>
+    <item>
+      <title>Making Atlas See the World</title>
+      <link>https://bostondynamics.com/blog/making-atlas-see-the-world/</link>
+      <guid isPermaLink="true">https://bostondynamics.com/blog/making-atlas-see-the-world/</guid>
+      <description><![CDATA[Overview of Atlas’s perception stack, including calibrated sensing, ML perception models, and robust state estimation to support autonomous sequencing.]]></description>
+    </item>
+    <item>
+      <title>Starting on the Right Foot with Reinforcement Learning</title>
+      <link>https://bostondynamics.com/blog/starting-on-the-right-foot-with-reinforcement-learning/</link>
+      <guid isPermaLink="true">https://bostondynamics.com/blog/starting-on-the-right-foot-with-reinforcement-learning/</guid>
+      <description><![CDATA[How Spot’s locomotion integrates reinforcement learning alongside model predictive control to handle more real‑world variability.]]></description>
+    </item>
+    <item>
+      <title>Flipping the Script with Atlas</title>
+      <link>https://bostondynamics.com/blog/flipping-the-script-with-atlas/</link>
+      <guid isPermaLink="true">https://bostondynamics.com/blog/flipping-the-script-with-atlas/</guid>
+      <description><![CDATA[Using parkour‑style demonstrations to study rapid behavior creation, dynamic locomotion, and the linkage between perception and control.]]></description>
+    </item>
+    <item>
+      <title>What Does It Take to Get a Robot into the Field?</title>
+      <link>https://bostondynamics.com/blog/what-does-it-take-to-get-a-robot-into-the-field/</link>
+      <guid isPermaLink="true">https://bostondynamics.com/blog/what-does-it-take-to-get-a-robot-into-the-field/</guid>
+      <description><![CDATA[Inside Boston Dynamics’ Rotational Development Engineering program for Stretch—building, testing, troubleshooting, and integrating robots at customer sites.]]></description>
+    </item>
+    <item>
+      <title>Spot to the Rescue</title>
+      <link>https://bostondynamics.com/blog/spot-to-the-rescue/</link>
+      <guid isPermaLink="true">https://bostondynamics.com/blog/spot-to-the-rescue/</guid>
+      <description><![CDATA[Public safety teams use Spot for disaster response, investigations, and structural surveys—taking robots into challenging terrain quickly and safely.]]></description>
+    </item>
+    <item>
+      <title>Robots That Can Chat</title>
+      <link>https://bostondynamics.com/blog/robots-that-can-chat/</link>
+      <guid isPermaLink="true">https://bostondynamics.com/blog/robots-that-can-chat/</guid>
+      <description><![CDATA[A proof‑of‑concept tour guide built on Spot with ChatGPT and vision models to explore foundation‑model applications in robotics.]]></description>
+    </item>
+  </channel>
+</rss>
