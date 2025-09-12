@@ -3,7 +3,7 @@ name: Update Boston Dynamics RSS
 on:
   workflow_dispatch: {}
   schedule:
-    # Twice per day (UTC). Change as you like.
+    # Twice per day (UTC). Adjust as needed.
     - cron: "17 */12 * * *"
 
 permissions:
@@ -22,7 +22,7 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4 lxml
 
-      - name: Build RSS
+      - name: Build feeds (RSS, Atom, JSON)
         run: python scripts/build_boston_dynamics_feed.py
 
       - name: Commit & push if changed
@@ -30,8 +30,10 @@ jobs:
           if [[ -n "$(git status --porcelain)" ]]; then
             git config user.name  "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add boston_dynamics_blog_unofficial.rss.xml
-            git commit -m "chore: auto-refresh Boston Dynamics blog RSS [skip ci]"
+            git add boston-dynamics-blog.xml \
+                   boston-dynamics-blog.atom.xml \
+                   boston-dynamics-blog.json
+            git commit -m "chore: auto-refresh BD blog feeds (RSS/Atom/JSON) [skip ci]"
             git push
           else
             echo "No changes to commit."
