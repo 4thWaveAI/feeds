@@ -320,3 +320,318 @@ areas:
       base:  "https://news.berkeley.edu"
       prefix: "/"
       limit: 10
+
+  space-tech:
+    - name: NASA News — Releases (abs)
+      index: "https://www.nasa.gov/news/"
+      base:  "https://www.nasa.gov"
+      prefix: "https://www.nasa.gov/news-release/"
+      limit: 6
+    - name: NASA News — Releases (rel)
+      index: "https://www.nasa.gov/news/"
+      base:  "https://www.nasa.gov"
+      prefix: "/news-release/"
+      limit: 6
+    - name: NASA News — Features (abs)
+      index: "https://www.nasa.gov/news/"
+      base:  "https://www.nasa.gov"
+      prefix: "https://www.nasa.gov/feature/"
+      limit: 6
+    - name: NASA News — Features (rel)
+      index: "https://www.nasa.gov/news/"
+      base:  "https://www.nasa.gov"
+      prefix: "/feature/"
+      limit: 6
+    - name: NASA JPL — News (abs)
+      index: "https://www.jpl.nasa.gov/news"
+      base:  "https://www.jpl.nasa.gov"
+      prefix: "https://www.jpl.nasa.gov/news/"
+      limit: 8
+    - name: NASA JPL — News (rel)
+      index: "https://www.jpl.nasa.gov/news"
+      base:  "https://www.jpl.nasa.gov"
+      prefix: "/news/"
+      limit: 8
+    - name: ESA — Press Releases (abs)
+      index: "https://www.esa.int/Newsroom/Press_Releases"
+      base:  "https://www.esa.int"
+      prefix: "https://www.esa.int/Newsroom/Press_Releases/"
+      limit: 6
+    - name: ESA — Press Releases (rel)
+      index: "https://www.esa.int/Newsroom/Press_Releases"
+      base:  "https://www.esa.int"
+      prefix: "/Newsroom/Press_Releases/"
+      limit: 6
+    - name: SpaceX — Updates (abs)
+      index: "https://www.spacex.com/updates/"
+      base:  "https://www.spacex.com"
+      prefix: "https://www.spacex.com/updates/"
+      limit: 6
+    - name: SpaceX — Updates (rel)
+      index: "https://www.spacex.com/updates/"
+      base:  "https://www.spacex.com"
+      prefix: "/updates/"
+      limit: 6
+    - name: Blue Origin — News (abs)
+      index: "https://www.blueorigin.com/news"
+      base:  "https://www.blueorigin.com"
+      prefix: "https://www.blueorigin.com/news"
+      limit: 6
+    - name: Blue Origin — News (rel)
+      index: "https://www.blueorigin.com/news"
+      base:  "https://www.blueorigin.com"
+      prefix: "/news"
+      limit: 6
+    - name: Rocket Lab — Updates (abs)
+      index: "https://www.rocketlabusa.com/updates/"
+      base:  "https://www.rocketlabusa.com"
+      prefix: "https://www.rocketlabusa.com/updates/"
+      limit: 6
+    - name: Rocket Lab — Updates (rel)
+      index: "https://www.rocketlabusa.com/updates/"
+      base:  "https://www.rocketlabusa.com"
+      prefix: "/updates/"
+      limit: 6
+    - name: Relativity Space — News (abs)
+      index: "https://www.relativityspace.com/news"
+      base:  "https://www.relativityspace.com"
+      prefix: "https://www.relativityspace.com/news"
+      limit: 6
+    - name: Relativity Space — News (rel)
+      index: "https://www.relativityspace.com/news"
+      base:  "https://www.relativityspace.com"
+      prefix: "/news"
+      limit: 6
+
+  space-force:
+    - name: U.S. Space Force — News (abs)
+      index: "https://www.spaceforce.mil/News/"
+      base:  "https://www.spaceforce.mil"
+      prefix: "https://www.spaceforce.mil/News/"
+      limit: 8
+    - name: U.S. Space Force — News (rel)
+      index: "https://www.spaceforce.mil/News/"
+      base:  "https://www.spaceforce.mil"
+      prefix: "/News/"
+      limit: 8
+    - name: Space Systems Command — News (abs)
+      index: "https://www.ssc.spaceforce.mil/News"
+      base:  "https://www.ssc.spaceforce.mil"
+      prefix: "https://www.ssc.spaceforce.mil/News"
+      limit: 6
+    - name: Space Systems Command — News (rel)
+      index: "https://www.ssc.spaceforce.mil/News"
+      base:  "https://www.ssc.spaceforce.mil"
+      prefix: "/News"
+      limit: 6
+    - name: Space Development Agency — News (abs)
+      index: "https://www.sda.mil/news"
+      base:  "https://www.sda.mil"
+      prefix: "https://www.sda.mil/news"
+      limit: 6
+    - name: Space Development Agency — News (rel)
+      index: "https://www.sda.mil/news"
+      base:  "https://www.sda.mil"
+      prefix: "/news"
+      limit: 6
+    - name: U.S. Space Command — Newsroom (abs)
+      index: "https://www.spacecom.mil/Newsroom/"
+      base:  "https://www.spacecom.mil"
+      prefix: "https://www.spacecom.mil/Newsroom/"
+      limit: 6
+    - name: U.S. Space Command — Newsroom (rel)
+      index: "https://www.spacecom.mil/Newsroom/"
+      base:  "https://www.spacecom.mil"
+      prefix: "/Newsroom/"
+      limit: 6
+    - name: NRO — News & Statements (abs)
+      index: "https://www.nro.gov/News/Press-Releases-and-Statements/"
+      base:  "https://www.nro.gov"
+      prefix: "https://www.nro.gov/News/Press-Releases-and-Statements/"
+      limit: 6
+    - name: NRO — News & Statements (rel)
+      index: "https://www.nro.gov/News/Press-Releases-and-Statements/"
+      base:  "https://www.nro.gov"
+      prefix: "/News/Press-Releases-and-Statements/"
+      limit: 6
+
+  digital-twins:
+    - name: World Economic Forum — Publications (abs)
+      index: "https://www.weforum.org/publications/"
+      base:  "https://www.weforum.org"
+      prefix: "https://www.weforum.org/publications/"
+      limit: 8
+    - name: World Economic Forum — Publications (rel)
+      index: "https://www.weforum.org/publications/"
+      base:  "https://www.weforum.org"
+      prefix: "/publications/"
+      limit: 8
+    - name: IEEE Spectrum — Digital Twins (tag)
+      index: "https://spectrum.ieee.org/tag/digital-twins"
+      base:  "https://spectrum.ieee.org"
+      prefix: "/"
+      limit: 8
+
+  quantum-security:
+    - name: World Economic Forum — Publications (abs)
+      index: "https://www.weforum.org/publications/"
+      base:  "https://www.weforum.org"
+      prefix: "https://www.weforum.org/publications/"
+      limit: 8
+    - name: World Economic Forum — Publications (rel)
+      index: "https://www.weforum.org/publications/"
+      base:  "https://www.weforum.org"
+      prefix: "/publications/"
+      limit: 8
+    - name: IEEE Spectrum — Quantum Security (tag)
+      index: "https://spectrum.ieee.org/tag/quantum-security"
+      base:  "https://spectrum.ieee.org"
+      prefix: "/"
+      limit: 8
+
+  generative-ai:
+    - name: World Economic Forum — Publications (abs)
+      index: "https://www.weforum.org/publications/"
+      base:  "https://www.weforum.org"
+      prefix: "https://www.weforum.org/publications/"
+      limit: 8
+    - name: World Economic Forum — Publications (rel)
+      index: "https://www.weforum.org/publications/"
+      base:  "https://www.weforum.org"
+      prefix: "/publications/"
+      limit: 8
+    - name: IEEE Spectrum — Generative AI (tag)
+      index: "https://spectrum.ieee.org/tag/generative-ai"
+      base:  "https://spectrum.ieee.org"
+      prefix: "/"
+      limit: 10
+
+  agentic-ai:
+    - name: World Economic Forum — Publications (abs)
+      index: "https://www.weforum.org/publications/"
+      base:  "https://www.weforum.org"
+      prefix: "https://www.weforum.org/publications/"
+      limit: 6
+    - name: World Economic Forum — Publications (rel)
+      index: "https://www.weforum.org/publications/"
+      base:  "https://www.weforum.org"
+      prefix: "/publications/"
+      limit: 6
+
+  edge-computing:
+    - name: IEEE Spectrum — Edge Computing (tag)
+      index: "https://spectrum.ieee.org/tag/edge-computing"
+      base:  "https://spectrum.ieee.org"
+      prefix: "/"
+      limit: 10
+    - name: World Economic Forum — Publications (abs)
+      index: "https://www.weforum.org/publications/"
+      base:  "https://www.weforum.org"
+      prefix: "https://www.weforum.org/publications/"
+      limit: 6
+    - name: World Economic Forum — Publications (rel)
+      index: "https://www.weforum.org/publications/"
+      base:  "https://www.weforum.org"
+      prefix: "/publications/"
+      limit: 6
+
+  internet-of-things:
+    - name: IEEE Spectrum — IoT (tag)
+      index: "https://spectrum.ieee.org/tag/iot"
+      base:  "https://spectrum.ieee.org"
+      prefix: "/"
+      limit: 12
+    - name: Phys.org — Internet of Things
+      index: "https://phys.org/tags/internet-of-things/"
+      base:  "https://phys.org"
+      prefix: "/news/"
+      limit: 10
+
+  augmented-reality:
+    - name: IEEE Spectrum — Augmented Reality (tag)
+      index: "https://spectrum.ieee.org/tag/augmented-reality"
+      base:  "https://spectrum.ieee.org"
+      prefix: "/"
+      limit: 10
+    - name: UploadVR — AR (tag)
+      index: "https://www.uploadvr.com/tag/augmented-reality/"
+      base:  "https://www.uploadvr.com"
+      prefix: "/"
+      limit: 8
+
+  extended-reality:
+    - name: Road to VR — News
+      index: "https://www.roadtovr.com/category/news/"
+      base:  "https://www.roadtovr.com"
+      prefix: "/"
+      limit: 10
+    - name: IEEE Spectrum — Virtual/Extended Reality (tag)
+      index: "https://spectrum.ieee.org/tag/virtual-reality"
+      base:  "https://spectrum.ieee.org"
+      prefix: "/"
+      limit: 8
+
+  artificial-wombs:
+    - name: ScienceDaily — Reproductive Technology
+      index: "https://www.sciencedaily.com/news/health_medicine/reproductive_technology/"
+      base:  "https://www.sciencedaily.com"
+      prefix: "/releases/"
+      limit: 10
+    - name: World Economic Forum — Publications (abs)
+      index: "https://www.weforum.org/publications/"
+      base:  "https://www.weforum.org"
+      prefix: "https://www.weforum.org/publications/"
+      limit: 6
+    - name: World Economic Forum — Publications (rel)
+      index: "https://www.weforum.org/publications/"
+      base:  "https://www.weforum.org"
+      prefix: "/publications/"
+      limit: 6
+
+  structural-battery-composites:
+    - name: ScienceDaily — Batteries
+      index: "https://www.sciencedaily.com/news/matter_energy/batteries/"
+      base:  "https://www.sciencedaily.com"
+      prefix: "/releases/"
+      limit: 10
+    - name: Nature — Materials Science
+      index: "https://www.nature.com/subjects/materials-science"
+      base:  "https://www.nature.com"
+      prefix: "/articles/"
+      limit: 8
+
+  advanced-materials-technology:
+    - name: ScienceDaily — Materials Science
+      index: "https://www.sciencedaily.com/news/matter_energy/materials_science/"
+      base:  "https://www.sciencedaily.com"
+      prefix: "/releases/"
+      limit: 12
+    - name: MIT News — Materials
+      index: "https://news.mit.edu/topic/materials"
+      base:  "https://news.mit.edu"
+      prefix: "/"
+      limit: 8
+
+  cobots:
+    - name: The Robot Report — Cobots
+      index: "https://www.therobotreport.com/category/cobots/"
+      base:  "https://www.therobotreport.com"
+      prefix: "/"
+      limit: 10
+    - name: IEEE Spectrum — Robotics (tag)
+      index: "https://spectrum.ieee.org/tag/robotics"
+      base:  "https://spectrum.ieee.org"
+      prefix: "/"
+      limit: 10
+
+  humanoid-robots:
+    - name: IEEE Spectrum — Humanoid Robots (tag)
+      index: "https://spectrum.ieee.org/tag/humanoid-robots"
+      base:  "https://spectrum.ieee.org"
+      prefix: "/"
+      limit: 10
+    - name: The Robot Report — Humanoids
+      index: "https://www.therobotreport.com/category/humanoids/"
+      base:  "https://www.therobotreport.com"
+      prefix: "/"
+      limit: 10
