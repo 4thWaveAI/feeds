@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai</id>
-  <updated>Sat, 13 Sep 2025 02:56:11 +0000</updated>
+  <updated>Sat, 13 Sep 2025 23:21:36 +0000</updated>
   <entry>
     <title>Blog</title>
     <link href="https://deepmind.google/discover/blog/"/>
@@ -66,57 +66,6 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <link href="https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/"/>
     <id>https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/</id>
     <summary type="html"><![CDATA[Today we are announcing Genie 3, a general purpose world model that can generate an unprecedented diversity of interactive environments. Given a text prompt, Genie 3 can generate dynamic worlds...]]></summary>
-  </entry>
-  <entry>
-    <title>NASA Awards Third Glenn Facility and Engineering Services Contract - NASA</title>
-    <link href="https://www.nasa.gov/news-release/nasa-awards-third-glenn-facility-and-engineering-services-contract/"/>
-    <id>https://www.nasa.gov/news-release/nasa-awards-third-glenn-facility-and-engineering-services-contract/</id>
-    <summary type="html"><![CDATA[NASA has selected Troy Sierra JV, LLC of Huntsville, Alabama, to provide engineering, research, and scientific support at the agency’s Glenn Research Center]]></summary>
-  </entry>
-  <entry>
-    <title>NASA Armstrong to Host Partnership Day Oct. 21-22 - NASA</title>
-    <link href="https://www.nasa.gov/news-release/nasa-armstrong-to-host-partnership-day-oct-21-22/"/>
-    <id>https://www.nasa.gov/news-release/nasa-armstrong-to-host-partnership-day-oct-21-22/</id>
-    <summary type="html"><![CDATA[NASA’s Armstrong Flight Research Center in Edwards, California, invites innovative companies, government agencies, and organizations to attend Partnership]]></summary>
-  </entry>
-  <entry>
-    <title>NASA News</title>
-    <link href="https://www.nasa.gov/news/"/>
-    <id>https://www.nasa.gov/news/</id>
-    <summary type="html"><![CDATA[Resources for news media, including NASA news contacts and archived news material]]></summary>
-    <updated>Wed, 07 Dec 2022 13:25:24 -0500</updated>
-  </entry>
-  <entry>
-    <title>2025 News Releases - NASA</title>
-    <link href="https://www.nasa.gov/2025-news-releases/"/>
-    <id>https://www.nasa.gov/2025-news-releases/</id>
-    <summary type="html"><![CDATA[Sign up to receive NASA news releases and other information.]]></summary>
-  </entry>
-  <entry>
-    <title>All NASA News - NASA</title>
-    <link href="https://www.nasa.gov/news/recently-published/"/>
-    <id>https://www.nasa.gov/news/recently-published/</id>
-    <summary type="html"><![CDATA[Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.]]></summary>
-    <updated>Fri, 30 Jun 2023 08:59:39 -0400</updated>
-  </entry>
-  <entry>
-    <title>NASA Media Contacts - NASA</title>
-    <link href="https://www.nasa.gov/news/media-contacts/"/>
-    <id>https://www.nasa.gov/news/media-contacts/</id>
-    <summary type="html"><![CDATA[Media Contacts Roxana Bardan Mars Sample Return 771-200-7217 Gerelle Dodson NASA Workforce, STEM Engagement 202-358-1600 Jennifer Dooren Deputy News Chief,]]></summary>
-    <updated>Thu, 29 Jun 2023 14:53:17 -0400</updated>
-  </entry>
-  <entry>
-    <title>Space Cargo Out for Delivery Days Before Next Resupply Mission Launches - NASA</title>
-    <link href="https://www.nasa.gov/blogs/spacestation/2025/09/12/space-cargo-out-for-delivery-days-before-next-resupply-mission-launches/"/>
-    <id>https://www.nasa.gov/blogs/spacestation/2025/09/12/space-cargo-out-for-delivery-days-before-next-resupply-mission-launches/</id>
-    <summary type="html"><![CDATA[One cargo spacecraft is orbiting Earth toward the International Space Station while another stands at its launch pad counting down to a lift off on Sunday to continue resupplying the Expedition 73 crew. The orbital residents will be preparing for the dual cargo missions while keeping up cardiac and bone research over the weekend.]]></summary>
-  </entry>
-  <entry>
-    <title>Progress 93 Cargo Craft Lifts Off to Resupply Station Crew - NASA</title>
-    <link href="https://www.nasa.gov/blogs/spacestation/2025/09/11/progress-93-cargo-craft-lifts-off-to-resupply-station-crew/"/>
-    <id>https://www.nasa.gov/blogs/spacestation/2025/09/11/progress-93-cargo-craft-lifts-off-to-resupply-station-crew/</id>
-    <summary type="html"><![CDATA[The unpiloted Roscosmos Progress 93 spacecraft is safely in orbit, headed for the International Space Station following its launch at 11:54 a.m. EDT (8:54 p.m. Baikonur time) on a Soyuz rocket from the Baikonur Cosmodrome in Kazakhstan.]]></summary>
   </entry>
   <entry>
     <title>Claude Opus 4.1</title>
@@ -388,5 +337,60 @@ f���H��x���N��$��7#�ok��eT���x�հ7䕄
     <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/transport-and-logistics/"/>
     <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/transport-and-logistics/</id>
     <summary type="html"><![CDATA[Read the latest news and posts about Transport and logistics from Microsoft's team of experts at Microsoft Industry Blogs.]]></summary>
+  </entry>
+  <entry>
+    <title>Unlocking the potential of manufacturing with cloud modernization - Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/19/unlocking-the-potential-of-manufacturing-with-cloud-modernization/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/19/unlocking-the-potential-of-manufacturing-with-cloud-modernization/</id>
+    <summary type="html"><![CDATA[Uncover how manufacturers use AI and cloud to optimize operations, accelerate R&D, and deliver real business value. Learn more.]]></summary>
+    <updated>Tue, 19 Aug 2025 15:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Embracing AI-powered operations: A maturity path for manufacturers - Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/07/embracing-ai-powered-operations-a-maturity-path-for-manufacturers/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/07/embracing-ai-powered-operations-a-maturity-path-for-manufacturers/</id>
+    <summary type="html"><![CDATA[Discover how manufacturers are embracing AI to boost efficiency, resilience, and innovation with Microsoft’s guidance. Learn more.]]></summary>
+    <updated>Thu, 07 Aug 2025 14:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>AI in process manufacturing: From operational gains to strategic advantage - Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/28/ai-in-process-manufacturing-from-operational-gains-to-strategic-advantage/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/28/ai-in-process-manufacturing-from-operational-gains-to-strategic-advantage/</id>
+    <summary type="html"><![CDATA[Explore insights into how manufacturers prioritize technology and where AI fits by reading the report "Artificial Intelligence in Process Manufacturing."]]></summary>
+    <updated>Wed, 28 May 2025 15:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Creating a resilient supply chain using connected data chains - Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/05/creating-a-resilient-supply-chain-using-connected-data-chains/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/05/creating-a-resilient-supply-chain-using-connected-data-chains/</id>
+    <summary type="html"><![CDATA[Explore how Microsoft is enabling companies to easily navigate complexities and use technology with connected data chains and AI.]]></summary>
+    <updated>Mon, 05 May 2025 15:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Manufacturing and mobility - Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/</id>
+    <summary type="html"><![CDATA[Read the latest news and posts about Manufacturing and mobility from Microsoft's team of experts at Microsoft Industry Blogs.]]></summary>
+  </entry>
+  <entry>
+    <title>Hannover Messe 2025: Microsoft puts industrial AI to work  - Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/2025/04/21/hannover-messe-2025-microsoft-puts-industrial-ai-to-work/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/2025/04/21/hannover-messe-2025-microsoft-puts-industrial-ai-to-work/</id>
+    <summary type="html"><![CDATA[This year, 127,000 business and government leaders from 150 nations gathered at Hanover Messe to see how technology is shaping the future. Learn more.]]></summary>
+    <updated>Mon, 21 Apr 2025 15:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Shaping the future of product engineering and research and development with generative AI - Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/04/03/shaping-the-future-of-product-engineering-and-research-and-development-with-generative-ai/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/04/03/shaping-the-future-of-product-engineering-and-research-and-development-with-generative-ai/</id>
+    <summary type="html"><![CDATA[Microsoft and our partners are playing a pivotal role in transforming the industry by building industry-specific solutions. Learn more.]]></summary>
+    <updated>Thu, 03 Apr 2025 15:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>The future of manufacturing with Microsoft Dynamics 365 is here—are you ready? - Microsoft Dynamics 365 Blog</title>
+    <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/03/25/the-future-of-manufacturing-with-microsoft-dynamics-365-is-here-are-you-ready/"/>
+    <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/03/25/the-future-of-manufacturing-with-microsoft-dynamics-365-is-here-are-you-ready/</id>
+    <summary type="html"><![CDATA[Join Microsoft at Hannover Messe and learn how AI will impact the manufacturing industry.]]></summary>
+    <updated>Tue, 25 Mar 2025 16:00:00 +0000</updated>
   </entry>
 </feed>
