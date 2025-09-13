@@ -10,6 +10,28 @@ areas:
       prefix: "/discover/blog/"
       limit: 10
 
+    - name: NASA News — Releases (abs)
+      index: "https://www.nasa.gov/news/"
+      base:  "https://www.nasa.gov"
+      prefix: "https://www.nasa.gov/news-release/"
+      limit: 6
+    - name: NASA News — Releases (rel)
+      index: "https://www.nasa.gov/news/"
+      base:  "https://www.nasa.gov"
+      prefix: "/news-release/"
+      limit: 6
+
+    - name: NASA News — Features (abs)
+      index: "https://www.nasa.gov/news/"
+      base:  "https://www.nasa.gov"
+      prefix: "https://www.nasa.gov/feature/"
+      limit: 6
+    - name: NASA News — Features (rel)
+      index: "https://www.nasa.gov/news/"
+      base:  "https://www.nasa.gov"
+      prefix: "/feature/"
+      limit: 6
+
     - name: Anthropic
       index: "https://www.anthropic.com/news"
       base:  "https://www.anthropic.com"
@@ -138,6 +160,39 @@ areas:
       base:  "https://bostondynamics.com"
       prefix: "/blog/"
       limit: 12
+
+        - name: NASA News — Releases (abs)
+      index: "https://www.nasa.gov/news/"
+      base:  "https://www.nasa.gov"
+      prefix: "https://www.nasa.gov/news-release/"
+      limit: 6
+    - name: NASA News — Releases (rel)
+      index: "https://www.nasa.gov/news/"
+      base:  "https://www.nasa.gov"
+      prefix: "/news-release/"
+      limit: 6
+
+    - name: NASA News — Features (abs)
+      index: "https://www.nasa.gov/news/"
+      base:  "https://www.nasa.gov"
+      prefix: "https://www.nasa.gov/feature/"
+      limit: 6
+    - name: NASA News — Features (rel)
+      index: "https://www.nasa.gov/news/"
+      base:  "https://www.nasa.gov"
+      prefix: "/feature/"
+      limit: 6
+
+    - name: NASA JPL — News (abs)
+      index: "https://www.jpl.nasa.gov/news"
+      base:  "https://www.jpl.nasa.gov"
+      prefix: "https://www.jpl.nasa.gov/news/"
+      limit: 8
+    - name: NASA JPL — News (rel)
+      index: "https://www.jpl.nasa.gov/news"
+      base:  "https://www.jpl.nasa.gov"
+      prefix: "/news/"
+      limit: 8
 
     - name: Agility Robotics
       index: "https://agilityrobotics.com/blog"
