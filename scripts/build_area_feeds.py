@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 Aggregate multiple sources per area and publish RSS, Atom, JSON.
-Outputs go to repo path: feeds/<area>.{xml,atom.xml,json}
-Config file: feeds.yaml  (editable list of sources per area)
+Outputs: feeds/<area>.xml, feeds/<area>.atom.xml, feeds/<area>.json
+Config:  feeds.yaml
 """
 
 import html, json, email.utils, yaml, requests, os
@@ -16,32 +16,69 @@ CONFIG = ROOT / "feeds.yaml"
 OUTDIR = ROOT / "feeds"
 OUTDIR.mkdir(exist_ok=True)
 
-USER_AGENT = "4thWaveAI-Aggregator/1.0 (+https://github.com/4thwaveai-feeds/4thwaveai-feeds)"
+# Browser-like headers to reduce 403/blocks
+HEADERS = {
+    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                   "AppleWebKit/537.36 (KHTML, like Gecko) "
+                   "Chrome/125.0.0.0 Safari/537.36 4thWaveAI-Feeds/1.3"),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.7",
+    "Connection": "keep-alive",
+    "Cache-Control": "no-cache",
+}
 
 def fetch(url):
-    r = requests.get(url, timeout=30, headers={"User-Agent": USER_AGENT})
+    r = requests.get(url, timeout=30, headers=HEADERS)
     r.raise_for_status()
     return r.text
 
-def pick_links(index_html, base, path_prefix, limit=20):
+def pick_links(index_html, base, preferred_prefix, limit=20):
+    """Pick article links on the same host; prefer prefix; fall back to common patterns."""
     soup = BeautifulSoup(index_html, "lxml")
-    out, seen = [], set()
-    for a in soup.select("a[href]"):
-        href = a.get("href", "").strip()
+    host = urlparse(base).netloc
+    seen, out = set(), []
+
+    def add_if_good(href):
         if not href:
-            continue
-        full = urljoin(base, href)
-        # keep links on same host and under the given prefix
-        if urlparse(full).netloc != urlparse(base).netloc:
-            continue
-        if path_prefix and path_prefix not in full:
-            continue
-        if full not in seen:
-            seen.add(full)
-            out.append(full)
-        if len(out) >= limit:
-            break
-    return out
+            return
+        full = urljoin(base, href.strip())
+        if urlparse(full).netloc != host:
+            return
+        if full in seen:
+            return
+        seen.add(full)
+        out.append(full)
+
+    # 1) Preferred prefix (from config)
+    if preferred_prefix:
+        for a in soup.select(f'a[href^="{preferred_prefix}"]'):
+            add_if_good(a.get("href"))
+            if len(out) >= limit: return out
+
+    # 2) Domain-specific fallbacks
+    patterns = []
+    if "nanowerk.com" in host:
+        patterns += ["/news2/"]
+    if "phys.org" in host:
+        patterns += ["/news/"]
+    if "sciencedaily.com" in host:
+        patterns += ["/releases/"]
+    if "news.mit.edu" in host or "berkeley.edu" in host:
+        patterns += ["/20"]  # year-prefixed paths like /2025/...
+
+    for p in patterns:
+        for a in soup.select(f'a[href^="{p}"]'):
+            add_if_good(a.get("href"))
+            if len(out) >= limit: return out
+
+    # 3) Generic fallback: any same-host link that looks like an article
+    for a in soup.select("a[href]"):
+        href = a.get("href", "")
+        if any(k in href for k in ("/news/", "/story/", "/releases/", "/202", "/20")):
+            add_if_good(href)
+            if len(out) >= limit: break
+
+    return out[:limit]
 
 def parse_article(url):
     try:
@@ -60,13 +97,15 @@ def parse_article(url):
         pubDate = None
         if pub and pub.get("content"):
             try:
+                from datetime import datetime
                 dt = datetime.fromisoformat(pub["content"].replace("Z", "+00:00"))
                 pubDate = email.utils.format_datetime(dt)
             except Exception:
-                pass
+                pubDate = None
 
         return {"title": title, "link": url, "guid": url, "description": description, "pubDate": pubDate}
-    except Exception:
+    except Exception as e:
+        print(f"Skip {url}: {e}")
         return None
 
 def build_rss(items, title, home_url):
@@ -140,6 +179,9 @@ def build_json(items, title, self_url, home_url):
 def main():
     cfg = yaml.safe_load(CONFIG.read_text(encoding="utf-8"))
     site_base = cfg.get("site_base", "https://4thwaveai-feeds.github.io/4thwaveai-feeds/")
+    home_url  = cfg.get("home_url", "https://4thwave.ai")
+    max_items = cfg.get("max_items_per_area", 60)
+
     for area, sources in cfg["areas"].items():
         collected = []
         for src in sources:
@@ -150,29 +192,33 @@ def main():
                     item = parse_article(u)
                     if item:
                         collected.append(item)
-            except Exception:
+            except Exception as e:
+                print(f"Source fail ({area}): {src.get('name', src['base'])} -> {e}")
                 continue
-        # de-dup by GUID and cap total
+
+        # de-dup
         seen, unique = set(), []
         for it in collected:
             if it["guid"] in seen: 
                 continue
             seen.add(it["guid"])
             unique.append(it)
-        unique = unique[: cfg.get("max_items_per_area", 60) ]
 
-        # paths + titles
+        unique = unique[:max_items]
         title = f"4thWave AI — {area.title()} (Aggregated)"
+
+        # If nothing parsed, DO NOT overwrite existing files (prevents empty feeds)
+        if not unique:
+            print(f"No items for area '{area}'; skipping write to preserve previous feed.")
+            continue
+
         rss_path  = OUTDIR / f"{area}.xml"
         atom_path = OUTDIR / f"{area}.atom.xml"
         json_path = OUTDIR / f"{area}.json"
 
-        rss_xml  = build_rss(unique, title, cfg.get("home_url", "https://4thwave.ai"))
-        atom_xml = build_atom(unique, title, site_base + f"feeds/{area}.atom.xml",
-                              cfg.get("home_url", "https://4thwave.ai"),
-                              f"urn:4thwaveai-feeds:{area}")
-        json_txt = build_json(unique, title, site_base + f"feeds/{area}.json",
-                              cfg.get("home_url", "https://4thwave.ai"))
+        rss_xml  = build_rss(unique, title, home_url)
+        atom_xml = build_atom(unique, title, site_base + f"feeds/{area}.atom.xml", home_url, f"urn:4thwaveai-feeds:{area}")
+        json_txt = build_json(unique, title, site_base + f"feeds/{area}.json", home_url)
 
         rss_path.write_text(rss_xml, encoding="utf-8")
         atom_path.write_text(atom_xml, encoding="utf-8")
