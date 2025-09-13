@@ -9,27 +9,30 @@ areas:
       base:  "https://deepmind.google"
       prefix: "/discover/blog/"
       limit: 10
+      
     - name: Anthropic
       index: "https://www.anthropic.com/news"
       base:  "https://www.anthropic.com"
       prefix: "/news/"
       limit: 10
+      
     - name: Google AI Blog
       index: "https://ai.googleblog.com/"
       base:  "https://ai.googleblog.com"
       prefix: "/"
       limit: 10
-  - name: Tesla AI & Robotics (abs)
-    index: "https://www.tesla.com/AI"
-    base:  "https://www.tesla.com"
-    prefix: "https://www.tesla.com/AI"
-    limit: 6
+      
+    - name: Tesla AI & Robotics (abs)
+      index: "https://www.tesla.com/AI"
+      base:  "https://www.tesla.com"
+      prefix: "https://www.tesla.com/AI"
+      limit: 6
 
-  - name: Tesla AI & Robotics (rel)
-    index: "https://www.tesla.com/AI"
-    base:  "https://www.tesla.com"
-    prefix: "/AI"
-    limit: 6
+    - name: Tesla AI & Robotics (rel)
+      index: "https://www.tesla.com/AI"
+      base:  "https://www.tesla.com"
+      prefix: "/AI"
+      limit: 6
 
   robotics:
     - name: Boston Dynamics
