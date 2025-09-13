@@ -161,7 +161,7 @@ areas:
       prefix: "/blog/"
       limit: 12
 
-        - name: NASA News — Releases (abs)
+    - name: NASA News — Releases (abs)
       index: "https://www.nasa.gov/news/"
       base:  "https://www.nasa.gov"
       prefix: "https://www.nasa.gov/news-release/"
