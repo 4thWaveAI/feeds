@@ -36,13 +36,13 @@ areas:
       index: "https://www.anthropic.com/news"
       base:  "https://www.anthropic.com"
       prefix: "/news/"
-      limit: 10
+      limit: 6
 
     - name: Google AI Blog
       index: "https://ai.googleblog.com/"
       base:  "https://ai.googleblog.com"
       prefix: "/"
-      limit: 10
+      limit: 6
 
     - name: Tesla AI & Robotics (abs)
       index: "https://www.tesla.com/AI"
