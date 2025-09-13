@@ -65,6 +65,54 @@
       "content_text": "Today we are announcing Genie 3, a general purpose world model that can generate an unprecedented diversity of interactive environments. Given a text prompt, Genie 3 can generate dynamic worlds..."
     },
     {
+      "id": "https://www.nasa.gov/news-release/nasa-awards-third-glenn-facility-and-engineering-services-contract/",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-third-glenn-facility-and-engineering-services-contract/",
+      "title": "NASA Awards Third Glenn Facility and Engineering Services Contract - NASA",
+      "content_text": "NASA has selected Troy Sierra JV, LLC of Huntsville, Alabama, to provide engineering, research, and scientific support at the agency’s Glenn Research Center"
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-armstrong-to-host-partnership-day-oct-21-22/",
+      "url": "https://www.nasa.gov/news-release/nasa-armstrong-to-host-partnership-day-oct-21-22/",
+      "title": "NASA Armstrong to Host Partnership Day Oct. 21-22 - NASA",
+      "content_text": "NASA’s Armstrong Flight Research Center in Edwards, California, invites innovative companies, government agencies, and organizations to attend Partnership"
+    },
+    {
+      "id": "https://www.nasa.gov/news/",
+      "url": "https://www.nasa.gov/news/",
+      "title": "NASA News",
+      "content_text": "Resources for news media, including NASA news contacts and archived news material"
+    },
+    {
+      "id": "https://www.nasa.gov/2025-news-releases/",
+      "url": "https://www.nasa.gov/2025-news-releases/",
+      "title": "2025 News Releases - NASA",
+      "content_text": "Sign up to receive NASA news releases and other information."
+    },
+    {
+      "id": "https://www.nasa.gov/news/recently-published/",
+      "url": "https://www.nasa.gov/news/recently-published/",
+      "title": "All NASA News - NASA",
+      "content_text": "Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet."
+    },
+    {
+      "id": "https://www.nasa.gov/news/media-contacts/",
+      "url": "https://www.nasa.gov/news/media-contacts/",
+      "title": "NASA Media Contacts - NASA",
+      "content_text": "Media Contacts Roxana Bardan Mars Sample Return 771-200-7217 Gerelle Dodson NASA Workforce, STEM Engagement 202-358-1600 Jennifer Dooren Deputy News Chief,"
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2025/09/12/space-cargo-out-for-delivery-days-before-next-resupply-mission-launches/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2025/09/12/space-cargo-out-for-delivery-days-before-next-resupply-mission-launches/",
+      "title": "Space Cargo Out for Delivery Days Before Next Resupply Mission Launches - NASA",
+      "content_text": "One cargo spacecraft is orbiting Earth toward the International Space Station while another stands at its launch pad counting down to a lift off on Sunday to continue resupplying the Expedition 73 crew. The orbital residents will be preparing for the dual cargo missions while keeping up cardiac and bone research over the weekend."
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2025/09/11/progress-93-cargo-craft-lifts-off-to-resupply-station-crew/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2025/09/11/progress-93-cargo-craft-lifts-off-to-resupply-station-crew/",
+      "title": "Progress 93 Cargo Craft Lifts Off to Resupply Station Crew - NASA",
+      "content_text": "The unpiloted Roscosmos Progress 93 spacecraft is safely in orbit, headed for the International Space Station following its launch at 11:54 a.m. EDT (8:54 p.m. Baikonur time) on a Soyuz rocket from the Baikonur Cosmodrome in Kazakhstan."
+    },
+    {
       "id": "https://www.anthropic.com/news/claude-opus-4-1",
       "url": "https://www.anthropic.com/news/claude-opus-4-1",
       "title": "Claude Opus 4.1",
@@ -99,30 +147,6 @@
       "url": "https://www.anthropic.com/news/memory",
       "title": "Claude introduces memory for teams at work",
       "content_text": "Claude now remembers your team's projects and preferences across conversations. Memory helps maintain context for complex work, with project-specific boundaries and full user control over what's remembered."
-    },
-    {
-      "id": "https://www.anthropic.com/news/create-files",
-      "url": "https://www.anthropic.com/news/create-files",
-      "title": "Claude can now create and use files",
-      "content_text": "Claude can now create and edit Excel spreadsheets, documents, PowerPoint slide decks, and PDFs directly in Claude.ai and the desktop app."
-    },
-    {
-      "id": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53",
-      "url": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53",
-      "title": "Anthropic is endorsing SB 53",
-      "content_text": "Anthropic is endorsing SB 53, the California bill that governs powerful AI systems built by frontier AI developers like Anthropic."
-    },
-    {
-      "id": "https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions",
-      "url": "https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions",
-      "title": "Updating restrictions of sales to unsupported regions",
-      "content_text": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "id": "https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education",
-      "url": "https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education",
-      "title": "Anthropic joins White House pledge for AI education",
-      "content_text": "Anthropic signs White House pledge investing in AI education for America's youth, supporting AI students and educators nationwide"
     },
     {
       "id": "https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference",
@@ -339,30 +363,6 @@
       "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/transport-and-logistics/",
       "title": "Transport and logistics - Microsoft Industry Blogs",
       "content_text": "Read the latest news and posts about Transport and logistics from Microsoft's team of experts at Microsoft Industry Blogs."
-    },
-    {
-      "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/19/unlocking-the-potential-of-manufacturing-with-cloud-modernization/",
-      "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/19/unlocking-the-potential-of-manufacturing-with-cloud-modernization/",
-      "title": "Unlocking the potential of manufacturing with cloud modernization - Microsoft Industry Blogs",
-      "content_text": "Uncover how manufacturers use AI and cloud to optimize operations, accelerate R&D, and deliver real business value. Learn more."
-    },
-    {
-      "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/07/embracing-ai-powered-operations-a-maturity-path-for-manufacturers/",
-      "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/07/embracing-ai-powered-operations-a-maturity-path-for-manufacturers/",
-      "title": "Embracing AI-powered operations: A maturity path for manufacturers - Microsoft Industry Blogs",
-      "content_text": "Discover how manufacturers are embracing AI to boost efficiency, resilience, and innovation with Microsoft’s guidance. Learn more."
-    },
-    {
-      "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/28/ai-in-process-manufacturing-from-operational-gains-to-strategic-advantage/",
-      "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/28/ai-in-process-manufacturing-from-operational-gains-to-strategic-advantage/",
-      "title": "AI in process manufacturing: From operational gains to strategic advantage - Microsoft Industry Blogs",
-      "content_text": "Explore insights into how manufacturers prioritize technology and where AI fits by reading the report \"Artificial Intelligence in Process Manufacturing.\""
-    },
-    {
-      "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/05/creating-a-resilient-supply-chain-using-connected-data-chains/",
-      "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/05/creating-a-resilient-supply-chain-using-connected-data-chains/",
-      "title": "Creating a resilient supply chain using connected data chains - Microsoft Industry Blogs",
-      "content_text": "Explore how Microsoft is enabling companies to easily navigate complexities and use technology with connected data chains and AI."
     }
   ]
 }
