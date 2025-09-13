@@ -70,6 +70,78 @@ areas:
     prefix: "/blog/"
     limit: 10
 
+    - name: Palladyne AI Blog (abs)
+    index: "https://www.palladyneai.com/blog/"
+    base:  "https://www.palladyneai.com"
+    prefix: "https://www.palladyneai.com/blog/"
+    limit: 10
+    
+  - name: Palladyne AI Blog (rel)
+    index: "https://www.palladyneai.com/blog/"
+    base:  "https://www.palladyneai.com"
+    prefix: "/blog/"
+    limit: 10
+
+  - name: OpenAI News (abs)
+    index: "https://openai.com/news/"
+    base:  "https://openai.com"
+    prefix: "https://openai.com/news/"
+    limit: 10
+    
+  - name: OpenAI News (rel)
+    index: "https://openai.com/news/"
+    base:  "https://openai.com"
+    prefix: "/news/"
+    limit: 10
+
+  - name: Microsoft Industry — Manufacturing & Mobility (abs)
+    index: "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/"
+    base:  "https://www.microsoft.com"
+    prefix: "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/"
+    limit: 10
+    
+  - name: Microsoft Industry — Manufacturing & Mobility (rel)
+    index: "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/"
+    base:  "https://www.microsoft.com"
+    prefix: "/en-us/industry/blog/manufacturing-and-mobility/"
+    limit: 10
+
+  - name: IBM Think — AI in Manufacturing (abs)
+    index: "https://www.ibm.com/think/topics/ai-in-manufacturing"
+    base:  "https://www.ibm.com"
+    prefix: "https://www.ibm.com/think/"
+    limit: 10
+    
+  - name: IBM Think — AI in Manufacturing (rel)
+    index: "https://www.ibm.com/think/topics/ai-in-manufacturing"
+    base:  "https://www.ibm.com"
+    prefix: "/think/"
+    limit: 10
+
+  - name: Siemens — Industrial AI (abs)
+    index: "https://www.siemens.com/us/en/company/topic-areas/industrial-ai.html"
+    base:  "https://www.siemens.com"
+    prefix: "https://www.siemens.com/us/en/company/topic-areas/industrial-ai"
+    limit: 10
+    
+  - name: Siemens — Industrial AI (rel)
+    index: "https://www.siemens.com/us/en/company/topic-areas/industrial-ai.html"
+    base:  "https://www.siemens.com"
+    prefix: "/us/en/company/topic-areas/industrial-ai"
+    limit: 10
+
+  - name: C3.ai News (abs)
+    index: "https://c3.ai/news/"
+    base:  "https://c3.ai"
+    prefix: "https://c3.ai/news/"
+    limit: 10
+    
+  - name: C3.ai News (rel)
+    index: "https://c3.ai/news/"
+    base:  "https://c3.ai"
+    prefix: "/news/"
+    limit: 10
+
   robotics:
     - name: Boston Dynamics
       index: "https://bostondynamics.com/blog/"
@@ -106,6 +178,54 @@ areas:
     base:  "https://www.figure.ai"
     prefix: "/news"
     limit: 8
+
+     - name: Agility Robotics Press (abs)
+    index: "https://www.agilityrobotics.com/about/press"
+    base:  "https://www.agilityrobotics.com"
+    prefix: "https://www.agilityrobotics.com/about/press"
+    limit: 8
+    
+  - name: Agility Robotics Press (rel)
+    index: "https://www.agilityrobotics.com/about/press"
+    base:  "https://www.agilityrobotics.com"
+    prefix: "/about/press"
+    limit: 8
+
+  - name: Milrem Robotics News (abs)
+    index: "https://milremrobotics.com/news/"
+    base:  "https://milremrobotics.com"
+    prefix: "https://milremrobotics.com/news/"
+    limit: 10
+    
+  - name: Milrem Robotics News (rel)
+    index: "https://milremrobotics.com/news/"
+    base:  "https://milremrobotics.com"
+    prefix: "/news/"
+    limit: 10
+
+  - name: Unitree Open Source (abs)
+    index: "https://www.unitree.com/opensource"
+    base:  "https://www.unitree.com"
+    prefix: "https://www.unitree.com/opensource"
+    limit: 6
+    
+  - name: Unitree Open Source (rel)
+    index: "https://www.unitree.com/opensource"
+    base:  "https://www.unitree.com"
+    prefix: "/opensource"
+    limit: 6
+
+  - name: Unitree News (abs)
+    index: "https://www.unitree.com/news"
+    base:  "https://www.unitree.com"
+    prefix: "https://www.unitree.com/news"
+    limit: 10
+    
+  - name: Unitree News (rel)
+    index: "https://www.unitree.com/news"
+    base:  "https://www.unitree.com"
+    prefix: "/news"
+    limit: 10
 
   quantum:
     - name: IBM Quantum Blog
