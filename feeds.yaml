@@ -56,12 +56,12 @@ areas:
       prefix: "/blog/"
       limit: 10
 
-nanotech:
+  nanotech:
   - name: MIT News — Nanotechnology
     index: "https://news.mit.edu/topic/nanotechnology"
     base:  "https://news.mit.edu"
     prefix: "/"
-    limit: 10
+    limit: 12
 
   - name: Nanowerk — Latest Nanotechnology News
     index: "https://www.nanowerk.com/"
@@ -73,16 +73,16 @@ nanotech:
     index: "https://phys.org/nanotech-news/"
     base:  "https://phys.org"
     prefix: "/news/"
-    limit: 10
+    limit: 12
 
   - name: ScienceDaily — Nanotechnology
     index: "https://www.sciencedaily.com/news/matter_energy/nanotechnology/"
     base:  "https://www.sciencedaily.com"
     prefix: "/releases/"
-    limit: 10
+    limit: 12
 
   - name: Berkeley News — Nanotechnology
     index: "https://news.berkeley.edu/tag/nanotechnology/"
     base:  "https://news.berkeley.edu"
     prefix: "/"
-    limit: 8
+    limit: 10
