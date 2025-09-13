@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/robotics.atom.xml"/>
   <id>urn:4thwaveai-feeds:robotics</id>
-  <updated>Sat, 13 Sep 2025 00:45:03 +0000</updated>
+  <updated>Sat, 13 Sep 2025 02:08:24 +0000</updated>
   <entry>
     <title>News | Boston Dynamics</title>
     <link href="https://bostondynamics.com/news/"/>
@@ -16,5 +16,149 @@
     <link href="https://bostondynamics.com/news/#press-form"/>
     <id>https://bostondynamics.com/news/#press-form</id>
     <summary type="html"><![CDATA[Discover the latest news about Boston Dynamics and stay up to date with what we’ve been working on. Explore product news, media coverage, and more.]]></summary>
+  </entry>
+  <entry>
+    <title>Anduril</title>
+    <link href="https://www.anduril.com/newsroom/"/>
+    <id>https://www.anduril.com/newsroom/</id>
+    <summary type="html"><![CDATA[Transforming US & allied military capabilities with advanced technology.]]></summary>
+  </entry>
+  <entry>
+    <title>Helix Loads the Dishwasher</title>
+    <link href="https://www.figure.ai/news/helix-loads-the-dishwasher"/>
+    <id>https://www.figure.ai/news/helix-loads-the-dishwasher</id>
+    <summary type="html"><![CDATA[Helix Loads the Dishwasher]]></summary>
+  </entry>
+  <entry>
+    <title>Scaling Helix: a New State of the Art in Humanoid Logistics</title>
+    <link href="https://www.figure.ai/news/scaling-helix-logistics"/>
+    <id>https://www.figure.ai/news/scaling-helix-logistics</id>
+    <summary type="html"><![CDATA[Scaling Helix: a New State of the Art in Humanoid Logistics]]></summary>
+  </entry>
+  <entry>
+    <title>BotQ: A High-Volume Manufacturing Facility for Humanoid Robots</title>
+    <link href="https://www.figure.ai/news/botq"/>
+    <id>https://www.figure.ai/news/botq</id>
+    <summary type="html"><![CDATA[Introducing BotQ, Figure’s new high-volume manufacturing facility for humanoid robots.]]></summary>
+  </entry>
+  <entry>
+    <title>Helix Learns to Fold Laundry</title>
+    <link href="https://www.figure.ai/news/helix-learns-to-fold-laundry"/>
+    <id>https://www.figure.ai/news/helix-learns-to-fold-laundry</id>
+    <summary type="html"><![CDATA[Helix Learns to Fold Laundry]]></summary>
+  </entry>
+  <entry>
+    <title>F.03 Battery Development</title>
+    <link href="https://www.figure.ai/news/f-03-battery-development"/>
+    <id>https://www.figure.ai/news/f-03-battery-development</id>
+    <summary type="html"><![CDATA[F.03 Battery Development]]></summary>
+  </entry>
+  <entry>
+    <title>Natural Humanoid Walk Using Reinforcement Learning</title>
+    <link href="https://www.figure.ai/news/reinforcement-learning-walking"/>
+    <id>https://www.figure.ai/news/reinforcement-learning-walking</id>
+    <summary type="html"><![CDATA[Natural Humanoid Walk Using Reinforcement Learning]]></summary>
+  </entry>
+  <entry>
+    <title>Helix Accelerating Real-World Logistics</title>
+    <link href="https://www.figure.ai/news/helix-logistics"/>
+    <id>https://www.figure.ai/news/helix-logistics</id>
+    <summary type="html"><![CDATA[Figure is introducing a new real-world application for Figure robots on the back of advancements from Helix: logistics package manipulation and triaging.]]></summary>
+  </entry>
+  <entry>
+    <title>Helix: A Vision-Language-Action Model for Generalist Humanoid Control</title>
+    <link href="https://www.figure.ai/news/helix"/>
+    <id>https://www.figure.ai/news/helix</id>
+    <summary type="html"><![CDATA[Figure was founded with the ambition to change the world.]]></summary>
+  </entry>
+  <entry>
+    <title>News | Figure</title>
+    <link href="https://www.figure.ai/news"/>
+    <id>https://www.figure.ai/news</id>
+    <summary type="html"><![CDATA[We’re bringing the humanoid to life. Join us.]]></summary>
+  </entry>
+  <entry>
+    <title>Agility Robotics - News &amp; Media</title>
+    <link href="https://www.agilityrobotics.com/about/press"/>
+    <id>https://www.agilityrobotics.com/about/press</id>
+    <summary type="html"><![CDATA[A significant step forward in our deep technical collaboration.]]></summary>
+  </entry>
+  <entry>
+    <title>News - Milrem</title>
+    <link href="https://milremrobotics.com/news/"/>
+    <id>https://milremrobotics.com/news/</id>
+    <summary type="html"><![CDATA[11/09/2025]]></summary>
+  </entry>
+  <entry>
+    <title>News - Page 2 of 20 - Milrem</title>
+    <link href="https://milremrobotics.com/news/page/2/"/>
+    <id>https://milremrobotics.com/news/page/2/</id>
+    <summary type="html"><![CDATA[03/04/2025]]></summary>
+  </entry>
+  <entry>
+    <title>News - Page 3 of 20 - Milrem</title>
+    <link href="https://milremrobotics.com/news/page/3/"/>
+    <id>https://milremrobotics.com/news/page/3/</id>
+    <summary type="html"><![CDATA[11/02/2025]]></summary>
+  </entry>
+  <entry>
+    <title>News - Page 20 of 20 - Milrem</title>
+    <link href="https://milremrobotics.com/news/page/20/"/>
+    <id>https://milremrobotics.com/news/page/20/</id>
+    <summary type="html"><![CDATA[03/03/2017]]></summary>
+  </entry>
+  <entry>
+    <title>Official Open Source - Unitree Robotics</title>
+    <link href="https://www.unitree.com/opensource"/>
+    <id>https://www.unitree.com/opensource</id>
+    <summary type="html"><![CDATA[Robots]]></summary>
+  </entry>
+  <entry>
+    <title>https://www.unitree.com/news/31</title>
+    <link href="https://www.unitree.com/news/31"/>
+    <id>https://www.unitree.com/news/31</id>
+    <summary type="html"><![CDATA[Robots]]></summary>
+  </entry>
+  <entry>
+    <title>https://www.unitree.com/news/33</title>
+    <link href="https://www.unitree.com/news/33"/>
+    <id>https://www.unitree.com/news/33</id>
+    <summary type="html"><![CDATA[Robots]]></summary>
+  </entry>
+  <entry>
+    <title>https://www.unitree.com/news/29</title>
+    <link href="https://www.unitree.com/news/29"/>
+    <id>https://www.unitree.com/news/29</id>
+    <summary type="html"><![CDATA[Robots]]></summary>
+  </entry>
+  <entry>
+    <title>https://www.unitree.com/news/27</title>
+    <link href="https://www.unitree.com/news/27"/>
+    <id>https://www.unitree.com/news/27</id>
+    <summary type="html"><![CDATA[Robots]]></summary>
+  </entry>
+  <entry>
+    <title>https://www.unitree.com/news/26</title>
+    <link href="https://www.unitree.com/news/26"/>
+    <id>https://www.unitree.com/news/26</id>
+    <summary type="html"><![CDATA[Robots]]></summary>
+  </entry>
+  <entry>
+    <title>https://www.unitree.com/news/25</title>
+    <link href="https://www.unitree.com/news/25"/>
+    <id>https://www.unitree.com/news/25</id>
+    <summary type="html"><![CDATA[Robots]]></summary>
+  </entry>
+  <entry>
+    <title>https://www.unitree.com/news/24</title>
+    <link href="https://www.unitree.com/news/24"/>
+    <id>https://www.unitree.com/news/24</id>
+    <summary type="html"><![CDATA[Robots]]></summary>
+  </entry>
+  <entry>
+    <title>News Center - Unitree Robotics</title>
+    <link href="https://www.unitree.com/news"/>
+    <id>https://www.unitree.com/news</id>
+    <summary type="html"><![CDATA[Robots]]></summary>
   </entry>
 </feed>

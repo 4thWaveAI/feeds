@@ -123,6 +123,246 @@
       "url": "https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education",
       "title": "Anthropic joins White House pledge for AI education",
       "content_text": "Anthropic signs White House pledge investing in AI education for America's youth, supporting AI students and educators nationwide"
+    },
+    {
+      "id": "https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference",
+      "title": "NVIDIA Unveils Rubin CPX: A New Class of GPU Designed for Massive-Context Inference",
+      "content_text": "NVIDIA® today announced NVIDIA Rubin CPX, a new class of GPU purpose-built for massive-context processing. This enables AI systems to handle million-token software coding and generative video with groundbreaking speed and efficiency."
+    },
+    {
+      "id": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2026",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2026",
+      "title": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2026",
+      "content_text": "NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 27, 2025, of $46.7 billion, up 6% from the previous quarter and up 56% from a year ago. NVIDIA’s Blackwell Data Center revenue grew 17% sequentially."
+    },
+    {
+      "id": "https://nvidianews.nvidia.com/news/industry-leaders-transform-enterprise-data-centers-for-the-ai-era-with-nvidia-rtx-pro-servers",
+      "url": "https://nvidianews.nvidia.com/news/industry-leaders-transform-enterprise-data-centers-for-the-ai-era-with-nvidia-rtx-pro-servers",
+      "title": "Industry Leaders Transform Enterprise Data Centers for the AI Era With NVIDIA RTX PRO Servers",
+      "content_text": "NVIDIA today announced leading global enterprises have adopted NVIDIA RTX PRO™ Servers — a new category of enterprise data center infrastructure powered by the RTX PRO 6000 Blackwell Server Edition GPU — speeding the shift from general-purpose computing clusters to AI factory infrastructure, without a complete data center overhaul."
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/ai-factories-reference-design/",
+      "url": "https://blogs.nvidia.com/blog/ai-factories-reference-design/",
+      "title": "NVIDIA Partners With AI Infrastructure Ecosystem to Unveil Reference Design for Giga-Scale AI Factories",
+      "content_text": "At this week’s AI Infrastructure Summit in Silicon Valley, NVIDIA’s VP of Accelerated Computing Ian Buck unveiled a bold new vision: the transformation of traditional data centers into fully integrated AI factories. As part of this initiative, NVIDIA is developing reference designs to be shared with partners and enterprises worldwide — offering an NVIDIA Omniverse  Read Article"
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/corporate/",
+      "url": "https://blogs.nvidia.com/blog/category/corporate/",
+      "title": "Corporate Archives",
+      "content_text": "NVIDIA Corporate Blog Post Archive"
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputer-live/",
+      "url": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputer-live/",
+      "title": "Now Live: Europe’s First Exascale Supercomputer, JUPITER, Accelerates Climate Research, Neuroscience, Quantum Simulation",
+      "content_text": "At JUPITER’s inauguration ceremony in Jülich, attended by Germany Chancellor Friedrich Merz, the Jülich Supercomputing Centre and NVIDIA unveiled ways the supercomputer is already spurring innovation across the world."
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/enterprise/",
+      "url": "https://blogs.nvidia.com/blog/category/enterprise/",
+      "title": "Data Center Archives",
+      "content_text": "At this week’s IAA Mobility conference in Munich, NVIDIA Vice President of Automotive Ali Kani outlined how cloud-to-car… Read Article"
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/jetson-thor-physical-ai-edge/",
+      "url": "https://blogs.nvidia.com/blog/jetson-thor-physical-ai-edge/",
+      "title": "NVIDIA Jetson Thor Unlocks Real-Time Reasoning for General Robotics and Physical AI",
+      "content_text": "Designed for millions of robotic developers, NVIDIA Jetson Thor delivers 2,070 FP4 teraflops to tackle complex applications including agentic AI, high-speed sensor processing and general robotics tasks."
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/robotics/",
+      "url": "https://blogs.nvidia.com/blog/category/robotics/",
+      "title": "Robotics Archives",
+      "content_text": "AI models are advancing at a rapid rate and scale. But what might they lack that (most) humans… Read Article"
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "url": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "title": "Generative AI Archives",
+      "content_text": "ComfyUI — an open-source, node-based graphical interface for running and building generative AI workflows for content creation —… Read Article"
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/auto/",
+      "url": "https://blogs.nvidia.com/blog/category/auto/",
+      "title": "Driving Archives",
+      "content_text": "At this week’s IAA Mobility conference in Munich, NVIDIA Vice President of Automotive Ali Kani outlined how cloud-to-car… Read Article"
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/gaming/",
+      "url": "https://blogs.nvidia.com/blog/category/gaming/",
+      "title": "Gaming Archives",
+      "content_text": "GeForce NOW Blackwell RTX 5080-class SuperPODs are now rolling out, unlocking a new level of ultra high-performance, cinematic… Read Article"
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/pro-graphics/",
+      "url": "https://blogs.nvidia.com/blog/category/pro-graphics/",
+      "title": "Pro Graphics Archives",
+      "content_text": "Editor’s note: This blog is a part of Into the Omniverse, a series focused on how developers, 3D… Read Article"
+    },
+    {
+      "id": "https://blogs.nvidia.com/wp-content/uploads/2025/08/automotive-comms-drive-agx-thor-1280x680-1.mp4",
+      "url": "https://blogs.nvidia.com/wp-content/uploads/2025/08/automotive-comms-drive-agx-thor-1280x680-1.mp4",
+      "title": "https://blogs.nvidia.com/wp-content/uploads/2025/08/automotive-comms-drive-agx-thor-1280x680-1.mp4",
+      "content_text": "��qe}s��N��*Rw\u001a��5��\u0011�GG�'� �1��\u0006KűtK�k�#��w�\u0012����M\u0011�9Z�\u001eʗ��\u0019�d\u0007�Q�Z�\u0005�ʱ`)@��|Fɾ�s��8�\u0005mqm<���fI܌*\u0014'��\n뤖�\u0017��φA���On�o�AbM}��~�R�2,\u001c�ZN+���b�\u0003)�w35uі\u0019�&2�������\u000e\nf���H��x���N��$\u001a�\u001d�7#\u0017�\u001cok��eT���x�հ\u00077䕄T-0nEI�x\u001d���u�^�\n�\u0010\u000f\n�#�\u0019�uU\u001d!\"3��\u0003|z��W�\u0017\u0002�Y�jh܋~nd����Q1C} X�ڟ��\u0018O\"<��N2]�O�_w\t�\u0012v,��%�[�\u0017����,�\u001d\u001f���]�7�<�\u0005\n�\fs{\u001eK�DY+J�\u0002�ع\u001c��h��.?��n1\u001d�\u0017@*LK���D<\u0001���\u0016�ݸϏu�\u0010=��\u001ea�v8� }��#�2��������Z�'L�JK�Oud\u0005\u0010�\u001e"
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/category/data-center-cloud/",
+      "url": "https://developer.nvidia.com/blog/category/data-center-cloud/",
+      "title": "Category: Data Center / Cloud | NVIDIA Technical Blog",
+      "content_text": ""
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/nvidia-blackwell-ultra-sets-new-inference-records-in-mlperf-debut/",
+      "url": "https://developer.nvidia.com/blog/nvidia-blackwell-ultra-sets-new-inference-records-in-mlperf-debut/",
+      "title": "NVIDIA Blackwell Ultra Sets New Inference Records in MLPerf Debut | NVIDIA Technical Blog",
+      "content_text": "As large language models (LLMs) grow larger, they get smarter, with open models from leading developers now featuring hundreds of billions of parameters. At the same time, today’s leading models are…"
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/category/generative-ai/",
+      "url": "https://developer.nvidia.com/blog/category/generative-ai/",
+      "title": "Category: Generative AI | NVIDIA Technical Blog",
+      "content_text": ""
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/nvidia-rubin-cpx-accelerates-inference-performance-and-efficiency-for-1m-token-context-workloads/",
+      "url": "https://developer.nvidia.com/blog/nvidia-rubin-cpx-accelerates-inference-performance-and-efficiency-for-1m-token-context-workloads/",
+      "title": "NVIDIA Rubin CPX Accelerates Inference Performance and Efficiency for 1M+ Token Context Workloads | NVIDIA Technical Blog",
+      "content_text": "Inference has emerged as the new frontier of complexity in AI. Modern models are evolving into agentic systems capable of multi-step reasoning, persistent memory, and long-horizon context—enabling…"
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/category/deployment/",
+      "url": "https://developer.nvidia.com/blog/category/deployment/",
+      "title": "Category: AI Platforms / Deployment | NVIDIA Technical Blog",
+      "content_text": ""
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/how-small-language-models-are-key-to-scalable-agentic-ai/",
+      "url": "https://developer.nvidia.com/blog/how-small-language-models-are-key-to-scalable-agentic-ai/",
+      "title": "How Small Language Models Are Key to Scalable Agentic AI | NVIDIA Technical Blog",
+      "content_text": "The rapid rise of agentic AI has reshaped how enterprises, developers, and entire industries think about automation and digital productivity. From software development workflows to enterprise process…"
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/nvfp4-trains-with-precision-of-16-bit-and-speed-and-efficiency-of-4-bit/",
+      "url": "https://developer.nvidia.com/blog/nvfp4-trains-with-precision-of-16-bit-and-speed-and-efficiency-of-4-bit/",
+      "title": "NVFP4 Trains with Precision of 16-Bit and Speed and Efficiency of 4-Bit | NVIDIA Technical Blog",
+      "content_text": "In recent years, AI workloads have grown exponentially—not only in the deployment of large language models (LLMs) but also in the demand to process ever more tokens during pretraining and post…"
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/category/robotics/",
+      "url": "https://developer.nvidia.com/blog/category/robotics/",
+      "title": "Category: Robotics | NVIDIA Technical Blog",
+      "content_text": ""
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/introducing-nvidia-jetson-thor-the-ultimate-platform-for-physical-ai/",
+      "url": "https://developer.nvidia.com/blog/introducing-nvidia-jetson-thor-the-ultimate-platform-for-physical-ai/",
+      "title": "Introducing NVIDIA Jetson Thor, the Ultimate Platform for Physical AI | NVIDIA Technical Blog",
+      "content_text": "Robotics is undergoing a revolution, moving beyond the era of specialist machines to generalist robotics. This shift moves away from single-purpose, fixed-function robots toward adaptable robots…"
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/recent-posts/",
+      "url": "https://developer.nvidia.com/blog/recent-posts/",
+      "title": "Recent posts",
+      "content_text": "News and tutorials for developers, scientists, and IT admins"
+    },
+    {
+      "id": "https://www.palladyneai.com/blog/",
+      "url": "https://www.palladyneai.com/blog/",
+      "title": "Blog",
+      "content_text": "Tackling the growing demand for automation with AI-driven robotics Surface technology companies stand at a pivotal crossroads. 2025 will be a year of strong growth for the surface finishing market as demands…"
+    },
+    {
+      "id": "https://www.palladyneai.com/blog/unlocking-the-future-of-surface-finishing-with-ai-powered-adaptive-robotics/",
+      "url": "https://www.palladyneai.com/blog/unlocking-the-future-of-surface-finishing-with-ai-powered-adaptive-robotics/",
+      "title": "Unlocking the Future of Surface Finishing with AI-Powered Adaptive Robotics",
+      "content_text": "Discover how AI software is revolutionizing surface finishing by tackling labor shortages, increasing consistency, and accelerating automation."
+    },
+    {
+      "id": "https://www.palladyneai.com/blog/time-to-value-speeds-up-with-emerging-ai-enabled-robotics-automation/",
+      "url": "https://www.palladyneai.com/blog/time-to-value-speeds-up-with-emerging-ai-enabled-robotics-automation/",
+      "title": "Time-to-Value Speeds Up with Emerging AI-Enabled Robotics Automation",
+      "content_text": "ABI Research report explores how AI-enabled robotics automation with a human element boosts manufacturing."
+    },
+    {
+      "id": "https://www.palladyneai.com/blog/enhancing-mro-and-remanufacturing-work-processes-with-ai/",
+      "url": "https://www.palladyneai.com/blog/enhancing-mro-and-remanufacturing-work-processes-with-ai/",
+      "title": "Enhancing MRO and Remanufacturing Work Processes with AI",
+      "content_text": "Implementing Palladyne IQ robotic AI software can help autonomously manage component cleaning, prepare surfaces for the next production stage, and enhance the overall production process across MRO, remanufacturing, and other industries."
+    },
+    {
+      "id": "https://www.palladyneai.com/blog/speeding-robotics-automation-with-ai/",
+      "url": "https://www.palladyneai.com/blog/speeding-robotics-automation-with-ai/",
+      "title": "Speeding Robotics Automation with AI",
+      "content_text": "ABI Research report explores AI-enabled robotics automation"
+    },
+    {
+      "id": "https://www.palladyneai.com/blog/how-autonomous-ai-tackles-quality-control-costs/",
+      "url": "https://www.palladyneai.com/blog/how-autonomous-ai-tackles-quality-control-costs/",
+      "title": "How Autonomous AI Tackles Quality Control Costs",
+      "content_text": "Palladyne IQ robotic AI software helps automate inspection and streamline production across many industries."
+    },
+    {
+      "id": "https://www.palladyneai.com/blog/physical-ai-embracing-ais-moment-in-robotics/",
+      "url": "https://www.palladyneai.com/blog/physical-ai-embracing-ais-moment-in-robotics/",
+      "title": "Physical AI: Embracing AI’s Moment in Robotics",
+      "content_text": "The rise of physical AI is having its breakthrough moment, like ChatGPT did in language processing in 2022. Read more."
+    },
+    {
+      "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/automotive/",
+      "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/automotive/",
+      "title": "Automotive - Microsoft Industry Blogs",
+      "content_text": "Read the latest news and posts about Automotive from Microsoft's team of experts at Microsoft Industry Blogs."
+    },
+    {
+      "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/",
+      "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/",
+      "title": "Manufacturing - Microsoft Industry Blogs",
+      "content_text": "Read the latest news and posts about Manufacturing from Microsoft's team of experts at Microsoft Industry Blogs."
+    },
+    {
+      "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/mobility/",
+      "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/mobility/",
+      "title": "Mobility - Microsoft Industry Blogs",
+      "content_text": "Read the latest news and posts about Mobility from Microsoft's team of experts at Microsoft Industry Blogs."
+    },
+    {
+      "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/travel/",
+      "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/travel/",
+      "title": "Travel - Microsoft Industry Blogs",
+      "content_text": "Read the latest news and posts about Travel from Microsoft's team of experts at Microsoft Industry Blogs."
+    },
+    {
+      "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/transport-and-logistics/",
+      "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/transport-and-logistics/",
+      "title": "Transport and logistics - Microsoft Industry Blogs",
+      "content_text": "Read the latest news and posts about Transport and logistics from Microsoft's team of experts at Microsoft Industry Blogs."
+    },
+    {
+      "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/19/unlocking-the-potential-of-manufacturing-with-cloud-modernization/",
+      "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/19/unlocking-the-potential-of-manufacturing-with-cloud-modernization/",
+      "title": "Unlocking the potential of manufacturing with cloud modernization - Microsoft Industry Blogs",
+      "content_text": "Uncover how manufacturers use AI and cloud to optimize operations, accelerate R&D, and deliver real business value. Learn more."
+    },
+    {
+      "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/07/embracing-ai-powered-operations-a-maturity-path-for-manufacturers/",
+      "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/07/embracing-ai-powered-operations-a-maturity-path-for-manufacturers/",
+      "title": "Embracing AI-powered operations: A maturity path for manufacturers - Microsoft Industry Blogs",
+      "content_text": "Discover how manufacturers are embracing AI to boost efficiency, resilience, and innovation with Microsoft’s guidance. Learn more."
+    },
+    {
+      "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/28/ai-in-process-manufacturing-from-operational-gains-to-strategic-advantage/",
+      "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/28/ai-in-process-manufacturing-from-operational-gains-to-strategic-advantage/",
+      "title": "AI in process manufacturing: From operational gains to strategic advantage - Microsoft Industry Blogs",
+      "content_text": "Explore insights into how manufacturers prioritize technology and where AI fits by reading the report \"Artificial Intelligence in Process Manufacturing.\""
+    },
+    {
+      "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/05/creating-a-resilient-supply-chain-using-connected-data-chains/",
+      "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/05/creating-a-resilient-supply-chain-using-connected-data-chains/",
+      "title": "Creating a resilient supply chain using connected data chains - Microsoft Industry Blogs",
+      "content_text": "Explore how Microsoft is enabling companies to easily navigate complexities and use technology with connected data chains and AI."
     }
   ]
 }
