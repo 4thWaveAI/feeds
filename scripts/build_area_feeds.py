@@ -11,14 +11,13 @@ Outputs:
   feeds/tech-leaders.(xml|atom.xml|json)   # optional if items exist
 
 Also writes:
-  index.html (auto lists all areas + All + Videos + Tech Leaders when present)
+  index.html (lists ALL configured areas + All + Videos + Tech Leaders when present)
 
 Notes:
 - Safe XML (escaped). No brittle CDATA.
 - Media: adds <enclosure> for image/video when available.
-- Robust HTTP with retries/backoff. Canonicalizes URLs (strips UTM/fbclid).
-- NEW: Can ingest sources that are RSS/Atom feeds (set mode: "rss" in feeds.yaml,
-       or use an index URL ending in .xml, or if content looks like <rss>/<feed>).
+- Robust HTTP with retries/backoff. Canonicalizes URLs (strips UTM/fbclid/ref).
+- RSS/Atom ingestion: set mode: "rss" in feeds.yaml OR use index ending in .xml OR content starting with <rss>/<feed>.
 """
 
 import re, html, json, yaml, requests, email.utils, xml.etree.ElementTree as ET
@@ -82,23 +81,6 @@ def abs_url(base: str, maybe_rel: Optional[str]) -> Optional[str]:
         return None
     full = urljoin(base, maybe_rel.strip())
     return canon_url(full)
-  
-def write_empty_feeds(area_slug: str, title: str, site_base: str, home_url: str):
-    """Create empty-but-valid RSS/Atom/JSON for new areas that currently have 0 items."""
-    rss_path  = OUTDIR / f"{area_slug}.xml"
-    atom_path = OUTDIR / f"{area_slug}.atom.xml"
-    json_path = OUTDIR / f"{area_slug}.json"
-
-    rss_xml  = build_rss([], title, home_url)
-    atom_xml = build_atom([], title, site_base + f"feeds/{area_slug}.atom.xml", home_url, f"urn:4thwaveai-feeds:{area_slug}")
-    json_txt = build_json([], title, site_base + f"feeds/{area_slug}.json", home_url)
-
-    rss_path.write_text(rss_xml,  encoding="utf-8", newline="\n")
-    atom_path.write_text(atom_xml, encoding="utf-8", newline="\n")
-    json_path.write_text(json_txt, encoding="utf-8", newline="\n")
-
-    # Validate XML files so we fail fast if something’s off
-    validate_xml(rss_path); validate_xml(atom_path)
 
 # ---------- Text & XML safety ----------
 _CONTROL = re.compile(r'[\x00-\x08\x0B\x0C\x0E-\x1F]')
@@ -176,7 +158,6 @@ def links_from_feed(feed_xml: str, base: str, limit: int = 20) -> List[str]:
     # Atom
     ns = "{http://www.w3.org/2005/Atom}"
     for entry in root.findall(f".//{ns}entry"):
-        # Prefer rel="alternate" HTML link
         href = None
         for l in entry.findall(f"{ns}link"):
             rel = (l.get("rel") or "alternate").lower()
@@ -367,6 +348,23 @@ def build_json(items: List[Dict], title: str, self_url: str, home_url: str) -> s
 def validate_xml(path: Path):
     ET.parse(path)
 
+# ---------- Placeholder feeds for empty areas ----------
+def write_empty_feeds(area_slug: str, title: str, site_base: str, home_url: str):
+    """Create empty-but-valid RSS/Atom/JSON for areas that currently have 0 items."""
+    rss_path  = OUTDIR / f"{area_slug}.xml"
+    atom_path = OUTDIR / f"{area_slug}.atom.xml"
+    json_path = OUTDIR / f"{area_slug}.json"
+
+    rss_xml  = build_rss([], title, home_url)
+    atom_xml = build_atom([], title, site_base + f"feeds/{area_slug}.atom.xml", home_url, f"urn:4thwaveai-feeds:{area_slug}")
+    json_txt = build_json([], title, site_base + f"feeds/{area_slug}.json", home_url)
+
+    rss_path.write_text(rss_xml,  encoding="utf-8", newline="\n")
+    atom_path.write_text(atom_xml, encoding="utf-8", newline="\n")
+    json_path.write_text(json_txt, encoding="utf-8", newline="\n")
+
+    validate_xml(rss_path); validate_xml(atom_path)
+
 # ---------- Homepage ----------
 def build_index_html(areas: List[str], have_all: bool, have_videos: bool, have_leaders: bool):
     def row(slug: str) -> str:
@@ -422,7 +420,6 @@ def main():
         for src in sources:
             try:
                 idx_text = fetch(src["index"])
-                # Detect RSS/Atom either by explicit mode, file extension, or content sniff
                 looks_xml = idx_text.lstrip()[:200].lower()
                 is_rss = (src.get("mode") == "rss" or
                           src["index"].lower().endswith(".xml") or
@@ -455,15 +452,21 @@ def main():
                 return datetime.min.replace(tzinfo=timezone.utc)
         unique.sort(key=s_key, reverse=True)
 
+        title = f"4thWave AI — {area_slug.replace('-', ' ').title()} (Aggregated)"
+
         if not unique:
-            print(f"[{area_slug}] no items, skipping write (preserve previous files)")
+            # Write placeholder feeds if they don't exist yet
+            if not (OUTDIR / f"{area_slug}.xml").exists():
+                write_empty_feeds(area_slug, title, site_base, home_url)
+                print(f"[{area_slug}] no items; wrote placeholder feeds")
+            else:
+                print(f"[{area_slug}] no items; kept existing files")
+            written_areas.append(area_slug)
             continue
 
         unique = unique[:max_items]
         written_areas.append(area_slug)
         all_items_for_all.extend(unique)
-
-        title = f"4thWave AI — {area_slug.replace('-', ' ').title()} (Aggregated)"
 
         rss_path  = OUTDIR / f"{area_slug}.xml"
         atom_path = OUTDIR / f"{area_slug}.atom.xml"
@@ -574,9 +577,10 @@ def main():
         print(f"[tech-leaders] wrote {len(uniq)} items")
         have_leaders = True
 
-    # Homepage
-    build_index_html(written_areas, have_all, have_videos, have_leaders)
-    print(f"Homepage index.html updated with {len(written_areas)} areas")
+    # Homepage (always list ALL configured areas)
+    all_area_slugs = list(areas_cfg.keys())
+    build_index_html(all_area_slugs, have_all, have_videos, have_leaders)
+    print(f"Homepage index.html updated with {len(all_area_slugs)} areas")
 
 if __name__ == "__main__":
     main()
