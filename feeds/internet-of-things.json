@@ -8,127 +8,257 @@
       "id": "https://spectrum.ieee.org/",
       "url": "https://spectrum.ieee.org/",
       "title": "IEEE Spectrum",
-      "content_text": "The world's leading engineering magazine"
+      "content_text": "The world's leading engineering magazine",
+      "attachments": [
+        {
+          "url": "https://assets.rbl.ms/26794698/origin.png",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://spectrum.ieee.org/topic/aerospace/",
       "url": "https://spectrum.ieee.org/topic/aerospace/",
       "title": "Aerospace News & Articles",
-      "content_text": "The latest developments in aviation, satellites, astrophysics, space flight, and space exploration"
+      "content_text": "The latest developments in aviation, satellites, astrophysics, space flight, and space exploration",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://spectrum.ieee.org/topic/artificial-intelligence/",
       "url": "https://spectrum.ieee.org/topic/artificial-intelligence/",
       "title": "AI News & Articles - Artificial Intelligence Updates",
-      "content_text": "The latest advances in artificial intelligence and machine learning, generative AI, ChatGPT, LLMs, deepfakes, and more"
+      "content_text": "The latest advances in artificial intelligence and machine learning, generative AI, ChatGPT, LLMs, deepfakes, and more",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://spectrum.ieee.org/topic/biomedical/",
       "url": "https://spectrum.ieee.org/topic/biomedical/",
       "title": "Biomedical News & Articles",
-      "content_text": "The latest developments in biomedical devices, prosthetics, imaging, and diagnostics"
+      "content_text": "The latest developments in biomedical devices, prosthetics, imaging, and diagnostics",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://spectrum.ieee.org/topic/climate-tech/",
       "url": "https://spectrum.ieee.org/topic/climate-tech/",
       "title": "Climate Tech News & Articles",
-      "content_text": "The latest developments in renewables, carbon capture, emissions monitoring, geoengineering, and electrifying everything"
+      "content_text": "The latest developments in renewables, carbon capture, emissions monitoring, geoengineering, and electrifying everything",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://spectrum.ieee.org/topic/computing/",
       "url": "https://spectrum.ieee.org/topic/computing/",
       "title": "Computing News & Articles",
-      "content_text": "The latest developments in embedded systems, hardware, software, quantum computers, and IT"
+      "content_text": "The latest developments in embedded systems, hardware, software, quantum computers, and IT",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://spectrum.ieee.org/topic/consumer-electronics/",
       "url": "https://spectrum.ieee.org/topic/consumer-electronics/",
       "title": "Consumer Electronics News & Articles",
-      "content_text": "The latest developments in gadgets, gaming, smart phones, virtual reality, and audio/video"
+      "content_text": "The latest developments in gadgets, gaming, smart phones, virtual reality, and audio/video",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://spectrum.ieee.org/topic/energy/",
       "url": "https://spectrum.ieee.org/topic/energy/",
       "title": "Energy News & Articles",
-      "content_text": "The latest developments in power generation, batteries, renewables, smart grid, and nuclear energy"
+      "content_text": "The latest developments in power generation, batteries, renewables, smart grid, and nuclear energy",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://spectrum.ieee.org/topic/tech-history/",
       "url": "https://spectrum.ieee.org/topic/tech-history/",
       "title": "History of Technology News & Articles",
-      "content_text": "A look back at key moments in the history of cyberspace, electronics, and the space age"
+      "content_text": "A look back at key moments in the history of cyberspace, electronics, and the space age",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://spectrum.ieee.org/topic/robotics/",
       "url": "https://spectrum.ieee.org/topic/robotics/",
       "title": "Robotics News & Articles",
-      "content_text": "The latest developments in consumer robots, humanoids, drones, and automation"
+      "content_text": "The latest developments in consumer robots, humanoids, drones, and automation",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://spectrum.ieee.org/topic/semiconductors/",
       "url": "https://spectrum.ieee.org/topic/semiconductors/",
       "title": "Semiconductors News & Articles",
-      "content_text": "The latest developments in processors, memory, nanotechnology, optoelectronics, and integrated circuit design and materials"
+      "content_text": "The latest developments in processors, memory, nanotechnology, optoelectronics, and integrated circuit design and materials",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://phys.org/news/2025-06-evolution-korean-alcohol-production-based.html",
       "url": "https://phys.org/news/2025-06-evolution-korean-alcohol-production-based.html",
       "title": "Evolution of Korean alcohol production: From an experience-based craft to a data-driven science",
-      "content_text": "For centuries, Korea has stood at the heart of fermentation culture. Traditional Korean alcohols made from rice, nuruk (fermentation starter), and water were perfected through the intuition and lived experiences of brewers, shaped by seasons and climate."
+      "content_text": "For centuries, Korea has stood at the heart of fermentation culture. Traditional Korean alcohols made from rice, nuruk (fermentation starter), and water were perfected through the intuition and lived experiences of brewers, shaped by seasons and climate.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2025/evolution-of-korean-al.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
     },
     {
       "id": "https://phys.org/news/2025-02-vision-tracks-growth-specialty-crop.html",
       "url": "https://phys.org/news/2025-02-vision-tracks-growth-specialty-crop.html",
       "title": "Computer vision system tracks plant growth to guide specialty crop monitoring",
-      "content_text": "Soilless growing systems inside greenhouses, known as controlled environment agriculture, promise to advance the year-round production of high-quality specialty crops, according to an interdisciplinary research team at Penn State. But to be competitive and sustainable, this advanced farming method will require the development and implementation of precision agriculture techniques. To meet that demand, the team developed an automated crop-monitoring system capable of providing continuous and frequent data about plant growth and needs, allowing for informed crop management."
+      "content_text": "Soilless growing systems inside greenhouses, known as controlled environment agriculture, promise to advance the year-round production of high-quality specialty crops, according to an interdisciplinary research team at Penn State. But to be competitive and sustainable, this advanced farming method will require the development and implementation of precision agriculture techniques. To meet that demand, the team developed an automated crop-monitoring system capable of providing continuous and frequent data about plant growth and needs, allowing for informed crop management.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-computer-vision-sy.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
     },
     {
       "id": "https://phys.org/news/2025-02-businesses-energy-workplace-power.html",
       "url": "https://phys.org/news/2025-02-businesses-energy-workplace-power.html",
       "title": "Businesses can cut energy waste by creating a workplace where saving power feels encouraged, not enforced",
-      "content_text": "Do you ever take the stairs instead of the elevator, or print double-sided—not for fitness, or to stretch the last few sheets of paper, but to save energy?"
+      "content_text": "Do you ever take the stairs instead of the elevator, or print double-sided—not for fitness, or to stretch the last few sheets of paper, but to save energy?",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/student-stairs-school.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
     },
     {
       "id": "https://phys.org/news/2025-02-gate-dimensional-transition-metal-dichalcogenides.html",
       "url": "https://phys.org/news/2025-02-gate-dimensional-transition-metal-dichalcogenides.html",
       "title": "Gate-controllable two-dimensional transition metal dichalcogenides for spintronic memory",
-      "content_text": "The rapid advancement of technologies like artificial intelligence (AI) and the Internet of Things (IoT) has heightened the demand for high-speed, energy-efficient memory devices. Traditional memory technologies often struggle to balance performance with power consumption."
+      "content_text": "The rapid advancement of technologies like artificial intelligence (AI) and the Internet of Things (IoT) has heightened the demand for high-speed, energy-efficient memory devices. Traditional memory technologies often struggle to balance performance with power consumption.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2025/gate-controllable-two.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
     },
     {
       "id": "https://phys.org/news/2025-01-gen-fibers-smart-textile-pressure.html",
       "url": "https://phys.org/news/2025-01-gen-fibers-smart-textile-pressure.html",
       "title": "Next-gen fibers: Smart textile can sense light, pressure, smell and even taste",
-      "content_text": "Researchers successfully developed a multifunctional sensor based on semiconductor fibers that emulates the five human senses. The technology developed in the study is expected to be utilized in a variety of state-of-the-art technology fields, such as wearables, Internet of Things (IoT), electronic devices, and soft robotics."
+      "content_text": "Researchers successfully developed a multifunctional sensor based on semiconductor fibers that emulates the five human senses. The technology developed in the study is expected to be utilized in a variety of state-of-the-art technology fields, such as wearables, Internet of Things (IoT), electronic devices, and soft robotics.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/smart-textile-to-sense.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
     },
     {
       "id": "https://phys.org/news/2024-12-electrically-semiconductor-laser-advances-silicon.html",
       "url": "https://phys.org/news/2024-12-electrically-semiconductor-laser-advances-silicon.html",
       "title": "First electrically pumped, continuous-wave semiconductor laser advances silicon photonics integration",
-      "content_text": "Scientists have developed the first electrically pumped continuous-wave semiconductor laser composed exclusively of elements from the fourth group of the periodic table—the \"silicon group.\""
+      "content_text": "Scientists have developed the first electrically pumped continuous-wave semiconductor laser composed exclusively of elements from the fourth group of the periodic table—the \"silicon group.\"",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2024/first-electrically-pum.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
     },
     {
       "id": "https://phys.org/news/2024-10-viscous-electronics-fluid-electrons-tech.html",
       "url": "https://phys.org/news/2024-10-viscous-electronics-fluid-electrons-tech.html",
       "title": "Viscous electronics: Fluid-like electrons are unlocking new tech possibilities",
-      "content_text": "In high school science class, we learned that plugging a cable into an electrical circuit sets off a flow of electrons, powering everything from our lights to our phones. Traditionally, we've understood how electrons behave in metals and semiconductors through this simple model: electrons are imagined as tiny, independent particles, much like cars on an open highway—each one moving freely, without interacting much with the others."
+      "content_text": "In high school science class, we learned that plugging a cable into an electrical circuit sets off a flow of electrons, powering everything from our lights to our phones. Traditionally, we've understood how electrons behave in metals and semiconductors through this simple model: electrons are imagined as tiny, independent particles, much like cars on an open highway—each one moving freely, without interacting much with the others.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/viscous-electronics-fl.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
     },
     {
       "id": "https://phys.org/news/2024-08-scientists-dmg-equalization-strategy-femtosecond.html",
       "url": "https://phys.org/news/2024-08-scientists-dmg-equalization-strategy-femtosecond.html",
       "title": "Scientists develop DMG equalization strategy via femtosecond laser micromachining induced refractive index tailoring",
-      "content_text": "Optical fiber, as a physical medium for information transmission, is the \"highway\" of modern economic and social development. However, with the continuous emergence of high-speed and high-capacity communication scenarios such as virtual reality, 5G, intelligent driving, and the Internet of Things (IoT), there is an upper limit to the communication capacity (traffic flow) of the traditional single-mode fiber-optic communication system (highway)."
+      "content_text": "Optical fiber, as a physical medium for information transmission, is the \"highway\" of modern economic and social development. However, with the continuous emergence of high-speed and high-capacity communication scenarios such as virtual reality, 5G, intelligent driving, and the Internet of Things (IoT), there is an upper limit to the communication capacity (traffic flow) of the traditional single-mode fiber-optic communication system (highway).",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2024/differential-mode-gain.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
     },
     {
       "id": "https://phys.org/news/2024-08-display-technologies-ultrahigh-definition-screens.html",
       "url": "https://phys.org/news/2024-08-display-technologies-ultrahigh-definition-screens.html",
       "title": "Developing innovative new display technologies to create ultrahigh-definition screens efficiently",
-      "content_text": "A research team has developed a double-layer dry transfer printing technology that simultaneously transfers light-emitting and electron-transferring layers onto a substrate. This technology is expected to provide a more life-like view in augmented reality (AR) and virtual reality (VR), greatly enhancing the immersive experience."
+      "content_text": "A research team has developed a double-layer dry transfer printing technology that simultaneously transfers light-emitting and electron-transferring layers onto a substrate. This technology is expected to provide a more life-like view in augmented reality (AR) and virtual reality (VR), greatly enhancing the immersive experience.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/developing-innovative-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
     },
     {
       "id": "https://phys.org/news/2024-08-electronics-material-current.html",
       "url": "https://phys.org/news/2024-08-electronics-material-current.html",
       "title": "Printed electronics material can store 1,000 times more charge than current forms",
-      "content_text": "Imagine knowing your milk has gone bad without having to open your fridge. A technology called printed electronics could one day make innovations like this possible."
+      "content_text": "Imagine knowing your milk has gone bad without having to open your fridge. A technology called printed electronics could one day make innovations like this possible.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2024/got-sour-milk-printed.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/y5kqqQdMzVE?color=white",
+          "mime_type": "video/mp4"
+        }
+      ]
     }
   ]
 }

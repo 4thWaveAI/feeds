@@ -1,0 +1,440 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "4thWave AI — Videos (Aggregated)",
+  "home_page_url": "https://4thwave.ai",
+  "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.json",
+  "items": [
+    {
+      "id": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/",
+      "url": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/",
+      "title": "AlphaGenome: AI for better understanding the genome",
+      "content_text": "Introducing a new, unifying DNA sequence model that advances regulatory variant-effect prediction and promises to shed new light on genome function — now available via API.",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/SZkcKUQyLUhSQ06Rq-PJbxAqn1OpMeEa3khkrBVB1MGyHfxyftoqWwEb2aLP9JxX7CjhpLFODcc5zIoMoNdu0bl6ELsZV2nP9fDwZC6SYS36lzAKDw=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://deepmind.google/api/blob/website/media/AlphaGenome-Figure1-Animation-000000.mp4",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/",
+      "url": "https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/",
+      "title": "AlphaProteo generates novel proteins for biology and health research",
+      "content_text": "New AI system designs proteins that successfully bind to target molecules, with potential for advancing drug design, disease understanding and more.",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/7RKd6r-Wc8JfMau5x9knRq9DrOKGDwS3ye4YxY0jjWGntf74y8WL0lOlktJefxwkJYw33UEf2Ph_BhQ51TIufCxPkmtCPOpakekMpnOUwVI-3R6RzQ=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://deepmind.google/api/blob/website/media/GDM-ProteinDesignBlog-02-Binder-Final.mp4",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+      "url": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+      "title": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms",
+      "content_text": "New AI agent evolves algorithms for math and practical applications in computing by combining the creativity of large language models with automated evaluators",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/tG6-MqdlvhQ-z7ENzGxR-kpGPPdPHbJ8UZtbTP66Rxi0UftTFU1yAvaBCVuigYuKvESMeEFf4jqNBVENFcZXEUnj8SSqj8zsop8UHAl0eD9A-hUCvQ=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://deepmind.google/api/blob/website/media/Code-Evolution-Illustration_compressed_iUJETbv.mp4",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/",
+      "url": "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/",
+      "title": "Genie 3: A New Frontier for World Models",
+      "content_text": "Today we are announcing Genie 3, a general purpose world model that can generate an unprecedented diversity of interactive environments. Given a text prompt, Genie 3 can generate dynamic worlds...",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/pXnO9nBpgw0RnwPCDrcbdFqO0cHkaIsQYNuOyXd7L3iFrp0Mr_yLMROiWzz3EqG8W-qq-QzGPTEAs1pr75kX7SzVC-y4jnON7b7P9Bwqd19Nl-bkJYc=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://deepmind.google/api/blob/website/media/sxs_1.mp4",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/auto/",
+      "url": "https://blogs.nvidia.com/blog/category/auto/",
+      "title": "Driving Archives",
+      "content_text": "At this week’s IAA Mobility conference in Munich, NVIDIA Vice President of Automotive Ali Kani outlined how cloud-to-car… Read Article",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/08/automotive-comms-drive-agx-thor-1280x680-1.mp4",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/robotics/",
+      "url": "https://blogs.nvidia.com/blog/category/robotics/",
+      "title": "Robotics Archives",
+      "content_text": "AI models are advancing at a rapid rate and scale. But what might they lack that (most) humans… Read Article",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/06/rss-asap-1920x1080-1.mp4",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/helix-loads-the-dishwasher",
+      "url": "https://www.figure.ai/news/helix-loads-the-dishwasher",
+      "title": "Helix Loads the Dishwasher",
+      "content_text": "Helix Loads the Dishwasher",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/2wRk1FxvA5mPvUStmShycO/ce2db2efd18b9e90005dc8b7684cd936/DISHES_1200x630__1.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/44vnbEhANLcpntMoHQDP3a/e7e8d3a6f25137eb88ac58a0d72a57d1/Video_Cover_-_Mobile_934_x_1434px_.mp4",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/scaling-helix-logistics",
+      "url": "https://www.figure.ai/news/scaling-helix-logistics",
+      "title": "Scaling Helix: a New State of the Art in Humanoid Logistics",
+      "content_text": "Scaling Helix: a New State of the Art in Humanoid Logistics",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/54nYwolcdAQ8z67JvXuo48/3642c3c4def2e21de60a4c683fb40775/OPEN_GRAPH_IMAGE__1_.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/sS8EiNPG9h2gPtTpanjKk/bff5eb609aeebe6c385c931cb5395002/VIDEO_COVER_MOBILE.mp4",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/botq",
+      "url": "https://www.figure.ai/news/botq",
+      "title": "BotQ: A High-Volume Manufacturing Facility for Humanoid Robots",
+      "content_text": "Introducing BotQ, Figure’s new high-volume manufacturing facility for humanoid robots.",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/8vwfX4g74TIKRyadRPuCX/eeca11446869aed120bf553664fc813d/Open_Graph_Image.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/1YIcaNVYQHJiikmAtwTX5V/e65166e0bfcb21031c4c99e30f9bd5ac/Video_Cover_-_Mobile.mp4",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/helix-learns-to-fold-laundry",
+      "url": "https://www.figure.ai/news/helix-learns-to-fold-laundry",
+      "title": "Helix Learns to Fold Laundry",
+      "content_text": "Helix Learns to Fold Laundry",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/2VxPzhq7dxDzEseyMqZFmF/a73064bbe899f6c614dd4ca27acebc40/Laundry_Open_Graph_Image.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/4k5kS2gknNxU59RlakrOem/a92eb8e9f9cb1bd4e269fff95e28d216/Video_Cover_-_Mobile_934x1434.mp4",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/f-03-battery-development",
+      "url": "https://www.figure.ai/news/f-03-battery-development",
+      "title": "F.03 Battery Development",
+      "content_text": "F.03 Battery Development",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/1G5l3Bq2481A51kixdiJDN/ca0dd4e964b91032c85105c8846d0158/1200x630__1_.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/VBHSFh040nu5QhPfnJjmj/5bcbb27856a4370cc185a1eda14627cb/934x1434.mp4",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/reinforcement-learning-walking",
+      "url": "https://www.figure.ai/news/reinforcement-learning-walking",
+      "title": "Natural Humanoid Walk Using Reinforcement Learning",
+      "content_text": "Natural Humanoid Walk Using Reinforcement Learning",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/6FX51SIG7Q1vcW1LOniDWM/6f03c15c531e53478f7fc964c8ad2c74/Video_carousel_image.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/XqIsleaMlE75mEHAJYquZ/4d23d9e7eb29edf8b6409c425f9a8da4/Video_Cover_-_Mobile_1__1_.mp4",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/helix-logistics",
+      "url": "https://www.figure.ai/news/helix-logistics",
+      "title": "Helix Accelerating Real-World Logistics",
+      "content_text": "Figure is introducing a new real-world application for Figure robots on the back of advancements from Helix: logistics package manipulation and triaging.",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/XDpqBBey1oW5zYszgwfbQ/27b5089928f06047d4d7c5eea47c3b6c/image__69__copy.png",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/5pQm4wKRmo7ZpkDZxFIbVz/c01423068e6a2b4dc083585847dc6cb2/COVER_MOBILE_934x1434.mp4",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/helix",
+      "url": "https://www.figure.ai/news/helix",
+      "title": "Helix: A Vision-Language-Action Model for Generalist Humanoid Control",
+      "content_text": "Figure was founded with the ambition to change the world.",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/2xDhvXSGZwGCFFuUHCk25T/816c4c9ba639c4035e196dfb5ead4966/figure-ai-helix-page-image.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/38d2kcdQAkeUpkMImYglcG/b023108124e926c2ad408605615ae918/HERO_MOBILE_FINAL__1_.mp4",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news",
+      "url": "https://www.figure.ai/news",
+      "title": "News | Figure",
+      "content_text": "We’re bringing the humanoid to life. Join us.",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/56I3mHKEdLZdrsONwOm3sc/63b1569bb855cc334c2dda67ce40ba4a/generic-page-image.jpeg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/35FiJ5CUehHheBZvM5iQTT/7ecb4c5803e1e06c292d6e6126ec53f8/Thumbnail_1024_x_820.mp4",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://research.ibm.com/blog/granite-hackerone-bug-bounty",
+      "url": "https://research.ibm.com/blog/granite-hackerone-bug-bounty",
+      "title": "IBM further strengthens Granite for enterprise deployment with HackerOne",
+      "content_text": "IBM is partnering with HackerOne to offer a bug bounty program for Granite, with up to $100,000 in bounty payouts available. The objective is to identify successful jailbreaks of Granite models deployed in enterprise-like settings with guardrails enabled, as businesses look to scale their AI workflows.",
+      "attachments": [
+        {
+          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fblog_Art_hacker_One_1_8cfd5ce596.jpg&w=1200&q=75",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://d35x6597f7j1wm.cloudfront.net/blog_Art_hacker_One_17c19fbd70.mp4",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-cat-whiskers-highly-sensitive-generation.html",
+      "url": "https://phys.org/news/2025-09-cat-whiskers-highly-sensitive-generation.html",
+      "title": "Cat whiskers inspire highly sensitive, next-generation wearable pressure sensors",
+      "content_text": "Flexible pressure sensors can detect subtle mechanical stimuli, making them suitable for use in wearable sensors for human health monitoring and motion analysis. However, current sensors suffer from insufficient sensitivity, poor durability, and subpar stability. In a new study, taking inspiration from cat whiskers, researchers developed novel biomass fiber/sodium alginate aerogel (BFA)-based sensors that demonstrated excellent pressure sensitivity, durability, and rapid response, while being suitable for human physiological monitoring and motion analysis.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/highly-sensitive-next.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://scx2.b-cdn.net/gfx/video/2025/cat-whiskers-inspire-h.mp4",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasa-says-mars-rover-discovered-potential-biosignature-last-year/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-says-mars-rover-discovered-potential-biosignature-last-year/",
+      "title": "NASA Says Mars Rover Discovered Potential Biosignature Last Year",
+      "content_text": "After a year’s worth of scientific scrutiny, the ‘Sapphire Canyon’ rock sample remains the mission’s best candidate for containing signs of ancient microbial life processes.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-Cheyava_Falls_Leopard_Spots_PIA26368orig.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/ieJKWW8sp2A?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasa-study-celestial-accident-sheds-light-on-jupiter-saturn-riddle/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-study-celestial-accident-sheds-light-on-jupiter-saturn-riddle/",
+      "title": "NASA Study: Celestial ‘Accident’ Sheds Light on Jupiter, Saturn Riddle",
+      "content_text": "An unusual cosmic object is helping scientists better understand the chemistry hidden deep in Jupiter and Saturn’s atmospheres — and potentially those of exoplanets.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-the-accident-silane-AC-web.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/PIA24578.mp4",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/vintage-nasa-see-voyagers-1990-solar-system-family-portrait-debut/",
+      "url": "https://www.jpl.nasa.gov/news/vintage-nasa-see-voyagers-1990-solar-system-family-portrait-debut/",
+      "title": "Vintage NASA: See Voyager’s 1990 ‘Solar System Family Portrait’ Debut",
+      "content_text": "In archival footage of a historic NASA news conference, the mission reveals history-making images of six planets in our solar system, including a tiny speck called Earth.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-main-ed_stone_voyager_press_conference_1990.png",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/aty-PMtS7Dc?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasa-isro-satellite-lifts-off-to-track-earths-changing-surfaces/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-isro-satellite-lifts-off-to-track-earths-changing-surfaces/",
+      "title": "NASA-ISRO Satellite Lifts Off to Track Earth’s Changing Surfaces",
+      "content_text": "The first-of-its kind satellite will provide actionable information in a range of areas, including disaster response, infrastructure monitoring, and agricultural management.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/nisar-launch-image.png",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/zM_0aXxGN6g?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2025/9/8/august-2025-company-update",
+      "url": "https://www.relativityspace.com/press-release/2025/9/8/august-2025-company-update",
+      "title": "August 2025 Company Update",
+      "content_text": "Throughout August, the Terran R program continued to make measurable progress toward first launch, delivering on critical program milestones.   Design  This month, the team completed 18 component-level Critical Design Reviews (CDRs), most of which focused on the second stage engine and fluids system",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/kkCaq3kv4CY",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2025/8/7/july-2025-company-update",
+      "url": "https://www.relativityspace.com/press-release/2025/8/7/july-2025-company-update",
+      "title": "July 2025 Company Update",
+      "content_text": "As development of Terran R continues to accelerate, July marked another month of meaningful progress across design, manufacturing, testing, and launch operations.   Design  In July, the team successfully completed 28 additional component-level Critical Design Reviews (CDRs). Notably, 351 thrust stru",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/yoRViVhVz4s",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2025/7/8/june-2025-company-update",
+      "url": "https://www.relativityspace.com/press-release/2025/7/8/june-2025-company-update",
+      "title": "June 2025 Company Update",
+      "content_text": "As the Terran R program continues to advance, we’re highlighting some of the latest milestones across design, build, test, and launch.   Design&nbsp;  Throughout June, the team completed 12 additional component-level critical design reviews (CDRs), covering a range of hardware from trays and flu",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/F14uXmzVp08",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2025/6/6/may-2025-company-update",
+      "url": "https://www.relativityspace.com/press-release/2025/6/6/may-2025-company-update",
+      "title": "May 2025 Company Update",
+      "content_text": "As we close out another month of Terran R development, we’re sharing a look at recent progress across design, build, test, and launch.&nbsp;&nbsp;   Design &nbsp; In May, we completed an additional 17 component-level critical design reviews (CDR). At this stage of the program, many of th",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/2jlhxFZkw9E",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/news",
+      "url": "https://www.relativityspace.com/news",
+      "title": "Updates",
+      "content_text": "Learn about Terran R’s progress towards reusability.",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/kkCaq3kv4CY",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2024-08-electronics-material-current.html",
+      "url": "https://phys.org/news/2024-08-electronics-material-current.html",
+      "title": "Printed electronics material can store 1,000 times more charge than current forms",
+      "content_text": "Imagine knowing your milk has gone bad without having to open your fridge. A technology called printed electronics could one day make innovations like this possible.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2024/got-sour-milk-printed.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/y5kqqQdMzVE?color=white",
+          "mime_type": "video/mp4"
+        }
+      ]
+    }
+  ]
+}

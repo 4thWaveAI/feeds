@@ -8,67 +8,133 @@
       "id": "https://spectrum.ieee.org/",
       "url": "https://spectrum.ieee.org/",
       "title": "IEEE Spectrum",
-      "content_text": "The world's leading engineering magazine"
+      "content_text": "The world's leading engineering magazine",
+      "attachments": [
+        {
+          "url": "https://assets.rbl.ms/26794698/origin.png",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://spectrum.ieee.org/topic/aerospace/",
       "url": "https://spectrum.ieee.org/topic/aerospace/",
       "title": "Aerospace News & Articles",
-      "content_text": "The latest developments in aviation, satellites, astrophysics, space flight, and space exploration"
+      "content_text": "The latest developments in aviation, satellites, astrophysics, space flight, and space exploration",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://spectrum.ieee.org/topic/artificial-intelligence/",
       "url": "https://spectrum.ieee.org/topic/artificial-intelligence/",
       "title": "AI News & Articles - Artificial Intelligence Updates",
-      "content_text": "The latest advances in artificial intelligence and machine learning, generative AI, ChatGPT, LLMs, deepfakes, and more"
+      "content_text": "The latest advances in artificial intelligence and machine learning, generative AI, ChatGPT, LLMs, deepfakes, and more",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://spectrum.ieee.org/topic/biomedical/",
       "url": "https://spectrum.ieee.org/topic/biomedical/",
       "title": "Biomedical News & Articles",
-      "content_text": "The latest developments in biomedical devices, prosthetics, imaging, and diagnostics"
+      "content_text": "The latest developments in biomedical devices, prosthetics, imaging, and diagnostics",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://spectrum.ieee.org/topic/climate-tech/",
       "url": "https://spectrum.ieee.org/topic/climate-tech/",
       "title": "Climate Tech News & Articles",
-      "content_text": "The latest developments in renewables, carbon capture, emissions monitoring, geoengineering, and electrifying everything"
+      "content_text": "The latest developments in renewables, carbon capture, emissions monitoring, geoengineering, and electrifying everything",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://spectrum.ieee.org/topic/computing/",
       "url": "https://spectrum.ieee.org/topic/computing/",
       "title": "Computing News & Articles",
-      "content_text": "The latest developments in embedded systems, hardware, software, quantum computers, and IT"
+      "content_text": "The latest developments in embedded systems, hardware, software, quantum computers, and IT",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://spectrum.ieee.org/topic/consumer-electronics/",
       "url": "https://spectrum.ieee.org/topic/consumer-electronics/",
       "title": "Consumer Electronics News & Articles",
-      "content_text": "The latest developments in gadgets, gaming, smart phones, virtual reality, and audio/video"
+      "content_text": "The latest developments in gadgets, gaming, smart phones, virtual reality, and audio/video",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://spectrum.ieee.org/topic/energy/",
       "url": "https://spectrum.ieee.org/topic/energy/",
       "title": "Energy News & Articles",
-      "content_text": "The latest developments in power generation, batteries, renewables, smart grid, and nuclear energy"
+      "content_text": "The latest developments in power generation, batteries, renewables, smart grid, and nuclear energy",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://spectrum.ieee.org/topic/tech-history/",
       "url": "https://spectrum.ieee.org/topic/tech-history/",
       "title": "History of Technology News & Articles",
-      "content_text": "A look back at key moments in the history of cyberspace, electronics, and the space age"
+      "content_text": "A look back at key moments in the history of cyberspace, electronics, and the space age",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://www.therobotreport.com/the-robot-report-enewsletter/",
       "url": "https://www.therobotreport.com/the-robot-report-enewsletter/",
       "title": "The Robot Report Enewsletter - The Robot Report",
-      "content_text": "Need robotics news in a minute? We Deliver! The Robot Report Enewsletter gets you caught up on all the mission critical news you need in the world of robotics. Sign up today."
+      "content_text": "Need robotics news in a minute? We Deliver! The Robot Report Enewsletter gets you caught up on all the mission critical news you need in the world of robotics. Sign up today.",
+      "attachments": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2018/01/the-robot-report-business-of-robots-Lisa-Eitel-Dan-Kara-Steve-Crowe.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
     },
     {
       "id": "https://www.therobotreport.com/about-the-robot-report/",
       "url": "https://www.therobotreport.com/about-the-robot-report/",
       "title": "About The Robot Report",
-      "content_text": "The Robot Report provides news, analysis, webinars, and events for engineers and developers of commercial robotics systems."
+      "content_text": "The Robot Report provides news, analysis, webinars, and events for engineers and developers of commercial robotics systems.",
+      "attachments": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2018/08/Robotics_Taxonomy-800x443.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
     },
     {
       "id": "https://www.therobotreport.com/category/news/",
@@ -80,13 +146,25 @@
       "id": "https://www.therobotreport.com/2022-rbr50-robotics-innovation-award-honorees/",
       "url": "https://www.therobotreport.com/2022-rbr50-robotics-innovation-award-honorees/",
       "title": "2022 RBR50 Robotics Innovation Award Honorees - The Robot Report",
-      "content_text": "For over a decade, Robotics Business Review’s RBR50 Robotics Innovation Awards have highlighted the most creative and influential innovations from around the world that have advanced the state of robotics. Widely recognized throughout the world as a leading indicator of robotics innovation leadership, the RBR50 Robotics Innovation Awards are also a critical measure of robotics…"
+      "content_text": "For over a decade, Robotics Business Review’s RBR50 Robotics Innovation Awards have highlighted the most creative and influential innovations from around the world that have advanced the state of robotics. Widely recognized throughout the world as a leading indicator of robotics innovation leadership, the RBR50 Robotics Innovation Awards are also a critical measure of robotics…",
+      "attachments": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/12/RBR50-1024x650-Feature-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
     },
     {
       "id": "https://www.therobotreport.com/2021-rbr50-robotics-innovation-awards-digital-edition/",
       "url": "https://www.therobotreport.com/2021-rbr50-robotics-innovation-awards-digital-edition/",
       "title": "2021 RBR50 Robotics Innovation Awards Digital Edition - The Robot Report",
-      "content_text": "Each year since 2012, Robotics Business Review has produced the RBR50 Robotics Innovation Awards, which recognize and celebrate forward thinking companies and the original, impactful solutions they have created. Widely recognized throughout the world as a leading indicator of robotics innovation leadership, the RBR50 Robotics Innovation Awards are also a critical measure of robotics sector…"
+      "content_text": "Each year since 2012, Robotics Business Review has produced the RBR50 Robotics Innovation Awards, which recognize and celebrate forward thinking companies and the original, impactful solutions they have created. Widely recognized throughout the world as a leading indicator of robotics innovation leadership, the RBR50 Robotics Innovation Awards are also a critical measure of robotics sector…",
+      "attachments": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/12/Sponsor_Graphic-1.png",
+          "mime_type": "image/png"
+        }
+      ]
     }
   ]
 }

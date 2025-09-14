@@ -5,364 +5,742 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
-      "id": "https://deepmind.google/discover/blog/",
-      "url": "https://deepmind.google/discover/blog/",
-      "title": "Blog",
-      "content_text": "Discover our latest AI breakthroughs, projects, and updates."
+      "id": "https://blogs.nvidia.com/blog/uk-llm-nemotron/",
+      "url": "https://blogs.nvidia.com/blog/uk-llm-nemotron/",
+      "title": "Reaching Across the Isles: UK-LLM Brings AI to UK Languages With NVIDIA Nemotron",
+      "content_text": "Trained on the Isambard-AI supercomputer, UK-LLM enables AI reasoning for Welsh and other UK languages for public services.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/genai-corp-blog-nemotron-uk-trip-1280x680-1.png",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
-      "id": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/",
-      "url": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/",
-      "title": "AlphaGenome: AI for better understanding the genome",
-      "content_text": "Introducing a new, unifying DNA sequence model that advances regulatory variant-effect prediction and promises to shed new light on genome function — now available via API."
-    },
-    {
-      "id": "https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/",
-      "url": "https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/",
-      "title": "A catalogue of genetic mutations to help pinpoint the cause of diseases",
-      "content_text": "New AI tool classifies the effects of 71 million ‘missense’ mutations \nUncovering the root causes of disease is one of the greatest challenges in human genetics. With millions of possible..."
-    },
-    {
-      "id": "https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/",
-      "url": "https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/",
-      "title": "AlphaProteo generates novel proteins for biology and health research",
-      "content_text": "New AI system designs proteins that successfully bind to target molecules, with potential for advancing drug design, disease understanding and more."
-    },
-    {
-      "id": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
-      "url": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
-      "title": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms",
-      "content_text": "New AI agent evolves algorithms for math and practical applications in computing by combining the creativity of large language models with automated evaluators"
-    },
-    {
-      "id": "https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/",
-      "url": "https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/",
-      "title": "AI achieves silver-medal standard solving International Mathematical Olympiad problems",
-      "content_text": "Breakthrough models AlphaProof and AlphaGeometry 2 solve advanced reasoning problems in mathematics"
-    },
-    {
-      "id": "https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/",
-      "url": "https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/",
-      "title": "Millions of new materials discovered with deep learning",
-      "content_text": "We share the discovery of 2.2 million new crystals  –  equivalent to nearly 800 years’ worth of knowledge. We introduce Graph Networks for Materials Exploration (GNoME), our new deep learning tool..."
-    },
-    {
-      "id": "https://deepmind.google/discover/blog/accelerating-fusion-science-through-learned-plasma-control/",
-      "url": "https://deepmind.google/discover/blog/accelerating-fusion-science-through-learned-plasma-control/",
-      "title": "Accelerating fusion science through learned plasma control",
-      "content_text": "Successfully controlling the nuclear fusion plasma in a tokamak with deep reinforcement learning"
-    },
-    {
-      "id": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
-      "url": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
-      "title": "AlphaQubit tackles one of quantum computing’s biggest challenges",
-      "content_text": "AlphaQubit is an AI-based decoder that identifies quantum computing errors with state-of-the-art accuracy."
-    },
-    {
-      "id": "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/",
-      "url": "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/",
-      "title": "Genie 3: A New Frontier for World Models",
-      "content_text": "Today we are announcing Genie 3, a general purpose world model that can generate an unprecedented diversity of interactive environments. Given a text prompt, Genie 3 can generate dynamic worlds..."
-    },
-    {
-      "id": "https://www.anthropic.com/news/claude-opus-4-1",
-      "url": "https://www.anthropic.com/news/claude-opus-4-1",
-      "title": "Claude Opus 4.1",
-      "content_text": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "id": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
-      "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
-      "title": "Anthropic raises $13B Series F at $183B post-money valuation",
-      "content_text": "Anthropic has completed a Series F fundraising of $13 billion led by ICONIQ. This financing values Anthropic at $183 billion post-money. Along with ICONIQ, the round was co-led by Fidelity Management & Research Company and Lightspeed Venture Partners. The investment reflects Anthropic’s continued momentum and reinforces our position as the leading intelligence platform for enterprises, developers, and power users."
-    },
-    {
-      "id": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
-      "url": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
-      "title": "Thoughts on America’s AI Action Plan",
-      "content_text": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "id": "https://www.anthropic.com/news/claude-for-financial-services",
-      "url": "https://www.anthropic.com/news/claude-for-financial-services",
-      "title": "Claude for Financial Services",
-      "content_text": "Today, we're introducing a comprehensive solution for financial analysis that transforms how finance professionals analyze markets, conduct research, and make investment decisions with Claude."
-    },
-    {
-      "id": "https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi",
-      "url": "https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi",
-      "title": "Strengthening our safeguards through collaboration with US CAISI and UK AISI",
-      "content_text": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "id": "https://www.anthropic.com/news/memory",
-      "url": "https://www.anthropic.com/news/memory",
-      "title": "Claude introduces memory for teams at work",
-      "content_text": "Claude now remembers your team's projects and preferences across conversations. Memory helps maintain context for complex work, with project-specific boundaries and full user control over what's remembered."
-    },
-    {
-      "id": "https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference",
-      "title": "NVIDIA Unveils Rubin CPX: A New Class of GPU Designed for Massive-Context Inference",
-      "content_text": "NVIDIA® today announced NVIDIA Rubin CPX, a new class of GPU purpose-built for massive-context processing. This enables AI systems to handle million-token software coding and generative video with groundbreaking speed and efficiency."
-    },
-    {
-      "id": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2026",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2026",
-      "title": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2026",
-      "content_text": "NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 27, 2025, of $46.7 billion, up 6% from the previous quarter and up 56% from a year ago. NVIDIA’s Blackwell Data Center revenue grew 17% sequentially."
-    },
-    {
-      "id": "https://nvidianews.nvidia.com/news/industry-leaders-transform-enterprise-data-centers-for-the-ai-era-with-nvidia-rtx-pro-servers",
-      "url": "https://nvidianews.nvidia.com/news/industry-leaders-transform-enterprise-data-centers-for-the-ai-era-with-nvidia-rtx-pro-servers",
-      "title": "Industry Leaders Transform Enterprise Data Centers for the AI Era With NVIDIA RTX PRO Servers",
-      "content_text": "NVIDIA today announced leading global enterprises have adopted NVIDIA RTX PRO™ Servers — a new category of enterprise data center infrastructure powered by the RTX PRO 6000 Blackwell Server Edition GPU — speeding the shift from general-purpose computing clusters to AI factory infrastructure, without a complete data center overhaul."
+      "id": "https://www.broadinstitute.org/news/whyiscience-qa-structural-biologist-adopts-new-role-catalyzing-collaborations",
+      "url": "https://www.broadinstitute.org/news/whyiscience-qa-structural-biologist-adopts-new-role-catalyzing-collaborations",
+      "title": "#WhyIScience Q&A: A structural biologist adopts a new role catalyzing collaborations",
+      "content_text": "A former drug discovery scientist, Gail Guo now helps advance research into novel cancer drugs as part of Broad’s alliance with Bayer.",
+      "attachments": [
+        {
+          "url": "https://www.broadinstitute.org/files/longstory/WhyIScience_Broad%20Blue_GailGuo_Main.png",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://blogs.nvidia.com/blog/ai-factories-reference-design/",
       "url": "https://blogs.nvidia.com/blog/ai-factories-reference-design/",
       "title": "NVIDIA Partners With AI Infrastructure Ecosystem to Unveil Reference Design for Giga-Scale AI Factories",
-      "content_text": "At this week’s AI Infrastructure Summit in Silicon Valley, NVIDIA’s VP of Accelerated Computing Ian Buck unveiled a bold new vision: the transformation of traditional data centers into fully integrated AI factories. As part of this initiative, NVIDIA is developing reference designs to be shared with partners and enterprises worldwide — offering an NVIDIA Omniverse  Read Article"
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/category/corporate/",
-      "url": "https://blogs.nvidia.com/blog/category/corporate/",
-      "title": "Corporate Archives",
-      "content_text": "NVIDIA Corporate Blog Post Archive"
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputer-live/",
-      "url": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputer-live/",
-      "title": "Now Live: Europe’s First Exascale Supercomputer, JUPITER, Accelerates Climate Research, Neuroscience, Quantum Simulation",
-      "content_text": "At JUPITER’s inauguration ceremony in Jülich, attended by Germany Chancellor Friedrich Merz, the Jülich Supercomputing Centre and NVIDIA unveiled ways the supercomputer is already spurring innovation across the world."
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/category/enterprise/",
-      "url": "https://blogs.nvidia.com/blog/category/enterprise/",
-      "title": "Data Center Archives",
-      "content_text": "At this week’s IAA Mobility conference in Munich, NVIDIA Vice President of Automotive Ali Kani outlined how cloud-to-car… Read Article"
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/jetson-thor-physical-ai-edge/",
-      "url": "https://blogs.nvidia.com/blog/jetson-thor-physical-ai-edge/",
-      "title": "NVIDIA Jetson Thor Unlocks Real-Time Reasoning for General Robotics and Physical AI",
-      "content_text": "Designed for millions of robotic developers, NVIDIA Jetson Thor delivers 2,070 FP4 teraflops to tackle complex applications including agentic AI, high-speed sensor processing and general robotics tasks."
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/category/robotics/",
-      "url": "https://blogs.nvidia.com/blog/category/robotics/",
-      "title": "Robotics Archives",
-      "content_text": "AI models are advancing at a rapid rate and scale. But what might they lack that (most) humans… Read Article"
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "url": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "title": "Generative AI Archives",
-      "content_text": "ComfyUI — an open-source, node-based graphical interface for running and building generative AI workflows for content creation —… Read Article"
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/category/auto/",
-      "url": "https://blogs.nvidia.com/blog/category/auto/",
-      "title": "Driving Archives",
-      "content_text": "At this week’s IAA Mobility conference in Munich, NVIDIA Vice President of Automotive Ali Kani outlined how cloud-to-car… Read Article"
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/category/gaming/",
-      "url": "https://blogs.nvidia.com/blog/category/gaming/",
-      "title": "Gaming Archives",
-      "content_text": "GeForce NOW Blackwell RTX 5080-class SuperPODs are now rolling out, unlocking a new level of ultra high-performance, cinematic… Read Article"
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/category/pro-graphics/",
-      "url": "https://blogs.nvidia.com/blog/category/pro-graphics/",
-      "title": "Pro Graphics Archives",
-      "content_text": "Editor’s note: This blog is a part of Into the Omniverse, a series focused on how developers, 3D… Read Article"
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/category/data-center-cloud/",
-      "url": "https://developer.nvidia.com/blog/category/data-center-cloud/",
-      "title": "Category: Data Center / Cloud | NVIDIA Technical Blog",
-      "content_text": "Category: Data Center / Cloud | NVIDIA Technical Blog"
+      "content_text": "At this week’s AI Infrastructure Summit in Silicon Valley, NVIDIA’s VP of Accelerated Computing Ian Buck unveiled a bold new vision: the transformation of traditional data centers into fully integrated AI factories. As part of this initiative, NVIDIA is developing reference designs to be shared with partners and enterprises worldwide — offering an NVIDIA Omniverse  Read Article",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/inference-corp-blog-ai-factory-1280x680-1.png",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://developer.nvidia.com/blog/nvidia-blackwell-ultra-sets-new-inference-records-in-mlperf-debut/",
       "url": "https://developer.nvidia.com/blog/nvidia-blackwell-ultra-sets-new-inference-records-in-mlperf-debut/",
       "title": "NVIDIA Blackwell Ultra Sets New Inference Records in MLPerf Debut | NVIDIA Technical Blog",
-      "content_text": "As large language models (LLMs) grow larger, they get smarter, with open models from leading developers now featuring hundreds of billions of parameters. At the same time, today’s leading models are…"
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/category/generative-ai/",
-      "url": "https://developer.nvidia.com/blog/category/generative-ai/",
-      "title": "Category: Generative AI | NVIDIA Technical Blog",
-      "content_text": "Category: Generative AI | NVIDIA Technical Blog"
+      "content_text": "As large language models (LLMs) grow larger, they get smarter, with open models from leading developers now featuring hundreds of billions of parameters. At the same time, today’s leading models are…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/grace-tech-blog-gb300-nvl72-1920x1080-r1.png",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://developer.nvidia.com/blog/nvidia-rubin-cpx-accelerates-inference-performance-and-efficiency-for-1m-token-context-workloads/",
       "url": "https://developer.nvidia.com/blog/nvidia-rubin-cpx-accelerates-inference-performance-and-efficiency-for-1m-token-context-workloads/",
       "title": "NVIDIA Rubin CPX Accelerates Inference Performance and Efficiency for 1M+ Token Context Workloads | NVIDIA Technical Blog",
-      "content_text": "Inference has emerged as the new frontier of complexity in AI. Modern models are evolving into agentic systems capable of multi-step reasoning, persistent memory, and long-horizon context—enabling…"
+      "content_text": "Inference has emerged as the new frontier of complexity in AI. Modern models are evolving into agentic systems capable of multi-step reasoning, persistent memory, and long-horizon context—enabling…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/Rubin-CPX.png",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
-      "id": "https://developer.nvidia.com/blog/category/deployment/",
-      "url": "https://developer.nvidia.com/blog/category/deployment/",
-      "title": "Category: AI Platforms / Deployment | NVIDIA Technical Blog",
-      "content_text": "Category: AI Platforms / Deployment | NVIDIA Technical Blog"
+      "id": "https://www.broadinstitute.org/news/remembering-david-baltimore",
+      "url": "https://www.broadinstitute.org/news/remembering-david-baltimore",
+      "title": "Remembering David Baltimore",
+      "content_text": "David Baltimore served as Chair of the Broad Institute Board of Scientific Counselors, was a member of our Board of Directors, and was essential in the formation of the Broad Institute itself. We asked our Founding Director, Eric S. Lander, to share some reflections with the Broad community.",
+      "attachments": [
+        {
+          "url": "https://www.broadinstitute.org/files/longstory/News_David-Baltimore_ext-main_090825_x2-res.png",
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputer-live/",
+      "url": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputer-live/",
+      "title": "Now Live: Europe’s First Exascale Supercomputer, JUPITER, Accelerates Climate Research, Neuroscience, Quantum Simulation",
+      "content_text": "At JUPITER’s inauguration ceremony in Jülich, attended by Germany Chancellor Friedrich Merz, the Jülich Supercomputing Centre and NVIDIA unveiled ways the supercomputer is already spurring innovation across the world.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/jupiter-featured-still-1280x680-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://www.broadinstitute.org/news/mass-general-brigham-launches-genetic-test-predict-risk-across-eight-cardiovascular-conditions",
+      "url": "https://www.broadinstitute.org/news/mass-general-brigham-launches-genetic-test-predict-risk-across-eight-cardiovascular-conditions",
+      "title": "Mass General Brigham launches genetic test to predict risk across eight cardiovascular conditions",
+      "content_text": "Developed in collaboration with Broad Clinical Labs and Mass General Brigham Laboratory for Molecular Medicine, the test provides a comprehensive view of a patient’s inherited heart disease risk. div.hero-section__author { display:none;}",
+      "attachments": [
+        {
+          "url": "https://www.broadinstitute.org/files/longstory/News_BCL-logo-resize_ext-main-x2-size_090325.png",
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "id": "https://www.broadinstitute.org/news/how-massive-datasets-generated-broad-are-powering-latest-ai-models-biology",
+      "url": "https://www.broadinstitute.org/news/how-massive-datasets-generated-broad-are-powering-latest-ai-models-biology",
+      "title": "How massive datasets generated at Broad are powering the latest AI models in biology",
+      "content_text": "Broad scientists describe how data resources they helped build over more than a decade now form the foundation for cutting-edge AI and genome biology discoveries.",
+      "attachments": [
+        {
+          "url": "https://www.broadinstitute.org/files/longstory/Kristin%20Ardlie%20Brad%20Bernstein%20AlphaGenome%20ENCODE%20GTEx.png",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://developer.nvidia.com/blog/how-small-language-models-are-key-to-scalable-agentic-ai/",
       "url": "https://developer.nvidia.com/blog/how-small-language-models-are-key-to-scalable-agentic-ai/",
       "title": "How Small Language Models Are Key to Scalable Agentic AI | NVIDIA Technical Blog",
-      "content_text": "The rapid rise of agentic AI has reshaped how enterprises, developers, and entire industries think about automation and digital productivity. From software development workflows to enterprise process…"
+      "content_text": "The rapid rise of agentic AI has reshaped how enterprises, developers, and entire industries think about automation and digital productivity. From software development workflows to enterprise process…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/08/Why-SLMs.png",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://developer.nvidia.com/blog/nvfp4-trains-with-precision-of-16-bit-and-speed-and-efficiency-of-4-bit/",
       "url": "https://developer.nvidia.com/blog/nvfp4-trains-with-precision-of-16-bit-and-speed-and-efficiency-of-4-bit/",
       "title": "NVFP4 Trains with Precision of 16-Bit and Speed and Efficiency of 4-Bit | NVIDIA Technical Blog",
-      "content_text": "In recent years, AI workloads have grown exponentially—not only in the deployment of large language models (LLMs) but also in the demand to process ever more tokens during pretraining and post…"
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/category/robotics/",
-      "url": "https://developer.nvidia.com/blog/category/robotics/",
-      "title": "Category: Robotics | NVIDIA Technical Blog",
-      "content_text": "Category: Robotics | NVIDIA Technical Blog"
+      "content_text": "In recent years, AI workloads have grown exponentially—not only in the deployment of large language models (LLMs) but also in the demand to process ever more tokens during pretraining and post…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/08/llm-megatron-core-blog-2967200-1920x1080-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
     },
     {
       "id": "https://developer.nvidia.com/blog/introducing-nvidia-jetson-thor-the-ultimate-platform-for-physical-ai/",
       "url": "https://developer.nvidia.com/blog/introducing-nvidia-jetson-thor-the-ultimate-platform-for-physical-ai/",
       "title": "Introducing NVIDIA Jetson Thor, the Ultimate Platform for Physical AI | NVIDIA Technical Blog",
-      "content_text": "Robotics is undergoing a revolution, moving beyond the era of specialist machines to generalist robotics. This shift moves away from single-purpose, fixed-function robots toward adaptable robots…"
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/recent-posts/",
-      "url": "https://developer.nvidia.com/blog/recent-posts/",
-      "title": "Recent posts",
-      "content_text": "News and tutorials for developers, scientists, and IT admins"
-    },
-    {
-      "id": "https://www.palladyneai.com/blog/",
-      "url": "https://www.palladyneai.com/blog/",
-      "title": "Blog",
-      "content_text": "Tackling the growing demand for automation with AI-driven robotics Surface technology companies stand at a pivotal crossroads. 2025 will be a year of strong growth for the surface finishing market as demands…"
-    },
-    {
-      "id": "https://www.palladyneai.com/blog/unlocking-the-future-of-surface-finishing-with-ai-powered-adaptive-robotics/",
-      "url": "https://www.palladyneai.com/blog/unlocking-the-future-of-surface-finishing-with-ai-powered-adaptive-robotics/",
-      "title": "Unlocking the Future of Surface Finishing with AI-Powered Adaptive Robotics",
-      "content_text": "Discover how AI software is revolutionizing surface finishing by tackling labor shortages, increasing consistency, and accelerating automation."
-    },
-    {
-      "id": "https://www.palladyneai.com/blog/time-to-value-speeds-up-with-emerging-ai-enabled-robotics-automation/",
-      "url": "https://www.palladyneai.com/blog/time-to-value-speeds-up-with-emerging-ai-enabled-robotics-automation/",
-      "title": "Time-to-Value Speeds Up with Emerging AI-Enabled Robotics Automation",
-      "content_text": "ABI Research report explores how AI-enabled robotics automation with a human element boosts manufacturing."
-    },
-    {
-      "id": "https://www.palladyneai.com/blog/enhancing-mro-and-remanufacturing-work-processes-with-ai/",
-      "url": "https://www.palladyneai.com/blog/enhancing-mro-and-remanufacturing-work-processes-with-ai/",
-      "title": "Enhancing MRO and Remanufacturing Work Processes with AI",
-      "content_text": "Implementing Palladyne IQ robotic AI software can help autonomously manage component cleaning, prepare surfaces for the next production stage, and enhance the overall production process across MRO, remanufacturing, and other industries."
-    },
-    {
-      "id": "https://www.palladyneai.com/blog/speeding-robotics-automation-with-ai/",
-      "url": "https://www.palladyneai.com/blog/speeding-robotics-automation-with-ai/",
-      "title": "Speeding Robotics Automation with AI",
-      "content_text": "ABI Research report explores AI-enabled robotics automation"
-    },
-    {
-      "id": "https://www.palladyneai.com/blog/how-autonomous-ai-tackles-quality-control-costs/",
-      "url": "https://www.palladyneai.com/blog/how-autonomous-ai-tackles-quality-control-costs/",
-      "title": "How Autonomous AI Tackles Quality Control Costs",
-      "content_text": "Palladyne IQ robotic AI software helps automate inspection and streamline production across many industries."
-    },
-    {
-      "id": "https://www.palladyneai.com/blog/physical-ai-embracing-ais-moment-in-robotics/",
-      "url": "https://www.palladyneai.com/blog/physical-ai-embracing-ais-moment-in-robotics/",
-      "title": "Physical AI: Embracing AI’s Moment in Robotics",
-      "content_text": "The rise of physical AI is having its breakthrough moment, like ChatGPT did in language processing in 2022. Read more."
-    },
-    {
-      "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/automotive/",
-      "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/automotive/",
-      "title": "Automotive - Microsoft Industry Blogs",
-      "content_text": "Read the latest news and posts about Automotive from Microsoft's team of experts at Microsoft Industry Blogs."
-    },
-    {
-      "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/",
-      "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/",
-      "title": "Manufacturing - Microsoft Industry Blogs",
-      "content_text": "Read the latest news and posts about Manufacturing from Microsoft's team of experts at Microsoft Industry Blogs."
-    },
-    {
-      "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/mobility/",
-      "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/mobility/",
-      "title": "Mobility - Microsoft Industry Blogs",
-      "content_text": "Read the latest news and posts about Mobility from Microsoft's team of experts at Microsoft Industry Blogs."
-    },
-    {
-      "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/travel/",
-      "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/travel/",
-      "title": "Travel - Microsoft Industry Blogs",
-      "content_text": "Read the latest news and posts about Travel from Microsoft's team of experts at Microsoft Industry Blogs."
-    },
-    {
-      "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/transport-and-logistics/",
-      "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/transport-and-logistics/",
-      "title": "Transport and logistics - Microsoft Industry Blogs",
-      "content_text": "Read the latest news and posts about Transport and logistics from Microsoft's team of experts at Microsoft Industry Blogs."
+      "content_text": "Robotics is undergoing a revolution, moving beyond the era of specialist machines to generalist robotics. This shift moves away from single-purpose, fixed-function robots toward adaptable robots…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/08/jetson-thor-1.png",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/19/unlocking-the-potential-of-manufacturing-with-cloud-modernization/",
       "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/19/unlocking-the-potential-of-manufacturing-with-cloud-modernization/",
       "title": "Unlocking the potential of manufacturing with cloud modernization - Microsoft Industry Blogs",
-      "content_text": "Uncover how manufacturers use AI and cloud to optimize operations, accelerate R&D, and deliver real business value. Learn more."
+      "content_text": "Uncover how manufacturers use AI and cloud to optimize operations, accelerate R&D, and deliver real business value. Learn more.",
+      "attachments": [
+        {
+          "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2025/08/CLO20_Libby_Joseph_Rene_001-yoast.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
     },
     {
       "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/07/embracing-ai-powered-operations-a-maturity-path-for-manufacturers/",
       "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/07/embracing-ai-powered-operations-a-maturity-path-for-manufacturers/",
       "title": "Embracing AI-powered operations: A maturity path for manufacturers - Microsoft Industry Blogs",
-      "content_text": "Discover how manufacturers are embracing AI to boost efficiency, resilience, and innovation with Microsoft’s guidance. Learn more."
+      "content_text": "Discover how manufacturers are embracing AI to boost efficiency, resilience, and innovation with Microsoft’s guidance. Learn more.",
+      "attachments": [
+        {
+          "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2025/08/CLO25-SCI-Lifestyle-047.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://www.broadinstitute.org/news/breathing-low-oxygen-air-slows-parkinsons-progression-mice",
+      "url": "https://www.broadinstitute.org/news/breathing-low-oxygen-air-slows-parkinsons-progression-mice",
+      "title": "Breathing low-oxygen air slows Parkinson’s progression in mice",
+      "content_text": "Low-oxygen air prevented and even reversed symptoms in a mouse model of Parkinson’s disease.",
+      "attachments": [
+        {
+          "url": "https://www.broadinstitute.org/files/longstory/mouse%20cells%20neurodegeneration.png",
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "id": "https://www.palladyneai.com/blog/unlocking-the-future-of-surface-finishing-with-ai-powered-adaptive-robotics/",
+      "url": "https://www.palladyneai.com/blog/unlocking-the-future-of-surface-finishing-with-ai-powered-adaptive-robotics/",
+      "title": "Unlocking the Future of Surface Finishing with AI-Powered Adaptive Robotics",
+      "content_text": "Discover how AI software is revolutionizing surface finishing by tackling labor shortages, increasing consistency, and accelerating automation.",
+      "attachments": [
+        {
+          "url": "https://www.palladyneai.com/wp-content/uploads/2025/07/surfaceprpe-750x470-1.png",
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "id": "https://www.palladyneai.com/blog/time-to-value-speeds-up-with-emerging-ai-enabled-robotics-automation/",
+      "url": "https://www.palladyneai.com/blog/time-to-value-speeds-up-with-emerging-ai-enabled-robotics-automation/",
+      "title": "Time-to-Value Speeds Up with Emerging AI-Enabled Robotics Automation",
+      "content_text": "ABI Research report explores how AI-enabled robotics automation with a human element boosts manufacturing.",
+      "attachments": [
+        {
+          "url": "https://www.palladyneai.com/wp-content/uploads/2025/06/abi-wp2.png",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/28/ai-in-process-manufacturing-from-operational-gains-to-strategic-advantage/",
       "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/28/ai-in-process-manufacturing-from-operational-gains-to-strategic-advantage/",
       "title": "AI in process manufacturing: From operational gains to strategic advantage - Microsoft Industry Blogs",
-      "content_text": "Explore insights into how manufacturers prioritize technology and where AI fits by reading the report \"Artificial Intelligence in Process Manufacturing.\""
+      "content_text": "Explore insights into how manufacturers prioritize technology and where AI fits by reading the report \"Artificial Intelligence in Process Manufacturing.\"",
+      "attachments": [
+        {
+          "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2025/05/MSC24-Japan-industry-Getty-1226752988-rgb.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://www.broadinstitute.org/news/evolved-gene-editor-inserts-entire-genes-human-cells",
+      "url": "https://www.broadinstitute.org/news/evolved-gene-editor-inserts-entire-genes-human-cells",
+      "title": "Evolved gene editor inserts entire genes in human cells",
+      "content_text": "The new system is the first to use a DNA-mobilizing enzyme called a CRISPR-associated transposase to make targeted gene-sized edits at therapeutically useful levels in human cells.",
+      "attachments": [
+        {
+          "url": "https://www.broadinstitute.org/files/longstory/News_David-Liu-story_ext-main_050525_v5.png",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
       "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/05/creating-a-resilient-supply-chain-using-connected-data-chains/",
       "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/05/creating-a-resilient-supply-chain-using-connected-data-chains/",
       "title": "Creating a resilient supply chain using connected data chains - Microsoft Industry Blogs",
-      "content_text": "Explore how Microsoft is enabling companies to easily navigate complexities and use technology with connected data chains and AI."
+      "content_text": "Explore how Microsoft is enabling companies to easily navigate complexities and use technology with connected data chains and AI.",
+      "attachments": [
+        {
+          "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2025/05/CLO24-Azure-Manufacturing-002.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
     },
     {
-      "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/",
-      "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/",
-      "title": "Manufacturing and mobility - Microsoft Industry Blogs",
-      "content_text": "Read the latest news and posts about Manufacturing and mobility from Microsoft's team of experts at Microsoft Industry Blogs."
+      "id": "https://www.palladyneai.com/blog/enhancing-mro-and-remanufacturing-work-processes-with-ai/",
+      "url": "https://www.palladyneai.com/blog/enhancing-mro-and-remanufacturing-work-processes-with-ai/",
+      "title": "Enhancing MRO and Remanufacturing Work Processes with AI",
+      "content_text": "Implementing Palladyne IQ robotic AI software can help autonomously manage component cleaning, prepare surfaces for the next production stage, and enhance the overall production process across MRO, remanufacturing, and other industries.",
+      "attachments": [
+        {
+          "url": "https://www.palladyneai.com/wp-content/uploads/2025/04/cylinder-remfg.png",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
-      "id": "https://www.microsoft.com/en-us/industry/blog/",
-      "url": "https://www.microsoft.com/en-us/industry/blog/",
-      "title": "Microsoft Industry Blogs",
-      "content_text": "Learn how to innovate with Microsoft’s latest digital transformation solutions in financial services, health, government, manufacturing, retail, and more."
+      "id": "https://www.palladyneai.com/blog/speeding-robotics-automation-with-ai/",
+      "url": "https://www.palladyneai.com/blog/speeding-robotics-automation-with-ai/",
+      "title": "Speeding Robotics Automation with AI",
+      "content_text": "ABI Research report explores AI-enabled robotics automation",
+      "attachments": [
+        {
+          "url": "https://www.palladyneai.com/wp-content/uploads/2025/04/abi-whitepaper-1.png",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
-      "id": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/",
-      "url": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/",
-      "title": "Energy and resources - Microsoft Industry Blogs",
-      "content_text": "Read the latest news and posts about Energy and resources from Microsoft's team of experts at Microsoft Industry Blogs."
+      "id": "https://www.palladyneai.com/blog/how-autonomous-ai-tackles-quality-control-costs/",
+      "url": "https://www.palladyneai.com/blog/how-autonomous-ai-tackles-quality-control-costs/",
+      "title": "How Autonomous AI Tackles Quality Control Costs",
+      "content_text": "Palladyne IQ robotic AI software helps automate inspection and streamline production across many industries.",
+      "attachments": [
+        {
+          "url": "https://www.palladyneai.com/wp-content/uploads/2025/03/qa-inspection_750x470.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
     },
     {
-      "id": "https://www.microsoft.com/en-us/industry/blog/financial-services/",
-      "url": "https://www.microsoft.com/en-us/industry/blog/financial-services/",
-      "title": "Financial services - Microsoft Industry Blogs",
-      "content_text": "Read the latest news and posts about Financial services from Microsoft's team of experts at Microsoft Industry Blogs."
+      "id": "https://www.palladyneai.com/blog/physical-ai-embracing-ais-moment-in-robotics/",
+      "url": "https://www.palladyneai.com/blog/physical-ai-embracing-ais-moment-in-robotics/",
+      "title": "Physical AI: Embracing AI’s Moment in Robotics",
+      "content_text": "The rise of physical AI is having its breakthrough moment, like ChatGPT did in language processing in 2022. Read more.",
+      "attachments": [
+        {
+          "url": "https://www.palladyneai.com/wp-content/uploads/2025/03/blog_02_750x470.png",
+          "mime_type": "image/png"
+        }
+      ]
     },
     {
-      "id": "https://www.microsoft.com/en-us/industry/blog/government/",
-      "url": "https://www.microsoft.com/en-us/industry/blog/government/",
-      "title": "Government - Microsoft Industry Blogs",
-      "content_text": "Read the latest news and posts about Government from Microsoft's team of experts at Microsoft Industry Blogs."
+      "id": "https://www.broadinstitute.org/news/gene-editing-extends-lifespan-mouse-model-prion-disease",
+      "url": "https://www.broadinstitute.org/news/gene-editing-extends-lifespan-mouse-model-prion-disease",
+      "title": "Gene editing extends lifespan in mouse model of prion disease",
+      "content_text": "A single-letter edit in DNA reduces levels of the disease-causing prion protein in the brain and could lead to a preventative, one-time treatment for the deadly neurodegenerative disorder.",
+      "attachments": [
+        {
+          "url": "https://www.broadinstitute.org/files/longstory/main_DSC_7699_mo-BROAD00263909.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://www.broadinstitute.org/news/scientists-engineer-crispr-enzymes-evade-immune-system",
+      "url": "https://www.broadinstitute.org/news/scientists-engineer-crispr-enzymes-evade-immune-system",
+      "title": "Scientists engineer CRISPR enzymes that evade the immune system",
+      "content_text": "The new genome-editing tools could lead to safer, more efficient gene therapies.",
+      "attachments": [
+        {
+          "url": "https://www.broadinstitute.org/files/longstory/1206-CRISPR-Story-Image.png",
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "id": "https://www.broadinstitute.org/news/researchers-devise-new-way-target-and-correct-disease-related-proteins",
+      "url": "https://www.broadinstitute.org/news/researchers-devise-new-way-target-and-correct-disease-related-proteins",
+      "title": "Researchers devise new way to target and correct disease-related proteins",
+      "content_text": "Broad scientists built a diverse library of compounds and found one that stabilizes a dysfunctional protein in Crohn’s disease, demonstrating their library’s potential to uncover new therapeutic strategies.",
+      "attachments": [
+        {
+          "url": "https://www.broadinstitute.org/files/longstory/CIP-DEL_main3.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
+      "url": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
+      "title": "AlphaQubit tackles one of quantum computing’s biggest challenges",
+      "content_text": "AlphaQubit is an AI-based decoder that identifies quantum computing errors with state-of-the-art accuracy.",
+      "attachments": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Share_Image_-_1920_x_1080.width-1300.png",
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "id": "https://www.broadinstitute.org/news/new-drug-triggers-rapid-cell-death-cancer-models",
+      "url": "https://www.broadinstitute.org/news/new-drug-triggers-rapid-cell-death-cancer-models",
+      "title": "New drug triggers rapid cell death in cancer models",
+      "content_text": "BRD-810 inhibits the MCL1 protein and reactivates apoptosis in tumor cells, displaying therapeutic potential in animal models.",
+      "attachments": [
+        {
+          "url": "https://www.broadinstitute.org/files/longstory/nci-vol-2336-150_AML.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news/recently-published/",
+      "url": "https://www.nasa.gov/news/recently-published/",
+      "title": "All NASA News - NASA",
+      "content_text": "Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet."
+    },
+    {
+      "id": "https://www.nasa.gov/news/media-contacts/",
+      "url": "https://www.nasa.gov/news/media-contacts/",
+      "title": "NASA Media Contacts - NASA",
+      "content_text": "Media Contacts Roxana Bardan Mars Sample Return 771-200-7217 Gerelle Dodson NASA Workforce, STEM Engagement 202-358-1600 Jennifer Dooren Deputy News Chief,",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news/",
+      "url": "https://www.nasa.gov/news/",
+      "title": "NASA News",
+      "content_text": "Resources for news media, including NASA news contacts and archived news material",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/05/54492396655-c6ba83df1d-o-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/",
+      "url": "https://deepmind.google/discover/blog/",
+      "title": "Blog",
+      "content_text": "Discover our latest AI breakthroughs, projects, and updates.",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/EExFoaxzaMXaBiDlykAzkLEb5txs5aWQn6Lby4vpIXeKE60Fz4VdHOhbl1t8C0YEXJXKzux8i4fAxdb0n4UDFpns5U5VAeybnUNFc5OfnIZYJqMmzww=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/",
+      "url": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/",
+      "title": "AlphaGenome: AI for better understanding the genome",
+      "content_text": "Introducing a new, unifying DNA sequence model that advances regulatory variant-effect prediction and promises to shed new light on genome function — now available via API.",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/SZkcKUQyLUhSQ06Rq-PJbxAqn1OpMeEa3khkrBVB1MGyHfxyftoqWwEb2aLP9JxX7CjhpLFODcc5zIoMoNdu0bl6ELsZV2nP9fDwZC6SYS36lzAKDw=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://deepmind.google/api/blob/website/media/AlphaGenome-Figure1-Animation-000000.mp4",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/",
+      "url": "https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/",
+      "title": "A catalogue of genetic mutations to help pinpoint the cause of diseases",
+      "content_text": "New AI tool classifies the effects of 71 million ‘missense’ mutations \nUncovering the root causes of disease is one of the greatest challenges in human genetics. With millions of possible...",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/JySjDTZvGqEzUfDic5QOU6Rne3r6RWpiw5JZQ9VdzK1O5C20EbAkSPURGoCmAhea_U-gyyRu4KdCZmeWSCtYjGHHMvM0jVK5fWiqOwa0rpcC5uzM=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/",
+      "url": "https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/",
+      "title": "AlphaProteo generates novel proteins for biology and health research",
+      "content_text": "New AI system designs proteins that successfully bind to target molecules, with potential for advancing drug design, disease understanding and more.",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/7RKd6r-Wc8JfMau5x9knRq9DrOKGDwS3ye4YxY0jjWGntf74y8WL0lOlktJefxwkJYw33UEf2Ph_BhQ51TIufCxPkmtCPOpakekMpnOUwVI-3R6RzQ=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://deepmind.google/api/blob/website/media/GDM-ProteinDesignBlog-02-Binder-Final.mp4",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+      "url": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+      "title": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms",
+      "content_text": "New AI agent evolves algorithms for math and practical applications in computing by combining the creativity of large language models with automated evaluators",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/tG6-MqdlvhQ-z7ENzGxR-kpGPPdPHbJ8UZtbTP66Rxi0UftTFU1yAvaBCVuigYuKvESMeEFf4jqNBVENFcZXEUnj8SSqj8zsop8UHAl0eD9A-hUCvQ=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://deepmind.google/api/blob/website/media/Code-Evolution-Illustration_compressed_iUJETbv.mp4",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/",
+      "url": "https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/",
+      "title": "AI achieves silver-medal standard solving International Mathematical Olympiad problems",
+      "content_text": "Breakthrough models AlphaProof and AlphaGeometry 2 solve advanced reasoning problems in mathematics",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/2A21eFt7wdDrmMzzkenrCTuioLWGFdzU5Ao5dPH9yPtAw6QNHxZcDmoQA2_ZriU2gMjX8mzEOtfPbMCRuL5kVzLoz6efLgqT_foBXU3pxKBXTTOXXpc=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/",
+      "url": "https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/",
+      "title": "Millions of new materials discovered with deep learning",
+      "content_text": "We share the discovery of 2.2 million new crystals  –  equivalent to nearly 800 years’ worth of knowledge. We introduce Graph Networks for Materials Exploration (GNoME), our new deep learning tool...",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/mq3mFiVHSVuszhJMt-Nz4jckN5qy3cAckEIdNYDPhy8UHjxk4VkGFriqo8sA76teioNQ2fC3qgMH7FJfPc0L5JJPppXiZzHP7Rl3UodlU4IC4TWw=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/accelerating-fusion-science-through-learned-plasma-control/",
+      "url": "https://deepmind.google/discover/blog/accelerating-fusion-science-through-learned-plasma-control/",
+      "title": "Accelerating fusion science through learned plasma control",
+      "content_text": "Successfully controlling the nuclear fusion plasma in a tokamak with deep reinforcement learning",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/2enxIWCpVE9laIRzXhLngv6nvwB-M-qSubWh_uTkhaGfbY4vJnvnCLef1VKiwP_U4b0LXmVkfvJ9LXDTVN1DY0wdDesfRibd57GvjBYAgaylMQwUbQ=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/",
+      "url": "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/",
+      "title": "Genie 3: A New Frontier for World Models",
+      "content_text": "Today we are announcing Genie 3, a general purpose world model that can generate an unprecedented diversity of interactive environments. Given a text prompt, Genie 3 can generate dynamic worlds...",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/pXnO9nBpgw0RnwPCDrcbdFqO0cHkaIsQYNuOyXd7L3iFrp0Mr_yLMROiWzz3EqG8W-qq-QzGPTEAs1pr75kX7SzVC-y4jnON7b7P9Bwqd19Nl-bkJYc=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://deepmind.google/api/blob/website/media/sxs_1.mp4",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-opus-4-1",
+      "url": "https://www.anthropic.com/news/claude-opus-4-1",
+      "title": "Claude Opus 4.1",
+      "content_text": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "attachments": [
+        {
+          "url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand+HeadShapes&backgroundColor=clay",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+      "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+      "title": "Anthropic raises $13B Series F at $183B post-money valuation",
+      "content_text": "Anthropic has completed a Series F fundraising of $13 billion led by ICONIQ. This financing values Anthropic at $183 billion post-money. Along with ICONIQ, the round was co-led by Fidelity Management & Research Company and Lightspeed Venture Partners. The investment reflects Anthropic’s continued momentum and reinforces our position as the leading intelligence platform for enterprises, developers, and power users.",
+      "attachments": [
+        {
+          "url": "https://www.anthropic.com/api/opengraph-illustration?name=Object+Growth&backgroundColor=cactus",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
+      "url": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
+      "title": "Thoughts on America’s AI Action Plan",
+      "content_text": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "attachments": [
+        {
+          "url": "https://www.anthropic.com/api/opengraph-illustration?name=Object+Government&backgroundColor=oat",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-for-financial-services",
+      "url": "https://www.anthropic.com/news/claude-for-financial-services",
+      "title": "Claude for Financial Services",
+      "content_text": "Today, we're introducing a comprehensive solution for financial analysis that transforms how finance professionals analyze markets, conduct research, and make investment decisions with Claude.",
+      "attachments": [
+        {
+          "url": "https://www.anthropic.com/api/opengraph-illustration?name=Object+Stairs&backgroundColor=clay",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi",
+      "url": "https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi",
+      "title": "Strengthening our safeguards through collaboration with US CAISI and UK AISI",
+      "content_text": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "attachments": [
+        {
+          "url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand+NodeTree&backgroundColor=olive",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://www.anthropic.com/news/memory",
+      "url": "https://www.anthropic.com/news/memory",
+      "title": "Claude introduces memory for teams at work",
+      "content_text": "Claude now remembers your team's projects and preferences across conversations. Memory helps maintain context for complex work, with project-specific boundaries and full user control over what's remembered.",
+      "attachments": [
+        {
+          "url": "https://cdn.sanity.io/images/4zrzovbb/website/b0fec85c4cfb29023f80f59ae564a77b6dc0ba78-2400x1260.png",
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "id": "https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference",
+      "title": "NVIDIA Unveils Rubin CPX: A New Class of GPU Designed for Massive-Context Inference",
+      "content_text": "NVIDIA® today announced NVIDIA Rubin CPX, a new class of GPU purpose-built for massive-context processing. This enables AI systems to handle million-token software coding and generative video with groundbreaking speed and efficiency.",
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/20258/68bfc6923d63326179fd6e93_NVIDIA-Vera-Rubin-NVL144-with-Tray/NVIDIA-Vera-Rubin-NVL144-with-Tray_9c8325db-10d8-4cfa-a328-3ede9f034f42-prv.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2026",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2026",
+      "title": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2026",
+      "content_text": "NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 27, 2025, of $46.7 billion, up 6% from the previous quarter and up 56% from a year ago. NVIDIA’s Blackwell Data Center revenue grew 17% sequentially.",
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/202508/68af68fe3d6332f1d02dec8d_24a5522e-6258-4e72-9c8a-a57178db4b4/24a5522e-6258-4e72-9c8a-a57178db4b4_9c0cabfb-e23b-4e8e-bf2d-7c4f9015609e-prv.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://nvidianews.nvidia.com/news/industry-leaders-transform-enterprise-data-centers-for-the-ai-era-with-nvidia-rtx-pro-servers",
+      "url": "https://nvidianews.nvidia.com/news/industry-leaders-transform-enterprise-data-centers-for-the-ai-era-with-nvidia-rtx-pro-servers",
+      "title": "Industry Leaders Transform Enterprise Data Centers for the AI Era With NVIDIA RTX PRO Servers",
+      "content_text": "NVIDIA today announced leading global enterprises have adopted NVIDIA RTX PRO™ Servers — a new category of enterprise data center infrastructure powered by the RTX PRO 6000 Blackwell Server Edition GPU — speeding the shift from general-purpose computing clusters to AI factory infrastructure, without a complete data center overhaul.",
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/20257/68ad415c3d633261f20e40d9_rtx-pro-server/rtx-pro-server_18334441-96e9-4b09-9f8c-f52aa4c23936-prv.png",
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "url": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "title": "Generative AI Archives",
+      "content_text": "Celtic languages — including Cornish, Irish, Scottish Gaelic and Welsh — are the U.K.’s oldest living languages. To… Read Article",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/corporate/",
+      "url": "https://blogs.nvidia.com/blog/category/corporate/",
+      "title": "Corporate Archives",
+      "content_text": "NVIDIA Corporate Blog Post Archive",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/enterprise/",
+      "url": "https://blogs.nvidia.com/blog/category/enterprise/",
+      "title": "Data Center Archives",
+      "content_text": "Celtic languages — including Cornish, Irish, Scottish Gaelic and Welsh — are the U.K.’s oldest living languages. To… Read Article",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/auto/",
+      "url": "https://blogs.nvidia.com/blog/category/auto/",
+      "title": "Driving Archives",
+      "content_text": "At this week’s IAA Mobility conference in Munich, NVIDIA Vice President of Automotive Ali Kani outlined how cloud-to-car… Read Article",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/08/automotive-comms-drive-agx-thor-1280x680-1.mp4",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/gaming/",
+      "url": "https://blogs.nvidia.com/blog/category/gaming/",
+      "title": "Gaming Archives",
+      "content_text": "GeForce NOW Blackwell RTX 5080-class SuperPODs are now rolling out, unlocking a new level of ultra high-performance, cinematic… Read Article",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/pro-graphics/",
+      "url": "https://blogs.nvidia.com/blog/category/pro-graphics/",
+      "title": "Pro Graphics Archives",
+      "content_text": "Editor’s note: This blog is a part of Into the Omniverse, a series focused on how developers, 3D… Read Article",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/robotics/",
+      "url": "https://blogs.nvidia.com/blog/category/robotics/",
+      "title": "Robotics Archives",
+      "content_text": "AI models are advancing at a rapid rate and scale. But what might they lack that (most) humans… Read Article",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/06/rss-asap-1920x1080-1.mp4",
+          "mime_type": "video/mp4"
+        }
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/category/data-center-cloud/",
+      "url": "https://developer.nvidia.com/blog/category/data-center-cloud/",
+      "title": "Category: Data Center / Cloud | NVIDIA Technical Blog",
+      "content_text": "Category: Data Center / Cloud | NVIDIA Technical Blog",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2024/09/techblog-og.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/category/generative-ai/",
+      "url": "https://developer.nvidia.com/blog/category/generative-ai/",
+      "title": "Category: Generative AI | NVIDIA Technical Blog",
+      "content_text": "Category: Generative AI | NVIDIA Technical Blog",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2024/09/techblog-og.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/category/deployment/",
+      "url": "https://developer.nvidia.com/blog/category/deployment/",
+      "title": "Category: AI Platforms / Deployment | NVIDIA Technical Blog",
+      "content_text": "Category: AI Platforms / Deployment | NVIDIA Technical Blog",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2024/09/techblog-og.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ]
     }
   ]
 }

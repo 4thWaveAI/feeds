@@ -4,7 +4,231 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Sun, 14 Sep 2025 00:22:44 +0000</updated>
+  <updated>Sun, 14 Sep 2025 01:19:19 +0000</updated>
+  <entry>
+    <title>Reaching Across the Isles: UK-LLM Brings AI to UK Languages With NVIDIA Nemotron</title>
+    <link href="https://blogs.nvidia.com/blog/uk-llm-nemotron/"/>
+    <id>https://blogs.nvidia.com/blog/uk-llm-nemotron/</id>
+    <summary type="text">Trained on the Isambard-AI supercomputer, UK-LLM enables AI reasoning for Welsh and other UK languages for public services.</summary>
+    <updated>Sun, 14 Sep 2025 01:00:21 +0000</updated>
+  </entry>
+  <entry>
+    <title>#WhyIScience Q&amp;A: A structural biologist adopts a new role catalyzing collaborations</title>
+    <link href="https://www.broadinstitute.org/news/whyiscience-qa-structural-biologist-adopts-new-role-catalyzing-collaborations"/>
+    <id>https://www.broadinstitute.org/news/whyiscience-qa-structural-biologist-adopts-new-role-catalyzing-collaborations</id>
+    <summary type="text">A former drug discovery scientist, Gail Guo now helps advance research into novel cancer drugs as part of Broad’s alliance with Bayer.</summary>
+    <updated>Wed, 10 Sep 2025 09:22:24 -0400</updated>
+  </entry>
+  <entry>
+    <title>NVIDIA Partners With AI Infrastructure Ecosystem to Unveil Reference Design for Giga-Scale AI Factories</title>
+    <link href="https://blogs.nvidia.com/blog/ai-factories-reference-design/"/>
+    <id>https://blogs.nvidia.com/blog/ai-factories-reference-design/</id>
+    <summary type="text">At this week’s AI Infrastructure Summit in Silicon Valley, NVIDIA’s VP of Accelerated Computing Ian Buck unveiled a bold new vision: the transformation of traditional data centers into fully integrated AI factories. As part of this initiative, NVIDIA is developing reference designs to be shared with partners and enterprises worldwide — offering an NVIDIA Omniverse  Read Article</summary>
+    <updated>Tue, 09 Sep 2025 15:00:29 +0000</updated>
+  </entry>
+  <entry>
+    <title>NVIDIA Blackwell Ultra Sets New Inference Records in MLPerf Debut | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/nvidia-blackwell-ultra-sets-new-inference-records-in-mlperf-debut/"/>
+    <id>https://developer.nvidia.com/blog/nvidia-blackwell-ultra-sets-new-inference-records-in-mlperf-debut/</id>
+    <summary type="text">As large language models (LLMs) grow larger, they get smarter, with open models from leading developers now featuring hundreds of billions of parameters. At the same time, today’s leading models are…</summary>
+    <updated>Tue, 09 Sep 2025 15:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>NVIDIA Rubin CPX Accelerates Inference Performance and Efficiency for 1M+ Token Context Workloads | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/nvidia-rubin-cpx-accelerates-inference-performance-and-efficiency-for-1m-token-context-workloads/"/>
+    <id>https://developer.nvidia.com/blog/nvidia-rubin-cpx-accelerates-inference-performance-and-efficiency-for-1m-token-context-workloads/</id>
+    <summary type="text">Inference has emerged as the new frontier of complexity in AI. Modern models are evolving into agentic systems capable of multi-step reasoning, persistent memory, and long-horizon context—enabling…</summary>
+    <updated>Tue, 09 Sep 2025 15:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Remembering David Baltimore</title>
+    <link href="https://www.broadinstitute.org/news/remembering-david-baltimore"/>
+    <id>https://www.broadinstitute.org/news/remembering-david-baltimore</id>
+    <summary type="text">David Baltimore served as Chair of the Broad Institute Board of Scientific Counselors, was a member of our Board of Directors, and was essential in the formation of the Broad Institute itself. We asked our Founding Director, Eric S. Lander, to share some reflections with the Broad community.</summary>
+    <updated>Mon, 08 Sep 2025 11:19:08 -0400</updated>
+  </entry>
+  <entry>
+    <title>Now Live: Europe’s First Exascale Supercomputer, JUPITER, Accelerates Climate Research, Neuroscience, Quantum Simulation</title>
+    <link href="https://blogs.nvidia.com/blog/jupiter-exascale-supercomputer-live/"/>
+    <id>https://blogs.nvidia.com/blog/jupiter-exascale-supercomputer-live/</id>
+    <summary type="text">At JUPITER’s inauguration ceremony in Jülich, attended by Germany Chancellor Friedrich Merz, the Jülich Supercomputing Centre and NVIDIA unveiled ways the supercomputer is already spurring innovation across the world.</summary>
+    <updated>Fri, 05 Sep 2025 14:00:09 +0000</updated>
+  </entry>
+  <entry>
+    <title>Mass General Brigham launches genetic test to predict risk across eight cardiovascular conditions</title>
+    <link href="https://www.broadinstitute.org/news/mass-general-brigham-launches-genetic-test-predict-risk-across-eight-cardiovascular-conditions"/>
+    <id>https://www.broadinstitute.org/news/mass-general-brigham-launches-genetic-test-predict-risk-across-eight-cardiovascular-conditions</id>
+    <summary type="text">Developed in collaboration with Broad Clinical Labs and Mass General Brigham Laboratory for Molecular Medicine, the test provides a comprehensive view of a patient’s inherited heart disease risk. div.hero-section__author { display:none;}</summary>
+    <updated>Wed, 03 Sep 2025 17:35:14 -0400</updated>
+  </entry>
+  <entry>
+    <title>How massive datasets generated at Broad are powering the latest AI models in biology</title>
+    <link href="https://www.broadinstitute.org/news/how-massive-datasets-generated-broad-are-powering-latest-ai-models-biology"/>
+    <id>https://www.broadinstitute.org/news/how-massive-datasets-generated-broad-are-powering-latest-ai-models-biology</id>
+    <summary type="text">Broad scientists describe how data resources they helped build over more than a decade now form the foundation for cutting-edge AI and genome biology discoveries.</summary>
+    <updated>Wed, 03 Sep 2025 14:10:36 -0400</updated>
+  </entry>
+  <entry>
+    <title>How Small Language Models Are Key to Scalable Agentic AI | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/how-small-language-models-are-key-to-scalable-agentic-ai/"/>
+    <id>https://developer.nvidia.com/blog/how-small-language-models-are-key-to-scalable-agentic-ai/</id>
+    <summary type="text">The rapid rise of agentic AI has reshaped how enterprises, developers, and entire industries think about automation and digital productivity. From software development workflows to enterprise process…</summary>
+    <updated>Fri, 29 Aug 2025 18:00:42 +0000</updated>
+  </entry>
+  <entry>
+    <title>NVFP4 Trains with Precision of 16-Bit and Speed and Efficiency of 4-Bit | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/nvfp4-trains-with-precision-of-16-bit-and-speed-and-efficiency-of-4-bit/"/>
+    <id>https://developer.nvidia.com/blog/nvfp4-trains-with-precision-of-16-bit-and-speed-and-efficiency-of-4-bit/</id>
+    <summary type="text">In recent years, AI workloads have grown exponentially—not only in the deployment of large language models (LLMs) but also in the demand to process ever more tokens during pretraining and post…</summary>
+    <updated>Mon, 25 Aug 2025 17:59:23 +0000</updated>
+  </entry>
+  <entry>
+    <title>Introducing NVIDIA Jetson Thor, the Ultimate Platform for Physical AI | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/introducing-nvidia-jetson-thor-the-ultimate-platform-for-physical-ai/"/>
+    <id>https://developer.nvidia.com/blog/introducing-nvidia-jetson-thor-the-ultimate-platform-for-physical-ai/</id>
+    <summary type="text">Robotics is undergoing a revolution, moving beyond the era of specialist machines to generalist robotics. This shift moves away from single-purpose, fixed-function robots toward adaptable robots…</summary>
+    <updated>Mon, 25 Aug 2025 17:57:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Unlocking the potential of manufacturing with cloud modernization - Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/19/unlocking-the-potential-of-manufacturing-with-cloud-modernization/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/19/unlocking-the-potential-of-manufacturing-with-cloud-modernization/</id>
+    <summary type="text">Uncover how manufacturers use AI and cloud to optimize operations, accelerate R&amp;D, and deliver real business value. Learn more.</summary>
+    <updated>Tue, 19 Aug 2025 15:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Embracing AI-powered operations: A maturity path for manufacturers - Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/07/embracing-ai-powered-operations-a-maturity-path-for-manufacturers/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/07/embracing-ai-powered-operations-a-maturity-path-for-manufacturers/</id>
+    <summary type="text">Discover how manufacturers are embracing AI to boost efficiency, resilience, and innovation with Microsoft’s guidance. Learn more.</summary>
+    <updated>Thu, 07 Aug 2025 14:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Breathing low-oxygen air slows Parkinson’s progression in mice</title>
+    <link href="https://www.broadinstitute.org/news/breathing-low-oxygen-air-slows-parkinsons-progression-mice"/>
+    <id>https://www.broadinstitute.org/news/breathing-low-oxygen-air-slows-parkinsons-progression-mice</id>
+    <summary type="text">Low-oxygen air prevented and even reversed symptoms in a mouse model of Parkinson’s disease.</summary>
+    <updated>Wed, 06 Aug 2025 09:26:25 -0400</updated>
+  </entry>
+  <entry>
+    <title>Unlocking the Future of Surface Finishing with AI-Powered Adaptive Robotics</title>
+    <link href="https://www.palladyneai.com/blog/unlocking-the-future-of-surface-finishing-with-ai-powered-adaptive-robotics/"/>
+    <id>https://www.palladyneai.com/blog/unlocking-the-future-of-surface-finishing-with-ai-powered-adaptive-robotics/</id>
+    <summary type="text">Discover how AI software is revolutionizing surface finishing by tackling labor shortages, increasing consistency, and accelerating automation.</summary>
+    <updated>Tue, 22 Jul 2025 15:46:23 +0000</updated>
+  </entry>
+  <entry>
+    <title>Time-to-Value Speeds Up with Emerging AI-Enabled Robotics Automation</title>
+    <link href="https://www.palladyneai.com/blog/time-to-value-speeds-up-with-emerging-ai-enabled-robotics-automation/"/>
+    <id>https://www.palladyneai.com/blog/time-to-value-speeds-up-with-emerging-ai-enabled-robotics-automation/</id>
+    <summary type="text">ABI Research report explores how AI-enabled robotics automation with a human element boosts manufacturing.</summary>
+    <updated>Tue, 10 Jun 2025 16:41:28 +0000</updated>
+  </entry>
+  <entry>
+    <title>AI in process manufacturing: From operational gains to strategic advantage - Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/28/ai-in-process-manufacturing-from-operational-gains-to-strategic-advantage/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/28/ai-in-process-manufacturing-from-operational-gains-to-strategic-advantage/</id>
+    <summary type="text">Explore insights into how manufacturers prioritize technology and where AI fits by reading the report &quot;Artificial Intelligence in Process Manufacturing.&quot;</summary>
+    <updated>Wed, 28 May 2025 15:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Evolved gene editor inserts entire genes in human cells</title>
+    <link href="https://www.broadinstitute.org/news/evolved-gene-editor-inserts-entire-genes-human-cells"/>
+    <id>https://www.broadinstitute.org/news/evolved-gene-editor-inserts-entire-genes-human-cells</id>
+    <summary type="text">The new system is the first to use a DNA-mobilizing enzyme called a CRISPR-associated transposase to make targeted gene-sized edits at therapeutically useful levels in human cells.</summary>
+    <updated>Thu, 15 May 2025 14:00:00 -0400</updated>
+  </entry>
+  <entry>
+    <title>Creating a resilient supply chain using connected data chains - Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/05/creating-a-resilient-supply-chain-using-connected-data-chains/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/05/creating-a-resilient-supply-chain-using-connected-data-chains/</id>
+    <summary type="text">Explore how Microsoft is enabling companies to easily navigate complexities and use technology with connected data chains and AI.</summary>
+    <updated>Mon, 05 May 2025 15:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Enhancing MRO and Remanufacturing Work Processes with AI</title>
+    <link href="https://www.palladyneai.com/blog/enhancing-mro-and-remanufacturing-work-processes-with-ai/"/>
+    <id>https://www.palladyneai.com/blog/enhancing-mro-and-remanufacturing-work-processes-with-ai/</id>
+    <summary type="text">Implementing Palladyne IQ robotic AI software can help autonomously manage component cleaning, prepare surfaces for the next production stage, and enhance the overall production process across MRO, remanufacturing, and other industries.</summary>
+    <updated>Tue, 29 Apr 2025 10:25:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Speeding Robotics Automation with AI</title>
+    <link href="https://www.palladyneai.com/blog/speeding-robotics-automation-with-ai/"/>
+    <id>https://www.palladyneai.com/blog/speeding-robotics-automation-with-ai/</id>
+    <summary type="text">ABI Research report explores AI-enabled robotics automation</summary>
+    <updated>Tue, 08 Apr 2025 17:03:03 +0000</updated>
+  </entry>
+  <entry>
+    <title>How Autonomous AI Tackles Quality Control Costs</title>
+    <link href="https://www.palladyneai.com/blog/how-autonomous-ai-tackles-quality-control-costs/"/>
+    <id>https://www.palladyneai.com/blog/how-autonomous-ai-tackles-quality-control-costs/</id>
+    <summary type="text">Palladyne IQ robotic AI software helps automate inspection and streamline production across many industries.</summary>
+    <updated>Tue, 01 Apr 2025 13:23:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Physical AI: Embracing AI’s Moment in Robotics</title>
+    <link href="https://www.palladyneai.com/blog/physical-ai-embracing-ais-moment-in-robotics/"/>
+    <id>https://www.palladyneai.com/blog/physical-ai-embracing-ais-moment-in-robotics/</id>
+    <summary type="text">The rise of physical AI is having its breakthrough moment, like ChatGPT did in language processing in 2022. Read more.</summary>
+    <updated>Tue, 18 Mar 2025 13:40:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Gene editing extends lifespan in mouse model of prion disease</title>
+    <link href="https://www.broadinstitute.org/news/gene-editing-extends-lifespan-mouse-model-prion-disease"/>
+    <id>https://www.broadinstitute.org/news/gene-editing-extends-lifespan-mouse-model-prion-disease</id>
+    <summary type="text">A single-letter edit in DNA reduces levels of the disease-causing prion protein in the brain and could lead to a preventative, one-time treatment for the deadly neurodegenerative disorder.</summary>
+    <updated>Tue, 14 Jan 2025 05:00:00 -0500</updated>
+  </entry>
+  <entry>
+    <title>Scientists engineer CRISPR enzymes that evade the immune system</title>
+    <link href="https://www.broadinstitute.org/news/scientists-engineer-crispr-enzymes-evade-immune-system"/>
+    <id>https://www.broadinstitute.org/news/scientists-engineer-crispr-enzymes-evade-immune-system</id>
+    <summary type="text">The new genome-editing tools could lead to safer, more efficient gene therapies.</summary>
+    <updated>Thu, 09 Jan 2025 09:00:00 -0500</updated>
+  </entry>
+  <entry>
+    <title>Researchers devise new way to target and correct disease-related proteins</title>
+    <link href="https://www.broadinstitute.org/news/researchers-devise-new-way-target-and-correct-disease-related-proteins"/>
+    <id>https://www.broadinstitute.org/news/researchers-devise-new-way-target-and-correct-disease-related-proteins</id>
+    <summary type="text">Broad scientists built a diverse library of compounds and found one that stabilizes a dysfunctional protein in Crohn’s disease, demonstrating their library’s potential to uncover new therapeutic strategies.</summary>
+    <updated>Mon, 06 Jan 2025 11:17:49 -0500</updated>
+  </entry>
+  <entry>
+    <title>AlphaQubit tackles one of quantum computing’s biggest challenges</title>
+    <link href="https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/"/>
+    <id>https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/</id>
+    <summary type="text">AlphaQubit is an AI-based decoder that identifies quantum computing errors with state-of-the-art accuracy.</summary>
+    <updated>Wed, 20 Nov 2024 00:00:00 -0000</updated>
+  </entry>
+  <entry>
+    <title>New drug triggers rapid cell death in cancer models</title>
+    <link href="https://www.broadinstitute.org/news/new-drug-triggers-rapid-cell-death-cancer-models"/>
+    <id>https://www.broadinstitute.org/news/new-drug-triggers-rapid-cell-death-cancer-models</id>
+    <summary type="text">BRD-810 inhibits the MCL1 protein and reactivates apoptosis in tumor cells, displaying therapeutic potential in animal models.</summary>
+    <updated>Tue, 29 Oct 2024 11:11:58 -0400</updated>
+  </entry>
+  <entry>
+    <title>All NASA News - NASA</title>
+    <link href="https://www.nasa.gov/news/recently-published/"/>
+    <id>https://www.nasa.gov/news/recently-published/</id>
+    <summary type="text">Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.</summary>
+    <updated>Fri, 30 Jun 2023 08:59:39 -0400</updated>
+  </entry>
+  <entry>
+    <title>NASA Media Contacts - NASA</title>
+    <link href="https://www.nasa.gov/news/media-contacts/"/>
+    <id>https://www.nasa.gov/news/media-contacts/</id>
+    <summary type="text">Media Contacts Roxana Bardan Mars Sample Return 771-200-7217 Gerelle Dodson NASA Workforce, STEM Engagement 202-358-1600 Jennifer Dooren Deputy News Chief,</summary>
+    <updated>Thu, 29 Jun 2023 14:53:17 -0400</updated>
+  </entry>
+  <entry>
+    <title>NASA News</title>
+    <link href="https://www.nasa.gov/news/"/>
+    <id>https://www.nasa.gov/news/</id>
+    <summary type="text">Resources for news media, including NASA news contacts and archived news material</summary>
+    <updated>Wed, 07 Dec 2022 13:25:24 -0500</updated>
+  </entry>
   <entry>
     <title>Blog</title>
     <link href="https://deepmind.google/discover/blog/"/>
@@ -53,13 +277,6 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <link href="https://deepmind.google/discover/blog/accelerating-fusion-science-through-learned-plasma-control/"/>
     <id>https://deepmind.google/discover/blog/accelerating-fusion-science-through-learned-plasma-control/</id>
     <summary type="text">Successfully controlling the nuclear fusion plasma in a tokamak with deep reinforcement learning</summary>
-  </entry>
-  <entry>
-    <title>AlphaQubit tackles one of quantum computing’s biggest challenges</title>
-    <link href="https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/"/>
-    <id>https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/</id>
-    <summary type="text">AlphaQubit is an AI-based decoder that identifies quantum computing errors with state-of-the-art accuracy.</summary>
-    <updated>Wed, 20 Nov 2024 00:00:00 -0000</updated>
   </entry>
   <entry>
     <title>Genie 3: A New Frontier for World Models</title>
@@ -122,11 +339,10 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <summary type="text">NVIDIA today announced leading global enterprises have adopted NVIDIA RTX PRO™ Servers — a new category of enterprise data center infrastructure powered by the RTX PRO 6000 Blackwell Server Edition GPU — speeding the shift from general-purpose computing clusters to AI factory infrastructure, without a complete data center overhaul.</summary>
   </entry>
   <entry>
-    <title>NVIDIA Partners With AI Infrastructure Ecosystem to Unveil Reference Design for Giga-Scale AI Factories</title>
-    <link href="https://blogs.nvidia.com/blog/ai-factories-reference-design/"/>
-    <id>https://blogs.nvidia.com/blog/ai-factories-reference-design/</id>
-    <summary type="text">At this week’s AI Infrastructure Summit in Silicon Valley, NVIDIA’s VP of Accelerated Computing Ian Buck unveiled a bold new vision: the transformation of traditional data centers into fully integrated AI factories. As part of this initiative, NVIDIA is developing reference designs to be shared with partners and enterprises worldwide — offering an NVIDIA Omniverse  Read Article</summary>
-    <updated>Tue, 09 Sep 2025 15:00:29 +0000</updated>
+    <title>Generative AI Archives</title>
+    <link href="https://blogs.nvidia.com/blog/category/generative-ai/"/>
+    <id>https://blogs.nvidia.com/blog/category/generative-ai/</id>
+    <summary type="text">Celtic languages — including Cornish, Irish, Scottish Gaelic and Welsh — are the U.K.’s oldest living languages. To… Read Article</summary>
   </entry>
   <entry>
     <title>Corporate Archives</title>
@@ -135,36 +351,10 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <summary type="text">NVIDIA Corporate Blog Post Archive</summary>
   </entry>
   <entry>
-    <title>Now Live: Europe’s First Exascale Supercomputer, JUPITER, Accelerates Climate Research, Neuroscience, Quantum Simulation</title>
-    <link href="https://blogs.nvidia.com/blog/jupiter-exascale-supercomputer-live/"/>
-    <id>https://blogs.nvidia.com/blog/jupiter-exascale-supercomputer-live/</id>
-    <summary type="text">At JUPITER’s inauguration ceremony in Jülich, attended by Germany Chancellor Friedrich Merz, the Jülich Supercomputing Centre and NVIDIA unveiled ways the supercomputer is already spurring innovation across the world.</summary>
-    <updated>Fri, 05 Sep 2025 14:00:09 +0000</updated>
-  </entry>
-  <entry>
     <title>Data Center Archives</title>
     <link href="https://blogs.nvidia.com/blog/category/enterprise/"/>
     <id>https://blogs.nvidia.com/blog/category/enterprise/</id>
-    <summary type="text">At this week’s IAA Mobility conference in Munich, NVIDIA Vice President of Automotive Ali Kani outlined how cloud-to-car… Read Article</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA Jetson Thor Unlocks Real-Time Reasoning for General Robotics and Physical AI</title>
-    <link href="https://blogs.nvidia.com/blog/jetson-thor-physical-ai-edge/"/>
-    <id>https://blogs.nvidia.com/blog/jetson-thor-physical-ai-edge/</id>
-    <summary type="text">Designed for millions of robotic developers, NVIDIA Jetson Thor delivers 2,070 FP4 teraflops to tackle complex applications including agentic AI, high-speed sensor processing and general robotics tasks.</summary>
-    <updated>Mon, 25 Aug 2025 15:00:31 +0000</updated>
-  </entry>
-  <entry>
-    <title>Robotics Archives</title>
-    <link href="https://blogs.nvidia.com/blog/category/robotics/"/>
-    <id>https://blogs.nvidia.com/blog/category/robotics/</id>
-    <summary type="text">AI models are advancing at a rapid rate and scale. But what might they lack that (most) humans… Read Article</summary>
-  </entry>
-  <entry>
-    <title>Generative AI Archives</title>
-    <link href="https://blogs.nvidia.com/blog/category/generative-ai/"/>
-    <id>https://blogs.nvidia.com/blog/category/generative-ai/</id>
-    <summary type="text">ComfyUI — an open-source, node-based graphical interface for running and building generative AI workflows for content creation —… Read Article</summary>
+    <summary type="text">Celtic languages — including Cornish, Irish, Scottish Gaelic and Welsh — are the U.K.’s oldest living languages. To… Read Article</summary>
   </entry>
   <entry>
     <title>Driving Archives</title>
@@ -185,17 +375,16 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <summary type="text">Editor’s note: This blog is a part of Into the Omniverse, a series focused on how developers, 3D… Read Article</summary>
   </entry>
   <entry>
+    <title>Robotics Archives</title>
+    <link href="https://blogs.nvidia.com/blog/category/robotics/"/>
+    <id>https://blogs.nvidia.com/blog/category/robotics/</id>
+    <summary type="text">AI models are advancing at a rapid rate and scale. But what might they lack that (most) humans… Read Article</summary>
+  </entry>
+  <entry>
     <title>Category: Data Center / Cloud | NVIDIA Technical Blog</title>
     <link href="https://developer.nvidia.com/blog/category/data-center-cloud/"/>
     <id>https://developer.nvidia.com/blog/category/data-center-cloud/</id>
     <summary type="text">Category: Data Center / Cloud | NVIDIA Technical Blog</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA Blackwell Ultra Sets New Inference Records in MLPerf Debut | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/nvidia-blackwell-ultra-sets-new-inference-records-in-mlperf-debut/"/>
-    <id>https://developer.nvidia.com/blog/nvidia-blackwell-ultra-sets-new-inference-records-in-mlperf-debut/</id>
-    <summary type="text">As large language models (LLMs) grow larger, they get smarter, with open models from leading developers now featuring hundreds of billions of parameters. At the same time, today’s leading models are…</summary>
-    <updated>Tue, 09 Sep 2025 15:00:00 +0000</updated>
   </entry>
   <entry>
     <title>Category: Generative AI | NVIDIA Technical Blog</title>
@@ -204,185 +393,9 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <summary type="text">Category: Generative AI | NVIDIA Technical Blog</summary>
   </entry>
   <entry>
-    <title>NVIDIA Rubin CPX Accelerates Inference Performance and Efficiency for 1M+ Token Context Workloads | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/nvidia-rubin-cpx-accelerates-inference-performance-and-efficiency-for-1m-token-context-workloads/"/>
-    <id>https://developer.nvidia.com/blog/nvidia-rubin-cpx-accelerates-inference-performance-and-efficiency-for-1m-token-context-workloads/</id>
-    <summary type="text">Inference has emerged as the new frontier of complexity in AI. Modern models are evolving into agentic systems capable of multi-step reasoning, persistent memory, and long-horizon context—enabling…</summary>
-    <updated>Tue, 09 Sep 2025 15:00:00 +0000</updated>
-  </entry>
-  <entry>
     <title>Category: AI Platforms / Deployment | NVIDIA Technical Blog</title>
     <link href="https://developer.nvidia.com/blog/category/deployment/"/>
     <id>https://developer.nvidia.com/blog/category/deployment/</id>
     <summary type="text">Category: AI Platforms / Deployment | NVIDIA Technical Blog</summary>
-  </entry>
-  <entry>
-    <title>How Small Language Models Are Key to Scalable Agentic AI | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/how-small-language-models-are-key-to-scalable-agentic-ai/"/>
-    <id>https://developer.nvidia.com/blog/how-small-language-models-are-key-to-scalable-agentic-ai/</id>
-    <summary type="text">The rapid rise of agentic AI has reshaped how enterprises, developers, and entire industries think about automation and digital productivity. From software development workflows to enterprise process…</summary>
-    <updated>Fri, 29 Aug 2025 18:00:42 +0000</updated>
-  </entry>
-  <entry>
-    <title>NVFP4 Trains with Precision of 16-Bit and Speed and Efficiency of 4-Bit | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/nvfp4-trains-with-precision-of-16-bit-and-speed-and-efficiency-of-4-bit/"/>
-    <id>https://developer.nvidia.com/blog/nvfp4-trains-with-precision-of-16-bit-and-speed-and-efficiency-of-4-bit/</id>
-    <summary type="text">In recent years, AI workloads have grown exponentially—not only in the deployment of large language models (LLMs) but also in the demand to process ever more tokens during pretraining and post…</summary>
-    <updated>Mon, 25 Aug 2025 17:59:23 +0000</updated>
-  </entry>
-  <entry>
-    <title>Category: Robotics | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/category/robotics/"/>
-    <id>https://developer.nvidia.com/blog/category/robotics/</id>
-    <summary type="text">Category: Robotics | NVIDIA Technical Blog</summary>
-  </entry>
-  <entry>
-    <title>Introducing NVIDIA Jetson Thor, the Ultimate Platform for Physical AI | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/introducing-nvidia-jetson-thor-the-ultimate-platform-for-physical-ai/"/>
-    <id>https://developer.nvidia.com/blog/introducing-nvidia-jetson-thor-the-ultimate-platform-for-physical-ai/</id>
-    <summary type="text">Robotics is undergoing a revolution, moving beyond the era of specialist machines to generalist robotics. This shift moves away from single-purpose, fixed-function robots toward adaptable robots…</summary>
-    <updated>Mon, 25 Aug 2025 17:57:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>Recent posts</title>
-    <link href="https://developer.nvidia.com/blog/recent-posts/"/>
-    <id>https://developer.nvidia.com/blog/recent-posts/</id>
-    <summary type="text">News and tutorials for developers, scientists, and IT admins</summary>
-  </entry>
-  <entry>
-    <title>Blog</title>
-    <link href="https://www.palladyneai.com/blog/"/>
-    <id>https://www.palladyneai.com/blog/</id>
-    <summary type="text">Tackling the growing demand for automation with AI-driven robotics Surface technology companies stand at a pivotal crossroads. 2025 will be a year of strong growth for the surface finishing market as demands…</summary>
-  </entry>
-  <entry>
-    <title>Unlocking the Future of Surface Finishing with AI-Powered Adaptive Robotics</title>
-    <link href="https://www.palladyneai.com/blog/unlocking-the-future-of-surface-finishing-with-ai-powered-adaptive-robotics/"/>
-    <id>https://www.palladyneai.com/blog/unlocking-the-future-of-surface-finishing-with-ai-powered-adaptive-robotics/</id>
-    <summary type="text">Discover how AI software is revolutionizing surface finishing by tackling labor shortages, increasing consistency, and accelerating automation.</summary>
-    <updated>Tue, 22 Jul 2025 15:46:23 +0000</updated>
-  </entry>
-  <entry>
-    <title>Time-to-Value Speeds Up with Emerging AI-Enabled Robotics Automation</title>
-    <link href="https://www.palladyneai.com/blog/time-to-value-speeds-up-with-emerging-ai-enabled-robotics-automation/"/>
-    <id>https://www.palladyneai.com/blog/time-to-value-speeds-up-with-emerging-ai-enabled-robotics-automation/</id>
-    <summary type="text">ABI Research report explores how AI-enabled robotics automation with a human element boosts manufacturing.</summary>
-    <updated>Tue, 10 Jun 2025 16:41:28 +0000</updated>
-  </entry>
-  <entry>
-    <title>Enhancing MRO and Remanufacturing Work Processes with AI</title>
-    <link href="https://www.palladyneai.com/blog/enhancing-mro-and-remanufacturing-work-processes-with-ai/"/>
-    <id>https://www.palladyneai.com/blog/enhancing-mro-and-remanufacturing-work-processes-with-ai/</id>
-    <summary type="text">Implementing Palladyne IQ robotic AI software can help autonomously manage component cleaning, prepare surfaces for the next production stage, and enhance the overall production process across MRO, remanufacturing, and other industries.</summary>
-    <updated>Tue, 29 Apr 2025 10:25:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>Speeding Robotics Automation with AI</title>
-    <link href="https://www.palladyneai.com/blog/speeding-robotics-automation-with-ai/"/>
-    <id>https://www.palladyneai.com/blog/speeding-robotics-automation-with-ai/</id>
-    <summary type="text">ABI Research report explores AI-enabled robotics automation</summary>
-    <updated>Tue, 08 Apr 2025 17:03:03 +0000</updated>
-  </entry>
-  <entry>
-    <title>How Autonomous AI Tackles Quality Control Costs</title>
-    <link href="https://www.palladyneai.com/blog/how-autonomous-ai-tackles-quality-control-costs/"/>
-    <id>https://www.palladyneai.com/blog/how-autonomous-ai-tackles-quality-control-costs/</id>
-    <summary type="text">Palladyne IQ robotic AI software helps automate inspection and streamline production across many industries.</summary>
-    <updated>Tue, 01 Apr 2025 13:23:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>Physical AI: Embracing AI’s Moment in Robotics</title>
-    <link href="https://www.palladyneai.com/blog/physical-ai-embracing-ais-moment-in-robotics/"/>
-    <id>https://www.palladyneai.com/blog/physical-ai-embracing-ais-moment-in-robotics/</id>
-    <summary type="text">The rise of physical AI is having its breakthrough moment, like ChatGPT did in language processing in 2022. Read more.</summary>
-    <updated>Tue, 18 Mar 2025 13:40:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>Automotive - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/automotive/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/automotive/</id>
-    <summary type="text">Read the latest news and posts about Automotive from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
-  </entry>
-  <entry>
-    <title>Manufacturing - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/</id>
-    <summary type="text">Read the latest news and posts about Manufacturing from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
-  </entry>
-  <entry>
-    <title>Mobility - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/mobility/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/mobility/</id>
-    <summary type="text">Read the latest news and posts about Mobility from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
-  </entry>
-  <entry>
-    <title>Travel - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/travel/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/travel/</id>
-    <summary type="text">Read the latest news and posts about Travel from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
-  </entry>
-  <entry>
-    <title>Transport and logistics - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/transport-and-logistics/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/transport-and-logistics/</id>
-    <summary type="text">Read the latest news and posts about Transport and logistics from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
-  </entry>
-  <entry>
-    <title>Unlocking the potential of manufacturing with cloud modernization - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/19/unlocking-the-potential-of-manufacturing-with-cloud-modernization/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/19/unlocking-the-potential-of-manufacturing-with-cloud-modernization/</id>
-    <summary type="text">Uncover how manufacturers use AI and cloud to optimize operations, accelerate R&amp;D, and deliver real business value. Learn more.</summary>
-    <updated>Tue, 19 Aug 2025 15:00:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>Embracing AI-powered operations: A maturity path for manufacturers - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/07/embracing-ai-powered-operations-a-maturity-path-for-manufacturers/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/07/embracing-ai-powered-operations-a-maturity-path-for-manufacturers/</id>
-    <summary type="text">Discover how manufacturers are embracing AI to boost efficiency, resilience, and innovation with Microsoft’s guidance. Learn more.</summary>
-    <updated>Thu, 07 Aug 2025 14:00:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>AI in process manufacturing: From operational gains to strategic advantage - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/28/ai-in-process-manufacturing-from-operational-gains-to-strategic-advantage/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/28/ai-in-process-manufacturing-from-operational-gains-to-strategic-advantage/</id>
-    <summary type="text">Explore insights into how manufacturers prioritize technology and where AI fits by reading the report &quot;Artificial Intelligence in Process Manufacturing.&quot;</summary>
-    <updated>Wed, 28 May 2025 15:00:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>Creating a resilient supply chain using connected data chains - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/05/creating-a-resilient-supply-chain-using-connected-data-chains/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/05/creating-a-resilient-supply-chain-using-connected-data-chains/</id>
-    <summary type="text">Explore how Microsoft is enabling companies to easily navigate complexities and use technology with connected data chains and AI.</summary>
-    <updated>Mon, 05 May 2025 15:00:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>Manufacturing and mobility - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/</id>
-    <summary type="text">Read the latest news and posts about Manufacturing and mobility from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
-  </entry>
-  <entry>
-    <title>Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/</id>
-    <summary type="text">Learn how to innovate with Microsoft’s latest digital transformation solutions in financial services, health, government, manufacturing, retail, and more.</summary>
-  </entry>
-  <entry>
-    <title>Energy and resources - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/energy-and-resources/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/energy-and-resources/</id>
-    <summary type="text">Read the latest news and posts about Energy and resources from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
-  </entry>
-  <entry>
-    <title>Financial services - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/financial-services/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/financial-services/</id>
-    <summary type="text">Read the latest news and posts about Financial services from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
-  </entry>
-  <entry>
-    <title>Government - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/government/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/government/</id>
-    <summary type="text">Read the latest news and posts about Government from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
   </entry>
 </feed>

@@ -4,20 +4,13 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/biotech.atom.xml"/>
   <id>urn:4thwaveai-feeds:biotech</id>
-  <updated>Sun, 14 Sep 2025 00:21:38 +0000</updated>
+  <updated>Sun, 14 Sep 2025 01:18:09 +0000</updated>
   <entry>
     <title>#WhyIScience Q&amp;A: A structural biologist adopts a new role catalyzing collaborations</title>
     <link href="https://www.broadinstitute.org/news/whyiscience-qa-structural-biologist-adopts-new-role-catalyzing-collaborations"/>
     <id>https://www.broadinstitute.org/news/whyiscience-qa-structural-biologist-adopts-new-role-catalyzing-collaborations</id>
     <summary type="text">A former drug discovery scientist, Gail Guo now helps advance research into novel cancer drugs as part of Broad’s alliance with Bayer.</summary>
     <updated>Wed, 10 Sep 2025 09:22:24 -0400</updated>
-  </entry>
-  <entry>
-    <title>How massive datasets generated at Broad are powering the latest AI models in biology</title>
-    <link href="https://www.broadinstitute.org/news/how-massive-datasets-generated-broad-are-powering-latest-ai-models-biology"/>
-    <id>https://www.broadinstitute.org/news/how-massive-datasets-generated-broad-are-powering-latest-ai-models-biology</id>
-    <summary type="text">Broad scientists describe how data resources they helped build over more than a decade now form the foundation for cutting-edge AI and genome biology discoveries.</summary>
-    <updated>Wed, 03 Sep 2025 14:10:36 -0400</updated>
   </entry>
   <entry>
     <title>Remembering David Baltimore</title>
@@ -34,6 +27,13 @@
     <updated>Wed, 03 Sep 2025 17:35:14 -0400</updated>
   </entry>
   <entry>
+    <title>How massive datasets generated at Broad are powering the latest AI models in biology</title>
+    <link href="https://www.broadinstitute.org/news/how-massive-datasets-generated-broad-are-powering-latest-ai-models-biology"/>
+    <id>https://www.broadinstitute.org/news/how-massive-datasets-generated-broad-are-powering-latest-ai-models-biology</id>
+    <summary type="text">Broad scientists describe how data resources they helped build over more than a decade now form the foundation for cutting-edge AI and genome biology discoveries.</summary>
+    <updated>Wed, 03 Sep 2025 14:10:36 -0400</updated>
+  </entry>
+  <entry>
     <title>Breathing low-oxygen air slows Parkinson’s progression in mice</title>
     <link href="https://www.broadinstitute.org/news/breathing-low-oxygen-air-slows-parkinsons-progression-mice"/>
     <id>https://www.broadinstitute.org/news/breathing-low-oxygen-air-slows-parkinsons-progression-mice</id>
@@ -41,18 +41,18 @@
     <updated>Wed, 06 Aug 2025 09:26:25 -0400</updated>
   </entry>
   <entry>
-    <title>Gene editing extends lifespan in mouse model of prion disease</title>
-    <link href="https://www.broadinstitute.org/news/gene-editing-extends-lifespan-mouse-model-prion-disease"/>
-    <id>https://www.broadinstitute.org/news/gene-editing-extends-lifespan-mouse-model-prion-disease</id>
-    <summary type="text">A single-letter edit in DNA reduces levels of the disease-causing prion protein in the brain and could lead to a preventative, one-time treatment for the deadly neurodegenerative disorder.</summary>
-    <updated>Tue, 14 Jan 2025 05:00:00 -0500</updated>
-  </entry>
-  <entry>
     <title>Evolved gene editor inserts entire genes in human cells</title>
     <link href="https://www.broadinstitute.org/news/evolved-gene-editor-inserts-entire-genes-human-cells"/>
     <id>https://www.broadinstitute.org/news/evolved-gene-editor-inserts-entire-genes-human-cells</id>
     <summary type="text">The new system is the first to use a DNA-mobilizing enzyme called a CRISPR-associated transposase to make targeted gene-sized edits at therapeutically useful levels in human cells.</summary>
     <updated>Thu, 15 May 2025 14:00:00 -0400</updated>
+  </entry>
+  <entry>
+    <title>Gene editing extends lifespan in mouse model of prion disease</title>
+    <link href="https://www.broadinstitute.org/news/gene-editing-extends-lifespan-mouse-model-prion-disease"/>
+    <id>https://www.broadinstitute.org/news/gene-editing-extends-lifespan-mouse-model-prion-disease</id>
+    <summary type="text">A single-letter edit in DNA reduces levels of the disease-causing prion protein in the brain and could lead to a preventative, one-time treatment for the deadly neurodegenerative disorder.</summary>
+    <updated>Tue, 14 Jan 2025 05:00:00 -0500</updated>
   </entry>
   <entry>
     <title>Scientists engineer CRISPR enzymes that evade the immune system</title>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>4thWave AI — Videos (Aggregated)</title>
+  <link href="https://4thwave.ai"/>
+  <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.atom.xml"/>
+  <id>urn:4thwaveai-feeds:videos</id>
+  <updated>Sun, 14 Sep 2025 01:19:19 +0000</updated>
+  <entry>
+    <title>AlphaGenome: AI for better understanding the genome</title>
+    <link href="https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/"/>
+    <id>https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/</id>
+    <summary type="text">Introducing a new, unifying DNA sequence model that advances regulatory variant-effect prediction and promises to shed new light on genome function — now available via API.</summary>
+  </entry>
+  <entry>
+    <title>AlphaProteo generates novel proteins for biology and health research</title>
+    <link href="https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/"/>
+    <id>https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/</id>
+    <summary type="text">New AI system designs proteins that successfully bind to target molecules, with potential for advancing drug design, disease understanding and more.</summary>
+  </entry>
+  <entry>
+    <title>AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms</title>
+    <link href="https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/"/>
+    <id>https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/</id>
+    <summary type="text">New AI agent evolves algorithms for math and practical applications in computing by combining the creativity of large language models with automated evaluators</summary>
+  </entry>
+  <entry>
+    <title>Genie 3: A New Frontier for World Models</title>
+    <link href="https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/"/>
+    <id>https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/</id>
+    <summary type="text">Today we are announcing Genie 3, a general purpose world model that can generate an unprecedented diversity of interactive environments. Given a text prompt, Genie 3 can generate dynamic worlds...</summary>
+  </entry>
+  <entry>
+    <title>Driving Archives</title>
+    <link href="https://blogs.nvidia.com/blog/category/auto/"/>
+    <id>https://blogs.nvidia.com/blog/category/auto/</id>
+    <summary type="text">At this week’s IAA Mobility conference in Munich, NVIDIA Vice President of Automotive Ali Kani outlined how cloud-to-car… Read Article</summary>
+  </entry>
+  <entry>
+    <title>Robotics Archives</title>
+    <link href="https://blogs.nvidia.com/blog/category/robotics/"/>
+    <id>https://blogs.nvidia.com/blog/category/robotics/</id>
+    <summary type="text">AI models are advancing at a rapid rate and scale. But what might they lack that (most) humans… Read Article</summary>
+  </entry>
+  <entry>
+    <title>Helix Loads the Dishwasher</title>
+    <link href="https://www.figure.ai/news/helix-loads-the-dishwasher"/>
+    <id>https://www.figure.ai/news/helix-loads-the-dishwasher</id>
+    <summary type="text">Helix Loads the Dishwasher</summary>
+  </entry>
+  <entry>
+    <title>Scaling Helix: a New State of the Art in Humanoid Logistics</title>
+    <link href="https://www.figure.ai/news/scaling-helix-logistics"/>
+    <id>https://www.figure.ai/news/scaling-helix-logistics</id>
+    <summary type="text">Scaling Helix: a New State of the Art in Humanoid Logistics</summary>
+  </entry>
+  <entry>
+    <title>BotQ: A High-Volume Manufacturing Facility for Humanoid Robots</title>
+    <link href="https://www.figure.ai/news/botq"/>
+    <id>https://www.figure.ai/news/botq</id>
+    <summary type="text">Introducing BotQ, Figure’s new high-volume manufacturing facility for humanoid robots.</summary>
+  </entry>
+  <entry>
+    <title>Helix Learns to Fold Laundry</title>
+    <link href="https://www.figure.ai/news/helix-learns-to-fold-laundry"/>
+    <id>https://www.figure.ai/news/helix-learns-to-fold-laundry</id>
+    <summary type="text">Helix Learns to Fold Laundry</summary>
+  </entry>
+  <entry>
+    <title>F.03 Battery Development</title>
+    <link href="https://www.figure.ai/news/f-03-battery-development"/>
+    <id>https://www.figure.ai/news/f-03-battery-development</id>
+    <summary type="text">F.03 Battery Development</summary>
+  </entry>
+  <entry>
+    <title>Natural Humanoid Walk Using Reinforcement Learning</title>
+    <link href="https://www.figure.ai/news/reinforcement-learning-walking"/>
+    <id>https://www.figure.ai/news/reinforcement-learning-walking</id>
+    <summary type="text">Natural Humanoid Walk Using Reinforcement Learning</summary>
+  </entry>
+  <entry>
+    <title>Helix Accelerating Real-World Logistics</title>
+    <link href="https://www.figure.ai/news/helix-logistics"/>
+    <id>https://www.figure.ai/news/helix-logistics</id>
+    <summary type="text">Figure is introducing a new real-world application for Figure robots on the back of advancements from Helix: logistics package manipulation and triaging.</summary>
+  </entry>
+  <entry>
+    <title>Helix: A Vision-Language-Action Model for Generalist Humanoid Control</title>
+    <link href="https://www.figure.ai/news/helix"/>
+    <id>https://www.figure.ai/news/helix</id>
+    <summary type="text">Figure was founded with the ambition to change the world.</summary>
+  </entry>
+  <entry>
+    <title>News | Figure</title>
+    <link href="https://www.figure.ai/news"/>
+    <id>https://www.figure.ai/news</id>
+    <summary type="text">We’re bringing the humanoid to life. Join us.</summary>
+  </entry>
+  <entry>
+    <title>IBM further strengthens Granite for enterprise deployment with HackerOne</title>
+    <link href="https://research.ibm.com/blog/granite-hackerone-bug-bounty"/>
+    <id>https://research.ibm.com/blog/granite-hackerone-bug-bounty</id>
+    <summary type="text">IBM is partnering with HackerOne to offer a bug bounty program for Granite, with up to $100,000 in bounty payouts available. The objective is to identify successful jailbreaks of Granite models deployed in enterprise-like settings with guardrails enabled, as businesses look to scale their AI workflows.</summary>
+  </entry>
+  <entry>
+    <title>Cat whiskers inspire highly sensitive, next-generation wearable pressure sensors</title>
+    <link href="https://phys.org/news/2025-09-cat-whiskers-highly-sensitive-generation.html"/>
+    <id>https://phys.org/news/2025-09-cat-whiskers-highly-sensitive-generation.html</id>
+    <summary type="text">Flexible pressure sensors can detect subtle mechanical stimuli, making them suitable for use in wearable sensors for human health monitoring and motion analysis. However, current sensors suffer from insufficient sensitivity, poor durability, and subpar stability. In a new study, taking inspiration from cat whiskers, researchers developed novel biomass fiber/sodium alginate aerogel (BFA)-based sensors that demonstrated excellent pressure sensitivity, durability, and rapid response, while being suitable for human physiological monitoring and motion analysis.</summary>
+  </entry>
+  <entry>
+    <title>NASA Says Mars Rover Discovered Potential Biosignature Last Year</title>
+    <link href="https://www.jpl.nasa.gov/news/nasa-says-mars-rover-discovered-potential-biosignature-last-year/"/>
+    <id>https://www.jpl.nasa.gov/news/nasa-says-mars-rover-discovered-potential-biosignature-last-year/</id>
+    <summary type="text">After a year’s worth of scientific scrutiny, the ‘Sapphire Canyon’ rock sample remains the mission’s best candidate for containing signs of ancient microbial life processes.</summary>
+  </entry>
+  <entry>
+    <title>NASA Study: Celestial ‘Accident’ Sheds Light on Jupiter, Saturn Riddle</title>
+    <link href="https://www.jpl.nasa.gov/news/nasa-study-celestial-accident-sheds-light-on-jupiter-saturn-riddle/"/>
+    <id>https://www.jpl.nasa.gov/news/nasa-study-celestial-accident-sheds-light-on-jupiter-saturn-riddle/</id>
+    <summary type="text">An unusual cosmic object is helping scientists better understand the chemistry hidden deep in Jupiter and Saturn’s atmospheres — and potentially those of exoplanets.</summary>
+  </entry>
+  <entry>
+    <title>Vintage NASA: See Voyager’s 1990 ‘Solar System Family Portrait’ Debut</title>
+    <link href="https://www.jpl.nasa.gov/news/vintage-nasa-see-voyagers-1990-solar-system-family-portrait-debut/"/>
+    <id>https://www.jpl.nasa.gov/news/vintage-nasa-see-voyagers-1990-solar-system-family-portrait-debut/</id>
+    <summary type="text">In archival footage of a historic NASA news conference, the mission reveals history-making images of six planets in our solar system, including a tiny speck called Earth.</summary>
+  </entry>
+  <entry>
+    <title>NASA-ISRO Satellite Lifts Off to Track Earth’s Changing Surfaces</title>
+    <link href="https://www.jpl.nasa.gov/news/nasa-isro-satellite-lifts-off-to-track-earths-changing-surfaces/"/>
+    <id>https://www.jpl.nasa.gov/news/nasa-isro-satellite-lifts-off-to-track-earths-changing-surfaces/</id>
+    <summary type="text">The first-of-its kind satellite will provide actionable information in a range of areas, including disaster response, infrastructure monitoring, and agricultural management.</summary>
+  </entry>
+  <entry>
+    <title>August 2025 Company Update</title>
+    <link href="https://www.relativityspace.com/press-release/2025/9/8/august-2025-company-update"/>
+    <id>https://www.relativityspace.com/press-release/2025/9/8/august-2025-company-update</id>
+    <summary type="text">Throughout August, the Terran R program continued to make measurable progress toward first launch, delivering on critical program milestones.   Design  This month, the team completed 18 component-level Critical Design Reviews (CDRs), most of which focused on the second stage engine and fluids system</summary>
+  </entry>
+  <entry>
+    <title>July 2025 Company Update</title>
+    <link href="https://www.relativityspace.com/press-release/2025/8/7/july-2025-company-update"/>
+    <id>https://www.relativityspace.com/press-release/2025/8/7/july-2025-company-update</id>
+    <summary type="text">As development of Terran R continues to accelerate, July marked another month of meaningful progress across design, manufacturing, testing, and launch operations.   Design  In July, the team successfully completed 28 additional component-level Critical Design Reviews (CDRs). Notably, 351 thrust stru</summary>
+  </entry>
+  <entry>
+    <title>June 2025 Company Update</title>
+    <link href="https://www.relativityspace.com/press-release/2025/7/8/june-2025-company-update"/>
+    <id>https://www.relativityspace.com/press-release/2025/7/8/june-2025-company-update</id>
+    <summary type="text">As the Terran R program continues to advance, we’re highlighting some of the latest milestones across design, build, test, and launch.   Design&amp;nbsp;  Throughout June, the team completed 12 additional component-level critical design reviews (CDRs), covering a range of hardware from trays and flu</summary>
+  </entry>
+  <entry>
+    <title>May 2025 Company Update</title>
+    <link href="https://www.relativityspace.com/press-release/2025/6/6/may-2025-company-update"/>
+    <id>https://www.relativityspace.com/press-release/2025/6/6/may-2025-company-update</id>
+    <summary type="text">As we close out another month of Terran R development, we’re sharing a look at recent progress across design, build, test, and launch.&amp;nbsp;&amp;nbsp;   Design &amp;nbsp; In May, we completed an additional 17 component-level critical design reviews (CDR). At this stage of the program, many of th</summary>
+  </entry>
+  <entry>
+    <title>Updates</title>
+    <link href="https://www.relativityspace.com/news"/>
+    <id>https://www.relativityspace.com/news</id>
+    <summary type="text">Learn about Terran R’s progress towards reusability.</summary>
+  </entry>
+  <entry>
+    <title>Printed electronics material can store 1,000 times more charge than current forms</title>
+    <link href="https://phys.org/news/2024-08-electronics-material-current.html"/>
+    <id>https://phys.org/news/2024-08-electronics-material-current.html</id>
+    <summary type="text">Imagine knowing your milk has gone bad without having to open your fridge. A technology called printed electronics could one day make innovations like this possible.</summary>
+  </entry>
+</feed>
