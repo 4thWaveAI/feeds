@@ -749,7 +749,7 @@ areas:
       base:  "https://www.therobotreport.com"
       prefix: "/"
       limit: 10
-areas:
+
   sciencedaily-top:
     - name: ScienceDaily — All News (RSS)
       index: "https://www.sciencedaily.com/rss/all.xml"
