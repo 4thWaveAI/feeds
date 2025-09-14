@@ -4,161 +4,221 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/robotics.atom.xml"/>
   <id>urn:4thwaveai-feeds:robotics</id>
-  <updated>Sat, 13 Sep 2025 23:22:06 +0000</updated>
+  <updated>Sun, 14 Sep 2025 00:03:00 +0000</updated>
+  <entry>
+    <title>Ask a Roboticist: Q&amp;A with Josh | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/ask-a-roboticist-qa-with-josh-a-mechanical-engineer-at-boston-dynamics/"/>
+    <id>https://bostondynamics.com/blog/ask-a-roboticist-qa-with-josh-a-mechanical-engineer-at-boston-dynamics/</id>
+    <summary type="text">A mechanical engineer on the Atlas team, answers your questions about building and testing robots.</summary>
+  </entry>
   <entry>
     <title>News | Boston Dynamics</title>
     <link href="https://bostondynamics.com/news/"/>
     <id>https://bostondynamics.com/news/</id>
-    <summary type="html"><![CDATA[Discover the latest news about Boston Dynamics and stay up to date with what we’ve been working on. Explore product news, media coverage, and more.]]></summary>
+    <summary type="text">Discover the latest news about Boston Dynamics and stay up to date with what we’ve been working on. Explore product news, media coverage, and more.</summary>
   </entry>
   <entry>
-    <title>News | Boston Dynamics</title>
-    <link href="https://bostondynamics.com/news/#press-form"/>
-    <id>https://bostondynamics.com/news/#press-form</id>
-    <summary type="html"><![CDATA[Discover the latest news about Boston Dynamics and stay up to date with what we’ve been working on. Explore product news, media coverage, and more.]]></summary>
+    <title>Blogs | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/"/>
+    <id>https://bostondynamics.com/blog/</id>
+    <summary type="text">Stay up to date on the latest trends in robotics and other industry insights from the Boston Dynamics blog.</summary>
+  </entry>
+  <entry>
+    <title>Large Behavior Models and Atlas Find New Footing | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/large-behavior-models-atlas-find-new-footing/"/>
+    <id>https://bostondynamics.com/blog/large-behavior-models-atlas-find-new-footing/</id>
+    <summary type="text">Useful humanoid robots will require a long list of competencies. They will need the ability to manipulate a diverse range of objects (e.g. hard/soft, heavy/delicate, rigid/articulated, large/small), as well as to coordinate their entire bodies to reconfigure themselves, their environments, avoid obstacles, and maintain balance while responding to surprises. We believe that building AI generalist […]</summary>
+  </entry>
+  <entry>
+    <title>Spot Takes the Stage | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/spot-takes-the-stage/"/>
+    <id>https://bostondynamics.com/blog/spot-takes-the-stage/</id>
+    <summary type="text">Learn how engineers program and animate complex dance performances for the agile, mobile Spot on some of the world&#x27;s biggest stages.</summary>
+  </entry>
+  <entry>
+    <title>Robot Vision Systems: 3 Ways Robots See the World | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/3-ways-robots-see-the-world/"/>
+    <id>https://bostondynamics.com/blog/3-ways-robots-see-the-world/</id>
+    <summary type="text">Modern robot vision systems use visual cameras, 3D lidar scans, and other sensors to interpret, navigate, and interact with their environment.</summary>
+  </entry>
+  <entry>
+    <title>Life Outside the Box for the Warehouse Worker | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/life-outside-the-box-for-the-warehouse-worker/"/>
+    <id>https://bostondynamics.com/blog/life-outside-the-box-for-the-warehouse-worker/</id>
+    <summary type="text">Automated unloading tackles backbreaking labor and brings people out of hot containers in the summer, improving safety and quality of life.</summary>
+  </entry>
+  <entry>
+    <title>Making Atlas See the World | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/making-atlas-see-the-world/"/>
+    <id>https://bostondynamics.com/blog/making-atlas-see-the-world/</id>
+    <summary type="text">The Atlas perception team at Boston Dynamics shares their insights on building agile and adaptable humanoid robotics.</summary>
+  </entry>
+  <entry>
+    <title>See Your Facility Like Never Before | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/see-your-facility/"/>
+    <id>https://bostondynamics.com/blog/see-your-facility/</id>
+    <summary type="text">See what&#x27;s new in the 5.0 release of Spot &amp; Orbit from Boston Dynamics</summary>
+  </entry>
+  <entry>
+    <title>The Data Driving Asset Reliability | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/understanding-the-data-behind-asset-reliability/"/>
+    <id>https://bostondynamics.com/blog/understanding-the-data-behind-asset-reliability/</id>
+    <summary type="text">Explore how automation and real-time data collection are transforming asset reliability, reducing unplanned downtime, and improving operational efficiency</summary>
+  </entry>
+  <entry>
+    <title>Getting Real with Humanoids | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/getting-real-with-humanoids/"/>
+    <id>https://bostondynamics.com/blog/getting-real-with-humanoids/</id>
+    <summary type="text">Almost a year ago, we announced our new Atlas® robot—faster, stronger, more compact, and less messy. We’re designing the world’s most dynamic humanoid robot to do anything and everything, maybe even change work as we know it. How do we get there? One step at a time. At Boston Dynamics, we’ve learned a few things […]</summary>
+  </entry>
+  <entry>
+    <title>A Retrospective on Uses of Boston Dynamics&#x27; Spot Robot | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/retrospective-on-boston-dynamics-spot-robot-uses/"/>
+    <id>https://bostondynamics.com/blog/retrospective-on-boston-dynamics-spot-robot-uses/</id>
+    <summary type="text">Our team reviews Boston Dynamics Spot capabilities over the years, reflecting on how Spot has been used to keep people safe and improve efficiency.</summary>
   </entry>
   <entry>
     <title>Anduril</title>
     <link href="https://www.anduril.com/newsroom/"/>
     <id>https://www.anduril.com/newsroom/</id>
-    <summary type="html"><![CDATA[Transforming US & allied military capabilities with advanced technology.]]></summary>
+    <summary type="text">Transforming US &amp; allied military capabilities with advanced technology.</summary>
   </entry>
   <entry>
     <title>Helix Loads the Dishwasher</title>
     <link href="https://www.figure.ai/news/helix-loads-the-dishwasher"/>
     <id>https://www.figure.ai/news/helix-loads-the-dishwasher</id>
-    <summary type="html"><![CDATA[Helix Loads the Dishwasher]]></summary>
+    <summary type="text">Helix Loads the Dishwasher</summary>
   </entry>
   <entry>
     <title>Scaling Helix: a New State of the Art in Humanoid Logistics</title>
     <link href="https://www.figure.ai/news/scaling-helix-logistics"/>
     <id>https://www.figure.ai/news/scaling-helix-logistics</id>
-    <summary type="html"><![CDATA[Scaling Helix: a New State of the Art in Humanoid Logistics]]></summary>
+    <summary type="text">Scaling Helix: a New State of the Art in Humanoid Logistics</summary>
   </entry>
   <entry>
     <title>BotQ: A High-Volume Manufacturing Facility for Humanoid Robots</title>
     <link href="https://www.figure.ai/news/botq"/>
     <id>https://www.figure.ai/news/botq</id>
-    <summary type="html"><![CDATA[Introducing BotQ, Figure’s new high-volume manufacturing facility for humanoid robots.]]></summary>
+    <summary type="text">Introducing BotQ, Figure’s new high-volume manufacturing facility for humanoid robots.</summary>
   </entry>
   <entry>
     <title>Helix Learns to Fold Laundry</title>
     <link href="https://www.figure.ai/news/helix-learns-to-fold-laundry"/>
     <id>https://www.figure.ai/news/helix-learns-to-fold-laundry</id>
-    <summary type="html"><![CDATA[Helix Learns to Fold Laundry]]></summary>
+    <summary type="text">Helix Learns to Fold Laundry</summary>
   </entry>
   <entry>
     <title>F.03 Battery Development</title>
     <link href="https://www.figure.ai/news/f-03-battery-development"/>
     <id>https://www.figure.ai/news/f-03-battery-development</id>
-    <summary type="html"><![CDATA[F.03 Battery Development]]></summary>
+    <summary type="text">F.03 Battery Development</summary>
   </entry>
   <entry>
     <title>Natural Humanoid Walk Using Reinforcement Learning</title>
     <link href="https://www.figure.ai/news/reinforcement-learning-walking"/>
     <id>https://www.figure.ai/news/reinforcement-learning-walking</id>
-    <summary type="html"><![CDATA[Natural Humanoid Walk Using Reinforcement Learning]]></summary>
+    <summary type="text">Natural Humanoid Walk Using Reinforcement Learning</summary>
   </entry>
   <entry>
     <title>Helix Accelerating Real-World Logistics</title>
     <link href="https://www.figure.ai/news/helix-logistics"/>
     <id>https://www.figure.ai/news/helix-logistics</id>
-    <summary type="html"><![CDATA[Figure is introducing a new real-world application for Figure robots on the back of advancements from Helix: logistics package manipulation and triaging.]]></summary>
+    <summary type="text">Figure is introducing a new real-world application for Figure robots on the back of advancements from Helix: logistics package manipulation and triaging.</summary>
   </entry>
   <entry>
     <title>Helix: A Vision-Language-Action Model for Generalist Humanoid Control</title>
     <link href="https://www.figure.ai/news/helix"/>
     <id>https://www.figure.ai/news/helix</id>
-    <summary type="html"><![CDATA[Figure was founded with the ambition to change the world.]]></summary>
+    <summary type="text">Figure was founded with the ambition to change the world.</summary>
   </entry>
   <entry>
     <title>News | Figure</title>
     <link href="https://www.figure.ai/news"/>
     <id>https://www.figure.ai/news</id>
-    <summary type="html"><![CDATA[We’re bringing the humanoid to life. Join us.]]></summary>
+    <summary type="text">We’re bringing the humanoid to life. Join us.</summary>
   </entry>
   <entry>
     <title>Agility Robotics - News &amp; Media</title>
     <link href="https://www.agilityrobotics.com/about/press"/>
     <id>https://www.agilityrobotics.com/about/press</id>
-    <summary type="html"><![CDATA[A significant step forward in our deep technical collaboration.]]></summary>
+    <summary type="text">A significant step forward in our deep technical collaboration.</summary>
   </entry>
   <entry>
     <title>News - Milrem</title>
     <link href="https://milremrobotics.com/news/"/>
     <id>https://milremrobotics.com/news/</id>
-    <summary type="html"><![CDATA[11/09/2025]]></summary>
+    <summary type="text">11/09/2025</summary>
   </entry>
   <entry>
     <title>News - Page 2 of 20 - Milrem</title>
     <link href="https://milremrobotics.com/news/page/2/"/>
     <id>https://milremrobotics.com/news/page/2/</id>
-    <summary type="html"><![CDATA[03/04/2025]]></summary>
+    <summary type="text">03/04/2025</summary>
   </entry>
   <entry>
     <title>News - Page 3 of 20 - Milrem</title>
     <link href="https://milremrobotics.com/news/page/3/"/>
     <id>https://milremrobotics.com/news/page/3/</id>
-    <summary type="html"><![CDATA[11/02/2025]]></summary>
+    <summary type="text">11/02/2025</summary>
   </entry>
   <entry>
     <title>News - Page 20 of 20 - Milrem</title>
     <link href="https://milremrobotics.com/news/page/20/"/>
     <id>https://milremrobotics.com/news/page/20/</id>
-    <summary type="html"><![CDATA[03/03/2017]]></summary>
+    <summary type="text">03/03/2017</summary>
   </entry>
   <entry>
     <title>Official Open Source - Unitree Robotics</title>
     <link href="https://www.unitree.com/opensource"/>
     <id>https://www.unitree.com/opensource</id>
-    <summary type="html"><![CDATA[Robots]]></summary>
+    <summary type="text">Robots</summary>
   </entry>
   <entry>
     <title>https://www.unitree.com/news/31</title>
     <link href="https://www.unitree.com/news/31"/>
     <id>https://www.unitree.com/news/31</id>
-    <summary type="html"><![CDATA[Robots]]></summary>
+    <summary type="text">Robots</summary>
   </entry>
   <entry>
     <title>https://www.unitree.com/news/33</title>
     <link href="https://www.unitree.com/news/33"/>
     <id>https://www.unitree.com/news/33</id>
-    <summary type="html"><![CDATA[Robots]]></summary>
+    <summary type="text">Robots</summary>
   </entry>
   <entry>
     <title>https://www.unitree.com/news/29</title>
     <link href="https://www.unitree.com/news/29"/>
     <id>https://www.unitree.com/news/29</id>
-    <summary type="html"><![CDATA[Robots]]></summary>
+    <summary type="text">Robots</summary>
   </entry>
   <entry>
     <title>https://www.unitree.com/news/27</title>
     <link href="https://www.unitree.com/news/27"/>
     <id>https://www.unitree.com/news/27</id>
-    <summary type="html"><![CDATA[Robots]]></summary>
+    <summary type="text">Robots</summary>
   </entry>
   <entry>
     <title>https://www.unitree.com/news/26</title>
     <link href="https://www.unitree.com/news/26"/>
     <id>https://www.unitree.com/news/26</id>
-    <summary type="html"><![CDATA[Robots]]></summary>
+    <summary type="text">Robots</summary>
   </entry>
   <entry>
     <title>https://www.unitree.com/news/25</title>
     <link href="https://www.unitree.com/news/25"/>
     <id>https://www.unitree.com/news/25</id>
-    <summary type="html"><![CDATA[Robots]]></summary>
+    <summary type="text">Robots</summary>
   </entry>
   <entry>
     <title>https://www.unitree.com/news/24</title>
     <link href="https://www.unitree.com/news/24"/>
     <id>https://www.unitree.com/news/24</id>
-    <summary type="html"><![CDATA[Robots]]></summary>
+    <summary type="text">Robots</summary>
   </entry>
   <entry>
     <title>News Center - Unitree Robotics</title>
     <link href="https://www.unitree.com/news"/>
     <id>https://www.unitree.com/news</id>
-    <summary type="html"><![CDATA[Robots]]></summary>
+    <summary type="text">Robots</summary>
   </entry>
 </feed>

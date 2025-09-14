@@ -1,0 +1,44 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "4thWave AI — Space Force (Aggregated)",
+  "home_page_url": "https://4thwave.ai",
+  "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-force.json",
+  "items": [
+    {
+      "id": "https://www.sda.mil/news-archive/",
+      "url": "https://www.sda.mil/news-archive/",
+      "title": "News Archive – Space Development Agency",
+      "content_text": "News Archive – Space Development Agency"
+    },
+    {
+      "id": "https://www.sda.mil/home/news/",
+      "url": "https://www.sda.mil/home/news/",
+      "title": "NEWS – Space Development Agency",
+      "content_text": "NEWS – Space Development Agency"
+    },
+    {
+      "id": "https://www.sda.mil/home/news/news-releases/",
+      "url": "https://www.sda.mil/home/news/news-releases/",
+      "title": "News Releases – Space Development Agency",
+      "content_text": "News Releases – Space Development Agency"
+    },
+    {
+      "id": "https://www.sda.mil/home/news/page/2/",
+      "url": "https://www.sda.mil/home/news/page/2/",
+      "title": "NEWS – Page 2 – Space Development Agency",
+      "content_text": "NEWS – Page 2 – Space Development Agency"
+    },
+    {
+      "id": "https://www.sda.mil/home/news/page/3/",
+      "url": "https://www.sda.mil/home/news/page/3/",
+      "title": "NEWS – Page 3 – Space Development Agency",
+      "content_text": "NEWS – Page 3 – Space Development Agency"
+    },
+    {
+      "id": "https://www.sda.mil/home/news/page/5/",
+      "url": "https://www.sda.mil/home/news/page/5/",
+      "title": "NEWS – Page 5 – Space Development Agency",
+      "content_text": "NEWS – Page 5 – Space Development Agency"
+    }
+  ]
+}

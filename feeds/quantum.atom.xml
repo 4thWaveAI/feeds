@@ -4,65 +4,65 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/quantum.atom.xml"/>
   <id>urn:4thwaveai-feeds:quantum</id>
-  <updated>Sat, 13 Sep 2025 23:23:11 +0000</updated>
+  <updated>Sun, 14 Sep 2025 00:03:51 +0000</updated>
   <entry>
     <title>Introducing Surya, a new heliophysics foundation model</title>
     <link href="https://research.ibm.com/blog/surya-heliophysics-ai-model-sun"/>
     <id>https://research.ibm.com/blog/surya-heliophysics-ai-model-sun</id>
-    <summary type="html"><![CDATA[IBM and NASA open-source a new AI foundation model for the Sun that could change how we look at solar flares.]]></summary>
+    <summary type="text">IBM and NASA open-source a new AI foundation model for the Sun that could change how we look at solar flares.</summary>
   </entry>
   <entry>
     <title>Towards a generative future for computing</title>
     <link href="https://research.ibm.com/blog/generative-computing-mellea"/>
     <id>https://research.ibm.com/blog/generative-computing-mellea</id>
-    <summary type="html"><![CDATA[IBM is exploring a future where generative AI isn’t limited to what’s in the prompt window.]]></summary>
+    <summary type="text">IBM is exploring a future where generative AI isn’t limited to what’s in the prompt window.</summary>
   </entry>
   <entry>
     <title>Register for the new Qiskit v2.X developer certification | IBM Quantum Computing Blog</title>
     <link href="https://research.ibm.com/blog/qiskit-v2x-developer-certification"/>
     <id>https://research.ibm.com/blog/qiskit-v2x-developer-certification</id>
-    <summary type="html"><![CDATA[Updated Qiskit developer certification exam tests your ability to perform essential quantum computing tasks with the latest version of Qiskit.]]></summary>
+    <summary type="text">Updated Qiskit developer certification exam tests your ability to perform essential quantum computing tasks with the latest version of Qiskit.</summary>
   </entry>
   <entry>
     <title>IBM researchers win prestigious European grants</title>
     <link href="https://research.ibm.com/blog/ibm-researchers-win-prestigious-european-grants"/>
     <id>https://research.ibm.com/blog/ibm-researchers-win-prestigious-european-grants</id>
-    <summary type="html"><![CDATA[Ghazi Sarwat Syed and Gregor Seiler add to IBM Research’s strong history with European Research Council grants.]]></summary>
+    <summary type="text">Ghazi Sarwat Syed and Gregor Seiler add to IBM Research’s strong history with European Research Council grants.</summary>
   </entry>
   <entry>
     <title>Ado: The accelerated discovery orchestrator</title>
     <link href="https://research.ibm.com/blog/ado-accelerated-discovery-orchestrator-experiments"/>
     <id>https://research.ibm.com/blog/ado-accelerated-discovery-orchestrator-experiments</id>
-    <summary type="html"><![CDATA[The new platform for computational experiments at scale.]]></summary>
+    <summary type="text">The new platform for computational experiments at scale.</summary>
   </entry>
   <entry>
     <title>IBM further strengthens Granite for enterprise deployment with HackerOne</title>
     <link href="https://research.ibm.com/blog/granite-hackerone-bug-bounty"/>
     <id>https://research.ibm.com/blog/granite-hackerone-bug-bounty</id>
-    <summary type="html"><![CDATA[IBM is partnering with HackerOne to offer a bug bounty program for Granite, with up to $100,000 in bounty payouts available. The objective is to identify successful jailbreaks of Granite models deployed in enterprise-like settings with guardrails enabled, as businesses look to scale their AI workflows.]]></summary>
+    <summary type="text">IBM is partnering with HackerOne to offer a bug bounty program for Granite, with up to $100,000 in bounty payouts available. The objective is to identify successful jailbreaks of Granite models deployed in enterprise-like settings with guardrails enabled, as businesses look to scale their AI workflows.</summary>
   </entry>
   <entry>
     <title>Can AI generate truly novel algorithms?</title>
     <link href="https://research.ibm.com/blog/ai-algorithm-complexity"/>
     <id>https://research.ibm.com/blog/ai-algorithm-complexity</id>
-    <summary type="html"><![CDATA[A decades-old approach to measuring algorithmic complexity could provide a window into better understanding how AI systems compute.]]></summary>
+    <summary type="text">A decades-old approach to measuring algorithmic complexity could provide a window into better understanding how AI systems compute.</summary>
   </entry>
   <entry>
     <title>Updates on the IBM Quantum Credits program | IBM Quantum Computing Blog</title>
     <link href="https://research.ibm.com/blog/quantum-credits"/>
     <id>https://research.ibm.com/blog/quantum-credits</id>
-    <summary type="html"><![CDATA[Apply today for free access to cutting-edge IBM quantum capabilities]]></summary>
+    <summary type="text">Apply today for free access to cutting-edge IBM quantum capabilities</summary>
   </entry>
   <entry>
     <title>IBM’s AI Hardware Center is building tomorrow’s processors</title>
     <link href="https://research.ibm.com/blog/how-the-ibm-research-ai-hardware-center-is-building-tomorrow-s-processors"/>
     <id>https://research.ibm.com/blog/how-the-ibm-research-ai-hardware-center-is-building-tomorrow-s-processors</id>
-    <summary type="html"><![CDATA[A look inside the group developing full-stack solutions to AI’s unique computational requirements.]]></summary>
+    <summary type="text">A look inside the group developing full-stack solutions to AI’s unique computational requirements.</summary>
   </entry>
   <entry>
     <title>IBM’s Wei Sun is an expert at navigating life’s trade-offs</title>
     <link href="https://research.ibm.com/blog/wei-sun-operations-research"/>
     <id>https://research.ibm.com/blog/wei-sun-operations-research</id>
-    <summary type="html"><![CDATA[Her research focuses on applying operations research to real-world problems. We spoke to her about OR, AI, and what’s next.]]></summary>
+    <summary type="text">Her research focuses on applying operations research to real-world problems. We spoke to her about OR, AI, and what’s next.</summary>
   </entry>
 </feed>

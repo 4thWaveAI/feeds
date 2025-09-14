@@ -1,0 +1,68 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "4thWave AI — Extended Reality (Aggregated)",
+  "home_page_url": "https://4thwave.ai",
+  "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/extended-reality.json",
+  "items": [
+    {
+      "id": "https://www.roadtovr.com/news/page/2/",
+      "url": "https://www.roadtovr.com/news/page/2/",
+      "title": "News | Page 2 of 546 | Road to VR",
+      "content_text": "News | Page 2 of 546 | Road to VR"
+    },
+    {
+      "id": "https://www.roadtovr.com/news/page/3/",
+      "url": "https://www.roadtovr.com/news/page/3/",
+      "title": "News | Page 3 of 546 | Road to VR",
+      "content_text": "News | Page 3 of 546 | Road to VR"
+    },
+    {
+      "id": "https://www.roadtovr.com/news/page/546/",
+      "url": "https://www.roadtovr.com/news/page/546/",
+      "title": "News | Page 546 of 546 | Road to VR",
+      "content_text": "News | Page 546 of 546 | Road to VR"
+    },
+    {
+      "id": "https://spectrum.ieee.org/",
+      "url": "https://spectrum.ieee.org/",
+      "title": "IEEE Spectrum",
+      "content_text": "The world's leading engineering magazine"
+    },
+    {
+      "id": "https://spectrum.ieee.org/topic/aerospace/",
+      "url": "https://spectrum.ieee.org/topic/aerospace/",
+      "title": "Aerospace News & Articles",
+      "content_text": "The latest developments in aviation, satellites, astrophysics, space flight, and space exploration"
+    },
+    {
+      "id": "https://spectrum.ieee.org/topic/artificial-intelligence/",
+      "url": "https://spectrum.ieee.org/topic/artificial-intelligence/",
+      "title": "AI News & Articles - Artificial Intelligence Updates",
+      "content_text": "The latest advances in artificial intelligence and machine learning, generative AI, ChatGPT, LLMs, deepfakes, and more"
+    },
+    {
+      "id": "https://spectrum.ieee.org/topic/biomedical/",
+      "url": "https://spectrum.ieee.org/topic/biomedical/",
+      "title": "Biomedical News & Articles",
+      "content_text": "The latest developments in biomedical devices, prosthetics, imaging, and diagnostics"
+    },
+    {
+      "id": "https://spectrum.ieee.org/topic/climate-tech/",
+      "url": "https://spectrum.ieee.org/topic/climate-tech/",
+      "title": "Climate Tech News & Articles",
+      "content_text": "The latest developments in renewables, carbon capture, emissions monitoring, geoengineering, and electrifying everything"
+    },
+    {
+      "id": "https://spectrum.ieee.org/topic/computing/",
+      "url": "https://spectrum.ieee.org/topic/computing/",
+      "title": "Computing News & Articles",
+      "content_text": "The latest developments in embedded systems, hardware, software, quantum computers, and IT"
+    },
+    {
+      "id": "https://spectrum.ieee.org/topic/consumer-electronics/",
+      "url": "https://spectrum.ieee.org/topic/consumer-electronics/",
+      "title": "Consumer Electronics News & Articles",
+      "content_text": "The latest developments in gadgets, gaming, smart phones, virtual reality, and audio/video"
+    }
+  ]
+}
