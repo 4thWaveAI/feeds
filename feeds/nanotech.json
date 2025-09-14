@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
+      "id": "https://phys.org/news/2025-09-generation-nanoengineered-loss-electronics.html",
+      "url": "https://phys.org/news/2025-09-generation-nanoengineered-loss-electronics.html",
+      "title": "Next-generation nanoengineered switches can cut heat loss in electronics",
+      "content_text": "Electronic devices lose energy as heat due to the movement of electrons. Now, a breakthrough in nanoengineering has produced a new kind of switch that matches the performance of the best traditional designs while pushing beyond the power-consumption limits of modern electronics.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2025/next-generation-nanoen.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://phys.org/news/2025-09-atom-thin-crystals-power-future.html",
       "url": "https://phys.org/news/2025-09-atom-thin-crystals-power-future.html",
       "title": "Atom-thin crystals provide new way to power the future of computer memory",
@@ -166,21 +181,6 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/bottlebrush-particles.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-core-technology-ultra-high-resolution.html",
-      "url": "https://phys.org/news/2025-09-core-technology-ultra-high-resolution.html",
-      "title": "Core technology developed for ultra-high-resolution quantum dot displays",
-      "content_text": "A research team has developed a direct optical lithography (DOL) technology that patterns quantum dots (QDs) at ultra-high resolution using only light, without photoresist. Through this, they also provided guidelines for selecting cross-linkers essential for fabricating high-performance QLEDs. This achievement is regarded as a core fundamental technology that can be applied to a wide range of optoelectronic devices, including micro-QLEDs, ultra-high-resolution displays, transparent electronic devices, and next-generation image sensors.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/core-technology-of-dir.jpg",
           "mime_type": "image/jpeg"
         }
       ],
