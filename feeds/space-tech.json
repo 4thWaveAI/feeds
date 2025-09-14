@@ -44,21 +44,6 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news-release/nasa-awards-third-glenn-facility-and-engineering-services-contract/",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-third-glenn-facility-and-engineering-services-contract/",
-      "title": "NASA Awards Third Glenn Facility and Engineering Services Contract - NASA",
-      "content_text": "NASA has selected Troy Sierra JV, LLC of Huntsville, Alabama, to provide engineering, research, and scientific support at the agency’s Glenn Research Center",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2024/08/meatball-w-black-background.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.nasa.gov/2025-news-releases/",
       "url": "https://www.nasa.gov/2025-news-releases/",
       "title": "2025 News Releases - NASA",
@@ -74,6 +59,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/blogs/spacestation/2025/09/14/cygnus-xl-cargo-craft-launches-on-falcon-9-rocket-to-station/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2025/09/14/cygnus-xl-cargo-craft-launches-on-falcon-9-rocket-to-station/",
+      "title": "Cygnus XL Cargo Craft Launches on Falcon 9 Rocket to Station - NASA",
+      "content_text": "At 6:11 p.m. EDT, over 11,000 pounds of scientific investigations and cargo launched to the International Space Station on Northrop Grumman’s Cygnus spacecraft for the company’s 23rd commercial resupply services mission for NASA.",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/09/blog-cygnusxl-launch-091425.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/blogs/spacestation/2025/09/14/cygnus-xl-cargo-craft-counts-down-to-launch-on-nasa/",
       "url": "https://www.nasa.gov/blogs/spacestation/2025/09/14/cygnus-xl-cargo-craft-counts-down-to-launch-on-nasa/",
       "title": "Cygnus XL Cargo Craft Counts Down to Launch on NASA+ - NASA",
@@ -82,21 +82,6 @@
         {
           "url": "https://images-assets.nasa.gov/image/KSC-20240804-PH-SPX02_0002/KSC-20240804-PH-SPX02_0002~large.jpg",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2025/09/13/progress-93-cargo-craft-docks-to-station-resupplying-crew/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2025/09/13/progress-93-cargo-craft-docks-to-station-resupplying-crew/",
-      "title": "Progress 93 Cargo Craft Docks to Station Resupplying Crew - NASA",
-      "content_text": "The unpiloted Progress 93 spacecraft arrived at aft port of the International Space Station’s Zvezda module at 1:27 p.m. EDT on Saturday.",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2025/09/iss-09-13-25.png",
-          "mime_type": "image/png"
         }
       ],
       "tags": [
