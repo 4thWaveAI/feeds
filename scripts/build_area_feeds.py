@@ -17,6 +17,8 @@ Notes:
 - Safe XML (escaped). No brittle CDATA.
 - Media: adds <enclosure> for image/video when available.
 - Robust HTTP with retries/backoff. Canonicalizes URLs (strips UTM/fbclid).
+- NEW: Can ingest sources that are RSS/Atom feeds (set mode: "rss" in feeds.yaml,
+       or use an index URL ending in .xml, or if content looks like <rss>/<feed>).
 """
 
 import re, html, json, yaml, requests, email.utils, xml.etree.ElementTree as ET
@@ -94,7 +96,7 @@ def _clean(s):
 def xml_text(s: str) -> str:
     return html.escape(_clean(s), quote=True)
 
-# ---------- Link picking ----------
+# ---------- Link picking from HTML ----------
 def pick_links(index_html: str, base: str, preferred_prefix: Optional[str], limit: int = 20) -> List[str]:
     soup = BeautifulSoup(index_html, "lxml")
     host = urlparse(base).netloc
@@ -133,6 +135,45 @@ def pick_links(index_html: str, base: str, preferred_prefix: Optional[str], limi
         if any(k in href for k in ("/news/", "/story/", "/releases/", "/202", "/20", "/blog/")):
             add(href)
             if len(out) >= limit: break
+
+    return out[:limit]
+
+# ---------- Links from RSS/Atom ----------
+def links_from_feed(feed_xml: str, base: str, limit: int = 20) -> List[str]:
+    out, seen = [], set()
+    try:
+        root = ET.fromstring(feed_xml)
+    except ET.ParseError:
+        return out
+
+    # RSS 2.0
+    for item in root.findall(".//item"):
+        link_el = item.find("link")
+        link = (link_el.text or "").strip() if link_el is not None else ""
+        if link:
+            u = canon_url(urljoin(base, link))
+            if u not in seen:
+                seen.add(u); out.append(u)
+                if len(out) >= limit: return out
+
+    # Atom
+    ns = "{http://www.w3.org/2005/Atom}"
+    for entry in root.findall(f".//{ns}entry"):
+        # Prefer rel="alternate" HTML link
+        href = None
+        for l in entry.findall(f"{ns}link"):
+            rel = (l.get("rel") or "alternate").lower()
+            typ = (l.get("type") or "").lower()
+            if rel == "alternate" and (not typ or "html" in typ):
+                href = l.get("href"); break
+        if not href:
+            l = entry.find(f"{ns}link")
+            href = l.get("href") if l is not None else None
+        if href:
+            u = canon_url(urljoin(base, href.strip()))
+            if u not in seen:
+                seen.add(u); out.append(u)
+                if len(out) >= limit: return out
 
     return out[:limit]
 
@@ -363,8 +404,16 @@ def main():
         collected: List[Dict] = []
         for src in sources:
             try:
-                idx_html = fetch(src["index"])
-                links = pick_links(idx_html, src["base"], src.get("prefix"), limit=src.get("limit", 10))
+                idx_text = fetch(src["index"])
+                # Detect RSS/Atom either by explicit mode, file extension, or content sniff
+                looks_xml = idx_text.lstrip()[:200].lower()
+                is_rss = (src.get("mode") == "rss" or
+                          src["index"].lower().endswith(".xml") or
+                          "<rss" in looks_xml or "<feed" in looks_xml)
+                if is_rss:
+                    links = links_from_feed(idx_text, src["base"], limit=src.get("limit", 10))
+                else:
+                    links = pick_links(idx_text, src["base"], src.get("prefix"), limit=src.get("limit", 10))
                 for u in links:
                     it = parse_article(u)
                     if it:
