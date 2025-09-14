@@ -82,6 +82,23 @@ def abs_url(base: str, maybe_rel: Optional[str]) -> Optional[str]:
         return None
     full = urljoin(base, maybe_rel.strip())
     return canon_url(full)
+  
+def write_empty_feeds(area_slug: str, title: str, site_base: str, home_url: str):
+    """Create empty-but-valid RSS/Atom/JSON for new areas that currently have 0 items."""
+    rss_path  = OUTDIR / f"{area_slug}.xml"
+    atom_path = OUTDIR / f"{area_slug}.atom.xml"
+    json_path = OUTDIR / f"{area_slug}.json"
+
+    rss_xml  = build_rss([], title, home_url)
+    atom_xml = build_atom([], title, site_base + f"feeds/{area_slug}.atom.xml", home_url, f"urn:4thwaveai-feeds:{area_slug}")
+    json_txt = build_json([], title, site_base + f"feeds/{area_slug}.json", home_url)
+
+    rss_path.write_text(rss_xml,  encoding="utf-8", newline="\n")
+    atom_path.write_text(atom_xml, encoding="utf-8", newline="\n")
+    json_path.write_text(json_txt, encoding="utf-8", newline="\n")
+
+    # Validate XML files so we fail fast if something’s off
+    validate_xml(rss_path); validate_xml(atom_path)
 
 # ---------- Text & XML safety ----------
 _CONTROL = re.compile(r'[\x00-\x08\x0B\x0C\x0E-\x1F]')
