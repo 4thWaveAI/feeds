@@ -3,7 +3,7 @@ name: Update Area Feeds (AI/Robotics/Quantum/Biotech/Nanotech)
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "22 */12 * * *"   # every ~12 hours, UTC
+    - cron: "*/15 * * * *"   # every 15 minutes (UTC)
 
 permissions:
   contents: write
