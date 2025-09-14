@@ -564,6 +564,179 @@ areas:
       base:  "https://spectrum.ieee.org"
       prefix: "/"
       limit: 10
+    # --- Tech leaders (each gets its own feed; also rolls up into tech-leaders.* automatically) ---
+  elon-musk:
+    - name: SpaceX — Updates (abs)
+      index: "https://www.spacex.com/updates/"
+      base:  "https://www.spacex.com"
+      prefix: "https://www.spacex.com/updates/"
+      limit: 6
+    - name: SpaceX — Updates (rel)
+      index: "https://www.spacex.com/updates/"
+      base:  "https://www.spacex.com"
+      prefix: "/updates/"
+      limit: 6
+    - name: Tesla AI & Robotics (abs)
+      index: "https://www.tesla.com/AI"
+      base:  "https://www.tesla.com"
+      prefix: "https://www.tesla.com/AI"
+      limit: 6
+    - name: Tesla AI & Robotics (rel)
+      index: "https://www.tesla.com/AI"
+      base:  "https://www.tesla.com"
+      prefix: "/AI"
+      limit: 6
+
+  jensen-huang:
+    - name: NVIDIA Newsroom (abs)
+      index: "https://nvidianews.nvidia.com/"
+      base:  "https://nvidianews.nvidia.com"
+      prefix: "https://nvidianews.nvidia.com/news/"
+      limit: 8
+    - name: NVIDIA Newsroom (rel)
+      index: "https://nvidianews.nvidia.com/"
+      base:  "https://nvidianews.nvidia.com"
+      prefix: "/news/"
+      limit: 8
+    - name: NVIDIA Blog (abs)
+      index: "https://blogs.nvidia.com/"
+      base:  "https://blogs.nvidia.com"
+      prefix: "https://blogs.nvidia.com/blog/"
+      limit: 8
+    - name: NVIDIA Blog (rel)
+      index: "https://blogs.nvidia.com/"
+      base:  "https://blogs.nvidia.com"
+      prefix: "/blog/"
+      limit: 8
+
+  sam-altman:
+    - name: OpenAI News (abs)
+      index: "https://openai.com/news/"
+      base:  "https://openai.com"
+      prefix: "https://openai.com/news/"
+      limit: 10
+    - name: OpenAI News (rel)
+      index: "https://openai.com/news/"
+      base:  "https://openai.com"
+      prefix: "/news/"
+      limit: 10
+
+  demis-hassabis:
+    - name: DeepMind
+      index: "https://deepmind.google/discover/blog/"
+      base:  "https://deepmind.google"
+      prefix: "/discover/blog/"
+      limit: 10
+
+  sundar-pichai:
+    - name: Google Blog
+      index: "https://blog.google/"
+      base:  "https://blog.google"
+      prefix: "/"
+      limit: 6
+    - name: Google AI Blog
+      index: "https://ai.googleblog.com/"
+      base:  "https://ai.googleblog.com"
+      prefix: "/"
+      limit: 6
+
+  satya-nadella:
+    - name: Microsoft Blog
+      index: "https://blogs.microsoft.com/"
+      base:  "https://blogs.microsoft.com"
+      prefix: "/"
+      limit: 6
+
+  tim-cook:
+    - name: Apple Newsroom (abs)
+      index: "https://www.apple.com/newsroom/"
+      base:  "https://www.apple.com"
+      prefix: "https://www.apple.com/newsroom/"
+      limit: 8
+    - name: Apple Newsroom (rel)
+      index: "https://www.apple.com/newsroom/"
+      base:  "https://www.apple.com"
+      prefix: "/newsroom/"
+      limit: 8
+
+  mark-zuckerberg:
+    - name: Meta Newsroom
+      index: "https://about.fb.com/news/"
+      base:  "https://about.fb.com"
+      prefix: "/news/"
+      limit: 8
+
+  jeff-bezos:
+    - name: Blue Origin — News (abs)
+      index: "https://www.blueorigin.com/news"
+      base:  "https://www.blueorigin.com"
+      prefix: "https://www.blueorigin.com/news"
+      limit: 6
+    - name: Blue Origin — News (rel)
+      index: "https://www.blueorigin.com/news"
+      base:  "https://www.blueorigin.com"
+      prefix: "/news"
+      limit: 6
+    - name: About Amazon — News (abs)
+      index: "https://www.aboutamazon.com/news"
+      base:  "https://www.aboutamazon.com"
+      prefix: "https://www.aboutamazon.com/news"
+      limit: 6
+    - name: About Amazon — News (rel)
+      index: "https://www.aboutamazon.com/news"
+      base:  "https://www.aboutamazon.com"
+      prefix: "/news"
+      limit: 6
+
+  # --- New topical feeds ---
+  young-talons-edu-tech:
+    - name: EdSurge — News (abs)
+      index: "https://www.edsurge.com/news"
+      base:  "https://www.edsurge.com"
+      prefix: "https://www.edsurge.com/news/"
+      limit: 10
+    - name: EdSurge — News (rel)
+      index: "https://www.edsurge.com/news"
+      base:  "https://www.edsurge.com"
+      prefix: "/news/"
+      limit: 10
+    - name: Hechinger Report — Technology
+      index: "https://hechingerreport.org/special_reports/technology/"
+      base:  "https://hechingerreport.org"
+      prefix: "/"
+      limit: 8
+    - name: MIT News — Education
+      index: "https://news.mit.edu/topic/education"
+      base:  "https://news.mit.edu"
+      prefix: "/"
+      limit: 6
+    - name: EdTech Magazine — K-12
+      index: "https://edtechmagazine.com/k12"
+      base:  "https://edtechmagazine.com"
+      prefix: "/k12"
+      limit: 8
+
+  gsel-esports-ai:
+    - name: NASEF — News
+      index: "https://www.nasef.org/news"
+      base:  "https://www.nasef.org"
+      prefix: "/news"
+      limit: 8
+    - name: Esports Insider — News
+      index: "https://esportsinsider.com/"
+      base:  "https://esportsinsider.com"
+      prefix: "/"
+      limit: 10
+    - name: Esports.gg — News
+      index: "https://esports.gg/news/"
+      base:  "https://esports.gg"
+      prefix: "/news/"
+      limit: 10
+    - name: VentureBeat — Games
+      index: "https://venturebeat.com/games/"
+      base:  "https://venturebeat.com"
+      prefix: "/games/"
+      limit: 8
 
   humanoid-robots:
     - name: IEEE Spectrum — Humanoid Robots (tag)
