@@ -8,7 +8,10 @@
       "id": "https://www.nasa.gov/news/recently-published/",
       "url": "https://www.nasa.gov/news/recently-published/",
       "title": "All NASA News - NASA",
-      "content_text": "Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet."
+      "content_text": "Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.",
+      "tags": [
+        "space-tech"
+      ]
     },
     {
       "id": "https://www.nasa.gov/news/media-contacts/",
@@ -20,6 +23,9 @@
           "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
           "mime_type": "image/jpeg"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
@@ -32,6 +38,9 @@
           "url": "https://www.nasa.gov/wp-content/uploads/2025/05/54492396655-c6ba83df1d-o-1.jpg",
           "mime_type": "image/jpeg"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
@@ -44,6 +53,9 @@
           "url": "https://www.nasa.gov/wp-content/uploads/2024/08/meatball-w-black-background.webp",
           "mime_type": "image/webp"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
@@ -56,6 +68,9 @@
           "url": "https://www.nasa.gov/wp-content/uploads/2024/12/54200119914-6ac915b145-o.jpg",
           "mime_type": "image/jpeg"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
@@ -68,6 +83,9 @@
           "url": "https://www.nasa.gov/wp-content/uploads/2025/09/iss-09-13-25.png",
           "mime_type": "image/png"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
@@ -80,6 +98,9 @@
           "url": "https://images-assets.nasa.gov/image/iss073e0284397/iss073e0284397~large.jpg",
           "mime_type": "image/jpeg"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
@@ -92,6 +113,9 @@
           "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-Honolulu-skyline-16.jpg",
           "mime_type": "image/jpeg"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
@@ -104,6 +128,9 @@
           "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/Ship_waves_Bering_sea_NOAA.jpg",
           "mime_type": "image/jpeg"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
@@ -120,6 +147,9 @@
           "url": "https://www.youtube.com/embed/ieJKWW8sp2A?feature=oembed",
           "mime_type": "video/mp4"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
@@ -132,6 +162,9 @@
           "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/Percy_hero.jpeg",
           "mime_type": "image/jpeg"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
@@ -148,6 +181,9 @@
           "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/PIA24578.mp4",
           "mime_type": "video/mp4"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
@@ -160,6 +196,9 @@
           "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/Percy_hero.jpeg",
           "mime_type": "image/jpeg"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
@@ -176,6 +215,9 @@
           "url": "https://www.youtube.com/embed/aty-PMtS7Dc?feature=oembed",
           "mime_type": "video/mp4"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
@@ -188,6 +230,9 @@
           "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26635-Illustration_Giant_Asteroid_Impacting_Ancient_Mars.jpg",
           "mime_type": "image/jpeg"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
@@ -204,6 +249,9 @@
           "url": "https://www.youtube.com/embed/zM_0aXxGN6g?feature=oembed",
           "mime_type": "video/mp4"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
@@ -216,79 +264,118 @@
           "url": "https://www.jpl.nasa.gov/img/og.png",
           "mime_type": "image/png"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
       "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
       "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
       "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)"
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
     },
     {
       "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
       "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
       "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)"
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
     },
     {
       "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
       "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
       "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)"
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
     },
     {
       "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
       "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
       "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)"
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
     },
     {
       "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
       "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
       "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)"
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
     },
     {
       "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
       "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
       "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)"
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
     },
     {
       "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
       "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
       "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)"
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
     },
     {
       "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
       "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
       "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)"
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
     },
     {
       "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
       "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
       "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)"
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
     },
     {
       "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
       "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
       "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)"
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
     },
     {
       "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
       "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
       "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)"
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
     },
     {
       "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
       "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
       "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Uniquement les demandes de la presse)"
+      "content_text": "email: media @ esa.int (Uniquement les demandes de la presse)",
+      "tags": [
+        "space-tech"
+      ]
     },
     {
       "id": "https://www.blueorigin.com/news/media-inquiries",
@@ -300,6 +387,9 @@
           "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/BlueOrigin_EarthAtNight.jpg",
           "mime_type": "image/jpeg"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
@@ -312,6 +402,9 @@
           "url": "https://d3ezn0y6hdgq62.cloudfront.net/assets/og_feather_logo.jpeg",
           "mime_type": "image/jpeg"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
@@ -324,6 +417,9 @@
           "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/starrybackground_weblarge.jpeg",
           "mime_type": "image/jpeg"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
@@ -336,6 +432,9 @@
           "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/Home_NS29-NewShepardSunrise.jpg",
           "mime_type": "image/jpeg"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
@@ -348,6 +447,9 @@
           "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/MarsTelcomOrbiter_BlueOrigin_Rendering-1.jpg",
           "mime_type": "image/jpeg"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
@@ -360,6 +462,9 @@
           "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/NS26Social_NewShepard-Sunrise_HomePageTakeover.jpg",
           "mime_type": "image/jpeg"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
@@ -372,6 +477,9 @@
           "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/latest-news_hero.png",
           "mime_type": "image/png"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
@@ -388,6 +496,9 @@
           "url": "https://www.youtube.com/embed/kkCaq3kv4CY",
           "mime_type": "video/mp4"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
@@ -404,6 +515,9 @@
           "url": "https://www.youtube.com/embed/yoRViVhVz4s",
           "mime_type": "video/mp4"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
@@ -420,6 +534,9 @@
           "url": "https://www.youtube.com/embed/F14uXmzVp08",
           "mime_type": "video/mp4"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
@@ -436,6 +553,9 @@
           "url": "https://www.youtube.com/embed/2jlhxFZkw9E",
           "mime_type": "video/mp4"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     },
     {
@@ -452,6 +572,9 @@
           "url": "https://www.youtube.com/embed/kkCaq3kv4CY",
           "mime_type": "video/mp4"
         }
+      ],
+      "tags": [
+        "space-tech"
       ]
     }
   ]
