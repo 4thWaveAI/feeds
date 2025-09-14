@@ -3,17 +3,20 @@
 Build aggregated feeds per area from feeds.yaml
 
 Outputs:
-  /feeds/<area>.xml
-  /feeds/<area>.atom.xml
-  /feeds/<area>.json
-  /feeds/all.(xml|atom.xml|json)            # all areas combined (optional)
-  /feeds/videos.(xml|atom.xml|json)         # videos-only (optional)
-  /feeds/tech-leaders.(xml|atom.xml|json)   # combined spotlight leaders (optional)
+  feeds/<area>.xml
+  feeds/<area>.atom.xml
+  feeds/<area>.json
+  feeds/all.(xml|atom.xml|json)            # optional if items exist
+  feeds/videos.(xml|atom.xml|json)         # optional if items exist
+  feeds/tech-leaders.(xml|atom.xml|json)   # optional if items exist
 
 Also writes:
-  /index.html  (auto-lists all areas + All + Videos + Tech Leaders when present)
+  index.html (auto lists all areas + All + Videos + Tech Leaders when present)
 
-Safe XML (escaped). Adds <enclosure> for image/video. Validates XML before finish.
+Notes:
+- Safe XML (escaped). No brittle CDATA.
+- Media: adds <enclosure> for image/video when available.
+- Robust HTTP with retries/backoff. Canonicalizes URLs (strips UTM/fbclid).
 """
 
 import re, html, json, yaml, requests, email.utils, xml.etree.ElementTree as ET
@@ -22,6 +25,8 @@ from urllib.parse import urljoin, urlparse, urlunparse, parse_qsl, urlencode
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional, Dict, List
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 # ---------- Paths & config ----------
 ROOT    = Path(__file__).resolve().parents[1]
@@ -29,7 +34,7 @@ CONFIG  = ROOT / "feeds.yaml"
 OUTDIR  = ROOT / "feeds"
 OUTDIR.mkdir(parents=True, exist_ok=True)
 
-# ---------- HTTP ----------
+# ---------- HTTP (session with retries) ----------
 HEADERS = {
     "User-Agent": "4thWaveAI Feeds Bot/1.0 (+https://4thwave.ai)",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -37,8 +42,20 @@ HEADERS = {
     "Connection": "keep-alive",
     "Cache-Control": "no-cache",
 }
+
+_session = requests.Session()
+_retry = Retry(
+    total=3,
+    backoff_factor=1.0,
+    status_forcelist=[429, 500, 502, 503, 504],
+    allowed_methods=frozenset(["GET"]),
+    raise_on_status=False,
+)
+_session.mount("http://", HTTPAdapter(max_retries=_retry))
+_session.mount("https://", HTTPAdapter(max_retries=_retry))
+
 def fetch(url: str, timeout: int = 30) -> str:
-    r = requests.get(url, timeout=timeout, headers=HEADERS)
+    r = _session.get(url, timeout=timeout, headers=HEADERS)
     r.raise_for_status()
     r.encoding = r.apparent_encoding or "utf-8"
     return r.text
@@ -46,6 +63,7 @@ def fetch(url: str, timeout: int = 30) -> str:
 # ---------- URL helpers ----------
 STRIP_QS = {"utm_source","utm_medium","utm_campaign","utm_term","utm_content","utm_id",
             "fbclid","gclid","mc_cid","mc_eid","igshid","si","ref","ref_src"}
+
 def canon_url(u: str) -> str:
     try:
         p = urlparse(u)
@@ -76,10 +94,6 @@ def _clean(s):
 def xml_text(s: str) -> str:
     return html.escape(_clean(s), quote=True)
 
-TAG = re.compile(r"<[^>]+>")
-def strip_tags(html_str: str) -> str:
-    return TAG.sub("", html_str or "")
-
 # ---------- Link picking ----------
 def pick_links(index_html: str, base: str, preferred_prefix: Optional[str], limit: int = 20) -> List[str]:
     soup = BeautifulSoup(index_html, "lxml")
@@ -95,22 +109,25 @@ def pick_links(index_html: str, base: str, preferred_prefix: Optional[str], limi
         if full in seen: return
         seen.add(full); out.append(full)
 
+    # Preferred prefix (abs or rel)
     if preferred_prefix:
         for a in soup.select(f'a[href^="{preferred_prefix}"]'):
             add(a.get("href"))
             if len(out) >= limit: return out
 
+    # Domain fallbacks
     patterns = []
     if "nanowerk.com" in host: patterns += ["/news2/"]
     if "phys.org" in host:     patterns += ["/news/"]
     if "sciencedaily.com" in host: patterns += ["/releases/"]
-    if "news.mit.edu" in host or "berkeley.edu" in host: patterns += ["/20"]
+    if "news.mit.edu" in host or "berkeley.edu" in host: patterns += ["/20"]  # /2025/...
 
     for p in patterns:
         for a in soup.select(f'a[href^="{p}"]'):
             add(a.get("href"))
             if len(out) >= limit: return out
 
+    # Generic fallback
     for a in soup.select("a[href]"):
         href = a.get("href", "")
         if any(k in href for k in ("/news/", "/story/", "/releases/", "/202", "/20", "/blog/")):
@@ -134,8 +151,7 @@ def guess_mime(u: str, default: str) -> str:
 # ---------- Article parsing (with media) ----------
 def parse_article(url: str) -> Optional[Dict]:
     try:
-        html_text = fetch(url)
-        s  = BeautifulSoup(html_text, "lxml")
+        s  = BeautifulSoup(fetch(url), "lxml")
 
         ogt = s.find("meta", property="og:title")
         title = (ogt.get("content") or "").strip() if ogt else (s.title.get_text(strip=True) if s.title else url)
@@ -150,6 +166,7 @@ def parse_article(url: str) -> Optional[Dict]:
         descr = _clean(descr) or title
         descr = descr[:800]
 
+        # Image
         img = None
         ogimg = s.find("meta", property="og:image") or s.find("meta", attrs={"name":"twitter:image"})
         if ogimg and ogimg.get("content"):
@@ -159,6 +176,7 @@ def parse_article(url: str) -> Optional[Dict]:
             if link_img and link_img.get("href"):
                 img = abs_url(url, link_img["href"].strip())
 
+        # Video
         vid = None
         for key in ("og:video:secure_url", "og:video:url", "og:video"):
             tag = s.find("meta", property=key)
@@ -180,6 +198,7 @@ def parse_article(url: str) -> Optional[Dict]:
                 if any(k in src for k in ("youtube.com","youtu.be","vimeo.com")):
                     vid = abs_url(url, src)
 
+        # Pub date (optional)
         pubDate = None
         pub = s.find("meta", property="article:published_time") or s.find("meta", attrs={"name":"pubdate"})
         if pub and pub.get("content"):
@@ -290,8 +309,8 @@ def build_json(items: List[Dict], title: str, self_url: str, home_url: str) -> s
 def validate_xml(path: Path):
     ET.parse(path)
 
-# ---------- Homepage generator ----------
-def build_index_html(areas: List[str], site_base: str, have_all: bool, have_videos: bool, have_leaders: bool):
+# ---------- Homepage ----------
+def build_index_html(areas: List[str], have_all: bool, have_videos: bool, have_leaders: bool):
     def row(slug: str) -> str:
         return (f'  <li>{slug.replace("-", " ").title()} — '
                 f'<a href="feeds/{slug}.xml">RSS</a> <span class="sep">·</span> '
@@ -331,7 +350,7 @@ def build_index_html(areas: List[str], site_base: str, have_all: bool, have_vide
 
 # ---------- Main ----------
 def main():
-    cfg = yaml.safe_load(CONFIG.read_text(encoding="utf-8"))
+    cfg = yaml.safe_load((ROOT / "feeds.yaml").read_text(encoding="utf-8"))
     site_base = cfg.get("site_base", "https://4thwaveai-feeds.github.io/4thwaveai-feeds/")
     home_url  = cfg.get("home_url", "https://4thwave.ai")
     max_items = cfg.get("max_items_per_area", 60)
@@ -349,11 +368,12 @@ def main():
                 for u in links:
                     it = parse_article(u)
                     if it:
-                        it["category"] = area_slug  # tag every item with its area
+                        it["category"] = area_slug  # tag for routing/filters
                         collected.append(it)
             except Exception as e:
                 print(f"[{area_slug}] source failed: {src.get('name', src.get('base', ''))} -> {e}")
 
+        # de-dup by guid
         seen, unique = set(), []
         for it in collected:
             gid = it["guid"]
@@ -361,12 +381,13 @@ def main():
             seen.add(gid)
             unique.append(it)
 
-        def sort_key(x):
+        # newest-first (undated sink to bottom)
+        def s_key(x):
             try:
                 return datetime.strptime(x.get("pubDate",""), "%a, %d %b %Y %H:%M:%S %z")
             except Exception:
                 return datetime.min.replace(tzinfo=timezone.utc)
-        unique.sort(key=sort_key, reverse=True)
+        unique.sort(key=s_key, reverse=True)
 
         if not unique:
             print(f"[{area_slug}] no items, skipping write (preserve previous files)")
@@ -393,7 +414,7 @@ def main():
         validate_xml(rss_path); validate_xml(atom_path)
         print(f"[{area_slug}] wrote {len(unique)} items")
 
-    # ----- Global "all" feeds -----
+    # ----- All -----
     have_all = False
     if all_items_for_all:
         seen, global_items = set(), []
@@ -402,14 +423,13 @@ def main():
             if gid in seen: continue
             seen.add(gid)
             global_items.append(it)
-
-        def sort_key2(x):
+        def s_key2(x):
             try:
                 return datetime.strptime(x.get("pubDate",""), "%a, %d %b %Y %H:%M:%S %z")
             except Exception:
                 return datetime.min.replace(tzinfo=timezone.utc)
-        global_items.sort(key=sort_key2, reverse=True)
-        global_items = global_items[: max_items]
+        global_items.sort(key=s_key2, reverse=True)
+        global_items = global_items[:max_items]
 
         title_all = "4thWave AI — All Areas (Aggregated)"
         (OUTDIR / "all.xml").write_text(build_rss(global_items, title_all, home_url), encoding="utf-8", newline="\n")
@@ -423,23 +443,23 @@ def main():
         print(f"[all] wrote {len(global_items)} items")
         have_all = True
 
-    # ----- Videos-only feeds -----
+    # ----- Videos -----
     have_videos = False
-    video_items = [it for it in all_items_for_all if it.get("video")]
-    if video_items:
+    vid_items = [it for it in all_items_for_all if it.get("video")]
+    if vid_items:
         seen, vids = set(), []
-        for it in video_items:
+        for it in vid_items:
             gid = it["guid"]
             if gid in seen: continue
             seen.add(gid)
             vids.append(it)
-        def sort_key3(x):
+        def s_key3(x):
             try:
                 return datetime.strptime(x.get("pubDate",""), "%a, %d %b %Y %H:%M:%S %z")
             except Exception:
                 return datetime.min.replace(tzinfo=timezone.utc)
-        vids.sort(key=sort_key3, reverse=True)
-        vids = vids[: max_items]
+        vids.sort(key=s_key3, reverse=True)
+        vids = vids[:max_items]
 
         title_v = "4thWave AI — Videos (Aggregated)"
         (OUTDIR / "videos.xml").write_text(build_rss(vids, title_v, home_url), encoding="utf-8", newline="\n")
@@ -453,7 +473,7 @@ def main():
         print(f"[videos] wrote {len(vids)} items")
         have_videos = True
 
-    # ----- Tech Leaders combined feed -----
+    # ----- Tech Leaders combined (requires leader slugs to exist in feeds.yaml) -----
     have_leaders = False
     leader_slugs = {
         "elon-musk", "jeff-bezos", "jensen-huang", "sam-altman",
@@ -468,13 +488,13 @@ def main():
             if gid in seen: continue
             seen.add(gid)
             uniq.append(it)
-        def sort_key_lead(x):
+        def s_key4(x):
             try:
                 return datetime.strptime(x.get("pubDate",""), "%a, %d %b %Y %H:%M:%S %z")
             except Exception:
                 return datetime.min.replace(tzinfo=timezone.utc)
-        uniq.sort(key=sort_key_lead, reverse=True)
-        uniq = uniq[: max_items]
+        uniq.sort(key=s_key4, reverse=True)
+        uniq = uniq[:max_items]
 
         title_leaders = "4thWave AI — Tech Leaders (Spotlights)"
         (OUTDIR / "tech-leaders.xml").write_text(build_rss(uniq, title_leaders, home_url), encoding="utf-8", newline="\n")
@@ -489,7 +509,7 @@ def main():
         have_leaders = True
 
     # Homepage
-    build_index_html(written_areas, site_base, have_all, have_videos, have_leaders)
+    build_index_html(written_areas, have_all, have_videos, have_leaders)
     print(f"Homepage index.html updated with {len(written_areas)} areas")
 
 if __name__ == "__main__":
