@@ -3,7 +3,11 @@ name: Update Area Feeds (AI/Robotics/Quantum/Biotech/Nanotech)
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "*/15 * * * *"   # every 15 minutes (UTC)
+    - cron: "*/30 * * * *"   # every 30 minutes
+
+concurrency:
+  group: area-feeds
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -12,22 +16,27 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: Install dependencies
-        run: pip install requests beautifulsoup4 lxml pyyaml
-      - name: Build area feeds
-        run: python scripts/build_area_feeds.py
-      - name: Commit & push if changed
+
+      - name: Install deps
         run: |
-          if [[ -n "$(git status --porcelain)" ]]; then
-            git config user.name  "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add feeds/ai.* feeds/robotics.* feeds/quantum.* feeds/biotech.* feeds/nanotech.* index.html
-            git commit -m "chore: auto-refresh area feeds (AI/Robotics/Quantum/Biotech/Nanotech) [skip ci]"
-            git push
-          else
-            echo "No changes to commit."
-          fi
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Build area feeds
+        run: |
+          python scripts/build_area_feeds.py
+
+      - name: Commit generated files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "chore: update feeds & index [skip ci]"
+          git push
