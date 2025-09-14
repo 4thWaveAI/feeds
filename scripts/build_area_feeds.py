@@ -6,16 +6,17 @@ Outputs:
   /feeds/<area>.xml
   /feeds/<area>.atom.xml
   /feeds/<area>.json
-  /feeds/all.(xml|atom.xml|json)            # all areas combined (optional if items exist)
-  /feeds/videos.(xml|atom.xml|json)         # videos-only (optional if items exist)
+  /feeds/all.(xml|atom.xml|json)            # all areas combined (optional)
+  /feeds/videos.(xml|atom.xml|json)         # videos-only (optional)
+  /feeds/tech-leaders.(xml|atom.xml|json)   # combined spotlight leaders (optional)
 
 Also writes:
-  /index.html  (auto-lists all areas + 'All' + 'Videos' when present)
+  /index.html  (auto-lists all areas + All + Videos + Tech Leaders when present)
 
-Safe XML (no raw CDATA). Adds <enclosure> for image/video. Validates XML before finish.
+Safe XML (escaped). Adds <enclosure> for image/video. Validates XML before finish.
 """
 
-import re, os, html, json, yaml, requests, email.utils, xml.etree.ElementTree as ET
+import re, html, json, yaml, requests, email.utils, xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse, urlunparse, parse_qsl, urlencode
 from datetime import datetime, timezone
@@ -39,7 +40,6 @@ HEADERS = {
 def fetch(url: str, timeout: int = 30) -> str:
     r = requests.get(url, timeout=timeout, headers=HEADERS)
     r.raise_for_status()
-    # Force sensible decode (prevents garbled bytes like I�Z�…)
     r.encoding = r.apparent_encoding or "utf-8"
     return r.text
 
@@ -47,10 +47,8 @@ def fetch(url: str, timeout: int = 30) -> str:
 STRIP_QS = {"utm_source","utm_medium","utm_campaign","utm_term","utm_content","utm_id",
             "fbclid","gclid","mc_cid","mc_eid","igshid","si","ref","ref_src"}
 def canon_url(u: str) -> str:
-    """Absolute, no fragment, trimmed tracking query params."""
     try:
         p = urlparse(u)
-        # make absolute if somehow relative slipped through (rare)
         if not p.scheme:
             return u
         q = [(k,v) for k,v in parse_qsl(p.query, keep_blank_values=True) if k.lower() not in STRIP_QS]
@@ -72,7 +70,7 @@ def _clean(s):
         return ""
     if isinstance(s, bytes):
         s = s.decode("utf-8", "replace")
-    s = s.replace("\ufeff", "")           # strip BOM
+    s = s.replace("\ufeff", "")
     return _CONTROL.sub("", s)
 
 def xml_text(s: str) -> str:
@@ -97,25 +95,22 @@ def pick_links(index_html: str, base: str, preferred_prefix: Optional[str], limi
         if full in seen: return
         seen.add(full); out.append(full)
 
-    # 1) Preferred prefix (abs or rel)
     if preferred_prefix:
         for a in soup.select(f'a[href^="{preferred_prefix}"]'):
             add(a.get("href"))
             if len(out) >= limit: return out
 
-    # 2) Domain fallbacks
     patterns = []
     if "nanowerk.com" in host: patterns += ["/news2/"]
     if "phys.org" in host:     patterns += ["/news/"]
     if "sciencedaily.com" in host: patterns += ["/releases/"]
-    if "news.mit.edu" in host or "berkeley.edu" in host: patterns += ["/20"]  # /2025/...
+    if "news.mit.edu" in host or "berkeley.edu" in host: patterns += ["/20"]
 
     for p in patterns:
         for a in soup.select(f'a[href^="{p}"]'):
             add(a.get("href"))
             if len(out) >= limit: return out
 
-    # 3) Generic fallback
     for a in soup.select("a[href]"):
         href = a.get("href", "")
         if any(k in href for k in ("/news/", "/story/", "/releases/", "/202", "/20", "/blog/")):
@@ -142,12 +137,10 @@ def parse_article(url: str) -> Optional[Dict]:
         html_text = fetch(url)
         s  = BeautifulSoup(html_text, "lxml")
 
-        # Title
         ogt = s.find("meta", property="og:title")
         title = (ogt.get("content") or "").strip() if ogt else (s.title.get_text(strip=True) if s.title else url)
         title = _clean(title)
 
-        # Description (prefer og:description, else first paragraph)
         ogd = s.find("meta", property="og:description")
         if ogd and ogd.get("content"):
             descr = ogd["content"].strip()
@@ -157,7 +150,6 @@ def parse_article(url: str) -> Optional[Dict]:
         descr = _clean(descr) or title
         descr = descr[:800]
 
-        # Image (og:image / twitter:image / link[rel=image_src])
         img = None
         ogimg = s.find("meta", property="og:image") or s.find("meta", attrs={"name":"twitter:image"})
         if ogimg and ogimg.get("content"):
@@ -167,7 +159,6 @@ def parse_article(url: str) -> Optional[Dict]:
             if link_img and link_img.get("href"):
                 img = abs_url(url, link_img["href"].strip())
 
-        # Video (og:video / video tag / YouTube/Vimeo iframe)
         vid = None
         for key in ("og:video:secure_url", "og:video:url", "og:video"):
             tag = s.find("meta", property=key)
@@ -189,7 +180,6 @@ def parse_article(url: str) -> Optional[Dict]:
                 if any(k in src for k in ("youtube.com","youtu.be","vimeo.com")):
                     vid = abs_url(url, src)
 
-        # Pub date (optional)
         pubDate = None
         pub = s.find("meta", property="article:published_time") or s.find("meta", attrs={"name":"pubdate"})
         if pub and pub.get("content"):
@@ -239,6 +229,8 @@ def build_rss(items: List[Dict], title: str, home_url: str) -> str:
             parts.append(f'      <enclosure url="{xml_text(it["image"])}" type="{xml_text(guess_mime(it["image"], "image/jpeg"))}" />')
         if it.get("video"):
             parts.append(f'      <enclosure url="{xml_text(it["video"])}" type="{xml_text(guess_mime(it["video"], "video/mp4"))}" />')
+        if it.get("category"):
+            parts.append(f"      <category>{xml_text(it['category'])}</category>")
         parts += ["    </item>"]
     parts += ["  </channel>", "</rss>"]
     return "\n".join(parts)
@@ -269,7 +261,6 @@ def build_atom(items: List[Dict], title: str, self_url: str, home_url: str, feed
     return "\n".join(parts)
 
 def build_json(items: List[Dict], title: str, self_url: str, home_url: str) -> str:
-    # JSON Feed v1 with attachments (supported by many tools)
     feed = {
         "version": "https://jsonfeed.org/version/1",
         "title": title,
@@ -286,25 +277,21 @@ def build_json(items: List[Dict], title: str, self_url: str, home_url: str) -> s
         }
         attachments = []
         if it.get("image"):
-            attachments.append({
-                "url": it["image"],
-                "mime_type": guess_mime(it["image"], "image/jpeg")
-            })
+            attachments.append({"url": it["image"], "mime_type": guess_mime(it["image"], "image/jpeg")})
         if it.get("video"):
-            attachments.append({
-                "url": it["video"],
-                "mime_type": guess_mime(it["video"], "video/mp4")
-            })
+            attachments.append({"url": it["video"], "mime_type": guess_mime(it["video"], "video/mp4")})
         if attachments:
             item["attachments"] = attachments
+        if it.get("category"):
+            item["tags"] = [it["category"]]
         feed["items"].append(item)
     return json.dumps(feed, ensure_ascii=False, indent=2)
 
 def validate_xml(path: Path):
-    ET.parse(path)  # raises if invalid
+    ET.parse(path)
 
 # ---------- Homepage generator ----------
-def build_index_html(areas: List[str], site_base: str, have_all: bool, have_videos: bool):
+def build_index_html(areas: List[str], site_base: str, have_all: bool, have_videos: bool, have_leaders: bool):
     def row(slug: str) -> str:
         return (f'  <li>{slug.replace("-", " ").title()} — '
                 f'<a href="feeds/{slug}.xml">RSS</a> <span class="sep">·</span> '
@@ -319,6 +306,10 @@ def build_index_html(areas: List[str], site_base: str, have_all: bool, have_vide
         blocks.append('<li><a href="feeds/videos.xml">RSS 2.0 (videos)</a> <span class="sep">·</span> '
                       '<a href="feeds/videos.atom.xml">Atom</a> <span class="sep">·</span> '
                       '<a href="feeds/videos.json">JSON</a></li>')
+    if have_leaders:
+        blocks.append('<li><a href="feeds/tech-leaders.xml">RSS 2.0 (tech leaders)</a> <span class="sep">·</span> '
+                      '<a href="feeds/tech-leaders.atom.xml">Atom</a> <span class="sep">·</span> '
+                      '<a href="feeds/tech-leaders.json">JSON</a></li>')
     html_doc = f"""<!doctype html>
 <meta charset="utf-8">
 <title>4thWave AI Feeds</title>
@@ -358,11 +349,11 @@ def main():
                 for u in links:
                     it = parse_article(u)
                     if it:
+                        it["category"] = area_slug  # tag every item with its area
                         collected.append(it)
             except Exception as e:
                 print(f"[{area_slug}] source failed: {src.get('name', src.get('base', ''))} -> {e}")
 
-        # de-dup by guid (canonicalized link)
         seen, unique = set(), []
         for it in collected:
             gid = it["guid"]
@@ -370,7 +361,6 @@ def main():
             seen.add(gid)
             unique.append(it)
 
-        # Sort newest-first if dates exist; leave undated items at the end
         def sort_key(x):
             try:
                 return datetime.strptime(x.get("pubDate",""), "%a, %d %b %Y %H:%M:%S %z")
@@ -400,16 +390,12 @@ def main():
         atom_path.write_text(atom_xml, encoding="utf-8", newline="\n")
         json_path.write_text(json_txt, encoding="utf-8", newline="\n")
 
-        # validate
-        validate_xml(rss_path)
-        validate_xml(atom_path)
-
+        validate_xml(rss_path); validate_xml(atom_path)
         print(f"[{area_slug}] wrote {len(unique)} items")
 
     # ----- Global "all" feeds -----
     have_all = False
     if all_items_for_all:
-        # de-dup again globally by guid
         seen, global_items = set(), []
         for it in all_items_for_all:
             gid = it["guid"]
@@ -417,7 +403,6 @@ def main():
             seen.add(gid)
             global_items.append(it)
 
-        # sort again newest-first
         def sort_key2(x):
             try:
                 return datetime.strptime(x.get("pubDate",""), "%a, %d %b %Y %H:%M:%S %z")
@@ -438,11 +423,10 @@ def main():
         print(f"[all] wrote {len(global_items)} items")
         have_all = True
 
-    # ----- Videos-only feeds (for your all-network connector) -----
+    # ----- Videos-only feeds -----
     have_videos = False
     video_items = [it for it in all_items_for_all if it.get("video")]
     if video_items:
-        # de-dup and sort
         seen, vids = set(), []
         for it in video_items:
             gid = it["guid"]
@@ -469,8 +453,43 @@ def main():
         print(f"[videos] wrote {len(vids)} items")
         have_videos = True
 
+    # ----- Tech Leaders combined feed -----
+    have_leaders = False
+    leader_slugs = {
+        "elon-musk", "jeff-bezos", "jensen-huang", "sam-altman",
+        "sundar-pichai", "satya-nadella", "demis-hassabis",
+        "tim-cook", "mark-zuckerberg"
+    }
+    leader_items = [it for it in all_items_for_all if it.get("category") in leader_slugs]
+    if leader_items:
+        seen, uniq = set(), []
+        for it in leader_items:
+            gid = it["guid"]
+            if gid in seen: continue
+            seen.add(gid)
+            uniq.append(it)
+        def sort_key_lead(x):
+            try:
+                return datetime.strptime(x.get("pubDate",""), "%a, %d %b %Y %H:%M:%S %z")
+            except Exception:
+                return datetime.min.replace(tzinfo=timezone.utc)
+        uniq.sort(key=sort_key_lead, reverse=True)
+        uniq = uniq[: max_items]
+
+        title_leaders = "4thWave AI — Tech Leaders (Spotlights)"
+        (OUTDIR / "tech-leaders.xml").write_text(build_rss(uniq, title_leaders, home_url), encoding="utf-8", newline="\n")
+        (OUTDIR / "tech-leaders.atom.xml").write_text(
+            build_atom(uniq, title_leaders, site_base + "feeds/tech-leaders.atom.xml", home_url, "urn:4thwaveai-feeds:tech-leaders"),
+            encoding="utf-8", newline="\n")
+        (OUTDIR / "tech-leaders.json").write_text(
+            build_json(uniq, title_leaders, site_base + "feeds/tech-leaders.json", home_url),
+            encoding="utf-8", newline="\n")
+        validate_xml(OUTDIR / "tech-leaders.xml"); validate_xml(OUTDIR / "tech-leaders.atom.xml")
+        print(f"[tech-leaders] wrote {len(uniq)} items")
+        have_leaders = True
+
     # Homepage
-    build_index_html(written_areas, site_base, have_all, have_videos)
+    build_index_html(written_areas, site_base, have_all, have_videos, have_leaders)
     print(f"Homepage index.html updated with {len(written_areas)} areas")
 
 if __name__ == "__main__":
