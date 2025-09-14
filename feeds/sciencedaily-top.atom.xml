@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>4thWave AI — All Areas (Aggregated)</title>
+  <title>4thWave AI — Sciencedaily Top (Aggregated)</title>
   <link href="https://4thwave.ai"/>
-  <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
-  <id>urn:4thwaveai-feeds:all</id>
+  <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sciencedaily-top.atom.xml"/>
+  <id>urn:4thwaveai-feeds:sciencedaily-top</id>
   <updated>Sun, 14 Sep 2025 22:20:55 +0000</updated>
   <entry>
     <title>150-million-year-old teeth expose dinosaurs’ secret diets</title>
