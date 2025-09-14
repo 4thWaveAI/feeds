@@ -5,6 +5,101 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.json",
   "items": [
     {
+      "id": "https://www.aboutamazon.com/news/community/amazon-arlington-virginia-news",
+      "url": "https://www.aboutamazon.com/news/community/amazon-arlington-virginia-news",
+      "title": "Amazon in the community: Service, community, and commitment at HQ2",
+      "content_text": "Learn how we invest in the community, help power the local economy, and support our employees in Arlington, Virginia.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/9a71536/2147483647/strip/true/crop/2977x1489+0+93/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F6a%2Fce%2Fee7b2195437b87bfa64bcba9a092%2Fimg-0170.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/1jc-2PaE3pA",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/community/amazon-headquarters-seattle-bellevue-puget-sound-news",
+      "url": "https://www.aboutamazon.com/news/community/amazon-headquarters-seattle-bellevue-puget-sound-news",
+      "title": "Amazon in the community: Here's what's happening in Seattle, Bellevue, and the Puget Sound",
+      "content_text": "Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/8f88e6b/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F5b%2F7b%2F25139aad4a5fb4efafb1b3cdc335%2Fabout-amazon-hero-amazon-spheres-selects-29.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/QWQvaTXowao",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://about.fb.com/news/2025/09/instagram-launches-a-microdrama-series-to-encourage-gen-z-to-take-creative-chances/",
+      "url": "https://about.fb.com/news/2025/09/instagram-launches-a-microdrama-series-to-encourage-gen-z-to-take-creative-chances/",
+      "title": "Instagram Launches A Microdrama Series To Encourage Gen Z To Take Creative Chances",
+      "content_text": "Today, Instagram released a microdrama series in India to inspire Gen Z to take creative risks and bring them together. Titled ‘Party of Two’, the series follows Instagram’s ‘Anyway’ campaign from this year.",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2025/09/Party-of-Two-by-Instagram-1-1.png?w=1200",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2025/09/Trailer-Party-of-Two.mp4?_=1",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
+      "id": "https://about.fb.com/news/2025/08/metas-kansas-city-data-center/",
+      "url": "https://about.fb.com/news/2025/08/metas-kansas-city-data-center/",
+      "title": "Meta’s Kansas City Data Center and Upcoming AI-Optimized Data Centers",
+      "content_text": "Our Kansas City data center is now operational, representing a $1 billion investment in Missouri and in our global infrastructure that brings our technologies to billions of people worldwide.",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2025/08/Metas-Kansas-City-Data-Center_Header.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2025/08/01_KCDataCenter.mp4?_=1",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/harry-potter-audiobooks-audible-full-cast-productions",
+      "url": "https://www.aboutamazon.com/news/entertainment/harry-potter-audiobooks-audible-full-cast-productions",
+      "title": "Everything to know about the new ‘Harry Potter’ audiobooks from Audible",
+      "content_text": "Audible's cast for the series includes Hugh Laurie as Albus Dumbledore, Matthew Macfadyen as Lord Voldemort, and Frankie Treadaway as Harry.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/6a2ba67/2147483647/strip/true/crop/480x240+0+60/resize/1200x600!/quality/90/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FqzHcBVZOQII%2Fhqdefault.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/qzHcBVZOQII",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/",
       "url": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/",
       "title": "AlphaGenome: AI for better understanding the genome",

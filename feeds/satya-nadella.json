@@ -1,0 +1,92 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "4thWave AI — Satya Nadella (Aggregated)",
+  "home_page_url": "https://4thwave.ai",
+  "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/satya-nadella.json",
+  "items": [
+    {
+      "id": "https://blogs.microsoft.com/blog/2025/09/11/a-joint-statement-from-microsoft-and-openai/",
+      "url": "https://blogs.microsoft.com/blog/2025/09/11/a-joint-statement-from-microsoft-and-openai/",
+      "title": "A joint statement from Microsoft and OpenAI - The Official Microsoft Blog",
+      "content_text": "Microsoft and OpenAI have signed a non-binding memorandum of understanding (MOU) for the next phase of our partnership. We are actively working to finalize contractual terms in a definitive agreement. Together, we remain focused on delivering the best AI tools for everyone, grounded in our shared commitment to safety.",
+      "attachments": [
+        {
+          "url": "https://blogs.microsoft.com/wp-content/uploads/2023/01/PNG-openai-microsoft_960x540.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "satya-nadella"
+      ]
+    },
+    {
+      "id": "https://blogs.microsoft.com/blog/2025/09/09/flexible-work-update/",
+      "url": "https://blogs.microsoft.com/blog/2025/09/09/flexible-work-update/",
+      "title": "Flexible work update - The Official Microsoft Blog",
+      "content_text": "Amy Coleman, Executive Vice President and Chief People Officer, shared the below communication with Microsoft employees this morning. How we work has forever changed. I remember starting at Microsoft in the late ‘90s, always in the office, no laptops, and primarily working with the people right down the hall. As technology evolved and our business expanded, we became...",
+      "tags": [
+        "satya-nadella"
+      ]
+    },
+    {
+      "id": "https://blogs.microsoft.com/blog/2025/09/02/accelerating-ai-adoption-for-the-us-government/",
+      "url": "https://blogs.microsoft.com/blog/2025/09/02/accelerating-ai-adoption-for-the-us-government/",
+      "title": "Accelerating AI adoption for the US government - The Official Microsoft Blog",
+      "content_text": "Today, Microsoft and the US General Services Administration (GSA) announced a comprehensive agreement to bring a suite of productivity, cloud and AI services, including Microsoft 365 Copilot at no cost for up to 12 months for millions of existing Microsoft G5 users, to help agencies rapidly adopt secure and compliant advanced AI tools that will enhance...",
+      "attachments": [
+        {
+          "url": "https://blogs.microsoft.com/wp-content/uploads/2025/09/New-GSA-Hero-Final_8_27-1024x768.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "satya-nadella"
+      ]
+    },
+    {
+      "id": "https://blogs.microsoft.com/blog/author/cdemaria/",
+      "url": "https://blogs.microsoft.com/blog/author/cdemaria/",
+      "title": "Microsoft Corporate Blogs, Author at The Official Microsoft Blog",
+      "content_text": "Sep 11, 2025 | Microsoft Corporate Blogs",
+      "attachments": [
+        {
+          "url": "https://secure.gravatar.com/avatar/8322d323ed803aee63f13bee99e0071a?s=500&d=mm&r=g",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "satya-nadella"
+      ]
+    },
+    {
+      "id": "https://blogs.microsoft.com/blog/author/acoleman/",
+      "url": "https://blogs.microsoft.com/blog/author/acoleman/",
+      "title": "Amy Coleman, Author at The Official Microsoft Blog",
+      "content_text": "Sep 9, 2025 | Amy Coleman - Executive Vice President, Chief People Officer",
+      "attachments": [
+        {
+          "url": "https://secure.gravatar.com/avatar/4aa99835bbf5d7ba58fbb02a26143996?s=500&d=mm&r=g",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "satya-nadella"
+      ]
+    },
+    {
+      "id": "https://blogs.microsoft.com/blog/author/cbarry/",
+      "url": "https://blogs.microsoft.com/blog/author/cbarry/",
+      "title": "Chris Barry, Author at The Official Microsoft Blog",
+      "content_text": "Sep 2, 2025 | Chris Barry - CVP for US Public Sector Industries",
+      "attachments": [
+        {
+          "url": "https://secure.gravatar.com/avatar/dd36850cc430dbe0be04315ce2087d40?s=500&d=mm&r=g",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "satya-nadella"
+      ]
+    }
+  ]
+}

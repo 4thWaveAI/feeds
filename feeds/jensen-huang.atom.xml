@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>4thWave AI — Jensen Huang (Aggregated)</title>
+  <link href="https://4thwave.ai"/>
+  <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/jensen-huang.atom.xml"/>
+  <id>urn:4thwaveai-feeds:jensen-huang</id>
+  <updated>Sun, 14 Sep 2025 19:00:14 +0000</updated>
+  <entry>
+    <title>Reaching Across the Isles: UK-LLM Brings AI to UK Languages With NVIDIA Nemotron</title>
+    <link href="https://blogs.nvidia.com/blog/uk-llm-nemotron/"/>
+    <id>https://blogs.nvidia.com/blog/uk-llm-nemotron/</id>
+    <summary type="text">Trained on the Isambard-AI supercomputer, UK-LLM enables AI reasoning for Welsh and other UK languages for public services.</summary>
+    <updated>Sun, 14 Sep 2025 01:00:21 +0000</updated>
+  </entry>
+  <entry>
+    <title>NVIDIA Partners With AI Infrastructure Ecosystem to Unveil Reference Design for Giga-Scale AI Factories</title>
+    <link href="https://blogs.nvidia.com/blog/ai-factories-reference-design/"/>
+    <id>https://blogs.nvidia.com/blog/ai-factories-reference-design/</id>
+    <summary type="text">At this week’s AI Infrastructure Summit in Silicon Valley, NVIDIA’s VP of Accelerated Computing Ian Buck unveiled a bold new vision: the transformation of traditional data centers into fully integrated AI factories. As part of this initiative, NVIDIA is developing reference designs to be shared with partners and enterprises worldwide — offering an NVIDIA Omniverse  Read Article</summary>
+    <updated>Tue, 09 Sep 2025 15:00:29 +0000</updated>
+  </entry>
+  <entry>
+    <title>Now Live: Europe’s First Exascale Supercomputer, JUPITER, Accelerates Climate Research, Neuroscience, Quantum Simulation</title>
+    <link href="https://blogs.nvidia.com/blog/jupiter-exascale-supercomputer-live/"/>
+    <id>https://blogs.nvidia.com/blog/jupiter-exascale-supercomputer-live/</id>
+    <summary type="text">At JUPITER’s inauguration ceremony in Jülich, attended by Germany Chancellor Friedrich Merz, the Jülich Supercomputing Centre and NVIDIA unveiled ways the supercomputer is already spurring innovation across the world.</summary>
+    <updated>Fri, 05 Sep 2025 14:00:09 +0000</updated>
+  </entry>
+  <entry>
+    <title>NVIDIA Unveils Rubin CPX: A New Class of GPU Designed for Massive-Context Inference</title>
+    <link href="https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference"/>
+    <id>https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference</id>
+    <summary type="text">NVIDIA® today announced NVIDIA Rubin CPX, a new class of GPU purpose-built for massive-context processing. This enables AI systems to handle million-token software coding and generative video with groundbreaking speed and efficiency.</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA Announces Financial Results for Second Quarter Fiscal 2026</title>
+    <link href="https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2026"/>
+    <id>https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2026</id>
+    <summary type="text">NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 27, 2025, of $46.7 billion, up 6% from the previous quarter and up 56% from a year ago. NVIDIA’s Blackwell Data Center revenue grew 17% sequentially.</summary>
+  </entry>
+  <entry>
+    <title>Industry Leaders Transform Enterprise Data Centers for the AI Era With NVIDIA RTX PRO Servers</title>
+    <link href="https://nvidianews.nvidia.com/news/industry-leaders-transform-enterprise-data-centers-for-the-ai-era-with-nvidia-rtx-pro-servers"/>
+    <id>https://nvidianews.nvidia.com/news/industry-leaders-transform-enterprise-data-centers-for-the-ai-era-with-nvidia-rtx-pro-servers</id>
+    <summary type="text">NVIDIA today announced leading global enterprises have adopted NVIDIA RTX PRO™ Servers — a new category of enterprise data center infrastructure powered by the RTX PRO 6000 Blackwell Server Edition GPU — speeding the shift from general-purpose computing clusters to AI factory infrastructure, without a complete data center overhaul.</summary>
+  </entry>
+  <entry>
+    <title>Generative AI Archives</title>
+    <link href="https://blogs.nvidia.com/blog/category/generative-ai/"/>
+    <id>https://blogs.nvidia.com/blog/category/generative-ai/</id>
+    <summary type="text">Celtic languages — including Cornish, Irish, Scottish Gaelic and Welsh — are the U.K.’s oldest living languages. To… Read Article</summary>
+  </entry>
+  <entry>
+    <title>Corporate Archives</title>
+    <link href="https://blogs.nvidia.com/blog/category/corporate/"/>
+    <id>https://blogs.nvidia.com/blog/category/corporate/</id>
+    <summary type="text">NVIDIA Corporate Blog Post Archive</summary>
+  </entry>
+  <entry>
+    <title>Data Center Archives</title>
+    <link href="https://blogs.nvidia.com/blog/category/enterprise/"/>
+    <id>https://blogs.nvidia.com/blog/category/enterprise/</id>
+    <summary type="text">Celtic languages — including Cornish, Irish, Scottish Gaelic and Welsh — are the U.K.’s oldest living languages. To… Read Article</summary>
+  </entry>
+  <entry>
+    <title>Driving Archives</title>
+    <link href="https://blogs.nvidia.com/blog/category/auto/"/>
+    <id>https://blogs.nvidia.com/blog/category/auto/</id>
+    <summary type="text">At this week’s IAA Mobility conference in Munich, NVIDIA Vice President of Automotive Ali Kani outlined how cloud-to-car… Read Article</summary>
+  </entry>
+  <entry>
+    <title>Gaming Archives</title>
+    <link href="https://blogs.nvidia.com/blog/category/gaming/"/>
+    <id>https://blogs.nvidia.com/blog/category/gaming/</id>
+    <summary type="text">GeForce NOW Blackwell RTX 5080-class SuperPODs are now rolling out, unlocking a new level of ultra high-performance, cinematic… Read Article</summary>
+  </entry>
+</feed>
