@@ -720,6 +720,21 @@
       ]
     },
     {
+      "id": "https://ai.googleblog.com/",
+      "url": "https://ai.googleblog.com/",
+      "title": "Latest News from Google Research Blog - Google Research",
+      "content_text": "We strive to create an environment conducive to many different types of research across many different time scales and levels of risk.",
+      "attachments": [
+        {
+          "url": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference",
       "url": "https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference",
       "title": "NVIDIA Unveils Rubin CPX: A New Class of GPU Designed for Massive-Context Inference",
@@ -897,21 +912,6 @@
       "url": "https://developer.nvidia.com/blog/category/generative-ai/",
       "title": "Category: Generative AI | NVIDIA Technical Blog",
       "content_text": "Category: Generative AI | NVIDIA Technical Blog",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2024/09/techblog-og.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/category/deployment/",
-      "url": "https://developer.nvidia.com/blog/category/deployment/",
-      "title": "Category: AI Platforms / Deployment | NVIDIA Technical Blog",
-      "content_text": "Category: AI Platforms / Deployment | NVIDIA Technical Blog",
       "attachments": [
         {
           "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2024/09/techblog-og.jpg",

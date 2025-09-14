@@ -531,6 +531,21 @@
       ]
     },
     {
+      "id": "https://ai.googleblog.com/",
+      "url": "https://ai.googleblog.com/",
+      "title": "Latest News from Google Research Blog - Google Research",
+      "content_text": "We strive to create an environment conducive to many different types of research across many different time scales and levels of risk.",
+      "attachments": [
+        {
+          "url": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference",
       "url": "https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference",
       "title": "NVIDIA Unveils Rubin CPX: A New Class of GPU Designed for Massive-Context Inference",
@@ -903,21 +918,6 @@
       "url": "https://www.microsoft.com/en-us/industry/blog/financial-services/",
       "title": "Financial services - Microsoft Industry Blogs",
       "content_text": "Read the latest news and posts about Financial services from Microsoft's team of experts at Microsoft Industry Blogs.",
-      "attachments": [
-        {
-          "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2019/01/cropped-microsoft_logo_element.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://www.microsoft.com/en-us/industry/blog/government/",
-      "url": "https://www.microsoft.com/en-us/industry/blog/government/",
-      "title": "Government - Microsoft Industry Blogs",
-      "content_text": "Read the latest news and posts about Government from Microsoft's team of experts at Microsoft Industry Blogs.",
       "attachments": [
         {
           "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2019/01/cropped-microsoft_logo_element.png",
