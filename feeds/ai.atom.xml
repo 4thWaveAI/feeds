@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai</id>
-  <updated>Sun, 14 Sep 2025 07:27:18 +0000</updated>
+  <updated>Sun, 14 Sep 2025 07:39:13 +0000</updated>
   <entry>
     <title>Reaching Across the Isles: UK-LLM Brings AI to UK Languages With NVIDIA Nemotron</title>
     <link href="https://blogs.nvidia.com/blog/uk-llm-nemotron/"/>
@@ -230,6 +230,12 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <summary type="text">Claude now remembers your team&#x27;s projects and preferences across conversations. Memory helps maintain context for complex work, with project-specific boundaries and full user control over what&#x27;s remembered.</summary>
   </entry>
   <entry>
+    <title>Latest News from Google Research Blog - Google Research</title>
+    <link href="https://ai.googleblog.com/"/>
+    <id>https://ai.googleblog.com/</id>
+    <summary type="text">We strive to create an environment conducive to many different types of research across many different time scales and levels of risk.</summary>
+  </entry>
+  <entry>
     <title>NVIDIA Unveils Rubin CPX: A New Class of GPU Designed for Massive-Context Inference</title>
     <link href="https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference"/>
     <id>https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference</id>
@@ -378,11 +384,5 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <link href="https://www.microsoft.com/en-us/industry/blog/financial-services/"/>
     <id>https://www.microsoft.com/en-us/industry/blog/financial-services/</id>
     <summary type="text">Read the latest news and posts about Financial services from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
-  </entry>
-  <entry>
-    <title>Government - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/government/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/government/</id>
-    <summary type="text">Read the latest news and posts about Government from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
   </entry>
 </feed>
