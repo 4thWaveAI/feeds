@@ -44,6 +44,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news-release/nasa-awards-third-glenn-facility-and-engineering-services-contract/",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-third-glenn-facility-and-engineering-services-contract/",
+      "title": "NASA Awards Third Glenn Facility and Engineering Services Contract - NASA",
+      "content_text": "NASA has selected Troy Sierra JV, LLC of Huntsville, Alabama, to provide engineering, research, and scientific support at the agency’s Glenn Research Center",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2024/08/meatball-w-black-background.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/2025-news-releases/",
       "url": "https://www.nasa.gov/2025-news-releases/",
       "title": "2025 News Releases - NASA",
@@ -51,6 +66,21 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2024/12/54200119914-6ac915b145-o.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2025/09/14/cygnus-xl-cargo-craft-counts-down-to-launch-on-nasa/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2025/09/14/cygnus-xl-cargo-craft-counts-down-to-launch-on-nasa/",
+      "title": "Cygnus XL Cargo Craft Counts Down to Launch on NASA+ - NASA",
+      "content_text": "NASA’s coverage is underway on NASA+, Amazon Prime, and more for the launch of Northrop Grumman’s Commercial Resupply Services 23, or Northrop Grumman CRS-23, to the International Space Station. Learn how to watch NASA content through a variety of platforms, including social media.",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/KSC-20240804-PH-SPX02_0002/KSC-20240804-PH-SPX02_0002~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -67,21 +97,6 @@
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2025/09/blog-cygnusxl-launch-091425.png",
           "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2025/09/14/cygnus-xl-cargo-craft-counts-down-to-launch-on-nasa/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2025/09/14/cygnus-xl-cargo-craft-counts-down-to-launch-on-nasa/",
-      "title": "Cygnus XL Cargo Craft Counts Down to Launch on NASA+ - NASA",
-      "content_text": "NASA’s coverage is underway on NASA+, Amazon Prime, and more for the launch of Northrop Grumman’s Commercial Resupply Services 23, or Northrop Grumman CRS-23, to the International Space Station. Learn how to watch NASA content through a variety of platforms, including social media.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/KSC-20240804-PH-SPX02_0002/KSC-20240804-PH-SPX02_0002~large.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [

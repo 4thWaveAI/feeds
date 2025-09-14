@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Sun, 14 Sep 2025 22:43:24 +0000</updated>
+  <updated>Sun, 14 Sep 2025 23:28:06 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -27,22 +27,28 @@
     <updated>Wed, 07 Dec 2022 13:25:24 -0500</updated>
   </entry>
   <entry>
+    <title>NASA Awards Third Glenn Facility and Engineering Services Contract - NASA</title>
+    <link href="https://www.nasa.gov/news-release/nasa-awards-third-glenn-facility-and-engineering-services-contract/"/>
+    <id>https://www.nasa.gov/news-release/nasa-awards-third-glenn-facility-and-engineering-services-contract/</id>
+    <summary type="text">NASA has selected Troy Sierra JV, LLC of Huntsville, Alabama, to provide engineering, research, and scientific support at the agency’s Glenn Research Center</summary>
+  </entry>
+  <entry>
     <title>2025 News Releases - NASA</title>
     <link href="https://www.nasa.gov/2025-news-releases/"/>
     <id>https://www.nasa.gov/2025-news-releases/</id>
     <summary type="text">Sign up to receive NASA news releases and other information.</summary>
   </entry>
   <entry>
-    <title>Cygnus XL Cargo Craft Launches on Falcon 9 Rocket to Station - NASA</title>
-    <link href="https://www.nasa.gov/blogs/spacestation/2025/09/14/cygnus-xl-cargo-craft-launches-on-falcon-9-rocket-to-station/"/>
-    <id>https://www.nasa.gov/blogs/spacestation/2025/09/14/cygnus-xl-cargo-craft-launches-on-falcon-9-rocket-to-station/</id>
-    <summary type="text">At 6:11 p.m. EDT, over 11,000 pounds of scientific investigations and cargo launched to the International Space Station on Northrop Grumman’s Cygnus spacecraft for the company’s 23rd commercial resupply services mission for NASA.</summary>
-  </entry>
-  <entry>
     <title>Cygnus XL Cargo Craft Counts Down to Launch on NASA+ - NASA</title>
     <link href="https://www.nasa.gov/blogs/spacestation/2025/09/14/cygnus-xl-cargo-craft-counts-down-to-launch-on-nasa/"/>
     <id>https://www.nasa.gov/blogs/spacestation/2025/09/14/cygnus-xl-cargo-craft-counts-down-to-launch-on-nasa/</id>
     <summary type="text">NASA’s coverage is underway on NASA+, Amazon Prime, and more for the launch of Northrop Grumman’s Commercial Resupply Services 23, or Northrop Grumman CRS-23, to the International Space Station. Learn how to watch NASA content through a variety of platforms, including social media.</summary>
+  </entry>
+  <entry>
+    <title>Cygnus XL Cargo Craft Launches on Falcon 9 Rocket to Station - NASA</title>
+    <link href="https://www.nasa.gov/blogs/spacestation/2025/09/14/cygnus-xl-cargo-craft-launches-on-falcon-9-rocket-to-station/"/>
+    <id>https://www.nasa.gov/blogs/spacestation/2025/09/14/cygnus-xl-cargo-craft-launches-on-falcon-9-rocket-to-station/</id>
+    <summary type="text">At 6:11 p.m. EDT, over 11,000 pounds of scientific investigations and cargo launched to the International Space Station on Northrop Grumman’s Cygnus spacecraft for the company’s 23rd commercial resupply services mission for NASA.</summary>
   </entry>
   <entry>
     <title>NASA’s GUARDIAN Tsunami Detection Tech Catches Wave in Real Time</title>
