@@ -5,6 +5,36 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sciencedaily-top.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250914205832.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250914205832.htm",
+      "title": "Daily eye drops could make reading glasses obsolete",
+      "content_text": "Eye drops combining pilocarpine and diclofenac helped patients read extra lines on vision charts, with effects lasting up to two years. The treatment could revolutionize presbyopia care as a safe, non-surgical alternative to glasses.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/senior-man-eye-drops.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250914205829.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250914205829.htm",
+      "title": "Half of adults suffer from dry eyes, but most never get help",
+      "content_text": "Dry eyes are far more common than previously believed, with over half of adults in the US and Europe experiencing symptoms, yet most remain undiagnosed for years. The large-scale NESTS study reveals that sufferers often endure daily discomfort that disrupts work, driving, and even surgery outcomes. Many accept the condition as part of aging, unaware that simple treatments could provide relief.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/red-eye-close-up-before-and-after-treatment.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/09/250914205803.htm",
       "url": "https://www.sciencedaily.com/releases/2025/09/250914205803.htm",
       "title": "Cannabis use may quadruple diabetes risk",
@@ -267,36 +297,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/silicon-wafer-rainbow-color-testing.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250912195124.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250912195124.htm",
-      "title": "Electrons that act like photons reveal a quantum secret",
-      "content_text": "Quantum materials, defined by their photon-like electrons, are opening new frontiers in material science. Researchers have synthesized organic compounds that display a universal magnetic behavior tied to a distinctive feature in their band structures called linear band dispersion. This discovery not only deepens the theoretical understanding of quantum systems but also points toward revolutionary applications in next-generation information and communication technologies that conventional materials cannot achieve.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/quantum-materials-relativistic-particles-dirac-electrons.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250912195122.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250912195122.htm",
-      "title": "New quantum breakthrough could transform teleportation and computing",
-      "content_text": "Scientists have finally unlocked a way to identify the elusive W state of quantum entanglement, solving a decades-old problem and opening paths to quantum teleportation and advanced quantum technologies.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/measuring-the-quantum-w-state.webp",
           "mime_type": "image/webp"
         }
       ],

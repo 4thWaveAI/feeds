@@ -4,7 +4,19 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sciencedaily-top.atom.xml"/>
   <id>urn:4thwaveai-feeds:sciencedaily-top</id>
-  <updated>Mon, 15 Sep 2025 04:44:16 +0000</updated>
+  <updated>Mon, 15 Sep 2025 05:39:32 +0000</updated>
+  <entry>
+    <title>Daily eye drops could make reading glasses obsolete</title>
+    <link href="https://www.sciencedaily.com/releases/2025/09/250914205832.htm"/>
+    <id>https://www.sciencedaily.com/releases/2025/09/250914205832.htm</id>
+    <summary type="text">Eye drops combining pilocarpine and diclofenac helped patients read extra lines on vision charts, with effects lasting up to two years. The treatment could revolutionize presbyopia care as a safe, non-surgical alternative to glasses.</summary>
+  </entry>
+  <entry>
+    <title>Half of adults suffer from dry eyes, but most never get help</title>
+    <link href="https://www.sciencedaily.com/releases/2025/09/250914205829.htm"/>
+    <id>https://www.sciencedaily.com/releases/2025/09/250914205829.htm</id>
+    <summary type="text">Dry eyes are far more common than previously believed, with over half of adults in the US and Europe experiencing symptoms, yet most remain undiagnosed for years. The large-scale NESTS study reveals that sufferers often endure daily discomfort that disrupts work, driving, and even surgery outcomes. Many accept the condition as part of aging, unaware that simple treatments could provide relief.</summary>
+  </entry>
   <entry>
     <title>Cannabis use may quadruple diabetes risk</title>
     <link href="https://www.sciencedaily.com/releases/2025/09/250914205803.htm"/>
@@ -112,17 +124,5 @@
     <link href="https://www.sciencedaily.com/releases/2025/09/250912195126.htm"/>
     <id>https://www.sciencedaily.com/releases/2025/09/250912195126.htm</id>
     <summary type="text">Johns Hopkins scientists, working with global partners, have unveiled a new way to build microchips so small they’re invisible to the eye. By developing special metal-organic materials that interact with powerful beams of light, they’ve cracked a major hurdle in creating faster, smaller, and more affordable chips. This new process, chemical liquid deposition, could reshape electronics manufacturing and push the limits of technology for years to come.</summary>
-  </entry>
-  <entry>
-    <title>Electrons that act like photons reveal a quantum secret</title>
-    <link href="https://www.sciencedaily.com/releases/2025/09/250912195124.htm"/>
-    <id>https://www.sciencedaily.com/releases/2025/09/250912195124.htm</id>
-    <summary type="text">Quantum materials, defined by their photon-like electrons, are opening new frontiers in material science. Researchers have synthesized organic compounds that display a universal magnetic behavior tied to a distinctive feature in their band structures called linear band dispersion. This discovery not only deepens the theoretical understanding of quantum systems but also points toward revolutionary applications in next-generation information and communication technologies that conventional materials cannot achieve.</summary>
-  </entry>
-  <entry>
-    <title>New quantum breakthrough could transform teleportation and computing</title>
-    <link href="https://www.sciencedaily.com/releases/2025/09/250912195122.htm"/>
-    <id>https://www.sciencedaily.com/releases/2025/09/250912195122.htm</id>
-    <summary type="text">Scientists have finally unlocked a way to identify the elusive W state of quantum entanglement, solving a decades-old problem and opening paths to quantum teleportation and advanced quantum technologies.</summary>
   </entry>
 </feed>
