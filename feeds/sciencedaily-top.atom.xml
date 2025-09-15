@@ -4,7 +4,19 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sciencedaily-top.atom.xml"/>
   <id>urn:4thwaveai-feeds:sciencedaily-top</id>
-  <updated>Mon, 15 Sep 2025 00:38:58 +0000</updated>
+  <updated>Mon, 15 Sep 2025 03:30:48 +0000</updated>
+  <entry>
+    <title>Cannabis use may quadruple diabetes risk</title>
+    <link href="https://www.sciencedaily.com/releases/2025/09/250914205803.htm"/>
+    <id>https://www.sciencedaily.com/releases/2025/09/250914205803.htm</id>
+    <summary type="text">A massive study of over 4 million adults has revealed that cannabis use may nearly quadruple the risk of developing diabetes. Despite some earlier suggestions that cannabis might have metabolic benefits, this large analysis found significantly higher diabetes rates among users, even after adjusting for other health factors.</summary>
+  </entry>
+  <entry>
+    <title>Being too thin can be deadlier than being overweight, Danish study reveals</title>
+    <link href="https://www.sciencedaily.com/releases/2025/09/250914205759.htm"/>
+    <id>https://www.sciencedaily.com/releases/2025/09/250914205759.htm</id>
+    <summary type="text">New research from Denmark challenges long-held assumptions about body weight and health, revealing that being overweight—or even moderately obese—does not necessarily increase the risk of death compared to those at the upper end of the &amp;quot;normal&amp;quot; BMI range. In fact, those who are underweight or at the lower end of the so-called healthy spectrum faced higher risks.</summary>
+  </entry>
   <entry>
     <title>150-million-year-old teeth expose dinosaurs’ secret diets</title>
     <link href="https://www.sciencedaily.com/releases/2025/09/250913232940.htm"/>
@@ -112,17 +124,5 @@
     <link href="https://www.sciencedaily.com/releases/2025/09/250912195122.htm"/>
     <id>https://www.sciencedaily.com/releases/2025/09/250912195122.htm</id>
     <summary type="text">Scientists have finally unlocked a way to identify the elusive W state of quantum entanglement, solving a decades-old problem and opening paths to quantum teleportation and advanced quantum technologies.</summary>
-  </entry>
-  <entry>
-    <title>Google&amp;apos;s quantum computer creates exotic state once thought impossible</title>
-    <link href="https://www.sciencedaily.com/releases/2025/09/250912195119.htm"/>
-    <id>https://www.sciencedaily.com/releases/2025/09/250912195119.htm</id>
-    <summary type="text">Physicists have achieved a breakthrough by using a 58-qubit quantum computer to create and observe a long-theorized but never-before-seen quantum phase of matter: a Floquet topologically ordered state. By harnessing rhythmic driving in these quantum systems, the team imaged particle edge motions and watched exotic particles transform in real time.</summary>
-  </entry>
-  <entry>
-    <title>Hidden star systems in the Milky Way could unlock the secrets of dark matter</title>
-    <link href="https://www.sciencedaily.com/releases/2025/09/250912195117.htm"/>
-    <id>https://www.sciencedaily.com/releases/2025/09/250912195117.htm</id>
-    <summary type="text">For centuries, scientists have puzzled over globular clusters, the dense star systems that orbit galaxies without dark matter. Using ultra-detailed simulations, researchers recreated their origins and unexpectedly revealed a new class of cosmic object that bridges star clusters and dwarf galaxies. These “globular cluster-like dwarfs” may already exist in our Milky Way, offering fresh opportunities to study both dark matter and the earliest stars.</summary>
   </entry>
 </feed>
