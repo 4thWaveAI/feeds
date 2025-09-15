@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
+      "id": "https://phys.org/news/2025-09-scientists-nanoplastics-disrupt-brain-energy.html",
+      "url": "https://phys.org/news/2025-09-scientists-nanoplastics-disrupt-brain-energy.html",
+      "title": "Scientists discover how nanoplastics disrupt brain energy metabolism",
+      "content_text": "Scientists from the Trinity Biomedical Sciences Institute (TBSI) have discovered how nanoplastics—even smaller than microplastics—disrupt energy metabolism in brain cells. Their findings may have implications for better understanding neurodegenerative diseases characterized by declining neurological or brain function, and even shed new light on issues with learning and memory.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/scientists-discover-ho-15.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://phys.org/news/2025-09-generation-nanoengineered-loss-electronics.html",
       "url": "https://phys.org/news/2025-09-generation-nanoengineered-loss-electronics.html",
       "title": "Next-generation nanoengineered switches can cut heat loss in electronics",
@@ -65,13 +80,13 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-09-metallic-nanocatalysts-catalysis.html",
-      "url": "https://phys.org/news/2025-09-metallic-nanocatalysts-catalysis.html",
-      "title": "Metallic nanocatalysts: What really happens during catalysis",
-      "content_text": "Using a combination of spectromicroscopy at BESSY II and microscopic analyses at DESY's NanoLab, a team has gained new insights into the chemical behavior of nanocatalysts during catalysis.",
+      "id": "https://phys.org/news/2025-09-nanobots-play-leader-chemical-trails.html",
+      "url": "https://phys.org/news/2025-09-nanobots-play-leader-chemical-trails.html",
+      "title": "Nanobots play 'follow the leader' by chasing chemical trails in microfluidic device",
+      "content_text": "Researchers at Penn State demonstrate the first steps in the design of tiny particles that can perform specialized tasks, such as targeted delivery of drugs or other cargo.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/metallic-nanocatalysts.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/can-nanobots-play-foll-2.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -80,13 +95,13 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-09-nanobots-play-leader-chemical-trails.html",
-      "url": "https://phys.org/news/2025-09-nanobots-play-leader-chemical-trails.html",
-      "title": "Nanobots play 'follow the leader' by chasing chemical trails in microfluidic device",
-      "content_text": "Researchers at Penn State demonstrate the first steps in the design of tiny particles that can perform specialized tasks, such as targeted delivery of drugs or other cargo.",
+      "id": "https://phys.org/news/2025-09-metallic-nanocatalysts-catalysis.html",
+      "url": "https://phys.org/news/2025-09-metallic-nanocatalysts-catalysis.html",
+      "title": "Metallic nanocatalysts: What really happens during catalysis",
+      "content_text": "Using a combination of spectromicroscopy at BESSY II and microscopic analyses at DESY's NanoLab, a team has gained new insights into the chemical behavior of nanocatalysts during catalysis.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/can-nanobots-play-foll-2.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/metallic-nanocatalysts.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -166,21 +181,6 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/sponge-like-gold-parti.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-bottlebrush-particles-big-chemotherapy-payloads.html",
-      "url": "https://phys.org/news/2025-09-bottlebrush-particles-big-chemotherapy-payloads.html",
-      "title": "'Bottlebrush' particles deliver big chemotherapy payloads directly to cancer cells",
-      "content_text": "Using tiny particles shaped like bottlebrushes, MIT chemists have found a way to deliver a large range of chemotherapy drugs directly to tumor cells.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/bottlebrush-particles.jpg",
           "mime_type": "image/jpeg"
         }
       ],

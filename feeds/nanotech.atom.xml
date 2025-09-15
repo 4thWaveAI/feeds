@@ -4,7 +4,13 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.atom.xml"/>
   <id>urn:4thwaveai-feeds:nanotech</id>
-  <updated>Mon, 15 Sep 2025 17:32:35 +0000</updated>
+  <updated>Mon, 15 Sep 2025 18:50:22 +0000</updated>
+  <entry>
+    <title>Scientists discover how nanoplastics disrupt brain energy metabolism</title>
+    <link href="https://phys.org/news/2025-09-scientists-nanoplastics-disrupt-brain-energy.html"/>
+    <id>https://phys.org/news/2025-09-scientists-nanoplastics-disrupt-brain-energy.html</id>
+    <summary type="text">Scientists from the Trinity Biomedical Sciences Institute (TBSI) have discovered how nanoplastics—even smaller than microplastics—disrupt energy metabolism in brain cells. Their findings may have implications for better understanding neurodegenerative diseases characterized by declining neurological or brain function, and even shed new light on issues with learning and memory.</summary>
+  </entry>
   <entry>
     <title>Next-generation nanoengineered switches can cut heat loss in electronics</title>
     <link href="https://phys.org/news/2025-09-generation-nanoengineered-loss-electronics.html"/>
@@ -30,16 +36,16 @@
     <summary type="text">A new nanostructure acts like a wire and switch that can, for the first time, control and direct the flow of quantum quasiparticles called excitons at room temperature.</summary>
   </entry>
   <entry>
-    <title>Metallic nanocatalysts: What really happens during catalysis</title>
-    <link href="https://phys.org/news/2025-09-metallic-nanocatalysts-catalysis.html"/>
-    <id>https://phys.org/news/2025-09-metallic-nanocatalysts-catalysis.html</id>
-    <summary type="text">Using a combination of spectromicroscopy at BESSY II and microscopic analyses at DESY&#x27;s NanoLab, a team has gained new insights into the chemical behavior of nanocatalysts during catalysis.</summary>
-  </entry>
-  <entry>
     <title>Nanobots play &#x27;follow the leader&#x27; by chasing chemical trails in microfluidic device</title>
     <link href="https://phys.org/news/2025-09-nanobots-play-leader-chemical-trails.html"/>
     <id>https://phys.org/news/2025-09-nanobots-play-leader-chemical-trails.html</id>
     <summary type="text">Researchers at Penn State demonstrate the first steps in the design of tiny particles that can perform specialized tasks, such as targeted delivery of drugs or other cargo.</summary>
+  </entry>
+  <entry>
+    <title>Metallic nanocatalysts: What really happens during catalysis</title>
+    <link href="https://phys.org/news/2025-09-metallic-nanocatalysts-catalysis.html"/>
+    <id>https://phys.org/news/2025-09-metallic-nanocatalysts-catalysis.html</id>
+    <summary type="text">Using a combination of spectromicroscopy at BESSY II and microscopic analyses at DESY&#x27;s NanoLab, a team has gained new insights into the chemical behavior of nanocatalysts during catalysis.</summary>
   </entry>
   <entry>
     <title>Scientists develop hydrogel platform for long-lasting, precision drug delivery</title>
@@ -70,12 +76,6 @@
     <link href="https://phys.org/news/2025-09-sponge-gold-nanoparticles-ovarian-cancer.html"/>
     <id>https://phys.org/news/2025-09-sponge-gold-nanoparticles-ovarian-cancer.html</id>
     <summary type="text">A project led by University of Queensland Ph.D. student Javeria Bashir has produced specially crafted gold nanoparticles that can highlight cancer markers in samples like urine, saliva, or blood. Bashir said she hoped to use her gold nanoparticles to help improve survival rates for a cancer that is considered particularly deadly.</summary>
-  </entry>
-  <entry>
-    <title>&#x27;Bottlebrush&#x27; particles deliver big chemotherapy payloads directly to cancer cells</title>
-    <link href="https://phys.org/news/2025-09-bottlebrush-particles-big-chemotherapy-payloads.html"/>
-    <id>https://phys.org/news/2025-09-bottlebrush-particles-big-chemotherapy-payloads.html</id>
-    <summary type="text">Using tiny particles shaped like bottlebrushes, MIT chemists have found a way to deliver a large range of chemotherapy drugs directly to tumor cells.</summary>
   </entry>
   <entry>
     <title>Tiny magnetic spirals unlock the future of spintronics</title>

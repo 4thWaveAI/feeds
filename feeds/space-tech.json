@@ -104,6 +104,21 @@
       ]
     },
     {
+      "id": "https://www.jpl.nasa.gov/news/nasa-analysis-shows-suns-activity-ramping-up/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-analysis-shows-suns-activity-ramping-up/",
+      "title": "NASA Analysis Shows Sun’s Activity Ramping Up",
+      "content_text": "It looked like the Sun was heading toward a historic lull in activity. That trend flipped in 2008, according to new research.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26681_new_-_Sun_image.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/",
       "url": "https://www.jpl.nasa.gov/news/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/",
       "title": "NASA’s GUARDIAN Tsunami Detection Tech Catches Wave in Real Time",
@@ -214,21 +229,6 @@
         {
           "url": "https://www.youtube.com/embed/aty-PMtS7Dc?feature=oembed",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/nasa-marsquake-data-reveals-lumpy-nature-of-red-planets-interior/",
-      "url": "https://www.jpl.nasa.gov/news/nasa-marsquake-data-reveals-lumpy-nature-of-red-planets-interior/",
-      "title": "NASA Marsquake Data Reveals Lumpy Nature of Red Planet’s Interior",
-      "content_text": "Rocky material that impacted Mars lies scattered in giant lumps throughout the planet’s mantle, offering clues about Mars’ interior and its ancient past.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26635-Illustration_Giant_Asteroid_Impacting_Ancient_Mars.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [

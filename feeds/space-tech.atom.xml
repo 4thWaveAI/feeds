@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Mon, 15 Sep 2025 17:32:56 +0000</updated>
+  <updated>Mon, 15 Sep 2025 18:50:44 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -51,6 +51,12 @@
     <summary type="text">At 6:11 p.m. EDT, over 11,000 pounds of scientific investigations and cargo launched to the International Space Station on Northrop Grumman’s Cygnus spacecraft for the company’s 23rd commercial resupply services mission for NASA.</summary>
   </entry>
   <entry>
+    <title>NASA Analysis Shows Sun’s Activity Ramping Up</title>
+    <link href="https://www.jpl.nasa.gov/news/nasa-analysis-shows-suns-activity-ramping-up/"/>
+    <id>https://www.jpl.nasa.gov/news/nasa-analysis-shows-suns-activity-ramping-up/</id>
+    <summary type="text">It looked like the Sun was heading toward a historic lull in activity. That trend flipped in 2008, according to new research.</summary>
+  </entry>
+  <entry>
     <title>NASA’s GUARDIAN Tsunami Detection Tech Catches Wave in Real Time</title>
     <link href="https://www.jpl.nasa.gov/news/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/"/>
     <id>https://www.jpl.nasa.gov/news/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/</id>
@@ -91,12 +97,6 @@
     <link href="https://www.jpl.nasa.gov/news/vintage-nasa-see-voyagers-1990-solar-system-family-portrait-debut/"/>
     <id>https://www.jpl.nasa.gov/news/vintage-nasa-see-voyagers-1990-solar-system-family-portrait-debut/</id>
     <summary type="text">In archival footage of a historic NASA news conference, the mission reveals history-making images of six planets in our solar system, including a tiny speck called Earth.</summary>
-  </entry>
-  <entry>
-    <title>NASA Marsquake Data Reveals Lumpy Nature of Red Planet’s Interior</title>
-    <link href="https://www.jpl.nasa.gov/news/nasa-marsquake-data-reveals-lumpy-nature-of-red-planets-interior/"/>
-    <id>https://www.jpl.nasa.gov/news/nasa-marsquake-data-reveals-lumpy-nature-of-red-planets-interior/</id>
-    <summary type="text">Rocky material that impacted Mars lies scattered in giant lumps throughout the planet’s mantle, offering clues about Mars’ interior and its ancient past.</summary>
   </entry>
   <entry>
     <title>NASA-ISRO Satellite Lifts Off to Track Earth’s Changing Surfaces</title>
