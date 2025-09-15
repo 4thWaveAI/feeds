@@ -5,6 +5,25 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/jeff-bezos.json",
   "items": [
     {
+      "id": "https://www.aboutamazon.com/news/entertainment/play-dirty-mark-wahlberg-lakeith-stanfield-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/play-dirty-mark-wahlberg-lakeith-stanfield-prime-video",
+      "title": "See the trailer for the heist film ‘Play Dirty,’ coming soon to Prime Video",
+      "content_text": "The action thriller, starring Mark Wahlberg and LaKeith Stanfield, follows a ruthless thief and his expert crew in New York City.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/c04f066/2147483647/strip/true/crop/3000x1500+0+94/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff7%2Fda%2Ffcd437bd4f899b8409a81fb33735%2Fparker-mark-wahlberg-and-grofield-lakeith-stanfield-in-play-dirty-photo-credit-jasin-boland-prime-video-3000.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/6paP2-ry-QY",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/entertainment/bad-bunny-puerto-rico-amazon-music-prime-video",
       "url": "https://www.aboutamazon.com/news/entertainment/bad-bunny-puerto-rico-amazon-music-prime-video",
       "title": "How to stream Bad Bunny’s final concert of his Puerto Rico residency, exclusively with Amazon",
@@ -28,25 +47,6 @@
         {
           "url": "https://assets.aboutamazon.com/dims4/default/5032ff9/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fad%2F84%2Ffcfbbcbf4c329d70348855a96f62%2Fabout-amazon-hero-amazon-kids-toys.jpg",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/community/amazon-arlington-virginia-news",
-      "url": "https://www.aboutamazon.com/news/community/amazon-arlington-virginia-news",
-      "title": "Amazon in the community: Service, community, and commitment at HQ2",
-      "content_text": "Learn how we invest in the community, help power the local economy, and support our employees in Arlington, Virginia.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/9a71536/2147483647/strip/true/crop/2977x1489+0+93/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F6a%2Fce%2Fee7b2195437b87bfa64bcba9a092%2Fimg-0170.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/1jc-2PaE3pA",
-          "mime_type": "video/mp4"
         }
       ],
       "tags": [
@@ -242,21 +242,6 @@
       "url": "https://www.aboutamazon.com/news/community",
       "title": "Community",
       "content_text": "We look for uniquely Amazonian and innovative ways to make positive, lasting impacts and encourage our employees to champion causes they care about.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/aws",
-      "url": "https://www.aboutamazon.com/news/aws",
-      "title": "AWS",
-      "content_text": "If you're an inventor, you'll love being an Amazonian. From day one at Amazon, you'll take ownership of projects that have a direct impact on our customers.",
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",

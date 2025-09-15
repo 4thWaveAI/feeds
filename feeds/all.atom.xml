@@ -4,7 +4,14 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Mon, 15 Sep 2025 20:37:26 +0000</updated>
+  <updated>Mon, 15 Sep 2025 21:31:56 +0000</updated>
+  <entry>
+    <title>See the trailer for the heist film ‘Play Dirty,’ coming soon to Prime Video</title>
+    <link href="https://www.aboutamazon.com/news/entertainment/play-dirty-mark-wahlberg-lakeith-stanfield-prime-video"/>
+    <id>https://www.aboutamazon.com/news/entertainment/play-dirty-mark-wahlberg-lakeith-stanfield-prime-video</id>
+    <summary type="text">The action thriller, starring Mark Wahlberg and LaKeith Stanfield, follows a ruthless thief and his expert crew in New York City.</summary>
+    <updated>Mon, 15 Sep 2025 20:46:13 +0000</updated>
+  </entry>
   <entry>
     <title>How to stream Bad Bunny’s final concert of his Puerto Rico residency, exclusively with Amazon</title>
     <link href="https://www.aboutamazon.com/news/entertainment/bad-bunny-puerto-rico-amazon-music-prime-video"/>
@@ -32,13 +39,6 @@
     <id>https://blogs.nvidia.com/blog/uk-llm-nemotron/</id>
     <summary type="text">Trained on the Isambard-AI supercomputer, UK-LLM enables AI reasoning for Welsh and other UK languages for public services.</summary>
     <updated>Sun, 14 Sep 2025 01:00:21 +0000</updated>
-  </entry>
-  <entry>
-    <title>Amazon in the community: Service, community, and commitment at HQ2</title>
-    <link href="https://www.aboutamazon.com/news/community/amazon-arlington-virginia-news"/>
-    <id>https://www.aboutamazon.com/news/community/amazon-arlington-virginia-news</id>
-    <summary type="text">Learn how we invest in the community, help power the local economy, and support our employees in Arlington, Virginia.</summary>
-    <updated>Sat, 13 Sep 2025 14:01:00 +0000</updated>
   </entry>
   <entry>
     <title>How Schools Are Helping Students Feel Safe Enough to Attend Amid Immigration Raids - EdSurge News</title>
@@ -370,6 +370,13 @@
     <updated>Thu, 29 Jun 2023 14:53:17 -0400</updated>
   </entry>
   <entry>
+    <title>NASA Media Contacts - NASA</title>
+    <link href="https://www.nasa.gov/news/nasa-media-contacts/"/>
+    <id>https://www.nasa.gov/news/nasa-media-contacts/</id>
+    <summary type="text">Media Contacts Roxana Bardan Mars Sample Return 771-200-7217 Gerelle Dodson NASA Workforce, STEM Engagement 202-358-1600 Jennifer Dooren Deputy News Chief,</summary>
+    <updated>Thu, 29 Jun 2023 14:53:17 -0400</updated>
+  </entry>
+  <entry>
     <title>NASA News</title>
     <link href="https://www.nasa.gov/news/"/>
     <id>https://www.nasa.gov/news/</id>
@@ -412,11 +419,5 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <link href="https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/"/>
     <id>https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/</id>
     <summary type="text">Breakthrough models AlphaProof and AlphaGeometry 2 solve advanced reasoning problems in mathematics</summary>
-  </entry>
-  <entry>
-    <title>Millions of new materials discovered with deep learning</title>
-    <link href="https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/"/>
-    <id>https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/</id>
-    <summary type="text">We share the discovery of 2.2 million new crystals  –  equivalent to nearly 800 years’ worth of knowledge. We introduce Graph Networks for Materials Exploration (GNoME), our new deep learning tool...</summary>
   </entry>
 </feed>
