@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/structural-battery-composites.atom.xml"/>
   <id>urn:4thwaveai-feeds:structural-battery-composites</id>
-  <updated>Mon, 15 Sep 2025 11:41:42 +0000</updated>
+  <updated>Mon, 15 Sep 2025 13:22:36 +0000</updated>
   <entry>
     <title>Light-powered chip makes AI 100 times more efficient</title>
     <link href="https://www.sciencedaily.com/releases/2025/09/250908175458.htm"/>
@@ -90,6 +90,12 @@
     <summary type="text">The electrical and thermal transport properties of amorphous indium tin oxide can be enhanced by using a silicon carbide substrate, leading to indium tin oxide power amplifiers with an output power density of 0.69 W mm−1 and a power-added efficiency of 24.1% at 12 GHz.</summary>
   </entry>
   <entry>
+    <title>Perovskite-based multi-junction solar cells - Nature Reviews Clean Technology</title>
+    <link href="https://www.nature.com/articles/s44359-025-00103-8"/>
+    <id>https://www.nature.com/articles/s44359-025-00103-8</id>
+    <summary type="text">Multi-junction solar cells can provide a way to increase the efficiency of solar cells beyond the theoretical efficiency limits of single-junction devices. This Review explores the design and performance of multi-junction devices that use perovskite materials for the two wide bandgap middle and top layers.</summary>
+  </entry>
+  <entry>
     <title>Modeling graphene oxide decorated with FeO, SO and NO - Scientific Reports</title>
     <link href="https://www.nature.com/articles/s41598-025-18685-5"/>
     <id>https://www.nature.com/articles/s41598-025-18685-5</id>
@@ -106,11 +112,5 @@
     <link href="https://www.nature.com/articles/s41598-025-18717-0"/>
     <id>https://www.nature.com/articles/s41598-025-18717-0</id>
     <summary type="text">Scientific Reports volume 15 , Article number: 32540 ( 2025 ) Cite this article</summary>
-  </entry>
-  <entry>
-    <title>Reusable photocatalytic film for efficient water disinfection under low light intensity - Nature Water</title>
-    <link href="https://www.nature.com/articles/s44221-025-00500-0"/>
-    <id>https://www.nature.com/articles/s44221-025-00500-0</id>
-    <summary type="text">A self-floating photocatalytic film enables rapid bacterial inactivation under weak natural sunlight.</summary>
   </entry>
 </feed>

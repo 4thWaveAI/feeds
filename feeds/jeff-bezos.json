@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/jeff-bezos.json",
   "items": [
     {
+      "id": "https://www.aboutamazon.com/news/retail/best-gifts-kids-amazon-toys-we-love-list-2025",
+      "url": "https://www.aboutamazon.com/news/retail/best-gifts-kids-amazon-toys-we-love-list-2025",
+      "title": "Amazon’s 2025 Toys We Love list: The ultimate kids’ gift guide",
+      "content_text": "From toys for any budget to nostalgic relaunches, the annual list for 2025 spotlights the biggest toy trends, making it easier to find the perfect gift for everyone.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/5032ff9/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fad%2F84%2Ffcfbbcbf4c329d70348855a96f62%2Fabout-amazon-hero-amazon-kids-toys.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/community/amazon-arlington-virginia-news",
       "url": "https://www.aboutamazon.com/news/community/amazon-arlington-virginia-news",
       "title": "Amazon in the community: Service, community, and commitment at HQ2",
@@ -36,21 +51,6 @@
         {
           "url": "https://www.youtube.com/embed/QWQvaTXowao",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/entertainment/thursday-night-football-schedule-prime-video",
-      "url": "https://www.aboutamazon.com/news/entertainment/thursday-night-football-schedule-prime-video",
-      "title": "'Thursday Night Football' 2025 schedule: How to watch live on Prime Video",
-      "content_text": "Prime Video’s fourth season of ‘Thursday Night Football’ is packed with divisional matchups and features two holiday showdowns.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/469c2ce/2147483647/strip/true/crop/2000x1000+0+77/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff2%2F80%2Fdec20dc2442195487a40358c5704%2Ftnf25-schedule-release-blastuicarousel-2000-final.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -205,6 +205,21 @@
         {
           "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/latest-news_hero.png",
           "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/retail",
+      "url": "https://www.aboutamazon.com/news/retail",
+      "title": "Retail",
+      "content_text": "More information about shopping on Amazon and our selection of products and services.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [

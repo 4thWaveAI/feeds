@@ -215,6 +215,21 @@
       ]
     },
     {
+      "id": "https://www.nature.com/articles/s44359-025-00103-8",
+      "url": "https://www.nature.com/articles/s44359-025-00103-8",
+      "title": "Perovskite-based multi-junction solar cells - Nature Reviews Clean Technology",
+      "content_text": "Multi-junction solar cells can provide a way to increase the efficiency of solar cells beyond the theoretical efficiency limits of single-junction devices. This Review explores the design and performance of multi-junction devices that use perovskite materials for the two wide bandgap middle and top layers.",
+      "attachments": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44359-025-00103-8/MediaObjects/44359_2025_103_Fig1_HTML.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "structural-battery-composites"
+      ]
+    },
+    {
       "id": "https://www.nature.com/articles/s41598-025-18685-5",
       "url": "https://www.nature.com/articles/s41598-025-18685-5",
       "title": "Modeling graphene oxide decorated with FeO, SO and NO - Scientific Reports",
@@ -252,21 +267,6 @@
       "attachments": [
         {
           "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-025-18717-0/MediaObjects/41598_2025_18717_Fig1_HTML.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "structural-battery-composites"
-      ]
-    },
-    {
-      "id": "https://www.nature.com/articles/s44221-025-00500-0",
-      "url": "https://www.nature.com/articles/s44221-025-00500-0",
-      "title": "Reusable photocatalytic film for efficient water disinfection under low light intensity - Nature Water",
-      "content_text": "A self-floating photocatalytic film enables rapid bacterial inactivation under weak natural sunlight.",
-      "attachments": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44221-025-00500-0/MediaObjects/44221_2025_500_Fig1_HTML.png",
           "mime_type": "image/png"
         }
       ],
