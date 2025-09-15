@@ -155,6 +155,21 @@
       ]
     },
     {
+      "id": "https://www.nature.com/articles/s41563-025-02353-0",
+      "url": "https://www.nature.com/articles/s41563-025-02353-0",
+      "title": "Terahertz light confined to the nanoscale with hafnium dichalcogenides - Nature Materials",
+      "content_text": "Terahertz technology has the potential to push the speed limit of future opto-electronic applications, but the large free-space wavelength of terahertz light hinders nanoscale device implementation. Now, the confinement of terahertz light to the nanometre scale is demonstrated using phonon polaritons in hafnium-based van der Waals crystals.",
+      "attachments": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-025-02353-0/MediaObjects/41563_2025_2353_Fig1_HTML.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "structural-battery-composites"
+      ]
+    },
+    {
       "id": "https://www.nature.com/articles/s41567-025-03041-1",
       "url": "https://www.nature.com/articles/s41567-025-03041-1",
       "title": "Boron at the boundaries - Nature Physics",
@@ -185,13 +200,13 @@
       ]
     },
     {
-      "id": "https://www.nature.com/articles/s41563-025-02349-w",
-      "url": "https://www.nature.com/articles/s41563-025-02349-w",
-      "title": "Towards spin-wave integrated circuits - Nature Materials",
-      "content_text": "Borrowing from optical fibre design, ion implantation enables index-contrast guiding of spin waves, opening new opportunities in wave-based computing.",
+      "id": "https://www.nature.com/articles/s41928-025-01447-6",
+      "url": "https://www.nature.com/articles/s41928-025-01447-6",
+      "title": "Amorphous indium tin oxide transistors for power amplification above 10 GHz - Nature Electronics",
+      "content_text": "The electrical and thermal transport properties of amorphous indium tin oxide can be enhanced by using a silicon carbide substrate, leading to indium tin oxide power amplifiers with an output power density of 0.69 W mm−1 and a power-added efficiency of 24.1% at 12 GHz.",
       "attachments": [
         {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-025-02349-w/MediaObjects/41563_2025_2349_Fig1_HTML.png",
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41928-025-01447-6/MediaObjects/41928_2025_1447_Fig1_HTML.png",
           "mime_type": "image/png"
         }
       ],
@@ -200,13 +215,13 @@
       ]
     },
     {
-      "id": "https://www.nature.com/articles/s41596-025-01247-4",
-      "url": "https://www.nature.com/articles/s41596-025-01247-4",
-      "title": "Generating structurally and functionally programmable hydrogels by biological membrane hybridization - Nature Protocols",
-      "content_text": "This protocol describes a versatile strategy to generate structurally and functionally programmable hydrogels by using biological membranes as cross-linkers. This enables properties of tissues like muscle and skin to be mimicked.",
+      "id": "https://www.nature.com/articles/s44221-025-00500-0",
+      "url": "https://www.nature.com/articles/s44221-025-00500-0",
+      "title": "Reusable photocatalytic film for efficient water disinfection under low light intensity - Nature Water",
+      "content_text": "A self-floating photocatalytic film enables rapid bacterial inactivation under weak natural sunlight.",
       "attachments": [
         {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41596-025-01247-4/MediaObjects/41596_2025_1247_Fig1_HTML.png",
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44221-025-00500-0/MediaObjects/44221_2025_500_Fig1_HTML.png",
           "mime_type": "image/png"
         }
       ],
@@ -215,13 +230,13 @@
       ]
     },
     {
-      "id": "https://www.nature.com/articles/s41928-025-01456-5",
-      "url": "https://www.nature.com/articles/s41928-025-01456-5",
-      "title": "Perovskites for next-generation colour conversion displays - Nature Electronics",
-      "content_text": "This Perspective examines the potential of using perovskite materials as colour conversion layers, providing a framework for the development of RoHS (Restriction of Hazardous Substances)-compliant and colour-filter-free perovskite-based colour conversion displays and exploring the use of perovskite colour conversion layers in the development of augmented reality and virtual reality technologies.",
+      "id": "https://www.nature.com/articles/s44221-025-00498-5",
+      "url": "https://www.nature.com/articles/s44221-025-00498-5",
+      "title": "Impact of charge homogeneity on ion selectivity in polyamide membranes - Nature Water",
+      "content_text": "The conventional focus on pore size distribution overlooks the role of surface charge homogeneity in ion separation by polymeric membranes. This study proposes a surface charge engineering strategy for fabricating highly ion-selective membranes.",
       "attachments": [
         {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41928-025-01456-5/MediaObjects/41928_2025_1456_Fig1_HTML.png",
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44221-025-00498-5/MediaObjects/44221_2025_498_Fig1_HTML.png",
           "mime_type": "image/png"
         }
       ],
@@ -230,22 +245,13 @@
       ]
     },
     {
-      "id": "https://www.nature.com/articles/s44287-025-00213-2",
-      "url": "https://www.nature.com/articles/s44287-025-00213-2",
-      "title": "Electronics and photonics-related research and education at POSTECH - Nature Reviews Electrical Engineering",
-      "content_text": "Electronics and photonics research at Pohang University of Science and Technology (POSTECH) spans from metasurface flat optical devices to quantum and stretchable electronics. In this Viewpoint, five professors discuss how&nbsp;POSTECH, with strong industry ties and interdisciplinary collaborations, aims to redefine nanoscale electronic and photonic materials and devices, quantum electronics and photonics, future information technology and computing.",
-      "tags": [
-        "structural-battery-composites"
-      ]
-    },
-    {
-      "id": "https://www.nature.com/articles/s41578-025-00832-z",
-      "url": "https://www.nature.com/articles/s41578-025-00832-z",
-      "title": "The van der Waals MoSi2N4 materials family - Nature Reviews Materials",
-      "content_text": "The van der Waals MA2Z4 materials are a rapidly growing class of 2D materials with diverse electronic phases. This Review explores the structure,&nbsp;synthesis, properties and diverse applications of the emerging MA2Z4 family, highlighting their potential across electronics, catalysis and energy storage.",
+      "id": "https://www.nature.com/articles/s41467-025-63902-4",
+      "url": "https://www.nature.com/articles/s41467-025-63902-4",
+      "title": "Directing selective solvent presentations at electrochemical interfaces to enable initially anode-free sodium metal batteries - Nature Communications",
+      "content_text": "Electrolyte design faces challenges of balancing stability at both electrodes. Here, authors present an electrolyte design strategy to direct distinct solvent molecules to negative and positive electrodes respectively, achieving good stability in initially anode-free sodium metal batteries.",
       "attachments": [
         {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41578-025-00832-z/MediaObjects/41578_2025_832_Fig1_HTML.png",
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-63902-4/MediaObjects/41467_2025_63902_Fig1_HTML.png",
           "mime_type": "image/png"
         }
       ],
@@ -254,13 +260,13 @@
       ]
     },
     {
-      "id": "https://www.nature.com/articles/s41598-025-11130-7",
-      "url": "https://www.nature.com/articles/s41598-025-11130-7",
-      "title": "Electrothermal discharge by exploding of copper wires with different diameters - Scientific Reports",
-      "content_text": "Scientific Reports volume 15 , Article number: 32416 ( 2025 ) Cite this article",
+      "id": "https://www.nature.com/articles/s41563-025-02345-0",
+      "url": "https://www.nature.com/articles/s41563-025-02345-0",
+      "title": "Ultraconfined terahertz phonon polaritons in hafnium dichalcogenides - Nature Materials",
+      "content_text": "The authors demonstrate deeply subwavelength light confinement in the terahertz spectral range by exploiting the strong light–matter coupling and hyperbolicity of phonon polaritons in hafnium-based dichalcogenides.",
       "attachments": [
         {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-025-11130-7/MediaObjects/41598_2025_11130_Fig1_HTML.png",
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-025-02345-0/MediaObjects/41563_2025_2345_Fig1_HTML.png",
           "mime_type": "image/png"
         }
       ],

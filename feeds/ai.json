@@ -441,13 +441,13 @@
       ]
     },
     {
-      "id": "https://www.anthropic.com/news/claude-opus-4-1",
-      "url": "https://www.anthropic.com/news/claude-opus-4-1",
-      "title": "Claude Opus 4.1",
+      "id": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
+      "url": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
+      "title": "Thoughts on America’s AI Action Plan",
       "content_text": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
       "attachments": [
         {
-          "url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand+HeadShapes&backgroundColor=clay",
+          "url": "https://www.anthropic.com/api/opengraph-illustration?name=Object+Government&backgroundColor=oat",
           "mime_type": "image/jpeg"
         }
       ],
@@ -471,28 +471,13 @@
       ]
     },
     {
-      "id": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
-      "url": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
-      "title": "Thoughts on America’s AI Action Plan",
+      "id": "https://www.anthropic.com/news/claude-opus-4-1",
+      "url": "https://www.anthropic.com/news/claude-opus-4-1",
+      "title": "Claude Opus 4.1",
       "content_text": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
       "attachments": [
         {
-          "url": "https://www.anthropic.com/api/opengraph-illustration?name=Object+Government&backgroundColor=oat",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://www.anthropic.com/news/claude-for-financial-services",
-      "url": "https://www.anthropic.com/news/claude-for-financial-services",
-      "title": "Claude for Financial Services",
-      "content_text": "Today, we're introducing a comprehensive solution for financial analysis that transforms how finance professionals analyze markets, conduct research, and make investment decisions with Claude.",
-      "attachments": [
-        {
-          "url": "https://www.anthropic.com/api/opengraph-illustration?name=Object+Stairs&backgroundColor=clay",
+          "url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand+HeadShapes&backgroundColor=clay",
           "mime_type": "image/jpeg"
         }
       ],
@@ -524,6 +509,21 @@
         {
           "url": "https://cdn.sanity.io/images/4zrzovbb/website/b0fec85c4cfb29023f80f59ae564a77b6dc0ba78-2400x1260.png",
           "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://www.anthropic.com/news/create-files",
+      "url": "https://www.anthropic.com/news/create-files",
+      "title": "Claude can now create and use files",
+      "content_text": "Claude can now create and edit Excel spreadsheets, documents, PowerPoint slide decks, and PDFs directly in Claude.ai and the desktop app.",
+      "attachments": [
+        {
+          "url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand+NodeSlide&backgroundColor=clay",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [

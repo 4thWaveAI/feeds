@@ -4,7 +4,14 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Mon, 15 Sep 2025 09:41:55 +0000</updated>
+  <updated>Mon, 15 Sep 2025 10:44:00 +0000</updated>
+  <entry>
+    <title>How Much Freedom Do Teachers Have in the Classroom? In 2025, It’s Complicated. - EdSurge News</title>
+    <link href="https://www.edsurge.com/news/2025-09-15-how-much-freedom-do-teachers-have-in-the-classroom-in-2025-it-s-complicated"/>
+    <id>https://www.edsurge.com/news/2025-09-15-how-much-freedom-do-teachers-have-in-the-classroom-in-2025-it-s-complicated</id>
+    <summary type="text">PEN America this year identified more than a dozen states that have considered laws prohibiting teachers from displaying flags or signs related to ...</summary>
+    <updated>Mon, 15 Sep 2025 00:00:00 -0000</updated>
+  </entry>
   <entry>
     <title>Reaching Across the Isles: UK-LLM Brings AI to UK Languages With NVIDIA Nemotron</title>
     <link href="https://blogs.nvidia.com/blog/uk-llm-nemotron/"/>
@@ -413,11 +420,5 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <link href="https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/"/>
     <id>https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/</id>
     <summary type="text">New AI agent evolves algorithms for math and practical applications in computing by combining the creativity of large language models with automated evaluators</summary>
-  </entry>
-  <entry>
-    <title>AI achieves silver-medal standard solving International Mathematical Olympiad problems</title>
-    <link href="https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/"/>
-    <id>https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/</id>
-    <summary type="text">Breakthrough models AlphaProof and AlphaGeometry 2 solve advanced reasoning problems in mathematics</summary>
   </entry>
 </feed>
