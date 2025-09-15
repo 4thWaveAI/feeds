@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/structural-battery-composites.atom.xml"/>
   <id>urn:4thwaveai-feeds:structural-battery-composites</id>
-  <updated>Mon, 15 Sep 2025 14:37:19 +0000</updated>
+  <updated>Mon, 15 Sep 2025 15:37:47 +0000</updated>
   <entry>
     <title>Light-powered chip makes AI 100 times more efficient</title>
     <link href="https://www.sciencedaily.com/releases/2025/09/250908175458.htm"/>
@@ -66,6 +66,12 @@
     <summary type="text">Researchers have released new insights on a pilot program involving all-electric buses in Ithaca, NY, USA -- with implications for cities, schools and other groups that are considering the electrification of their fleets, as well as operators, policymakers and manufacturers.</summary>
   </entry>
   <entry>
+    <title>Salt turns ice into a powerful flexoelectric material - Nature Materials</title>
+    <link href="https://www.nature.com/articles/s41563-025-02328-1"/>
+    <id>https://www.nature.com/articles/s41563-025-02328-1</id>
+    <summary type="text">The brine network in common sea ice boosts its flexoelectric response by three orders of magnitude, matching high-quality piezoelectrics and pointing to cost-effective energy harvesters for cold environments.</summary>
+  </entry>
+  <entry>
     <title>Terahertz light confined to the nanoscale with hafnium dichalcogenides - Nature Materials</title>
     <link href="https://www.nature.com/articles/s41563-025-02353-0"/>
     <id>https://www.nature.com/articles/s41563-025-02353-0</id>
@@ -78,10 +84,16 @@
     <summary type="text">Materials science</summary>
   </entry>
   <entry>
-    <title>Hot off the press - Nature Chemical Engineering</title>
-    <link href="https://www.nature.com/articles/s44286-025-00265-z"/>
-    <id>https://www.nature.com/articles/s44286-025-00265-z</id>
-    <summary type="text">Advancing the production of covalent organic frameworks toward faster and more sustainable routes is crucial to realizing their potential in large-scale applications. Now, a variety of covalent organic framework platelets with high crystallinity can be produced rapidly using a pressure-assisted hot-pressing strategy.</summary>
+    <title>Streaming flexoelectricity in saline ice - Nature Materials</title>
+    <link href="https://www.nature.com/articles/s41563-025-02332-5"/>
+    <id>https://www.nature.com/articles/s41563-025-02332-5</id>
+    <summary type="text">By doping ice with NaCl, it is shown that a flexoelectric coefficient of up to 10 μC m−1 is generated, enabling effective piezoelectric coefficients that are comparable to those of ceramics. This arises from the streaming current of quasi-liquid flow through grain boundaries from one side of the sample to the other.</summary>
+  </entry>
+  <entry>
+    <title>Revealing nanoscale plasticity of metallic nanosponges with correlative and scale-bridging 3D microscopy and modelling - Communications Materials</title>
+    <link href="https://www.nature.com/articles/s43246-025-00914-z"/>
+    <id>https://www.nature.com/articles/s43246-025-00914-z</id>
+    <summary type="text">The mechanical properties of nanoporous gold are tied to their topology and surface morphology. Here, a correlative and scale-bridging approach, combining non-destructive 3D tomography, mechanical testing and experimentally-informed modelling, reveals the origins of the size dependent deformation mechanisms.</summary>
   </entry>
   <entry>
     <title>Amorphous indium tin oxide transistors for power amplification above 10 GHz - Nature Electronics</title>
@@ -100,17 +112,5 @@
     <link href="https://www.nature.com/articles/s41598-025-18685-5"/>
     <id>https://www.nature.com/articles/s41598-025-18685-5</id>
     <summary type="text">Scientific Reports volume 15 , Article number: 32538 ( 2025 ) Cite this article</summary>
-  </entry>
-  <entry>
-    <title>Eco-friendly zinc-chitosan/poly(l-lactic acid)/polyurethane nanocomposites for dye removal and antimicrobial wastewater treatment - Scientific Reports</title>
-    <link href="https://www.nature.com/articles/s41598-025-18431-x"/>
-    <id>https://www.nature.com/articles/s41598-025-18431-x</id>
-    <summary type="text">Scientific Reports volume 15 , Article number: 32534 ( 2025 ) Cite this article</summary>
-  </entry>
-  <entry>
-    <title>Magnetic and electrical properties of pseudowollastonite nanoceramic prepared by wet method - Scientific Reports</title>
-    <link href="https://www.nature.com/articles/s41598-025-18717-0"/>
-    <id>https://www.nature.com/articles/s41598-025-18717-0</id>
-    <summary type="text">Scientific Reports volume 15 , Article number: 32540 ( 2025 ) Cite this article</summary>
   </entry>
 </feed>

@@ -155,6 +155,21 @@
       ]
     },
     {
+      "id": "https://www.nature.com/articles/s41563-025-02328-1",
+      "url": "https://www.nature.com/articles/s41563-025-02328-1",
+      "title": "Salt turns ice into a powerful flexoelectric material - Nature Materials",
+      "content_text": "The brine network in common sea ice boosts its flexoelectric response by three orders of magnitude, matching high-quality piezoelectrics and pointing to cost-effective energy harvesters for cold environments.",
+      "attachments": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-025-02328-1/MediaObjects/41563_2025_2328_Fig1_HTML.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "structural-battery-composites"
+      ]
+    },
+    {
       "id": "https://www.nature.com/articles/s41563-025-02353-0",
       "url": "https://www.nature.com/articles/s41563-025-02353-0",
       "title": "Terahertz light confined to the nanoscale with hafnium dichalcogenides - Nature Materials",
@@ -185,13 +200,28 @@
       ]
     },
     {
-      "id": "https://www.nature.com/articles/s44286-025-00265-z",
-      "url": "https://www.nature.com/articles/s44286-025-00265-z",
-      "title": "Hot off the press - Nature Chemical Engineering",
-      "content_text": "Advancing the production of covalent organic frameworks toward faster and more sustainable routes is crucial to realizing their potential in large-scale applications. Now, a variety of covalent organic framework platelets with high crystallinity can be produced rapidly using a pressure-assisted hot-pressing strategy.",
+      "id": "https://www.nature.com/articles/s41563-025-02332-5",
+      "url": "https://www.nature.com/articles/s41563-025-02332-5",
+      "title": "Streaming flexoelectricity in saline ice - Nature Materials",
+      "content_text": "By doping ice with NaCl, it is shown that a flexoelectric coefficient of up to 10 μC m−1 is generated, enabling effective piezoelectric coefficients that are comparable to those of ceramics. This arises from the streaming current of quasi-liquid flow through grain boundaries from one side of the sample to the other.",
       "attachments": [
         {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44286-025-00265-z/MediaObjects/44286_2025_265_Fig1_HTML.png",
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-025-02332-5/MediaObjects/41563_2025_2332_Fig1_HTML.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "structural-battery-composites"
+      ]
+    },
+    {
+      "id": "https://www.nature.com/articles/s43246-025-00914-z",
+      "url": "https://www.nature.com/articles/s43246-025-00914-z",
+      "title": "Revealing nanoscale plasticity of metallic nanosponges with correlative and scale-bridging 3D microscopy and modelling - Communications Materials",
+      "content_text": "The mechanical properties of nanoporous gold are tied to their topology and surface morphology. Here, a correlative and scale-bridging approach, combining non-destructive 3D tomography, mechanical testing and experimentally-informed modelling, reveals the origins of the size dependent deformation mechanisms.",
+      "attachments": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43246-025-00914-z/MediaObjects/43246_2025_914_Figa_HTML.png",
           "mime_type": "image/png"
         }
       ],
@@ -237,36 +267,6 @@
       "attachments": [
         {
           "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-025-18685-5/MediaObjects/41598_2025_18685_Fig1_HTML.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "structural-battery-composites"
-      ]
-    },
-    {
-      "id": "https://www.nature.com/articles/s41598-025-18431-x",
-      "url": "https://www.nature.com/articles/s41598-025-18431-x",
-      "title": "Eco-friendly zinc-chitosan/poly(l-lactic acid)/polyurethane nanocomposites for dye removal and antimicrobial wastewater treatment - Scientific Reports",
-      "content_text": "Scientific Reports volume 15 , Article number: 32534 ( 2025 ) Cite this article",
-      "attachments": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-025-18431-x/MediaObjects/41598_2025_18431_Fig1_HTML.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "structural-battery-composites"
-      ]
-    },
-    {
-      "id": "https://www.nature.com/articles/s41598-025-18717-0",
-      "url": "https://www.nature.com/articles/s41598-025-18717-0",
-      "title": "Magnetic and electrical properties of pseudowollastonite nanoceramic prepared by wet method - Scientific Reports",
-      "content_text": "Scientific Reports volume 15 , Article number: 32540 ( 2025 ) Cite this article",
-      "attachments": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-025-18717-0/MediaObjects/41598_2025_18717_Fig1_HTML.png",
           "mime_type": "image/png"
         }
       ],

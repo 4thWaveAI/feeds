@@ -189,6 +189,21 @@
       ]
     },
     {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250913232933.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250913232933.htm",
+      "title": "Tiny magnetic spirals unlock the future of spintronics",
+      "content_text": "Scientists in Korea have engineered magnetic nanohelices that can control electron spin with extraordinary precision at room temperature. By combining structural chirality and magnetism, these nanoscale helices can filter spins without complex circuitry or cooling. The breakthrough not only demonstrates a way to program handedness in inorganic nanomaterials but also opens the door to scalable, energy-efficient spintronic devices that could revolutionize computing.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/electrosynthesized-chiral-ferromagnetic-nanohelix.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/09/250910000302.htm",
       "url": "https://www.sciencedaily.com/releases/2025/09/250910000302.htm",
       "title": "Scientists just built a detector that could finally catch dark matter",
@@ -346,21 +361,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/gold-super-atoms.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/07/250723045707.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/07/250723045707.htm",
-      "title": "Concrete that lasts centuries and captures carbon? AI just made it possible",
-      "content_text": "Imagine concrete that not only survives wildfires and extreme weather, but heals itself and absorbs carbon from the air. Scientists at USC have created an AI model called Allegro-FM that simulates billions of atoms at once, helping design futuristic materials like carbon-neutral concrete. This tech could transform cities by reducing emissions, extending building lifespans, and mimicking the ancient durability of Roman concrete—all thanks to a massive leap in AI-driven atomic modeling.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/concrete-testing.webp",
           "mime_type": "image/webp"
         }
       ],

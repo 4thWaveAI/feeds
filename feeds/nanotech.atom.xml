@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.atom.xml"/>
   <id>urn:4thwaveai-feeds:nanotech</id>
-  <updated>Mon, 15 Sep 2025 14:36:35 +0000</updated>
+  <updated>Mon, 15 Sep 2025 15:37:03 +0000</updated>
   <entry>
     <title>Next-generation nanoengineered switches can cut heat loss in electronics</title>
     <link href="https://phys.org/news/2025-09-generation-nanoengineered-loss-electronics.html"/>
@@ -78,6 +78,12 @@
     <summary type="text">Using tiny particles shaped like bottlebrushes, MIT chemists have found a way to deliver a large range of chemotherapy drugs directly to tumor cells.</summary>
   </entry>
   <entry>
+    <title>Tiny magnetic spirals unlock the future of spintronics</title>
+    <link href="https://www.sciencedaily.com/releases/2025/09/250913232933.htm"/>
+    <id>https://www.sciencedaily.com/releases/2025/09/250913232933.htm</id>
+    <summary type="text">Scientists in Korea have engineered magnetic nanohelices that can control electron spin with extraordinary precision at room temperature. By combining structural chirality and magnetism, these nanoscale helices can filter spins without complex circuitry or cooling. The breakthrough not only demonstrates a way to program handedness in inorganic nanomaterials but also opens the door to scalable, energy-efficient spintronic devices that could revolutionize computing.</summary>
+  </entry>
+  <entry>
     <title>Scientists just built a detector that could finally catch dark matter</title>
     <link href="https://www.sciencedaily.com/releases/2025/09/250910000302.htm"/>
     <id>https://www.sciencedaily.com/releases/2025/09/250910000302.htm</id>
@@ -142,11 +148,5 @@
     <link href="https://www.sciencedaily.com/releases/2025/08/250810093250.htm"/>
     <id>https://www.sciencedaily.com/releases/2025/08/250810093250.htm</id>
     <summary type="text">Scientists have found that microscopic gold clusters can act like the world’s most accurate quantum systems, while being far easier to scale up. With tunable spin properties and mass production potential, they could transform quantum computing and sensing.</summary>
-  </entry>
-  <entry>
-    <title>Concrete that lasts centuries and captures carbon? AI just made it possible</title>
-    <link href="https://www.sciencedaily.com/releases/2025/07/250723045707.htm"/>
-    <id>https://www.sciencedaily.com/releases/2025/07/250723045707.htm</id>
-    <summary type="text">Imagine concrete that not only survives wildfires and extreme weather, but heals itself and absorbs carbon from the air. Scientists at USC have created an AI model called Allegro-FM that simulates billions of atoms at once, helping design futuristic materials like carbon-neutral concrete. This tech could transform cities by reducing emissions, extending building lifespans, and mimicking the ancient durability of Roman concrete—all thanks to a massive leap in AI-driven atomic modeling.</summary>
   </entry>
 </feed>
