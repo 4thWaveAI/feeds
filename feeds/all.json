@@ -789,6 +789,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "url": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "title": "NASA Media Contacts - NASA",
+      "content_text": "Media Contacts Roxana Bardan Mars Sample Return 771-200-7217 Gerelle Dodson NASA Workforce, STEM Engagement 202-358-1600 Jennifer Dooren Deputy News Chief,",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news/",
       "url": "https://www.nasa.gov/news/",
       "title": "NASA News",
@@ -898,21 +913,6 @@
       "attachments": [
         {
           "url": "https://lh3.googleusercontent.com/2A21eFt7wdDrmMzzkenrCTuioLWGFdzU5Ao5dPH9yPtAw6QNHxZcDmoQA2_ZriU2gMjX8mzEOtfPbMCRuL5kVzLoz6efLgqT_foBXU3pxKBXTTOXXpc=w1200-h630-n-nu",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/",
-      "url": "https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/",
-      "title": "Millions of new materials discovered with deep learning",
-      "content_text": "We share the discovery of 2.2 million new crystals  –  equivalent to nearly 800 years’ worth of knowledge. We introduce Graph Networks for Materials Exploration (GNoME), our new deep learning tool...",
-      "attachments": [
-        {
-          "url": "https://lh3.googleusercontent.com/mq3mFiVHSVuszhJMt-Nz4jckN5qy3cAckEIdNYDPhy8UHjxk4VkGFriqo8sA76teioNQ2fC3qgMH7FJfPc0L5JJPppXiZzHP7Rl3UodlU4IC4TWw=w1200-h630-n-nu",
           "mime_type": "image/jpeg"
         }
       ],
