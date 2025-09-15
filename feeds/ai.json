@@ -486,6 +486,21 @@
       ]
     },
     {
+      "id": "https://www.anthropic.com/news/claude-in-xcode",
+      "url": "https://www.anthropic.com/news/claude-in-xcode",
+      "title": "Claude is now generally available in Xcode",
+      "content_text": "Connect your Claude account to Xcode 26 for AI-powered coding assistance. Debug, refactor, and build Apple apps faster with Claude Sonnet 4 by Anthropic.",
+      "attachments": [
+        {
+          "url": "https://cdn.sanity.io/images/4zrzovbb/website/0daf4c734673d46413d8b2ad95e7f4249234473c-2400x1260.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi",
       "url": "https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi",
       "title": "Strengthening our safeguards through collaboration with US CAISI and UK AISI",
@@ -509,21 +524,6 @@
         {
           "url": "https://cdn.sanity.io/images/4zrzovbb/website/b0fec85c4cfb29023f80f59ae564a77b6dc0ba78-2400x1260.png",
           "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://www.anthropic.com/news/create-files",
-      "url": "https://www.anthropic.com/news/create-files",
-      "title": "Claude can now create and use files",
-      "content_text": "Claude can now create and edit Excel spreadsheets, documents, PowerPoint slide decks, and PDFs directly in Claude.ai and the desktop app.",
-      "attachments": [
-        {
-          "url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand+NodeSlide&backgroundColor=clay",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [

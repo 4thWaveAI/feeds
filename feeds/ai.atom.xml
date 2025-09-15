@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai</id>
-  <updated>Mon, 15 Sep 2025 21:29:35 +0000</updated>
+  <updated>Mon, 15 Sep 2025 21:39:51 +0000</updated>
   <entry>
     <title>Reaching Across the Isles: UK-LLM Brings AI to UK Languages With NVIDIA Nemotron</title>
     <link href="https://blogs.nvidia.com/blog/uk-llm-nemotron/"/>
@@ -212,6 +212,12 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <summary type="text">Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.</summary>
   </entry>
   <entry>
+    <title>Claude is now generally available in Xcode</title>
+    <link href="https://www.anthropic.com/news/claude-in-xcode"/>
+    <id>https://www.anthropic.com/news/claude-in-xcode</id>
+    <summary type="text">Connect your Claude account to Xcode 26 for AI-powered coding assistance. Debug, refactor, and build Apple apps faster with Claude Sonnet 4 by Anthropic.</summary>
+  </entry>
+  <entry>
     <title>Strengthening our safeguards through collaboration with US CAISI and UK AISI</title>
     <link href="https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi"/>
     <id>https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi</id>
@@ -222,12 +228,6 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <link href="https://www.anthropic.com/news/memory"/>
     <id>https://www.anthropic.com/news/memory</id>
     <summary type="text">Claude now remembers your team&#x27;s projects and preferences across conversations. Memory helps maintain context for complex work, with project-specific boundaries and full user control over what&#x27;s remembered.</summary>
-  </entry>
-  <entry>
-    <title>Claude can now create and use files</title>
-    <link href="https://www.anthropic.com/news/create-files"/>
-    <id>https://www.anthropic.com/news/create-files</id>
-    <summary type="text">Claude can now create and edit Excel spreadsheets, documents, PowerPoint slide decks, and PDFs directly in Claude.ai and the desktop app.</summary>
   </entry>
   <entry>
     <title>NVIDIA Unveils Rubin CPX: A New Class of GPU Designed for Massive-Context Inference</title>

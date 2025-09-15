@@ -29,21 +29,6 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news/nasa-media-contacts/",
-      "url": "https://www.nasa.gov/news/nasa-media-contacts/",
-      "title": "NASA Media Contacts - NASA",
-      "content_text": "Media Contacts Roxana Bardan Mars Sample Return 771-200-7217 Gerelle Dodson NASA Workforce, STEM Engagement 202-358-1600 Jennifer Dooren Deputy News Chief,",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.nasa.gov/news/",
       "url": "https://www.nasa.gov/news/",
       "title": "NASA News",
@@ -112,6 +97,21 @@
         {
           "url": "https://images-assets.nasa.gov/image/iss071e416851/iss071e416851~large.jpg",
           "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2025/09/14/cygnus-xl-cargo-craft-launches-on-falcon-9-rocket-to-station/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2025/09/14/cygnus-xl-cargo-craft-launches-on-falcon-9-rocket-to-station/",
+      "title": "Cygnus XL Cargo Craft Launches on Falcon 9 Rocket to Station - NASA",
+      "content_text": "At 6:11 p.m. EDT, over 11,000 pounds of scientific investigations and cargo launched to the International Space Station on Northrop Grumman’s Cygnus spacecraft for the company’s 23rd commercial resupply services mission for NASA.",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/09/blog-cygnusxl-launch-091425.png",
+          "mime_type": "image/png"
         }
       ],
       "tags": [
