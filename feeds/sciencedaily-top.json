@@ -5,6 +5,111 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sciencedaily-top.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250915085344.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250915085344.htm",
+      "title": "Scientists are closing in on Leonardo da Vinci’s DNA",
+      "content_text": "A groundbreaking project is piecing together Leonardo da Vinci’s genetic profile by tracing his lineage across 21 generations and comparing DNA from living descendants with remains in a Da Vinci family tomb. If successful, the effort could reveal new insights into Leonardo’s health, creativity, and even help confirm the authenticity of his works.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/vitruvian-man-dna.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250914205853.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250914205853.htm",
+      "title": "Who are the Papua New Guineans? New DNA study reveals stunning origins",
+      "content_text": "On remote islands of Papua New Guinea, people carry a story that ties us all back to our deepest roots. Although their striking appearance once puzzled scientists, new genetic evidence shows they share a common ancestry with other Asians, shaped by isolation, adaptation, and even interbreeding with mysterious Denisovans. Yet, their unique history — marked by survival bottlenecks and separation from farming-driven booms — leaves open questions about the earliest migrations out of Africa and whether their lineage holds traces of a forgotten branch of humanity.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/huli-man-papua-new-guinea.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250914205851.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250914205851.htm",
+      "title": "Scientists test an anti-aging cream that actually works",
+      "content_text": "A 28-day trial showed that pterostilbene cream improved wrinkles, skin firmness, collagen, and pore size far better than a control emulsion. The results highlight pterostilbene as a promising natural ingredient for next-generation anti-aging skincare.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/happy-woman-face-skin-cream.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250914205848.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250914205848.htm",
+      "title": "Strange steam worlds could rewrite the search for life",
+      "content_text": "Scientists are unraveling the mysteries of &quot;steam worlds&quot;—exoplanets known as sub-Neptunes that are rich in water but orbit so close to their stars that their surfaces are shrouded in thick atmospheres of vapor. Using advanced models, researchers at UC Santa Cruz are now mapping how water behaves under extreme pressures and temperatures, offering insights into exotic phases like supercritical fluids and superionic ice.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/sub-neptune-exoplanet.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250914205845.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250914205845.htm",
+      "title": "Millions have diabetes without knowing it",
+      "content_text": "A sweeping global study reveals that nearly half of people with diabetes don’t even know they have it, with young adults being the most overlooked. While most diagnosed patients receive treatment, less than half achieve proper blood sugar control, leaving only about one in five with well-managed diabetes.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/diabetes-test-blood-drop-finger.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250914205840.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250914205840.htm",
+      "title": "Guava’s secret molecule could fight liver cancer",
+      "content_text": "Nature has long been the source of lifesaving medicines, from willow bark’s natural aspirin to new discoveries in tropical fruits. Now, chemists at the University of Delaware have pioneered a way to recreate powerful molecules from guava plants that show promise against liver cancer. Their method provides a low-cost, scalable recipe for scientists worldwide, sparking collaboration and potentially transforming cancer treatment.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/fresh-ripe-guava.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250914205835.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250914205835.htm",
+      "title": "Scientists just found hidden parasitic wasps spreading across the U. S.",
+      "content_text": "Researchers discovered two new parasitic wasp species living in the U.S., tracing their origins back to Europe and uncovering clues about how they spread. Their arrival raises fresh questions about biodiversity, ecological risks, and the role of citizen science in tracking hidden species.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/two-species-of-bootanomyia-dorsalis-wasps.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/09/250914205832.htm",
       "url": "https://www.sciencedaily.com/releases/2025/09/250914205832.htm",
       "title": "Daily eye drops could make reading glasses obsolete",
@@ -192,111 +297,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/smart-vision.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250913232157.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250913232157.htm",
-      "title": "Most quit breakthrough weight-loss drug within a year",
-      "content_text": "A massive Danish study reveals that despite the remarkable weight-loss benefits of semaglutide, more than half of adults without diabetes stop using it within a year. High costs, unpleasant side effects, and underlying medical or psychiatric conditions play major roles in the dropouts. Younger users and men are especially prone to quitting, raising concerns since discontinuation often leads to weight regain.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/ozempic-semaglutide-injection-pens.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250913112506.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250913112506.htm",
-      "title": "No one knows what these strange larvae grow into",
-      "content_text": "Not all barnacles just sit on rocks and ships. Some invade crabs, growing like a parasitic root system that hijacks their bodies. A mysterious group called y-larvae has baffled scientists for over a century, with no known adult stage. Genetic evidence now reveals they’re related to barnacles and may also be parasites — lurking unseen inside other creatures.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/facetotectans.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250913111036.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250913111036.htm",
-      "title": "Scientists just found out forever chemicals are shockingly acidic",
-      "content_text": "Scientists have uncovered that “forever chemicals” like PFAS are even more acidic than anyone realized, meaning they dissolve and spread in water with alarming ease. Using a cutting-edge method combining NMR spectroscopy and computer modeling, researchers showed that the acidity of notorious compounds like PFOA and GenX had been vastly underestimated—sometimes by factors of a thousand.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/pfas-forever-chemicals.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250912195133.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250912195133.htm",
-      "title": "Hidden gut molecule found to wreck kidneys",
-      "content_text": "Scientists discovered that a gut bacteria molecule called corisin can travel to the kidneys, triggering inflammation and scarring that lead to diabetic kidney fibrosis. By attaching to albumin in the blood, corisin infiltrates kidney tissue and accelerates damage. In animal studies, antibodies that neutralize corisin slowed disease progression, offering hope for new treatments beyond dialysis and transplants.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/chronic-kidney-disease.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250912195130.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250912195130.htm",
-      "title": "Scientists just discovered how octopuses really use their arms",
-      "content_text": "Octopuses aren’t just flexible—they’re astonishingly strategic. A new study reveals how their eight arms coordinate with surprising precision: front arms for exploring, back arms for locomotion, and every arm capable of twisting, bending, shortening, and elongating in unique ways. Researchers observed nearly 7,000 deformations across multiple habitats, capturing behaviors from camouflage tricks to elaborate hunting techniques. This insight doesn’t just unlock secrets of octopus biology, it could also inspire new innovations in robotics and neuroscience.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/octopus-swimming-underwater.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250912195128.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250912195128.htm",
-      "title": "Surprising giant DNA discovery may be linked to gum disease and cancer",
-      "content_text": "Scientists in Tokyo have uncovered “Inocles,” massive strands of extrachromosomal DNA hidden inside bacteria in human mouths. These giants, overlooked by traditional sequencing, could explain how oral microbes adapt, survive, and impact health. Found in nearly three-quarters of people, Inocles carry genes for stress resistance and may even hint at links to diseases like cancer, opening a whole new frontier in microbiome research.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/genetic-mystery-dna-helix.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250912195126.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250912195126.htm",
-      "title": "Johns Hopkins breakthrough could make microchips smaller than ever",
-      "content_text": "Johns Hopkins scientists, working with global partners, have unveiled a new way to build microchips so small they’re invisible to the eye. By developing special metal-organic materials that interact with powerful beams of light, they’ve cracked a major hurdle in creating faster, smaller, and more affordable chips. This new process, chemical liquid deposition, could reshape electronics manufacturing and push the limits of technology for years to come.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/silicon-wafer-rainbow-color-testing.webp",
           "mime_type": "image/webp"
         }
       ],
