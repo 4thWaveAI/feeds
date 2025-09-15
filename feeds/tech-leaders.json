@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.json",
   "items": [
     {
+      "id": "https://www.aboutamazon.com/news/entertainment/bad-bunny-puerto-rico-amazon-music-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/bad-bunny-puerto-rico-amazon-music-prime-video",
+      "title": "How to stream Bad Bunny’s final concert of his Puerto Rico residency, exclusively with Amazon",
+      "content_text": "The global superstar’s exclusive performance from his ‘No Me Quiero Ir de Aquí’ residency will be available to fans worldwide on the Amazon Music app, Prime Video, and Twitch, as part of a new partnership with Amazon.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/0fc4926/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F54%2F17%2Fa640f6ed474eb51bc757b02c3c30%2Fabout-amazon-hero-badbunny-english-hero-2000x1125.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/retail/best-gifts-kids-amazon-toys-we-love-list-2025",
       "url": "https://www.aboutamazon.com/news/retail/best-gifts-kids-amazon-toys-we-love-list-2025",
       "title": "Amazon’s 2025 Toys We Love list: The ultimate kids’ gift guide",
@@ -46,25 +61,6 @@
         },
         {
           "url": "https://www.youtube.com/embed/1jc-2PaE3pA",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/community/amazon-headquarters-seattle-bellevue-puget-sound-news",
-      "url": "https://www.aboutamazon.com/news/community/amazon-headquarters-seattle-bellevue-puget-sound-news",
-      "title": "Amazon in the community: Here's what's happening in Seattle, Bellevue, and the Puget Sound",
-      "content_text": "Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/8f88e6b/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F5b%2F7b%2F25139aad4a5fb4efafb1b3cdc335%2Fabout-amazon-hero-amazon-spheres-selects-29.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/QWQvaTXowao",
           "mime_type": "video/mp4"
         }
       ],
@@ -240,6 +236,21 @@
       ]
     },
     {
+      "id": "https://www.aboutamazon.com/news/entertainment/emmys-2025-amazon-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/emmys-2025-amazon-prime-video",
+      "title": "How to watch Prime Video’s 2025 Emmy Award nominees and winners",
+      "content_text": "‘The Boys’ and ‘Étoile’ were among the Prime Video series to receive Emmy Awards this year.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/782bf97/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F98%2F29%2F8910c6f44cd0bad495e7f2e35817%2Fabout-amazon-hero-lotr-s2-ut-230412-00060-r2-3000.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://about.fb.com/news/2025/06/edit-videos-with-meta-ai/",
       "url": "https://about.fb.com/news/2025/06/edit-videos-with-meta-ai/",
       "title": "You Can Now Edit Videos With Meta AI",
@@ -270,21 +281,6 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/entertainment/live-sports-streaming-prime-video",
-      "url": "https://www.aboutamazon.com/news/entertainment/live-sports-streaming-prime-video",
-      "title": "How to watch live sports like the NBA, NWSL, NFL, and more on Prime Video",
-      "content_text": "Prime members can watch a ton of different live sports in 2025.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/9b0522a/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F4a%2F24%2F17b1228543aeaef16505e2ca9c3b%2Fabout-amazon-hero-hero3c-prime-live-sports-2000x1125.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
       "id": "https://www.aboutamazon.com/news/entertainment/harry-potter-audiobooks-audible-full-cast-productions",
       "url": "https://www.aboutamazon.com/news/entertainment/harry-potter-audiobooks-audible-full-cast-productions",
       "title": "Everything to know about the new ‘Harry Potter’ audiobooks from Audible",
@@ -297,21 +293,6 @@
         {
           "url": "https://www.youtube.com/embed/qzHcBVZOQII",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/entertainment/everything-you-need-to-know-about-thursday-night-football-on-prime-video",
-      "url": "https://www.aboutamazon.com/news/entertainment/everything-you-need-to-know-about-thursday-night-football-on-prime-video",
-      "title": "Everything you need to know about ‘Thursday Night Football’ on Prime Video",
-      "content_text": "Find out who’s playing, how to watch, and who won each week. Plus, get all the latest ‘Thursday Night Football’ news from Prime Video.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/9d71b14/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F5d%2F5a%2Fd550d930492d8e012643fcdb7736%2Fabout-amazon-hero-c4n09568.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -729,13 +710,28 @@
       ]
     },
     {
+      "id": "https://www.apple.com/newsroom/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/",
+      "url": "https://www.apple.com/newsroom/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/",
+      "title": "How the mind-splitting world of Severance comes together on Mac",
+      "content_text": "How Geoff Richman, lead editor on the Apple Original, “Severance,” created the frenetic world of the hit show’s season two finale.",
+      "attachments": [
+        {
+          "url": "https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/Apple-TV-plus-Mac-editing-Severance-Geoffrey-Richman-and-Ben-Stiller-lp.jpg.og.jpg?202508281640=",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "tim-cook"
+      ]
+    },
+    {
       "id": "https://www.apple.com/newsroom/2025/05/meet-four-of-this-years-swift-student-challenge-winners/",
       "url": "https://www.apple.com/newsroom/2025/05/meet-four-of-this-years-swift-student-challenge-winners/",
       "title": "Meet four of this year’s Swift Student Challenge winners",
       "content_text": "Meet Taiki Hamamoto, Marina Lee, Luciana Ortiz Nolasco, and Nahom Worku, four winners of Apple’s 2025 Swift Student Challenge.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281642=",
+          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281636=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -750,22 +746,7 @@
       "content_text": "From a horror-comedy in Tamil to a magical romance in Malayalam, MAMI Select filmmakers are redefining cinema with iPhone 16 Pro Max.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/tile/Apple-MAMI-Select-iPhone-16-Pro-Max-hero-lp.jpg.og.jpg?202508281644=",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "tim-cook"
-      ]
-    },
-    {
-      "id": "https://www.apple.com/newsroom/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/",
-      "url": "https://www.apple.com/newsroom/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/",
-      "title": "How the mind-splitting world of Severance comes together on Mac",
-      "content_text": "How Geoff Richman, lead editor on the Apple Original, “Severance,” created the frenetic world of the hit show’s season two finale.",
-      "attachments": [
-        {
-          "url": "https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/Apple-TV-plus-Mac-editing-Severance-Geoffrey-Richman-and-Ben-Stiller-lp.jpg.og.jpg?202508281732=",
+          "url": "https://www.apple.com/newsroom/images/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/tile/Apple-MAMI-Select-iPhone-16-Pro-Max-hero-lp.jpg.og.jpg?202508281639=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -780,7 +761,7 @@
       "content_text": "Captured on iPhone 16 Pro Max, a recent shoot by photographer Karston Tannis showcased the vibrancy of the African diaspora.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/02/capturing-paradise-karston-tannis-re-creates-island-vibes-with-iphone-16-pro-max/tile/Apple-Tannis-shot-on-iPhone-16-Pro-Max-group-shot-lp.jpg.og.jpg?202508281648=",
+          "url": "https://www.apple.com/newsroom/images/2025/02/capturing-paradise-karston-tannis-re-creates-island-vibes-with-iphone-16-pro-max/tile/Apple-Tannis-shot-on-iPhone-16-Pro-Max-group-shot-lp.jpg.og.jpg?202508281745=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -795,7 +776,7 @@
       "content_text": "The official source for news about Apple, from Apple. Read press releases, get updates, watch video and download images.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202509151009=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202509151624=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -810,7 +791,7 @@
       "content_text": "The source for news about Apple Services. Get updates on the latest Apple Arcade games, Apple Originals on TV+, Podcasts, Books, and more from Apple Newsroom.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1757931021248=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1757953447065=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -825,7 +806,7 @@
       "content_text": "Discover more stories from Apple Newsroom that showcase the creators, developers, and innovators leaving the world better than they found it.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1757931768493=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1757953830413=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -932,6 +913,21 @@
         {
           "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/NS26Social_NewShepard-Sunrise_HomePageTakeover.jpg",
           "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.blueorigin.com/news",
+      "url": "https://www.blueorigin.com/news",
+      "title": "News | Blue Origin",
+      "content_text": "The Latest from Blue",
+      "attachments": [
+        {
+          "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/latest-news_hero.png",
+          "mime_type": "image/png"
         }
       ],
       "tags": [
