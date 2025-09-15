@@ -277,21 +277,6 @@
       ]
     },
     {
-      "id": "https://www.edsurge.com/news/2025-09-05-4-year-olds-pose-messy-challenge-for-elementary-schools-toilet-training",
-      "url": "https://www.edsurge.com/news/2025-09-05-4-year-olds-pose-messy-challenge-for-elementary-schools-toilet-training",
-      "title": "4-Year-Olds Pose Messy Challenge for Elementary Schools: Toilet-Training  - EdSurge News",
-      "content_text": "More 4-year-olds across California are entering transitional kindergarten (TK) this year — curious and eager to play and learn. But some aren’t fully ...",
-      "attachments": [
-        {
-          "url": "https://edsurge.imgix.net/uploads/post/image/16433/shutterstock_547981057-1757080756.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "young-talons-edu-tech"
-      ]
-    },
-    {
       "id": "https://about.fb.com/news/2025/09/attach-text-threads-posts-share-longer-perspectives/",
       "url": "https://about.fb.com/news/2025/09/attach-text-threads-posts-share-longer-perspectives/",
       "title": "Attach Text to Your Threads Posts and Share Longer Perspectives",
@@ -918,6 +903,21 @@
         {
           "url": "https://deepmind.google/api/blob/website/media/Code-Evolution-Illustration_compressed_iUJETbv.mp4",
           "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/",
+      "url": "https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/",
+      "title": "AI achieves silver-medal standard solving International Mathematical Olympiad problems",
+      "content_text": "Breakthrough models AlphaProof and AlphaGeometry 2 solve advanced reasoning problems in mathematics",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/2A21eFt7wdDrmMzzkenrCTuioLWGFdzU5Ao5dPH9yPtAw6QNHxZcDmoQA2_ZriU2gMjX8mzEOtfPbMCRuL5kVzLoz6efLgqT_foBXU3pxKBXTTOXXpc=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
