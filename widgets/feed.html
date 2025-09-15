@@ -1,0 +1,204 @@
+<!doctype html>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>4thWaveAI Feed Widget</title>
+<style>
+  :root { --bg:#fff; --fg:#111; --muted:#60646c; --card:#f7f7f9; --border:#e7e7ee; --link:#0b66ff; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#0b0d12; --fg:#e9eef5; --muted:#a7adbb; --card:#121521; --border:#1e2233; --link:#6aa8ff; }
+  }
+  body { margin:0; background:var(--bg); color:var(--fg); font: 15px/1.5 ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial; }
+  .fw-wrap { padding: 8px 10px 12px; }
+  .fw-tabs { display:flex; gap:8px; flex-wrap:wrap; margin:6px 2px 12px; }
+  .fw-tab { border:1px solid var(--border); background:var(--card); padding:6px 10px; border-radius:12px; cursor:pointer; user-select:none; }
+  .fw-tab[aria-selected="true"] { outline:2px solid var(--link); }
+  .fw-grid { display:grid; grid-template-columns: repeat(12, 1fr); gap:12px; }
+  .fw-cards-2 .fw-card { grid-column: span 6; }
+  .fw-cards-3 .fw-card { grid-column: span 4; }
+  .fw-cards-4 .fw-card { grid-column: span 3; }
+  @media (max-width: 900px){ .fw-cards-4 .fw-card, .fw-cards-3 .fw-card { grid-column: span 6; } }
+  @media (max-width: 560px){ .fw-card { grid-column: span 12 !important; } }
+  .fw-card { border:1px solid var(--border); border-radius:14px; overflow:hidden; background:var(--card); display:flex; flex-direction:column; min-height:100%; }
+  .fw-media { display:block; aspect-ratio: 16/9; background:#000; position:relative; }
+  .fw-media img, .fw-media iframe { width:100%; height:100%; object-fit:cover; display:block; border:0; }
+  .fw-play { position:absolute; inset:auto 10px 10px auto; background:rgba(0,0,0,.6); color:#fff; padding:6px 8px; border-radius:10px; font-size:12px; }
+  .fw-body { padding:12px; display:flex; flex-direction:column; gap:6px; }
+  .fw-meta { color:var(--muted); font-size:12px; display:flex; gap:8px; align-items:center; }
+  .fw-title { font-weight:600; text-decoration:none; color:var(--fg); }
+  .fw-title:hover { text-decoration:underline; color:var(--link); }
+  .fw-desc { color:var(--muted); font-size:13px; margin:0; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
+  .fw-footer { margin-top:8px; font-size:12px; }
+  .fw-hidden { display:none !important; }
+</style>
+
+<div class="fw-wrap">
+  <div class="fw-tabs" id="tabs" role="tablist" aria-label="Feeds"></div>
+  <div id="grids"></div>
+</div>
+
+<script>
+(function(){
+  const qs = new URLSearchParams(location.search);
+  // sources: comma-separated. Accept full URLs OR area slugs like "ai,robotics".
+  const sources = (qs.get('sources') || 'feeds/all.xml')
+    .split(',')
+    .map(s => s.trim())
+    .filter(Boolean);
+  // labels: optional, comma-separated; defaults to Title Case of slug/url last segment.
+  const labels = (qs.get('labels') || '').split(',').map(s => s.trim());
+  const limit  = Math.max(1, Math.min( qs.get('limit') ? +qs.get('limit') : 12, 60 ));
+  const layout = (qs.get('layout') || 'cards-3'); // cards-2|cards-3|cards-4|list (list renders as cards-2)
+  const media  = (qs.get('media') || 'show') !== 'hide';
+  const videosOnly = qs.get('videosOnly') === '1';
+
+  const base = location.origin + location.pathname.replace(/\/widgets\/[^\/]*$/, '/'); // repo root
+  const toUrl = (s) => s.includes('://') ? s : (s.startsWith('feeds/') ? new URL(s, base).href
+                                 : new URL('feeds/' + s.replace(/\.xml$/,'') + '.xml', base).href);
+
+  const toLabel = (s, idx) => {
+    if (labels[idx]) return labels[idx];
+    const last = s.split('/').filter(Boolean).pop() || s;
+    return last.replace(/\.[^.]+$/,'').replace(/[-_]/g,' ').replace(/\b\w/g,m=>m.toUpperCase());
+  };
+
+  const tabsEl  = document.getElementById('tabs');
+  const gridsEl = document.getElementById('grids');
+
+  function gridWrapper(i){
+    const wrap = document.createElement('div');
+    wrap.className = 'fw-grid ' + (layout.startsWith('cards') ? ('fw-' + layout) : 'fw-cards-2');
+    wrap.id = 'grid-' + i;
+    wrap.setAttribute('role','tabpanel');
+    if (i !== 0) wrap.classList.add('fw-hidden');
+    gridsEl.appendChild(wrap);
+    return wrap;
+  }
+
+  function tabButton(i, label){
+    const b = document.createElement('button');
+    b.className = 'fw-tab';
+    b.type = 'button';
+    b.id = 'tab-' + i;
+    b.setAttribute('role','tab');
+    b.setAttribute('aria-controls','grid-' + i);
+    b.setAttribute('aria-selected', i === 0 ? 'true' : 'false');
+    b.textContent = label;
+    b.addEventListener('click', () => {
+      document.querySelectorAll('[role="tab"]').forEach(el => el.setAttribute('aria-selected','false'));
+      document.querySelectorAll('[role="tabpanel"]').forEach(el => el.classList.add('fw-hidden'));
+      b.setAttribute('aria-selected','true');
+      document.getElementById('grid-'+i).classList.remove('fw-hidden');
+    });
+    tabsEl.appendChild(b);
+  }
+
+  function relTime(d){
+    const t = new Date(d).getTime(); if (!t) return '';
+    const s = Math.floor((Date.now() - t)/1000);
+    const u = [[60,'s'],[60,'m'],[24,'h'],[7,'d'],[4.348,'w'],[12,'mo']];
+    let v=s, tag='s';
+    for (let i=0;i<u.length && v>=u[i][0];i++){ v = Math.floor(v/u[i][0]); tag = u[i][1]; }
+    return v + tag + ' ago';
+  }
+
+  function pickEnclosures(item) {
+    const encs = [...item.querySelectorAll('enclosure')].map(e => ({
+      url: e.getAttribute('url') || '',
+      type: (e.getAttribute('type') || '').toLowerCase()
+    }));
+    const vid = encs.find(e => e.type.startsWith('video/'));
+    const img = encs.find(e => e.type.startsWith('image/'));
+    return { vid, img };
+  }
+
+  function renderItem(it, label){
+    const card = document.createElement('div');
+    card.className = 'fw-card';
+
+    // media
+    if (it.img || it.vid) {
+      const a = document.createElement('a');
+      a.className = 'fw-media';
+      a.href = it.link; a.target = '_blank'; a.rel = 'noopener noreferrer';
+      if (it.img && media){
+        const img = document.createElement('img');
+        img.loading = 'lazy'; img.alt = it.title || '';
+        img.src = it.img.url;
+        a.appendChild(img);
+      }
+      if (it.vid && media){
+        const play = document.createElement('span');
+        play.className = 'fw-play';
+        play.textContent = '▶ video';
+        a.appendChild(play);
+      }
+      card.appendChild(a);
+    }
+
+    const body = document.createElement('div');
+    body.className = 'fw-body';
+    const meta = document.createElement('div');
+    meta.className = 'fw-meta';
+    meta.textContent = label + (it.date ? ' · ' + relTime(it.date) : '');
+    body.appendChild(meta);
+
+    const title = document.createElement('a');
+    title.className = 'fw-title';
+    title.href = it.link; title.target = '_blank'; title.rel = 'noopener noreferrer';
+    title.textContent = it.title || '(untitled)';
+    body.appendChild(title);
+
+    if (it.desc){
+      const p = document.createElement('p');
+      p.className = 'fw-desc';
+      p.textContent = it.desc;
+      body.appendChild(p);
+    }
+
+    card.appendChild(body);
+    return card;
+  }
+
+  async function loadOne(src, idx){
+    const url = toUrl(src);
+    const label = toLabel(src, idx);
+    tabButton(idx, label);
+    const grid = gridWrapper(idx);
+
+    try{
+      const res = await fetch(url, { cache: 'no-store' });
+      const txt = await res.text();
+      const xml = new DOMParser().parseFromString(txt, "application/xml");
+      const items = [...xml.querySelectorAll('item')].map((item) => {
+        const { vid, img } = pickEnclosures(item);
+        return {
+          title: item.querySelector('title')?.textContent?.trim() || '',
+          link:  item.querySelector('link')?.textContent?.trim() || '',
+          desc:  (item.querySelector('description')?.textContent || '').replace(/<[^>]+>/g,'').trim().slice(0,240),
+          date:  item.querySelector('pubDate')?.textContent?.trim() || '',
+          vid, img
+        };
+      });
+
+      let list = items;
+      if (videosOnly) list = list.filter(it => it.vid);
+      list.slice(0, limit).forEach(it => grid.appendChild(renderItem(it, label)));
+      if (!list.length){
+        const p = document.createElement('p');
+        p.className='fw-footer';
+        p.textContent='No items yet.';
+        grid.appendChild(p);
+      }
+    }catch(err){
+      const p = document.createElement('p');
+      p.className='fw-footer';
+      p.textContent='Failed to load feed.';
+      grid.appendChild(p);
+      console.error('Feed widget error', err);
+    }
+  }
+
+  // Build tabs/grids
+  sources.forEach((s, i) => loadOne(s, i));
+})();
+</script>
