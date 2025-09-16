@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/structural-battery-composites.atom.xml"/>
   <id>urn:4thwaveai-feeds:structural-battery-composites</id>
-  <updated>Tue, 16 Sep 2025 09:38:23 +0000</updated>
+  <updated>Tue, 16 Sep 2025 10:41:43 +0000</updated>
   <entry>
     <title>Light-powered chip makes AI 100 times more efficient</title>
     <link href="https://www.sciencedaily.com/releases/2025/09/250908175458.htm"/>
@@ -84,33 +84,33 @@
     <summary type="text">Materials science</summary>
   </entry>
   <entry>
+    <title>Terahertz field control of surface topology probed with subatomic resolution - Nature Photonics</title>
+    <link href="https://www.nature.com/articles/s41566-025-01751-9"/>
+    <id>https://www.nature.com/articles/s41566-025-01751-9</id>
+    <summary type="text">A terahertz field exceeding 1 V nm−1 induced a structural phase transition in the top atomic layer of a bulk WTe2 crystal. Differential imaging revealed a surface shift of 7 ± 3 pm and an electronic signature consistent with a topological phase transition.</summary>
+  </entry>
+  <entry>
+    <title>Observation of the Yamaji effect in a cuprate superconductor - Nature Physics</title>
+    <link href="https://www.nature.com/articles/s41567-025-03032-2"/>
+    <id>https://www.nature.com/articles/s41567-025-03032-2</id>
+    <summary type="text">The Yamaji effect is a modulation of the electronic transport as the angle of an applied magnetic field is changed. This has been observed in a model cuprate and sheds light on the geometry of the Fermi surface and the nature of the pseudogap.</summary>
+  </entry>
+  <entry>
+    <title>Molecular afterglow imaging for biomedical applications - Nature Materials</title>
+    <link href="https://www.nature.com/articles/s41563-025-02338-z"/>
+    <id>https://www.nature.com/articles/s41563-025-02338-z</id>
+    <summary type="text">This Review discusses recent advances in afterglow materials for biomedical applications, the distinct imaging modalities that these agents enable and strategies to optimize their properties for improved disease diagnosis and therapies.</summary>
+  </entry>
+  <entry>
+    <title>Pushing charge equilibration-based machine learning potentials to their limits - npj Computational Materials</title>
+    <link href="https://www.nature.com/articles/s41524-025-01791-3"/>
+    <id>https://www.nature.com/articles/s41524-025-01791-3</id>
+    <summary type="text">npj Computational Materials volume 11 , Article number: 288 ( 2025 ) Cite this article</summary>
+  </entry>
+  <entry>
     <title>Integrating bacterial cellulose in artisanal ice cream: a farm-to-fork sustainable approach - npj Science of Food</title>
     <link href="https://www.nature.com/articles/s41538-025-00536-2"/>
     <id>https://www.nature.com/articles/s41538-025-00536-2</id>
     <summary type="text">npj Science of Food volume 9 , Article number: 191 ( 2025 ) Cite this article</summary>
-  </entry>
-  <entry>
-    <title>Streaming flexoelectricity in saline ice - Nature Materials</title>
-    <link href="https://www.nature.com/articles/s41563-025-02332-5"/>
-    <id>https://www.nature.com/articles/s41563-025-02332-5</id>
-    <summary type="text">By doping ice with NaCl, it is shown that a flexoelectric coefficient of up to 10 μC m−1 is generated, enabling effective piezoelectric coefficients that are comparable to those of ceramics. This arises from the streaming current of quasi-liquid flow through grain boundaries from one side of the sample to the other.</summary>
-  </entry>
-  <entry>
-    <title>Revealing nanoscale plasticity of metallic nanosponges with correlative and scale-bridging 3D microscopy and modelling - Communications Materials</title>
-    <link href="https://www.nature.com/articles/s43246-025-00914-z"/>
-    <id>https://www.nature.com/articles/s43246-025-00914-z</id>
-    <summary type="text">The mechanical properties of nanoporous gold are tied to their topology and surface morphology. Here, a correlative and scale-bridging approach, combining non-destructive 3D tomography, mechanical testing and experimentally-informed modelling, reveals the origins of the size dependent deformation mechanisms.</summary>
-  </entry>
-  <entry>
-    <title>Amorphous indium tin oxide transistors for power amplification above 10 GHz - Nature Electronics</title>
-    <link href="https://www.nature.com/articles/s41928-025-01447-6"/>
-    <id>https://www.nature.com/articles/s41928-025-01447-6</id>
-    <summary type="text">The electrical and thermal transport properties of amorphous indium tin oxide can be enhanced by using a silicon carbide substrate, leading to indium tin oxide power amplifiers with an output power density of 0.69 W mm−1 and a power-added efficiency of 24.1% at 12 GHz.</summary>
-  </entry>
-  <entry>
-    <title>Perovskite-based multi-junction solar cells - Nature Reviews Clean Technology</title>
-    <link href="https://www.nature.com/articles/s44359-025-00103-8"/>
-    <id>https://www.nature.com/articles/s44359-025-00103-8</id>
-    <summary type="text">Multi-junction solar cells can provide a way to increase the efficiency of solar cells beyond the theoretical efficiency limits of single-junction devices. This Review explores the design and performance of multi-junction devices that use perovskite materials for the two wide bandgap middle and top layers.</summary>
   </entry>
 </feed>
