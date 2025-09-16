@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Tue, 16 Sep 2025 07:45:27 +0000</updated>
+  <updated>Tue, 16 Sep 2025 08:50:20 +0000</updated>
   <entry>
     <title>Microsoft leads shift beyond data unification to organization, delivering next-gen AI readiness with new Microsoft Fabric capabilities - The Official Microsoft Blog</title>
     <link href="https://blogs.microsoft.com/blog/2025/09/16/microsoft-leads-shift-beyond-data-unification-to-organization-delivering-next-gen-ai-readiness-with-new-microsoft-fabric-capabilities/"/>
@@ -18,6 +18,14 @@
     <id>https://www.aboutamazon.com/news/retail/wicked-2-movie-tickets-prime</id>
     <summary type="text">Prime members will be able to buy tickets to the early screening of ‘Wicked: For Good’ and see it four days before its theatrical release.</summary>
     <updated>Tue, 16 Sep 2025 05:00:12 +0000</updated>
+  </entry>
+  <entry>
+    <title>Teachers Turn Toward Virtual Schools for Better Work-Life Balance 
+ - EdSurge News</title>
+    <link href="https://www.edsurge.com/news/2025-09-16-teachers-turn-toward-virtual-schools-for-better-work-life-balance"/>
+    <id>https://www.edsurge.com/news/2025-09-16-teachers-turn-toward-virtual-schools-for-better-work-life-balance</id>
+    <summary type="text">More teachers are flocking to virtual schools, citing better work-life balance, improved safety and more time for creativity as driving forces.</summary>
+    <updated>Tue, 16 Sep 2025 00:00:00 -0000</updated>
   </entry>
   <entry>
     <title>How Much Freedom Do Teachers Have in the Classroom? In 2025, It’s Complicated. - EdSurge News</title>
@@ -413,11 +421,5 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <link href="https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/"/>
     <id>https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/</id>
     <summary type="text">New AI agent evolves algorithms for math and practical applications in computing by combining the creativity of large language models with automated evaluators</summary>
-  </entry>
-  <entry>
-    <title>AI achieves silver-medal standard solving International Mathematical Olympiad problems</title>
-    <link href="https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/"/>
-    <id>https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/</id>
-    <summary type="text">Breakthrough models AlphaProof and AlphaGeometry 2 solve advanced reasoning problems in mathematics</summary>
   </entry>
 </feed>
