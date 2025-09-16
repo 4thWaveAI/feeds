@@ -35,21 +35,6 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/entertainment/watch-wicked-prime-video",
-      "url": "https://www.aboutamazon.com/news/entertainment/watch-wicked-prime-video",
-      "title": "‘Wicked’ is now streaming on Prime Video—here’s how to watch it",
-      "content_text": "Check out the blockbuster hit movie ‘Wicked,’ starring Cynthia Erivo and Ariana Grande, on Prime Video.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/e619702/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fd2%2F86%2Faa2d0aa147c694f460aade5dafb2%2Faa-0110-wicked-standard-hero-v2-600kb-2000x1125.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
       "id": "https://www.aboutamazon.com/news/retail/wicked-movie-tickets-prime-fandango",
       "url": "https://www.aboutamazon.com/news/retail/wicked-movie-tickets-prime-fandango",
       "title": "Prime members can get early ticket access for 'Wicked' on Fandango—here's how to buy them now",
@@ -72,6 +57,21 @@
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/8756161/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F0b%2Feb%2F35485c2f4c629fcc3568ec79102e%2Fabout-amazon-inline-aa-pbdd25-everythingtoknow-standard-hero-v5-2000x1125.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/retail/5-awesome-benefits-that-make-your-prime-membership-worth-it",
+      "url": "https://www.aboutamazon.com/news/retail/5-awesome-benefits-that-make-your-prime-membership-worth-it",
+      "title": "5 awesome benefits that make your Prime membership worth it",
+      "content_text": "A Prime membership has a lot to offer. Here are just a few of the best benefits in time for Prime Big Deal Days this October.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/3d24e3a/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fcb%2F21%2Fce95d27e41e5be2e43ebde3190cf%2Faa-062025-pd-5-awesome-benefits-standard-hero-v1-600kb-2000x11251.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -200,10 +200,10 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/entertainment",
-      "url": "https://www.aboutamazon.com/news/entertainment",
-      "title": "Entertainment",
-      "content_text": "Stories about the latest apps and games, movies, TV shows, and music available from Amazon Prime Video, Amazon Music, and Kindle.",
+      "id": "https://www.aboutamazon.com/news/retail",
+      "url": "https://www.aboutamazon.com/news/retail",
+      "title": "Retail",
+      "content_text": "More information about shopping on Amazon and our selection of products and services.",
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
@@ -215,10 +215,10 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/retail",
-      "url": "https://www.aboutamazon.com/news/retail",
-      "title": "Retail",
-      "content_text": "More information about shopping on Amazon and our selection of products and services.",
+      "id": "https://www.aboutamazon.com/news/entertainment",
+      "url": "https://www.aboutamazon.com/news/entertainment",
+      "title": "Entertainment",
+      "content_text": "Stories about the latest apps and games, movies, TV shows, and music available from Amazon Prime Video, Amazon Music, and Kindle.",
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
