@@ -5,13 +5,13 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
-      "id": "https://phys.org/news/2025-09-mxene-electrode-material-seawater-corrosion.html",
-      "url": "https://phys.org/news/2025-09-mxene-electrode-material-seawater-corrosion.html",
-      "title": "MXene electrode material withstands seawater corrosion in hydrogen production",
-      "content_text": "A research team has developed a composite catalyst using the novel material MXene that suppresses the generation of chloride ions—one of the key challenges in seawater electrolysis. This research outcome is expected to accelerate the practical application of seawater electrolysis technology by enabling stable hydrogen production even in seawater.",
+      "id": "https://phys.org/news/2025-09-wiggling-atoms-smaller-efficient-electronics.html",
+      "url": "https://phys.org/news/2025-09-wiggling-atoms-smaller-efficient-electronics.html",
+      "title": "'Wiggling' atoms may lead to smaller, more efficient electronics",
+      "content_text": "Researchers at Michigan State University have figured out how to use a fast laser to wiggle atoms in a way that temporarily changes the behavior of their host material. Their novel approach could lead to smaller and more efficient electronics—like smartphones—in the future.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/high-performance-elect.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/wiggling-atoms-may-lea-1.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -27,6 +27,21 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/proximity-screening-pu-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-mxene-electrode-material-seawater-corrosion.html",
+      "url": "https://phys.org/news/2025-09-mxene-electrode-material-seawater-corrosion.html",
+      "title": "MXene electrode material withstands seawater corrosion in hydrogen production",
+      "content_text": "A research team has developed a composite catalyst using the novel material MXene that suppresses the generation of chloride ions—one of the key challenges in seawater electrolysis. This research outcome is expected to accelerate the practical application of seawater electrolysis technology by enabling stable hydrogen production even in seawater.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2025/high-performance-elect.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -167,21 +182,6 @@
         {
           "url": "https://scx2.b-cdn.net/gfx/video/2025/cat-whiskers-inspire-h.mp4",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-icing-problems-aircraft-drones.html",
-      "url": "https://phys.org/news/2025-09-icing-problems-aircraft-drones.html",
-      "title": "A new way to prevent icing problems for aircraft and drones",
-      "content_text": "Ice formation on propeller blades or aircraft wings can cause major problems. It can limit flight time, increase costs and pose safety and environmental risks.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/a-new-way-to-prevent-i.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
