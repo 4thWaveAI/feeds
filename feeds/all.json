@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
+      "id": "https://blogs.microsoft.com/blog/2025/09/16/microsoft-leads-shift-beyond-data-unification-to-organization-delivering-next-gen-ai-readiness-with-new-microsoft-fabric-capabilities/",
+      "url": "https://blogs.microsoft.com/blog/2025/09/16/microsoft-leads-shift-beyond-data-unification-to-organization-delivering-next-gen-ai-readiness-with-new-microsoft-fabric-capabilities/",
+      "title": "Microsoft leads shift beyond data unification to organization, delivering next-gen AI readiness with new Microsoft Fabric capabilities - The Official Microsoft Blog",
+      "content_text": "We’re in a hinge moment for AI. The experiments are over and the real work has begun. Centralizing data, once the finish line, is now the starting point. The definition of “AI readiness” is evolving as increasingly sophisticated agents demand rich, contextualized data grounded in business operations to deliver meaningful results. What sets leaders apart...",
+      "attachments": [
+        {
+          "url": "https://blogs.microsoft.com/wp-content/uploads/2025/09/FabCon-Hero-9_15_25-1024x682.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "satya-nadella"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/retail/wicked-2-movie-tickets-prime",
       "url": "https://www.aboutamazon.com/news/retail/wicked-2-movie-tickets-prime",
       "title": "How Prime members can get early tickets for 'Wicked: For Good’ only on Fandango",
@@ -319,21 +334,6 @@
       ],
       "tags": [
         "mark-zuckerberg"
-      ]
-    },
-    {
-      "id": "https://blogs.microsoft.com/blog/2025/09/02/accelerating-ai-adoption-for-the-us-government/",
-      "url": "https://blogs.microsoft.com/blog/2025/09/02/accelerating-ai-adoption-for-the-us-government/",
-      "title": "Accelerating AI adoption for the US government - The Official Microsoft Blog",
-      "content_text": "Today, Microsoft and the US General Services Administration (GSA) announced a comprehensive agreement to bring a suite of productivity, cloud and AI services, including Microsoft 365 Copilot at no cost for up to 12 months for millions of existing Microsoft G5 users, to help agencies rapidly adopt secure and compliant advanced AI tools that will enhance...",
-      "attachments": [
-        {
-          "url": "https://blogs.microsoft.com/wp-content/uploads/2025/09/New-GSA-Hero-Final_8_27-1024x768.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "satya-nadella"
       ]
     },
     {

@@ -5,6 +5,81 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sciencedaily-top.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250916032210.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250916032210.htm",
+      "title": "Strange ‘leopard spots’ in a Mars rock could be the strongest hint of life yet",
+      "content_text": "NASA’s Perseverance rover has delivered its most compelling clue yet in the search for life on Mars. A rock sample called “Sapphire Canyon,” taken from the Bright Angel formation in Jezero Crater, shows unusual mineral patterns known as “leopard spots” that may have formed through microbial activity. While non-biological processes could also explain the find, scientists say the chemical fingerprints look strikingly similar to those left behind by microbes on Earth.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/perseverances-selfie-with-cheyava-falls.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250915205900.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250915205900.htm",
+      "title": "Hubble just revealed the fiery heart of the Cigar Galaxy",
+      "content_text": "Behind the dusty clouds of the Cigar Galaxy lies a dazzling powerhouse of star formation, where stars are being born ten times faster than in the Milky Way. Astronomers using the Hubble Space Telescope have uncovered massive super star clusters in its core, each glowing with hundreds of thousands of stars and shining brighter than typical clusters. These observations reveal not only the galaxy’s extraordinary pace of star creation but also provide a rare look into how such enormous clusters develop and evolve.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/m82-and-smoldering-heart.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250915202834.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250915202834.htm",
+      "title": "Stress measured in hair could predict depression and anxiety in children",
+      "content_text": "Researchers from the University of Waterloo discovered that measuring long-term stress through children’s hair samples can reveal early signs of mental health risks in those living with chronic physical illnesses. Children with persistently high cortisol were more likely to struggle with anxiety, depression, and behavioral challenges, while those whose stress markers declined showed fewer problems.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/daughter-cuddling-mother-anxiety-comfort.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250915202831.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250915202831.htm",
+      "title": "Scientists just found the “master switch” for plant growth",
+      "content_text": "Scientists at Cold Spring Harbor Laboratory have cracked open the secrets of plant stem cells, mapping key genetic regulators in maize and Arabidopsis. By using single-cell RNA sequencing, they created a gene expression atlas that identifies rare stem cell regulators, links them to crop size and productivity, and offers a new roadmap for breeding resilient, high-yield plants.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/maize-stem-cells.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250915202828.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250915202828.htm",
+      "title": "A volcano erased an island’s plants. Their DNA revealed how life starts over",
+      "content_text": "Volcanic eruptions on the remote island of Nishinoshima repeatedly wipe the land clean, giving scientists a rare chance to study life’s earliest stages. Researchers traced the genetic origins of an extinct purslane population to nearby Chichijima but found striking quirks—evidence of a founder’s effect and genetic drift. These discoveries shed light on how plants recolonize harsh environments and how ecosystems evolve from scratch.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/volcano-erupting-at-night-lava-flow.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/09/250915085344.htm",
       "url": "https://www.sciencedaily.com/releases/2025/09/250915085344.htm",
       "title": "Scientists are closing in on Leonardo da Vinci’s DNA",
@@ -222,81 +297,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/electrosynthesized-chiral-ferromagnetic-nanohelix.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250913232932.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250913232932.htm",
-      "title": "Physicists just found a way to make “something from nothing”",
-      "content_text": "Researchers at UBC have found a way to mimic the elusive Schwinger effect using superfluid helium, where vortex pairs appear out of thin films instead of electron-positron pairs in a vacuum. Their work not only offers a cosmic laboratory for otherwise unreachable phenomena, but also changes the way scientists understand vortices, superfluids, and even quantum tunneling.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/quantum-vortices.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250913232929.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250913232929.htm",
-      "title": "Was mars once warm, wet, and ready for life",
-      "content_text": "Billions of years ago, Mars may not have been the frozen desert we see today. New simulations suggest that volcanic eruptions pumped out reactive sulfur gases, creating greenhouse effects strong enough to trap warmth and possibly liquid water. This strange sulfur-rich chemistry might have made the planet more Earth-like, even supporting microbial life in hydrothermal-style environments.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/sulfur-on-mars.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250913232927.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250913232927.htm",
-      "title": "NASA&apos;s Webb Space Telescope just found strange red dots that shouldn’t exist",
-      "content_text": "Astronomers using the James Webb Space Telescope have uncovered mysterious “little red dots” that may not be galaxies at all, but a whole new type of object: black hole stars. These fiery spheres, powered by ravenous black holes at their core, could explain how supermassive black holes in today’s galaxies were born. With discoveries like “The Cliff,” a massive red dot cloaked in hydrogen gas, scientists are beginning to rethink how the early universe formed—and hinting at stranger cosmic surprises still waiting to be revealed.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/black-hole-star.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250913232924.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250913232924.htm",
-      "title": "Sleepless nights may raise dementia risk by 40%, Mayo Clinic reveals",
-      "content_text": "Chronic insomnia may do more than leave you groggy, it could speed up brain aging. A large Mayo Clinic study found that people with long-term sleep troubles were 40% more likely to develop dementia or cognitive impairment, with brain scans showing changes linked to Alzheimer’s. Those reporting reduced sleep showed declines comparable to being four years older, while certain genetic risk carriers saw even steeper drops.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/brain-missing-puzzle-pieces-degenerative-diseases.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250913232921.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250913232921.htm",
-      "title": "AI can now predict who will go blind, years before doctors can",
-      "content_text": "Researchers trained AI on tens of thousands of eye scans, enabling doctors to predict which keratoconus patients need early treatment and which can be safely monitored, cutting down on unnecessary procedures while preventing vision loss.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/smart-vision.webp",
           "mime_type": "image/webp"
         }
       ],

@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/satya-nadella.json",
   "items": [
     {
+      "id": "https://blogs.microsoft.com/blog/2025/09/16/microsoft-leads-shift-beyond-data-unification-to-organization-delivering-next-gen-ai-readiness-with-new-microsoft-fabric-capabilities/",
+      "url": "https://blogs.microsoft.com/blog/2025/09/16/microsoft-leads-shift-beyond-data-unification-to-organization-delivering-next-gen-ai-readiness-with-new-microsoft-fabric-capabilities/",
+      "title": "Microsoft leads shift beyond data unification to organization, delivering next-gen AI readiness with new Microsoft Fabric capabilities - The Official Microsoft Blog",
+      "content_text": "We’re in a hinge moment for AI. The experiments are over and the real work has begun. Centralizing data, once the finish line, is now the starting point. The definition of “AI readiness” is evolving as increasingly sophisticated agents demand rich, contextualized data grounded in business operations to deliver meaningful results. What sets leaders apart...",
+      "attachments": [
+        {
+          "url": "https://blogs.microsoft.com/wp-content/uploads/2025/09/FabCon-Hero-9_15_25-1024x682.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "satya-nadella"
+      ]
+    },
+    {
       "id": "https://blogs.microsoft.com/blog/2025/09/11/a-joint-statement-from-microsoft-and-openai/",
       "url": "https://blogs.microsoft.com/blog/2025/09/11/a-joint-statement-from-microsoft-and-openai/",
       "title": "A joint statement from Microsoft and OpenAI - The Official Microsoft Blog",
@@ -29,13 +44,13 @@
       ]
     },
     {
-      "id": "https://blogs.microsoft.com/blog/2025/09/02/accelerating-ai-adoption-for-the-us-government/",
-      "url": "https://blogs.microsoft.com/blog/2025/09/02/accelerating-ai-adoption-for-the-us-government/",
-      "title": "Accelerating AI adoption for the US government - The Official Microsoft Blog",
-      "content_text": "Today, Microsoft and the US General Services Administration (GSA) announced a comprehensive agreement to bring a suite of productivity, cloud and AI services, including Microsoft 365 Copilot at no cost for up to 12 months for millions of existing Microsoft G5 users, to help agencies rapidly adopt secure and compliant advanced AI tools that will enhance...",
+      "id": "https://blogs.microsoft.com/blog/author/jessiahawk/",
+      "url": "https://blogs.microsoft.com/blog/author/jessiahawk/",
+      "title": "Jessica Hawk, Author at The Official Microsoft Blog",
+      "content_text": "Sep 16, 2025 | Jessica Hawk - Corporate Vice President, Data, AI, and Digital Applications, Product Marketing",
       "attachments": [
         {
-          "url": "https://blogs.microsoft.com/wp-content/uploads/2025/09/New-GSA-Hero-Final_8_27-1024x768.jpg",
+          "url": "https://secure.gravatar.com/avatar/c4a2ecbcaff8e9904e6df808728f6397?s=500&d=mm&r=g",
           "mime_type": "image/jpeg"
         }
       ],
@@ -66,21 +81,6 @@
       "attachments": [
         {
           "url": "https://secure.gravatar.com/avatar/4aa99835bbf5d7ba58fbb02a26143996?s=500&d=mm&r=g",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "satya-nadella"
-      ]
-    },
-    {
-      "id": "https://blogs.microsoft.com/blog/author/cbarry/",
-      "url": "https://blogs.microsoft.com/blog/author/cbarry/",
-      "title": "Chris Barry, Author at The Official Microsoft Blog",
-      "content_text": "Sep 2, 2025 | Chris Barry - CVP for US Public Sector Industries",
-      "attachments": [
-        {
-          "url": "https://secure.gravatar.com/avatar/dd36850cc430dbe0be04315ce2087d40?s=500&d=mm&r=g",
           "mime_type": "image/jpeg"
         }
       ],
