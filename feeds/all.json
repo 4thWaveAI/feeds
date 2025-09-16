@@ -258,21 +258,6 @@
       ]
     },
     {
-      "id": "https://www.edsurge.com/news/2025-09-08-jelly-beans-for-grapes-how-ai-can-erode-students-creativity",
-      "url": "https://www.edsurge.com/news/2025-09-08-jelly-beans-for-grapes-how-ai-can-erode-students-creativity",
-      "title": "Jelly Beans for Grapes: How AI Can Erode Students’ Creativity - EdSurge News",
-      "content_text": "High school teacher Tom Moore reminds young writers that an AI-generated essay rings false because it can’t replace the traits that drive human ...",
-      "attachments": [
-        {
-          "url": "https://edsurge.imgix.net/uploads/post/image/16435/shutterstock_1865277133-1757102981.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "young-talons-edu-tech"
-      ]
-    },
-    {
       "id": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputer-live/",
       "url": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputer-live/",
       "title": "Now Live: Europe’s First Exascale Supercomputer, JUPITER, Accelerates Climate Research, Neuroscience, Quantum Simulation",
@@ -910,6 +895,21 @@
         {
           "url": "https://deepmind.google/api/blob/website/media/Code-Evolution-Illustration_compressed_iUJETbv.mp4",
           "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/",
+      "url": "https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/",
+      "title": "AI achieves silver-medal standard solving International Mathematical Olympiad problems",
+      "content_text": "Breakthrough models AlphaProof and AlphaGeometry 2 solve advanced reasoning problems in mathematics",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/2A21eFt7wdDrmMzzkenrCTuioLWGFdzU5Ao5dPH9yPtAw6QNHxZcDmoQA2_ZriU2gMjX8mzEOtfPbMCRuL5kVzLoz6efLgqT_foBXU3pxKBXTTOXXpc=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
