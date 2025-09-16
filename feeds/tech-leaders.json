@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.json",
   "items": [
     {
+      "id": "https://blogs.nvidia.com/blog/uk-partner-ecosystem-ai-makers/",
+      "url": "https://blogs.nvidia.com/blog/uk-partner-ecosystem-ai-makers/",
+      "title": "The AI Makers: NVIDIA Partners in UK Advance Physical and Agentic AI, Robotics, Life Sciences and More",
+      "content_text": "During NVIDIA founder and CEO Jensen Huang’s visit to the U.K. this week, NVIDIA highlighted how it is working with a broad ecosystem of AI makers across the nation on applications in physical and agentic AI, robotics and healthcare.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/uk-ecosystem-featured-1280x680-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
       "id": "https://blogs.microsoft.com/blog/2025/09/16/microsoft-leads-shift-beyond-data-unification-to-organization-delivering-next-gen-ai-readiness-with-new-microsoft-fabric-capabilities/",
       "url": "https://blogs.microsoft.com/blog/2025/09/16/microsoft-leads-shift-beyond-data-unification-to-organization-delivering-next-gen-ai-readiness-with-new-microsoft-fabric-capabilities/",
       "title": "Microsoft leads shift beyond data unification to organization, delivering next-gen AI readiness with new Microsoft Fabric capabilities - The Official Microsoft Blog",
@@ -82,21 +97,6 @@
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/inference-corp-blog-ai-factory-1280x680-1.png",
           "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "jensen-huang"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputer-live/",
-      "url": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputer-live/",
-      "title": "Now Live: Europe’s First Exascale Supercomputer, JUPITER, Accelerates Climate Research, Neuroscience, Quantum Simulation",
-      "content_text": "At JUPITER’s inauguration ceremony in Jülich, attended by Germany Chancellor Friedrich Merz, the Jülich Supercomputing Centre and NVIDIA unveiled ways the supercomputer is already spurring innovation across the world.",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/jupiter-featured-still-1280x680-1.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -292,6 +292,21 @@
       ]
     },
     {
+      "id": "https://nvidianews.nvidia.com/news/nvidia-and-united-kingdom-build-nations-ai-infrastructure-and-ecosystem-to-fuel-innovation-economic-growth-and-jobs",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-united-kingdom-build-nations-ai-infrastructure-and-ecosystem-to-fuel-innovation-economic-growth-and-jobs",
+      "title": "NVIDIA and United Kingdom Build Nation’s AI Infrastructure and Ecosystem to Fuel Innovation, Economic Growth and Jobs",
+      "content_text": "NVIDIA today announced that it is investing in accelerating the AI industrial revolution in the United Kingdom, working with partners including CoreWeave, Microsoft and Nscale to build the nation’s next generation of AI infrastructure.",
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/20258/68c9c4723d6332b53638ac60_uk-ai-infrastructure/uk-ai-infrastructure_47de3ab3-2006-4b02-8300-a57b40c8e7a4-prv.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
       "id": "https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference",
       "url": "https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference",
       "title": "NVIDIA Unveils Rubin CPX: A New Class of GPU Designed for Massive-Context Inference",
@@ -322,25 +337,10 @@
       ]
     },
     {
-      "id": "https://nvidianews.nvidia.com/news/industry-leaders-transform-enterprise-data-centers-for-the-ai-era-with-nvidia-rtx-pro-servers",
-      "url": "https://nvidianews.nvidia.com/news/industry-leaders-transform-enterprise-data-centers-for-the-ai-era-with-nvidia-rtx-pro-servers",
-      "title": "Industry Leaders Transform Enterprise Data Centers for the AI Era With NVIDIA RTX PRO Servers",
-      "content_text": "NVIDIA today announced leading global enterprises have adopted NVIDIA RTX PRO™ Servers — a new category of enterprise data center infrastructure powered by the RTX PRO 6000 Blackwell Server Edition GPU — speeding the shift from general-purpose computing clusters to AI factory infrastructure, without a complete data center overhaul.",
-      "attachments": [
-        {
-          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/20257/68ad415c3d633261f20e40d9_rtx-pro-server/rtx-pro-server_18334441-96e9-4b09-9f8c-f52aa4c23936-prv.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "jensen-huang"
-      ]
-    },
-    {
       "id": "https://blogs.nvidia.com/blog/category/generative-ai/",
       "url": "https://blogs.nvidia.com/blog/category/generative-ai/",
       "title": "Generative AI Archives",
-      "content_text": "Celtic languages — including Cornish, Irish, Scottish Gaelic and Welsh — are the U.K.’s oldest living languages. To… Read Article",
+      "content_text": "The U.K. is driving investments in sovereign AI, using the technology to advance industries like manufacturing, life sciences… Read Article",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
@@ -370,7 +370,7 @@
       "id": "https://blogs.nvidia.com/blog/category/enterprise/",
       "url": "https://blogs.nvidia.com/blog/category/enterprise/",
       "title": "Data Center Archives",
-      "content_text": "Celtic languages — including Cornish, Irish, Scottish Gaelic and Welsh — are the U.K.’s oldest living languages. To… Read Article",
+      "content_text": "The U.K. is driving investments in sovereign AI, using the technology to advance industries like manufacturing, life sciences… Read Article",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
@@ -723,7 +723,7 @@
       "content_text": "Meet Taiki Hamamoto, Marina Lee, Luciana Ortiz Nolasco, and Nahom Worku, four winners of Apple’s 2025 Swift Student Challenge.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281642=",
+          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281742=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -738,7 +738,7 @@
       "content_text": "From a horror-comedy in Tamil to a magical romance in Malayalam, MAMI Select filmmakers are redefining cinema with iPhone 16 Pro Max.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/tile/Apple-MAMI-Select-iPhone-16-Pro-Max-hero-lp.jpg.og.jpg?202508281639=",
+          "url": "https://www.apple.com/newsroom/images/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/tile/Apple-MAMI-Select-iPhone-16-Pro-Max-hero-lp.jpg.og.jpg?202508281729=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -753,7 +753,7 @@
       "content_text": "Captured on iPhone 16 Pro Max, a recent shoot by photographer Karston Tannis showcased the vibrancy of the African diaspora.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/02/capturing-paradise-karston-tannis-re-creates-island-vibes-with-iphone-16-pro-max/tile/Apple-Tannis-shot-on-iPhone-16-Pro-Max-group-shot-lp.jpg.og.jpg?202508281745=",
+          "url": "https://www.apple.com/newsroom/images/2025/02/capturing-paradise-karston-tannis-re-creates-island-vibes-with-iphone-16-pro-max/tile/Apple-Tannis-shot-on-iPhone-16-Pro-Max-group-shot-lp.jpg.og.jpg?202508281648=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -798,7 +798,7 @@
       "content_text": "Discover more stories from Apple Newsroom that showcase the creators, developers, and innovators leaving the world better than they found it.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758027796557=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758027906666=",
           "mime_type": "image/jpeg"
         }
       ],
