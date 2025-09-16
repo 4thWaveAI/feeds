@@ -35,13 +35,13 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/retail/wicked-movie-tickets-prime-fandango",
-      "url": "https://www.aboutamazon.com/news/retail/wicked-movie-tickets-prime-fandango",
-      "title": "Prime members can get early ticket access for 'Wicked' on Fandango—here's how to buy them now",
-      "content_text": "Fans of the highly anticipated film adaptation, starring Ariana Grande and Cynthia Erivo, can get in on the fun four days before its official release.",
+      "id": "https://www.aboutamazon.com/news/innovation-at-amazon/project-kuiper-satellite-rocket-launch-progress-updates",
+      "url": "https://www.aboutamazon.com/news/innovation-at-amazon/project-kuiper-satellite-rocket-launch-progress-updates",
+      "title": "Kuiper mission updates: Kuiper constellation grows to more than 100 satellites",
+      "content_text": "Follow along for updates as Project Kuiper launches more than 80 missions to deploy our initial low Earth orbit satellite internet constellation.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/1ecbeb7/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F30%2F00%2Ff581e2bc472ea87beb0aaa48e8a5%2Fhero-2.jpg",
+          "url": "https://assets.aboutamazon.com/dims4/default/65e47f3/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F12%2Ff8%2Ffc8be3994e2e9da5f510adf93f54%2Fabout-amazon-hero-inline010-aa-kuiper-amazon-liftoff-atlas-v-kuiper-1-54484120534-o-copy-3257x1833-1.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -192,6 +192,21 @@
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/innovation-at-amazon",
+      "url": "https://www.aboutamazon.com/news/innovation-at-amazon",
+      "title": "Innovation at Amazon",
+      "content_text": "Amazon is a company of builders. It's our job to make bold bets, and we get our energy from inventing on behalf of customers.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/4452c77/2147483647/strip/true/crop/2000x1000+0+167/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F38%2Fb6%2F949fea4a4420b67b004314a888de%2Finnovation.jpg",
           "mime_type": "image/jpeg"
         }
       ],
