@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
+      "id": "https://phys.org/news/2025-09-mxene-electrode-material-seawater-corrosion.html",
+      "url": "https://phys.org/news/2025-09-mxene-electrode-material-seawater-corrosion.html",
+      "title": "MXene electrode material withstands seawater corrosion in hydrogen production",
+      "content_text": "A research team has developed a composite catalyst using the novel material MXene that suppresses the generation of chloride ions—one of the key challenges in seawater electrolysis. This research outcome is expected to accelerate the practical application of seawater electrolysis technology by enabling stable hydrogen production even in seawater.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2025/high-performance-elect.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://phys.org/news/2025-09-proximity-screening-graphene-electronic-quality.html",
       "url": "https://phys.org/news/2025-09-proximity-screening-graphene-electronic-quality.html",
       "title": "Proximity screening pushes graphene electronic quality to record levels",
@@ -166,21 +181,6 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/a-new-way-to-prevent-i.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-silicon-nanowires-macroscopic-networks-advanced.html",
-      "url": "https://phys.org/news/2025-09-silicon-nanowires-macroscopic-networks-advanced.html",
-      "title": "Silicon nanowires self-assemble into macroscopic networks for advanced materials",
-      "content_text": "Researchers at IMDEA Materials Institute have developed a pioneering method to assemble silicon nanowires into ordered, macroscopic networks: a key step toward expanding their industrial applications.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/researchers-achieve-co.jpg",
           "mime_type": "image/jpeg"
         }
       ],
