@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
+      "id": "https://www.aboutamazon.com/news/entertainment/the-masters-stream-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/the-masters-stream-prime-video",
+      "title": "Prime Video adds the Masters to its live sports slate for 2026",
+      "content_text": "Two additional hours of the first and second rounds of the 2026 Masters Tournament will be streamed on Prime Video.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/70aeccb/2147483647/strip/true/crop/1921x961+0+60/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fbe%2Fcb%2Fbf1c9bde48138fd62fa920232762%2Fmasters-onprime-final-16x9.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/entertainment/allen-iverson-documentary-prime-video",
       "url": "https://www.aboutamazon.com/news/entertainment/allen-iverson-documentary-prime-video",
       "title": "How to watch the Allen Iverson documentary series on Prime Video",
@@ -734,21 +749,6 @@
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/8756161/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F0b%2Feb%2F35485c2f4c629fcc3568ec79102e%2Fabout-amazon-inline-aa-pbdd25-everythingtoknow-standard-hero-v5-2000x1125.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/retail/amazon-prime-free-trial",
-      "url": "https://www.aboutamazon.com/news/retail/amazon-prime-free-trial",
-      "title": "How to sign up for a free trial of Prime before Prime Big Deal Days 2025",
-      "content_text": "Prime is packed with tons of great benefits—and you can start enjoying them for free today and ahead of Prime Big Deal Days this October.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/0fbc10d/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fd1%2Fca%2F93ed2147445ea7806166ce14883c%2Faa-feb2025-freeshippingwithoutprime-standard-hero-v2-2000x1125.jpg",
           "mime_type": "image/jpeg"
         }
       ],
