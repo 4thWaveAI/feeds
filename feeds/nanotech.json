@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
+      "id": "https://phys.org/news/2025-09-proximity-screening-graphene-electronic-quality.html",
+      "url": "https://phys.org/news/2025-09-proximity-screening-graphene-electronic-quality.html",
+      "title": "Proximity screening pushes graphene electronic quality to record levels",
+      "content_text": "In a new Nature study, researchers at the University of Manchester have achieved unprecedented electronic quality in graphene by developing a proximity screening technique that places conducting gates just one nanometer away from the carbon lattice.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/proximity-screening-pu-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://phys.org/news/2025-09-scientists-nanoplastics-disrupt-brain-energy.html",
       "url": "https://phys.org/news/2025-09-scientists-nanoplastics-disrupt-brain-energy.html",
       "title": "Scientists discover how nanoplastics disrupt brain energy metabolism",
@@ -166,21 +181,6 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/researchers-achieve-co.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-sponge-gold-nanoparticles-ovarian-cancer.html",
-      "url": "https://phys.org/news/2025-09-sponge-gold-nanoparticles-ovarian-cancer.html",
-      "title": "Sponge-like gold nanoparticles could upgrade ovarian cancer diagnostics",
-      "content_text": "A project led by University of Queensland Ph.D. student Javeria Bashir has produced specially crafted gold nanoparticles that can highlight cancer markers in samples like urine, saliva, or blood. Bashir said she hoped to use her gold nanoparticles to help improve survival rates for a cancer that is considered particularly deadly.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/sponge-like-gold-parti.jpg",
           "mime_type": "image/jpeg"
         }
       ],
