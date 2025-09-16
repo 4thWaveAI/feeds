@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/robotics.atom.xml"/>
   <id>urn:4thwaveai-feeds:robotics</id>
-  <updated>Tue, 16 Sep 2025 11:41:24 +0000</updated>
+  <updated>Tue, 16 Sep 2025 13:22:37 +0000</updated>
   <entry>
     <title>Ask a Roboticist: Q&amp;A with Josh | Boston Dynamics</title>
     <link href="https://bostondynamics.com/blog/ask-a-roboticist-qa-with-josh-a-mechanical-engineer-at-boston-dynamics/"/>
@@ -102,6 +102,12 @@
     <summary type="text">Introducing BotQ, Figure’s new high-volume manufacturing facility for humanoid robots.</summary>
   </entry>
   <entry>
+    <title>Figure Exceeds $1B in Series C Funding at $39B Post-Money Valuation</title>
+    <link href="https://www.figure.ai/news/series-c"/>
+    <id>https://www.figure.ai/news/series-c</id>
+    <summary type="text">Figure Exceeds $1B in Series C Funding at $39B Post-Money Valuation</summary>
+  </entry>
+  <entry>
     <title>Helix Learns to Fold Laundry</title>
     <link href="https://www.figure.ai/news/helix-learns-to-fold-laundry"/>
     <id>https://www.figure.ai/news/helix-learns-to-fold-laundry</id>
@@ -124,12 +130,6 @@
     <link href="https://www.figure.ai/news/helix-logistics"/>
     <id>https://www.figure.ai/news/helix-logistics</id>
     <summary type="text">Figure is introducing a new real-world application for Figure robots on the back of advancements from Helix: logistics package manipulation and triaging.</summary>
-  </entry>
-  <entry>
-    <title>Helix: A Vision-Language-Action Model for Generalist Humanoid Control</title>
-    <link href="https://www.figure.ai/news/helix"/>
-    <id>https://www.figure.ai/news/helix</id>
-    <summary type="text">Figure was founded with the ambition to change the world.</summary>
   </entry>
   <entry>
     <title>News | Figure</title>

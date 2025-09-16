@@ -4,14 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.atom.xml"/>
   <id>urn:4thwaveai-feeds:videos</id>
-  <updated>Tue, 16 Sep 2025 11:43:09 +0000</updated>
-  <entry>
-    <title>How Prime members can get early tickets for &#x27;Wicked: For Good’ only on Fandango</title>
-    <link href="https://www.aboutamazon.com/news/retail/wicked-2-movie-tickets-prime"/>
-    <id>https://www.aboutamazon.com/news/retail/wicked-2-movie-tickets-prime</id>
-    <summary type="text">Prime members will be able to buy tickets to the early screening of ‘Wicked: For Good’ and see it four days before its theatrical release.</summary>
-    <updated>Tue, 16 Sep 2025 05:00:12 +0000</updated>
-  </entry>
+  <updated>Tue, 16 Sep 2025 13:24:47 +0000</updated>
   <entry>
     <title>Instagram Launches A Microdrama Series To Encourage Gen Z To Take Creative Chances</title>
     <link href="https://about.fb.com/news/2025/09/instagram-launches-a-microdrama-series-to-encourage-gen-z-to-take-creative-chances/"/>
@@ -81,6 +74,12 @@
     <summary type="text">Introducing BotQ, Figure’s new high-volume manufacturing facility for humanoid robots.</summary>
   </entry>
   <entry>
+    <title>Figure Exceeds $1B in Series C Funding at $39B Post-Money Valuation</title>
+    <link href="https://www.figure.ai/news/series-c"/>
+    <id>https://www.figure.ai/news/series-c</id>
+    <summary type="text">Figure Exceeds $1B in Series C Funding at $39B Post-Money Valuation</summary>
+  </entry>
+  <entry>
     <title>Helix Learns to Fold Laundry</title>
     <link href="https://www.figure.ai/news/helix-learns-to-fold-laundry"/>
     <id>https://www.figure.ai/news/helix-learns-to-fold-laundry</id>
@@ -103,12 +102,6 @@
     <link href="https://www.figure.ai/news/helix-logistics"/>
     <id>https://www.figure.ai/news/helix-logistics</id>
     <summary type="text">Figure is introducing a new real-world application for Figure robots on the back of advancements from Helix: logistics package manipulation and triaging.</summary>
-  </entry>
-  <entry>
-    <title>Helix: A Vision-Language-Action Model for Generalist Humanoid Control</title>
-    <link href="https://www.figure.ai/news/helix"/>
-    <id>https://www.figure.ai/news/helix</id>
-    <summary type="text">Figure was founded with the ambition to change the world.</summary>
   </entry>
   <entry>
     <title>News | Figure</title>

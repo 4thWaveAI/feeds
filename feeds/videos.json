@@ -5,25 +5,6 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.json",
   "items": [
     {
-      "id": "https://www.aboutamazon.com/news/retail/wicked-2-movie-tickets-prime",
-      "url": "https://www.aboutamazon.com/news/retail/wicked-2-movie-tickets-prime",
-      "title": "How Prime members can get early tickets for 'Wicked: For Good’ only on Fandango",
-      "content_text": "Prime members will be able to buy tickets to the early screening of ‘Wicked: For Good’ and see it four days before its theatrical release.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/ff676fc/2147483647/strip/true/crop/1280x640+0+40/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff6%2Fe3%2Fbae94e6a4547b8cd345ee4c73fd2%2Fwickedforgood-videostill-1280x720-v2.png",
-          "mime_type": "image/png"
-        },
-        {
-          "url": "https://www.youtube.com/embed/Aiorau16tVk",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
       "id": "https://about.fb.com/news/2025/09/instagram-launches-a-microdrama-series-to-encourage-gen-z-to-take-creative-chances/",
       "url": "https://about.fb.com/news/2025/09/instagram-launches-a-microdrama-series-to-encourage-gen-z-to-take-creative-chances/",
       "title": "Instagram Launches A Microdrama Series To Encourage Gen Z To Take Creative Chances",
@@ -233,6 +214,25 @@
       ]
     },
     {
+      "id": "https://www.figure.ai/news/series-c",
+      "url": "https://www.figure.ai/news/series-c",
+      "title": "Figure Exceeds $1B in Series C Funding at $39B Post-Money Valuation",
+      "content_text": "Figure Exceeds $1B in Series C Funding at $39B Post-Money Valuation",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/2uhpHCaRAaKhZHToZMGYG/5698321429f5fdb5204d59a1f1ad8780/Open_Graph_image__2_.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/72AaYjGofNKS4yhSkSzMRQ/0daaa5430cc21b9bc139a860345ccf5e/vidoe_cover_mobile_V2.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
       "id": "https://www.figure.ai/news/helix-learns-to-fold-laundry",
       "url": "https://www.figure.ai/news/helix-learns-to-fold-laundry",
       "title": "Helix Learns to Fold Laundry",
@@ -301,25 +301,6 @@
         },
         {
           "url": "https://videos.ctfassets.net/qx5k8y1u9drj/5pQm4wKRmo7ZpkDZxFIbVz/c01423068e6a2b4dc083585847dc6cb2/COVER_MOBILE_934x1434.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://www.figure.ai/news/helix",
-      "url": "https://www.figure.ai/news/helix",
-      "title": "Helix: A Vision-Language-Action Model for Generalist Humanoid Control",
-      "content_text": "Figure was founded with the ambition to change the world.",
-      "attachments": [
-        {
-          "url": "https://images.ctfassets.net/qx5k8y1u9drj/2xDhvXSGZwGCFFuUHCk25T/816c4c9ba639c4035e196dfb5ead4966/figure-ai-helix-page-image.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/38d2kcdQAkeUpkMImYglcG/b023108124e926c2ad408605615ae918/HERO_MOBILE_FINAL__1_.mp4",
           "mime_type": "video/mp4"
         }
       ],
