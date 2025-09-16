@@ -5,13 +5,13 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
-      "id": "https://phys.org/news/2025-09-wiggling-atoms-smaller-efficient-electronics.html",
-      "url": "https://phys.org/news/2025-09-wiggling-atoms-smaller-efficient-electronics.html",
-      "title": "'Wiggling' atoms may lead to smaller, more efficient electronics",
-      "content_text": "Researchers at Michigan State University have figured out how to use a fast laser to wiggle atoms in a way that temporarily changes the behavior of their host material. Their novel approach could lead to smaller and more efficient electronics—like smartphones—in the future.",
+      "id": "https://phys.org/news/2025-09-bioreactors-yield-extracellular-vesicles-medicine.html",
+      "url": "https://phys.org/news/2025-09-bioreactors-yield-extracellular-vesicles-medicine.html",
+      "title": "Spinning bioreactors increase yield of extracellular vesicles for more affordable targeted medicine",
+      "content_text": "Inside cells there are tiny particles, known as extracellular vesicles, that store and move molecules. Our cells naturally package beneficial proteins and healing compounds into these tiny bubbles, dispatching them to where they are needed to deliver molecular cargo or to communicate with other cells.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/wiggling-atoms-may-lea-1.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/2025/researchers-use-spinni.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -27,6 +27,21 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/proximity-screening-pu-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-wiggling-atoms-smaller-efficient-electronics.html",
+      "url": "https://phys.org/news/2025-09-wiggling-atoms-smaller-efficient-electronics.html",
+      "title": "'Wiggling' atoms may lead to smaller, more efficient electronics",
+      "content_text": "Researchers at Michigan State University have figured out how to use a fast laser to wiggle atoms in a way that temporarily changes the behavior of their host material. Their novel approach could lead to smaller and more efficient electronics—like smartphones—in the future.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/wiggling-atoms-may-lea-1.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -163,25 +178,6 @@
         {
           "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/metallic-nanocatalysts.jpg",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-cat-whiskers-highly-sensitive-generation.html",
-      "url": "https://phys.org/news/2025-09-cat-whiskers-highly-sensitive-generation.html",
-      "title": "Cat whiskers inspire highly sensitive, next-generation wearable pressure sensors",
-      "content_text": "Flexible pressure sensors can detect subtle mechanical stimuli, making them suitable for use in wearable sensors for human health monitoring and motion analysis. However, current sensors suffer from insufficient sensitivity, poor durability, and subpar stability. In a new study, taking inspiration from cat whiskers, researchers developed novel biomass fiber/sodium alginate aerogel (BFA)-based sensors that demonstrated excellent pressure sensitivity, durability, and rapid response, while being suitable for human physiological monitoring and motion analysis.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/highly-sensitive-next.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://scx2.b-cdn.net/gfx/video/2025/cat-whiskers-inspire-h.mp4",
-          "mime_type": "video/mp4"
         }
       ],
       "tags": [
