@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/jeff-bezos.json",
   "items": [
     {
+      "id": "https://www.aboutamazon.com/news/entertainment/allen-iverson-documentary-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/allen-iverson-documentary-prime-video",
+      "title": "How to watch the Allen Iverson documentary series on Prime Video",
+      "content_text": "'Allen Iv3rson' explores the life of NBA legend Allen Iverson, who revolutionized the culture of basketball.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/1ce660d/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fb3%2Fcd%2F86e4af814034b9ea42dec4f6296a%2Fabout-amazon-inline-ivun-s1-static16x9-teaser-3840x2160-evrgrn-pv-final-en-us-kaps-4596354.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/entertainment/watch-wicked-prime-video",
       "url": "https://www.aboutamazon.com/news/entertainment/watch-wicked-prime-video",
       "title": "‘Wicked’ is now streaming on Prime Video—here’s how to watch it",
@@ -35,6 +50,21 @@
       ]
     },
     {
+      "id": "https://www.aboutamazon.com/news/retail/amazon-prime-big-deal-days-faq",
+      "url": "https://www.aboutamazon.com/news/retail/amazon-prime-big-deal-days-faq",
+      "title": "Amazon Prime Big Deal Days 2025: Everything you need to know to get deals October 7-8",
+      "content_text": "Everything you need to know about Amazon Prime Big Deal Days 2025, including when it starts, when it ends, and how to get the best deals October 7-8.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/8756161/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F0b%2Feb%2F35485c2f4c629fcc3568ec79102e%2Fabout-amazon-inline-aa-pbdd25-everythingtoknow-standard-hero-v5-2000x1125.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/retail/amazon-prime-free-trial",
       "url": "https://www.aboutamazon.com/news/retail/amazon-prime-free-trial",
       "title": "How to sign up for a free trial of Prime before Prime Big Deal Days 2025",
@@ -42,36 +72,6 @@
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/0fbc10d/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fd1%2Fca%2F93ed2147445ea7806166ce14883c%2Faa-feb2025-freeshippingwithoutprime-standard-hero-v2-2000x1125.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/retail/how-to-find-amazon-lightning-deals",
-      "url": "https://www.aboutamazon.com/news/retail/how-to-find-amazon-lightning-deals",
-      "title": "What are Amazon Lightning Deals and how to find them",
-      "content_text": "Lightning Deals are limited-time promotions that offer big savings on some of your favorite brands and products.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/bf6eb6e/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fbf%2F07%2F22b66b934a2fa38117439fea63a9%2Faa-062025-pd-lightningdeals-standard-hero-v1-600kb-2000x1125.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/retail/prime-membership-cost-benefits",
-      "url": "https://www.aboutamazon.com/news/retail/prime-membership-cost-benefits",
-      "title": "Here’s how much a Prime membership costs, and how to make the most of its benefits in time for Prime Big Deal Days this October",
-      "content_text": "Amazon Prime makes your life more convenient, simple, and fun, while saving you money every single day and during events like Prime Big Deal Days.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/ebf0dae/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F45%2F9c%2F14ea4d214798863d8752e37f174c%2Ffree-delivery-inline.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -200,10 +200,10 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/retail",
-      "url": "https://www.aboutamazon.com/news/retail",
-      "title": "Retail",
-      "content_text": "More information about shopping on Amazon and our selection of products and services.",
+      "id": "https://www.aboutamazon.com/news/entertainment",
+      "url": "https://www.aboutamazon.com/news/entertainment",
+      "title": "Entertainment",
+      "content_text": "Stories about the latest apps and games, movies, TV shows, and music available from Amazon Prime Video, Amazon Music, and Kindle.",
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
@@ -215,10 +215,10 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/entertainment",
-      "url": "https://www.aboutamazon.com/news/entertainment",
-      "title": "Entertainment",
-      "content_text": "Stories about the latest apps and games, movies, TV shows, and music available from Amazon Prime Video, Amazon Music, and Kindle.",
+      "id": "https://www.aboutamazon.com/news/retail",
+      "url": "https://www.aboutamazon.com/news/retail",
+      "title": "Retail",
+      "content_text": "More information about shopping on Amazon and our selection of products and services.",
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
