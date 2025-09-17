@@ -20,21 +20,6 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-09-proximity-screening-graphene-electronic-quality.html",
-      "url": "https://phys.org/news/2025-09-proximity-screening-graphene-electronic-quality.html",
-      "title": "Proximity screening pushes graphene electronic quality to record levels",
-      "content_text": "In a new Nature study, researchers at the University of Manchester have achieved unprecedented electronic quality in graphene by developing a proximity screening technique that places conducting gates just one nanometer away from the carbon lattice.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/proximity-screening-pu-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
       "id": "https://phys.org/news/2025-09-wiggling-atoms-smaller-efficient-electronics.html",
       "url": "https://phys.org/news/2025-09-wiggling-atoms-smaller-efficient-electronics.html",
       "title": "'Wiggling' atoms may lead to smaller, more efficient electronics",
@@ -57,6 +42,21 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/2025/high-performance-elect.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-proximity-screening-graphene-electronic-quality.html",
+      "url": "https://phys.org/news/2025-09-proximity-screening-graphene-electronic-quality.html",
+      "title": "Proximity screening pushes graphene electronic quality to record levels",
+      "content_text": "In a new Nature study, researchers at the University of Manchester have achieved unprecedented electronic quality in graphene by developing a proximity screening technique that places conducting gates just one nanometer away from the carbon lattice.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/proximity-screening-pu-1.jpg",
           "mime_type": "image/jpeg"
         }
       ],
