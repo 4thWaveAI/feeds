@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai</id>
-  <updated>Wed, 17 Sep 2025 22:41:27 +0000</updated>
+  <updated>Wed, 17 Sep 2025 23:28:29 +0000</updated>
   <entry>
     <title>The AI Makers: NVIDIA Partners in UK Advance Physical and Agentic AI, Robotics, Life Sciences and More</title>
     <link href="https://blogs.nvidia.com/blog/uk-partner-ecosystem-ai-makers/"/>
@@ -130,13 +130,6 @@
     <id>https://www.palladyneai.com/blog/physical-ai-embracing-ais-moment-in-robotics/</id>
     <summary type="text">The rise of physical AI is having its breakthrough moment, like ChatGPT did in language processing in 2022. Read more.</summary>
     <updated>Tue, 18 Mar 2025 13:40:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>AlphaQubit tackles one of quantum computing’s biggest challenges</title>
-    <link href="https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/"/>
-    <id>https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/</id>
-    <summary type="text">AlphaQubit is an AI-based decoder that identifies quantum computing errors with state-of-the-art accuracy.</summary>
-    <updated>Wed, 20 Nov 2024 00:00:00 -0000</updated>
   </entry>
   <entry>
     <title>Blog</title>
@@ -384,5 +377,11 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <link href="https://www.microsoft.com/en-us/industry/blog/government/"/>
     <id>https://www.microsoft.com/en-us/industry/blog/government/</id>
     <summary type="text">Read the latest news and posts about Government from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
+  </entry>
+  <entry>
+    <title>Healthcare - Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/healthcare/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/healthcare/</id>
+    <summary type="text">Read the latest news and posts about Healthcare from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
   </entry>
 </feed>

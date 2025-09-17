@@ -275,21 +275,6 @@
       ]
     },
     {
-      "id": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
-      "url": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
-      "title": "AlphaQubit tackles one of quantum computing’s biggest challenges",
-      "content_text": "AlphaQubit is an AI-based decoder that identifies quantum computing errors with state-of-the-art accuracy.",
-      "attachments": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Share_Image_-_1920_x_1080.width-1300.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "https://deepmind.google/discover/blog/",
       "url": "https://deepmind.google/discover/blog/",
       "title": "Blog",
@@ -918,6 +903,21 @@
       "url": "https://www.microsoft.com/en-us/industry/blog/government/",
       "title": "Government - Microsoft Industry Blogs",
       "content_text": "Read the latest news and posts about Government from Microsoft's team of experts at Microsoft Industry Blogs.",
+      "attachments": [
+        {
+          "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2019/01/cropped-microsoft_logo_element.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://www.microsoft.com/en-us/industry/blog/healthcare/",
+      "url": "https://www.microsoft.com/en-us/industry/blog/healthcare/",
+      "title": "Healthcare - Microsoft Industry Blogs",
+      "content_text": "Read the latest news and posts about Healthcare from Microsoft's team of experts at Microsoft Industry Blogs.",
       "attachments": [
         {
           "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2019/01/cropped-microsoft_logo_element.png",
