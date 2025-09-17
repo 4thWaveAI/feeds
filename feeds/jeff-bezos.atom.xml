@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/jeff-bezos.atom.xml"/>
   <id>urn:4thwaveai-feeds:jeff-bezos</id>
-  <updated>Wed, 17 Sep 2025 13:50:18 +0000</updated>
+  <updated>Wed, 17 Sep 2025 14:41:11 +0000</updated>
   <entry>
     <title>Amazon introduces agentic AI across the seller experience, transforming how sellers manage their businesses</title>
     <link href="https://www.aboutamazon.com/news/innovation-at-amazon/seller-assistant-agentic-ai"/>
@@ -27,18 +27,18 @@
     <updated>Wed, 17 Sep 2025 12:00:27 +0000</updated>
   </entry>
   <entry>
-    <title>Amazon is investing over $1 billion to raise pay and lower health care costs for U.S. fulfillment and transportation employees</title>
+    <title>Amazon is investing over $1 billion to raise pay and lower health care costs for US fulfillment and transportation employees</title>
     <link href="https://www.aboutamazon.com/news/workplace/amazon-wage-increase-2025-fulfillment-transportation-employees"/>
     <id>https://www.aboutamazon.com/news/workplace/amazon-wage-increase-2025-fulfillment-transportation-employees</id>
     <summary type="text">Average total compensation is now over $30 per hour when you include elected benefits.</summary>
     <updated>Wed, 17 Sep 2025 12:00:03 +0000</updated>
   </entry>
   <entry>
-    <title>Amazon in the community: Service, community, and commitment at HQ2</title>
-    <link href="https://www.aboutamazon.com/news/community/amazon-arlington-virginia-news"/>
-    <id>https://www.aboutamazon.com/news/community/amazon-arlington-virginia-news</id>
-    <summary type="text">Learn how we invest in the community, help power the local economy, and support our employees in Arlington, Virginia.</summary>
-    <updated>Tue, 16 Sep 2025 22:07:00 +0000</updated>
+    <title>&#x27;Helluva Boss&#x27; is on Prime Video. Here&#x27;s how to watch it.</title>
+    <link href="https://www.aboutamazon.com/news/entertainment/helluva-boss-prime-video"/>
+    <id>https://www.aboutamazon.com/news/entertainment/helluva-boss-prime-video</id>
+    <summary type="text">All 20 episodes of the hit animated show are available to stream on Prime Video.</summary>
+    <updated>Tue, 19 Aug 2025 21:30:22 +0000</updated>
   </entry>
   <entry>
     <title>Submit a Media Inquiry | Blue Origin</title>
@@ -89,6 +89,12 @@
     <summary type="text">186 results - showing results 1 - 12</summary>
   </entry>
   <entry>
+    <title>Entertainment</title>
+    <link href="https://www.aboutamazon.com/news/entertainment"/>
+    <id>https://www.aboutamazon.com/news/entertainment</id>
+    <summary type="text">Stories about the latest apps and games, movies, TV shows, and music available from Amazon Prime Video, Amazon Music, and Kindle.</summary>
+  </entry>
+  <entry>
     <title>Innovation at Amazon</title>
     <link href="https://www.aboutamazon.com/news/innovation-at-amazon"/>
     <id>https://www.aboutamazon.com/news/innovation-at-amazon</id>
@@ -111,11 +117,5 @@
     <link href="https://www.aboutamazon.com/news/community"/>
     <id>https://www.aboutamazon.com/news/community</id>
     <summary type="text">We look for uniquely Amazonian and innovative ways to make positive, lasting impacts and encourage our employees to champion causes they care about.</summary>
-  </entry>
-  <entry>
-    <title>Entertainment</title>
-    <link href="https://www.aboutamazon.com/news/entertainment"/>
-    <id>https://www.aboutamazon.com/news/entertainment</id>
-    <summary type="text">Stories about the latest apps and games, movies, TV shows, and music available from Amazon Prime Video, Amazon Music, and Kindle.</summary>
   </entry>
 </feed>
