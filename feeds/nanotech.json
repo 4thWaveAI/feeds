@@ -5,6 +5,36 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
+      "id": "https://phys.org/news/2025-09-scalable-strategy-high-quality-black.html",
+      "url": "https://phys.org/news/2025-09-scalable-strategy-high-quality-black.html",
+      "title": "Scalable strategy produces high-quality black phosphorus nanoribbons for electronics",
+      "content_text": "Black phosphorus nanoribbons (BPNRs), thin and narrow ribbon-like strips of black phosphorus, are known to exhibit highly advantageous electronic properties, including a tunable bandgap. This essentially means that the energy difference between the region where electrons are bound together (i.e., valence band) and that where electrons move freely (i.e., conduction band) can be easily controlled by adjusting the width of the nanoribbons.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2025/a-scalable-approach-to-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-nanoscale-optical-device-enables-independent.html",
+      "url": "https://phys.org/news/2025-09-nanoscale-optical-device-enables-independent.html",
+      "title": "Nanoscale optical device enables independent control of light intensity and phase using electricity",
+      "content_text": "A nanoscale optical device has been developed that allows independent control over the intensity and phase of light. By applying voltage, this innovative device can freely manipulate the phase and magnitude of second-harmonic (SH) light, opening new avenues for advanced quantum communication and information processing technologies. The research is published in Science Advances.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/nanoscale-optical-devi.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://phys.org/news/2025-09-bioreactors-yield-extracellular-vesicles-medicine.html",
       "url": "https://phys.org/news/2025-09-bioreactors-yield-extracellular-vesicles-medicine.html",
       "title": "Spinning bioreactors increase yield of extracellular vesicles for more affordable targeted medicine",
@@ -20,13 +50,13 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-09-wiggling-atoms-smaller-efficient-electronics.html",
-      "url": "https://phys.org/news/2025-09-wiggling-atoms-smaller-efficient-electronics.html",
-      "title": "'Wiggling' atoms may lead to smaller, more efficient electronics",
-      "content_text": "Researchers at Michigan State University have figured out how to use a fast laser to wiggle atoms in a way that temporarily changes the behavior of their host material. Their novel approach could lead to smaller and more efficient electronics—like smartphones—in the future.",
+      "id": "https://phys.org/news/2025-09-proximity-screening-graphene-electronic-quality.html",
+      "url": "https://phys.org/news/2025-09-proximity-screening-graphene-electronic-quality.html",
+      "title": "Proximity screening pushes graphene electronic quality to record levels",
+      "content_text": "In a new Nature study, researchers at the University of Manchester have achieved unprecedented electronic quality in graphene by developing a proximity screening technique that places conducting gates just one nanometer away from the carbon lattice.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/wiggling-atoms-may-lea-1.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/proximity-screening-pu-1.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -35,13 +65,13 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-09-proximity-screening-graphene-electronic-quality.html",
-      "url": "https://phys.org/news/2025-09-proximity-screening-graphene-electronic-quality.html",
-      "title": "Proximity screening pushes graphene electronic quality to record levels",
-      "content_text": "In a new Nature study, researchers at the University of Manchester have achieved unprecedented electronic quality in graphene by developing a proximity screening technique that places conducting gates just one nanometer away from the carbon lattice.",
+      "id": "https://phys.org/news/2025-09-wiggling-atoms-smaller-efficient-electronics.html",
+      "url": "https://phys.org/news/2025-09-wiggling-atoms-smaller-efficient-electronics.html",
+      "title": "'Wiggling' atoms may lead to smaller, more efficient electronics",
+      "content_text": "Researchers at Michigan State University have figured out how to use a fast laser to wiggle atoms in a way that temporarily changes the behavior of their host material. Their novel approach could lead to smaller and more efficient electronics—like smartphones—in the future.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/proximity-screening-pu-1.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/wiggling-atoms-may-lea-1.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -147,36 +177,6 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/metallic-nanocatalysts.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-scientists-hydrogel-platform-precision-drug.html",
-      "url": "https://phys.org/news/2025-09-scientists-hydrogel-platform-precision-drug.html",
-      "title": "Scientists develop hydrogel platform for long-lasting, precision drug delivery",
-      "content_text": "Taking medications on time, in the right dose and for the prescribed duration can be challenging for patients, and failure to do so comes with steep costs, causing 10% of hospitalizations and billions in avoidable spending in the United States alone, according to some estimates. A team of Rice University scientists has developed a new drug delivery platform that could make it easier to complete a therapeutic regimen and even boost drug efficacy.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/rice-scientists-develo-2.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-nanobots-play-leader-chemical-trails.html",
-      "url": "https://phys.org/news/2025-09-nanobots-play-leader-chemical-trails.html",
-      "title": "Nanobots play 'follow the leader' by chasing chemical trails in microfluidic device",
-      "content_text": "Researchers at Penn State demonstrate the first steps in the design of tiny particles that can perform specialized tasks, such as targeted delivery of drugs or other cargo.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/can-nanobots-play-foll-2.jpg",
           "mime_type": "image/jpeg"
         }
       ],

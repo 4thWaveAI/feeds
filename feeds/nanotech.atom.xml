@@ -4,7 +4,19 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.atom.xml"/>
   <id>urn:4thwaveai-feeds:nanotech</id>
-  <updated>Wed, 17 Sep 2025 15:35:59 +0000</updated>
+  <updated>Wed, 17 Sep 2025 16:45:33 +0000</updated>
+  <entry>
+    <title>Scalable strategy produces high-quality black phosphorus nanoribbons for electronics</title>
+    <link href="https://phys.org/news/2025-09-scalable-strategy-high-quality-black.html"/>
+    <id>https://phys.org/news/2025-09-scalable-strategy-high-quality-black.html</id>
+    <summary type="text">Black phosphorus nanoribbons (BPNRs), thin and narrow ribbon-like strips of black phosphorus, are known to exhibit highly advantageous electronic properties, including a tunable bandgap. This essentially means that the energy difference between the region where electrons are bound together (i.e., valence band) and that where electrons move freely (i.e., conduction band) can be easily controlled by adjusting the width of the nanoribbons.</summary>
+  </entry>
+  <entry>
+    <title>Nanoscale optical device enables independent control of light intensity and phase using electricity</title>
+    <link href="https://phys.org/news/2025-09-nanoscale-optical-device-enables-independent.html"/>
+    <id>https://phys.org/news/2025-09-nanoscale-optical-device-enables-independent.html</id>
+    <summary type="text">A nanoscale optical device has been developed that allows independent control over the intensity and phase of light. By applying voltage, this innovative device can freely manipulate the phase and magnitude of second-harmonic (SH) light, opening new avenues for advanced quantum communication and information processing technologies. The research is published in Science Advances.</summary>
+  </entry>
   <entry>
     <title>Spinning bioreactors increase yield of extracellular vesicles for more affordable targeted medicine</title>
     <link href="https://phys.org/news/2025-09-bioreactors-yield-extracellular-vesicles-medicine.html"/>
@@ -12,16 +24,16 @@
     <summary type="text">Inside cells there are tiny particles, known as extracellular vesicles, that store and move molecules. Our cells naturally package beneficial proteins and healing compounds into these tiny bubbles, dispatching them to where they are needed to deliver molecular cargo or to communicate with other cells.</summary>
   </entry>
   <entry>
-    <title>&#x27;Wiggling&#x27; atoms may lead to smaller, more efficient electronics</title>
-    <link href="https://phys.org/news/2025-09-wiggling-atoms-smaller-efficient-electronics.html"/>
-    <id>https://phys.org/news/2025-09-wiggling-atoms-smaller-efficient-electronics.html</id>
-    <summary type="text">Researchers at Michigan State University have figured out how to use a fast laser to wiggle atoms in a way that temporarily changes the behavior of their host material. Their novel approach could lead to smaller and more efficient electronics—like smartphones—in the future.</summary>
-  </entry>
-  <entry>
     <title>Proximity screening pushes graphene electronic quality to record levels</title>
     <link href="https://phys.org/news/2025-09-proximity-screening-graphene-electronic-quality.html"/>
     <id>https://phys.org/news/2025-09-proximity-screening-graphene-electronic-quality.html</id>
     <summary type="text">In a new Nature study, researchers at the University of Manchester have achieved unprecedented electronic quality in graphene by developing a proximity screening technique that places conducting gates just one nanometer away from the carbon lattice.</summary>
+  </entry>
+  <entry>
+    <title>&#x27;Wiggling&#x27; atoms may lead to smaller, more efficient electronics</title>
+    <link href="https://phys.org/news/2025-09-wiggling-atoms-smaller-efficient-electronics.html"/>
+    <id>https://phys.org/news/2025-09-wiggling-atoms-smaller-efficient-electronics.html</id>
+    <summary type="text">Researchers at Michigan State University have figured out how to use a fast laser to wiggle atoms in a way that temporarily changes the behavior of their host material. Their novel approach could lead to smaller and more efficient electronics—like smartphones—in the future.</summary>
   </entry>
   <entry>
     <title>MXene electrode material withstands seawater corrosion in hydrogen production</title>
@@ -64,18 +76,6 @@
     <link href="https://phys.org/news/2025-09-metallic-nanocatalysts-catalysis.html"/>
     <id>https://phys.org/news/2025-09-metallic-nanocatalysts-catalysis.html</id>
     <summary type="text">Using a combination of spectromicroscopy at BESSY II and microscopic analyses at DESY&#x27;s NanoLab, a team has gained new insights into the chemical behavior of nanocatalysts during catalysis.</summary>
-  </entry>
-  <entry>
-    <title>Scientists develop hydrogel platform for long-lasting, precision drug delivery</title>
-    <link href="https://phys.org/news/2025-09-scientists-hydrogel-platform-precision-drug.html"/>
-    <id>https://phys.org/news/2025-09-scientists-hydrogel-platform-precision-drug.html</id>
-    <summary type="text">Taking medications on time, in the right dose and for the prescribed duration can be challenging for patients, and failure to do so comes with steep costs, causing 10% of hospitalizations and billions in avoidable spending in the United States alone, according to some estimates. A team of Rice University scientists has developed a new drug delivery platform that could make it easier to complete a therapeutic regimen and even boost drug efficacy.</summary>
-  </entry>
-  <entry>
-    <title>Nanobots play &#x27;follow the leader&#x27; by chasing chemical trails in microfluidic device</title>
-    <link href="https://phys.org/news/2025-09-nanobots-play-leader-chemical-trails.html"/>
-    <id>https://phys.org/news/2025-09-nanobots-play-leader-chemical-trails.html</id>
-    <summary type="text">Researchers at Penn State demonstrate the first steps in the design of tiny particles that can perform specialized tasks, such as targeted delivery of drugs or other cargo.</summary>
   </entry>
   <entry>
     <title>Tiny magnetic spirals unlock the future of spintronics</title>

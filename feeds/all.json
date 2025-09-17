@@ -5,6 +5,44 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
+      "id": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability",
+      "url": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability",
+      "title": "Amazon's water conservation and replenishment efforts around the world",
+      "content_text": "Get the latest updates on how we’re reducing our water footprint and investing in innovations to address water scarcity.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/f097732/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fd0%2F9e%2F033558d14b628d846cd0b6156f0e%2Fabout-amazon-hero-aa-mar2025-waterblog-standard-hero-v2-600kb-2000x1125-1.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/saV6YkQO5MY",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/maintenance-required-movie-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/maintenance-required-movie-prime-video",
+      "title": "How to watch ‘Maintenance Required,’ coming soon to Prime Video",
+      "content_text": "Check out the trailer for the Lacey Uhlemeyer romantic comedy where a business owner confides in the very man behind her troubles.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/5991eaf/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F37%2Ff6%2F03aec1bc41f9acacb102fd82839a%2Fmain-4.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/6WSAUKWt7ho",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/innovation-at-amazon/seller-assistant-agentic-ai",
       "url": "https://www.aboutamazon.com/news/innovation-at-amazon/seller-assistant-agentic-ai",
       "title": "Amazon introduces agentic AI across the seller experience, transforming how sellers manage their businesses",
@@ -13,51 +51,6 @@
         {
           "url": "https://assets.aboutamazon.com/dims4/default/a545a1c/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F77%2F26%2Fecebc82c426a8d85505206e8fe48%2Fnew-hero.png",
           "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/retail/amazon-ceo-andy-jassy-sellers",
-      "url": "https://www.aboutamazon.com/news/retail/amazon-ceo-andy-jassy-sellers",
-      "title": "CEO Andy Jassy says Amazon’s partnership with independent sellers is the most 'substantial collaboration in the history of retail'",
-      "content_text": "At the annual Accelerate seller conference, Jassy said the decision to welcome independent sellers reinvented Amazon’s business and the customer experience.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/735e93c/2147483647/strip/true/crop/1999x1000+0+1/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fb6%2F9a%2F66679c1d407d804996ec46ba3bce%2Faccelerate-fireside-aj-dm-2.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/workplace/amazon-employee-health-insurance-benefits",
-      "url": "https://www.aboutamazon.com/news/workplace/amazon-employee-health-insurance-benefits",
-      "title": "Amazon employees can get health care for just $5 a week, with $5 copays",
-      "content_text": "Amazon is investing over $1 billion to raise pay, lower health costs, and more for U.S. fulfillment and transportation employees.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/49d85f2/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F4b%2F17%2F9f0efe5e4a27971efe13bff9c3c6%2Fabout-amazon-hero-dgt2-01.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/workplace/amazon-wage-increase-2025-fulfillment-transportation-employees",
-      "url": "https://www.aboutamazon.com/news/workplace/amazon-wage-increase-2025-fulfillment-transportation-employees",
-      "title": "Amazon is investing over $1 billion to raise pay and lower health care costs for US fulfillment and transportation employees",
-      "content_text": "Average total compensation is now over $30 per hour when you include elected benefits.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/f7c1219/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fe5%2F89%2F9a9237e4474fbbf1bc660fe97a27%2Fdgt2-32-2000.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -683,6 +676,25 @@
       ],
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news",
+      "url": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news",
+      "title": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound",
+      "content_text": "Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/3c9e582/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff2%2Fe4%2F6f67188e480392ce0b19a6671b59%2Fspheres-rolling-blog-hero-1.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/QWQvaTXowao",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
       ]
     },
     {

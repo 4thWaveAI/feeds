@@ -5,6 +5,44 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.json",
   "items": [
     {
+      "id": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability",
+      "url": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability",
+      "title": "Amazon's water conservation and replenishment efforts around the world",
+      "content_text": "Get the latest updates on how we’re reducing our water footprint and investing in innovations to address water scarcity.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/f097732/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fd0%2F9e%2F033558d14b628d846cd0b6156f0e%2Fabout-amazon-hero-aa-mar2025-waterblog-standard-hero-v2-600kb-2000x1125-1.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/saV6YkQO5MY",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/maintenance-required-movie-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/maintenance-required-movie-prime-video",
+      "title": "How to watch ‘Maintenance Required,’ coming soon to Prime Video",
+      "content_text": "Check out the trailer for the Lacey Uhlemeyer romantic comedy where a business owner confides in the very man behind her troubles.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/5991eaf/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F37%2Ff6%2F03aec1bc41f9acacb102fd82839a%2Fmain-4.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/6WSAUKWt7ho",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://about.fb.com/news/2025/09/instagram-launches-a-microdrama-series-to-encourage-gen-z-to-take-creative-chances/",
       "url": "https://about.fb.com/news/2025/09/instagram-launches-a-microdrama-series-to-encourage-gen-z-to-take-creative-chances/",
       "title": "Instagram Launches A Microdrama Series To Encourage Gen Z To Take Creative Chances",
@@ -54,6 +92,25 @@
         },
         {
           "url": "https://www.youtube.com/embed/iN0rFuCCA-Y",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news",
+      "url": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news",
+      "title": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound",
+      "content_text": "Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/3c9e582/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff2%2Fe4%2F6f67188e480392ce0b19a6671b59%2Fspheres-rolling-blog-hero-1.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/QWQvaTXowao",
           "mime_type": "video/mp4"
         }
       ],

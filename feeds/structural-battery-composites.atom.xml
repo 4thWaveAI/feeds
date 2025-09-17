@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/structural-battery-composites.atom.xml"/>
   <id>urn:4thwaveai-feeds:structural-battery-composites</id>
-  <updated>Wed, 17 Sep 2025 15:36:52 +0000</updated>
+  <updated>Wed, 17 Sep 2025 16:47:26 +0000</updated>
   <entry>
     <title>Light-powered chip makes AI 100 times more efficient</title>
     <link href="https://www.sciencedaily.com/releases/2025/09/250908175458.htm"/>
@@ -66,6 +66,12 @@
     <summary type="text">Researchers have released new insights on a pilot program involving all-electric buses in Ithaca, NY, USA -- with implications for cities, schools and other groups that are considering the electrification of their fleets, as well as operators, policymakers and manufacturers.</summary>
   </entry>
   <entry>
+    <title>Bioelectronic implants built from rolled-up stretchy circuits</title>
+    <link href="https://www.nature.com/articles/d41586-025-02704-6"/>
+    <id>https://www.nature.com/articles/d41586-025-02704-6</id>
+    <summary type="text">Soft devices made by rolling up rubber-like sheets patterned with 2D electronics can monitor, stimulate and navigate deep tissue in animal models.</summary>
+  </entry>
+  <entry>
     <title>Salt turns ice into a powerful flexoelectric material - Nature Materials</title>
     <link href="https://www.nature.com/articles/s41563-025-02328-1"/>
     <id>https://www.nature.com/articles/s41563-025-02328-1</id>
@@ -76,12 +82,6 @@
     <link href="https://www.nature.com/articles/s41563-025-02353-0"/>
     <id>https://www.nature.com/articles/s41563-025-02353-0</id>
     <summary type="text">Terahertz technology has the potential to push the speed limit of future opto-electronic applications, but the large free-space wavelength of terahertz light hinders nanoscale device implementation. Now, the confinement of terahertz light to the nanometre scale is demonstrated using phonon polaritons in hafnium-based van der Waals crystals.</summary>
-  </entry>
-  <entry>
-    <title>Boron at the boundaries - Nature Physics</title>
-    <link href="https://www.nature.com/articles/s41567-025-03041-1"/>
-    <id>https://www.nature.com/articles/s41567-025-03041-1</id>
-    <summary type="text">Materials science</summary>
   </entry>
   <entry>
     <title>Molecular crystal memristors - Nature Nanotechnology</title>
