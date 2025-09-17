@@ -5,6 +5,66 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.json",
   "items": [
     {
+      "id": "https://www.aboutamazon.com/news/innovation-at-amazon/seller-assistant-agentic-ai",
+      "url": "https://www.aboutamazon.com/news/innovation-at-amazon/seller-assistant-agentic-ai",
+      "title": "Amazon introduces agentic AI across the seller experience, transforming how sellers manage their businesses",
+      "content_text": "Powered by Amazon Bedrock, Seller Assistant evolves into an always-on, agentic AI-powered partner that helps sellers launch, manage, and grow their business.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/a545a1c/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F77%2F26%2Fecebc82c426a8d85505206e8fe48%2Fnew-hero.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/retail/amazon-ceo-andy-jassy-sellers",
+      "url": "https://www.aboutamazon.com/news/retail/amazon-ceo-andy-jassy-sellers",
+      "title": "CEO Andy Jassy says Amazon’s partnership with independent sellers is the most 'substantial collaboration in the history of retail'",
+      "content_text": "At the annual Accelerate seller conference, Jassy said the decision to welcome independent sellers reinvented Amazon’s business and the customer experience.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/735e93c/2147483647/strip/true/crop/1999x1000+0+1/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fb6%2F9a%2F66679c1d407d804996ec46ba3bce%2Faccelerate-fireside-aj-dm-2.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/workplace/amazon-employee-health-insurance-benefits",
+      "url": "https://www.aboutamazon.com/news/workplace/amazon-employee-health-insurance-benefits",
+      "title": "Amazon employees can get health care for just $5 a week, with $5 copays",
+      "content_text": "Amazon is investing over $1 billion to raise pay, lower health costs, and more for U.S. fulfillment and transportation employees.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/49d85f2/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F4b%2F17%2F9f0efe5e4a27971efe13bff9c3c6%2Fabout-amazon-hero-dgt2-01.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/workplace/amazon-wage-increase-2025-fulfillment-transportation-employees",
+      "url": "https://www.aboutamazon.com/news/workplace/amazon-wage-increase-2025-fulfillment-transportation-employees",
+      "title": "Amazon is investing over $1 billion to raise pay and lower health care costs for U.S. fulfillment and transportation employees",
+      "content_text": "Average total compensation is now over $30 per hour when you include elected benefits.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/f7c1219/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fe5%2F89%2F9a9237e4474fbbf1bc660fe97a27%2Fdgt2-32-2000.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/community/amazon-arlington-virginia-news",
       "url": "https://www.aboutamazon.com/news/community/amazon-arlington-virginia-news",
       "title": "Amazon in the community: Service, community, and commitment at HQ2",
@@ -206,21 +266,6 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/retail/amazon-prime-for-young-adults",
-      "url": "https://www.aboutamazon.com/news/retail/amazon-prime-for-young-adults",
-      "title": "Score big with Prime for Young Adults—Amazon’s discounted Prime membership",
-      "content_text": "Learn about the extraordinary value of the go-to Prime membership for 18-to-24-year-olds. Eligible new members can try it for six months for $0 and earn 5% cash back.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/f5d95eb/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F8e%2Ff3%2F714a5bea457ab79834d19f13ead4%2Fhero001-youngadult-amazon-prime-studentredesign-rivera-downtime-quad-2000x1125.JPG",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
       "id": "https://about.fb.com/news/2025/06/edit-videos-with-meta-ai/",
       "url": "https://about.fb.com/news/2025/06/edit-videos-with-meta-ai/",
       "title": "You Can Now Edit Videos With Meta AI",
@@ -236,21 +281,6 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/innovation-at-amazon/project-kuiper-satellite-rocket-launch-progress-updates",
-      "url": "https://www.aboutamazon.com/news/innovation-at-amazon/project-kuiper-satellite-rocket-launch-progress-updates",
-      "title": "Kuiper mission updates: Kuiper constellation grows to more than 100 satellites",
-      "content_text": "Follow along for updates as Project Kuiper launches more than 80 missions to deploy our initial low Earth orbit satellite internet constellation.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/65e47f3/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F12%2Ff8%2Ffc8be3994e2e9da5f510adf93f54%2Fabout-amazon-hero-inline010-aa-kuiper-amazon-liftoff-atlas-v-kuiper-1-54484120534-o-copy-3257x1833-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
       "id": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
       "url": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
       "title": "AlphaQubit tackles one of quantum computing’s biggest challenges",
@@ -263,36 +293,6 @@
       ],
       "tags": [
         "demis-hassabis"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/retail/amazon-prime-membership-worth-it",
-      "url": "https://www.aboutamazon.com/news/retail/amazon-prime-membership-worth-it",
-      "title": "Is a Prime membership worth it? The short answer is yes.",
-      "content_text": "Here are all the perks and benefits that make a Prime membership well worth the cost.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/dd99ac4/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F3c%2F67%2F394d145b4183991f4812fdeb9719%2Faa-062025-pd-membership-standard-hero-v1-600kb-2000x1125.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/retail/prime-benefits-that-will-save-you-money",
-      "url": "https://www.aboutamazon.com/news/retail/prime-benefits-that-will-save-you-money",
-      "title": "7 Prime benefits that will save you money",
-      "content_text": "It’s not just about free shipping and Prime Video. Prime keeps money back in your pocket.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/586e4f1/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F29%2F94%2Fa49b6a064bf19e75e8ee89e71b74%2F2025primeday-hero-2000x1125-10.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
       ]
     },
     {
@@ -712,7 +712,7 @@
       "content_text": "How Geoff Richman, lead editor on the Apple Original, “Severance,” created the frenetic world of the hit show’s season two finale.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/Apple-TV-plus-Mac-editing-Severance-Geoffrey-Richman-and-Ben-Stiller-lp.jpg.og.jpg?202508281640=",
+          "url": "https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/Apple-TV-plus-Mac-editing-Severance-Geoffrey-Richman-and-Ben-Stiller-lp.jpg.og.jpg?202508281642=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -727,7 +727,7 @@
       "content_text": "Meet Taiki Hamamoto, Marina Lee, Luciana Ortiz Nolasco, and Nahom Worku, four winners of Apple’s 2025 Swift Student Challenge.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281742=",
+          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281636=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -742,7 +742,7 @@
       "content_text": "From a horror-comedy in Tamil to a magical romance in Malayalam, MAMI Select filmmakers are redefining cinema with iPhone 16 Pro Max.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/tile/Apple-MAMI-Select-iPhone-16-Pro-Max-hero-lp.jpg.og.jpg?202508281729=",
+          "url": "https://www.apple.com/newsroom/images/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/tile/Apple-MAMI-Select-iPhone-16-Pro-Max-hero-lp.jpg.og.jpg?202508281644=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -787,7 +787,7 @@
       "content_text": "The source for news about Apple Services. Get updates on the latest Apple Arcade games, Apple Originals on TV+, Podcasts, Books, and more from Apple Newsroom.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758027602489=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758027692545=",
           "mime_type": "image/jpeg"
         }
       ],

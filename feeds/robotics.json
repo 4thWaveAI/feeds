@@ -257,6 +257,25 @@
       ]
     },
     {
+      "id": "https://www.figure.ai/news/figure-announces-strategic-partnership-with-brookfield",
+      "url": "https://www.figure.ai/news/figure-announces-strategic-partnership-with-brookfield",
+      "title": "Figure Announces Strategic Partnership with Brookfield",
+      "content_text": "Figure Announces Strategic Partnership with Brookfield",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/2NZHe54DbeILkjFYVfAYqb/0afbcdf9671c45a152c82c8d40124f7d/BROOKFIELD_OPEN_GRAPH_IMAGE.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/3qehO6MwLhIjNWgr47NqsD/c3feecec797575f83942435c0a945a75/Brookfield_VIDEO_COVER_MOBILE.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
       "id": "https://www.figure.ai/news/series-c",
       "url": "https://www.figure.ai/news/series-c",
       "title": "Figure Exceeds $1B in Series C Funding at $39B Post-Money Valuation",
@@ -325,25 +344,6 @@
         },
         {
           "url": "https://videos.ctfassets.net/qx5k8y1u9drj/XqIsleaMlE75mEHAJYquZ/4d23d9e7eb29edf8b6409c425f9a8da4/Video_Cover_-_Mobile_1__1_.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://www.figure.ai/news/helix-logistics",
-      "url": "https://www.figure.ai/news/helix-logistics",
-      "title": "Helix Accelerating Real-World Logistics",
-      "content_text": "Figure is introducing a new real-world application for Figure robots on the back of advancements from Helix: logistics package manipulation and triaging.",
-      "attachments": [
-        {
-          "url": "https://images.ctfassets.net/qx5k8y1u9drj/XDpqBBey1oW5zYszgwfbQ/27b5089928f06047d4d7c5eea47c3b6c/image__69__copy.png",
-          "mime_type": "image/png"
-        },
-        {
-          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/5pQm4wKRmo7ZpkDZxFIbVz/c01423068e6a2b4dc083585847dc6cb2/COVER_MOBILE_934x1434.mp4",
           "mime_type": "video/mp4"
         }
       ],

@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/structural-battery-composites.atom.xml"/>
   <id>urn:4thwaveai-feeds:structural-battery-composites</id>
-  <updated>Wed, 17 Sep 2025 11:42:41 +0000</updated>
+  <updated>Wed, 17 Sep 2025 13:22:04 +0000</updated>
   <entry>
     <title>Light-powered chip makes AI 100 times more efficient</title>
     <link href="https://www.sciencedaily.com/releases/2025/09/250908175458.htm"/>
@@ -90,27 +90,27 @@
     <summary type="text">Memristor arrays based on molecular crystal with van der Waals-linked cages are fabricated, enabling ultralow energy switching, high endurance and seamless integration into neuromorphic computing hardware.</summary>
   </entry>
   <entry>
+    <title>Comprehensive structural model for the evaluation of HME humidification properties - Scientific Reports</title>
+    <link href="https://www.nature.com/articles/s41598-025-17916-z"/>
+    <id>https://www.nature.com/articles/s41598-025-17916-z</id>
+    <summary type="text">HMEs (heat and moisture exchangers) are employed in clinical practice to humidify the inspired air in intubated patients. We aimed to develop and experimentally validate a mass based model describing the water input-output equilibrium in the presence of HMEs. The model should serve as a universally applicable basis for the evaluation of the fundamental HME humidification properties performance (mg reversibly stored per breath) and efficiency. A plug flow model was designed using three different locations (gas inlet, moisture benefit and water output) for inspiratory-expiratory flow and humidity measurements. We developed a complete set of algorithms for the calculation of all relevant metrics. Measurements also assessed humidity dependent volume changes. We proved the concept through the v</summary>
+  </entry>
+  <entry>
     <title>Magnetic microscopy for operando imaging of battery dynamics - Nature Communications</title>
     <link href="https://www.nature.com/articles/s41467-025-63409-y"/>
     <id>https://www.nature.com/articles/s41467-025-63409-y</id>
     <summary type="text">Quantum sensing of lithium and post-lithium batteries is introduced to visualize how electrons and ions flow and react during operation. Here, authors show how this facilitates operando imaging of heterogeneous redox reactions, buried current distributions, and dendrite formation.</summary>
   </entry>
   <entry>
+    <title>Thermo-mechanical behavior and spalling resistance of alkali-activated slag versus cement mortars under rapid high-temperature exposure - Scientific Reports</title>
+    <link href="https://www.nature.com/articles/s41598-025-19301-2"/>
+    <id>https://www.nature.com/articles/s41598-025-19301-2</id>
+    <summary type="text">Scientific Reports volume 15 , Article number: 32581 ( 2025 ) Cite this article</summary>
+  </entry>
+  <entry>
     <title>Sustainable nanofiltration membranes enable ultrafast water purification - Nature Water</title>
     <link href="https://www.nature.com/articles/s44221-025-00492-x"/>
     <id>https://www.nature.com/articles/s44221-025-00492-x</id>
     <summary type="text">The fabrication of nanofiltration membranes involves hazardous chemicals that raise water contamination concerns. The use of low-hazard monomers, solvents and supports now enables the realization of sustainable nanofiltration membranes with high performance for water treatment.</summary>
-  </entry>
-  <entry>
-    <title>Amorphous oxide cathode enabling room-temperature rechargeable magnesium batteries - Communications Materials</title>
-    <link href="https://www.nature.com/articles/s43246-025-00921-0"/>
-    <id>https://www.nature.com/articles/s43246-025-00921-0</id>
-    <summary type="text">Rechargeable magnesium batteries promise high energy density but are hindered by sluggish Mg diffusion and poor electrolyte compatibility in oxide cathodes. Here, an amorphous Mg–Li–Ti–Mo oxide with high free volume enables reversible Mg insertion at room temperature, delivering 150 mAh g−1 and long cycle life.</summary>
-  </entry>
-  <entry>
-    <title>Lithium resources and novel strategies for their extraction and purification - npj Materials Sustainability</title>
-    <link href="https://www.nature.com/articles/s44296-025-00069-5"/>
-    <id>https://www.nature.com/articles/s44296-025-00069-5</id>
-    <summary type="text">npj Materials Sustainability volume 3 , Article number: 30 ( 2025 ) Cite this article</summary>
   </entry>
 </feed>
