@@ -58,6 +58,21 @@
       ]
     },
     {
+      "id": "https://www.aboutamazon.com/news/retail/amazon-ceo-andy-jassy-sellers",
+      "url": "https://www.aboutamazon.com/news/retail/amazon-ceo-andy-jassy-sellers",
+      "title": "CEO Andy Jassy says Amazon’s partnership with independent sellers is the most 'substantial collaboration in the history of retail'",
+      "content_text": "At the annual Accelerate seller conference, Jassy said the decision to welcome independent sellers reinvented Amazon’s business and the customer experience.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/735e93c/2147483647/strip/true/crop/1999x1000+0+1/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fb6%2F9a%2F66679c1d407d804996ec46ba3bce%2Faccelerate-fireside-aj-dm-2.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/entertainment/helluva-boss-prime-video",
       "url": "https://www.aboutamazon.com/news/entertainment/helluva-boss-prime-video",
       "title": "'Helluva Boss' is on Prime Video. Here's how to watch it.",
@@ -69,25 +84,6 @@
         },
         {
           "url": "https://www.youtube.com/embed/iN0rFuCCA-Y",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news",
-      "url": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news",
-      "title": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound",
-      "content_text": "Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/3c9e582/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff2%2Fe4%2F6f67188e480392ce0b19a6671b59%2Fspheres-rolling-blog-hero-1.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/QWQvaTXowao",
           "mime_type": "video/mp4"
         }
       ],
@@ -216,21 +212,6 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/community",
-      "url": "https://www.aboutamazon.com/news/community",
-      "title": "Community",
-      "content_text": "We look for uniquely Amazonian and innovative ways to make positive, lasting impacts and encourage our employees to champion causes they care about.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
       "id": "https://www.aboutamazon.com/news/sustainability",
       "url": "https://www.aboutamazon.com/news/sustainability",
       "title": "Sustainability",
@@ -295,6 +276,21 @@
       "url": "https://www.aboutamazon.com/news/workplace",
       "title": "Workplace",
       "content_text": "If you're an inventor, you'll love being an Amazonian. From day one at Amazon, you'll take ownership of projects that have a direct impact on our customers.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/community",
+      "url": "https://www.aboutamazon.com/news/community",
+      "title": "Community",
+      "content_text": "We look for uniquely Amazonian and innovative ways to make positive, lasting impacts and encourage our employees to champion causes they care about.",
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",

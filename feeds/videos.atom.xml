@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.atom.xml"/>
   <id>urn:4thwaveai-feeds:videos</id>
-  <updated>Wed, 17 Sep 2025 17:34:26 +0000</updated>
+  <updated>Wed, 17 Sep 2025 18:52:03 +0000</updated>
   <entry>
     <title>Amazon&#x27;s water conservation and replenishment efforts around the world</title>
     <link href="https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability"/>
@@ -39,13 +39,6 @@
     <id>https://www.aboutamazon.com/news/entertainment/helluva-boss-prime-video</id>
     <summary type="text">All 20 episodes of the hit animated show are available to stream on Prime Video.</summary>
     <updated>Tue, 19 Aug 2025 21:30:22 +0000</updated>
-  </entry>
-  <entry>
-    <title>Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound</title>
-    <link href="https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news"/>
-    <id>https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news</id>
-    <summary type="text">Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region.</summary>
-    <updated>Fri, 28 Feb 2025 00:00:55 +0000</updated>
   </entry>
   <entry>
     <title>AlphaGenome: AI for better understanding the genome</title>
@@ -144,6 +137,12 @@
     <summary type="text">IBM is partnering with HackerOne to offer a bug bounty program for Granite, with up to $100,000 in bounty payouts available. The objective is to identify successful jailbreaks of Granite models deployed in enterprise-like settings with guardrails enabled, as businesses look to scale their AI workflows.</summary>
   </entry>
   <entry>
+    <title>NASA’s Tally of Planets Outside Our Solar System Reaches 6,000</title>
+    <link href="https://www.jpl.nasa.gov/news/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/"/>
+    <id>https://www.jpl.nasa.gov/news/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/</id>
+    <summary type="text">The milestone highlights the accelerating rate of discoveries, just over three decades since the first exoplanets were found.</summary>
+  </entry>
+  <entry>
     <title>NASA Says Mars Rover Discovered Potential Biosignature Last Year</title>
     <link href="https://www.jpl.nasa.gov/news/nasa-says-mars-rover-discovered-potential-biosignature-last-year/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-says-mars-rover-discovered-potential-biosignature-last-year/</id>
@@ -154,12 +153,6 @@
     <link href="https://www.jpl.nasa.gov/news/nasa-study-celestial-accident-sheds-light-on-jupiter-saturn-riddle/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-study-celestial-accident-sheds-light-on-jupiter-saturn-riddle/</id>
     <summary type="text">An unusual cosmic object is helping scientists better understand the chemistry hidden deep in Jupiter and Saturn’s atmospheres — and potentially those of exoplanets.</summary>
-  </entry>
-  <entry>
-    <title>Vintage NASA: See Voyager’s 1990 ‘Solar System Family Portrait’ Debut</title>
-    <link href="https://www.jpl.nasa.gov/news/vintage-nasa-see-voyagers-1990-solar-system-family-portrait-debut/"/>
-    <id>https://www.jpl.nasa.gov/news/vintage-nasa-see-voyagers-1990-solar-system-family-portrait-debut/</id>
-    <summary type="text">In archival footage of a historic NASA news conference, the mission reveals history-making images of six planets in our solar system, including a tiny speck called Earth.</summary>
   </entry>
   <entry>
     <title>NASA-ISRO Satellite Lifts Off to Track Earth’s Changing Surfaces</title>

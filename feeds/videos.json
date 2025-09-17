@@ -100,25 +100,6 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news",
-      "url": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news",
-      "title": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound",
-      "content_text": "Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/3c9e582/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff2%2Fe4%2F6f67188e480392ce0b19a6671b59%2Fspheres-rolling-blog-hero-1.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/QWQvaTXowao",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
       "id": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/",
       "url": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/",
       "title": "AlphaGenome: AI for better understanding the genome",
@@ -423,6 +404,25 @@
       ]
     },
     {
+      "id": "https://www.jpl.nasa.gov/news/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/",
+      "title": "NASA’s Tally of Planets Outside Our Solar System Reaches 6,000",
+      "content_text": "The milestone highlights the accelerating rate of discoveries, just over three decades since the first exoplanets were found.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/e1-6000-exoplanets-artists-concept-web.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/vAna9jBZRd8?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasa-says-mars-rover-discovered-potential-biosignature-last-year/",
       "url": "https://www.jpl.nasa.gov/news/nasa-says-mars-rover-discovered-potential-biosignature-last-year/",
       "title": "NASA Says Mars Rover Discovered Potential Biosignature Last Year",
@@ -453,25 +453,6 @@
         },
         {
           "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/PIA24578.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/vintage-nasa-see-voyagers-1990-solar-system-family-portrait-debut/",
-      "url": "https://www.jpl.nasa.gov/news/vintage-nasa-see-voyagers-1990-solar-system-family-portrait-debut/",
-      "title": "Vintage NASA: See Voyager’s 1990 ‘Solar System Family Portrait’ Debut",
-      "content_text": "In archival footage of a historic NASA news conference, the mission reveals history-making images of six planets in our solar system, including a tiny speck called Earth.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-main-ed_stone_voyager_press_conference_1990.png",
-          "mime_type": "image/png"
-        },
-        {
-          "url": "https://www.youtube.com/embed/aty-PMtS7Dc?feature=oembed",
           "mime_type": "video/mp4"
         }
       ],

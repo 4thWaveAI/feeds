@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Wed, 17 Sep 2025 17:33:05 +0000</updated>
+  <updated>Wed, 17 Sep 2025 18:50:27 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -57,6 +57,12 @@
     <summary type="text">Expedition 73 awaits over 11,000 pounds of new science and supplies packed inside Northrop Grumman’s Cygnus XL cargo craft and orbiting Earth toward the International Space Station.</summary>
   </entry>
   <entry>
+    <title>NASA’s Tally of Planets Outside Our Solar System Reaches 6,000</title>
+    <link href="https://www.jpl.nasa.gov/news/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/"/>
+    <id>https://www.jpl.nasa.gov/news/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/</id>
+    <summary type="text">The milestone highlights the accelerating rate of discoveries, just over three decades since the first exoplanets were found.</summary>
+  </entry>
+  <entry>
     <title>NASA Analysis Shows Sun’s Activity Ramping Up</title>
     <link href="https://www.jpl.nasa.gov/news/nasa-analysis-shows-suns-activity-ramping-up/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-analysis-shows-suns-activity-ramping-up/</id>
@@ -81,12 +87,6 @@
     <summary type="text">After a year’s worth of scientific scrutiny, the ‘Sapphire Canyon’ rock sample remains the mission’s best candidate for containing signs of ancient microbial life processes.</summary>
   </entry>
   <entry>
-    <title>NASA to Share Details of New Perseverance Mars Rover Finding</title>
-    <link href="https://www.jpl.nasa.gov/news/nasa-to-share-details-of-new-perseverance-mars-rover--finding/"/>
-    <id>https://www.jpl.nasa.gov/news/nasa-to-share-details-of-new-perseverance-mars-rover--finding/</id>
-    <summary type="text">A news conference this morning will focus on the analysis of a rock sampled by the agency’s Perseverance Mars rover last year, which is the subject of a forthcoming science paper.</summary>
-  </entry>
-  <entry>
     <title>NASA Study: Celestial ‘Accident’ Sheds Light on Jupiter, Saturn Riddle</title>
     <link href="https://www.jpl.nasa.gov/news/nasa-study-celestial-accident-sheds-light-on-jupiter-saturn-riddle/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-study-celestial-accident-sheds-light-on-jupiter-saturn-riddle/</id>
@@ -99,12 +99,6 @@
     <summary type="text">A Sept. 10 media teleconference will focus on the analysis of a rock sampled by the agency’s Perseverance Mars rover last year, which is the subject of a forthcoming science paper.</summary>
   </entry>
   <entry>
-    <title>Vintage NASA: See Voyager’s 1990 ‘Solar System Family Portrait’ Debut</title>
-    <link href="https://www.jpl.nasa.gov/news/vintage-nasa-see-voyagers-1990-solar-system-family-portrait-debut/"/>
-    <id>https://www.jpl.nasa.gov/news/vintage-nasa-see-voyagers-1990-solar-system-family-portrait-debut/</id>
-    <summary type="text">In archival footage of a historic NASA news conference, the mission reveals history-making images of six planets in our solar system, including a tiny speck called Earth.</summary>
-  </entry>
-  <entry>
     <title>NASA-ISRO Satellite Lifts Off to Track Earth’s Changing Surfaces</title>
     <link href="https://www.jpl.nasa.gov/news/nasa-isro-satellite-lifts-off-to-track-earths-changing-surfaces/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-isro-satellite-lifts-off-to-track-earths-changing-surfaces/</id>
@@ -115,78 +109,6 @@
     <link href="https://www.jpl.nasa.gov/news/"/>
     <id>https://www.jpl.nasa.gov/news/</id>
     <summary type="text">NASA&#x27;s Jet Propulsion Laboratory, the leading center for robotic exploration of the solar system.</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/cz"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/cz</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/dk"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/dk</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/nl"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/nl</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/ee"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/ee</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/fi"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/fi</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/fr"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/fr</id>
-    <summary type="text">email: media @ esa.int (Uniquement les demandes de la presse)</summary>
   </entry>
   <entry>
     <title>Submit a Media Inquiry | Blue Origin</title>
