@@ -215,6 +215,21 @@
       ]
     },
     {
+      "id": "https://www.nature.com/articles/s41586-025-09561-3",
+      "url": "https://www.nature.com/articles/s41586-025-09561-3",
+      "title": "A room temperature rechargeable all-solid-state hydride ion battery - Nature",
+      "content_text": "A core-shell hydride 3CeH3@BaH2, which exhibits fast H− conduction at ambient temperature and becomes a superionic conductor above 60 °C, is used to construct an all-solid-state rechargeable H− battery.",
+      "attachments": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09561-3/MediaObjects/41586_2025_9561_Fig1_HTML.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "structural-battery-composites"
+      ]
+    },
+    {
       "id": "https://www.nature.com/articles/s41598-025-17916-z",
       "url": "https://www.nature.com/articles/s41598-025-17916-z",
       "title": "Comprehensive structural model for the evaluation of HME humidification properties - Scientific Reports",
@@ -252,21 +267,6 @@
       "attachments": [
         {
           "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-025-19301-2/MediaObjects/41598_2025_19301_Fig1_HTML.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "structural-battery-composites"
-      ]
-    },
-    {
-      "id": "https://www.nature.com/articles/s44221-025-00492-x",
-      "url": "https://www.nature.com/articles/s44221-025-00492-x",
-      "title": "Sustainable nanofiltration membranes enable ultrafast water purification - Nature Water",
-      "content_text": "The fabrication of nanofiltration membranes involves hazardous chemicals that raise water contamination concerns. The use of low-hazard monomers, solvents and supports now enables the realization of sustainable nanofiltration membranes with high performance for water treatment.",
-      "attachments": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44221-025-00492-x/MediaObjects/44221_2025_492_Fig1_HTML.png",
           "mime_type": "image/png"
         }
       ],

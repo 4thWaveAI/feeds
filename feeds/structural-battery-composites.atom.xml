@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/structural-battery-composites.atom.xml"/>
   <id>urn:4thwaveai-feeds:structural-battery-composites</id>
-  <updated>Wed, 17 Sep 2025 14:40:48 +0000</updated>
+  <updated>Wed, 17 Sep 2025 15:36:52 +0000</updated>
   <entry>
     <title>Light-powered chip makes AI 100 times more efficient</title>
     <link href="https://www.sciencedaily.com/releases/2025/09/250908175458.htm"/>
@@ -90,6 +90,12 @@
     <summary type="text">Memristor arrays based on molecular crystal with van der Waals-linked cages are fabricated, enabling ultralow energy switching, high endurance and seamless integration into neuromorphic computing hardware.</summary>
   </entry>
   <entry>
+    <title>A room temperature rechargeable all-solid-state hydride ion battery - Nature</title>
+    <link href="https://www.nature.com/articles/s41586-025-09561-3"/>
+    <id>https://www.nature.com/articles/s41586-025-09561-3</id>
+    <summary type="text">A core-shell hydride 3CeH3@BaH2, which exhibits fast H− conduction at ambient temperature and becomes a superionic conductor above 60 °C, is used to construct an all-solid-state rechargeable H− battery.</summary>
+  </entry>
+  <entry>
     <title>Comprehensive structural model for the evaluation of HME humidification properties - Scientific Reports</title>
     <link href="https://www.nature.com/articles/s41598-025-17916-z"/>
     <id>https://www.nature.com/articles/s41598-025-17916-z</id>
@@ -106,11 +112,5 @@
     <link href="https://www.nature.com/articles/s41598-025-19301-2"/>
     <id>https://www.nature.com/articles/s41598-025-19301-2</id>
     <summary type="text">Scientific Reports volume 15 , Article number: 32581 ( 2025 ) Cite this article</summary>
-  </entry>
-  <entry>
-    <title>Sustainable nanofiltration membranes enable ultrafast water purification - Nature Water</title>
-    <link href="https://www.nature.com/articles/s44221-025-00492-x"/>
-    <id>https://www.nature.com/articles/s44221-025-00492-x</id>
-    <summary type="text">The fabrication of nanofiltration membranes involves hazardous chemicals that raise water contamination concerns. The use of low-hazard monomers, solvents and supports now enables the realization of sustainable nanofiltration membranes with high performance for water treatment.</summary>
   </entry>
 </feed>
