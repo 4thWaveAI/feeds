@@ -5,13 +5,13 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
-      "id": "https://phys.org/news/2025-09-bioengineers-explore-tumor-mechanics-tiny.html",
-      "url": "https://phys.org/news/2025-09-bioengineers-explore-tumor-mechanics-tiny.html",
-      "title": "Bioengineers explore how tumor mechanics and tiny messengers could shape the future of cancer research",
-      "content_text": "When Ph.D. student Kshitiz Parihar began combing through dozens of research papers on two seemingly different topics—tumor mechanics and extracellular vesicles, tiny packages of proteins and genetic material secreted by cells—he noticed something surprising: the two fields were speaking to each other.",
+      "id": "https://phys.org/news/2025-09-court-demand-scientific-certainty-case.html",
+      "url": "https://phys.org/news/2025-09-court-demand-scientific-certainty-case.html",
+      "title": "Court rulings increasingly demand scientific certainty—but the case of titanium dioxide shows that's not always possible",
+      "content_text": "Last month, courts on both sides of the Atlantic delivered a clear verdict: When classifying titanium dioxide as carcinogenic, regulatory agencies had overreached.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/penn-engineers-explore.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/sunscreen-lotion.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -20,13 +20,13 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-09-hybrid-nanoantennas-enable-capture-diamond.html",
-      "url": "https://phys.org/news/2025-09-hybrid-nanoantennas-enable-capture-diamond.html",
-      "title": "Hybrid nanoantennas enable light capture from diamond defects",
-      "content_text": "Researchers at the Hebrew University of Jerusalem and the Humboldt University in Berlin have developed a way to capture nearly all the light emitted from tiny diamond defects known as color centers. By placing nanodiamonds into specially designed hybrid nanoantennas with extreme precision, the team achieved record photon collection at room temperature—a necessary step for quantum technologies such as quantum sensors, and quantum-secured communications.",
+      "id": "https://phys.org/news/2025-09-bioengineers-explore-tumor-mechanics-tiny.html",
+      "url": "https://phys.org/news/2025-09-bioengineers-explore-tumor-mechanics-tiny.html",
+      "title": "Bioengineers explore how tumor mechanics and tiny messengers could shape the future of cancer research",
+      "content_text": "When Ph.D. student Kshitiz Parihar began combing through dozens of research papers on two seemingly different topics—tumor mechanics and extracellular vesicles, tiny packages of proteins and genetic material secreted by cells—he noticed something surprising: the two fields were speaking to each other.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-sources-for-quantu.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/penn-engineers-explore.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -54,6 +54,21 @@
       ]
     },
     {
+      "id": "https://phys.org/news/2025-09-hybrid-nanoantennas-enable-capture-diamond.html",
+      "url": "https://phys.org/news/2025-09-hybrid-nanoantennas-enable-capture-diamond.html",
+      "title": "Hybrid nanoantennas enable light capture from diamond defects",
+      "content_text": "Researchers at the Hebrew University of Jerusalem and the Humboldt University in Berlin have developed a way to capture nearly all the light emitted from tiny diamond defects known as color centers. By placing nanodiamonds into specially designed hybrid nanoantennas with extreme precision, the team achieved record photon collection at room temperature—a necessary step for quantum technologies such as quantum sensors, and quantum-secured communications.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-sources-for-quantu.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://phys.org/news/2025-09-thermal-trigger-scientists-protein-cell.html",
       "url": "https://phys.org/news/2025-09-thermal-trigger-scientists-protein-cell.html",
       "title": "Thermal trigger: Scientists develop heat-activated protein control for targeted cell death",
@@ -69,13 +84,13 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-09-scalable-strategy-high-quality-black.html",
-      "url": "https://phys.org/news/2025-09-scalable-strategy-high-quality-black.html",
-      "title": "Scalable strategy produces high-quality black phosphorus nanoribbons for electronics",
-      "content_text": "Black phosphorus nanoribbons (BPNRs), thin and narrow ribbon-like strips of black phosphorus, are known to exhibit highly advantageous electronic properties, including a tunable bandgap. This essentially means that the energy difference between the region where electrons are bound together (i.e., valence band) and that where electrons move freely (i.e., conduction band) can be easily controlled by adjusting the width of the nanoribbons.",
+      "id": "https://phys.org/news/2025-09-lipid-nanoparticles-enable-rna-therapy.html",
+      "url": "https://phys.org/news/2025-09-lipid-nanoparticles-enable-rna-therapy.html",
+      "title": "Lipid nanoparticles enable targeted RNA therapy for inflammatory bowel diseases",
+      "content_text": "Researchers at Tel Aviv University have developed a new approach for using locked nucleic acids (LNAs)—a particularly stable type of RNA—to treat inflammatory bowel diseases such as Crohn's disease and ulcerative colitis. The researchers encapsulated selected LNA molecules, which silence a key gene in colitis, within lipid (fat) nanoparticles that serve as targeted drug carriers and injected the nanoparticles into colitis-model mice.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/a-scalable-approach-to-1.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/targeted-delivery-of-l.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -84,13 +99,13 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-09-lipid-nanoparticles-enable-rna-therapy.html",
-      "url": "https://phys.org/news/2025-09-lipid-nanoparticles-enable-rna-therapy.html",
-      "title": "Lipid nanoparticles enable targeted RNA therapy for inflammatory bowel diseases",
-      "content_text": "Researchers at Tel Aviv University have developed a new approach for using locked nucleic acids (LNAs)—a particularly stable type of RNA—to treat inflammatory bowel diseases such as Crohn's disease and ulcerative colitis. The researchers encapsulated selected LNA molecules, which silence a key gene in colitis, within lipid (fat) nanoparticles that serve as targeted drug carriers and injected the nanoparticles into colitis-model mice.",
+      "id": "https://phys.org/news/2025-09-scalable-strategy-high-quality-black.html",
+      "url": "https://phys.org/news/2025-09-scalable-strategy-high-quality-black.html",
+      "title": "Scalable strategy produces high-quality black phosphorus nanoribbons for electronics",
+      "content_text": "Black phosphorus nanoribbons (BPNRs), thin and narrow ribbon-like strips of black phosphorus, are known to exhibit highly advantageous electronic properties, including a tunable bandgap. This essentially means that the energy difference between the region where electrons are bound together (i.e., valence band) and that where electrons move freely (i.e., conduction band) can be easily controlled by adjusting the width of the nanoribbons.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/targeted-delivery-of-l.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/2025/a-scalable-approach-to-1.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -166,21 +181,6 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/2025/high-performance-elect.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-scientists-nanoplastics-disrupt-brain-energy.html",
-      "url": "https://phys.org/news/2025-09-scientists-nanoplastics-disrupt-brain-energy.html",
-      "title": "Scientists discover how nanoplastics disrupt brain energy metabolism",
-      "content_text": "Scientists from the Trinity Biomedical Sciences Institute (TBSI) have discovered how nanoplastics—even smaller than microplastics—disrupt energy metabolism in brain cells. Their findings may have implications for better understanding neurodegenerative diseases characterized by declining neurological or brain function, and even shed new light on issues with learning and memory.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/scientists-discover-ho-15.jpg",
           "mime_type": "image/jpeg"
         }
       ],
