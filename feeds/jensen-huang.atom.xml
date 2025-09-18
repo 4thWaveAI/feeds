@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/jensen-huang.atom.xml"/>
   <id>urn:4thwaveai-feeds:jensen-huang</id>
-  <updated>Thu, 18 Sep 2025 18:51:56 +0000</updated>
+  <updated>Thu, 18 Sep 2025 19:25:42 +0000</updated>
   <entry>
     <title>NVIDIA Blackwell: Born for Extreme-Scale AI Inference</title>
     <link href="https://blogs.nvidia.com/blog/blackwell-ai-inference/"/>
@@ -27,6 +27,12 @@
     <updated>Sun, 14 Sep 2025 01:00:21 +0000</updated>
   </entry>
   <entry>
+    <title>NVIDIA Announces £2 Billion Investment in the United Kingdom AI Startup Ecosystem</title>
+    <link href="https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem"/>
+    <id>https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem</id>
+    <summary type="text">NVIDIA today announced an investment of £2 billion in the U.K. market to catalyze the nation’s AI startup ecosystem and scale the next generation of globally transformative AI businesses.</summary>
+  </entry>
+  <entry>
     <title>NVIDIA and Intel to Develop AI Infrastructure and Personal Computing Products</title>
     <link href="https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products"/>
     <id>https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products</id>
@@ -37,12 +43,6 @@
     <link href="https://nvidianews.nvidia.com/news/nvidia-and-united-kingdom-build-nations-ai-infrastructure-and-ecosystem-to-fuel-innovation-economic-growth-and-jobs"/>
     <id>https://nvidianews.nvidia.com/news/nvidia-and-united-kingdom-build-nations-ai-infrastructure-and-ecosystem-to-fuel-innovation-economic-growth-and-jobs</id>
     <summary type="text">NVIDIA today announced that it is investing in accelerating the AI industrial revolution in the United Kingdom, working with partners including CoreWeave, Microsoft and Nscale to build the nation’s next generation of AI infrastructure.</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA Unveils Rubin CPX: A New Class of GPU Designed for Massive-Context Inference</title>
-    <link href="https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference"/>
-    <id>https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference</id>
-    <summary type="text">NVIDIA® today announced NVIDIA Rubin CPX, a new class of GPU purpose-built for massive-context processing. This enables AI systems to handle million-token software coding and generative video with groundbreaking speed and efficiency.</summary>
   </entry>
   <entry>
     <title>Data Center Archives</title>

@@ -4,7 +4,14 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai</id>
-  <updated>Thu, 18 Sep 2025 18:50:08 +0000</updated>
+  <updated>Thu, 18 Sep 2025 19:23:54 +0000</updated>
+  <entry>
+    <title>The Kaggle Grandmasters Playbook: 7 Battle-Tested Modeling Techniques for Tabular Data | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/the-kaggle-grandmasters-playbook-7-battle-tested-modeling-techniques-for-tabular-data/"/>
+    <id>https://developer.nvidia.com/blog/the-kaggle-grandmasters-playbook-7-battle-tested-modeling-techniques-for-tabular-data/</id>
+    <summary type="text">Over hundreds of Kaggle competitions, we’ve refined a playbook that consistently lands us near the top of the leaderboard—no matter if we’re working with millions of rows, missing values…</summary>
+    <updated>Thu, 18 Sep 2025 17:29:36 +0000</updated>
+  </entry>
   <entry>
     <title>NVIDIA Blackwell: Born for Extreme-Scale AI Inference</title>
     <link href="https://blogs.nvidia.com/blog/blackwell-ai-inference/"/>
@@ -13,11 +20,25 @@
     <updated>Thu, 18 Sep 2025 15:00:25 +0000</updated>
   </entry>
   <entry>
+    <title>An Introduction to Speculative Decoding for Reducing Latency in AI Inference | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference/"/>
+    <id>https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference/</id>
+    <summary type="text">Generating text with large language models (LLMs) often involves running into a fundamental bottleneck. GPUs offer massive compute, yet much of that power sits idle because autoregressive generation…</summary>
+    <updated>Wed, 17 Sep 2025 18:09:12 +0000</updated>
+  </entry>
+  <entry>
     <title>The AI Makers: NVIDIA Partners in UK Advance Physical and Agentic AI, Robotics, Life Sciences and More</title>
     <link href="https://blogs.nvidia.com/blog/uk-partner-ecosystem-ai-makers/"/>
     <id>https://blogs.nvidia.com/blog/uk-partner-ecosystem-ai-makers/</id>
     <summary type="text">During NVIDIA founder and CEO Jensen Huang’s visit to the U.K. this week, NVIDIA highlighted how it is working with a broad ecosystem of AI makers across the nation on applications in physical and agentic AI, robotics and healthcare.</summary>
     <updated>Tue, 16 Sep 2025 21:30:16 +0000</updated>
+  </entry>
+  <entry>
+    <title>Build a Report Generator AI Agent with NVIDIA Nemotron on OpenRouter | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/build-a-report-generator-ai-agent-with-nvidia-nemotron-on-openrouter/"/>
+    <id>https://developer.nvidia.com/blog/build-a-report-generator-ai-agent-with-nvidia-nemotron-on-openrouter/</id>
+    <summary type="text">Unlike traditional systems that follow predefined paths, AI agents are autonomous systems that use large language models (LLMs) to make decisions, adapt to changing requirements…</summary>
+    <updated>Mon, 15 Sep 2025 19:31:45 +0000</updated>
   </entry>
   <entry>
     <title>Reaching Across the Isles: UK-LLM Brings AI to UK Languages With NVIDIA Nemotron</title>
@@ -46,20 +67,6 @@
     <id>https://developer.nvidia.com/blog/how-small-language-models-are-key-to-scalable-agentic-ai/</id>
     <summary type="text">The rapid rise of agentic AI has reshaped how enterprises, developers, and entire industries think about automation and digital productivity. From software development workflows to enterprise process…</summary>
     <updated>Fri, 29 Aug 2025 18:00:42 +0000</updated>
-  </entry>
-  <entry>
-    <title>NVFP4 Trains with Precision of 16-Bit and Speed and Efficiency of 4-Bit | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/nvfp4-trains-with-precision-of-16-bit-and-speed-and-efficiency-of-4-bit/"/>
-    <id>https://developer.nvidia.com/blog/nvfp4-trains-with-precision-of-16-bit-and-speed-and-efficiency-of-4-bit/</id>
-    <summary type="text">In recent years, AI workloads have grown exponentially—not only in the deployment of large language models (LLMs) but also in the demand to process ever more tokens during pretraining and post…</summary>
-    <updated>Mon, 25 Aug 2025 17:59:23 +0000</updated>
-  </entry>
-  <entry>
-    <title>Introducing NVIDIA Jetson Thor, the Ultimate Platform for Physical AI | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/introducing-nvidia-jetson-thor-the-ultimate-platform-for-physical-ai/"/>
-    <id>https://developer.nvidia.com/blog/introducing-nvidia-jetson-thor-the-ultimate-platform-for-physical-ai/</id>
-    <summary type="text">Robotics is undergoing a revolution, moving beyond the era of specialist machines to generalist robotics. This shift moves away from single-purpose, fixed-function robots toward adaptable robots…</summary>
-    <updated>Mon, 25 Aug 2025 17:57:00 +0000</updated>
   </entry>
   <entry>
     <title>Unlocking the potential of manufacturing with cloud modernization - Microsoft Industry Blogs</title>
@@ -236,6 +243,12 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <summary type="text">We strive to create an environment conducive to many different types of research across many different time scales and levels of risk.</summary>
   </entry>
   <entry>
+    <title>NVIDIA Announces £2 Billion Investment in the United Kingdom AI Startup Ecosystem</title>
+    <link href="https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem"/>
+    <id>https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem</id>
+    <summary type="text">NVIDIA today announced an investment of £2 billion in the U.K. market to catalyze the nation’s AI startup ecosystem and scale the next generation of globally transformative AI businesses.</summary>
+  </entry>
+  <entry>
     <title>NVIDIA and Intel to Develop AI Infrastructure and Personal Computing Products</title>
     <link href="https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products"/>
     <id>https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products</id>
@@ -246,12 +259,6 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <link href="https://nvidianews.nvidia.com/news/nvidia-and-united-kingdom-build-nations-ai-infrastructure-and-ecosystem-to-fuel-innovation-economic-growth-and-jobs"/>
     <id>https://nvidianews.nvidia.com/news/nvidia-and-united-kingdom-build-nations-ai-infrastructure-and-ecosystem-to-fuel-innovation-economic-growth-and-jobs</id>
     <summary type="text">NVIDIA today announced that it is investing in accelerating the AI industrial revolution in the United Kingdom, working with partners including CoreWeave, Microsoft and Nscale to build the nation’s next generation of AI infrastructure.</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA Unveils Rubin CPX: A New Class of GPU Designed for Massive-Context Inference</title>
-    <link href="https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference"/>
-    <id>https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference</id>
-    <summary type="text">NVIDIA® today announced NVIDIA Rubin CPX, a new class of GPU purpose-built for massive-context processing. This enables AI systems to handle million-token software coding and generative video with groundbreaking speed and efficiency.</summary>
   </entry>
   <entry>
     <title>Data Center Archives</title>
@@ -312,12 +319,6 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <link href="https://developer.nvidia.com/blog/category/deployment/"/>
     <id>https://developer.nvidia.com/blog/category/deployment/</id>
     <summary type="text">Category: AI Platforms / Deployment | NVIDIA Technical Blog</summary>
-  </entry>
-  <entry>
-    <title>Category: Robotics | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/category/robotics/"/>
-    <id>https://developer.nvidia.com/blog/category/robotics/</id>
-    <summary type="text">Category: Robotics | NVIDIA Technical Blog</summary>
   </entry>
   <entry>
     <title>Recent posts</title>

@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
+      "id": "https://developer.nvidia.com/blog/the-kaggle-grandmasters-playbook-7-battle-tested-modeling-techniques-for-tabular-data/",
+      "url": "https://developer.nvidia.com/blog/the-kaggle-grandmasters-playbook-7-battle-tested-modeling-techniques-for-tabular-data/",
+      "title": "The Kaggle Grandmasters Playbook: 7 Battle-Tested Modeling Techniques for Tabular Data | NVIDIA Technical Blog",
+      "content_text": "Over hundreds of Kaggle competitions, we’ve refined a playbook that consistently lands us near the top of the leaderboard—no matter if we’re working with millions of rows, missing values…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/Kaggle-Grandmasters-Playbook-featured.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "https://blogs.nvidia.com/blog/blackwell-ai-inference/",
       "url": "https://blogs.nvidia.com/blog/blackwell-ai-inference/",
       "title": "NVIDIA Blackwell: Born for Extreme-Scale AI Inference",
@@ -156,6 +171,21 @@
       ]
     },
     {
+      "id": "https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference/",
+      "url": "https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference/",
+      "title": "An Introduction to Speculative Decoding for Reducing Latency in AI Inference | NVIDIA Technical Blog",
+      "content_text": "Generating text with large language models (LLMs) often involves running into a fundamental bottleneck. GPUs offer massive compute, yet much of that power sits idle because autoregressive generation…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/inference-speculative-decoding-llama-eagle.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability",
       "url": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability",
       "title": "Amazon's water conservation and replenishment efforts around the world",
@@ -251,6 +281,21 @@
       ],
       "tags": [
         "young-talons-edu-tech"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/build-a-report-generator-ai-agent-with-nvidia-nemotron-on-openrouter/",
+      "url": "https://developer.nvidia.com/blog/build-a-report-generator-ai-agent-with-nvidia-nemotron-on-openrouter/",
+      "title": "Build a Report Generator AI Agent with NVIDIA Nemotron on OpenRouter | NVIDIA Technical Blog",
+      "content_text": "Unlike traditional systems that follow predefined paths, AI agents are autonomous systems that use large language models (LLMs) to make decisions, adapt to changing requirements…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/llm-promo-chat-labs-blog2-blog-3419377-1920x1080-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai"
       ]
     },
     {
@@ -456,36 +501,6 @@
       "attachments": [
         {
           "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/08/Why-SLMs.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/nvfp4-trains-with-precision-of-16-bit-and-speed-and-efficiency-of-4-bit/",
-      "url": "https://developer.nvidia.com/blog/nvfp4-trains-with-precision-of-16-bit-and-speed-and-efficiency-of-4-bit/",
-      "title": "NVFP4 Trains with Precision of 16-Bit and Speed and Efficiency of 4-Bit | NVIDIA Technical Blog",
-      "content_text": "In recent years, AI workloads have grown exponentially—not only in the deployment of large language models (LLMs) but also in the demand to process ever more tokens during pretraining and post…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/08/llm-megatron-core-blog-2967200-1920x1080-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/introducing-nvidia-jetson-thor-the-ultimate-platform-for-physical-ai/",
-      "url": "https://developer.nvidia.com/blog/introducing-nvidia-jetson-thor-the-ultimate-platform-for-physical-ai/",
-      "title": "Introducing NVIDIA Jetson Thor, the Ultimate Platform for Physical AI | NVIDIA Technical Blog",
-      "content_text": "Robotics is undergoing a revolution, moving beyond the era of specialist machines to generalist robotics. This shift moves away from single-purpose, fixed-function robots toward adaptable robots…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/08/jetson-thor-1.png",
           "mime_type": "image/png"
         }
       ],
@@ -920,21 +935,6 @@
       "attachments": [
         {
           "url": "https://lh3.googleusercontent.com/2A21eFt7wdDrmMzzkenrCTuioLWGFdzU5Ao5dPH9yPtAw6QNHxZcDmoQA2_ZriU2gMjX8mzEOtfPbMCRuL5kVzLoz6efLgqT_foBXU3pxKBXTTOXXpc=w1200-h630-n-nu",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/",
-      "url": "https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/",
-      "title": "Millions of new materials discovered with deep learning",
-      "content_text": "We share the discovery of 2.2 million new crystals  –  equivalent to nearly 800 years’ worth of knowledge. We introduce Graph Networks for Materials Exploration (GNoME), our new deep learning tool...",
-      "attachments": [
-        {
-          "url": "https://lh3.googleusercontent.com/mq3mFiVHSVuszhJMt-Nz4jckN5qy3cAckEIdNYDPhy8UHjxk4VkGFriqo8sA76teioNQ2fC3qgMH7FJfPc0L5JJPppXiZzHP7Rl3UodlU4IC4TWw=w1200-h630-n-nu",
           "mime_type": "image/jpeg"
         }
       ],

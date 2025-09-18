@@ -322,6 +322,21 @@
       ]
     },
     {
+      "id": "https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem",
+      "title": "NVIDIA Announces £2 Billion Investment in the United Kingdom AI Startup Ecosystem",
+      "content_text": "NVIDIA today announced an investment of £2 billion in the U.K. market to catalyze the nation’s AI startup ecosystem and scale the next generation of globally transformative AI businesses.",
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/20258/68cc4a5b3d6332160038b7b1_nvidia-investment-uk-ai-startup-ecosystem/nvidia-investment-uk-ai-startup-ecosystem_059a49be-6e31-4eca-bfc9-ce7dcf993421-prv.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
       "id": "https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products",
       "url": "https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products",
       "title": "NVIDIA and Intel to Develop AI Infrastructure and Personal Computing Products",
@@ -344,21 +359,6 @@
       "attachments": [
         {
           "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/20258/68c9c4723d6332b53638ac60_uk-ai-infrastructure/uk-ai-infrastructure_47de3ab3-2006-4b02-8300-a57b40c8e7a4-prv.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jensen-huang"
-      ]
-    },
-    {
-      "id": "https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference",
-      "title": "NVIDIA Unveils Rubin CPX: A New Class of GPU Designed for Massive-Context Inference",
-      "content_text": "NVIDIA® today announced NVIDIA Rubin CPX, a new class of GPU purpose-built for massive-context processing. This enables AI systems to handle million-token software coding and generative video with groundbreaking speed and efficiency.",
-      "attachments": [
-        {
-          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/20258/68bfc6923d63326179fd6e93_NVIDIA-Vera-Rubin-NVL144-with-Tray/NVIDIA-Vera-Rubin-NVL144-with-Tray_9c8325db-10d8-4cfa-a328-3ede9f034f42-prv.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -753,7 +753,7 @@
       "content_text": "How Geoff Richman, lead editor on the Apple Original, “Severance,” created the frenetic world of the hit show’s season two finale.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/Apple-TV-plus-Mac-editing-Severance-Geoffrey-Richman-and-Ben-Stiller-lp.jpg.og.jpg?202508281640=",
+          "url": "https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/Apple-TV-plus-Mac-editing-Severance-Geoffrey-Richman-and-Ben-Stiller-lp.jpg.og.jpg?202508281732=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -768,7 +768,7 @@
       "content_text": "Meet Taiki Hamamoto, Marina Lee, Luciana Ortiz Nolasco, and Nahom Worku, four winners of Apple’s 2025 Swift Student Challenge.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281636=",
+          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281642=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -798,7 +798,7 @@
       "content_text": "Captured on iPhone 16 Pro Max, a recent shoot by photographer Karston Tannis showcased the vibrancy of the African diaspora.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/02/capturing-paradise-karston-tannis-re-creates-island-vibes-with-iphone-16-pro-max/tile/Apple-Tannis-shot-on-iPhone-16-Pro-Max-group-shot-lp.jpg.og.jpg?202508281642=",
+          "url": "https://www.apple.com/newsroom/images/2025/02/capturing-paradise-karston-tannis-re-creates-island-vibes-with-iphone-16-pro-max/tile/Apple-Tannis-shot-on-iPhone-16-Pro-Max-group-shot-lp.jpg.og.jpg?202508281745=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -828,7 +828,7 @@
       "content_text": "The source for news about Apple Services. Get updates on the latest Apple Arcade games, Apple Originals on TV+, Podcasts, Books, and more from Apple Newsroom.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758221525344=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758221571939=",
           "mime_type": "image/jpeg"
         }
       ],
