@@ -5,6 +5,40 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.json",
   "items": [
     {
+      "id": "https://www.aboutamazon.com/news/small-business/selling-on-amazon-supply-chain-explain",
+      "url": "https://www.aboutamazon.com/news/small-business/selling-on-amazon-supply-chain-explain",
+      "title": "Independent sellers move 5 billion products annually through Amazon’s network of global logistics, domestic freight, and bulk warehousing",
+      "content_text": "Amazon launches new AI custom tools and expands its fulfillment offerings for Walmart, Shopify, and SHEIN, helping sellers simplify their supply chain and better serve customers across their channels",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/df83b23/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F86%2F53%2F32c5d4794fd4b342b0b7c4263fcb%2Fabout-amazon-hero-about-amazon-supply-chain-hero.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/LEcouqT6rSs",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/innovation-at-amazon/amazon-ai-tools-sellers-product-launch",
+      "url": "https://www.aboutamazon.com/news/innovation-at-amazon/amazon-ai-tools-sellers-product-launch",
+      "title": "Amazon unveils new AI-powered tools to help sellers launch more winning products with greater speed",
+      "content_text": "New innovations give sellers unique insights to help them build sought-after products, reduce launch costs, and improve discoverability and conversion to drive new selection success.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/14b1396/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fc5%2F4d%2F6b4210a44b3ab6398ed88d20d23b%2Feasy-hero1-2000x1125.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://about.fb.com/news/2025/09/bringing-new-tools-to-help-businesses-boost-engagement-customer-support-and-discoverability/",
       "url": "https://about.fb.com/news/2025/09/bringing-new-tools-to-help-businesses-boost-engagement-customer-support-and-discoverability/",
       "title": "Bringing New tools To Help Businesses Boost Engagement, Customer Support and Discoverability",
@@ -108,36 +142,6 @@
         {
           "url": "https://www.youtube.com/embed/6WSAUKWt7ho",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/innovation-at-amazon/seller-assistant-agentic-ai",
-      "url": "https://www.aboutamazon.com/news/innovation-at-amazon/seller-assistant-agentic-ai",
-      "title": "Amazon introduces agentic AI across the seller experience, transforming how sellers manage their businesses",
-      "content_text": "Powered by Amazon Bedrock, Seller Assistant evolves into an always-on, agentic AI-powered partner that helps sellers launch, manage, and grow their business.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/a545a1c/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F77%2F26%2Fecebc82c426a8d85505206e8fe48%2Fnew-hero.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/retail/amazon-ceo-andy-jassy-sellers",
-      "url": "https://www.aboutamazon.com/news/retail/amazon-ceo-andy-jassy-sellers",
-      "title": "CEO Andy Jassy says Amazon’s partnership with independent sellers is the most 'substantial collaboration in the history of retail'",
-      "content_text": "At the annual Accelerate seller conference, Jassy said the decision to welcome independent sellers reinvented Amazon’s business and the customer experience.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/25df453/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F93%2Ff8%2F6a3c56a043d88059974bbce6a268%2Faccelerate-fireside-aj-dm-3.png",
-          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -743,7 +747,7 @@
       "content_text": "How Geoff Richman, lead editor on the Apple Original, “Severance,” created the frenetic world of the hit show’s season two finale.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/Apple-TV-plus-Mac-editing-Severance-Geoffrey-Richman-and-Ben-Stiller-lp.jpg.og.jpg?202508281732=",
+          "url": "https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/Apple-TV-plus-Mac-editing-Severance-Geoffrey-Richman-and-Ben-Stiller-lp.jpg.og.jpg?202508281640=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -758,7 +762,7 @@
       "content_text": "Meet Taiki Hamamoto, Marina Lee, Luciana Ortiz Nolasco, and Nahom Worku, four winners of Apple’s 2025 Swift Student Challenge.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281742=",
+          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281642=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -818,7 +822,7 @@
       "content_text": "The source for news about Apple Services. Get updates on the latest Apple Arcade games, Apple Originals on TV+, Podcasts, Books, and more from Apple Newsroom.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758150068848=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758151412160=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -833,7 +837,7 @@
       "content_text": "Discover more stories from Apple Newsroom that showcase the creators, developers, and innovators leaving the world better than they found it.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758149921048=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758150119824=",
           "mime_type": "image/jpeg"
         }
       ],

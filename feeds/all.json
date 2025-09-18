@@ -5,6 +5,40 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
+      "id": "https://www.aboutamazon.com/news/small-business/selling-on-amazon-supply-chain-explain",
+      "url": "https://www.aboutamazon.com/news/small-business/selling-on-amazon-supply-chain-explain",
+      "title": "Independent sellers move 5 billion products annually through Amazon’s network of global logistics, domestic freight, and bulk warehousing",
+      "content_text": "Amazon launches new AI custom tools and expands its fulfillment offerings for Walmart, Shopify, and SHEIN, helping sellers simplify their supply chain and better serve customers across their channels",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/df83b23/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F86%2F53%2F32c5d4794fd4b342b0b7c4263fcb%2Fabout-amazon-hero-about-amazon-supply-chain-hero.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/LEcouqT6rSs",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/innovation-at-amazon/amazon-ai-tools-sellers-product-launch",
+      "url": "https://www.aboutamazon.com/news/innovation-at-amazon/amazon-ai-tools-sellers-product-launch",
+      "title": "Amazon unveils new AI-powered tools to help sellers launch more winning products with greater speed",
+      "content_text": "New innovations give sellers unique insights to help them build sought-after products, reduce launch costs, and improve discoverability and conversion to drive new selection success.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/14b1396/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fc5%2F4d%2F6b4210a44b3ab6398ed88d20d23b%2Feasy-hero1-2000x1125.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://about.fb.com/news/2025/09/bringing-new-tools-to-help-businesses-boost-engagement-customer-support-and-discoverability/",
       "url": "https://about.fb.com/news/2025/09/bringing-new-tools-to-help-businesses-boost-engagement-customer-support-and-discoverability/",
       "title": "Bringing New tools To Help Businesses Boost Engagement, Customer Support and Discoverability",
@@ -80,7 +114,7 @@
       "id": "https://www.edsurge.com/news/2025-09-18-teaching-through-the-latest-industrial-revolution",
       "url": "https://www.edsurge.com/news/2025-09-18-teaching-through-the-latest-industrial-revolution",
       "title": "Teaching Through the Latest Industrial Revolution  - EdSurge News",
-      "content_text": "Almost three years into the ChatGPT frenzy, and we’ve heard it all about AI. Ever since ChatGPT was released, and kids started writing essays with AI, ...",
+      "content_text": "The following story is part of our research series, Teaching Tech. To read more about this project, click here. Almost three years into the ChatGPT ...",
       "attachments": [
         {
           "url": "https://edsurge.imgix.net/uploads/post/image/16444/shutterstock_786572845-1757966727.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
@@ -130,40 +164,10 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/innovation-at-amazon/seller-assistant-agentic-ai",
-      "url": "https://www.aboutamazon.com/news/innovation-at-amazon/seller-assistant-agentic-ai",
-      "title": "Amazon introduces agentic AI across the seller experience, transforming how sellers manage their businesses",
-      "content_text": "Powered by Amazon Bedrock, Seller Assistant evolves into an always-on, agentic AI-powered partner that helps sellers launch, manage, and grow their business.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/a545a1c/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F77%2F26%2Fecebc82c426a8d85505206e8fe48%2Fnew-hero.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/retail/amazon-ceo-andy-jassy-sellers",
-      "url": "https://www.aboutamazon.com/news/retail/amazon-ceo-andy-jassy-sellers",
-      "title": "CEO Andy Jassy says Amazon’s partnership with independent sellers is the most 'substantial collaboration in the history of retail'",
-      "content_text": "At the annual Accelerate seller conference, Jassy said the decision to welcome independent sellers reinvented Amazon’s business and the customer experience.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/25df453/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F93%2Ff8%2F6a3c56a043d88059974bbce6a268%2Faccelerate-fireside-aj-dm-3.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
       "id": "https://www.edsurge.com/news/2025-09-17-what-i-learned-after-building-a-tech-tool-to-support-student-well-being",
       "url": "https://www.edsurge.com/news/2025-09-17-what-i-learned-after-building-a-tech-tool-to-support-student-well-being",
       "title": "What I Learned After Building a Tech Tool to Support Student Well-Being - EdSurge News",
-      "content_text": "DIGITAL CARE: At Guilford Preparatory Academy, EdSurge Voices of Change fellow Patrice Wade implemented a simple digital check-in system that ...",
+      "content_text": "This story was published by a Voices of Change fellow. Learn more about the fellowship here.One morning, my computer science students opened their ...",
       "attachments": [
         {
           "url": "https://edsurge.imgix.net/uploads/post/image/16442/shutterstock_2567109937-1757950759.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
