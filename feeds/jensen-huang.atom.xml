@@ -4,7 +4,14 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/jensen-huang.atom.xml"/>
   <id>urn:4thwaveai-feeds:jensen-huang</id>
-  <updated>Thu, 18 Sep 2025 14:41:31 +0000</updated>
+  <updated>Thu, 18 Sep 2025 15:36:25 +0000</updated>
+  <entry>
+    <title>NVIDIA Blackwell: Born for Extreme-Scale AI Inference</title>
+    <link href="https://blogs.nvidia.com/blog/blackwell-ai-inference/"/>
+    <id>https://blogs.nvidia.com/blog/blackwell-ai-inference/</id>
+    <summary type="text">NVIDIA Blackwell is the core of a system architecture designed to power AI factories that produce intelligence through inference.</summary>
+    <updated>Thu, 18 Sep 2025 15:00:25 +0000</updated>
+  </entry>
   <entry>
     <title>The AI Makers: NVIDIA Partners in UK Advance Physical and Agentic AI, Robotics, Life Sciences and More</title>
     <link href="https://blogs.nvidia.com/blog/uk-partner-ecosystem-ai-makers/"/>
@@ -18,13 +25,6 @@
     <id>https://blogs.nvidia.com/blog/uk-llm-nemotron/</id>
     <summary type="text">Trained on the Isambard-AI supercomputer, UK-LLM enables AI reasoning for Welsh and other UK languages for public services.</summary>
     <updated>Sun, 14 Sep 2025 01:00:21 +0000</updated>
-  </entry>
-  <entry>
-    <title>NVIDIA Partners With AI Infrastructure Ecosystem to Unveil Reference Design for Giga-Scale AI Factories</title>
-    <link href="https://blogs.nvidia.com/blog/ai-factories-reference-design/"/>
-    <id>https://blogs.nvidia.com/blog/ai-factories-reference-design/</id>
-    <summary type="text">At this week’s AI Infrastructure Summit in Silicon Valley, NVIDIA’s VP of Accelerated Computing Ian Buck unveiled a bold new vision: the transformation of traditional data centers into fully integrated AI factories. As part of this initiative, NVIDIA is developing reference designs to be shared with partners and enterprises worldwide — offering an NVIDIA Omniverse  Read Article</summary>
-    <updated>Tue, 09 Sep 2025 15:00:29 +0000</updated>
   </entry>
   <entry>
     <title>NVIDIA and Intel to Develop AI Infrastructure and Personal Computing Products</title>
@@ -45,22 +45,16 @@
     <summary type="text">NVIDIA® today announced NVIDIA Rubin CPX, a new class of GPU purpose-built for massive-context processing. This enables AI systems to handle million-token software coding and generative video with groundbreaking speed and efficiency.</summary>
   </entry>
   <entry>
+    <title>Data Center Archives</title>
+    <link href="https://blogs.nvidia.com/blog/category/enterprise/"/>
+    <id>https://blogs.nvidia.com/blog/category/enterprise/</id>
+    <summary type="text">NVIDIA Blackwell is the core of an entire system architecture designed specifically to power AI factories that produce… Read Article</summary>
+  </entry>
+  <entry>
     <title>Generative AI Archives</title>
     <link href="https://blogs.nvidia.com/blog/category/generative-ai/"/>
     <id>https://blogs.nvidia.com/blog/category/generative-ai/</id>
     <summary type="text">Today’s creators are equal parts entertainer, producer and gamer, juggling game commentary, scene changes, replay clips, chat moderation… Read Article</summary>
-  </entry>
-  <entry>
-    <title>Corporate Archives</title>
-    <link href="https://blogs.nvidia.com/blog/category/corporate/"/>
-    <id>https://blogs.nvidia.com/blog/category/corporate/</id>
-    <summary type="text">NVIDIA Corporate Blog Post Archive</summary>
-  </entry>
-  <entry>
-    <title>Data Center Archives</title>
-    <link href="https://blogs.nvidia.com/blog/category/enterprise/"/>
-    <id>https://blogs.nvidia.com/blog/category/enterprise/</id>
-    <summary type="text">The U.K. is driving investments in sovereign AI, using the technology to advance industries like manufacturing, life sciences… Read Article</summary>
   </entry>
   <entry>
     <title>Driving Archives</title>
@@ -72,6 +66,12 @@
     <title>Gaming Archives</title>
     <link href="https://blogs.nvidia.com/blog/category/gaming/"/>
     <id>https://blogs.nvidia.com/blog/category/gaming/</id>
-    <summary type="text">GeForce NOW Blackwell RTX 5080-class SuperPODs are now rolling out, unlocking a new level of ultra high-performance, cinematic… Read Article</summary>
+    <summary type="text">GeForce NOW is packing a monstrous punch this week. Dying Light: The Beast, the latest adrenaline‑fueled chapter in… Read Article</summary>
+  </entry>
+  <entry>
+    <title>Pro Graphics Archives</title>
+    <link href="https://blogs.nvidia.com/blog/category/pro-graphics/"/>
+    <id>https://blogs.nvidia.com/blog/category/pro-graphics/</id>
+    <summary type="text">Editor’s note: This blog is a part of Into the Omniverse, a series focused on how developers, 3D… Read Article</summary>
   </entry>
 </feed>

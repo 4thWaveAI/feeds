@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/jensen-huang.json",
   "items": [
     {
+      "id": "https://blogs.nvidia.com/blog/blackwell-ai-inference/",
+      "url": "https://blogs.nvidia.com/blog/blackwell-ai-inference/",
+      "title": "NVIDIA Blackwell: Born for Extreme-Scale AI Inference",
+      "content_text": "NVIDIA Blackwell is the core of a system architecture designed to power AI factories that produce intelligence through inference.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/blackwell-more-than-a-chip-intro-desktop-scaled.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
       "id": "https://blogs.nvidia.com/blog/uk-partner-ecosystem-ai-makers/",
       "url": "https://blogs.nvidia.com/blog/uk-partner-ecosystem-ai-makers/",
       "title": "The AI Makers: NVIDIA Partners in UK Advance Physical and Agentic AI, Robotics, Life Sciences and More",
@@ -27,21 +42,6 @@
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/genai-corp-blog-nemotron-uk-trip-1280x680-1.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "jensen-huang"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/ai-factories-reference-design/",
-      "url": "https://blogs.nvidia.com/blog/ai-factories-reference-design/",
-      "title": "NVIDIA Partners With AI Infrastructure Ecosystem to Unveil Reference Design for Giga-Scale AI Factories",
-      "content_text": "At this week’s AI Infrastructure Summit in Silicon Valley, NVIDIA’s VP of Accelerated Computing Ian Buck unveiled a bold new vision: the transformation of traditional data centers into fully integrated AI factories. As part of this initiative, NVIDIA is developing reference designs to be shared with partners and enterprises worldwide — offering an NVIDIA Omniverse  Read Article",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/inference-corp-blog-ai-factory-1280x680-1.png",
           "mime_type": "image/png"
         }
       ],
@@ -95,40 +95,25 @@
       ]
     },
     {
+      "id": "https://blogs.nvidia.com/blog/category/enterprise/",
+      "url": "https://blogs.nvidia.com/blog/category/enterprise/",
+      "title": "Data Center Archives",
+      "content_text": "NVIDIA Blackwell is the core of an entire system architecture designed specifically to power AI factories that produce… Read Article",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
       "id": "https://blogs.nvidia.com/blog/category/generative-ai/",
       "url": "https://blogs.nvidia.com/blog/category/generative-ai/",
       "title": "Generative AI Archives",
       "content_text": "Today’s creators are equal parts entertainer, producer and gamer, juggling game commentary, scene changes, replay clips, chat moderation… Read Article",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jensen-huang"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/category/corporate/",
-      "url": "https://blogs.nvidia.com/blog/category/corporate/",
-      "title": "Corporate Archives",
-      "content_text": "NVIDIA Corporate Blog Post Archive",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jensen-huang"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/category/enterprise/",
-      "url": "https://blogs.nvidia.com/blog/category/enterprise/",
-      "title": "Data Center Archives",
-      "content_text": "The U.K. is driving investments in sovereign AI, using the technology to advance industries like manufacturing, life sciences… Read Article",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
@@ -162,7 +147,22 @@
       "id": "https://blogs.nvidia.com/blog/category/gaming/",
       "url": "https://blogs.nvidia.com/blog/category/gaming/",
       "title": "Gaming Archives",
-      "content_text": "GeForce NOW Blackwell RTX 5080-class SuperPODs are now rolling out, unlocking a new level of ultra high-performance, cinematic… Read Article",
+      "content_text": "GeForce NOW is packing a monstrous punch this week. Dying Light: The Beast, the latest adrenaline‑fueled chapter in… Read Article",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/pro-graphics/",
+      "url": "https://blogs.nvidia.com/blog/category/pro-graphics/",
+      "title": "Pro Graphics Archives",
+      "content_text": "Editor’s note: This blog is a part of Into the Omniverse, a series focused on how developers, 3D… Read Article",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",

@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.json",
   "items": [
     {
+      "id": "https://blogs.nvidia.com/blog/blackwell-ai-inference/",
+      "url": "https://blogs.nvidia.com/blog/blackwell-ai-inference/",
+      "title": "NVIDIA Blackwell: Born for Extreme-Scale AI Inference",
+      "content_text": "NVIDIA Blackwell is the core of a system architecture designed to power AI factories that produce intelligence through inference.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/blackwell-more-than-a-chip-intro-desktop-scaled.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
       "id": "https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/",
       "url": "https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/",
       "title": "Inside the world’s most powerful AI datacenter - The Official Microsoft Blog",
@@ -239,21 +254,6 @@
       ]
     },
     {
-      "id": "https://blogs.nvidia.com/blog/ai-factories-reference-design/",
-      "url": "https://blogs.nvidia.com/blog/ai-factories-reference-design/",
-      "title": "NVIDIA Partners With AI Infrastructure Ecosystem to Unveil Reference Design for Giga-Scale AI Factories",
-      "content_text": "At this week’s AI Infrastructure Summit in Silicon Valley, NVIDIA’s VP of Accelerated Computing Ian Buck unveiled a bold new vision: the transformation of traditional data centers into fully integrated AI factories. As part of this initiative, NVIDIA is developing reference designs to be shared with partners and enterprises worldwide — offering an NVIDIA Omniverse  Read Article",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/inference-corp-blog-ai-factory-1280x680-1.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "jensen-huang"
-      ]
-    },
-    {
       "id": "https://about.fb.com/news/2025/09/attach-text-threads-posts-share-longer-perspectives/",
       "url": "https://about.fb.com/news/2025/09/attach-text-threads-posts-share-longer-perspectives/",
       "title": "Attach Text to Your Threads Posts and Share Longer Perspectives",
@@ -367,40 +367,25 @@
       ]
     },
     {
+      "id": "https://blogs.nvidia.com/blog/category/enterprise/",
+      "url": "https://blogs.nvidia.com/blog/category/enterprise/",
+      "title": "Data Center Archives",
+      "content_text": "NVIDIA Blackwell is the core of an entire system architecture designed specifically to power AI factories that produce… Read Article",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
       "id": "https://blogs.nvidia.com/blog/category/generative-ai/",
       "url": "https://blogs.nvidia.com/blog/category/generative-ai/",
       "title": "Generative AI Archives",
       "content_text": "Today’s creators are equal parts entertainer, producer and gamer, juggling game commentary, scene changes, replay clips, chat moderation… Read Article",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jensen-huang"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/category/corporate/",
-      "url": "https://blogs.nvidia.com/blog/category/corporate/",
-      "title": "Corporate Archives",
-      "content_text": "NVIDIA Corporate Blog Post Archive",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jensen-huang"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/category/enterprise/",
-      "url": "https://blogs.nvidia.com/blog/category/enterprise/",
-      "title": "Data Center Archives",
-      "content_text": "The U.K. is driving investments in sovereign AI, using the technology to advance industries like manufacturing, life sciences… Read Article",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
@@ -434,7 +419,22 @@
       "id": "https://blogs.nvidia.com/blog/category/gaming/",
       "url": "https://blogs.nvidia.com/blog/category/gaming/",
       "title": "Gaming Archives",
-      "content_text": "GeForce NOW Blackwell RTX 5080-class SuperPODs are now rolling out, unlocking a new level of ultra high-performance, cinematic… Read Article",
+      "content_text": "GeForce NOW is packing a monstrous punch this week. Dying Light: The Beast, the latest adrenaline‑fueled chapter in… Read Article",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/pro-graphics/",
+      "url": "https://blogs.nvidia.com/blog/category/pro-graphics/",
+      "title": "Pro Graphics Archives",
+      "content_text": "Editor’s note: This blog is a part of Into the Omniverse, a series focused on how developers, 3D… Read Article",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
@@ -753,7 +753,7 @@
       "content_text": "How Geoff Richman, lead editor on the Apple Original, “Severance,” created the frenetic world of the hit show’s season two finale.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/Apple-TV-plus-Mac-editing-Severance-Geoffrey-Richman-and-Ben-Stiller-lp.jpg.og.jpg?202508281732=",
+          "url": "https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/Apple-TV-plus-Mac-editing-Severance-Geoffrey-Richman-and-Ben-Stiller-lp.jpg.og.jpg?202508281642=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -783,7 +783,7 @@
       "content_text": "From a horror-comedy in Tamil to a magical romance in Malayalam, MAMI Select filmmakers are redefining cinema with iPhone 16 Pro Max.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/tile/Apple-MAMI-Select-iPhone-16-Pro-Max-hero-lp.jpg.og.jpg?202508281639=",
+          "url": "https://www.apple.com/newsroom/images/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/tile/Apple-MAMI-Select-iPhone-16-Pro-Max-hero-lp.jpg.og.jpg?202508281644=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -798,7 +798,7 @@
       "content_text": "Captured on iPhone 16 Pro Max, a recent shoot by photographer Karston Tannis showcased the vibrancy of the African diaspora.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/02/capturing-paradise-karston-tannis-re-creates-island-vibes-with-iphone-16-pro-max/tile/Apple-Tannis-shot-on-iPhone-16-Pro-Max-group-shot-lp.jpg.og.jpg?202508281648=",
+          "url": "https://www.apple.com/newsroom/images/2025/02/capturing-paradise-karston-tannis-re-creates-island-vibes-with-iphone-16-pro-max/tile/Apple-Tannis-shot-on-iPhone-16-Pro-Max-group-shot-lp.jpg.og.jpg?202508281745=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -828,7 +828,7 @@
       "content_text": "The source for news about Apple Services. Get updates on the latest Apple Arcade games, Apple Originals on TV+, Podcasts, Books, and more from Apple Newsroom.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758150068848=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758150119719=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -843,7 +843,7 @@
       "content_text": "Discover more stories from Apple Newsroom that showcase the creators, developers, and innovators leaving the world better than they found it.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758150119824=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758149908619=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -899,11 +899,11 @@
     {
       "id": "https://www.blueorigin.com/news/new-shepard-ns-35-mission",
       "url": "https://www.blueorigin.com/news/new-shepard-ns-35-mission",
-      "title": "New Shepard NS-35 Mission Updates | Blue Origin",
-      "content_text": "New Shepard NS-35 is targeting liftoff on Thursday, Sept. 18. The uncrewed payload mission will fly more than 40 scientific and research payloads to space.",
+      "title": "Blue Origin Completes 35th New Shepard Mission | Blue Origin",
+      "content_text": "Blue Origin successfully completed its 35th New Shepard flight and 15th payload mission today from Launch Site One in West Texas.",
       "attachments": [
         {
-          "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/Home_NS29-NewShepardSunrise.jpg",
+          "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/NS35_CapsuleDescent.jpg",
           "mime_type": "image/jpeg"
         }
       ],

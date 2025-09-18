@@ -4,18 +4,30 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.atom.xml"/>
   <id>urn:4thwaveai-feeds:nanotech</id>
-  <updated>Thu, 18 Sep 2025 14:40:41 +0000</updated>
+  <updated>Thu, 18 Sep 2025 15:35:37 +0000</updated>
   <entry>
-    <title>Thermal trigger: Scientists develop heat-activated protein control for targeted cell death</title>
-    <link href="https://phys.org/news/2025-09-thermal-trigger-scientists-protein-cell.html"/>
-    <id>https://phys.org/news/2025-09-thermal-trigger-scientists-protein-cell.html</id>
-    <summary type="text">Researchers at the Nano Life Science Institute (WPI-NanoLSI), Kanazawa University, report in ACS Nano, how proteins in cells can be controllably activated through heating, an effect that can be used to initiate programmed cell death.</summary>
+    <title>Bioengineers explore how tumor mechanics and tiny messengers could shape the future of cancer research</title>
+    <link href="https://phys.org/news/2025-09-bioengineers-explore-tumor-mechanics-tiny.html"/>
+    <id>https://phys.org/news/2025-09-bioengineers-explore-tumor-mechanics-tiny.html</id>
+    <summary type="text">When Ph.D. student Kshitiz Parihar began combing through dozens of research papers on two seemingly different topics—tumor mechanics and extracellular vesicles, tiny packages of proteins and genetic material secreted by cells—he noticed something surprising: the two fields were speaking to each other.</summary>
+  </entry>
+  <entry>
+    <title>Hybrid nanoantennas enable light capture from diamond defects</title>
+    <link href="https://phys.org/news/2025-09-hybrid-nanoantennas-enable-capture-diamond.html"/>
+    <id>https://phys.org/news/2025-09-hybrid-nanoantennas-enable-capture-diamond.html</id>
+    <summary type="text">Researchers at the Hebrew University of Jerusalem and the Humboldt University in Berlin have developed a way to capture nearly all the light emitted from tiny diamond defects known as color centers. By placing nanodiamonds into specially designed hybrid nanoantennas with extreme precision, the team achieved record photon collection at room temperature—a necessary step for quantum technologies such as quantum sensors, and quantum-secured communications.</summary>
   </entry>
   <entry>
     <title>New light-powered gears fit inside a strand of hair</title>
     <link href="https://phys.org/news/2025-09-powered-gears-strand-hair.html"/>
     <id>https://phys.org/news/2025-09-powered-gears-strand-hair.html</id>
     <summary type="text">Researchers at the University of Gothenburg have made light-powered gears on a micrometer scale. This paves the way for the smallest on-chip motors in history, which can fit inside a strand of hair. The research is published in the journal Nature Communications.</summary>
+  </entry>
+  <entry>
+    <title>Thermal trigger: Scientists develop heat-activated protein control for targeted cell death</title>
+    <link href="https://phys.org/news/2025-09-thermal-trigger-scientists-protein-cell.html"/>
+    <id>https://phys.org/news/2025-09-thermal-trigger-scientists-protein-cell.html</id>
+    <summary type="text">Researchers at the Nano Life Science Institute (WPI-NanoLSI), Kanazawa University, report in ACS Nano, how proteins in cells can be controllably activated through heating, an effect that can be used to initiate programmed cell death.</summary>
   </entry>
   <entry>
     <title>Scalable strategy produces high-quality black phosphorus nanoribbons for electronics</title>
@@ -66,16 +78,10 @@
     <summary type="text">Scientists from the Trinity Biomedical Sciences Institute (TBSI) have discovered how nanoplastics—even smaller than microplastics—disrupt energy metabolism in brain cells. Their findings may have implications for better understanding neurodegenerative diseases characterized by declining neurological or brain function, and even shed new light on issues with learning and memory.</summary>
   </entry>
   <entry>
-    <title>Next-generation nanoengineered switches can cut heat loss in electronics</title>
-    <link href="https://phys.org/news/2025-09-generation-nanoengineered-loss-electronics.html"/>
-    <id>https://phys.org/news/2025-09-generation-nanoengineered-loss-electronics.html</id>
-    <summary type="text">Electronic devices lose energy as heat due to the movement of electrons. Now, a breakthrough in nanoengineering has produced a new kind of switch that matches the performance of the best traditional designs while pushing beyond the power-consumption limits of modern electronics.</summary>
-  </entry>
-  <entry>
-    <title>Atom-thin crystals provide new way to power the future of computer memory</title>
-    <link href="https://phys.org/news/2025-09-atom-thin-crystals-power-future.html"/>
-    <id>https://phys.org/news/2025-09-atom-thin-crystals-power-future.html</id>
-    <summary type="text">Picture the smartphone in your pocket, the data centers powering artificial intelligence, or the wearable health monitors that track your heartbeat. All of them rely on energy-hungry memory chips to store and process information. As demand for computing resources continues to soar, so does the need for memory devices that are smaller, faster, and far more efficient.</summary>
+    <title>Harvard’s salt trick could turn billions of tons of hair into eco-friendly materials</title>
+    <link href="https://www.sciencedaily.com/releases/2025/09/250916221913.htm"/>
+    <id>https://www.sciencedaily.com/releases/2025/09/250916221913.htm</id>
+    <summary type="text">Scientists at Harvard have discovered how salts like lithium bromide break down tough proteins such as keratin—not by attacking the proteins directly, but by altering the surrounding water structure. This breakthrough opens the door to a cleaner, more sustainable way to recycle wool, feathers, and hair into valuable materials, potentially replacing plastics and fueling new industries.</summary>
   </entry>
   <entry>
     <title>Tiny magnetic spirals unlock the future of spintronics</title>
@@ -142,11 +148,5 @@
     <link href="https://www.sciencedaily.com/releases/2025/08/250813083605.htm"/>
     <id>https://www.sciencedaily.com/releases/2025/08/250813083605.htm</id>
     <summary type="text">Scientists have developed a lightning-fast AI tool called HEAT-ML that can spot hidden “safe zones” inside a fusion reactor where parts are protected from blistering plasma heat. Finding these areas, known as magnetic shadows, is key to keeping reactors running safely and moving fusion energy closer to reality.</summary>
-  </entry>
-  <entry>
-    <title>Tiny gold “super atoms” could spark a quantum revolution</title>
-    <link href="https://www.sciencedaily.com/releases/2025/08/250810093250.htm"/>
-    <id>https://www.sciencedaily.com/releases/2025/08/250810093250.htm</id>
-    <summary type="text">Scientists have found that microscopic gold clusters can act like the world’s most accurate quantum systems, while being far easier to scale up. With tunable spin properties and mass production potential, they could transform quantum computing and sensing.</summary>
   </entry>
 </feed>
