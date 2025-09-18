@@ -215,6 +215,21 @@
       ]
     },
     {
+      "id": "https://www.nature.com/articles/s41467-025-62707-9",
+      "url": "https://www.nature.com/articles/s41467-025-62707-9",
+      "title": "Photoinduced non-reciprocal magnetism - Nature Communications",
+      "content_text": "In open nonequilibrium systems, interactions that break the action-reaction symmetry are ubiquitous in nature. While such nonreciprocal interactions have been implemented for quantum systems, they typically require fine microscopic control of dissipation. Here, Hanai, Ootsuki and Tazai propose a dissipation engineering scheme that induces nonreciprocal interactions in solid state materials, giving rise to a persistent many-body chase-and-runaway dynamics of magnetism in layered ferromagnets.",
+      "attachments": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-62707-9/MediaObjects/41467_2025_62707_Fig1_HTML.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "structural-battery-composites"
+      ]
+    },
+    {
       "id": "https://www.nature.com/articles/s41565-025-02013-z",
       "url": "https://www.nature.com/articles/s41565-025-02013-z",
       "title": "Molecular crystal memristors - Nature Nanotechnology",
@@ -252,21 +267,6 @@
       "attachments": [
         {
           "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-025-17916-z/MediaObjects/41598_2025_17916_Fig1_HTML.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "structural-battery-composites"
-      ]
-    },
-    {
-      "id": "https://www.nature.com/articles/s41467-025-63409-y",
-      "url": "https://www.nature.com/articles/s41467-025-63409-y",
-      "title": "Magnetic microscopy for operando imaging of battery dynamics - Nature Communications",
-      "content_text": "Quantum sensing of lithium and post-lithium batteries is introduced to visualize how electrons and ions flow and react during operation. Here, authors show how this facilitates operando imaging of heterogeneous redox reactions, buried current distributions, and dendrite formation.",
-      "attachments": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-63409-y/MediaObjects/41467_2025_63409_Fig1_HTML.png",
           "mime_type": "image/png"
         }
       ],
