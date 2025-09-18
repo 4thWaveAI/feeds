@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/robotics.atom.xml"/>
   <id>urn:4thwaveai-feeds:robotics</id>
-  <updated>Thu, 18 Sep 2025 15:35:15 +0000</updated>
+  <updated>Thu, 18 Sep 2025 16:43:50 +0000</updated>
   <entry>
     <title>Ask a Roboticist: Q&amp;A with Josh | Boston Dynamics</title>
     <link href="https://bostondynamics.com/blog/ask-a-roboticist-qa-with-josh-a-mechanical-engineer-at-boston-dynamics/"/>
@@ -102,6 +102,12 @@
     <summary type="text">Introducing BotQ, Figure’s new high-volume manufacturing facility for humanoid robots.</summary>
   </entry>
   <entry>
+    <title>Project Go-Big: Internet-Scale Humanoid Pretraining and Direct Human-to-Robot Transfer</title>
+    <link href="https://www.figure.ai/news/project-go-big"/>
+    <id>https://www.figure.ai/news/project-go-big</id>
+    <summary type="text">Project Go-Big: Internet-Scale Humanoid Pretraining and Direct Human-to-Robot Transfer</summary>
+  </entry>
+  <entry>
     <title>Figure Announces Strategic Partnership with Brookfield</title>
     <link href="https://www.figure.ai/news/figure-announces-strategic-partnership-with-brookfield"/>
     <id>https://www.figure.ai/news/figure-announces-strategic-partnership-with-brookfield</id>
@@ -124,12 +130,6 @@
     <link href="https://www.figure.ai/news/f-03-battery-development"/>
     <id>https://www.figure.ai/news/f-03-battery-development</id>
     <summary type="text">F.03 Battery Development</summary>
-  </entry>
-  <entry>
-    <title>Natural Humanoid Walk Using Reinforcement Learning</title>
-    <link href="https://www.figure.ai/news/reinforcement-learning-walking"/>
-    <id>https://www.figure.ai/news/reinforcement-learning-walking</id>
-    <summary type="text">Natural Humanoid Walk Using Reinforcement Learning</summary>
   </entry>
   <entry>
     <title>News | Figure</title>

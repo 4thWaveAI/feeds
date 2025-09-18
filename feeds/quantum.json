@@ -5,36 +5,6 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/quantum.json",
   "items": [
     {
-      "id": "https://research.ibm.com/blog/surya-heliophysics-ai-model-sun",
-      "url": "https://research.ibm.com/blog/surya-heliophysics-ai-model-sun",
-      "title": "Introducing Surya, a new heliophysics foundation model",
-      "content_text": "IBM and NASA open-source a new AI foundation model for the Sun that could change how we look at solar flares.",
-      "attachments": [
-        {
-          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fhelio_hero_Image_79c75c0dba.jpg&w=1200&q=75",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "quantum"
-      ]
-    },
-    {
-      "id": "https://research.ibm.com/blog/generative-computing-mellea",
-      "url": "https://research.ibm.com/blog/generative-computing-mellea",
-      "title": "Towards a generative future for computing",
-      "content_text": "IBM is exploring a future where generative AI isn’t limited to what’s in the prompt window.",
-      "attachments": [
-        {
-          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2FTowards_Generative_Computing_606f70f5fb.png&w=1200&q=85",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "quantum"
-      ]
-    },
-    {
       "id": "https://research.ibm.com/blog/bharatgen-ai-india",
       "url": "https://research.ibm.com/blog/bharatgen-ai-india",
       "title": "IBM and BharatGen collaborate for India’s AI needs",
@@ -47,6 +17,21 @@
         {
           "url": "https://d35x6597f7j1wm.cloudfront.net/bharat_Gen_2x_74880ee970.mp4",
           "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://research.ibm.com/blog/surya-heliophysics-ai-model-sun",
+      "url": "https://research.ibm.com/blog/surya-heliophysics-ai-model-sun",
+      "title": "Introducing Surya, a new heliophysics foundation model",
+      "content_text": "IBM and NASA open-source a new AI foundation model for the Sun that could change how we look at solar flares.",
+      "attachments": [
+        {
+          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fhelio_hero_Image_79c75c0dba.jpg&w=1200&q=75",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -155,6 +140,21 @@
       "attachments": [
         {
           "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Foptimization_algorithms_0e3c8d2c0c.png&w=1200&q=85",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://research.ibm.com/blog/generative-computing-mellea",
+      "url": "https://research.ibm.com/blog/generative-computing-mellea",
+      "title": "Towards a generative future for computing",
+      "content_text": "IBM is exploring a future where generative AI isn’t limited to what’s in the prompt window.",
+      "attachments": [
+        {
+          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2FTowards_Generative_Computing_606f70f5fb.png&w=1200&q=85",
           "mime_type": "image/png"
         }
       ],

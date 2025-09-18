@@ -257,6 +257,25 @@
       ]
     },
     {
+      "id": "https://www.figure.ai/news/project-go-big",
+      "url": "https://www.figure.ai/news/project-go-big",
+      "title": "Project Go-Big: Internet-Scale Humanoid Pretraining and Direct Human-to-Robot Transfer",
+      "content_text": "Project Go-Big: Internet-Scale Humanoid Pretraining and Direct Human-to-Robot Transfer",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/7p8BmuMQwpfQ0O9aHdhlzP/52f749276d2c74e9e7390962bad17253/Open_Graph_1.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/4qZ4UtLo7Q3CuEAo38J3SY/a645cf1b7ce75cd65615b801678148a9/Video_Cover_-_Mobile_01.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
       "id": "https://www.figure.ai/news/figure-announces-strategic-partnership-with-brookfield",
       "url": "https://www.figure.ai/news/figure-announces-strategic-partnership-with-brookfield",
       "title": "Figure Announces Strategic Partnership with Brookfield",
@@ -325,25 +344,6 @@
         },
         {
           "url": "https://videos.ctfassets.net/qx5k8y1u9drj/VBHSFh040nu5QhPfnJjmj/5bcbb27856a4370cc185a1eda14627cb/934x1434.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://www.figure.ai/news/reinforcement-learning-walking",
-      "url": "https://www.figure.ai/news/reinforcement-learning-walking",
-      "title": "Natural Humanoid Walk Using Reinforcement Learning",
-      "content_text": "Natural Humanoid Walk Using Reinforcement Learning",
-      "attachments": [
-        {
-          "url": "https://images.ctfassets.net/qx5k8y1u9drj/6FX51SIG7Q1vcW1LOniDWM/6f03c15c531e53478f7fc964c8ad2c74/Video_carousel_image.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/XqIsleaMlE75mEHAJYquZ/4d23d9e7eb29edf8b6409c425f9a8da4/Video_Cover_-_Mobile_1__1_.mp4",
           "mime_type": "video/mp4"
         }
       ],
