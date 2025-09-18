@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Thu, 18 Sep 2025 11:27:31 +0000</updated>
+  <updated>Thu, 18 Sep 2025 11:41:33 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -45,10 +45,10 @@
     <summary type="text">At approximately 7:18 a.m. EDT, NASA astronaut Jonny Kim will capture the spacecraft using the International Space Station’s Canadarm2 robotic arm, and NASA astronaut Zena Cardman will assist. After capture, the spacecraft will be installed on the Unity module’s Earth-facing port for cargo unloading.</summary>
   </entry>
   <entry>
-    <title>NASA, Northrop Grumman Assessing Cygnus XL Engine Burn Plan - NASA</title>
-    <link href="https://www.nasa.gov/blogs/spacestation/2025/09/16/nasa-northrop-grumman-assessing-cygnus-xl-engine-burn-plan/"/>
-    <id>https://www.nasa.gov/blogs/spacestation/2025/09/16/nasa-northrop-grumman-assessing-cygnus-xl-engine-burn-plan/</id>
-    <summary type="text">NASA and Northrop Grumman are delaying the arrival of the Cygnus XL to the International Space Station as flight controllers evaluate an alternate burn plan for the resupply spacecraft. The Cygnus XL will not arrive to the space station on Wednesday, Sept. 17, as originally planned, with a new arrival date and time under review.</summary>
+    <title>Cygnus XL Cargo Craft Captured by Station Robotic Arm - NASA</title>
+    <link href="https://www.nasa.gov/blogs/spacestation/2025/09/18/cygnus-xl-cargo-craft-captured-by-station-robotic-arm/"/>
+    <id>https://www.nasa.gov/blogs/spacestation/2025/09/18/cygnus-xl-cargo-craft-captured-by-station-robotic-arm/</id>
+    <summary type="text">At 7:24 a.m. EDT, NASA astronaut Jonny Kim, with assistance from NASA astronaut Zena Cardman, captured Northrop Grumman’s Cygnus XL spacecraft using the International Space Station’s Canadarm2 robotic arm.</summary>
   </entry>
   <entry>
     <title>NASA’s Tally of Planets Outside Our Solar System Reaches 6,000</title>
@@ -109,6 +109,78 @@
     <link href="https://www.jpl.nasa.gov/news/"/>
     <id>https://www.jpl.nasa.gov/news/</id>
     <summary type="text">NASA&#x27;s Jet Propulsion Laboratory, the leading center for robotic exploration of the solar system.</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/cz"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/cz</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/dk"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/dk</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/nl"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/nl</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/ee"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/ee</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/fi"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/fi</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/fr"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/fr</id>
+    <summary type="text">email: media @ esa.int (Uniquement les demandes de la presse)</summary>
   </entry>
   <entry>
     <title>Submit a Media Inquiry | Blue Origin</title>
