@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.json",
   "items": [
     {
+      "id": "https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/",
+      "url": "https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/",
+      "title": "Inside the world’s most powerful AI datacenter - The Official Microsoft Blog",
+      "content_text": "This week we have introduced a wave of purpose-built datacenters and infrastructure investments we are making around the world to support the global adoption of cutting-edge AI workloads and cloud services. Today in Wisconsin we introduced Fairwater, our newest US AI datacenter, the largest and most sophisticated AI factory we’ve built yet. In addition to...",
+      "attachments": [
+        {
+          "url": "https://blogs.microsoft.com/wp-content/uploads/2025/09/OMB-Datacenter-Hero-9_18_25-1024x683.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "satya-nadella"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/small-business/selling-on-amazon-supply-chain-explain",
       "url": "https://www.aboutamazon.com/news/small-business/selling-on-amazon-supply-chain-explain",
       "title": "Independent sellers move 5 billion products annually through Amazon’s network of global logistics, domestic freight, and bulk warehousing",
@@ -221,15 +236,6 @@
       ],
       "tags": [
         "mark-zuckerberg"
-      ]
-    },
-    {
-      "id": "https://blogs.microsoft.com/blog/2025/09/09/flexible-work-update/",
-      "url": "https://blogs.microsoft.com/blog/2025/09/09/flexible-work-update/",
-      "title": "Flexible work update - The Official Microsoft Blog",
-      "content_text": "Amy Coleman, Executive Vice President and Chief People Officer, shared the below communication with Microsoft employees this morning. How we work has forever changed. I remember starting at Microsoft in the late ‘90s, always in the office, no laptops, and primarily working with the people right down the hall. As technology evolved and our business expanded, we became...",
-      "tags": [
-        "satya-nadella"
       ]
     },
     {
@@ -696,6 +702,21 @@
       ]
     },
     {
+      "id": "https://blogs.microsoft.com/blog/author/scottguthrie/",
+      "url": "https://blogs.microsoft.com/blog/author/scottguthrie/",
+      "title": "Executive Vice President, Cloud + AI",
+      "content_text": "Sep 18, 2025 | Scott Guthrie - Executive Vice President, Cloud + AI",
+      "attachments": [
+        {
+          "url": "https://secure.gravatar.com/avatar/673c92a01873eaa2479d9b87513b5912?s=500&d=mm&r=g",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "satya-nadella"
+      ]
+    },
+    {
       "id": "https://blogs.microsoft.com/blog/author/jessiahawk/",
       "url": "https://blogs.microsoft.com/blog/author/jessiahawk/",
       "title": "Jessica Hawk, Author at The Official Microsoft Blog",
@@ -726,21 +747,6 @@
       ]
     },
     {
-      "id": "https://blogs.microsoft.com/blog/author/acoleman/",
-      "url": "https://blogs.microsoft.com/blog/author/acoleman/",
-      "title": "Amy Coleman, Author at The Official Microsoft Blog",
-      "content_text": "Sep 9, 2025 | Amy Coleman - Executive Vice President, Chief People Officer",
-      "attachments": [
-        {
-          "url": "https://secure.gravatar.com/avatar/4aa99835bbf5d7ba58fbb02a26143996?s=500&d=mm&r=g",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "satya-nadella"
-      ]
-    },
-    {
       "id": "https://www.apple.com/newsroom/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/",
       "url": "https://www.apple.com/newsroom/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/",
       "title": "How the mind-splitting world of Severance comes together on Mac",
@@ -762,7 +768,7 @@
       "content_text": "Meet Taiki Hamamoto, Marina Lee, Luciana Ortiz Nolasco, and Nahom Worku, four winners of Apple’s 2025 Swift Student Challenge.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281636=",
+          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281742=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -807,7 +813,7 @@
       "content_text": "The official source for news about Apple, from Apple. Read press releases, get updates, watch video and download images.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202509172259=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202509172258=",
           "mime_type": "image/jpeg"
         }
       ],

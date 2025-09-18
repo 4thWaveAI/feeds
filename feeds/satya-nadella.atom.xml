@@ -4,7 +4,14 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/satya-nadella.atom.xml"/>
   <id>urn:4thwaveai-feeds:satya-nadella</id>
-  <updated>Thu, 18 Sep 2025 13:48:57 +0000</updated>
+  <updated>Thu, 18 Sep 2025 14:41:37 +0000</updated>
+  <entry>
+    <title>Inside the world’s most powerful AI datacenter - The Official Microsoft Blog</title>
+    <link href="https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/"/>
+    <id>https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/</id>
+    <summary type="text">This week we have introduced a wave of purpose-built datacenters and infrastructure investments we are making around the world to support the global adoption of cutting-edge AI workloads and cloud services. Today in Wisconsin we introduced Fairwater, our newest US AI datacenter, the largest and most sophisticated AI factory we’ve built yet. In addition to...</summary>
+    <updated>Thu, 18 Sep 2025 14:00:02 +0000</updated>
+  </entry>
   <entry>
     <title>Microsoft leads shift beyond data unification to organization, delivering next-gen AI readiness with new Microsoft Fabric capabilities - The Official Microsoft Blog</title>
     <link href="https://blogs.microsoft.com/blog/2025/09/16/microsoft-leads-shift-beyond-data-unification-to-organization-delivering-next-gen-ai-readiness-with-new-microsoft-fabric-capabilities/"/>
@@ -20,11 +27,10 @@
     <updated>Thu, 11 Sep 2025 21:30:02 +0000</updated>
   </entry>
   <entry>
-    <title>Flexible work update - The Official Microsoft Blog</title>
-    <link href="https://blogs.microsoft.com/blog/2025/09/09/flexible-work-update/"/>
-    <id>https://blogs.microsoft.com/blog/2025/09/09/flexible-work-update/</id>
-    <summary type="text">Amy Coleman, Executive Vice President and Chief People Officer, shared the below communication with Microsoft employees this morning. How we work has forever changed. I remember starting at Microsoft in the late ‘90s, always in the office, no laptops, and primarily working with the people right down the hall. As technology evolved and our business expanded, we became...</summary>
-    <updated>Tue, 09 Sep 2025 15:05:44 +0000</updated>
+    <title>Executive Vice President, Cloud + AI</title>
+    <link href="https://blogs.microsoft.com/blog/author/scottguthrie/"/>
+    <id>https://blogs.microsoft.com/blog/author/scottguthrie/</id>
+    <summary type="text">Sep 18, 2025 | Scott Guthrie - Executive Vice President, Cloud + AI</summary>
   </entry>
   <entry>
     <title>Jessica Hawk, Author at The Official Microsoft Blog</title>
@@ -37,11 +43,5 @@
     <link href="https://blogs.microsoft.com/blog/author/cdemaria/"/>
     <id>https://blogs.microsoft.com/blog/author/cdemaria/</id>
     <summary type="text">Sep 11, 2025 | Microsoft Corporate Blogs</summary>
-  </entry>
-  <entry>
-    <title>Amy Coleman, Author at The Official Microsoft Blog</title>
-    <link href="https://blogs.microsoft.com/blog/author/acoleman/"/>
-    <id>https://blogs.microsoft.com/blog/author/acoleman/</id>
-    <summary type="text">Sep 9, 2025 | Amy Coleman - Executive Vice President, Chief People Officer</summary>
   </entry>
 </feed>

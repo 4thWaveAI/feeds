@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
+      "id": "https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/",
+      "url": "https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/",
+      "title": "Inside the world’s most powerful AI datacenter - The Official Microsoft Blog",
+      "content_text": "This week we have introduced a wave of purpose-built datacenters and infrastructure investments we are making around the world to support the global adoption of cutting-edge AI workloads and cloud services. Today in Wisconsin we introduced Fairwater, our newest US AI datacenter, the largest and most sophisticated AI factory we’ve built yet. In addition to...",
+      "attachments": [
+        {
+          "url": "https://blogs.microsoft.com/wp-content/uploads/2025/09/OMB-Datacenter-Hero-9_18_25-1024x683.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "satya-nadella"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/small-business/selling-on-amazon-supply-chain-explain",
       "url": "https://www.aboutamazon.com/news/small-business/selling-on-amazon-supply-chain-explain",
       "title": "Independent sellers move 5 billion products annually through Amazon’s network of global logistics, domestic freight, and bulk warehousing",
@@ -326,15 +341,6 @@
       ],
       "tags": [
         "young-talons-edu-tech"
-      ]
-    },
-    {
-      "id": "https://blogs.microsoft.com/blog/2025/09/09/flexible-work-update/",
-      "url": "https://blogs.microsoft.com/blog/2025/09/09/flexible-work-update/",
-      "title": "Flexible work update - The Official Microsoft Blog",
-      "content_text": "Amy Coleman, Executive Vice President and Chief People Officer, shared the below communication with Microsoft employees this morning. How we work has forever changed. I remember starting at Microsoft in the late ‘90s, always in the office, no laptops, and primarily working with the people right down the hall. As technology evolved and our business expanded, we became...",
-      "tags": [
-        "satya-nadella"
       ]
     },
     {

@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
+      "id": "https://phys.org/news/2025-09-thermal-trigger-scientists-protein-cell.html",
+      "url": "https://phys.org/news/2025-09-thermal-trigger-scientists-protein-cell.html",
+      "title": "Thermal trigger: Scientists develop heat-activated protein control for targeted cell death",
+      "content_text": "Researchers at the Nano Life Science Institute (WPI-NanoLSI), Kanazawa University, report in ACS Nano, how proteins in cells can be controllably activated through heating, an effect that can be used to initiate programmed cell death.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/thermal-trigger.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://phys.org/news/2025-09-powered-gears-strand-hair.html",
       "url": "https://phys.org/news/2025-09-powered-gears-strand-hair.html",
       "title": "New light-powered gears fit inside a strand of hair",
@@ -166,21 +181,6 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/atom-thin-crystals-sho.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-circuits-invisible-naked-eye-technique.html",
-      "url": "https://phys.org/news/2025-09-circuits-invisible-naked-eye-technique.html",
-      "title": "Circuits invisible to the naked eye: New technique shrinks microchips beyond current size limits",
-      "content_text": "Johns Hopkins researchers have discovered new materials and a new process that could advance the ever-escalating quest to make smaller, faster and affordable microchips used across modern electronics—in everything from cellphones to cars, appliances to airplanes.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/johns-hopkins-research.jpg",
           "mime_type": "image/jpeg"
         }
       ],
