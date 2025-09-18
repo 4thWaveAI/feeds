@@ -59,36 +59,6 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/blogs/spacestation/2025/09/18/cygnus-xl-cargo-craft-captured-by-station-robotic-arm/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2025/09/18/cygnus-xl-cargo-craft-captured-by-station-robotic-arm/",
-      "title": "Cygnus XL Cargo Craft Captured by Station Robotic Arm - NASA",
-      "content_text": "At 7:24 a.m. EDT, NASA astronaut Jonny Kim, with assistance from NASA astronaut Zena Cardman, captured Northrop Grumman’s Cygnus XL spacecraft using the International Space Station’s Canadarm2 robotic arm.",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2025/09/cygnusxl-capture.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2025/09/18/cygnus-resupply-ship-approaching-station-for-capture/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2025/09/18/cygnus-resupply-ship-approaching-station-for-capture/",
-      "title": "Cygnus Resupply Ship Approaching Station for Capture - NASA",
-      "content_text": "At approximately 7:18 a.m. EDT, NASA astronaut Jonny Kim will capture the spacecraft using the International Space Station’s Canadarm2 robotic arm, and NASA astronaut Zena Cardman will assist. After capture, the spacecraft will be installed on the Unity module’s Earth-facing port for cargo unloading.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/iss071e416851/iss071e416851~large.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.nasa.gov/blogs/spacestation/2025/09/18/robotic-arm-maneuvering-cygnus-for-station-installation/",
       "url": "https://www.nasa.gov/blogs/spacestation/2025/09/18/robotic-arm-maneuvering-cygnus-for-station-installation/",
       "title": "Robotic Arm Maneuvering Cygnus for Station Installation - NASA",
@@ -96,6 +66,21 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2025/09/cygnusxl-capture3.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2025/09/18/cygnus-xl-cargo-craft-captured-by-station-robotic-arm/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2025/09/18/cygnus-xl-cargo-craft-captured-by-station-robotic-arm/",
+      "title": "Cygnus XL Cargo Craft Captured by Station Robotic Arm - NASA",
+      "content_text": "At 7:24 a.m. EDT, NASA astronaut Jonny Kim, with assistance from NASA astronaut Zena Cardman, captured Northrop Grumman’s Cygnus XL spacecraft using the International Space Station’s Canadarm2 robotic arm.",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/09/cygnusxl-capture.jpg",
           "mime_type": "image/jpeg"
         }
       ],

@@ -200,6 +200,21 @@
       ]
     },
     {
+      "id": "https://www.nature.com/articles/s42005-025-02315-7",
+      "url": "https://www.nature.com/articles/s42005-025-02315-7",
+      "title": "Predicting fracture in disordered network materials using the local intelligent stress threshold indicator - Communications Physics",
+      "content_text": "Network glass fracture is a sudden, complex process lacking clear precursors. Here, the authors develop the local intelligent stress threshold indicator (LISTI), a neural network-based tool that predicts nanoscale crack nucleation by correlating local stress thresholds with structural topology, offering a method to identify fracture-prone zones in network glasses.",
+      "attachments": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42005-025-02315-7/MediaObjects/42005_2025_2315_Fig1_HTML.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "structural-battery-composites"
+      ]
+    },
+    {
       "id": "https://www.nature.com/articles/s41428-025-01098-6",
       "url": "https://www.nature.com/articles/s41428-025-01098-6",
       "title": "Multiple hydrogen bonds as tools to enhance the mechanical and mechanoresponsive properties of polymers - Polymer Journal",
@@ -252,21 +267,6 @@
       "attachments": [
         {
           "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-025-20196-2/MediaObjects/41598_2025_20196_Fig1_HTML.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "structural-battery-composites"
-      ]
-    },
-    {
-      "id": "https://www.nature.com/articles/s41467-025-62707-9",
-      "url": "https://www.nature.com/articles/s41467-025-62707-9",
-      "title": "Photoinduced non-reciprocal magnetism - Nature Communications",
-      "content_text": "In open nonequilibrium systems, interactions that break the action-reaction symmetry are ubiquitous in nature. While such nonreciprocal interactions have been implemented for quantum systems, they typically require fine microscopic control of dissipation. Here, Hanai, Ootsuki and Tazai propose a dissipation engineering scheme that induces nonreciprocal interactions in solid state materials, giving rise to a persistent many-body chase-and-runaway dynamics of magnetism in layered ferromagnets.",
-      "attachments": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-62707-9/MediaObjects/41467_2025_62707_Fig1_HTML.png",
           "mime_type": "image/png"
         }
       ],

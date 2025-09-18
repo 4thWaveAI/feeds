@@ -5,14 +5,18 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
-      "id": "https://phys.org/news/2025-09-lipid-nanoparticles-enable-rna-therapy.html",
-      "url": "https://phys.org/news/2025-09-lipid-nanoparticles-enable-rna-therapy.html",
-      "title": "Lipid nanoparticles enable targeted RNA therapy for inflammatory bowel diseases",
-      "content_text": "Researchers at Tel Aviv University have developed a new approach for using locked nucleic acids (LNAs)—a particularly stable type of RNA—to treat inflammatory bowel diseases such as Crohn's disease and ulcerative colitis. The researchers encapsulated selected LNA molecules, which silence a key gene in colitis, within lipid (fat) nanoparticles that serve as targeted drug carriers and injected the nanoparticles into colitis-model mice.",
+      "id": "https://phys.org/news/2025-09-powered-gears-strand-hair.html",
+      "url": "https://phys.org/news/2025-09-powered-gears-strand-hair.html",
+      "title": "New light-powered gears fit inside a strand of hair",
+      "content_text": "Researchers at the University of Gothenburg have made light-powered gears on a micrometer scale. This paves the way for the smallest on-chip motors in history, which can fit inside a strand of hair. The research is published in the journal Nature Communications.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/targeted-delivery-of-l.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-light-powered-moto.jpg",
           "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://scx2.b-cdn.net/gfx/video/2025/new-light-powered-moto-1.mp4",
+          "mime_type": "video/mp4"
         }
       ],
       "tags": [
@@ -27,6 +31,21 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/2025/a-scalable-approach-to-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-lipid-nanoparticles-enable-rna-therapy.html",
+      "url": "https://phys.org/news/2025-09-lipid-nanoparticles-enable-rna-therapy.html",
+      "title": "Lipid nanoparticles enable targeted RNA therapy for inflammatory bowel diseases",
+      "content_text": "Researchers at Tel Aviv University have developed a new approach for using locked nucleic acids (LNAs)—a particularly stable type of RNA—to treat inflammatory bowel diseases such as Crohn's disease and ulcerative colitis. The researchers encapsulated selected LNA molecules, which silence a key gene in colitis, within lipid (fat) nanoparticles that serve as targeted drug carriers and injected the nanoparticles into colitis-model mice.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/targeted-delivery-of-l.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -162,21 +181,6 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/2025/johns-hopkins-research.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-nano-gated-excitons.html",
-      "url": "https://phys.org/news/2025-09-nano-gated-excitons.html",
-      "title": "Nano-switch achieves first directed, gated flow of excitons",
-      "content_text": "A new nanostructure acts like a wire and switch that can, for the first time, control and direct the flow of quantum quasiparticles called excitons at room temperature.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/nano-switch-achieves-f.jpg",
           "mime_type": "image/jpeg"
         }
       ],
