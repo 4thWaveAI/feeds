@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/jensen-huang.atom.xml"/>
   <id>urn:4thwaveai-feeds:jensen-huang</id>
-  <updated>Thu, 18 Sep 2025 10:41:18 +0000</updated>
+  <updated>Thu, 18 Sep 2025 11:27:57 +0000</updated>
   <entry>
     <title>The AI Makers: NVIDIA Partners in UK Advance Physical and Agentic AI, Robotics, Life Sciences and More</title>
     <link href="https://blogs.nvidia.com/blog/uk-partner-ecosystem-ai-makers/"/>
@@ -27,6 +27,12 @@
     <updated>Tue, 09 Sep 2025 15:00:29 +0000</updated>
   </entry>
   <entry>
+    <title>NVIDIA and Intel to Develop AI Infrastructure and Personal Computing Products</title>
+    <link href="https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products"/>
+    <id>https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products</id>
+    <summary type="text">NVIDIA (NASDAQ: NVDA) and Intel Corporation (NASDAQ: INTC) today announced a collaboration to jointly develop multiple generations of custom data center and PC products that accelerate applications and workloads across hyperscale, enterprise and consumer markets.</summary>
+  </entry>
+  <entry>
     <title>NVIDIA and United Kingdom Build Nation’s AI Infrastructure and Ecosystem to Fuel Innovation, Economic Growth and Jobs</title>
     <link href="https://nvidianews.nvidia.com/news/nvidia-and-united-kingdom-build-nations-ai-infrastructure-and-ecosystem-to-fuel-innovation-economic-growth-and-jobs"/>
     <id>https://nvidianews.nvidia.com/news/nvidia-and-united-kingdom-build-nations-ai-infrastructure-and-ecosystem-to-fuel-innovation-economic-growth-and-jobs</id>
@@ -37,12 +43,6 @@
     <link href="https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference"/>
     <id>https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference</id>
     <summary type="text">NVIDIA® today announced NVIDIA Rubin CPX, a new class of GPU purpose-built for massive-context processing. This enables AI systems to handle million-token software coding and generative video with groundbreaking speed and efficiency.</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA Announces Financial Results for Second Quarter Fiscal 2026</title>
-    <link href="https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2026"/>
-    <id>https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2026</id>
-    <summary type="text">NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 27, 2025, of $46.7 billion, up 6% from the previous quarter and up 56% from a year ago. NVIDIA’s Blackwell Data Center revenue grew 17% sequentially.</summary>
   </entry>
   <entry>
     <title>Generative AI Archives</title>
