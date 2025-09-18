@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/structural-battery-composites.atom.xml"/>
   <id>urn:4thwaveai-feeds:structural-battery-composites</id>
-  <updated>Thu, 18 Sep 2025 08:46:26 +0000</updated>
+  <updated>Thu, 18 Sep 2025 09:35:17 +0000</updated>
   <entry>
     <title>Light-powered chip makes AI 100 times more efficient</title>
     <link href="https://www.sciencedaily.com/releases/2025/09/250908175458.htm"/>
@@ -84,6 +84,12 @@
     <summary type="text">Terahertz technology has the potential to push the speed limit of future opto-electronic applications, but the large free-space wavelength of terahertz light hinders nanoscale device implementation. Now, the confinement of terahertz light to the nanometre scale is demonstrated using phonon polaritons in hafnium-based van der Waals crystals.</summary>
   </entry>
   <entry>
+    <title>Multiple hydrogen bonds as tools to enhance the mechanical and mechanoresponsive properties of polymers - Polymer Journal</title>
+    <link href="https://www.nature.com/articles/s41428-025-01098-6"/>
+    <id>https://www.nature.com/articles/s41428-025-01098-6</id>
+    <summary type="text">This review delineates a design strategy for mechanoresponsive polymers by categorizing hydrogen-bonding (H-bonding) motifs into “rigid” and “flexible” types. Rigid H-bonds, with strong directionality, provide high elasticity and strength. In contrast, flexible H-bonds, such as aliphatic diols, possess multiple, conformationally diverse binding modes. This flexibility allows for more efficient energy dissipation and network recovery under strain, leading to materials with superior dynamicity. We discuss the intrinsic effects of structural flexibility of H-bonding groups on mechanical properties, independent of solvent interactions.</summary>
+  </entry>
+  <entry>
     <title>Molecular crystal memristors - Nature Nanotechnology</title>
     <link href="https://www.nature.com/articles/s41565-025-02013-z"/>
     <id>https://www.nature.com/articles/s41565-025-02013-z</id>
@@ -106,11 +112,5 @@
     <link href="https://www.nature.com/articles/s41467-025-63409-y"/>
     <id>https://www.nature.com/articles/s41467-025-63409-y</id>
     <summary type="text">Quantum sensing of lithium and post-lithium batteries is introduced to visualize how electrons and ions flow and react during operation. Here, authors show how this facilitates operando imaging of heterogeneous redox reactions, buried current distributions, and dendrite formation.</summary>
-  </entry>
-  <entry>
-    <title>Thermo-mechanical behavior and spalling resistance of alkali-activated slag versus cement mortars under rapid high-temperature exposure - Scientific Reports</title>
-    <link href="https://www.nature.com/articles/s41598-025-19301-2"/>
-    <id>https://www.nature.com/articles/s41598-025-19301-2</id>
-    <summary type="text">Scientific Reports volume 15 , Article number: 32581 ( 2025 ) Cite this article</summary>
   </entry>
 </feed>
