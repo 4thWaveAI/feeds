@@ -5,6 +5,51 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sciencedaily-top.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250916221920.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250916221920.htm",
+      "title": "Goodbye colonoscopy? Simple stool test detects 90% of colorectal cancers",
+      "content_text": "Scientists at the University of Geneva have created the first detailed catalogue of gut bacteria at the subspecies level, unlocking powerful new ways to detect colorectal cancer. By applying machine learning to stool samples, they achieved a 90% detection rate—nearly matching colonoscopies, but with far less cost and discomfort. This breakthrough could revolutionize early cancer screening, helping catch the disease before it advances.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/colon-cancer-bacteria-viruses.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250916221917.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250916221917.htm",
+      "title": "Rogue DNA rings may be the secret spark driving deadly brain cancer",
+      "content_text": "Rogue DNA rings known as ecDNA may hold the key to cracking glioblastoma’s deadly resilience. Emerging before tumors even form, they could offer scientists a crucial early-warning system and a chance to intervene before the disease becomes untreatable.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/rogue-dna-ring.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250916221913.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250916221913.htm",
+      "title": "Harvard’s salt trick could turn billions of tons of hair into eco-friendly materials",
+      "content_text": "Scientists at Harvard have discovered how salts like lithium bromide break down tough proteins such as keratin—not by attacking the proteins directly, but by altering the surrounding water structure. This breakthrough opens the door to a cleaner, more sustainable way to recycle wool, feathers, and hair into valuable materials, potentially replacing plastics and fueling new industries.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/protein-denaturation.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/09/250916221838.htm",
       "url": "https://www.sciencedaily.com/releases/2025/09/250916221838.htm",
       "title": "The violent collisions that made Earth habitable",
@@ -252,51 +297,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/daughter-cuddling-mother-anxiety-comfort.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250915202831.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250915202831.htm",
-      "title": "Scientists just found the “master switch” for plant growth",
-      "content_text": "Scientists at Cold Spring Harbor Laboratory have cracked open the secrets of plant stem cells, mapping key genetic regulators in maize and Arabidopsis. By using single-cell RNA sequencing, they created a gene expression atlas that identifies rare stem cell regulators, links them to crop size and productivity, and offers a new roadmap for breeding resilient, high-yield plants.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/maize-stem-cells.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250915202828.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250915202828.htm",
-      "title": "A volcano erased an island’s plants. Their DNA revealed how life starts over",
-      "content_text": "Volcanic eruptions on the remote island of Nishinoshima repeatedly wipe the land clean, giving scientists a rare chance to study life’s earliest stages. Researchers traced the genetic origins of an extinct purslane population to nearby Chichijima but found striking quirks—evidence of a founder’s effect and genetic drift. These discoveries shed light on how plants recolonize harsh environments and how ecosystems evolve from scratch.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/volcano-erupting-at-night-lava-flow.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250915085344.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250915085344.htm",
-      "title": "Scientists are closing in on Leonardo da Vinci’s DNA",
-      "content_text": "A groundbreaking project is piecing together Leonardo da Vinci’s genetic profile by tracing his lineage across 21 generations and comparing DNA from living descendants with remains in a Da Vinci family tomb. If successful, the effort could reveal new insights into Leonardo’s health, creativity, and even help confirm the authenticity of his works.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/vitruvian-man-dna.webp",
           "mime_type": "image/webp"
         }
       ],

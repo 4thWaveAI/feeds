@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sundar-pichai.atom.xml"/>
   <id>urn:4thwaveai-feeds:sundar-pichai</id>
-  <updated>Wed, 17 Sep 2025 23:41:20 +0000</updated>
+  <updated>Thu, 18 Sep 2025 03:08:49 +0000</updated>
   <entry>
     <title>The Keyword</title>
     <link href="https://blog.google/"/>
@@ -40,5 +40,11 @@
     <link href="https://blog.google/products/wear-os/"/>
     <id>https://blog.google/products/wear-os/</id>
     <summary type="text">Read the latest about Wear OS by Google — smartwatches that let you track fitness, read messages and get help from Google Assistant.</summary>
+  </entry>
+  <entry>
+    <title>Latest News from Google Research Blog - Google Research</title>
+    <link href="https://ai.googleblog.com/"/>
+    <id>https://ai.googleblog.com/</id>
+    <summary type="text">We strive to create an environment conducive to many different types of research across many different time scales and levels of risk.</summary>
   </entry>
 </feed>

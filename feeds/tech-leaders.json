@@ -5,6 +5,63 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.json",
   "items": [
     {
+      "id": "https://about.fb.com/news/2025/09/meta-ray-ban-display-ai-glasses-emg-wristband/",
+      "url": "https://about.fb.com/news/2025/09/meta-ray-ban-display-ai-glasses-emg-wristband/",
+      "title": "Meta Ray-Ban Display: AI Glasses With an EMG Wristband",
+      "content_text": "Today at Connect, Mark Zuckerberg unveiled the next evolution in AI glasses: Meta Ray-Ban Display and Meta Neural Band.",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2025/09/Meta-Ray-Ban-Display_Social-Share.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2025/09/Meta-Ray-Ban-Display_Header.mp4?_=1",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
+      "id": "https://about.fb.com/news/2025/09/oakley-meta-vanguard-performance-ai-glasses-sports/",
+      "url": "https://about.fb.com/news/2025/09/oakley-meta-vanguard-performance-ai-glasses-sports/",
+      "title": "Athletic Intelligence Is Here, Meet Oakley Meta Vanguard",
+      "content_text": "Today at Connect, Mark Zuckerberg introduced Oakley Meta Vanguard, a brand-new line of Performance AI glasses built for high-intensity sports.",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2025/09/Oakley-Meta-Vanguard_Social-Share.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2025/09/Oakley-Meta-Vanguard_Header.mp4?_=1",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
+      "id": "https://about.fb.com/news/2025/09/ray-ban-meta-gen-2-better-battery-life-video-capture/",
+      "url": "https://about.fb.com/news/2025/09/ray-ban-meta-gen-2-better-battery-life-video-capture/",
+      "title": "Ray-Ban Meta (Gen 2) Now With Up to 2X the Battery Life and Better Video Capture",
+      "content_text": "We’re introducing Ray-Ban Meta (Gen 2), the same stylish AI glasses you love with, now with new features.",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2025/09/Ray-Ban-Meta_Social-Share.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2025/09/Ray-Ban-Meta_Header.mp4?_=1",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability",
       "url": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability",
       "title": "Amazon's water conservation and replenishment efforts around the world",
@@ -241,51 +298,6 @@
       ],
       "tags": [
         "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://about.fb.com/news/2025/08/new-instagram-features-help-you-connect/",
-      "url": "https://about.fb.com/news/2025/08/new-instagram-features-help-you-connect/",
-      "title": "New Instagram Features to Help You Connect",
-      "content_text": "We’re launching features that make it easier to connect with your friends on Instagram.",
-      "attachments": [
-        {
-          "url": "https://about.fb.com/wp-content/uploads/2025/08/Instagram-Features-to-Help-You-Connect_Social-Share-1.png?w=1200",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "mark-zuckerberg"
-      ]
-    },
-    {
-      "id": "https://about.fb.com/news/2025/07/personal-superintelligence-for-everyone/",
-      "url": "https://about.fb.com/news/2025/07/personal-superintelligence-for-everyone/",
-      "title": "Personal Superintelligence for Everyone",
-      "content_text": "Today, Meta Founder & CEO Mark Zuckerberg shared his vision to bring personal superintelligence to everyone.",
-      "attachments": [
-        {
-          "url": "https://about.fb.com/wp-content/uploads/2022/06/NRP_Meta_Logo_Thumbnail-BLUE.jpg?w=1200",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "mark-zuckerberg"
-      ]
-    },
-    {
-      "id": "https://about.fb.com/news/2025/06/edit-videos-with-meta-ai/",
-      "url": "https://about.fb.com/news/2025/06/edit-videos-with-meta-ai/",
-      "title": "You Can Now Edit Videos With Meta AI",
-      "content_text": "We’re launching a generative AI video editing feature across the Meta AI app, the Meta.AI website and the Edits app to help you bring your creative ideas to life.",
-      "attachments": [
-        {
-          "url": "https://about.fb.com/wp-content/uploads/2025/06/Meta-AI_Video-Editing_Social-Share.png?w=1200",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "mark-zuckerberg"
       ]
     },
     {
@@ -669,6 +681,21 @@
       ]
     },
     {
+      "id": "https://ai.googleblog.com/",
+      "url": "https://ai.googleblog.com/",
+      "title": "Latest News from Google Research Blog - Google Research",
+      "content_text": "We strive to create an environment conducive to many different types of research across many different time scales and levels of risk.",
+      "attachments": [
+        {
+          "url": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "sundar-pichai"
+      ]
+    },
+    {
       "id": "https://blogs.microsoft.com/blog/author/jessiahawk/",
       "url": "https://blogs.microsoft.com/blog/author/jessiahawk/",
       "title": "Jessica Hawk, Author at The Official Microsoft Blog",
@@ -720,7 +747,7 @@
       "content_text": "How Geoff Richman, lead editor on the Apple Original, “Severance,” created the frenetic world of the hit show’s season two finale.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/Apple-TV-plus-Mac-editing-Severance-Geoffrey-Richman-and-Ben-Stiller-lp.jpg.og.jpg?202508281642=",
+          "url": "https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/Apple-TV-plus-Mac-editing-Severance-Geoffrey-Richman-and-Ben-Stiller-lp.jpg.og.jpg?202508281640=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -750,7 +777,7 @@
       "content_text": "From a horror-comedy in Tamil to a magical romance in Malayalam, MAMI Select filmmakers are redefining cinema with iPhone 16 Pro Max.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/tile/Apple-MAMI-Select-iPhone-16-Pro-Max-hero-lp.jpg.og.jpg?202508281729=",
+          "url": "https://www.apple.com/newsroom/images/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/tile/Apple-MAMI-Select-iPhone-16-Pro-Max-hero-lp.jpg.og.jpg?202508281639=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -810,7 +837,7 @@
       "content_text": "Discover more stories from Apple Newsroom that showcase the creators, developers, and innovators leaving the world better than they found it.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758150119824=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758149921048=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -917,21 +944,6 @@
         {
           "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/NS26Social_NewShepard-Sunrise_HomePageTakeover.jpg",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.blueorigin.com/news",
-      "url": "https://www.blueorigin.com/news",
-      "title": "News | Blue Origin",
-      "content_text": "The Latest from Blue",
-      "attachments": [
-        {
-          "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/latest-news_hero.png",
-          "mime_type": "image/png"
         }
       ],
       "tags": [
