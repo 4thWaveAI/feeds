@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.json",
   "items": [
     {
+      "id": "https://about.fb.com/news/2025/09/bringing-new-tools-to-help-businesses-boost-engagement-customer-support-and-discoverability/",
+      "url": "https://about.fb.com/news/2025/09/bringing-new-tools-to-help-businesses-boost-engagement-customer-support-and-discoverability/",
+      "title": "Bringing New tools To Help Businesses Boost Engagement, Customer Support and Discoverability",
+      "content_text": "We hosted our second business summit in India where we showcased tools and features that will empower businesses of all sizes in establishing their presence, building better and delightful customer experiences, and growing their businesses.",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2025/09/Arun-Srinivas_WABS-2025_1.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
       "id": "https://about.fb.com/news/2025/09/meta-ray-ban-display-ai-glasses-emg-wristband/",
       "url": "https://about.fb.com/news/2025/09/meta-ray-ban-display-ai-glasses-emg-wristband/",
       "title": "Meta Ray-Ban Display: AI Glasses With an EMG Wristband",
@@ -237,25 +252,6 @@
         {
           "url": "https://about.fb.com/wp-content/uploads/2025/09/Threads-Text-Attachments-Header-1.jpg?w=1200",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "mark-zuckerberg"
-      ]
-    },
-    {
-      "id": "https://about.fb.com/news/2025/09/instagram-launches-a-microdrama-series-to-encourage-gen-z-to-take-creative-chances/",
-      "url": "https://about.fb.com/news/2025/09/instagram-launches-a-microdrama-series-to-encourage-gen-z-to-take-creative-chances/",
-      "title": "Instagram Launches A Microdrama Series To Encourage Gen Z To Take Creative Chances",
-      "content_text": "Today, Instagram released a microdrama series in India to inspire Gen Z to take creative risks and bring them together. Titled ‘Party of Two’, the series follows Instagram’s ‘Anyway’ campaign from this year.",
-      "attachments": [
-        {
-          "url": "https://about.fb.com/wp-content/uploads/2025/09/Party-of-Two-by-Instagram-1-1.png?w=1200",
-          "mime_type": "image/png"
-        },
-        {
-          "url": "https://about.fb.com/wp-content/uploads/2025/09/Trailer-Party-of-Two.mp4?_=1",
-          "mime_type": "video/mp4"
         }
       ],
       "tags": [
@@ -762,7 +758,7 @@
       "content_text": "Meet Taiki Hamamoto, Marina Lee, Luciana Ortiz Nolasco, and Nahom Worku, four winners of Apple’s 2025 Swift Student Challenge.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281742=",
+          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281636=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -777,7 +773,7 @@
       "content_text": "From a horror-comedy in Tamil to a magical romance in Malayalam, MAMI Select filmmakers are redefining cinema with iPhone 16 Pro Max.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/tile/Apple-MAMI-Select-iPhone-16-Pro-Max-hero-lp.jpg.og.jpg?202508281639=",
+          "url": "https://www.apple.com/newsroom/images/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/tile/Apple-MAMI-Select-iPhone-16-Pro-Max-hero-lp.jpg.og.jpg?202508281729=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -792,7 +788,7 @@
       "content_text": "Captured on iPhone 16 Pro Max, a recent shoot by photographer Karston Tannis showcased the vibrancy of the African diaspora.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/02/capturing-paradise-karston-tannis-re-creates-island-vibes-with-iphone-16-pro-max/tile/Apple-Tannis-shot-on-iPhone-16-Pro-Max-group-shot-lp.jpg.og.jpg?202508281648=",
+          "url": "https://www.apple.com/newsroom/images/2025/02/capturing-paradise-karston-tannis-re-creates-island-vibes-with-iphone-16-pro-max/tile/Apple-Tannis-shot-on-iPhone-16-Pro-Max-group-shot-lp.jpg.og.jpg?202508281642=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -807,7 +803,7 @@
       "content_text": "The official source for news about Apple, from Apple. Read press releases, get updates, watch video and download images.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202509172259=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202509172258=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -822,7 +818,7 @@
       "content_text": "The source for news about Apple Services. Get updates on the latest Apple Arcade games, Apple Originals on TV+, Podcasts, Books, and more from Apple Newsroom.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758151412160=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758150068848=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -837,7 +833,7 @@
       "content_text": "Discover more stories from Apple Newsroom that showcase the creators, developers, and innovators leaving the world better than they found it.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758149908619=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758150119824=",
           "mime_type": "image/jpeg"
         }
       ],

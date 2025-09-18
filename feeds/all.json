@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
+      "id": "https://about.fb.com/news/2025/09/bringing-new-tools-to-help-businesses-boost-engagement-customer-support-and-discoverability/",
+      "url": "https://about.fb.com/news/2025/09/bringing-new-tools-to-help-businesses-boost-engagement-customer-support-and-discoverability/",
+      "title": "Bringing New tools To Help Businesses Boost Engagement, Customer Support and Discoverability",
+      "content_text": "We hosted our second business summit in India where we showcased tools and features that will empower businesses of all sizes in establishing their presence, building better and delightful customer experiences, and growing their businesses.",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2025/09/Arun-Srinivas_WABS-2025_1.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
       "id": "https://about.fb.com/news/2025/09/meta-ray-ban-display-ai-glasses-emg-wristband/",
       "url": "https://about.fb.com/news/2025/09/meta-ray-ban-display-ai-glasses-emg-wristband/",
       "title": "Meta Ray-Ban Display: AI Glasses With an EMG Wristband",
@@ -421,25 +436,6 @@
       ],
       "tags": [
         "biotech"
-      ]
-    },
-    {
-      "id": "https://about.fb.com/news/2025/09/instagram-launches-a-microdrama-series-to-encourage-gen-z-to-take-creative-chances/",
-      "url": "https://about.fb.com/news/2025/09/instagram-launches-a-microdrama-series-to-encourage-gen-z-to-take-creative-chances/",
-      "title": "Instagram Launches A Microdrama Series To Encourage Gen Z To Take Creative Chances",
-      "content_text": "Today, Instagram released a microdrama series in India to inspire Gen Z to take creative risks and bring them together. Titled ‘Party of Two’, the series follows Instagram’s ‘Anyway’ campaign from this year.",
-      "attachments": [
-        {
-          "url": "https://about.fb.com/wp-content/uploads/2025/09/Party-of-Two-by-Instagram-1-1.png?w=1200",
-          "mime_type": "image/png"
-        },
-        {
-          "url": "https://about.fb.com/wp-content/uploads/2025/09/Trailer-Party-of-Two.mp4?_=1",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "mark-zuckerberg"
       ]
     },
     {
