@@ -4,7 +4,14 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/jeff-bezos.atom.xml"/>
   <id>urn:4thwaveai-feeds:jeff-bezos</id>
-  <updated>Thu, 18 Sep 2025 21:44:18 +0000</updated>
+  <updated>Thu, 18 Sep 2025 22:34:42 +0000</updated>
+  <entry>
+    <title>Qwen3 and DeepSeek-V3.1 models now available fully managed on AWS</title>
+    <link href="https://www.aboutamazon.com/news/aws/alibaba-qwen3-deepseek-v3-amazon-bedrock"/>
+    <id>https://www.aboutamazon.com/news/aws/alibaba-qwen3-deepseek-v3-amazon-bedrock</id>
+    <summary type="text">AWS continues to invest in being the best place to run open weight models with five new options that enhance model choice in Amazon Bedrock to further meet customers’ needs.</summary>
+    <updated>Thu, 18 Sep 2025 22:03:23 +0000</updated>
+  </entry>
   <entry>
     <title>Independent sellers move 5 billion products annually through Amazon’s network of global logistics, domestic freight, and bulk warehousing</title>
     <link href="https://www.aboutamazon.com/news/small-business/selling-on-amazon-supply-chain-explain"/>
@@ -32,13 +39,6 @@
     <id>https://www.aboutamazon.com/news/entertainment/maintenance-required-movie-prime-video</id>
     <summary type="text">Check out the trailer for the Lacey Uhlemeyer romantic comedy where a business owner confides in the very man behind her troubles.</summary>
     <updated>Wed, 17 Sep 2025 16:00:04 +0000</updated>
-  </entry>
-  <entry>
-    <title>&#x27;Helluva Boss&#x27; is on Prime Video. Here&#x27;s how to watch it.</title>
-    <link href="https://www.aboutamazon.com/news/entertainment/helluva-boss-prime-video"/>
-    <id>https://www.aboutamazon.com/news/entertainment/helluva-boss-prime-video</id>
-    <summary type="text">All 20 episodes of the hit animated show are available to stream on Prime Video.</summary>
-    <updated>Tue, 19 Aug 2025 21:30:22 +0000</updated>
   </entry>
   <entry>
     <title>Submit a Media Inquiry | Blue Origin</title>
@@ -89,6 +89,12 @@
     <summary type="text">188 results - showing results 1 - 12</summary>
   </entry>
   <entry>
+    <title>AWS</title>
+    <link href="https://www.aboutamazon.com/news/aws"/>
+    <id>https://www.aboutamazon.com/news/aws</id>
+    <summary type="text">If you&#x27;re an inventor, you&#x27;ll love being an Amazonian. From day one at Amazon, you&#x27;ll take ownership of projects that have a direct impact on our customers.</summary>
+  </entry>
+  <entry>
     <title>Small business</title>
     <link href="https://www.aboutamazon.com/news/small-business"/>
     <id>https://www.aboutamazon.com/news/small-business</id>
@@ -117,11 +123,5 @@
     <link href="https://www.aboutamazon.com/news/retail"/>
     <id>https://www.aboutamazon.com/news/retail</id>
     <summary type="text">More information about shopping on Amazon and our selection of products and services.</summary>
-  </entry>
-  <entry>
-    <title>Workplace</title>
-    <link href="https://www.aboutamazon.com/news/workplace"/>
-    <id>https://www.aboutamazon.com/news/workplace</id>
-    <summary type="text">If you&#x27;re an inventor, you&#x27;ll love being an Amazonian. From day one at Amazon, you&#x27;ll take ownership of projects that have a direct impact on our customers.</summary>
   </entry>
 </feed>

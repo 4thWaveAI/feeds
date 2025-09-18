@@ -4,7 +4,14 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.atom.xml"/>
   <id>urn:4thwaveai-feeds:tech-leaders</id>
-  <updated>Thu, 18 Sep 2025 21:44:45 +0000</updated>
+  <updated>Thu, 18 Sep 2025 22:35:14 +0000</updated>
+  <entry>
+    <title>Qwen3 and DeepSeek-V3.1 models now available fully managed on AWS</title>
+    <link href="https://www.aboutamazon.com/news/aws/alibaba-qwen3-deepseek-v3-amazon-bedrock"/>
+    <id>https://www.aboutamazon.com/news/aws/alibaba-qwen3-deepseek-v3-amazon-bedrock</id>
+    <summary type="text">AWS continues to invest in being the best place to run open weight models with five new options that enhance model choice in Amazon Bedrock to further meet customers’ needs.</summary>
+    <updated>Thu, 18 Sep 2025 22:03:23 +0000</updated>
+  </entry>
   <entry>
     <title>The UK’s ‘Goldilocks Moment for AI’: NVIDIA, UK and US Leaders Highlight AI Infrastructure Investments</title>
     <link href="https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/"/>
@@ -123,13 +130,6 @@
     <id>https://about.fb.com/news/2025/08/metas-kansas-city-data-center/</id>
     <summary type="text">Our Kansas City data center is now operational, representing a $1 billion investment in Missouri and in our global infrastructure that brings our technologies to billions of people worldwide.</summary>
     <updated>Wed, 20 Aug 2025 15:00:26 +0000</updated>
-  </entry>
-  <entry>
-    <title>&#x27;Helluva Boss&#x27; is on Prime Video. Here&#x27;s how to watch it.</title>
-    <link href="https://www.aboutamazon.com/news/entertainment/helluva-boss-prime-video"/>
-    <id>https://www.aboutamazon.com/news/entertainment/helluva-boss-prime-video</id>
-    <summary type="text">All 20 episodes of the hit animated show are available to stream on Prime Video.</summary>
-    <updated>Tue, 19 Aug 2025 21:30:22 +0000</updated>
   </entry>
   <entry>
     <title>AlphaQubit tackles one of quantum computing’s biggest challenges</title>

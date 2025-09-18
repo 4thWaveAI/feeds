@@ -5,13 +5,28 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
+      "id": "https://www.aboutamazon.com/news/aws/alibaba-qwen3-deepseek-v3-amazon-bedrock",
+      "url": "https://www.aboutamazon.com/news/aws/alibaba-qwen3-deepseek-v3-amazon-bedrock",
+      "title": "Qwen3 and DeepSeek-V3.1 models now available fully managed on AWS",
+      "content_text": "AWS continues to invest in being the best place to run open weight models with five new options that enhance model choice in Amazon Bedrock to further meet customers’ needs.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/2550bef/2147483647/strip/true/crop/1342x671+0+42/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F7b%2F21%2Fe87f4adf4c0788930b7a7adb8d9e%2Fnewheroforopenweight.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/",
       "url": "https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/",
       "title": "The UK’s ‘Goldilocks Moment for AI’: NVIDIA, UK and US Leaders Highlight AI Infrastructure Investments",
       "content_text": "NVIDIA founder and CEO Jensen Huang discussed the UK’s plans to become an AI superpower with UK Prime Minister Keir Starmer, UK Secretary of State for Science, Innovation and Technology Liz Kendall, UK Secretary of State for Business and Trade Peter Kyle, and US Secretary of Commerce Howard Lutnick.",
       "attachments": [
         {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/uk-ecosystem-celebration-featured-1280x680-1.jpg",
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/xxxxxxx-jhh-uk-state-visit-blog-special-guest-1280x680-1.jpg",
           "mime_type": "image/jpeg"
         },
         {
@@ -529,25 +544,6 @@
       ],
       "tags": [
         "mark-zuckerberg"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/entertainment/helluva-boss-prime-video",
-      "url": "https://www.aboutamazon.com/news/entertainment/helluva-boss-prime-video",
-      "title": "'Helluva Boss' is on Prime Video. Here's how to watch it.",
-      "content_text": "All 20 episodes of the hit animated show are available to stream on Prime Video.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/ebf54aa/2147483647/strip/true/crop/1920x960+0+60/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F73%2Fd4%2F70c02ce84627be6fda3387cbe691%2Finline002-aa-hlvb-s2-fg-202-00054022-still005.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/iN0rFuCCA-Y",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
       ]
     },
     {

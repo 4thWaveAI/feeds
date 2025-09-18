@@ -142,12 +142,12 @@
     {
       "id": "https://www.edsurge.com/news/topics",
       "url": "https://www.edsurge.com/news/topics",
-      "title": "Education Technology Collections - EdSurge",
-      "content_text": "Articles and Resources: Learn about fifty states project, personalized learning, blended learning, getting an edtech job, purchasing products and much more.",
+      "title": "All Topics - EdSurge",
+      "content_text": "All Topics.",
       "attachments": [
         {
-          "url": "https://edsurge.imgix.net/static_assets/meta/2x2_guides.jpg?auto=compress%2Cformat&w=480&h=480&fit=crop",
-          "mime_type": "image/jpeg"
+          "url": "https://edsurge.imgix.net/static_assets/meta/EdSurge_Bolt_Green.png?auto=compress%2Cformat&w=480&h=480&fit=crop",
+          "mime_type": "image/png"
         }
       ],
       "tags": [

@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/structural-battery-composites.atom.xml"/>
   <id>urn:4thwaveai-feeds:structural-battery-composites</id>
-  <updated>Thu, 18 Sep 2025 21:43:57 +0000</updated>
+  <updated>Thu, 18 Sep 2025 22:34:18 +0000</updated>
   <entry>
     <title>Light-powered chip makes AI 100 times more efficient</title>
     <link href="https://www.sciencedaily.com/releases/2025/09/250908175458.htm"/>
@@ -84,6 +84,12 @@
     <summary type="text">Terahertz technology has the potential to push the speed limit of future opto-electronic applications, but the large free-space wavelength of terahertz light hinders nanoscale device implementation. Now, the confinement of terahertz light to the nanometre scale is demonstrated using phonon polaritons in hafnium-based van der Waals crystals.</summary>
   </entry>
   <entry>
+    <title>Impact-resistant, haze-free, 3D-printable transparent block copolymer resin via photopolymerization-induced microphase separation - NPG Asia Materials</title>
+    <link href="https://www.nature.com/articles/s41427-025-00618-3"/>
+    <id>https://www.nature.com/articles/s41427-025-00618-3</id>
+    <summary type="text">We developed impact-resistant, haze-free poly(methyl methacrylate) (PMMA) by photopolymerization-induced microphase separation. Upon irradiation, a polymerization mixture transforms into a transparent monolithic solid. A nanoscopic bicontinuous morphology of glassy PMMA with rubbery and cross-linked polymer domains retains transparency and dimension stability even at high temperatures. 3D printing via direct ink writing demonstrates the potential of the developed material for advanced optical and structural applications.</summary>
+  </entry>
+  <entry>
     <title>Predicting fracture in disordered network materials using the local intelligent stress threshold indicator - Communications Physics</title>
     <link href="https://www.nature.com/articles/s42005-025-02315-7"/>
     <id>https://www.nature.com/articles/s42005-025-02315-7</id>
@@ -106,11 +112,5 @@
     <link href="https://www.nature.com/articles/s41598-025-19997-2"/>
     <id>https://www.nature.com/articles/s41598-025-19997-2</id>
     <summary type="text">Scientific Reports volume 15 , Article number: 32607 ( 2025 ) Cite this article</summary>
-  </entry>
-  <entry>
-    <title>Mechanical and mineralogical performance of sustainable cement composites with calcined palm oil leaf and calcined pine leaf Ash as supplementary cementitious materials - Scientific Reports</title>
-    <link href="https://www.nature.com/articles/s41598-025-20196-2"/>
-    <id>https://www.nature.com/articles/s41598-025-20196-2</id>
-    <summary type="text">Scientific Reports volume 15 , Article number: 32610 ( 2025 ) Cite this article</summary>
   </entry>
 </feed>
