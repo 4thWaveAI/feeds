@@ -4,7 +4,14 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai</id>
-  <updated>Thu, 18 Sep 2025 20:35:01 +0000</updated>
+  <updated>Thu, 18 Sep 2025 21:30:37 +0000</updated>
+  <entry>
+    <title>The UK’s ‘Goldilocks Moment for AI’: NVIDIA, UK and US Leaders Highlight AI Infrastructure Investments</title>
+    <link href="https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/"/>
+    <id>https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/</id>
+    <summary type="text">NVIDIA founder and CEO Jensen Huang discussed the UK’s plans to become an AI superpower with UK Prime Minister Keir Starmer, UK Secretary of State for Science, Innovation and Technology Liz Kendall, UK Secretary of State for Business and Trade Peter Kyle, and US Secretary of Commerce Howard Lutnick.</summary>
+    <updated>Thu, 18 Sep 2025 21:21:03 +0000</updated>
+  </entry>
   <entry>
     <title>The Kaggle Grandmasters Playbook: 7 Battle-Tested Modeling Techniques for Tabular Data | NVIDIA Technical Blog</title>
     <link href="https://developer.nvidia.com/blog/the-kaggle-grandmasters-playbook-7-battle-tested-modeling-techniques-for-tabular-data/"/>
@@ -39,13 +46,6 @@
     <id>https://developer.nvidia.com/blog/build-a-report-generator-ai-agent-with-nvidia-nemotron-on-openrouter/</id>
     <summary type="text">Unlike traditional systems that follow predefined paths, AI agents are autonomous systems that use large language models (LLMs) to make decisions, adapt to changing requirements…</summary>
     <updated>Mon, 15 Sep 2025 19:31:45 +0000</updated>
-  </entry>
-  <entry>
-    <title>Reaching Across the Isles: UK-LLM Brings AI to UK Languages With NVIDIA Nemotron</title>
-    <link href="https://blogs.nvidia.com/blog/uk-llm-nemotron/"/>
-    <id>https://blogs.nvidia.com/blog/uk-llm-nemotron/</id>
-    <summary type="text">Trained on the Isambard-AI supercomputer, UK-LLM enables AI reasoning for Welsh and other UK languages for public services.</summary>
-    <updated>Sun, 14 Sep 2025 01:00:21 +0000</updated>
   </entry>
   <entry>
     <title>NVIDIA Blackwell Ultra Sets New Inference Records in MLPerf Debut | NVIDIA Technical Blog</title>
@@ -261,16 +261,16 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <summary type="text">NVIDIA today announced that it is investing in accelerating the AI industrial revolution in the United Kingdom, working with partners including CoreWeave, Microsoft and Nscale to build the nation’s next generation of AI infrastructure.</summary>
   </entry>
   <entry>
-    <title>Data Center Archives</title>
-    <link href="https://blogs.nvidia.com/blog/category/enterprise/"/>
-    <id>https://blogs.nvidia.com/blog/category/enterprise/</id>
-    <summary type="text">NVIDIA Blackwell is the core of an entire system architecture designed specifically to power AI factories that produce… Read Article</summary>
-  </entry>
-  <entry>
     <title>Generative AI Archives</title>
     <link href="https://blogs.nvidia.com/blog/category/generative-ai/"/>
     <id>https://blogs.nvidia.com/blog/category/generative-ai/</id>
-    <summary type="text">Today’s creators are equal parts entertainer, producer and gamer, juggling game commentary, scene changes, replay clips, chat moderation… Read Article</summary>
+    <summary type="text">The U.K. was the center of the AI world this week as NVIDIA, U.K. and U.S. leaders announced… Read Article</summary>
+  </entry>
+  <entry>
+    <title>Data Center Archives</title>
+    <link href="https://blogs.nvidia.com/blog/category/enterprise/"/>
+    <id>https://blogs.nvidia.com/blog/category/enterprise/</id>
+    <summary type="text">The U.K. was the center of the AI world this week as NVIDIA, U.K. and U.S. leaders announced… Read Article</summary>
   </entry>
   <entry>
     <title>Driving Archives</title>
