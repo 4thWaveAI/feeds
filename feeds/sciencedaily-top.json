@@ -5,6 +5,81 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sciencedaily-top.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250918025025.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250918025025.htm",
+      "title": "Scientists build micromotors smaller than a human hair",
+      "content_text": "Using laser light instead of traditional mechanics, researchers have built micro-gears that can spin, shift direction, and even power tiny machines. These breakthroughs could soon lead to revolutionary medical tools working at the scale of cells.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/four-microgears.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250918011602.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250918011602.htm",
+      "title": "Why Alaska’s salmon streams are suddenly bleeding orange",
+      "content_text": "Warming Arctic permafrost is unlocking toxic metals, turning Alaska’s once-clear rivers into orange, acid-laced streams. The shift, eerily similar to mine pollution but entirely natural, threatens fish, ecosystems, and communities that depend on them—with no way to stop the process once it starts.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/alaska-brooks-range.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250917220959.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250917220959.htm",
+      "title": "NASA’s Perseverance just found new evidence that Mars could have been habitable",
+      "content_text": "Jezero Crater’s rocks reveal three stages of water activity, shifting from hostile acidic fluids to more life-friendly alkaline ones. Perseverance’s discoveries guide future sampling and strengthen the hunt for past life on Mars.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/jezero-crater-mars.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250917220957.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250917220957.htm",
+      "title": "The Moon could finally reveal dark matter",
+      "content_text": "Faint hydrogen signals from the cosmic Dark Ages may soon help determine the mass of dark matter particles. Simulations suggest future Moon-based observatories could distinguish between warm and cold dark matter, providing long-sought answers about the invisible backbone of the Universe.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/nasa-artemis-astronauts-working-on-moon.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250917220954.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250917220954.htm",
+      "title": "White dwarf caught devouring a frozen Pluto-like world",
+      "content_text": "Astronomers have detected the chemical fingerprint of a frozen, water-rich planetary fragment being devoured by a white dwarf star, offering the clearest evidence yet that icy, life-delivering objects exist beyond our Solar System. The find suggests fragments like comets and dwarf planets may be common ingredients of planetary systems.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/accreting-icy-planetary-fragments.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/09/250916221920.htm",
       "url": "https://www.sciencedaily.com/releases/2025/09/250916221920.htm",
       "title": "Goodbye colonoscopy? Simple stool test detects 90% of colorectal cancers",
@@ -222,81 +297,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/diet-cravings-dessert.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250915202843.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250915202843.htm",
-      "title": "Strange signals at absolute zero hint at dark matter’s secrets",
-      "content_text": "QROCODILE has set record-breaking sensitivity in the search for dark matter, detecting signals at energy levels once thought impossible. These results may be just the first step toward finally capturing direct evidence of the universe’s hidden mass.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/dark-matter-particle-detector.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250915202841.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250915202841.htm",
-      "title": "Eating Mediterranean could be the secret to healthy gums",
-      "content_text": "Eating more like the Mediterranean—rich in vegetables, legumes, fruits, and olive oil—may do more than just support heart health. A new King’s College London study suggests it also protects against gum disease by lowering inflammation markers in the blood.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/olive-oil-salad.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250915202839.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250915202839.htm",
-      "title": "Why so many young kids with ADHD are getting the wrong treatment",
-      "content_text": "Preschoolers with ADHD are often given medication right after diagnosis, against medical guidelines that recommend starting with behavioral therapy. Limited access to therapy and physician pressures drive early prescribing, despite risks and reduced effectiveness in young children.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/adhd-medication-pills.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250915202836.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250915202836.htm",
-      "title": "New drug could be first to stop deadly fatty liver disease",
-      "content_text": "Scientists at UC San Diego have identified a new drug, ION224, that could transform the treatment of MASH, a dangerous form of fatty liver disease tied to obesity and diabetes. By blocking a key liver enzyme, the drug reduces fat and inflammation, halting the root causes of liver damage. In a year-long clinical trial, patients showed major improvements without serious side effects, offering hope to millions affected worldwide.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/human-liver-organ-damage.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250915202834.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250915202834.htm",
-      "title": "Stress measured in hair could predict depression and anxiety in children",
-      "content_text": "Researchers from the University of Waterloo discovered that measuring long-term stress through children’s hair samples can reveal early signs of mental health risks in those living with chronic physical illnesses. Children with persistently high cortisol were more likely to struggle with anxiety, depression, and behavioral challenges, while those whose stress markers declined showed fewer problems.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/daughter-cuddling-mother-anxiety-comfort.webp",
           "mime_type": "image/webp"
         }
       ],
