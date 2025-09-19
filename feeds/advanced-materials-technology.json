@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/advanced-materials-technology.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250917221007.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250917221007.htm",
+      "title": "Lasers just made atoms dance, unlocking the future of electronics",
+      "content_text": "Scientists at Michigan State University have discovered how to use ultrafast lasers to wiggle atoms in exotic materials, temporarily altering their electronic behavior. By combining cutting-edge microscopes with quantum simulations, they created a nanoscale switch that could revolutionize smartphones, laptops, and even future quantum computers.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/lasers-atomic-motion.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "advanced-materials-technology"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/09/250917221212.htm",
       "url": "https://www.sciencedaily.com/releases/2025/09/250917221212.htm",
       "title": "America is throwing away the minerals that could power its future",
@@ -162,21 +177,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/sunlight-streams-through-building-windows.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "advanced-materials-technology"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250905112310.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250905112310.htm",
-      "title": "Scientists just found a hidden quantum geometry that warps electrons",
-      "content_text": "A hidden quantum geometry that distorts electron paths has finally been observed in real materials. This “quantum metric,” once thought purely theoretical, may revolutionize electronics, superconductivity, and ultrafast devices.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/hidden-geometry-shapes-electron-motion-in-quantum-materials.webp",
           "mime_type": "image/webp"
         }
       ],

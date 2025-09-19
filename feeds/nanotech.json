@@ -5,33 +5,14 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
-      "id": "https://phys.org/news/2025-09-court-demand-scientific-certainty-case.html",
-      "url": "https://phys.org/news/2025-09-court-demand-scientific-certainty-case.html",
-      "title": "Court rulings increasingly demand scientific certainty—but the case of titanium dioxide shows that's not always possible",
-      "content_text": "Last month, courts on both sides of the Atlantic delivered a clear verdict: When classifying titanium dioxide as carcinogenic, regulatory agencies had overreached.",
+      "id": "https://phys.org/news/2025-09-member-nanoring-boundaries-global-aromaticity.html",
+      "url": "https://phys.org/news/2025-09-member-nanoring-boundaries-global-aromaticity.html",
+      "title": "18-member nanoring pushes the boundaries of global aromaticity",
+      "content_text": "Pushing the limits of size constraints in chemistry, an 8-nanometer 18-porphyrin nanoring (c-P18) becomes the largest known cyclic molecule to exhibit detectable global aromaticity. This phenomenon, where π-electrons are delocalized not just over individual aromatic units but around the entire macrocyclic ring, is mostly seen in smaller aromatic molecules but rarely found in macrocyclic entities.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/sunscreen-lotion.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/2025/18-member-nanoring-pus.jpg",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-powered-gears-strand-hair.html",
-      "url": "https://phys.org/news/2025-09-powered-gears-strand-hair.html",
-      "title": "New light-powered gears fit inside a strand of hair",
-      "content_text": "Researchers at the University of Gothenburg have made light-powered gears on a micrometer scale. This paves the way for the smallest on-chip motors in history, which can fit inside a strand of hair. The research is published in the journal Nature Communications.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-light-powered-moto.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://scx2.b-cdn.net/gfx/video/2025/new-light-powered-moto-1.mp4",
-          "mime_type": "video/mp4"
         }
       ],
       "tags": [
@@ -62,6 +43,40 @@
         {
           "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-sources-for-quantu.jpg",
           "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-court-demand-scientific-certainty-case.html",
+      "url": "https://phys.org/news/2025-09-court-demand-scientific-certainty-case.html",
+      "title": "Court rulings increasingly demand scientific certainty—but the case of titanium dioxide shows that's not always possible",
+      "content_text": "Last month, courts on both sides of the Atlantic delivered a clear verdict: When classifying titanium dioxide as carcinogenic, regulatory agencies had overreached.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/sunscreen-lotion.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-powered-gears-strand-hair.html",
+      "url": "https://phys.org/news/2025-09-powered-gears-strand-hair.html",
+      "title": "New light-powered gears fit inside a strand of hair",
+      "content_text": "Researchers at the University of Gothenburg have made light-powered gears on a micrometer scale. This paves the way for the smallest on-chip motors in history, which can fit inside a strand of hair. The research is published in the journal Nature Communications.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-light-powered-moto.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://scx2.b-cdn.net/gfx/video/2025/new-light-powered-moto-1.mp4",
+          "mime_type": "video/mp4"
         }
       ],
       "tags": [
@@ -174,14 +189,14 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-09-mxene-electrode-material-seawater-corrosion.html",
-      "url": "https://phys.org/news/2025-09-mxene-electrode-material-seawater-corrosion.html",
-      "title": "MXene electrode material withstands seawater corrosion in hydrogen production",
-      "content_text": "A research team has developed a composite catalyst using the novel material MXene that suppresses the generation of chloride ions—one of the key challenges in seawater electrolysis. This research outcome is expected to accelerate the practical application of seawater electrolysis technology by enabling stable hydrogen production even in seawater.",
+      "id": "https://www.sciencedaily.com/releases/2025/09/250917221007.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250917221007.htm",
+      "title": "Lasers just made atoms dance, unlocking the future of electronics",
+      "content_text": "Scientists at Michigan State University have discovered how to use ultrafast lasers to wiggle atoms in exotic materials, temporarily altering their electronic behavior. By combining cutting-edge microscopes with quantum simulations, they created a nanoscale switch that could revolutionize smartphones, laptops, and even future quantum computers.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/high-performance-elect.jpg",
-          "mime_type": "image/jpeg"
+          "url": "https://www.sciencedaily.com/images/1920/lasers-atomic-motion.webp",
+          "mime_type": "image/webp"
         }
       ],
       "tags": [
@@ -346,21 +361,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/quantum-vibrations-sensor-waves.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/08/250813083605.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/08/250813083605.htm",
-      "title": "AI finds hidden safe zones inside a fusion reactor",
-      "content_text": "Scientists have developed a lightning-fast AI tool called HEAT-ML that can spot hidden “safe zones” inside a fusion reactor where parts are protected from blistering plasma heat. Finding these areas, known as magnetic shadows, is key to keeping reactors running safely and moving fusion energy closer to reality.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/magnetic-shadows.webp",
           "mime_type": "image/webp"
         }
       ],
