@@ -345,56 +345,42 @@ areas:
       limit: 6
 
   space-force:
-    - name: U.S. Space Force — News (abs)
-      index: "https://www.spaceforce.mil/News/"
-      base:  "https://www.spaceforce.mil"
-      prefix: "https://www.spaceforce.mil/News/"
-      limit: 8
-    - name: U.S. Space Force — News (rel)
-      index: "https://www.spaceforce.mil/News/"
-      base:  "https://www.spaceforce.mil"
-      prefix: "/News/"
-      limit: 8
-    - name: Space Systems Command — News (abs)
-      index: "https://www.ssc.spaceforce.mil/News"
-      base:  "https://www.ssc.spaceforce.mil"
-      prefix: "https://www.ssc.spaceforce.mil/News"
-      limit: 6
-    - name: Space Systems Command — News (rel)
-      index: "https://www.ssc.spaceforce.mil/News"
-      base:  "https://www.ssc.spaceforce.mil"
-      prefix: "/News"
-      limit: 6
-    - name: Space Development Agency — News (abs)
-      index: "https://www.sda.mil/news"
-      base:  "https://www.sda.mil"
-      prefix: "https://www.sda.mil/news"
-      limit: 6
-    - name: Space Development Agency — News (rel)
-      index: "https://www.sda.mil/news"
-      base:  "https://www.sda.mil"
-      prefix: "/news"
-      limit: 6
-    - name: U.S. Space Command — Newsroom (abs)
-      index: "https://www.spacecom.mil/Newsroom/"
-      base:  "https://www.spacecom.mil"
-      prefix: "https://www.spacecom.mil/Newsroom/"
-      limit: 6
-    - name: U.S. Space Command — Newsroom (rel)
-      index: "https://www.spacecom.mil/Newsroom/"
-      base:  "https://www.spacecom.mil"
-      prefix: "/Newsroom/"
-      limit: 6
-    - name: NRO — News & Statements (abs)
-      index: "https://www.nro.gov/News/Press-Releases-and-Statements/"
-      base:  "https://www.nro.gov"
-      prefix: "https://www.nro.gov/News/Press-Releases-and-Statements/"
-      limit: 6
-    - name: NRO — News & Statements (rel)
-      index: "https://www.nro.gov/News/Press-Releases-and-Statements/"
-      base:  "https://www.nro.gov"
+    - name: U.S. Space Force — Articles
+      index:  "https://www.spaceforce.mil/News/"
+      base:   "https://www.spaceforce.mil"
+      prefix: "/News/Article/"
+      limit:  10
+
+    - name: Space Systems Command — Articles
+      index:  "https://www.ssc.spaceforce.mil/News"
+      base:   "https://www.ssc.spaceforce.mil"
+      prefix: "/News/Article/"
+      limit:  8
+
+    - name: Space Development Agency — News
+      index:  "https://www.sda.mil/news/"
+      base:   "https://www.sda.mil"
+      prefix: "/news/"
+      limit:  8
+      allow_patterns:
+        - "^/news/[a-z0-9-]+/$"
+      deny_patterns:
+        - "/news/page/"
+        - "/news-archive"
+
+    - name: U.S. Space Command — Articles
+      index:  "https://www.spacecom.mil/Newsroom/"
+      base:   "https://www.spacecom.mil"
+      prefix: "/Newsroom/News/Article/"
+      limit:  6
+
+    - name: NRO — Press Releases & Statements
+      index:  "https://www.nro.gov/News/Press-Releases-and-Statements/"
+      base:   "https://www.nro.gov"
       prefix: "/News/Press-Releases-and-Statements/"
-      limit: 6
+      limit:  6
+      deny_patterns:
+        - "/Tag/"
 
   digital-twins:
     - name: World Economic Forum — Publications (abs)
