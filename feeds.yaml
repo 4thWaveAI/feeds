@@ -564,7 +564,7 @@ areas:
       base:  "https://spectrum.ieee.org"
       prefix: "/"
       limit: 10
-    # --- Tech leaders (each gets its own feed; also rolls up into tech-leaders.* automatically) ---
+
   elon-musk:
     - name: SpaceX — Updates (abs)
       index: "https://www.spacex.com/updates/"
@@ -688,7 +688,6 @@ areas:
       prefix: "/news"
       limit: 6
 
-  # --- New topical feeds ---
   young-talons-edu-tech:
     - name: EdSurge — News (abs)
       index: "https://www.edsurge.com/news"
@@ -756,3 +755,154 @@ areas:
       base:  "https://www.sciencedaily.com"
       mode:  "rss"
       limit: 20
+
+  human_effect:
+    - name: WHO – Digital Health
+      index: "https://www.who.int/feeds/entity/news/en/rss.xml"
+      base:  "https://www.who.int"
+      prefix: "/"
+      limit: 10
+
+    - name: NIH – News (Digital Health & Science)
+      index: "https://www.nih.gov/news-events/news-releases/rss.xml"
+      base:  "https://www.nih.gov"
+      prefix: "/"
+      limit: 10
+
+    - name: CDC – Newsroom
+      index: "https://tools.cdc.gov/api/v2/resources/media/403372.rss"
+      base:  "https://www.cdc.gov"
+      prefix: "/"
+      limit: 8
+
+    - name: The Lancet – Digital Health
+      index: "https://www.thelancet.com/rssfeed/the-lancet-digital-health"
+      base:  "https://www.thelancet.com"
+      prefix: "/"
+      limit: 6
+
+    - name: Nature – Human Behaviour
+      index: "https://www.nature.com/nathumbehav.rss"
+      base:  "https://www.nature.com"
+      prefix: "/"
+      limit: 6
+
+    - name: Pew Research – Internet & Tech
+      index: "https://www.pewresearch.org/internet/feed/"
+      base:  "https://www.pewresearch.org"
+      prefix: "/internet/"
+      limit: 10
+
+    - name: Oxford Internet Institute
+      index: "https://www.oii.ox.ac.uk/feed/"
+      base:  "https://www.oii.ox.ac.uk"
+      prefix: "/blog/"
+      limit: 10
+
+    - name: MIT Technology Review – Society
+      index: "https://www.technologyreview.com/feed/"
+      base:  "https://www.technologyreview.com"
+      prefix: "/"
+      limit: 10
+
+    - name: Stanford HAI – Human-Centered AI
+      index: "https://hai.stanford.edu/news/rss.xml"
+      base:  "https://hai.stanford.edu"
+      prefix: "/news/"
+      limit: 10
+
+    - name: UNESCO – AI & Humanity
+      index: "https://www.unesco.org/en/rss.xml"
+      base:  "https://www.unesco.org"
+      prefix: "/"
+      limit: 8
+
+    - name: Future of Humanity Institute (Oxford)
+      index: "https://www.fhi.ox.ac.uk/feed/"
+      base:  "https://www.fhi.ox.ac.uk"
+      prefix: "/"
+      limit: 8
+
+    - name: AI Now Institute (NYU)
+      index: "https://ainowinstitute.org/feed.xml"
+      base:  "https://ainowinstitute.org"
+      prefix: "/"
+      limit: 8
+
+    - name: Montreal AI Ethics Institute
+      index: "https://montrealethics.ai/feed/"
+      base:  "https://montrealethics.ai"
+      prefix: "/"
+      limit: 10
+
+    - name: Center for Humane Technology
+      index: "https://www.humanetech.com/blog/rss.xml"
+      base:  "https://www.humanetech.com"
+      prefix: "/blog/"
+      limit: 10
+
+    - name: IEEE Spectrum — Ethics/AI (full feed)
+      index: "https://spectrum.ieee.org/rss/fulltext"
+      base:  "https://spectrum.ieee.org"
+      prefix: "/"
+      limit: 10
+
+    - name: McKinsey – Future of Work
+      index: "https://www.mckinsey.com/featured-insights/future-of-work/rss"
+      base:  "https://www.mckinsey.com"
+      prefix: "/"
+      limit: 10
+
+    - name: ILO – Future of Work
+      index: "https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_675294/lang--en/index.htm/rss.xml"
+      base:  "https://www.ilo.org"
+      prefix: "/"
+      limit: 8
+
+    - name: OECD – Digital Economy / Employment
+      index: "https://www.oecd.org/rss/xml/oecdthematicfeeds.xml"
+      base:  "https://www.oecd.org"
+      prefix: "/"
+      limit: 8
+
+    - name: MIT – Work of the Future
+      index: "https://workofthefuture.mit.edu/feed/"
+      base:  "https://workofthefuture.mit.edu"
+      prefix: "/"
+      limit: 8
+
+    - name: UN Environment Programme
+      index: "https://www.unep.org/rss.xml"
+      base:  "https://www.unep.org"
+      prefix: "/"
+      limit: 10
+
+    - name: AI for Good (ITU + UN)
+      index: "https://aiforgood.itu.int/feed/"
+      base:  "https://aiforgood.itu.int"
+      prefix: "/"
+      limit: 10
+
+    - name: Nature Sustainability
+      index: "https://www.nature.com/natsustain.rss"
+      base:  "https://www.nature.com"
+      prefix: "/"
+      limit: 6
+
+    - name: Human Flourishing Program – Harvard
+      index: "https://hfh.fas.harvard.edu/rss.xml"
+      base:  "https://hfh.fas.harvard.edu"
+      prefix: "/"
+      limit: 8
+
+    - name: Institute of Noetic Sciences
+      index: "https://noetic.org/feed/"
+      base:  "https://noetic.org"
+      prefix: "/"
+      limit: 10
+
+    - name: Esalen – Center for Theory & Research
+      index: "https://www.esalen.org/rss.xml"
+      base:  "https://www.esalen.org"
+      prefix: "/"
+      limit: 6
