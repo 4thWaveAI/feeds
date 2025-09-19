@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.atom.xml"/>
   <id>urn:4thwaveai-feeds:videos</id>
-  <updated>Fri, 19 Sep 2025 16:45:56 +0000</updated>
+  <updated>Fri, 19 Sep 2025 17:46:06 +0000</updated>
   <entry>
     <title>The UK’s ‘Goldilocks Moment for AI’: NVIDIA, UK and US Leaders Highlight AI Infrastructure Investments</title>
     <link href="https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/"/>
@@ -220,5 +220,11 @@
     <link href="https://phys.org/news/2024-08-electronics-material-current.html"/>
     <id>https://phys.org/news/2024-08-electronics-material-current.html</id>
     <summary type="text">Imagine knowing your milk has gone bad without having to open your fridge. A technology called printed electronics could one day make innovations like this possible.</summary>
+  </entry>
+  <entry>
+    <title>Global Resources Outlook 2024</title>
+    <link href="http://www.unep.org/resources/Global-Resource-Outlook-2024"/>
+    <id>http://www.unep.org/resources/Global-Resource-Outlook-2024</id>
+    <summary type="text">The world is in the midst of a triple planetary crisis of climate change, biodiversity loss and pollution and waste. The global economy is consuming ever more natural resources, while the world is not on track to meet the Sustainable Development Goals.</summary>
   </entry>
 </feed>

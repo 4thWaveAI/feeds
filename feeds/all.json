@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
+      "id": "https://www.aboutamazon.com/news/entertainment/summer-i-turned-pretty-movie-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/summer-i-turned-pretty-movie-prime-video",
+      "title": "'The Summer I Turned Pretty' movie—here's everything to know",
+      "content_text": "The final chapter of Belly’s journey will be told with a feature film.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/bce64e6/2147483647/strip/true/crop/8256x4128+0+258/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ffd%2F4b%2Fd10f683c40b38233ee61c8b1a69f%2Fanthonyghnassia-452.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://developer.nvidia.com/blog/nvidia-hgx-b200-reduces-embodied-carbon-emissions-intensity/",
       "url": "https://developer.nvidia.com/blog/nvidia-hgx-b200-reduces-embodied-carbon-emissions-intensity/",
       "title": "NVIDIA HGX B200 Reduces Embodied Carbon Emissions Intensity | NVIDIA Technical Blog",
@@ -17,6 +32,21 @@
       ],
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "id": "https://aiforgood.itu.int/ai-for-healthcare-ai-for-humanity-ztes-vision-for-real-world-impact/",
+      "url": "https://aiforgood.itu.int/ai-for-healthcare-ai-for-humanity-ztes-vision-for-real-world-impact/",
+      "title": "AI for healthcare, AI for humanity: ZTE’s vision for real-world impact",
+      "content_text": "Connect with 51K enthusiasts from all over the world.",
+      "attachments": [
+        {
+          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/AI-for-healthcare-AI-for-humanity-1024x576.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
       ]
     },
     {
@@ -69,6 +99,21 @@
       ]
     },
     {
+      "id": "https://noetic.org/blog/challenges-in-the-mind2mind-study/",
+      "url": "https://noetic.org/blog/challenges-in-the-mind2mind-study/",
+      "title": "Advancing the Science of Connection: Challenges in the Mind2Mind Study | IONS",
+      "content_text": "While recruitment for our telepathy study presents challenges, each step brings us closer to uncovering the mysteries of human connection.",
+      "attachments": [
+        {
+          "url": "https://noetic.org/wp-content/uploads/2025/09/AdobeStock_336577742-scaled.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://blogs.nvidia.com/blog/blackwell-ai-inference/",
       "url": "https://blogs.nvidia.com/blog/blackwell-ai-inference/",
       "title": "NVIDIA Blackwell: Born for Extreme-Scale AI Inference",
@@ -111,21 +156,6 @@
         {
           "url": "https://www.youtube.com/embed/LEcouqT6rSs",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/innovation-at-amazon/amazon-ai-tools-sellers-product-launch",
-      "url": "https://www.aboutamazon.com/news/innovation-at-amazon/amazon-ai-tools-sellers-product-launch",
-      "title": "Amazon unveils new AI-powered tools to help sellers launch more winning products with greater speed",
-      "content_text": "New innovations give sellers unique insights to help them build sought-after products, reduce launch costs, and improve discoverability and conversion to drive new selection success.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/14b1396/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fc5%2F4d%2F6b4210a44b3ab6398ed88d20d23b%2Feasy-hero1-2000x1125.png",
-          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -220,6 +250,21 @@
       ]
     },
     {
+      "id": "https://noetic.org/blog/listen-to-edgar-on-his-birthday/",
+      "url": "https://noetic.org/blog/listen-to-edgar-on-his-birthday/",
+      "title": "Listen to Edgar on His Birthday | IONS",
+      "content_text": "A recording of Edgar was kindly shared with us. In honor of his birthday, we hope you listen and enjoy it as much as we do.",
+      "attachments": [
+        {
+          "url": "https://noetic.org/wp-content/uploads/2025/09/space-657383_1280-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference/",
       "url": "https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference/",
       "title": "An Introduction to Speculative Decoding for Reducing Latency in AI Inference | NVIDIA Technical Blog",
@@ -232,6 +277,51 @@
       ],
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/rca-videodisc",
+      "url": "https://spectrum.ieee.org/rca-videodisc",
+      "title": "How RCA's VideoDisc Failure Became a Semiconductor Success Story",
+      "content_text": "RCA spent millions developing its home video system. It flopped, but the underlying tech led to an advanced microscope that shaped modern semiconductors.",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/photo-of-a-prototype-electronic-device-consisting-of-a-rectangular-base-with-a-circuit-board-and-other-components-perched-atop.jpg?id=61607510&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/iphone-17-pro-vapor-chamber",
+      "url": "https://spectrum.ieee.org/iphone-17-pro-vapor-chamber",
+      "title": "Apple’s iPhone 17 Pro Debuts With Vapor Chamber Cooling",
+      "content_text": "Apple's iPhone 17 Pro uses vapor chambers to keep cool, joining other high performance smartphones. How does this cooling tech work?",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/a-front-and-back-view-of-an-apple-iphone-17-on-an-orange-background-with-a-misty-blue-pattern.jpg?id=61605042&width=1200&height=600&coordinates=0%2C222%2C0%2C223",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://aiforgood.itu.int/transforming-data-creating-value-sustaining-tomorrow-deepgreenxs-vision-for-the-future-of-finance/",
+      "url": "https://aiforgood.itu.int/transforming-data-creating-value-sustaining-tomorrow-deepgreenxs-vision-for-the-future-of-finance/",
+      "title": "Transforming data, creating value, sustaining tomorrow: DeepGreenX’s vision for the future of finance",
+      "content_text": "Connect with 51K enthusiasts from all over the world.",
+      "attachments": [
+        {
+          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/DeepGreenX-Transforming-data.-Creating-value.-Sustaining-tomorrow-1024x576.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
       ]
     },
     {
@@ -265,6 +355,66 @@
       ]
     },
     {
+      "id": "https://spectrum.ieee.org/smart-infrastructure-carolina-moreira-delci",
+      "url": "https://spectrum.ieee.org/smart-infrastructure-carolina-moreira-delci",
+      "title": "Carolina Delci: Leading the Charge in Sustainable Infrastructure",
+      "content_text": "Carolina Delci is reshaping civil engineering with AI and 4D modeling. How does her work make construction smarter and safer?",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/smiling-portrait-of-carolina-moreira-delci.jpg?id=61603271&width=1200&height=600&coordinates=0%2C675%2C0%2C676",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/scale-of-light-pollution",
+      "url": "https://spectrum.ieee.org/scale-of-light-pollution",
+      "title": "Are We Losing Our Connection to the Night Sky?",
+      "content_text": "What's at stake as artificial light drowns out the stars, cutting us off from the universe's vastness and the wonder it inspires.",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/image.png?id=61591088&width=1200&height=600&coordinates=0%2C500%2C0%2C500",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://aiforgood.itu.int/setting-the-scene-on-ai-governance/",
+      "url": "https://aiforgood.itu.int/setting-the-scene-on-ai-governance/",
+      "title": "Setting the Scene on AI Governance",
+      "content_text": "Connect with 51K enthusiasts from all over the world.",
+      "attachments": [
+        {
+          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/09/AdobeStock_1448759506-scaled.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://aiforgood.itu.int/join-yails-global-project-to-shape-the-future-of-ai-regulation/",
+      "url": "https://aiforgood.itu.int/join-yails-global-project-to-shape-the-future-of-ai-regulation/",
+      "title": "Join YAIL’s Global Project to Shape the Future of AI Regulation",
+      "content_text": "Connect with 51K enthusiasts from all over the world.",
+      "attachments": [
+        {
+          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/09/AdobeStock_1268796956-scaled.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://blogs.microsoft.com/blog/2025/09/16/microsoft-leads-shift-beyond-data-unification-to-organization-delivering-next-gen-ai-readiness-with-new-microsoft-fabric-capabilities/",
       "url": "https://blogs.microsoft.com/blog/2025/09/16/microsoft-leads-shift-beyond-data-unification-to-organization-delivering-next-gen-ai-readiness-with-new-microsoft-fabric-capabilities/",
       "title": "Microsoft leads shift beyond data unification to organization, delivering next-gen AI readiness with new Microsoft Fabric capabilities - The Official Microsoft Blog",
@@ -295,6 +445,21 @@
       ]
     },
     {
+      "id": "https://noetic.org/blog/a-frequency-of-faith/",
+      "url": "https://noetic.org/blog/a-frequency-of-faith/",
+      "title": "A Frequency of Faith: What I Learned from a Scientist Who Measures Vibes | IONS",
+      "content_text": "What are we really talking about when we say “vibes”? Jeremy Koenig unveils the power of vibes with Garret Yount, PhD.",
+      "attachments": [
+        {
+          "url": "https://noetic.org/wp-content/uploads/2025/08/iStock-2184225147.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://developer.nvidia.com/blog/build-a-report-generator-ai-agent-with-nvidia-nemotron-on-openrouter/",
       "url": "https://developer.nvidia.com/blog/build-a-report-generator-ai-agent-with-nvidia-nemotron-on-openrouter/",
       "title": "Build a Report Generator AI Agent with NVIDIA Nemotron on OpenRouter | NVIDIA Technical Blog",
@@ -310,6 +475,66 @@
       ]
     },
     {
+      "id": "https://spectrum.ieee.org/scaling-carbon-capture-technology",
+      "url": "https://spectrum.ieee.org/scaling-carbon-capture-technology",
+      "title": "Scaling Carbon Capture: Can We Meet the Challenge?",
+      "content_text": "What would it take to scale carbon removal technologies to remove billions of tonnes of carbon dioxide a year? These charts explain.",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/image.png?id=61597747&width=1200&height=600&coordinates=0%2C201%2C0%2C202",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://montrealethics.ai/ai-policy-corner-restriction-vs-regulation-comparing-state-approaches-to-ai-mental-health-legislation/",
+      "url": "https://montrealethics.ai/ai-policy-corner-restriction-vs-regulation-comparing-state-approaches-to-ai-mental-health-legislation/",
+      "title": "AI Policy Corner: Restriction vs. Regulation: Comparing State Approaches to AI Mental Health Legislation | Montreal AI Ethics Institute",
+      "content_text": "✍️ By Ruth Sugiarto. Ruth is an Undergraduate Student in Computer Engineering and a Research Assistant at the Governance and Responsible AI Lab (GRAIL), Purdue University. 📌 Editor’s Note: This…",
+      "attachments": [
+        {
+          "url": "https://montrealethics.ai/wp-content/uploads/2025/09/rogelio-gonzalez-q7TwGiDElmU-unsplash-scaled.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://montrealethics.ai/beyond-dependency-the-hidden-risk-of-social-comparison-in-chatbot-companionship/",
+      "url": "https://montrealethics.ai/beyond-dependency-the-hidden-risk-of-social-comparison-in-chatbot-companionship/",
+      "title": "Beyond Dependency: The Hidden Risk of Social Comparison in Chatbot Companionship | Montreal AI Ethics Institute",
+      "content_text": "🔬 By Hamed Maleki. Hamed is a communication researcher currently completing a Master’s degree at the University of Wrocław in Poland. His work focuses on human–AI interaction…",
+      "attachments": [
+        {
+          "url": "https://montrealethics.ai/wp-content/uploads/2025/09/Dependency-and-Social-Comparison.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://montrealethics.ai/bridging-the-gap-addressing-the-legislative-gap-surrounding-non-consensual-deepfakes/",
+      "url": "https://montrealethics.ai/bridging-the-gap-addressing-the-legislative-gap-surrounding-non-consensual-deepfakes/",
+      "title": "Bridging the Gap: Addressing the Legislative Gap Surrounding Non-Consensual Deepfakes | Montreal AI Ethics Institute",
+      "content_text": "🔬 Original article by Alessandra Destison from Encode Canada. 📌 Editor’s Note: This is part of our Recess series, featuring university students from across Canada exploring ethical challenges in AI.",
+      "attachments": [
+        {
+          "url": "https://montrealethics.ai/wp-content/uploads/2025/09/tom-kotov-jIQqNvDihBA-unsplash-scaled.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://www.edsurge.com/news/2025-09-15-how-much-freedom-do-teachers-have-in-the-classroom-in-2025-it-s-complicated",
       "url": "https://www.edsurge.com/news/2025-09-15-how-much-freedom-do-teachers-have-in-the-classroom-in-2025-it-s-complicated",
       "title": "How Much Freedom Do Teachers Have in the Classroom? In 2025, It’s Complicated. - EdSurge News",
@@ -322,6 +547,51 @@
       ],
       "tags": [
         "young-talons-edu-tech"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/kessler-syndrome-plasma-thruster-deorbit",
+      "url": "https://spectrum.ieee.org/kessler-syndrome-plasma-thruster-deorbit",
+      "title": "Plasma Thrusters Could Be Key to Tackling Space Debris",
+      "content_text": "A novel plasma thruster design could be the answer to Kessler Syndrome. Learn how it aims to clear space debris without contact.",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=61592157&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/video-friday-soft-robot-companion",
+      "url": "https://spectrum.ieee.org/video-friday-soft-robot-companion",
+      "title": "The Newest Humanoid Robot Is a Warm, Soft Companion",
+      "content_text": "Meet the Care-bot GR-3: A soft-touch companion bringing \"warm tech companionship\" to life.",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/image.png?id=61594149&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://aiforgood.itu.int/how-falcon-llm-is-reshaping-accessibility-through-model-efficiency/",
+      "url": "https://aiforgood.itu.int/how-falcon-llm-is-reshaping-accessibility-through-model-efficiency/",
+      "title": "How Falcon LLM is reshaping accessibility through model efficiency",
+      "content_text": "Connect with 51K enthusiasts from all over the world.",
+      "attachments": [
+        {
+          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/TII_How-Falcon-LLM-is-reshaping-accessibility--1024x576.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
       ]
     },
     {
@@ -355,6 +625,51 @@
       ]
     },
     {
+      "id": "https://spectrum.ieee.org/faster-career-growth",
+      "url": "https://spectrum.ieee.org/faster-career-growth",
+      "title": "Are You Ready to Transition from Engineer to Manager?",
+      "content_text": "Curious about the path from IC to manager? Discover the nuances of tech career growth.",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.jpg?id=59104110&width=1200&height=600&coordinates=0%2C310%2C0%2C310",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/ieee-day-2025",
+      "url": "https://spectrum.ieee.org/ieee-day-2025",
+      "title": "Celebrate IEEE Day With Events and Contests Worldwide",
+      "content_text": "Celebrate IEEE Day 2025 with thousands of events worldwide, from hackathons to cultural showcases. Be part of the movement.",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/a-large-group-of-college-students-posing-outside-a-university-building-several-people-are-holding-up-banners-representing-ieee.jpg?id=61588570&width=1200&height=600&coordinates=0%2C118%2C0%2C118",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/humanoid-robot-scaling",
+      "url": "https://spectrum.ieee.org/humanoid-robot-scaling",
+      "title": "Reality Is Ruining the Humanoid Robot Hype",
+      "content_text": "​It takes more than building a humanoid robot to build a humanoid robot product.",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=61564898&width=1200&height=600&coordinates=0%2C0%2C0%2C0",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://about.fb.com/news/2025/09/five-years-on-reels-reigns-as-indias-top-short-form-video-platform/",
       "url": "https://about.fb.com/news/2025/09/five-years-on-reels-reigns-as-indias-top-short-form-video-platform/",
       "title": "Five Years On, Reels Reigns as India's Top Short-Form Video Platform",
@@ -370,6 +685,21 @@
       ]
     },
     {
+      "id": "https://noetic.org/blog/our-bodies-know/",
+      "url": "https://noetic.org/blog/our-bodies-know/",
+      "title": "Our Bodies Know Before We Do | IONS",
+      "content_text": "Dan Brown's latest thriller, The Secret of Secrets, describes an experiment on presentiment.",
+      "attachments": [
+        {
+          "url": "https://noetic.org/wp-content/uploads/2025/09/Dan-Brown-Book-Only.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://www.broadinstitute.org/news/whyiscience-qa-structural-biologist-adopts-new-role-catalyzing-collaborations",
       "url": "https://www.broadinstitute.org/news/whyiscience-qa-structural-biologist-adopts-new-role-catalyzing-collaborations",
       "title": "#WhyIScience Q&A: A structural biologist adopts a new role catalyzing collaborations",
@@ -382,6 +712,36 @@
       ],
       "tags": [
         "biotech"
+      ]
+    },
+    {
+      "id": "https://aiforgood.itu.int/governing-advanced-ai-in-practice/",
+      "url": "https://aiforgood.itu.int/governing-advanced-ai-in-practice/",
+      "title": "Governing advanced AI in practice",
+      "content_text": "Connect with 51K enthusiasts from all over the world.",
+      "attachments": [
+        {
+          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/From-principles-to-practice-Governing-advanced-AI-in-action.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://noetic.org/blog/what-is-channeling/",
+      "url": "https://noetic.org/blog/what-is-channeling/",
+      "title": "What Is Channeling? – IONS",
+      "content_text": "What is channeling? In her new book, IONS Director of Research Helané Wahbeh shares what she's learned by investigating 6 research questions.",
+      "attachments": [
+        {
+          "url": "https://noetic.org/wp-content/uploads/2021/04/IONS_DSC_3482-800x800-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
       ]
     },
     {
@@ -430,6 +790,21 @@
       ]
     },
     {
+      "id": "https://aiforgood.itu.int/making-ai-ethical-inclusive-and-effective-across-the-un/",
+      "url": "https://aiforgood.itu.int/making-ai-ethical-inclusive-and-effective-across-the-un/",
+      "title": "Making AI ethical, inclusive, and effective across the UN",
+      "content_text": "Connect with 51K enthusiasts from all over the world.",
+      "attachments": [
+        {
+          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/Scaling-AI-responsibly-across-the-UN-system-1024x576.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://about.fb.com/news/2025/09/attach-text-threads-posts-share-longer-perspectives/",
       "url": "https://about.fb.com/news/2025/09/attach-text-threads-posts-share-longer-perspectives/",
       "title": "Attach Text to Your Threads Posts and Share Longer Perspectives",
@@ -460,6 +835,21 @@
       ]
     },
     {
+      "id": "https://noetic.org/blog/non-physical-beings-in-reiki/",
+      "url": "https://noetic.org/blog/non-physical-beings-in-reiki/",
+      "title": "Beyond the Veil: Encounters with Non-Physical Beings in Reiki | IONS",
+      "content_text": "This study revealed unexpected reports of spirits, angels, and other non-physical beings during energy healing sessions.",
+      "attachments": [
+        {
+          "url": "https://noetic.org/wp-content/uploads/2025/09/iStock-1125632816.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://www.broadinstitute.org/news/how-massive-datasets-generated-broad-are-powering-latest-ai-models-biology",
       "url": "https://www.broadinstitute.org/news/how-massive-datasets-generated-broad-are-powering-latest-ai-models-biology",
       "title": "How massive datasets generated at Broad are powering the latest AI models in biology",
@@ -475,6 +865,51 @@
       ]
     },
     {
+      "id": "https://aiforgood.itu.int/how-microsoft-is-driving-global-change-through-ai-skills/",
+      "url": "https://aiforgood.itu.int/how-microsoft-is-driving-global-change-through-ai-skills/",
+      "title": "How Microsoft is driving global change through AI skills",
+      "content_text": "Connect with 51K enthusiasts from all over the world.",
+      "attachments": [
+        {
+          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/How-Microsoft-is-driving-global-change-through-AI-skills-1024x576.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://montrealethics.ai/beyond-consultation-building-inclusive-ai-governance-for-canadas-democratic-future/",
+      "url": "https://montrealethics.ai/beyond-consultation-building-inclusive-ai-governance-for-canadas-democratic-future/",
+      "title": "Beyond Consultation: Building Inclusive AI Governance for Canada’s Democratic Future | Montreal AI Ethics Institute",
+      "content_text": "✍️ By Renjie Butalid. Renjie is Co-founder and Director of the Montreal AI Ethics Institute (MAIEI). At the Victoria Forum 2025, “Towards a Better Future: Shifting the Trajectory,” lawmakers…",
+      "attachments": [
+        {
+          "url": "https://montrealethics.ai/wp-content/uploads/2025/09/Victoria-Forum-2025_Closing-Session.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://montrealethics.ai/ai-policy-corner-u-s-executive-order-on-advancing-ai-education-for-american-youth/",
+      "url": "https://montrealethics.ai/ai-policy-corner-u-s-executive-order-on-advancing-ai-education-for-american-youth/",
+      "title": "AI Policy Corner: U.S. Executive Order on Advancing AI Education for American Youth | Montreal AI Ethics Institute",
+      "content_text": "✍️ By Tasneem Ahmed. Tasneem is an Undergraduate Student in Political Science and a Research Assistant at the Governance and Responsible AI Lab (GRAIL), Purdue University. 📌 Editor’s Note: This…",
+      "attachments": [
+        {
+          "url": "https://montrealethics.ai/wp-content/uploads/2025/09/EO-AI-Education-for-American-Youth_.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://developer.nvidia.com/blog/how-small-language-models-are-key-to-scalable-agentic-ai/",
       "url": "https://developer.nvidia.com/blog/how-small-language-models-are-key-to-scalable-agentic-ai/",
       "title": "How Small Language Models Are Key to Scalable Agentic AI | NVIDIA Technical Blog",
@@ -483,451 +918,6 @@
         {
           "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/08/Why-SLMs.png",
           "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://about.fb.com/news/2025/08/metas-kansas-city-data-center/",
-      "url": "https://about.fb.com/news/2025/08/metas-kansas-city-data-center/",
-      "title": "Meta’s Kansas City Data Center and Upcoming AI-Optimized Data Centers",
-      "content_text": "Our Kansas City data center is now operational, representing a $1 billion investment in Missouri and in our global infrastructure that brings our technologies to billions of people worldwide.",
-      "attachments": [
-        {
-          "url": "https://about.fb.com/wp-content/uploads/2025/08/Metas-Kansas-City-Data-Center_Header.jpg?w=1200",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://about.fb.com/wp-content/uploads/2025/08/01_KCDataCenter.mp4?_=1",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "mark-zuckerberg"
-      ]
-    },
-    {
-      "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/19/unlocking-the-potential-of-manufacturing-with-cloud-modernization/",
-      "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/19/unlocking-the-potential-of-manufacturing-with-cloud-modernization/",
-      "title": "Unlocking the potential of manufacturing with cloud modernization - Microsoft Industry Blogs",
-      "content_text": "Uncover how manufacturers use AI and cloud to optimize operations, accelerate R&D, and deliver real business value. Learn more.",
-      "attachments": [
-        {
-          "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2025/08/CLO20_Libby_Joseph_Rene_001-yoast.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/07/embracing-ai-powered-operations-a-maturity-path-for-manufacturers/",
-      "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/07/embracing-ai-powered-operations-a-maturity-path-for-manufacturers/",
-      "title": "Embracing AI-powered operations: A maturity path for manufacturers - Microsoft Industry Blogs",
-      "content_text": "Discover how manufacturers are embracing AI to boost efficiency, resilience, and innovation with Microsoft’s guidance. Learn more.",
-      "attachments": [
-        {
-          "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2025/08/CLO25-SCI-Lifestyle-047.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://www.broadinstitute.org/news/breathing-low-oxygen-air-slows-parkinsons-progression-mice",
-      "url": "https://www.broadinstitute.org/news/breathing-low-oxygen-air-slows-parkinsons-progression-mice",
-      "title": "Breathing low-oxygen air slows Parkinson’s progression in mice",
-      "content_text": "Low-oxygen air prevented and even reversed symptoms in a mouse model of Parkinson’s disease.",
-      "attachments": [
-        {
-          "url": "https://www.broadinstitute.org/files/longstory/mouse%20cells%20neurodegeneration.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "biotech"
-      ]
-    },
-    {
-      "id": "https://www.palladyneai.com/blog/unlocking-the-future-of-surface-finishing-with-ai-powered-adaptive-robotics/",
-      "url": "https://www.palladyneai.com/blog/unlocking-the-future-of-surface-finishing-with-ai-powered-adaptive-robotics/",
-      "title": "Unlocking the Future of Surface Finishing with AI-Powered Adaptive Robotics",
-      "content_text": "Discover how AI software is revolutionizing surface finishing by tackling labor shortages, increasing consistency, and accelerating automation.",
-      "attachments": [
-        {
-          "url": "https://www.palladyneai.com/wp-content/uploads/2025/07/surfaceprpe-750x470-1.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://www.palladyneai.com/blog/time-to-value-speeds-up-with-emerging-ai-enabled-robotics-automation/",
-      "url": "https://www.palladyneai.com/blog/time-to-value-speeds-up-with-emerging-ai-enabled-robotics-automation/",
-      "title": "Time-to-Value Speeds Up with Emerging AI-Enabled Robotics Automation",
-      "content_text": "ABI Research report explores how AI-enabled robotics automation with a human element boosts manufacturing.",
-      "attachments": [
-        {
-          "url": "https://www.palladyneai.com/wp-content/uploads/2025/06/abi-wp2.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/28/ai-in-process-manufacturing-from-operational-gains-to-strategic-advantage/",
-      "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/28/ai-in-process-manufacturing-from-operational-gains-to-strategic-advantage/",
-      "title": "AI in process manufacturing: From operational gains to strategic advantage - Microsoft Industry Blogs",
-      "content_text": "Explore insights into how manufacturers prioritize technology and where AI fits by reading the report \"Artificial Intelligence in Process Manufacturing.\"",
-      "attachments": [
-        {
-          "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2025/05/MSC24-Japan-industry-Getty-1226752988-rgb.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://www.broadinstitute.org/news/evolved-gene-editor-inserts-entire-genes-human-cells",
-      "url": "https://www.broadinstitute.org/news/evolved-gene-editor-inserts-entire-genes-human-cells",
-      "title": "Evolved gene editor inserts entire genes in human cells",
-      "content_text": "The new system is the first to use a DNA-mobilizing enzyme called a CRISPR-associated transposase to make targeted gene-sized edits at therapeutically useful levels in human cells.",
-      "attachments": [
-        {
-          "url": "https://www.broadinstitute.org/files/longstory/News_David-Liu-story_ext-main_050525_v5.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "biotech"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/entertainment/thursday-night-football-schedule-prime-video",
-      "url": "https://www.aboutamazon.com/news/entertainment/thursday-night-football-schedule-prime-video",
-      "title": "'Thursday Night Football' 2025 schedule: How to watch live on Prime Video",
-      "content_text": "Prime Video’s fourth season of ‘Thursday Night Football’ is packed with divisional matchups and features two holiday showdowns.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/469c2ce/2147483647/strip/true/crop/2000x1000+0+77/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff2%2F80%2Fdec20dc2442195487a40358c5704%2Ftnf25-schedule-release-blastuicarousel-2000-final.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/05/creating-a-resilient-supply-chain-using-connected-data-chains/",
-      "url": "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/05/creating-a-resilient-supply-chain-using-connected-data-chains/",
-      "title": "Creating a resilient supply chain using connected data chains - Microsoft Industry Blogs",
-      "content_text": "Explore how Microsoft is enabling companies to easily navigate complexities and use technology with connected data chains and AI.",
-      "attachments": [
-        {
-          "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2025/05/CLO24-Azure-Manufacturing-002.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://www.palladyneai.com/blog/enhancing-mro-and-remanufacturing-work-processes-with-ai/",
-      "url": "https://www.palladyneai.com/blog/enhancing-mro-and-remanufacturing-work-processes-with-ai/",
-      "title": "Enhancing MRO and Remanufacturing Work Processes with AI",
-      "content_text": "Implementing Palladyne IQ robotic AI software can help autonomously manage component cleaning, prepare surfaces for the next production stage, and enhance the overall production process across MRO, remanufacturing, and other industries.",
-      "attachments": [
-        {
-          "url": "https://www.palladyneai.com/wp-content/uploads/2025/04/cylinder-remfg.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://www.palladyneai.com/blog/speeding-robotics-automation-with-ai/",
-      "url": "https://www.palladyneai.com/blog/speeding-robotics-automation-with-ai/",
-      "title": "Speeding Robotics Automation with AI",
-      "content_text": "ABI Research report explores AI-enabled robotics automation",
-      "attachments": [
-        {
-          "url": "https://www.palladyneai.com/wp-content/uploads/2025/04/abi-whitepaper-1.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://www.palladyneai.com/blog/how-autonomous-ai-tackles-quality-control-costs/",
-      "url": "https://www.palladyneai.com/blog/how-autonomous-ai-tackles-quality-control-costs/",
-      "title": "How Autonomous AI Tackles Quality Control Costs",
-      "content_text": "Palladyne IQ robotic AI software helps automate inspection and streamline production across many industries.",
-      "attachments": [
-        {
-          "url": "https://www.palladyneai.com/wp-content/uploads/2025/03/qa-inspection_750x470.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://www.palladyneai.com/blog/physical-ai-embracing-ais-moment-in-robotics/",
-      "url": "https://www.palladyneai.com/blog/physical-ai-embracing-ais-moment-in-robotics/",
-      "title": "Physical AI: Embracing AI’s Moment in Robotics",
-      "content_text": "The rise of physical AI is having its breakthrough moment, like ChatGPT did in language processing in 2022. Read more.",
-      "attachments": [
-        {
-          "url": "https://www.palladyneai.com/wp-content/uploads/2025/03/blog_02_750x470.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://www.broadinstitute.org/news/gene-editing-extends-lifespan-mouse-model-prion-disease",
-      "url": "https://www.broadinstitute.org/news/gene-editing-extends-lifespan-mouse-model-prion-disease",
-      "title": "Gene editing extends lifespan in mouse model of prion disease",
-      "content_text": "A single-letter edit in DNA reduces levels of the disease-causing prion protein in the brain and could lead to a preventative, one-time treatment for the deadly neurodegenerative disorder.",
-      "attachments": [
-        {
-          "url": "https://www.broadinstitute.org/files/longstory/main_DSC_7699_mo-BROAD00263909.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "biotech"
-      ]
-    },
-    {
-      "id": "https://www.broadinstitute.org/news/scientists-engineer-crispr-enzymes-evade-immune-system",
-      "url": "https://www.broadinstitute.org/news/scientists-engineer-crispr-enzymes-evade-immune-system",
-      "title": "Scientists engineer CRISPR enzymes that evade the immune system",
-      "content_text": "The new genome-editing tools could lead to safer, more efficient gene therapies.",
-      "attachments": [
-        {
-          "url": "https://www.broadinstitute.org/files/longstory/1206-CRISPR-Story-Image.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "biotech"
-      ]
-    },
-    {
-      "id": "https://www.broadinstitute.org/news/researchers-devise-new-way-target-and-correct-disease-related-proteins",
-      "url": "https://www.broadinstitute.org/news/researchers-devise-new-way-target-and-correct-disease-related-proteins",
-      "title": "Researchers devise new way to target and correct disease-related proteins",
-      "content_text": "Broad scientists built a diverse library of compounds and found one that stabilizes a dysfunctional protein in Crohn’s disease, demonstrating their library’s potential to uncover new therapeutic strategies.",
-      "attachments": [
-        {
-          "url": "https://www.broadinstitute.org/files/longstory/CIP-DEL_main3.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "biotech"
-      ]
-    },
-    {
-      "id": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
-      "url": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
-      "title": "AlphaQubit tackles one of quantum computing’s biggest challenges",
-      "content_text": "AlphaQubit is an AI-based decoder that identifies quantum computing errors with state-of-the-art accuracy.",
-      "attachments": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Share_Image_-_1920_x_1080.width-1300.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://www.broadinstitute.org/news/new-drug-triggers-rapid-cell-death-cancer-models",
-      "url": "https://www.broadinstitute.org/news/new-drug-triggers-rapid-cell-death-cancer-models",
-      "title": "New drug triggers rapid cell death in cancer models",
-      "content_text": "BRD-810 inhibits the MCL1 protein and reactivates apoptosis in tumor cells, displaying therapeutic potential in animal models.",
-      "attachments": [
-        {
-          "url": "https://www.broadinstitute.org/files/longstory/nci-vol-2336-150_AML.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "biotech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/news/recently-published/",
-      "url": "https://www.nasa.gov/news/recently-published/",
-      "title": "All NASA News - NASA",
-      "content_text": "Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/news/media-contacts/",
-      "url": "https://www.nasa.gov/news/media-contacts/",
-      "title": "NASA Media Contacts - NASA",
-      "content_text": "Media Contacts Roxana Bardan Mars Sample Return 771-200-7217 Gerelle Dodson NASA Workforce, STEM Engagement 202-358-1600 Jennifer Dooren Deputy News Chief,",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/news/",
-      "url": "https://www.nasa.gov/news/",
-      "title": "NASA News",
-      "content_text": "Resources for news media, including NASA news contacts and archived news material",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2025/05/54492396655-c6ba83df1d-o-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/entertainment/everything-you-need-to-know-about-thursday-night-football-on-prime-video",
-      "url": "https://www.aboutamazon.com/news/entertainment/everything-you-need-to-know-about-thursday-night-football-on-prime-video",
-      "title": "Everything you need to know about ‘Thursday Night Football’ on Prime Video",
-      "content_text": "Find out who’s playing, how to watch, and who won each week. Plus, get all the latest ‘Thursday Night Football’ news from Prime Video.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/9d71b14/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F5d%2F5a%2Fd550d930492d8e012643fcdb7736%2Fabout-amazon-hero-c4n09568.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://deepmind.google/discover/blog/",
-      "url": "https://deepmind.google/discover/blog/",
-      "title": "Blog",
-      "content_text": "Discover our latest AI breakthroughs, projects, and updates.",
-      "attachments": [
-        {
-          "url": "https://lh3.googleusercontent.com/EExFoaxzaMXaBiDlykAzkLEb5txs5aWQn6Lby4vpIXeKE60Fz4VdHOhbl1t8C0YEXJXKzux8i4fAxdb0n4UDFpns5U5VAeybnUNFc5OfnIZYJqMmzww=w1200-h630-n-nu",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/",
-      "url": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/",
-      "title": "AlphaGenome: AI for better understanding the genome",
-      "content_text": "Introducing a new, unifying DNA sequence model that advances regulatory variant-effect prediction and promises to shed new light on genome function — now available via API.",
-      "attachments": [
-        {
-          "url": "https://lh3.googleusercontent.com/SZkcKUQyLUhSQ06Rq-PJbxAqn1OpMeEa3khkrBVB1MGyHfxyftoqWwEb2aLP9JxX7CjhpLFODcc5zIoMoNdu0bl6ELsZV2nP9fDwZC6SYS36lzAKDw=w1200-h630-n-nu",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://deepmind.google/api/blob/website/media/AlphaGenome-Figure1-Animation-000000.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/",
-      "url": "https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/",
-      "title": "A catalogue of genetic mutations to help pinpoint the cause of diseases",
-      "content_text": "New AI tool classifies the effects of 71 million ‘missense’ mutations \nUncovering the root causes of disease is one of the greatest challenges in human genetics. With millions of possible...",
-      "attachments": [
-        {
-          "url": "https://lh3.googleusercontent.com/JySjDTZvGqEzUfDic5QOU6Rne3r6RWpiw5JZQ9VdzK1O5C20EbAkSPURGoCmAhea_U-gyyRu4KdCZmeWSCtYjGHHMvM0jVK5fWiqOwa0rpcC5uzM=w1200-h630-n-nu",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/",
-      "url": "https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/",
-      "title": "AlphaProteo generates novel proteins for biology and health research",
-      "content_text": "New AI system designs proteins that successfully bind to target molecules, with potential for advancing drug design, disease understanding and more.",
-      "attachments": [
-        {
-          "url": "https://lh3.googleusercontent.com/7RKd6r-Wc8JfMau5x9knRq9DrOKGDwS3ye4YxY0jjWGntf74y8WL0lOlktJefxwkJYw33UEf2Ph_BhQ51TIufCxPkmtCPOpakekMpnOUwVI-3R6RzQ=w1200-h630-n-nu",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://deepmind.google/api/blob/website/media/GDM-ProteinDesignBlog-02-Binder-Final.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
-      "url": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
-      "title": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms",
-      "content_text": "New AI agent evolves algorithms for math and practical applications in computing by combining the creativity of large language models with automated evaluators",
-      "attachments": [
-        {
-          "url": "https://lh3.googleusercontent.com/tG6-MqdlvhQ-z7ENzGxR-kpGPPdPHbJ8UZtbTP66Rxi0UftTFU1yAvaBCVuigYuKvESMeEFf4jqNBVENFcZXEUnj8SSqj8zsop8UHAl0eD9A-hUCvQ=w1200-h630-n-nu",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://deepmind.google/api/blob/website/media/Code-Evolution-Illustration_compressed_iUJETbv.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/",
-      "url": "https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/",
-      "title": "AI achieves silver-medal standard solving International Mathematical Olympiad problems",
-      "content_text": "Breakthrough models AlphaProof and AlphaGeometry 2 solve advanced reasoning problems in mathematics",
-      "attachments": [
-        {
-          "url": "https://lh3.googleusercontent.com/2A21eFt7wdDrmMzzkenrCTuioLWGFdzU5Ao5dPH9yPtAw6QNHxZcDmoQA2_ZriU2gMjX8mzEOtfPbMCRuL5kVzLoz6efLgqT_foBXU3pxKBXTTOXXpc=w1200-h630-n-nu",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [

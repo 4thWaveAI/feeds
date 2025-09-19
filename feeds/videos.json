@@ -668,6 +668,25 @@
       "tags": [
         "internet-of-things"
       ]
+    },
+    {
+      "id": "http://www.unep.org/resources/Global-Resource-Outlook-2024",
+      "url": "http://www.unep.org/resources/Global-Resource-Outlook-2024",
+      "title": "Global Resources Outlook 2024",
+      "content_text": "The world is in the midst of a triple planetary crisis of climate change, biodiversity loss and pollution and waste. The global economy is consuming ever more natural resources, while the world is not on track to meet the Sustainable Development Goals.",
+      "attachments": [
+        {
+          "url": "https://cdn.unenvironment.org/styles/topics_content_promo/s3/2024-02/GRO%20Cover-banner.jpg?itok=MkkBw5De",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/jaHZwExw7OA?rel=0&showinfo=1&hl=en-US",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
     }
   ]
 }
