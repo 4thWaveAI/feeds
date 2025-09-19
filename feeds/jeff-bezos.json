@@ -20,6 +20,25 @@
       ]
     },
     {
+      "id": "https://www.aboutamazon.com/news/community/amazon-headquarters-seattle-bellevue-puget-sound-news",
+      "url": "https://www.aboutamazon.com/news/community/amazon-headquarters-seattle-bellevue-puget-sound-news",
+      "title": "Amazon in the community: Here's what's happening in Seattle, Bellevue, and the Puget Sound",
+      "content_text": "Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/8f88e6b/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F5b%2F7b%2F25139aad4a5fb4efafb1b3cdc335%2Fabout-amazon-hero-amazon-spheres-selects-29.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/QWQvaTXowao",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/aws/alibaba-qwen3-deepseek-v3-amazon-bedrock",
       "url": "https://www.aboutamazon.com/news/aws/alibaba-qwen3-deepseek-v3-amazon-bedrock",
       "title": "Qwen3 and DeepSeek-V3.1 models now available fully managed on AWS",
@@ -28,25 +47,6 @@
         {
           "url": "https://assets.aboutamazon.com/dims4/default/2550bef/2147483647/strip/true/crop/1342x671+0+42/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F7b%2F21%2Fe87f4adf4c0788930b7a7adb8d9e%2Fnewheroforopenweight.png",
           "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/small-business/selling-on-amazon-supply-chain-explain",
-      "url": "https://www.aboutamazon.com/news/small-business/selling-on-amazon-supply-chain-explain",
-      "title": "Independent sellers move 5 billion products annually through Amazon’s network of global logistics, domestic freight, and bulk warehousing",
-      "content_text": "Amazon launches new AI customs tools and expands its fulfillment offerings for Walmart, Shopify, and SHEIN, helping sellers simplify their supply chain and better serve customers across their channels",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/df83b23/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F86%2F53%2F32c5d4794fd4b342b0b7c4263fcb%2Fabout-amazon-hero-about-amazon-supply-chain-hero.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/LEcouqT6rSs",
-          "mime_type": "video/mp4"
         }
       ],
       "tags": [
@@ -204,6 +204,21 @@
       ]
     },
     {
+      "id": "https://www.aboutamazon.com/news/community",
+      "url": "https://www.aboutamazon.com/news/community",
+      "title": "Community",
+      "content_text": "We look for uniquely Amazonian and innovative ways to make positive, lasting impacts and encourage our employees to champion causes they care about.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/entertainment",
       "url": "https://www.aboutamazon.com/news/entertainment",
       "title": "Entertainment",
@@ -271,21 +286,6 @@
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/4eb0c18/2147483647/strip/true/crop/2000x1000+0+167/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F41%2Fa5%2F47d3ea664732bdd274d6a7593aaf%2Fsustainability.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/retail",
-      "url": "https://www.aboutamazon.com/news/retail",
-      "title": "Retail",
-      "content_text": "More information about shopping on Amazon and our selection of products and services.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
           "mime_type": "image/jpeg"
         }
       ],
