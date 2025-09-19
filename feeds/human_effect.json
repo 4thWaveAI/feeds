@@ -1,9 +1,24 @@
 {
   "version": "https://jsonfeed.org/version/1",
   "title": "4thWave AI — Human_Effect (Aggregated)",
-  "home_page_url": "https://4thwave.ai",
+  "home_page_url": "https://www.4thwaveai.com",
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/human_effect.json",
   "items": [
+    {
+      "id": "https://spectrum.ieee.org/video-friday-billion-humanoid-robots",
+      "url": "https://spectrum.ieee.org/video-friday-billion-humanoid-robots",
+      "title": "Is a billion dollars enough for Figure to make humanoids happen?",
+      "content_text": "​What kind of humanoid can be built with over one billion in funding? And more of the week's best robot videos!",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/image.png?id=61621100&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
     {
       "id": "https://aiforgood.itu.int/ai-for-healthcare-ai-for-humanity-ztes-vision-for-real-world-impact/",
       "url": "https://aiforgood.itu.int/ai-for-healthcare-ai-for-humanity-ztes-vision-for-real-world-impact/",
@@ -297,21 +312,6 @@
       "attachments": [
         {
           "url": "https://spectrum.ieee.org/media-library/a-large-group-of-college-students-posing-outside-a-university-building-several-people-are-holding-up-banners-representing-ieee.jpg?id=61588570&width=1200&height=600&coordinates=0%2C118%2C0%2C118",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/humanoid-robot-scaling",
-      "url": "https://spectrum.ieee.org/humanoid-robot-scaling",
-      "title": "Reality Is Ruining the Humanoid Robot Hype",
-      "content_text": "​It takes more than building a humanoid robot to build a humanoid robot product.",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=61564898&width=1200&height=600&coordinates=0%2C0%2C0%2C0",
           "mime_type": "image/jpeg"
         }
       ],

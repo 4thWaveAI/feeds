@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>4thWave AI — All Areas (Aggregated)</title>
-  <link href="https://4thwave.ai"/>
+  <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Fri, 19 Sep 2025 18:26:15 +0000</updated>
+  <updated>Fri, 19 Sep 2025 18:50:03 +0000</updated>
   <entry>
     <title>&#x27;The Summer I Turned Pretty&#x27; movie—here&#x27;s everything to know</title>
     <link href="https://www.aboutamazon.com/news/entertainment/summer-i-turned-pretty-movie-prime-video"/>
@@ -18,6 +18,13 @@
     <id>https://developer.nvidia.com/blog/nvidia-hgx-b200-reduces-embodied-carbon-emissions-intensity/</id>
     <summary type="text">NVIDIA HGX B200 is revolutionizing accelerated computing by unlocking unprecedented performance and energy efficiency. This post shows how HGX B200 is outperforming its predecessor NVIDIA HGX H100 in…</summary>
     <updated>Fri, 19 Sep 2025 16:30:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Is a billion dollars enough for Figure to make humanoids happen?</title>
+    <link href="https://spectrum.ieee.org/video-friday-billion-humanoid-robots"/>
+    <id>https://spectrum.ieee.org/video-friday-billion-humanoid-robots</id>
+    <summary type="text">​What kind of humanoid can be built with over one billion in funding? And more of the week&#x27;s best robot videos!</summary>
+    <updated>Fri, 19 Sep 2025 15:30:05 +0000</updated>
   </entry>
   <entry>
     <title>AI for healthcare, AI for humanity: ZTE’s vision for real-world impact</title>
@@ -299,13 +306,6 @@
     <id>https://spectrum.ieee.org/ieee-day-2025</id>
     <summary type="text">Celebrate IEEE Day 2025 with thousands of events worldwide, from hackathons to cultural showcases. Be part of the movement.</summary>
     <updated>Thu, 11 Sep 2025 18:00:05 +0000</updated>
-  </entry>
-  <entry>
-    <title>Reality Is Ruining the Humanoid Robot Hype</title>
-    <link href="https://spectrum.ieee.org/humanoid-robot-scaling"/>
-    <id>https://spectrum.ieee.org/humanoid-robot-scaling</id>
-    <summary type="text">​It takes more than building a humanoid robot to build a humanoid robot product.</summary>
-    <updated>Thu, 11 Sep 2025 13:00:00 +0000</updated>
   </entry>
   <entry>
     <title>Five Years On, Reels Reigns as India&#x27;s Top Short-Form Video Platform</title>
