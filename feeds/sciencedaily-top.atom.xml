@@ -4,7 +4,19 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sciencedaily-top.atom.xml"/>
   <id>urn:4thwaveai-feeds:sciencedaily-top</id>
-  <updated>Fri, 19 Sep 2025 03:55:08 +0000</updated>
+  <updated>Fri, 19 Sep 2025 04:43:24 +0000</updated>
+  <entry>
+    <title>Scientists just found the hidden cosmic fingerprints of dark matter</title>
+    <link href="https://www.sciencedaily.com/releases/2025/09/250918225004.htm"/>
+    <id>https://www.sciencedaily.com/releases/2025/09/250918225004.htm</id>
+    <summary type="text">Scientists at Rutgers and collaborators have traced the invisible dark matter scaffolding of the universe using over 100,000 Lyman-alpha emitting galaxies. By studying how these galaxies clustered across three eras shortly after the Big Bang, they mapped dark matter concentrations, uncovering cosmic “fingerprints” that reveal how galaxies grow and evolve.</summary>
+  </entry>
+  <entry>
+    <title>Cosmic simulations that once needed supercomputers now run on a laptop</title>
+    <link href="https://www.sciencedaily.com/releases/2025/09/250918225001.htm"/>
+    <id>https://www.sciencedaily.com/releases/2025/09/250918225001.htm</id>
+    <summary type="text">Astronomers have long relied on supercomputers to simulate the immense structure of the Universe, but a new tool called Effort.jl is changing that. By mimicking the behavior of complex cosmological models, this emulator delivers results with the same accuracy — and sometimes even finer detail — in just minutes on a standard laptop. The breakthrough combines neural networks with clever use of physical knowledge, cutting computation time dramatically while preserving reliability.</summary>
+  </entry>
   <entry>
     <title>Scientists build micromotors smaller than a human hair</title>
     <link href="https://www.sciencedaily.com/releases/2025/09/250918025025.htm"/>
@@ -112,17 +124,5 @@
     <link href="https://www.sciencedaily.com/releases/2025/09/250916221826.htm"/>
     <id>https://www.sciencedaily.com/releases/2025/09/250916221826.htm</id>
     <summary type="text">A strange “Einstein Cross” with an extra, impossible fifth image has revealed the hidden presence of a massive dark matter halo. An international team of astronomers, including Rutgers scientists, used powerful radio telescopes and computer modeling to confirm the invisible structure’s existence. This rare cosmic lens not only magnifies a distant galaxy but also opens a unique window into the mysterious matter that shapes the universe.</summary>
-  </entry>
-  <entry>
-    <title>This new AI can spot solar storms days before they strike</title>
-    <link href="https://www.sciencedaily.com/releases/2025/09/250916221824.htm"/>
-    <id>https://www.sciencedaily.com/releases/2025/09/250916221824.htm</id>
-    <summary type="text">A new AI model from NYU Abu Dhabi predicts solar wind days in advance with far greater accuracy than existing methods. By analyzing ultraviolet solar images, it could help protect satellites, navigation systems, and power grids from disruptive space weather events.</summary>
-  </entry>
-  <entry>
-    <title>Soil warming experiments challenge assumptions about climate change</title>
-    <link href="https://www.sciencedaily.com/releases/2025/09/250916221823.htm"/>
-    <id>https://www.sciencedaily.com/releases/2025/09/250916221823.htm</id>
-    <summary type="text">Heating alone won’t drive soil microbes to release more carbon dioxide — they need added carbon and nutrients to thrive. This finding challenges assumptions about how climate warming influences soil emissions.</summary>
   </entry>
 </feed>

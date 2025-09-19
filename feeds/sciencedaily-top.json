@@ -5,6 +5,36 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sciencedaily-top.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250918225004.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250918225004.htm",
+      "title": "Scientists just found the hidden cosmic fingerprints of dark matter",
+      "content_text": "Scientists at Rutgers and collaborators have traced the invisible dark matter scaffolding of the universe using over 100,000 Lyman-alpha emitting galaxies. By studying how these galaxies clustered across three eras shortly after the Big Bang, they mapped dark matter concentrations, uncovering cosmic “fingerprints” that reveal how galaxies grow and evolve.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/dark-matter-fingerprints.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250918225001.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250918225001.htm",
+      "title": "Cosmic simulations that once needed supercomputers now run on a laptop",
+      "content_text": "Astronomers have long relied on supercomputers to simulate the immense structure of the Universe, but a new tool called Effort.jl is changing that. By mimicking the behavior of complex cosmological models, this emulator delivers results with the same accuracy — and sometimes even finer detail — in just minutes on a standard laptop. The breakthrough combines neural networks with clever use of physical knowledge, cutting computation time dramatically while preserving reliability.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/large-scale-structure-of-the-universe.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/09/250918025025.htm",
       "url": "https://www.sciencedaily.com/releases/2025/09/250918025025.htm",
       "title": "Scientists build micromotors smaller than a human hair",
@@ -267,36 +297,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/five-point-einstein-cross.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250916221824.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250916221824.htm",
-      "title": "This new AI can spot solar storms days before they strike",
-      "content_text": "A new AI model from NYU Abu Dhabi predicts solar wind days in advance with far greater accuracy than existing methods. By analyzing ultraviolet solar images, it could help protect satellites, navigation systems, and power grids from disruptive space weather events.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/sun-earth-magnetic-fields.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250916221823.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250916221823.htm",
-      "title": "Soil warming experiments challenge assumptions about climate change",
-      "content_text": "Heating alone won’t drive soil microbes to release more carbon dioxide — they need added carbon and nutrients to thrive. This finding challenges assumptions about how climate warming influences soil emissions.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/paul-frankson-soil-warming-controls.webp",
           "mime_type": "image/webp"
         }
       ],
