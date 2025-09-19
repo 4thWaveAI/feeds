@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/humanoid-robots.atom.xml"/>
   <id>urn:4thwaveai-feeds:humanoid-robots</id>
-  <updated>Fri, 19 Sep 2025 17:45:08 +0000</updated>
+  <updated>Fri, 19 Sep 2025 17:57:09 +0000</updated>
   <entry>
     <title>IEEE Spectrum</title>
     <link href="https://spectrum.ieee.org/"/>
@@ -70,6 +70,12 @@
     <link href="https://www.therobotreport.com/about-the-robot-report/"/>
     <id>https://www.therobotreport.com/about-the-robot-report/</id>
     <summary type="text">The Robot Report provides news, analysis, webinars, and events for engineers and developers of commercial robotics systems.</summary>
+  </entry>
+  <entry>
+    <title>Robot Technologies: News and Product Announcements</title>
+    <link href="https://www.therobotreport.com/category/news/"/>
+    <id>https://www.therobotreport.com/category/news/</id>
+    <summary type="text">By The Robot Report Staff | September 19, 2025</summary>
   </entry>
   <entry>
     <title>2022 RBR50 Robotics Innovation Award Honorees - The Robot Report</title>
