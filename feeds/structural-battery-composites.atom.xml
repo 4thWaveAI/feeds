@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/structural-battery-composites.atom.xml"/>
   <id>urn:4thwaveai-feeds:structural-battery-composites</id>
-  <updated>Fri, 19 Sep 2025 09:35:25 +0000</updated>
+  <updated>Fri, 19 Sep 2025 10:41:33 +0000</updated>
   <entry>
     <title>Light-powered chip makes AI 100 times more efficient</title>
     <link href="https://www.sciencedaily.com/releases/2025/09/250908175458.htm"/>
@@ -66,28 +66,34 @@
     <summary type="text">Researchers have released new insights on a pilot program involving all-electric buses in Ithaca, NY, USA -- with implications for cities, schools and other groups that are considering the electrification of their fleets, as well as operators, policymakers and manufacturers.</summary>
   </entry>
   <entry>
+    <title>Thermally stable β-tungsten for spin–orbit torque magnetic random-access memory - Nature Electronics</title>
+    <link href="https://www.nature.com/articles/s41928-025-01435-w"/>
+    <id>https://www.nature.com/articles/s41928-025-01435-w</id>
+    <summary type="text">The insertion of thin cobalt layers increases the thermal stability of β-tungsten. Using this composite as the spin current source in a 64-kb spin–orbit torque magnetic random-access memory array enables back-end-of-line process compatibility and efficient magnetization switching — achieving 1 ns switching, data retention of more than 10 years and 146% tunnelling magnetoresistance.</summary>
+  </entry>
+  <entry>
+    <title>Pipe dream beam coming true - Nature Materials</title>
+    <link href="https://www.nature.com/articles/s41563-025-02347-y"/>
+    <id>https://www.nature.com/articles/s41563-025-02347-y</id>
+    <summary type="text">Delayed femtosecond photoemission from a single-walled carbon nanotube enables pulsed electron beams with an unprecedented combination of pulse duration and energy spread.</summary>
+  </entry>
+  <entry>
     <title>Bioelectronic implants built from rolled-up stretchy circuits</title>
     <link href="https://www.nature.com/articles/d41586-025-02704-6"/>
     <id>https://www.nature.com/articles/d41586-025-02704-6</id>
     <summary type="text">Soft devices made by rolling up rubber-like sheets patterned with 2D electronics can monitor, stimulate and navigate deep tissue in animal models.</summary>
   </entry>
   <entry>
-    <title>Salt turns ice into a powerful flexoelectric material - Nature Materials</title>
-    <link href="https://www.nature.com/articles/s41563-025-02328-1"/>
-    <id>https://www.nature.com/articles/s41563-025-02328-1</id>
-    <summary type="text">The brine network in common sea ice boosts its flexoelectric response by three orders of magnitude, matching high-quality piezoelectrics and pointing to cost-effective energy harvesters for cold environments.</summary>
-  </entry>
-  <entry>
-    <title>Terahertz light confined to the nanoscale with hafnium dichalcogenides - Nature Materials</title>
-    <link href="https://www.nature.com/articles/s41563-025-02353-0"/>
-    <id>https://www.nature.com/articles/s41563-025-02353-0</id>
-    <summary type="text">Terahertz technology has the potential to push the speed limit of future opto-electronic applications, but the large free-space wavelength of terahertz light hinders nanoscale device implementation. Now, the confinement of terahertz light to the nanometre scale is demonstrated using phonon polaritons in hafnium-based van der Waals crystals.</summary>
-  </entry>
-  <entry>
     <title>Impact-resistant, haze-free, 3D-printable transparent block copolymer resin via photopolymerization-induced microphase separation - NPG Asia Materials</title>
     <link href="https://www.nature.com/articles/s41427-025-00618-3"/>
     <id>https://www.nature.com/articles/s41427-025-00618-3</id>
     <summary type="text">We developed impact-resistant, haze-free poly(methyl methacrylate) (PMMA) by photopolymerization-induced microphase separation. Upon irradiation, a polymerization mixture transforms into a transparent monolithic solid. A nanoscopic bicontinuous morphology of glassy PMMA with rubbery and cross-linked polymer domains retains transparency and dimension stability even at high temperatures. 3D printing via direct ink writing demonstrates the potential of the developed material for advanced optical and structural applications.</summary>
+  </entry>
+  <entry>
+    <title>Decoupled dual-salt electrolyte for practical aqueous zinc batteries - Nature Sustainability</title>
+    <link href="https://www.nature.com/articles/s41893-025-01646-1"/>
+    <id>https://www.nature.com/articles/s41893-025-01646-1</id>
+    <summary type="text">Aqueous zinc batteries possess advantages in safety, cost and environmental friendliness. To address side reaction, limited cycle life and other challenges, the authors formulate a dual-salt electrolyte that decouples the interfacial electrolyte from the bulk, enabling suppressed hydrogen evolution, fast zinc transport and resilience against low temperature.</summary>
   </entry>
   <entry>
     <title>Predicting fracture in disordered network materials using the local intelligent stress threshold indicator - Communications Physics</title>
@@ -106,11 +112,5 @@
     <link href="https://www.nature.com/articles/s41598-025-20035-4"/>
     <id>https://www.nature.com/articles/s41598-025-20035-4</id>
     <summary type="text">Scientific Reports volume 15 , Article number: 32608 ( 2025 ) Cite this article</summary>
-  </entry>
-  <entry>
-    <title>High-performance chitosan/blue-green algae (Cyanobacteria) nanocomposite for rapid and optimized removal of organic pollutant from wastewater - Scientific Reports</title>
-    <link href="https://www.nature.com/articles/s41598-025-19997-2"/>
-    <id>https://www.nature.com/articles/s41598-025-19997-2</id>
-    <summary type="text">Scientific Reports volume 15 , Article number: 32607 ( 2025 ) Cite this article</summary>
   </entry>
 </feed>
