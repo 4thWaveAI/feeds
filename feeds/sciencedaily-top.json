@@ -50,6 +50,36 @@
       ]
     },
     {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250917221010.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250917221010.htm",
+      "title": "Could plastic in your food be fueling Azheimer’s?",
+      "content_text": "Plastic particles from everyday items like Styrofoam cups and take-out containers are finding their way into the brain, where they may trigger Alzheimer’s-like symptoms. New research shows that mice carrying the Alzheimer’s-linked APOE4 gene who consumed microplastics exhibited sex-dependent cognitive decline, mirroring the differences seen in human patients.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/eating-food-from-styrofoam-takeout-box.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250917221007.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250917221007.htm",
+      "title": "Lasers just made atoms dance, unlocking the future of electronics",
+      "content_text": "Scientists at Michigan State University have discovered how to use ultrafast lasers to wiggle atoms in exotic materials, temporarily altering their electronic behavior. By combining cutting-edge microscopes with quantum simulations, they created a nanoscale switch that could revolutionize smartphones, laptops, and even future quantum computers.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/lasers-atomic-motion.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/09/250917221005.htm",
       "url": "https://www.sciencedaily.com/releases/2025/09/250917221005.htm",
       "title": "Tiny protein pairs may hold the secret to life’s origin",
@@ -267,36 +297,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/paul-frankson-soil-warming-controls.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250916221821.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250916221821.htm",
-      "title": "Scientists reverse stroke damage with stem cells",
-      "content_text": "Scientists in Zurich have shown that stem cell transplants can reverse stroke damage by regenerating neurons, restoring motor functions, and even repairing blood vessels. The breakthrough not only healed mice with stroke-related impairments but also suggested that treatments could soon be adapted for humans, marking a hopeful step toward tackling one of the world’s most devastating conditions.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/mouse-brain-after-stroke-and-neural-stem-cell-transplantation.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250916221819.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250916221819.htm",
-      "title": "Brain rhythms reveal a secret switch between old memories and new adventures",
-      "content_text": "Scientists have uncovered how the brain reroutes its communication pathways depending on whether it’s processing something new or recalling the familiar. By fine-tuning the balance between different inhibitory circuits, the brain flexibly shifts between reactivating stored memories and integrating fresh sensory input. This discovery not only reshapes our understanding of brain rhythms but also opens new doors for exploring how attention, cognition, and even neurological disorders like epilepsy or Alzheimer’s may emerge from disrupted balance.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/brain-rhythms-information-processing-routes.webp",
           "mime_type": "image/webp"
         }
       ],

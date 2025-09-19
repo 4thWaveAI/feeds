@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sciencedaily-top.atom.xml"/>
   <id>urn:4thwaveai-feeds:sciencedaily-top</id>
-  <updated>Thu, 18 Sep 2025 23:44:21 +0000</updated>
+  <updated>Fri, 19 Sep 2025 03:14:15 +0000</updated>
   <entry>
     <title>Scientists build micromotors smaller than a human hair</title>
     <link href="https://www.sciencedaily.com/releases/2025/09/250918025025.htm"/>
@@ -22,6 +22,18 @@
     <link href="https://www.sciencedaily.com/releases/2025/09/250917221212.htm"/>
     <id>https://www.sciencedaily.com/releases/2025/09/250917221212.htm</id>
     <summary type="text">America already mines all the critical minerals it needs for energy, defense, and technology, but most are being wasted as mine tailings. Researchers discovered that minerals like cobalt, germanium, and rare earths are discarded in massive amounts, even though recovering just a fraction could eliminate U.S. dependence on imports.</summary>
+  </entry>
+  <entry>
+    <title>Could plastic in your food be fueling Azheimer’s?</title>
+    <link href="https://www.sciencedaily.com/releases/2025/09/250917221010.htm"/>
+    <id>https://www.sciencedaily.com/releases/2025/09/250917221010.htm</id>
+    <summary type="text">Plastic particles from everyday items like Styrofoam cups and take-out containers are finding their way into the brain, where they may trigger Alzheimer’s-like symptoms. New research shows that mice carrying the Alzheimer’s-linked APOE4 gene who consumed microplastics exhibited sex-dependent cognitive decline, mirroring the differences seen in human patients.</summary>
+  </entry>
+  <entry>
+    <title>Lasers just made atoms dance, unlocking the future of electronics</title>
+    <link href="https://www.sciencedaily.com/releases/2025/09/250917221007.htm"/>
+    <id>https://www.sciencedaily.com/releases/2025/09/250917221007.htm</id>
+    <summary type="text">Scientists at Michigan State University have discovered how to use ultrafast lasers to wiggle atoms in exotic materials, temporarily altering their electronic behavior. By combining cutting-edge microscopes with quantum simulations, they created a nanoscale switch that could revolutionize smartphones, laptops, and even future quantum computers.</summary>
   </entry>
   <entry>
     <title>Tiny protein pairs may hold the secret to life’s origin</title>
@@ -112,17 +124,5 @@
     <link href="https://www.sciencedaily.com/releases/2025/09/250916221823.htm"/>
     <id>https://www.sciencedaily.com/releases/2025/09/250916221823.htm</id>
     <summary type="text">Heating alone won’t drive soil microbes to release more carbon dioxide — they need added carbon and nutrients to thrive. This finding challenges assumptions about how climate warming influences soil emissions.</summary>
-  </entry>
-  <entry>
-    <title>Scientists reverse stroke damage with stem cells</title>
-    <link href="https://www.sciencedaily.com/releases/2025/09/250916221821.htm"/>
-    <id>https://www.sciencedaily.com/releases/2025/09/250916221821.htm</id>
-    <summary type="text">Scientists in Zurich have shown that stem cell transplants can reverse stroke damage by regenerating neurons, restoring motor functions, and even repairing blood vessels. The breakthrough not only healed mice with stroke-related impairments but also suggested that treatments could soon be adapted for humans, marking a hopeful step toward tackling one of the world’s most devastating conditions.</summary>
-  </entry>
-  <entry>
-    <title>Brain rhythms reveal a secret switch between old memories and new adventures</title>
-    <link href="https://www.sciencedaily.com/releases/2025/09/250916221819.htm"/>
-    <id>https://www.sciencedaily.com/releases/2025/09/250916221819.htm</id>
-    <summary type="text">Scientists have uncovered how the brain reroutes its communication pathways depending on whether it’s processing something new or recalling the familiar. By fine-tuning the balance between different inhibitory circuits, the brain flexibly shifts between reactivating stored memories and integrating fresh sensory input. This discovery not only reshapes our understanding of brain rhythms but also opens new doors for exploring how attention, cognition, and even neurological disorders like epilepsy or Alzheimer’s may emerge from disrupted balance.</summary>
   </entry>
 </feed>
