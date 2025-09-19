@@ -200,6 +200,21 @@
       ]
     },
     {
+      "id": "https://www.nature.com/articles/s41578-025-00838-7",
+      "url": "https://www.nature.com/articles/s41578-025-00838-7",
+      "title": "Materials advances for distributed environmental sensor networks at scale - Nature Reviews Materials",
+      "content_text": "Accurate, spatiotemporally resolved monitoring of environments and ecosystems serves as the starting point to both identify and remedy natural or anthropogenic environmental hazards. This Review covers materials science advances supporting a new paradigm in environmental sensing: distributed networks of sensing elements capable of system-level profiling with the possibility of harmless environmental resorption after a predetermined recording period.",
+      "attachments": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41578-025-00838-7/MediaObjects/41578_2025_838_Fig1_HTML.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "structural-battery-composites"
+      ]
+    },
+    {
       "id": "https://www.nature.com/articles/s41427-025-00618-3",
       "url": "https://www.nature.com/articles/s41427-025-00618-3",
       "title": "Impact-resistant, haze-free, 3D-printable transparent block copolymer resin via photopolymerization-induced microphase separation - NPG Asia Materials",
@@ -252,21 +267,6 @@
       "attachments": [
         {
           "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42005-025-02315-7/MediaObjects/42005_2025_2315_Fig1_HTML.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "structural-battery-composites"
-      ]
-    },
-    {
-      "id": "https://www.nature.com/articles/s41428-025-01098-6",
-      "url": "https://www.nature.com/articles/s41428-025-01098-6",
-      "title": "Multiple hydrogen bonds as tools to enhance the mechanical and mechanoresponsive properties of polymers - Polymer Journal",
-      "content_text": "This review delineates a design strategy for mechanoresponsive polymers by categorizing hydrogen-bonding (H-bonding) motifs into “rigid” and “flexible” types. Rigid H-bonds, with strong directionality, provide high elasticity and strength. In contrast, flexible H-bonds, such as aliphatic diols, possess multiple, conformationally diverse binding modes. This flexibility allows for more efficient energy dissipation and network recovery under strain, leading to materials with superior dynamicity. We discuss the intrinsic effects of structural flexibility of H-bonding groups on mechanical properties, independent of solvent interactions.",
-      "attachments": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41428-025-01098-6/MediaObjects/41428_2025_1098_Figa_HTML.png",
           "mime_type": "image/png"
         }
       ],

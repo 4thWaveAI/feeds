@@ -5,6 +5,126 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sciencedaily-top.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250918230811.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250918230811.htm",
+      "title": "Shocking study exposes widespread math research fraud",
+      "content_text": "A sweeping investigation has revealed widespread fraud in mathematics publishing, where commercial metrics and rankings have incentivized the mass production of meaningless or flawed papers. The study highlights shocking distortions—such as a university without a math department ranked as having the most top mathematicians—and the explosion of megajournals willing to publish anything for a fee.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/fake-news-blocks.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250918225020.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250918225020.htm",
+      "title": "Scientists finally reveal the hidden mechanism linking alcohol to fatty liver",
+      "content_text": "Mayo Clinic scientists uncovered how excessive drinking triggers fatty liver disease by disrupting the enzyme VCP, which normally prevents harmful protein buildup on fat droplets in the liver. Alcohol blocks this protective process, allowing fat to accumulate and damage liver cells.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/diseased-liver-illustration.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250918225018.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250918225018.htm",
+      "title": "Alcohol’s hidden shortcut lets gut bacteria wreck the liver",
+      "content_text": "Alcohol-associated liver disease is becoming a massive health and economic burden, but researchers at UC San Diego may have uncovered a new way forward. They discovered that chronic alcohol use blocks a crucial protein that normally helps keep gut bacteria from leaking into the liver, worsening damage. Restoring this protein’s function, using drugs already in development, could not only reduce liver disease but also have implications for treating alcohol addiction itself.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/small-intestine-organoid.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250918225016.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250918225016.htm",
+      "title": "Wildfire smoke could kill 70,000 Americans a year by 2050",
+      "content_text": "Wildfires are no longer a seasonal nuisance but a deadly, nationwide health crisis. Fueled by climate change, smoke is spreading farther and lingering longer, with new research warning of tens of thousands of additional deaths annually by mid-century. The health costs alone could surpass all other climate damages combined, revealing wildfire smoke as one of the most underestimated threats of our warming world.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/smoky-forest-fire.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250918225014.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250918225014.htm",
+      "title": "Scientists discover microplastics deep inside human bones",
+      "content_text": "Microplastics have been detected in human blood, brain tissue, and even bones, where they may weaken skeletal structure and accelerate cell aging. Recent studies suggest that these particles could worsen metabolic bone diseases like osteoporosis, a risk that’s especially concerning as fractures are projected to rise sharply in the coming decades.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/microplastics-test-tube-science.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250918225012.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250918225012.htm",
+      "title": "Scientists win Ig Nobel Prize for cracking the code to perfect cacio e pepe",
+      "content_text": "What started as a frustrating kitchen challenge turned into award-winning science: Fabrizio Olmeda and his colleagues scientifically decoded the secret of creamy cacio e pepe and earned the Ig Nobel Prize. Their research showed how starch can stabilize Pecorino into a smooth sauce, turning a culinary mystery into physics-driven perfection.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/cacio-e-pepe-pasta.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250918225010.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250918225010.htm",
+      "title": "Earthquakes release blistering heat that can melt rock in an instant",
+      "content_text": "MIT scientists have unraveled the hidden energy balance of earthquakes by recreating them in the lab. Their findings show that while only a sliver of energy goes into the shaking we feel on the surface, the overwhelming majority is released as heat—sometimes hot enough to melt surrounding rock in an instant.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/rock-slip-earthquake-energy.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250918225006.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250918225006.htm",
+      "title": "Alien water worlds were just a mirage",
+      "content_text": "A new study challenges the dream of water-rich “Hycean” planets like K2-18b, suggesting that most sub-Neptunes lose their water deep into their interiors during formation. Instead of vast oceans, these worlds likely retain only a few percent of water at the surface.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/exoplanet-k2-18b.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/09/250918225004.htm",
       "url": "https://www.sciencedaily.com/releases/2025/09/250918225004.htm",
       "title": "Scientists just found the hidden cosmic fingerprints of dark matter",
@@ -177,126 +297,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/nasa-artemis-astronauts-working-on-moon.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250917220954.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250917220954.htm",
-      "title": "White dwarf caught devouring a frozen Pluto-like world",
-      "content_text": "Astronomers have detected the chemical fingerprint of a frozen, water-rich planetary fragment being devoured by a white dwarf star, offering the clearest evidence yet that icy, life-delivering objects exist beyond our Solar System. The find suggests fragments like comets and dwarf planets may be common ingredients of planetary systems.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/accreting-icy-planetary-fragments.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250916221920.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250916221920.htm",
-      "title": "Goodbye colonoscopy? Simple stool test detects 90% of colorectal cancers",
-      "content_text": "Scientists at the University of Geneva have created the first detailed catalogue of gut bacteria at the subspecies level, unlocking powerful new ways to detect colorectal cancer. By applying machine learning to stool samples, they achieved a 90% detection rate—nearly matching colonoscopies, but with far less cost and discomfort. This breakthrough could revolutionize early cancer screening, helping catch the disease before it advances.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/colon-cancer-bacteria-viruses.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250916221917.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250916221917.htm",
-      "title": "Rogue DNA rings may be the secret spark driving deadly brain cancer",
-      "content_text": "Rogue DNA rings known as ecDNA may hold the key to cracking glioblastoma’s deadly resilience. Emerging before tumors even form, they could offer scientists a crucial early-warning system and a chance to intervene before the disease becomes untreatable.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/rogue-dna-ring.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250916221913.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250916221913.htm",
-      "title": "Harvard’s salt trick could turn billions of tons of hair into eco-friendly materials",
-      "content_text": "Scientists at Harvard have discovered how salts like lithium bromide break down tough proteins such as keratin—not by attacking the proteins directly, but by altering the surrounding water structure. This breakthrough opens the door to a cleaner, more sustainable way to recycle wool, feathers, and hair into valuable materials, potentially replacing plastics and fueling new industries.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/protein-denaturation.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250916221838.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250916221838.htm",
-      "title": "The violent collisions that made Earth habitable",
-      "content_text": "Late-stage planetary collisions reshaped Earth and its neighboring planets, delivering water, altering their atmospheres, and influencing their tectonics. New findings suggest these violent impacts were central to both planetary diversity and the origins of habitability.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/high-energy-venus-impacts.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250916221836.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250916221836.htm",
-      "title": "Scientists crack a 50-year solar mystery with a scorching discovery",
-      "content_text": "Scientists from the University of St Andrews have discovered that ions in solar flares can reach scorching temperatures more than 60 million degrees—6.5 times hotter than previously believed. This breakthrough challenges decades of assumptions in solar physics and offers a surprising solution to a 50-year-old puzzle about why flare spectral lines appear broader than expected.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/limb-flare-and-scaled-earth.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250916221828.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250916221828.htm",
-      "title": "Scientists stunned by salt giants forming beneath the Dead Sea",
-      "content_text": "The Dead Sea isn’t just the saltiest body of water on Earth—it’s a living laboratory for the formation of giant underground salt deposits. Researchers are unraveling how evaporation, temperature shifts, and unusual mixing patterns lead to phenomena like “salt snow,” which falls in summer as well as winter. These processes mirror what happened millions of years ago in the Mediterranean, leaving behind thick salt layers still buried today.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/golden-hour-dead-sea-landscapes.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250916221826.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250916221826.htm",
-      "title": "Rare Einstein cross with extra image reveals hidden dark matter",
-      "content_text": "A strange “Einstein Cross” with an extra, impossible fifth image has revealed the hidden presence of a massive dark matter halo. An international team of astronomers, including Rutgers scientists, used powerful radio telescopes and computer modeling to confirm the invisible structure’s existence. This rare cosmic lens not only magnifies a distant galaxy but also opens a unique window into the mysterious matter that shapes the universe.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/five-point-einstein-cross.webp",
           "mime_type": "image/webp"
         }
       ],

@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/structural-battery-composites.atom.xml"/>
   <id>urn:4thwaveai-feeds:structural-battery-composites</id>
-  <updated>Fri, 19 Sep 2025 11:42:53 +0000</updated>
+  <updated>Fri, 19 Sep 2025 13:20:54 +0000</updated>
   <entry>
     <title>Light-powered chip makes AI 100 times more efficient</title>
     <link href="https://www.sciencedaily.com/releases/2025/09/250908175458.htm"/>
@@ -84,6 +84,12 @@
     <summary type="text">Soft devices made by rolling up rubber-like sheets patterned with 2D electronics can monitor, stimulate and navigate deep tissue in animal models.</summary>
   </entry>
   <entry>
+    <title>Materials advances for distributed environmental sensor networks at scale - Nature Reviews Materials</title>
+    <link href="https://www.nature.com/articles/s41578-025-00838-7"/>
+    <id>https://www.nature.com/articles/s41578-025-00838-7</id>
+    <summary type="text">Accurate, spatiotemporally resolved monitoring of environments and ecosystems serves as the starting point to both identify and remedy natural or anthropogenic environmental hazards. This Review covers materials science advances supporting a new paradigm in environmental sensing: distributed networks of sensing elements capable of system-level profiling with the possibility of harmless environmental resorption after a predetermined recording period.</summary>
+  </entry>
+  <entry>
     <title>Impact-resistant, haze-free, 3D-printable transparent block copolymer resin via photopolymerization-induced microphase separation - NPG Asia Materials</title>
     <link href="https://www.nature.com/articles/s41427-025-00618-3"/>
     <id>https://www.nature.com/articles/s41427-025-00618-3</id>
@@ -106,11 +112,5 @@
     <link href="https://www.nature.com/articles/s42005-025-02315-7"/>
     <id>https://www.nature.com/articles/s42005-025-02315-7</id>
     <summary type="text">Network glass fracture is a sudden, complex process lacking clear precursors. Here, the authors develop the local intelligent stress threshold indicator (LISTI), a neural network-based tool that predicts nanoscale crack nucleation by correlating local stress thresholds with structural topology, offering a method to identify fracture-prone zones in network glasses.</summary>
-  </entry>
-  <entry>
-    <title>Multiple hydrogen bonds as tools to enhance the mechanical and mechanoresponsive properties of polymers - Polymer Journal</title>
-    <link href="https://www.nature.com/articles/s41428-025-01098-6"/>
-    <id>https://www.nature.com/articles/s41428-025-01098-6</id>
-    <summary type="text">This review delineates a design strategy for mechanoresponsive polymers by categorizing hydrogen-bonding (H-bonding) motifs into “rigid” and “flexible” types. Rigid H-bonds, with strong directionality, provide high elasticity and strength. In contrast, flexible H-bonds, such as aliphatic diols, possess multiple, conformationally diverse binding modes. This flexibility allows for more efficient energy dissipation and network recovery under strain, leading to materials with superior dynamicity. We discuss the intrinsic effects of structural flexibility of H-bonding groups on mechanical properties, independent of solvent interactions.</summary>
   </entry>
 </feed>
