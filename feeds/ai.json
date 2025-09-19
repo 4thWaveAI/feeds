@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.json",
   "items": [
     {
+      "id": "https://developer.nvidia.com/blog/nvidia-hgx-b200-reduces-embodied-carbon-emissions-intensity/",
+      "url": "https://developer.nvidia.com/blog/nvidia-hgx-b200-reduces-embodied-carbon-emissions-intensity/",
+      "title": "NVIDIA HGX B200 Reduces Embodied Carbon Emissions Intensity | NVIDIA Technical Blog",
+      "content_text": "NVIDIA HGX B200 is revolutionizing accelerated computing by unlocking unprecedented performance and energy efficiency. This post shows how HGX B200 is outperforming its predecessor NVIDIA HGX H100 in…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/nvidia-blackwell-hgx-b200.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/",
       "url": "https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/",
       "title": "The UK’s ‘Goldilocks Moment for AI’: NVIDIA, UK and US Leaders Highlight AI Infrastructure Investments",
@@ -17,21 +32,6 @@
         {
           "url": "https://www.youtube.com/embed/3GhckKPLDd4?feature=oembed",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/the-kaggle-grandmasters-playbook-7-battle-tested-modeling-techniques-for-tabular-data/",
-      "url": "https://developer.nvidia.com/blog/the-kaggle-grandmasters-playbook-7-battle-tested-modeling-techniques-for-tabular-data/",
-      "title": "The Kaggle Grandmasters Playbook: 7 Battle-Tested Modeling Techniques for Tabular Data | NVIDIA Technical Blog",
-      "content_text": "Over hundreds of Kaggle competitions, we’ve refined a playbook that consistently lands us near the top of the leaderboard—no matter if we’re working with millions of rows, missing values…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/Kaggle-Grandmasters-Playbook-featured.png",
-          "mime_type": "image/png"
         }
       ],
       "tags": [
