@@ -4,7 +4,7 @@
   <link href="https://4thwave.ai"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/structural-battery-composites.atom.xml"/>
   <id>urn:4thwaveai-feeds:structural-battery-composites</id>
-  <updated>Fri, 19 Sep 2025 10:41:33 +0000</updated>
+  <updated>Fri, 19 Sep 2025 11:29:10 +0000</updated>
   <entry>
     <title>Light-powered chip makes AI 100 times more efficient</title>
     <link href="https://www.sciencedaily.com/releases/2025/09/250908175458.htm"/>
@@ -90,6 +90,12 @@
     <summary type="text">We developed impact-resistant, haze-free poly(methyl methacrylate) (PMMA) by photopolymerization-induced microphase separation. Upon irradiation, a polymerization mixture transforms into a transparent monolithic solid. A nanoscopic bicontinuous morphology of glassy PMMA with rubbery and cross-linked polymer domains retains transparency and dimension stability even at high temperatures. 3D printing via direct ink writing demonstrates the potential of the developed material for advanced optical and structural applications.</summary>
   </entry>
   <entry>
+    <title>Analysis of the influence of coupling agents on the composition of artificial rocks with polymer matrix - Scientific Reports</title>
+    <link href="https://www.nature.com/articles/s41598-025-18783-4"/>
+    <id>https://www.nature.com/articles/s41598-025-18783-4</id>
+    <summary type="text">Scientific Reports volume 15 , Article number: 32619 ( 2025 ) Cite this article</summary>
+  </entry>
+  <entry>
     <title>Decoupled dual-salt electrolyte for practical aqueous zinc batteries - Nature Sustainability</title>
     <link href="https://www.nature.com/articles/s41893-025-01646-1"/>
     <id>https://www.nature.com/articles/s41893-025-01646-1</id>
@@ -106,11 +112,5 @@
     <link href="https://www.nature.com/articles/s41428-025-01098-6"/>
     <id>https://www.nature.com/articles/s41428-025-01098-6</id>
     <summary type="text">This review delineates a design strategy for mechanoresponsive polymers by categorizing hydrogen-bonding (H-bonding) motifs into “rigid” and “flexible” types. Rigid H-bonds, with strong directionality, provide high elasticity and strength. In contrast, flexible H-bonds, such as aliphatic diols, possess multiple, conformationally diverse binding modes. This flexibility allows for more efficient energy dissipation and network recovery under strain, leading to materials with superior dynamicity. We discuss the intrinsic effects of structural flexibility of H-bonding groups on mechanical properties, independent of solvent interactions.</summary>
-  </entry>
-  <entry>
-    <title>Photochemical and electrochemical assessment of UIO-66-NH₂/g-C₃N₄ thin-film heterostructures as potential candidates for hydrogen evolution: an experimental study augmented by DFT insights - Scientific Reports</title>
-    <link href="https://www.nature.com/articles/s41598-025-20035-4"/>
-    <id>https://www.nature.com/articles/s41598-025-20035-4</id>
-    <summary type="text">Scientific Reports volume 15 , Article number: 32608 ( 2025 ) Cite this article</summary>
   </entry>
 </feed>
