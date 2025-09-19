@@ -35,21 +35,6 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-09-hybrid-nanoantennas-enable-capture-diamond.html",
-      "url": "https://phys.org/news/2025-09-hybrid-nanoantennas-enable-capture-diamond.html",
-      "title": "Hybrid nanoantennas enable light capture from diamond defects",
-      "content_text": "Researchers at the Hebrew University of Jerusalem and the Humboldt University in Berlin have developed a way to capture nearly all the light emitted from tiny diamond defects known as color centers. By placing nanodiamonds into specially designed hybrid nanoantennas with extreme precision, the team achieved record photon collection at room temperature—a necessary step for quantum technologies such as quantum sensors, and quantum-secured communications.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-sources-for-quantu.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
       "id": "https://phys.org/news/2025-09-court-demand-scientific-certainty-case.html",
       "url": "https://phys.org/news/2025-09-court-demand-scientific-certainty-case.html",
       "title": "Court rulings increasingly demand scientific certainty—but the case of titanium dioxide shows that's not always possible",
@@ -77,6 +62,21 @@
         {
           "url": "https://scx2.b-cdn.net/gfx/video/2025/new-light-powered-moto-1.mp4",
           "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-hybrid-nanoantennas-enable-capture-diamond.html",
+      "url": "https://phys.org/news/2025-09-hybrid-nanoantennas-enable-capture-diamond.html",
+      "title": "Hybrid nanoantennas enable light capture from diamond defects",
+      "content_text": "Researchers at the Hebrew University of Jerusalem and the Humboldt University in Berlin have developed a way to capture nearly all the light emitted from tiny diamond defects known as color centers. By placing nanodiamonds into specially designed hybrid nanoantennas with extreme precision, the team achieved record photon collection at room temperature—a necessary step for quantum technologies such as quantum sensors, and quantum-secured communications.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-sources-for-quantu.jpg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
