@@ -1,5 +1,5 @@
 # 4thWave AI Feeds
-
+# 🌌 4th Wave AI
 [![License: BSL → Apache 2.0 (3 years)](https://img.shields.io/badge/License-BSL%20%E2%86%92%20Apache%202.0-blue.svg)](./LICENSE.md)
 
 Future-Tech Media & Intelligence Platform  
