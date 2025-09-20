@@ -3,7 +3,7 @@ name: Update Space & Defense Feeds (space-tech + space-force)
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "0 * * * *"   # hourly (adjust as you like)
+    - cron: "0 * * * *"  # run hourly
 
 concurrency:
   group: space-defense
@@ -41,11 +41,12 @@ jobs:
       - name: Backup original feeds.yaml
         run: cp feeds.yaml feeds.yaml.bak
 
-            - name: Filter feeds.yaml to only space-tech & space-force
+      - name: Filter feeds.yaml to only space-tech & space-force
         env:
-          AREAS: space-tech,space-force   # edit list as needed
+          AREAS: space-tech,space-force   # edit list if you want more areas
         run: |
           echo "Keeping areas: $AREAS"
+          # In-place filter: keep only the requested area keys
           yq -i '
             .areas |= (
               to_entries
@@ -57,17 +58,8 @@ jobs:
           echo "Filtered areas present:"
           yq '.areas | keys' feeds.yaml
 
-
-          # Safety checks
-          echo "Filtered areas present:"
-          yq '.areas | keys' feeds.filtered.yaml
-
-          # Replace feeds.yaml for this build only
-          mv feeds.filtered.yaml feeds.yaml
-
       - name: Build area feeds (filtered)
-        run: |
-          python scripts/build_area_feeds.py
+        run: python scripts/build_area_feeds.py
 
       - name: Restore original feeds.yaml
         if: always()
