@@ -1,9 +1,10 @@
-# 4thWave AI Feeds
-# 🌌 4th Wave AI
+# 🌌 4th Wave AI Feeds
+
 [![License: BSL → Apache 2.0 (3y)](assets/badges/license-bsl-apache.svg)](./LICENSE.md)
+[![Governing Law: Nevada](https://img.shields.io/badge/Governing%20Law-Nevada-00FFFF?style=flat-square&labelColor=111318)](./LICENSE.md)
 
 Future-Tech Media & Intelligence Platform  
-Tracking the five frontiers shaping civilization: AI, Quantum, Biotech, Nanotech, Robotics
+Tracking the five frontiers shaping civilization: **AI, Quantum, Biotech, Nanotech, Robotics**
 
 Auto-updating RSS, Atom, and JSON feeds for the five frontiers shaping civilization—AI, Robotics, Quantum, Biotech, and Nanotech—plus select vendor/news sources and the **Human Effect & Stewardship** area. Built nightly (and on demand) via GitHub Actions.
 
