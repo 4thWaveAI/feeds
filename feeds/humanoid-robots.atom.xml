@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/humanoid-robots.atom.xml"/>
   <id>urn:4thwaveai-feeds:humanoid-robots</id>
-  <updated>Sat, 20 Sep 2025 03:49:20 +0000</updated>
+  <updated>Sat, 20 Sep 2025 05:42:47 +0000</updated>
   <entry>
     <title>IEEE Spectrum</title>
     <link href="https://spectrum.ieee.org/"/>
@@ -58,5 +58,35 @@
     <link href="https://spectrum.ieee.org/topic/tech-history/"/>
     <id>https://spectrum.ieee.org/topic/tech-history/</id>
     <summary type="text">A look back at key moments in the history of cyberspace, electronics, and the space age</summary>
+  </entry>
+  <entry>
+    <title>The Robot Report Enewsletter - The Robot Report</title>
+    <link href="https://www.therobotreport.com/the-robot-report-enewsletter/"/>
+    <id>https://www.therobotreport.com/the-robot-report-enewsletter/</id>
+    <summary type="text">Need robotics news in a minute? We Deliver! The Robot Report Enewsletter gets you caught up on all the mission critical news you need in the world of robotics. Sign up today.</summary>
+  </entry>
+  <entry>
+    <title>About The Robot Report</title>
+    <link href="https://www.therobotreport.com/about-the-robot-report/"/>
+    <id>https://www.therobotreport.com/about-the-robot-report/</id>
+    <summary type="text">The Robot Report provides news, analysis, webinars, and events for engineers and developers of commercial robotics systems.</summary>
+  </entry>
+  <entry>
+    <title>Robot Technologies: News and Product Announcements</title>
+    <link href="https://www.therobotreport.com/category/news/"/>
+    <id>https://www.therobotreport.com/category/news/</id>
+    <summary type="text">By Mike Oitzman | September 19, 2025</summary>
+  </entry>
+  <entry>
+    <title>2022 RBR50 Robotics Innovation Award Honorees - The Robot Report</title>
+    <link href="https://www.therobotreport.com/2022-rbr50-robotics-innovation-award-honorees/"/>
+    <id>https://www.therobotreport.com/2022-rbr50-robotics-innovation-award-honorees/</id>
+    <summary type="text">For over a decade, Robotics Business Review’s RBR50 Robotics Innovation Awards have highlighted the most creative and influential innovations from around the world that have advanced the state of robotics. Widely recognized throughout the world as a leading indicator of robotics innovation leadership, the RBR50 Robotics Innovation Awards are also a critical measure of robotics…</summary>
+  </entry>
+  <entry>
+    <title>2021 RBR50 Robotics Innovation Awards Digital Edition - The Robot Report</title>
+    <link href="https://www.therobotreport.com/2021-rbr50-robotics-innovation-awards-digital-edition/"/>
+    <id>https://www.therobotreport.com/2021-rbr50-robotics-innovation-awards-digital-edition/</id>
+    <summary type="text">Each year since 2012, Robotics Business Review has produced the RBR50 Robotics Innovation Awards, which recognize and celebrate forward thinking companies and the original, impactful solutions they have created. Widely recognized throughout the world as a leading indicator of robotics innovation leadership, the RBR50 Robotics Innovation Awards are also a critical measure of robotics sector…</summary>
   </entry>
 </feed>
