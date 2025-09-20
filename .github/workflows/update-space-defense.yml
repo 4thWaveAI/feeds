@@ -3,7 +3,7 @@ name: Update Space & Defense Feeds (space-tech + space-force)
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "0 * * * *"  # run hourly
+    - cron: "0 * * * *"   # hourly
 
 concurrency:
   group: space-defense
@@ -25,15 +25,13 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install deps
+      - name: Install Python deps
         run: |
           python -m pip install --upgrade pip
           pip install -r scripts/requirements.txt
 
       - name: Install yq (YAML CLI)
         run: |
-          sudo apt-get update
-          sudo apt-get install -y jq
           sudo wget -q https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_amd64 -O /usr/local/bin/yq
           sudo chmod +x /usr/local/bin/yq
           yq --version
@@ -41,25 +39,20 @@ jobs:
       - name: Backup original feeds.yaml
         run: cp feeds.yaml feeds.yaml.bak
 
+      # ✅ simple, reliable filter: keep only the two areas
       - name: Filter feeds.yaml to only space-tech & space-force
-        env:
-          AREAS: space-tech,space-force   # edit list if you want more areas
         run: |
-          echo "Keeping areas: $AREAS"
-          # In-place filter: keep only the requested area keys
+          echo "Before filter:"; yq '.areas | keys' feeds.yaml
           yq -i '
-            .areas |= (
-              to_entries
-              | map(select((env(AREAS) | split(",")) as $keep
-                           | ($keep | index(.key)) != null))
-              | from_entries
+            .areas |= with_entries(
+              select(.key == "space-tech" or .key == "space-force")
             )
           ' feeds.yaml
-          echo "Filtered areas present:"
-          yq '.areas | keys' feeds.yaml
+          echo "After filter:"; yq '.areas | keys' feeds.yaml
 
       - name: Build area feeds (filtered)
-        run: python scripts/build_area_feeds.py
+        run: |
+          python scripts/build_area_feeds.py
 
       - name: Restore original feeds.yaml
         if: always()
