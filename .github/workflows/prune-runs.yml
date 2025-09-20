@@ -1,0 +1,13 @@
+name: Prune old workflow runs
+on:
+  schedule: [ { cron: "15 5 * * 1" } ]   # Mondays 05:15 UTC
+  workflow_dispatch: {}
+
+jobs:
+  prune:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Mattraks/delete-workflow-runs@v2
+        with:
+          retain_days: 90
+          keep_minimum_runs: 3
