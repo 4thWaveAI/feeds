@@ -46,3 +46,6 @@ Each release is protected for 3 years.
 After 3 years, it automatically becomes Apache 2.0 open source.
 
 Before then, SaaS/hosted competition requires a paid license.
+
+Add Business Source License (BSL) with rolling change date governed by Nevada law
+
