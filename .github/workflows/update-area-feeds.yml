@@ -3,7 +3,18 @@ name: Update Area Feeds (AI/Robotics/Quantum/Biotech/Nanotech)
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes
+    - cron: "*/30 * * * *"           # every 30 minutes
+  push:
+    branches: [ main ]
+    paths:
+      - 'feeds.yaml'
+      - 'scripts/**'
+      - '.github/workflows/update-area-feeds.yml'
+    paths-ignore:
+      - 'README.md'
+      - 'LICENSE*'
+      - 'assets/**'
+      - 'docs/**'
 
 concurrency:
   group: area-feeds
@@ -15,6 +26,8 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -23,6 +36,14 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('scripts/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
 
       - name: Install deps
         run: |
@@ -33,10 +54,22 @@ jobs:
         run: |
           python scripts/build_area_feeds.py
 
+      - name: Gzip latest feeds (keep originals)
+        shell: bash
+        run: |
+          shopt -s nullglob
+          for f in feeds/*.xml feeds/*.atom.xml feeds/*.json; do
+            [ -e "$f" ] && gzip -kf "$f"
+          done
+
       - name: Commit generated files
         run: |
           git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           git diff --cached --quiet || git commit -m "chore: update feeds & index [skip ci]"
           git push
+
+      - name: Lightweight repo GC
+        run: |
+          git gc --prune=now || true
