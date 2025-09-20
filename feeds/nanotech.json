@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
+      "id": "https://phys.org/news/2025-09-method-graphene-defects.html",
+      "url": "https://phys.org/news/2025-09-method-graphene-defects.html",
+      "title": "New method for making graphene turns defects into improvements",
+      "content_text": "Recent research has found a new way to make graphene that adds structural defects to improve the performance of the material that could have benefits across a range of applications—from sensors and batteries, to electronics.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/graphene.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://phys.org/news/2025-09-member-nanoring-boundaries-global-aromaticity.html",
       "url": "https://phys.org/news/2025-09-member-nanoring-boundaries-global-aromaticity.html",
       "title": "18-member nanoring pushes the boundaries of global aromaticity",
@@ -166,21 +181,6 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/wiggling-atoms-may-lea-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-bioreactors-yield-extracellular-vesicles-medicine.html",
-      "url": "https://phys.org/news/2025-09-bioreactors-yield-extracellular-vesicles-medicine.html",
-      "title": "Spinning bioreactors increase yield of extracellular vesicles for more affordable targeted medicine",
-      "content_text": "Inside cells there are tiny particles, known as extracellular vesicles, that store and move molecules. Our cells naturally package beneficial proteins and healing compounds into these tiny bubbles, dispatching them to where they are needed to deliver molecular cargo or to communicate with other cells.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/researchers-use-spinni.jpg",
           "mime_type": "image/jpeg"
         }
       ],

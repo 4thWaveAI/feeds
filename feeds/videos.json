@@ -5,6 +5,462 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.json",
   "items": [
     {
+      "id": "https://www.aboutamazon.com/news/community/amazon-headquarters-seattle-bellevue-puget-sound-news",
+      "url": "https://www.aboutamazon.com/news/community/amazon-headquarters-seattle-bellevue-puget-sound-news",
+      "title": "Amazon in the community: Here's what's happening in Seattle, Bellevue, and the Puget Sound",
+      "content_text": "Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/8f88e6b/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F5b%2F7b%2F25139aad4a5fb4efafb1b3cdc335%2Fabout-amazon-hero-amazon-spheres-selects-29.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/QWQvaTXowao",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/",
+      "url": "https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/",
+      "title": "The UK’s ‘Goldilocks Moment for AI’: NVIDIA, UK and US Leaders Highlight AI Infrastructure Investments",
+      "content_text": "NVIDIA founder and CEO Jensen Huang discussed the UK’s plans to become an AI superpower with UK Prime Minister Keir Starmer, UK Secretary of State for Science, Innovation and Technology Liz Kendall, UK Secretary of State for Business and Trade Peter Kyle, and US Secretary of Commerce Howard Lutnick.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/UK-Visit-MAT10296_isp.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/3GhckKPLDd4?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://about.fb.com/news/2025/09/meta-ray-ban-display-ai-glasses-emg-wristband/",
+      "url": "https://about.fb.com/news/2025/09/meta-ray-ban-display-ai-glasses-emg-wristband/",
+      "title": "Meta Ray-Ban Display: AI Glasses With an EMG Wristband",
+      "content_text": "Today at Connect, Mark Zuckerberg unveiled the next evolution in AI glasses: Meta Ray-Ban Display and Meta Neural Band.",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2025/09/Meta-Ray-Ban-Display_Social-Share.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2025/09/Meta-Ray-Ban-Display_Header.mp4?_=1",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
+      "id": "https://about.fb.com/news/2025/09/oakley-meta-vanguard-performance-ai-glasses-sports/",
+      "url": "https://about.fb.com/news/2025/09/oakley-meta-vanguard-performance-ai-glasses-sports/",
+      "title": "Athletic Intelligence Is Here, Meet Oakley Meta Vanguard",
+      "content_text": "Today at Connect, Mark Zuckerberg introduced Oakley Meta Vanguard, a brand-new line of Performance AI glasses built for high-intensity sports.",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2025/09/Oakley-Meta-Vanguard_Social-Share.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2025/09/Oakley-Meta-Vanguard_Header.mp4?_=1",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
+      "id": "https://about.fb.com/news/2025/09/ray-ban-meta-gen-2-better-battery-life-video-capture/",
+      "url": "https://about.fb.com/news/2025/09/ray-ban-meta-gen-2-better-battery-life-video-capture/",
+      "title": "Ray-Ban Meta (Gen 2) Now With Up to 2X the Battery Life and Better Video Capture",
+      "content_text": "We’re introducing Ray-Ban Meta (Gen 2), the same stylish AI glasses you love with, now with new features.",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2025/09/Ray-Ban-Meta_Social-Share.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2025/09/Ray-Ban-Meta_Header.mp4?_=1",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
+      "id": "https://about.fb.com/news/2025/08/metas-kansas-city-data-center/",
+      "url": "https://about.fb.com/news/2025/08/metas-kansas-city-data-center/",
+      "title": "Meta’s Kansas City Data Center and Upcoming AI-Optimized Data Centers",
+      "content_text": "Our Kansas City data center is now operational, representing a $1 billion investment in Missouri and in our global infrastructure that brings our technologies to billions of people worldwide.",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2025/08/Metas-Kansas-City-Data-Center_Header.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2025/08/01_KCDataCenter.mp4?_=1",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/",
+      "url": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/",
+      "title": "AlphaGenome: AI for better understanding the genome",
+      "content_text": "Introducing a new, unifying DNA sequence model that advances regulatory variant-effect prediction and promises to shed new light on genome function — now available via API.",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/SZkcKUQyLUhSQ06Rq-PJbxAqn1OpMeEa3khkrBVB1MGyHfxyftoqWwEb2aLP9JxX7CjhpLFODcc5zIoMoNdu0bl6ELsZV2nP9fDwZC6SYS36lzAKDw=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://deepmind.google/api/blob/website/media/AlphaGenome-Figure1-Animation-000000.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/",
+      "url": "https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/",
+      "title": "AlphaProteo generates novel proteins for biology and health research",
+      "content_text": "New AI system designs proteins that successfully bind to target molecules, with potential for advancing drug design, disease understanding and more.",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/7RKd6r-Wc8JfMau5x9knRq9DrOKGDwS3ye4YxY0jjWGntf74y8WL0lOlktJefxwkJYw33UEf2Ph_BhQ51TIufCxPkmtCPOpakekMpnOUwVI-3R6RzQ=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://deepmind.google/api/blob/website/media/GDM-ProteinDesignBlog-02-Binder-Final.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+      "url": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+      "title": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms",
+      "content_text": "New AI agent evolves algorithms for math and practical applications in computing by combining the creativity of large language models with automated evaluators",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/tG6-MqdlvhQ-z7ENzGxR-kpGPPdPHbJ8UZtbTP66Rxi0UftTFU1yAvaBCVuigYuKvESMeEFf4jqNBVENFcZXEUnj8SSqj8zsop8UHAl0eD9A-hUCvQ=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://deepmind.google/api/blob/website/media/Code-Evolution-Illustration_compressed_iUJETbv.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/",
+      "url": "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/",
+      "title": "Genie 3: A New Frontier for World Models",
+      "content_text": "Today we are announcing Genie 3, a general purpose world model that can generate an unprecedented diversity of interactive environments. Given a text prompt, Genie 3 can generate dynamic worlds...",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/pXnO9nBpgw0RnwPCDrcbdFqO0cHkaIsQYNuOyXd7L3iFrp0Mr_yLMROiWzz3EqG8W-qq-QzGPTEAs1pr75kX7SzVC-y4jnON7b7P9Bwqd19Nl-bkJYc=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://deepmind.google/api/blob/website/media/sxs_1.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/auto/",
+      "url": "https://blogs.nvidia.com/blog/category/auto/",
+      "title": "Driving Archives",
+      "content_text": "At this week’s IAA Mobility conference in Munich, NVIDIA Vice President of Automotive Ali Kani outlined how cloud-to-car… Read Article",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/08/automotive-comms-drive-agx-thor-1280x680-1.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/robotics/",
+      "url": "https://blogs.nvidia.com/blog/category/robotics/",
+      "title": "Robotics Archives",
+      "content_text": "AI models are advancing at a rapid rate and scale. But what might they lack that (most) humans… Read Article",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/06/rss-asap-1920x1080-1.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/helix-loads-the-dishwasher",
+      "url": "https://www.figure.ai/news/helix-loads-the-dishwasher",
+      "title": "Helix Loads the Dishwasher",
+      "content_text": "Helix Loads the Dishwasher",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/2wRk1FxvA5mPvUStmShycO/ce2db2efd18b9e90005dc8b7684cd936/DISHES_1200x630__1.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/44vnbEhANLcpntMoHQDP3a/e7e8d3a6f25137eb88ac58a0d72a57d1/Video_Cover_-_Mobile_934_x_1434px_.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/scaling-helix-logistics",
+      "url": "https://www.figure.ai/news/scaling-helix-logistics",
+      "title": "Scaling Helix: a New State of the Art in Humanoid Logistics",
+      "content_text": "Scaling Helix: a New State of the Art in Humanoid Logistics",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/54nYwolcdAQ8z67JvXuo48/3642c3c4def2e21de60a4c683fb40775/OPEN_GRAPH_IMAGE__1_.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/sS8EiNPG9h2gPtTpanjKk/bff5eb609aeebe6c385c931cb5395002/VIDEO_COVER_MOBILE.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/botq",
+      "url": "https://www.figure.ai/news/botq",
+      "title": "BotQ: A High-Volume Manufacturing Facility for Humanoid Robots",
+      "content_text": "Introducing BotQ, Figure’s new high-volume manufacturing facility for humanoid robots.",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/8vwfX4g74TIKRyadRPuCX/eeca11446869aed120bf553664fc813d/Open_Graph_Image.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/1YIcaNVYQHJiikmAtwTX5V/e65166e0bfcb21031c4c99e30f9bd5ac/Video_Cover_-_Mobile.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/project-go-big",
+      "url": "https://www.figure.ai/news/project-go-big",
+      "title": "Project Go-Big: Internet-Scale Humanoid Pretraining and Direct Human-to-Robot Transfer",
+      "content_text": "Project Go-Big: Internet-Scale Humanoid Pretraining and Direct Human-to-Robot Transfer",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/7p8BmuMQwpfQ0O9aHdhlzP/52f749276d2c74e9e7390962bad17253/Open_Graph_1.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/4qZ4UtLo7Q3CuEAo38J3SY/a645cf1b7ce75cd65615b801678148a9/Video_Cover_-_Mobile_01.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/figure-announces-strategic-partnership-with-brookfield",
+      "url": "https://www.figure.ai/news/figure-announces-strategic-partnership-with-brookfield",
+      "title": "Figure Announces Strategic Partnership with Brookfield",
+      "content_text": "Figure Announces Strategic Partnership with Brookfield",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/2NZHe54DbeILkjFYVfAYqb/0afbcdf9671c45a152c82c8d40124f7d/BROOKFIELD_OPEN_GRAPH_IMAGE.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/3qehO6MwLhIjNWgr47NqsD/c3feecec797575f83942435c0a945a75/Brookfield_VIDEO_COVER_MOBILE.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/series-c",
+      "url": "https://www.figure.ai/news/series-c",
+      "title": "Figure Exceeds $1B in Series C Funding at $39B Post-Money Valuation",
+      "content_text": "Figure Exceeds $1B in Series C Funding at $39B Post-Money Valuation",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/2uhpHCaRAaKhZHToZMGYG/3a673f8cccb78ac8675968d8e6c3da65/Open_Graph_image__3_.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/72AaYjGofNKS4yhSkSzMRQ/0daaa5430cc21b9bc139a860345ccf5e/vidoe_cover_mobile_V2.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/helix-learns-to-fold-laundry",
+      "url": "https://www.figure.ai/news/helix-learns-to-fold-laundry",
+      "title": "Helix Learns to Fold Laundry",
+      "content_text": "Helix Learns to Fold Laundry",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/2VxPzhq7dxDzEseyMqZFmF/a73064bbe899f6c614dd4ca27acebc40/Laundry_Open_Graph_Image.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/4k5kS2gknNxU59RlakrOem/a92eb8e9f9cb1bd4e269fff95e28d216/Video_Cover_-_Mobile_934x1434.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/f-03-battery-development",
+      "url": "https://www.figure.ai/news/f-03-battery-development",
+      "title": "F.03 Battery Development",
+      "content_text": "F.03 Battery Development",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/1G5l3Bq2481A51kixdiJDN/ca0dd4e964b91032c85105c8846d0158/1200x630__1_.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/VBHSFh040nu5QhPfnJjmj/5bcbb27856a4370cc185a1eda14627cb/934x1434.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news",
+      "url": "https://www.figure.ai/news",
+      "title": "News | Figure",
+      "content_text": "We’re bringing the humanoid to life. Join us.",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/56I3mHKEdLZdrsONwOm3sc/63b1569bb855cc334c2dda67ce40ba4a/generic-page-image.jpeg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/35FiJ5CUehHheBZvM5iQTT/7ecb4c5803e1e06c292d6e6126ec53f8/Thumbnail_1024_x_820.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://research.ibm.com/blog/bharatgen-ai-india",
+      "url": "https://research.ibm.com/blog/bharatgen-ai-india",
+      "title": "IBM and BharatGen collaborate for India’s AI needs",
+      "content_text": "Using the multimodal AI and LLMs BharatGen is working on, it will work with IBM to build the unique tools needed to best serve Indian language speakers.",
+      "attachments": [
+        {
+          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fbharat_Gen_5f657bc5af.jpg&w=1200&q=75",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://d35x6597f7j1wm.cloudfront.net/bharat_Gen_2x_74880ee970.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://research.ibm.com/blog/granite-hackerone-bug-bounty",
+      "url": "https://research.ibm.com/blog/granite-hackerone-bug-bounty",
+      "title": "IBM further strengthens Granite for enterprise deployment with HackerOne",
+      "content_text": "IBM is partnering with HackerOne to offer a bug bounty program for Granite, with up to $100,000 in bounty payouts available. The objective is to identify successful jailbreaks of Granite models deployed in enterprise-like settings with guardrails enabled, as businesses look to scale their AI workflows.",
+      "attachments": [
+        {
+          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fblog_Art_hacker_One_1_8cfd5ce596.jpg&w=1200&q=75",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://d35x6597f7j1wm.cloudfront.net/blog_Art_hacker_One_17c19fbd70.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-powered-gears-strand-hair.html",
+      "url": "https://phys.org/news/2025-09-powered-gears-strand-hair.html",
+      "title": "New light-powered gears fit inside a strand of hair",
+      "content_text": "Researchers at the University of Gothenburg have made light-powered gears on a micrometer scale. This paves the way for the smallest on-chip motors in history, which can fit inside a strand of hair. The research is published in the journal Nature Communications.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-light-powered-moto.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://scx2.b-cdn.net/gfx/video/2025/new-light-powered-moto-1.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasas-deep-space-communications-demo-exceeds-project-expectations/",
       "url": "https://www.jpl.nasa.gov/news/nasas-deep-space-communications-demo-exceeds-project-expectations/",
       "title": "NASA’s Deep Space Communications Demo Exceeds Project Expectations",
@@ -192,6 +648,44 @@
       ],
       "tags": [
         "space-tech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2024-08-electronics-material-current.html",
+      "url": "https://phys.org/news/2024-08-electronics-material-current.html",
+      "title": "Printed electronics material can store 1,000 times more charge than current forms",
+      "content_text": "Imagine knowing your milk has gone bad without having to open your fridge. A technology called printed electronics could one day make innovations like this possible.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2024/got-sour-milk-printed.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/y5kqqQdMzVE?color=white",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "internet-of-things"
+      ]
+    },
+    {
+      "id": "http://www.unep.org/resources/Global-Resource-Outlook-2024",
+      "url": "http://www.unep.org/resources/Global-Resource-Outlook-2024",
+      "title": "Global Resources Outlook 2024",
+      "content_text": "The world is in the midst of a triple planetary crisis of climate change, biodiversity loss and pollution and waste. The global economy is consuming ever more natural resources, while the world is not on track to meet the Sustainable Development Goals.",
+      "attachments": [
+        {
+          "url": "https://cdn.unenvironment.org/styles/topics_content_promo/s3/2024-02/GRO%20Cover-banner.jpg?itok=MkkBw5De",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/jaHZwExw7OA?rel=0&showinfo=1&hl=en-US",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "human_effect"
       ]
     }
   ]
