@@ -5,923 +5,517 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
-      "id": "https://developer.nvidia.com/blog/predict-extreme-weather-events-in-minutes-without-a-supercomputer/",
-      "url": "https://developer.nvidia.com/blog/predict-extreme-weather-events-in-minutes-without-a-supercomputer/",
-      "title": "Predict Extreme Weather Events in Minutes Without a Supercomputer | NVIDIA Technical Blog",
-      "content_text": "Scientists from NVIDIA, in collaboration with Lawrence Berkeley National Laboratory (Berkeley Lab), released a machine learning tool called Huge Ensembles (HENS) for extreme-weather prediction that…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/HENS-TechBlog-GIF-500x282.gif",
-          "mime_type": "image/gif"
-        }
-      ],
+      "id": "https://www.nasa.gov/news/recently-published/",
+      "url": "https://www.nasa.gov/news/recently-published/",
+      "title": "All NASA News - NASA",
+      "content_text": "Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.",
       "tags": [
-        "ai"
+        "space-tech"
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/entertainment/summer-i-turned-pretty-movie-prime-video",
-      "url": "https://www.aboutamazon.com/news/entertainment/summer-i-turned-pretty-movie-prime-video",
-      "title": "'The Summer I Turned Pretty' movie—here's everything to know",
-      "content_text": "The final chapter of Belly’s journey will be told with a feature film.",
+      "id": "https://www.nasa.gov/news/media-contacts/",
+      "url": "https://www.nasa.gov/news/media-contacts/",
+      "title": "NASA Media Contacts - NASA",
+      "content_text": "Media Contacts Roxana Bardan Mars Sample Return 771-200-7217 Gerelle Dodson NASA Workforce, STEM Engagement 202-358-1600 Jennifer Dooren Deputy News Chief,",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/bce64e6/2147483647/strip/true/crop/8256x4128+0+258/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ffd%2F4b%2Fd10f683c40b38233ee61c8b1a69f%2Fanthonyghnassia-452.jpg",
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
           "mime_type": "image/jpeg"
         }
       ],
       "tags": [
-        "jeff-bezos"
+        "space-tech"
       ]
     },
     {
-      "id": "https://spectrum.ieee.org/video-friday-billion-humanoid-robots",
-      "url": "https://spectrum.ieee.org/video-friday-billion-humanoid-robots",
-      "title": "Is a Billion Dollars Enough for Figure to Make Humanoids Happen?",
-      "content_text": "​What kind of humanoid can be built with over one billion in funding? And more of the week's best robot videos!",
+      "id": "https://www.nasa.gov/news/",
+      "url": "https://www.nasa.gov/news/",
+      "title": "NASA News",
+      "content_text": "Resources for news media, including NASA news contacts and archived news material",
       "attachments": [
         {
-          "url": "https://spectrum.ieee.org/media-library/image.png?id=61621100&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
-          "mime_type": "image/png"
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/05/54492396655-c6ba83df1d-o-1.jpg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
-        "human_effect"
+        "space-tech"
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/community/amazon-headquarters-seattle-bellevue-puget-sound-news",
-      "url": "https://www.aboutamazon.com/news/community/amazon-headquarters-seattle-bellevue-puget-sound-news",
-      "title": "Amazon in the community: Here's what's happening in Seattle, Bellevue, and the Puget Sound",
-      "content_text": "Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region.",
+      "id": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-to-deliver-viper-rover-to-moons-south-pole/",
+      "url": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-to-deliver-viper-rover-to-moons-south-pole/",
+      "title": "NASA Selects Blue Origin to Deliver VIPER Rover to Moon’s South Pole - NASA",
+      "content_text": "As part of the agency’s Artemis campaign, NASA has awarded Blue Origin of Kent, Washington, a CLPS (Commercial Lunar Payload Services) task order with an",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/8f88e6b/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F5b%2F7b%2F25139aad4a5fb4efafb1b3cdc335%2Fabout-amazon-hero-amazon-spheres-selects-29.jpg",
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/09/mk1-viper-render100.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/2025-news-releases/",
+      "url": "https://www.nasa.gov/2025-news-releases/",
+      "title": "2025 News Releases - NASA",
+      "content_text": "Sign up to receive NASA news releases and other information.",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2024/12/54200119914-6ac915b145-o.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2025/09/19/nasa-northrop-grumman-collaboration-ensures-resupply-mission-success/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2025/09/19/nasa-northrop-grumman-collaboration-ensures-resupply-mission-success/",
+      "title": "NASA, Northrop Grumman Collaboration Ensures Resupply Mission Success - NASA",
+      "content_text": "The crew aboard the International Space Station continue to unpack more than 11,000 pounds of critical spares, food and supplies delivered Sept. 18 by a Cygnus XL commercial resupply mission.  The arrival of the Cygnus XL to the space station was delayed by one day, due to changes in the rendezvous planning resulting from the main spacecraft engine shutting down early on two burns on Sept. 16.",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/iss073e0703409/iss073e0703409~large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2025/09/18/cygnus-xl-cargo-craft-installed-on-stations-unity-module/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2025/09/18/cygnus-xl-cargo-craft-installed-on-stations-unity-module/",
+      "title": "Cygnus XL Cargo Craft Installed on Station's Unity Module - NASA",
+      "content_text": "Northrop Grumman’s new Cygnus XL spacecraft has been installed to the International Space Station. The mission is known as NASA’s Northrop Grumman Commercial Resupply Services 23, or Northrop Grumman CRS-23.",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/09/iss-09-17-25.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasas-deep-space-communications-demo-exceeds-project-expectations/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-deep-space-communications-demo-exceeds-project-expectations/",
+      "title": "NASA’s Deep Space Communications Demo Exceeds Project Expectations",
+      "content_text": "The project has exceeded all of its technical goals after two years, setting up the foundations of high-speed communications for NASA’s future human missions to Mars.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1_PIA26662_DSC4667-Enhanced-NR.jpg",
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://www.youtube.com/embed/QWQvaTXowao",
+          "url": "https://www.youtube.com/embed/PDLSM97vmKw?list=PLTiv_XWHnOZoPT2VCxZJOF7Vg1VTNuGj4",
           "mime_type": "video/mp4"
         }
       ],
       "tags": [
-        "jeff-bezos"
+        "space-tech"
       ]
     },
     {
-      "id": "https://aiforgood.itu.int/ai-for-healthcare-ai-for-humanity-ztes-vision-for-real-world-impact/",
-      "url": "https://aiforgood.itu.int/ai-for-healthcare-ai-for-humanity-ztes-vision-for-real-world-impact/",
-      "title": "AI for healthcare, AI for humanity: ZTE’s vision for real-world impact",
-      "content_text": "Connect with 51K enthusiasts from all over the world.",
+      "id": "https://www.jpl.nasa.gov/news/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/",
+      "title": "NASA’s Tally of Planets Outside Our Solar System Reaches 6,000",
+      "content_text": "The milestone highlights the accelerating rate of discoveries, just over three decades since the first exoplanets were found.",
       "attachments": [
         {
-          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/AI-for-healthcare-AI-for-humanity-1024x576.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.edsurge.com/news/2025-09-19-two-moms-and-trump-s-head-start-rule-child-care-shortages-meet-anti-immigrant-politics",
-      "url": "https://www.edsurge.com/news/2025-09-19-two-moms-and-trump-s-head-start-rule-child-care-shortages-meet-anti-immigrant-politics",
-      "title": "Two Moms and Trump’s Head Start Rule: Child Care Shortages Meet Anti-Immigrant Politics - EdSurge News",
-      "content_text": "Solangel, a Venezuelan immigrant, is the mother of a 7-year-old who blossomed at the Head Start preschool program he attended in a Denver suburb. He ...",
-      "attachments": [
-        {
-          "url": "https://edsurge.imgix.net/uploads/post/image/16446/Erin_Einhorn_Chalkbeat-1758285065.jpeg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "young-talons-edu-tech"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/aws/alibaba-qwen3-deepseek-v3-amazon-bedrock",
-      "url": "https://www.aboutamazon.com/news/aws/alibaba-qwen3-deepseek-v3-amazon-bedrock",
-      "title": "Qwen3 and DeepSeek-V3.1 models now available fully managed on AWS",
-      "content_text": "AWS continues to invest in being the best place to run open weight models with five new options that enhance model choice in Amazon Bedrock to further meet customers’ needs.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/2550bef/2147483647/strip/true/crop/1342x671+0+42/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F7b%2F21%2Fe87f4adf4c0788930b7a7adb8d9e%2Fnewheroforopenweight.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/",
-      "url": "https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/",
-      "title": "The UK’s ‘Goldilocks Moment for AI’: NVIDIA, UK and US Leaders Highlight AI Infrastructure Investments",
-      "content_text": "NVIDIA founder and CEO Jensen Huang discussed the UK’s plans to become an AI superpower with UK Prime Minister Keir Starmer, UK Secretary of State for Science, Innovation and Technology Liz Kendall, UK Secretary of State for Business and Trade Peter Kyle, and US Secretary of Commerce Howard Lutnick.",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/UK-Visit-MAT10296_isp.jpg",
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/e1-6000-exoplanets-artists-concept-web.jpg",
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://www.youtube.com/embed/3GhckKPLDd4?feature=oembed",
+          "url": "https://www.youtube.com/embed/vAna9jBZRd8?feature=oembed",
           "mime_type": "video/mp4"
         }
       ],
       "tags": [
-        "ai"
+        "space-tech"
       ]
     },
     {
-      "id": "https://noetic.org/blog/challenges-in-the-mind2mind-study/",
-      "url": "https://noetic.org/blog/challenges-in-the-mind2mind-study/",
-      "title": "Advancing the Science of Connection: Challenges in the Mind2Mind Study | IONS",
-      "content_text": "While recruitment for our telepathy study presents challenges, each step brings us closer to uncovering the mysteries of human connection.",
+      "id": "https://www.jpl.nasa.gov/news/nasa-analysis-shows-suns-activity-ramping-up/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-analysis-shows-suns-activity-ramping-up/",
+      "title": "NASA Analysis Shows Sun’s Activity Ramping Up",
+      "content_text": "It looked like the Sun was heading toward a historic lull in activity. That trend flipped in 2008, according to new research.",
       "attachments": [
         {
-          "url": "https://noetic.org/wp-content/uploads/2025/09/AdobeStock_336577742-scaled.jpeg",
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26681_new_-_Sun_image.jpg",
           "mime_type": "image/jpeg"
         }
       ],
       "tags": [
-        "human_effect"
+        "space-tech"
       ]
     },
     {
-      "id": "https://blogs.nvidia.com/blog/blackwell-ai-inference/",
-      "url": "https://blogs.nvidia.com/blog/blackwell-ai-inference/",
-      "title": "NVIDIA Blackwell: Born for Extreme-Scale AI Inference",
-      "content_text": "NVIDIA Blackwell is the core of a system architecture designed to power AI factories that produce intelligence through inference.",
+      "id": "https://www.jpl.nasa.gov/news/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/",
+      "title": "NASA’s GUARDIAN Tsunami Detection Tech Catches Wave in Real Time",
+      "content_text": "A massive earthquake and subsequent tsunami off Russia in late July tested an experimental detection system that had deployed a critical component just the day before.",
       "attachments": [
         {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/blackwell-more-than-a-chip-intro-desktop-scaled.jpg",
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-Honolulu-skyline-16.jpg",
           "mime_type": "image/jpeg"
         }
       ],
       "tags": [
-        "ai"
+        "space-tech"
       ]
     },
     {
-      "id": "https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/",
-      "url": "https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/",
-      "title": "Inside the world’s most powerful AI datacenter - The Official Microsoft Blog",
-      "content_text": "This week we have introduced a wave of purpose-built datacenters and infrastructure investments we are making around the world to support the global adoption of cutting-edge AI workloads and cloud services. Today in Wisconsin we introduced Fairwater, our newest US AI datacenter, the largest and most sophisticated AI factory we’ve built yet. In addition to...",
+      "id": "https://www.jpl.nasa.gov/news/new-us-european-sea-level-satellite-will-help-safeguard-ships-at-sea/",
+      "url": "https://www.jpl.nasa.gov/news/new-us-european-sea-level-satellite-will-help-safeguard-ships-at-sea/",
+      "title": "New U.S.-European Sea Level Satellite Will Help Safeguard Ships at Sea",
+      "content_text": "Sea surface height data from the Sentinel-6B satellite, led by NASA and ESA, will help with the development of marine weather forecasts, alerting ships to possible dangers.",
       "attachments": [
         {
-          "url": "https://blogs.microsoft.com/wp-content/uploads/2025/09/OMB-Datacenter-Hero-9_18_25-1024x683.jpg",
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/Ship_waves_Bering_sea_NOAA.jpg",
           "mime_type": "image/jpeg"
         }
       ],
       "tags": [
-        "satya-nadella"
+        "space-tech"
       ]
     },
     {
-      "id": "https://about.fb.com/news/2025/09/bringing-new-tools-to-help-businesses-boost-engagement-customer-support-and-discoverability/",
-      "url": "https://about.fb.com/news/2025/09/bringing-new-tools-to-help-businesses-boost-engagement-customer-support-and-discoverability/",
-      "title": "Bringing New tools To Help Businesses Boost Engagement, Customer Support and Discoverability",
-      "content_text": "We hosted our second business summit in India where we showcased tools and features that will empower businesses of all sizes in establishing their presence, building better and delightful customer experiences, and growing their businesses.",
+      "id": "https://www.jpl.nasa.gov/news/nasa-says-mars-rover-discovered-potential-biosignature-last-year/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-says-mars-rover-discovered-potential-biosignature-last-year/",
+      "title": "NASA Says Mars Rover Discovered Potential Biosignature Last Year",
+      "content_text": "After a year’s worth of scientific scrutiny, the ‘Sapphire Canyon’ rock sample remains the mission’s best candidate for containing signs of ancient microbial life processes.",
       "attachments": [
         {
-          "url": "https://about.fb.com/wp-content/uploads/2025/09/Arun-Srinivas_WABS-2025_1.jpg?w=1200",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "mark-zuckerberg"
-      ]
-    },
-    {
-      "id": "https://about.fb.com/news/2025/09/meta-ray-ban-display-ai-glasses-emg-wristband/",
-      "url": "https://about.fb.com/news/2025/09/meta-ray-ban-display-ai-glasses-emg-wristband/",
-      "title": "Meta Ray-Ban Display: AI Glasses With an EMG Wristband",
-      "content_text": "Today at Connect, Mark Zuckerberg unveiled the next evolution in AI glasses: Meta Ray-Ban Display and Meta Neural Band.",
-      "attachments": [
-        {
-          "url": "https://about.fb.com/wp-content/uploads/2025/09/Meta-Ray-Ban-Display_Social-Share.jpg?w=1200",
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-Cheyava_Falls_Leopard_Spots_PIA26368orig.jpg",
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://about.fb.com/wp-content/uploads/2025/09/Meta-Ray-Ban-Display_Header.mp4?_=1",
+          "url": "https://www.youtube.com/embed/ieJKWW8sp2A?feature=oembed",
           "mime_type": "video/mp4"
         }
       ],
       "tags": [
-        "mark-zuckerberg"
+        "space-tech"
       ]
     },
     {
-      "id": "https://about.fb.com/news/2025/09/oakley-meta-vanguard-performance-ai-glasses-sports/",
-      "url": "https://about.fb.com/news/2025/09/oakley-meta-vanguard-performance-ai-glasses-sports/",
-      "title": "Athletic Intelligence Is Here, Meet Oakley Meta Vanguard",
-      "content_text": "Today at Connect, Mark Zuckerberg introduced Oakley Meta Vanguard, a brand-new line of Performance AI glasses built for high-intensity sports.",
+      "id": "https://www.jpl.nasa.gov/news/nasa-to-share-details-of-new-perseverance-mars-rover--finding/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-to-share-details-of-new-perseverance-mars-rover--finding/",
+      "title": "NASA to Share Details of New Perseverance Mars Rover Finding",
+      "content_text": "A news conference this morning will focus on the analysis of a rock sampled by the agency’s Perseverance Mars rover last year, which is the subject of a forthcoming science paper.",
       "attachments": [
         {
-          "url": "https://about.fb.com/wp-content/uploads/2025/09/Oakley-Meta-Vanguard_Social-Share.jpg?w=1200",
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/Percy_hero.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasa-study-celestial-accident-sheds-light-on-jupiter-saturn-riddle/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-study-celestial-accident-sheds-light-on-jupiter-saturn-riddle/",
+      "title": "NASA Study: Celestial ‘Accident’ Sheds Light on Jupiter, Saturn Riddle",
+      "content_text": "An unusual cosmic object is helping scientists better understand the chemistry hidden deep in Jupiter and Saturn’s atmospheres — and potentially those of exoplanets.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-the-accident-silane-AC-web.jpg",
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://about.fb.com/wp-content/uploads/2025/09/Oakley-Meta-Vanguard_Header.mp4?_=1",
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/PIA24578.mp4",
           "mime_type": "video/mp4"
         }
       ],
       "tags": [
-        "mark-zuckerberg"
+        "space-tech"
       ]
     },
     {
-      "id": "https://about.fb.com/news/2025/09/ray-ban-meta-gen-2-better-battery-life-video-capture/",
-      "url": "https://about.fb.com/news/2025/09/ray-ban-meta-gen-2-better-battery-life-video-capture/",
-      "title": "Ray-Ban Meta (Gen 2) Now With Up to 2X the Battery Life and Better Video Capture",
-      "content_text": "We’re introducing Ray-Ban Meta (Gen 2), the same stylish AI glasses you love with, now with new features.",
+      "id": "https://www.jpl.nasa.gov/news/nasa-isro-satellite-lifts-off-to-track-earths-changing-surfaces/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-isro-satellite-lifts-off-to-track-earths-changing-surfaces/",
+      "title": "NASA-ISRO Satellite Lifts Off to Track Earth’s Changing Surfaces",
+      "content_text": "The first-of-its kind satellite will provide actionable information in a range of areas, including disaster response, infrastructure monitoring, and agricultural management.",
       "attachments": [
         {
-          "url": "https://about.fb.com/wp-content/uploads/2025/09/Ray-Ban-Meta_Social-Share.jpg?w=1200",
-          "mime_type": "image/jpeg"
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/nisar-launch-image.png",
+          "mime_type": "image/png"
         },
         {
-          "url": "https://about.fb.com/wp-content/uploads/2025/09/Ray-Ban-Meta_Header.mp4?_=1",
+          "url": "https://www.youtube.com/embed/zM_0aXxGN6g?feature=oembed",
           "mime_type": "video/mp4"
         }
       ],
       "tags": [
-        "mark-zuckerberg"
+        "space-tech"
       ]
     },
     {
-      "id": "https://www.edsurge.com/news/2025-09-18-teaching-through-the-latest-industrial-revolution",
-      "url": "https://www.edsurge.com/news/2025-09-18-teaching-through-the-latest-industrial-revolution",
-      "title": "Teaching Through the Latest Industrial Revolution  - EdSurge News",
-      "content_text": "The following story is part of our research series, Teaching Tech. To read more about this project, click here. Almost three years into the ChatGPT ...",
+      "id": "https://www.jpl.nasa.gov/news/",
+      "url": "https://www.jpl.nasa.gov/news/",
+      "title": "News",
+      "content_text": "NASA's Jet Propulsion Laboratory, the leading center for robotic exploration of the solar system.",
       "attachments": [
         {
-          "url": "https://edsurge.imgix.net/uploads/post/image/16444/shutterstock_786572845-1757966727.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "young-talons-edu-tech"
-      ]
-    },
-    {
-      "id": "https://noetic.org/blog/listen-to-edgar-on-his-birthday/",
-      "url": "https://noetic.org/blog/listen-to-edgar-on-his-birthday/",
-      "title": "Listen to Edgar on His Birthday | IONS",
-      "content_text": "A recording of Edgar was kindly shared with us. In honor of his birthday, we hope you listen and enjoy it as much as we do.",
-      "attachments": [
-        {
-          "url": "https://noetic.org/wp-content/uploads/2025/09/space-657383_1280-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference/",
-      "url": "https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference/",
-      "title": "An Introduction to Speculative Decoding for Reducing Latency in AI Inference | NVIDIA Technical Blog",
-      "content_text": "Generating text with large language models (LLMs) often involves running into a fundamental bottleneck. GPUs offer massive compute, yet much of that power sits idle because autoregressive generation…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/inference-speculative-decoding-llama-eagle.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/rca-videodisc",
-      "url": "https://spectrum.ieee.org/rca-videodisc",
-      "title": "How RCA's VideoDisc Failure Became a Semiconductor Success Story",
-      "content_text": "RCA spent millions developing its home video system. It flopped, but the underlying tech led to an advanced microscope that shaped modern semiconductors.",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/photo-of-a-prototype-electronic-device-consisting-of-a-rectangular-base-with-a-circuit-board-and-other-components-perched-atop.jpg?id=61607510&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/iphone-17-pro-vapor-chamber",
-      "url": "https://spectrum.ieee.org/iphone-17-pro-vapor-chamber",
-      "title": "Apple’s iPhone 17 Pro Debuts With Vapor Chamber Cooling",
-      "content_text": "Apple's iPhone 17 Pro uses vapor chambers to keep cool, joining other high performance smartphones. How does this cooling tech work?",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/a-front-and-back-view-of-an-apple-iphone-17-on-an-orange-background-with-a-misty-blue-pattern.jpg?id=61605042&width=1200&height=600&coordinates=0%2C222%2C0%2C223",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://aiforgood.itu.int/transforming-data-creating-value-sustaining-tomorrow-deepgreenxs-vision-for-the-future-of-finance/",
-      "url": "https://aiforgood.itu.int/transforming-data-creating-value-sustaining-tomorrow-deepgreenxs-vision-for-the-future-of-finance/",
-      "title": "Transforming data, creating value, sustaining tomorrow: DeepGreenX’s vision for the future of finance",
-      "content_text": "Connect with 51K enthusiasts from all over the world.",
-      "attachments": [
-        {
-          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/DeepGreenX-Transforming-data.-Creating-value.-Sustaining-tomorrow-1024x576.png",
+          "url": "https://www.jpl.nasa.gov/img/og.png",
           "mime_type": "image/png"
         }
       ],
       "tags": [
-        "human_effect"
+        "space-tech"
       ]
     },
     {
-      "id": "https://www.edsurge.com/news/2025-09-17-what-i-learned-after-building-a-tech-tool-to-support-student-well-being",
-      "url": "https://www.edsurge.com/news/2025-09-17-what-i-learned-after-building-a-tech-tool-to-support-student-well-being",
-      "title": "What I Learned After Building a Tech Tool to Support Student Well-Being - EdSurge News",
-      "content_text": "This story was published by a Voices of Change fellow. Learn more about the fellowship here.One morning, my computer science students opened their ...",
+      "id": "https://www.blueorigin.com/news/media-inquiries",
+      "url": "https://www.blueorigin.com/news/media-inquiries",
+      "title": "Submit a Media Inquiry | Blue Origin",
+      "content_text": "If you’re a member of the press, please contact us at media@blueorigin.com with your inquiry and deadline.",
       "attachments": [
         {
-          "url": "https://edsurge.imgix.net/uploads/post/image/16442/shutterstock_2567109937-1757950759.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
+          "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/BlueOrigin_EarthAtNight.jpg",
           "mime_type": "image/jpeg"
         }
       ],
       "tags": [
-        "young-talons-edu-tech"
+        "space-tech"
       ]
     },
     {
-      "id": "https://blogs.nvidia.com/blog/uk-partner-ecosystem-ai-makers/",
-      "url": "https://blogs.nvidia.com/blog/uk-partner-ecosystem-ai-makers/",
-      "title": "The AI Makers: NVIDIA Partners in UK Advance Physical and Agentic AI, Robotics, Life Sciences and More",
-      "content_text": "During NVIDIA founder and CEO Jensen Huang’s visit to the U.K. this week, NVIDIA highlighted how it is working with a broad ecosystem of AI makers across the nation on applications in physical and agentic AI, robotics and healthcare.",
+      "id": "https://www.blueorigin.com/news/gallery",
+      "url": "https://www.blueorigin.com/news/gallery",
+      "title": "Gallery | Blue Origin",
+      "content_text": "Images available for download. Please credit Blue Origin.",
       "attachments": [
         {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/uk-ecosystem-featured-1280x680-1.jpg",
+          "url": "https://d3ezn0y6hdgq62.cloudfront.net/assets/og_feather_logo.jpeg",
           "mime_type": "image/jpeg"
         }
       ],
       "tags": [
-        "ai"
+        "space-tech"
       ]
     },
     {
-      "id": "https://spectrum.ieee.org/smart-infrastructure-carolina-moreira-delci",
-      "url": "https://spectrum.ieee.org/smart-infrastructure-carolina-moreira-delci",
-      "title": "Carolina Delci: Leading the Charge in Sustainable Infrastructure",
-      "content_text": "Carolina Delci is reshaping civil engineering with AI and 4D modeling. How does her work make construction smarter and safer?",
+      "id": "https://www.blueorigin.com/news/new-shepard-ns-35-mission",
+      "url": "https://www.blueorigin.com/news/new-shepard-ns-35-mission",
+      "title": "Blue Origin Completes 35th New Shepard Mission | Blue Origin",
+      "content_text": "Blue Origin successfully completed its 35th New Shepard flight and 15th payload mission today from Launch Site One in West Texas.",
       "attachments": [
         {
-          "url": "https://spectrum.ieee.org/media-library/smiling-portrait-of-carolina-moreira-delci.jpg?id=61603271&width=1200&height=600&coordinates=0%2C675%2C0%2C676",
+          "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/NS35_CapsuleDescent.jpg",
           "mime_type": "image/jpeg"
         }
       ],
       "tags": [
-        "human_effect"
+        "space-tech"
       ]
     },
     {
-      "id": "https://spectrum.ieee.org/scale-of-light-pollution",
-      "url": "https://spectrum.ieee.org/scale-of-light-pollution",
-      "title": "Are We Losing Our Connection to the Night Sky?",
-      "content_text": "What's at stake as artificial light drowns out the stars, cutting us off from the universe's vastness and the wonder it inspires.",
+      "id": "https://www.blueorigin.com/news/blue-alchemist-hits-major-milestone-toward-permanent-sustainable-lunar-infrastructure",
+      "url": "https://www.blueorigin.com/news/blue-alchemist-hits-major-milestone-toward-permanent-sustainable-lunar-infrastructure",
+      "title": "Blue Alchemist Hits Major Milestone Toward Permanent and Sustainable Lunar Infrastructure | Blue Origin",
+      "content_text": "Blue Origin's pioneering in-space resource utilization system, Blue Alchemist, has successfully completed its Critical Design Review, marking a transformative milestone toward humanity's permanent expansion beyond Earth.",
       "attachments": [
         {
-          "url": "https://spectrum.ieee.org/media-library/image.png?id=61591088&width=1200&height=600&coordinates=0%2C500%2C0%2C500",
+          "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/starrybackground_weblarge.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.blueorigin.com/news/blue-origin-mars-telecommunications-orbiter",
+      "url": "https://www.blueorigin.com/news/blue-origin-mars-telecommunications-orbiter",
+      "title": "The Mission: Blue Origin’s Mars Telecommunications Orbiter | Blue Origin",
+      "content_text": "Built upon our existing and affordable Blue Ring platform, our Mars Telecommunications Orbiter is ready to support NASA’s Mars mission in 2028.",
+      "attachments": [
+        {
+          "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/MarsTelcomOrbiter_BlueOrigin_Rendering-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.blueorigin.com/news/new-shepard-ns-34-mission",
+      "url": "https://www.blueorigin.com/news/new-shepard-ns-34-mission",
+      "title": "Blue Origin’s New Shepard Completes 34th Mission to Space | Blue Origin",
+      "content_text": "Blue Origin successfully completed its 14th human spaceflight and the 34th flight for the New Shepard program.",
+      "attachments": [
+        {
+          "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/NS26Social_NewShepard-Sunrise_HomePageTakeover.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.blueorigin.com/news",
+      "url": "https://www.blueorigin.com/news",
+      "title": "News | Blue Origin",
+      "content_text": "The Latest from Blue",
+      "attachments": [
+        {
+          "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/latest-news_hero.png",
           "mime_type": "image/png"
         }
       ],
       "tags": [
-        "human_effect"
+        "space-tech"
       ]
     },
     {
-      "id": "https://aiforgood.itu.int/setting-the-scene-on-ai-governance/",
-      "url": "https://aiforgood.itu.int/setting-the-scene-on-ai-governance/",
-      "title": "Setting the Scene on AI Governance",
-      "content_text": "Connect with 51K enthusiasts from all over the world.",
+      "id": "https://www.relativityspace.com/press-release/2025/9/8/august-2025-company-update",
+      "url": "https://www.relativityspace.com/press-release/2025/9/8/august-2025-company-update",
+      "title": "August 2025 Company Update",
+      "content_text": "Throughout August, the Terran R program continued to make measurable progress toward first launch, delivering on critical program milestones.   Design  This month, the team completed 18 component-level Critical Design Reviews (CDRs), most of which focused on the second stage engine and fluids system",
       "attachments": [
         {
-          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/09/AdobeStock_1448759506-scaled.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://aiforgood.itu.int/join-yails-global-project-to-shape-the-future-of-ai-regulation/",
-      "url": "https://aiforgood.itu.int/join-yails-global-project-to-shape-the-future-of-ai-regulation/",
-      "title": "Join YAIL’s Global Project to Shape the Future of AI Regulation",
-      "content_text": "Connect with 51K enthusiasts from all over the world.",
-      "attachments": [
-        {
-          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/09/AdobeStock_1268796956-scaled.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://blogs.microsoft.com/blog/2025/09/16/microsoft-leads-shift-beyond-data-unification-to-organization-delivering-next-gen-ai-readiness-with-new-microsoft-fabric-capabilities/",
-      "url": "https://blogs.microsoft.com/blog/2025/09/16/microsoft-leads-shift-beyond-data-unification-to-organization-delivering-next-gen-ai-readiness-with-new-microsoft-fabric-capabilities/",
-      "title": "Microsoft leads shift beyond data unification to organization, delivering next-gen AI readiness with new Microsoft Fabric capabilities - The Official Microsoft Blog",
-      "content_text": "We’re in a hinge moment for AI. The experiments are over and the real work has begun. Centralizing data, once the finish line, is now the starting point. The definition of “AI readiness” is evolving as increasingly sophisticated agents demand rich, contextualized data grounded in business operations to deliver meaningful results. What sets leaders apart...",
-      "attachments": [
-        {
-          "url": "https://blogs.microsoft.com/wp-content/uploads/2025/09/FabCon-Hero-9_15_25-1024x682.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "satya-nadella"
-      ]
-    },
-    {
-      "id": "https://www.edsurge.com/news/2025-09-16-teachers-turn-toward-virtual-schools-for-better-work-life-balance",
-      "url": "https://www.edsurge.com/news/2025-09-16-teachers-turn-toward-virtual-schools-for-better-work-life-balance",
-      "title": "Teachers Turn Toward Virtual Schools for Better Work-Life Balance \n - EdSurge News",
-      "content_text": "More teachers are flocking to virtual schools, citing better work-life balance, improved safety and more time for creativity as driving forces.",
-      "attachments": [
-        {
-          "url": "https://edsurge.imgix.net/uploads/post/image/16441/shutterstock_1731619444-1757714156.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "young-talons-edu-tech"
-      ]
-    },
-    {
-      "id": "https://noetic.org/blog/a-frequency-of-faith/",
-      "url": "https://noetic.org/blog/a-frequency-of-faith/",
-      "title": "A Frequency of Faith: What I Learned from a Scientist Who Measures Vibes | IONS",
-      "content_text": "What are we really talking about when we say “vibes”? Jeremy Koenig unveils the power of vibes with Garret Yount, PhD.",
-      "attachments": [
-        {
-          "url": "https://noetic.org/wp-content/uploads/2025/08/iStock-2184225147.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/build-a-report-generator-ai-agent-with-nvidia-nemotron-on-openrouter/",
-      "url": "https://developer.nvidia.com/blog/build-a-report-generator-ai-agent-with-nvidia-nemotron-on-openrouter/",
-      "title": "Build a Report Generator AI Agent with NVIDIA Nemotron on OpenRouter | NVIDIA Technical Blog",
-      "content_text": "Unlike traditional systems that follow predefined paths, AI agents are autonomous systems that use large language models (LLMs) to make decisions, adapt to changing requirements…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/llm-promo-chat-labs-blog2-blog-3419377-1920x1080-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/scaling-carbon-capture-technology",
-      "url": "https://spectrum.ieee.org/scaling-carbon-capture-technology",
-      "title": "Scaling Carbon Capture: Can We Meet the Challenge?",
-      "content_text": "What would it take to scale carbon removal technologies to remove billions of tonnes of carbon dioxide a year? These charts explain.",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/image.png?id=61597747&width=1200&height=600&coordinates=0%2C201%2C0%2C202",
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
           "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/kkCaq3kv4CY",
+          "mime_type": "video/mp4"
         }
       ],
       "tags": [
-        "human_effect"
+        "space-tech"
       ]
     },
     {
-      "id": "https://montrealethics.ai/ai-policy-corner-restriction-vs-regulation-comparing-state-approaches-to-ai-mental-health-legislation/",
-      "url": "https://montrealethics.ai/ai-policy-corner-restriction-vs-regulation-comparing-state-approaches-to-ai-mental-health-legislation/",
-      "title": "AI Policy Corner: Restriction vs. Regulation: Comparing State Approaches to AI Mental Health Legislation | Montreal AI Ethics Institute",
-      "content_text": "✍️ By Ruth Sugiarto. Ruth is an Undergraduate Student in Computer Engineering and a Research Assistant at the Governance and Responsible AI Lab (GRAIL), Purdue University. 📌 Editor’s Note: This…",
+      "id": "https://www.relativityspace.com/press-release/2025/8/7/july-2025-company-update",
+      "url": "https://www.relativityspace.com/press-release/2025/8/7/july-2025-company-update",
+      "title": "July 2025 Company Update",
+      "content_text": "As development of Terran R continues to accelerate, July marked another month of meaningful progress across design, manufacturing, testing, and launch operations.   Design  In July, the team successfully completed 28 additional component-level Critical Design Reviews (CDRs). Notably, 351 thrust stru",
       "attachments": [
         {
-          "url": "https://montrealethics.ai/wp-content/uploads/2025/09/rogelio-gonzalez-q7TwGiDElmU-unsplash-scaled.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://montrealethics.ai/beyond-dependency-the-hidden-risk-of-social-comparison-in-chatbot-companionship/",
-      "url": "https://montrealethics.ai/beyond-dependency-the-hidden-risk-of-social-comparison-in-chatbot-companionship/",
-      "title": "Beyond Dependency: The Hidden Risk of Social Comparison in Chatbot Companionship | Montreal AI Ethics Institute",
-      "content_text": "🔬 By Hamed Maleki. Hamed is a communication researcher currently completing a Master’s degree at the University of Wrocław in Poland. His work focuses on human–AI interaction…",
-      "attachments": [
-        {
-          "url": "https://montrealethics.ai/wp-content/uploads/2025/09/Dependency-and-Social-Comparison.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://montrealethics.ai/bridging-the-gap-addressing-the-legislative-gap-surrounding-non-consensual-deepfakes/",
-      "url": "https://montrealethics.ai/bridging-the-gap-addressing-the-legislative-gap-surrounding-non-consensual-deepfakes/",
-      "title": "Bridging the Gap: Addressing the Legislative Gap Surrounding Non-Consensual Deepfakes | Montreal AI Ethics Institute",
-      "content_text": "🔬 Original article by Alessandra Destison from Encode Canada. 📌 Editor’s Note: This is part of our Recess series, featuring university students from across Canada exploring ethical challenges in AI.",
-      "attachments": [
-        {
-          "url": "https://montrealethics.ai/wp-content/uploads/2025/09/tom-kotov-jIQqNvDihBA-unsplash-scaled.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.edsurge.com/news/2025-09-15-how-much-freedom-do-teachers-have-in-the-classroom-in-2025-it-s-complicated",
-      "url": "https://www.edsurge.com/news/2025-09-15-how-much-freedom-do-teachers-have-in-the-classroom-in-2025-it-s-complicated",
-      "title": "How Much Freedom Do Teachers Have in the Classroom? In 2025, It’s Complicated. - EdSurge News",
-      "content_text": "PEN America this year identified more than a dozen states that have considered laws prohibiting teachers from displaying flags or signs related to ...",
-      "attachments": [
-        {
-          "url": "https://edsurge.imgix.net/uploads/post/image/16440/shutterstock_1336931381-1757702997.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "young-talons-edu-tech"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/kessler-syndrome-plasma-thruster-deorbit",
-      "url": "https://spectrum.ieee.org/kessler-syndrome-plasma-thruster-deorbit",
-      "title": "Plasma Thrusters Could Be Key to Tackling Space Debris",
-      "content_text": "A novel plasma thruster design could be the answer to Kessler Syndrome. Learn how it aims to clear space debris without contact.",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=61592157&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/video-friday-soft-robot-companion",
-      "url": "https://spectrum.ieee.org/video-friday-soft-robot-companion",
-      "title": "The Newest Humanoid Robot Is a Warm, Soft Companion",
-      "content_text": "Meet the Care-bot GR-3: A soft-touch companion bringing \"warm tech companionship\" to life.",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/image.png?id=61594149&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
           "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/yoRViVhVz4s",
+          "mime_type": "video/mp4"
         }
       ],
       "tags": [
-        "human_effect"
+        "space-tech"
       ]
     },
     {
-      "id": "https://aiforgood.itu.int/how-falcon-llm-is-reshaping-accessibility-through-model-efficiency/",
-      "url": "https://aiforgood.itu.int/how-falcon-llm-is-reshaping-accessibility-through-model-efficiency/",
-      "title": "How Falcon LLM is reshaping accessibility through model efficiency",
-      "content_text": "Connect with 51K enthusiasts from all over the world.",
+      "id": "https://www.relativityspace.com/press-release/2025/7/8/june-2025-company-update",
+      "url": "https://www.relativityspace.com/press-release/2025/7/8/june-2025-company-update",
+      "title": "June 2025 Company Update",
+      "content_text": "As the Terran R program continues to advance, we’re highlighting some of the latest milestones across design, build, test, and launch.   Design&nbsp;  Throughout June, the team completed 12 additional component-level critical design reviews (CDRs), covering a range of hardware from trays and flu",
       "attachments": [
         {
-          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/TII_How-Falcon-LLM-is-reshaping-accessibility--1024x576.png",
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
           "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/F14uXmzVp08",
+          "mime_type": "video/mp4"
         }
       ],
       "tags": [
-        "human_effect"
+        "space-tech"
       ]
     },
     {
-      "id": "https://www.edsurge.com/news/2025-09-12-how-schools-are-helping-students-feel-safe-enough-to-attend-class-amid-immigration-raids",
-      "url": "https://www.edsurge.com/news/2025-09-12-how-schools-are-helping-students-feel-safe-enough-to-attend-class-amid-immigration-raids",
-      "title": "How Schools Are Helping Students Feel Safe Enough to Attend Amid Immigration Raids - EdSurge News",
-      "content_text": "“What they see are their classmates, their family members, their neighbors often being apprehended in violent and confusing ways, and this for children ...",
+      "id": "https://www.relativityspace.com/press-release/2025/6/6/may-2025-company-update",
+      "url": "https://www.relativityspace.com/press-release/2025/6/6/may-2025-company-update",
+      "title": "May 2025 Company Update",
+      "content_text": "As we close out another month of Terran R development, we’re sharing a look at recent progress across design, build, test, and launch.&nbsp;&nbsp;   Design &nbsp; In May, we completed an additional 17 component-level critical design reviews (CDR). At this stage of the program, many of th",
       "attachments": [
         {
-          "url": "https://edsurge.imgix.net/uploads/post/image/16439/Shutterstock_655869010-1757633166.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "young-talons-edu-tech"
-      ]
-    },
-    {
-      "id": "https://blogs.microsoft.com/blog/2025/09/11/a-joint-statement-from-microsoft-and-openai/",
-      "url": "https://blogs.microsoft.com/blog/2025/09/11/a-joint-statement-from-microsoft-and-openai/",
-      "title": "A joint statement from Microsoft and OpenAI - The Official Microsoft Blog",
-      "content_text": "Microsoft and OpenAI have signed a non-binding memorandum of understanding (MOU) for the next phase of our partnership. We are actively working to finalize contractual terms in a definitive agreement. Together, we remain focused on delivering the best AI tools for everyone, grounded in our shared commitment to safety.",
-      "attachments": [
-        {
-          "url": "https://blogs.microsoft.com/wp-content/uploads/2023/01/PNG-openai-microsoft_960x540.png",
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
           "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/2jlhxFZkw9E",
+          "mime_type": "video/mp4"
         }
       ],
       "tags": [
-        "satya-nadella"
+        "space-tech"
       ]
     },
     {
-      "id": "https://spectrum.ieee.org/faster-career-growth",
-      "url": "https://spectrum.ieee.org/faster-career-growth",
-      "title": "Are You Ready to Transition from Engineer to Manager?",
-      "content_text": "Curious about the path from IC to manager? Discover the nuances of tech career growth.",
+      "id": "https://www.relativityspace.com/news",
+      "url": "https://www.relativityspace.com/news",
+      "title": "Updates",
+      "content_text": "Learn about Terran R’s progress towards reusability.",
       "attachments": [
         {
-          "url": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.jpg?id=59104110&width=1200&height=600&coordinates=0%2C310%2C0%2C310",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/ieee-day-2025",
-      "url": "https://spectrum.ieee.org/ieee-day-2025",
-      "title": "Celebrate IEEE Day With Events and Contests Worldwide",
-      "content_text": "Celebrate IEEE Day 2025 with thousands of events worldwide, from hackathons to cultural showcases. Be part of the movement.",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/a-large-group-of-college-students-posing-outside-a-university-building-several-people-are-holding-up-banners-representing-ieee.jpg?id=61588570&width=1200&height=600&coordinates=0%2C118%2C0%2C118",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://about.fb.com/news/2025/09/five-years-on-reels-reigns-as-indias-top-short-form-video-platform/",
-      "url": "https://about.fb.com/news/2025/09/five-years-on-reels-reigns-as-indias-top-short-form-video-platform/",
-      "title": "Five Years On, Reels Reigns as India's Top Short-Form Video Platform",
-      "content_text": "Findings from a new Meta-commissioned IPSOS study show that Reels across our platforms is India’s top driver of daily video consumption ahead of other surveyed platforms.",
-      "attachments": [
-        {
-          "url": "https://about.fb.com/wp-content/uploads/2025/09/547128363_811175561354766_3507705812489596251_n.png?w=1200",
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
           "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/kkCaq3kv4CY",
+          "mime_type": "video/mp4"
         }
       ],
       "tags": [
-        "mark-zuckerberg"
+        "space-tech"
       ]
     },
     {
-      "id": "https://noetic.org/blog/our-bodies-know/",
-      "url": "https://noetic.org/blog/our-bodies-know/",
-      "title": "Our Bodies Know Before We Do | IONS",
-      "content_text": "Dan Brown's latest thriller, The Secret of Secrets, describes an experiment on presentiment.",
-      "attachments": [
-        {
-          "url": "https://noetic.org/wp-content/uploads/2025/09/Dan-Brown-Book-Only.png",
-          "mime_type": "image/png"
-        }
-      ],
+      "id": "https://www.sda.mil/home/news/",
+      "url": "https://www.sda.mil/home/news/",
+      "title": "NEWS – Space Development Agency",
+      "content_text": "NEWS – Space Development Agency",
       "tags": [
-        "human_effect"
+        "space-force"
       ]
     },
     {
-      "id": "https://www.broadinstitute.org/news/whyiscience-qa-structural-biologist-adopts-new-role-catalyzing-collaborations",
-      "url": "https://www.broadinstitute.org/news/whyiscience-qa-structural-biologist-adopts-new-role-catalyzing-collaborations",
-      "title": "#WhyIScience Q&A: A structural biologist adopts a new role catalyzing collaborations",
-      "content_text": "A former drug discovery scientist, Gail Guo now helps advance research into novel cancer drugs as part of Broad’s alliance with Bayer.",
-      "attachments": [
-        {
-          "url": "https://www.broadinstitute.org/files/longstory/WhyIScience_Broad%20Blue_GailGuo_Main.png",
-          "mime_type": "image/png"
-        }
-      ],
+      "id": "https://www.sda.mil/home/news/news-releases/",
+      "url": "https://www.sda.mil/home/news/news-releases/",
+      "title": "News Releases – Space Development Agency",
+      "content_text": "News Releases – Space Development Agency",
       "tags": [
-        "biotech"
+        "space-force"
       ]
     },
     {
-      "id": "https://aiforgood.itu.int/governing-advanced-ai-in-practice/",
-      "url": "https://aiforgood.itu.int/governing-advanced-ai-in-practice/",
-      "title": "Governing advanced AI in practice",
-      "content_text": "Connect with 51K enthusiasts from all over the world.",
-      "attachments": [
-        {
-          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/From-principles-to-practice-Governing-advanced-AI-in-action.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
+      "id": "https://www.sda.mil/home/news/page/2/",
+      "url": "https://www.sda.mil/home/news/page/2/",
+      "title": "NEWS – Page 2 – Space Development Agency",
+      "content_text": "NEWS – Page 2 – Space Development Agency",
       "tags": [
-        "human_effect"
+        "space-force"
       ]
     },
     {
-      "id": "https://noetic.org/blog/what-is-channeling/",
-      "url": "https://noetic.org/blog/what-is-channeling/",
-      "title": "What Is Channeling? – IONS",
-      "content_text": "What is channeling? In her new book, IONS Director of Research Helané Wahbeh shares what she's learned by investigating 6 research questions.",
-      "attachments": [
-        {
-          "url": "https://noetic.org/wp-content/uploads/2021/04/IONS_DSC_3482-800x800-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
+      "id": "https://www.sda.mil/home/news/page/3/",
+      "url": "https://www.sda.mil/home/news/page/3/",
+      "title": "NEWS – Page 3 – Space Development Agency",
+      "content_text": "NEWS – Page 3 – Space Development Agency",
       "tags": [
-        "human_effect"
+        "space-force"
       ]
     },
     {
-      "id": "https://developer.nvidia.com/blog/nvidia-blackwell-ultra-sets-new-inference-records-in-mlperf-debut/",
-      "url": "https://developer.nvidia.com/blog/nvidia-blackwell-ultra-sets-new-inference-records-in-mlperf-debut/",
-      "title": "NVIDIA Blackwell Ultra Sets New Inference Records in MLPerf Debut | NVIDIA Technical Blog",
-      "content_text": "As large language models (LLMs) grow larger, they get smarter, with open models from leading developers now featuring hundreds of billions of parameters. At the same time, today’s leading models are…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/grace-tech-blog-gb300-nvl72-1920x1080-r1.png",
-          "mime_type": "image/png"
-        }
-      ],
+      "id": "https://www.sda.mil/home/news/page/5/",
+      "url": "https://www.sda.mil/home/news/page/5/",
+      "title": "NEWS – Page 5 – Space Development Agency",
+      "content_text": "NEWS – Page 5 – Space Development Agency",
       "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/nvidia-rubin-cpx-accelerates-inference-performance-and-efficiency-for-1m-token-context-workloads/",
-      "url": "https://developer.nvidia.com/blog/nvidia-rubin-cpx-accelerates-inference-performance-and-efficiency-for-1m-token-context-workloads/",
-      "title": "NVIDIA Rubin CPX Accelerates Inference Performance and Efficiency for 1M+ Token Context Workloads | NVIDIA Technical Blog",
-      "content_text": "Inference has emerged as the new frontier of complexity in AI. Modern models are evolving into agentic systems capable of multi-step reasoning, persistent memory, and long-horizon context—enabling…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/Rubin-CPX.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://www.broadinstitute.org/news/remembering-david-baltimore",
-      "url": "https://www.broadinstitute.org/news/remembering-david-baltimore",
-      "title": "Remembering David Baltimore",
-      "content_text": "David Baltimore served as Chair of the Broad Institute Board of Scientific Counselors, was a member of our Board of Directors, and was essential in the formation of the Broad Institute itself. We asked our Founding Director, Eric S. Lander, to share some reflections with the Broad community.",
-      "attachments": [
-        {
-          "url": "https://www.broadinstitute.org/files/longstory/News_David-Baltimore_ext-main_090825_x2-res.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "biotech"
-      ]
-    },
-    {
-      "id": "https://aiforgood.itu.int/making-ai-ethical-inclusive-and-effective-across-the-un/",
-      "url": "https://aiforgood.itu.int/making-ai-ethical-inclusive-and-effective-across-the-un/",
-      "title": "Making AI ethical, inclusive, and effective across the UN",
-      "content_text": "Connect with 51K enthusiasts from all over the world.",
-      "attachments": [
-        {
-          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/Scaling-AI-responsibly-across-the-UN-system-1024x576.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://about.fb.com/news/2025/09/attach-text-threads-posts-share-longer-perspectives/",
-      "url": "https://about.fb.com/news/2025/09/attach-text-threads-posts-share-longer-perspectives/",
-      "title": "Attach Text to Your Threads Posts and Share Longer Perspectives",
-      "content_text": "We're rolling out a way for you to attach up to 10,000 characters of text to a Threads post.",
-      "attachments": [
-        {
-          "url": "https://about.fb.com/wp-content/uploads/2025/09/Threads-Text-Attachments-Header-1.jpg?w=1200",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "mark-zuckerberg"
-      ]
-    },
-    {
-      "id": "https://www.broadinstitute.org/news/mass-general-brigham-launches-genetic-test-predict-risk-across-eight-cardiovascular-conditions",
-      "url": "https://www.broadinstitute.org/news/mass-general-brigham-launches-genetic-test-predict-risk-across-eight-cardiovascular-conditions",
-      "title": "Mass General Brigham launches genetic test to predict risk across eight cardiovascular conditions",
-      "content_text": "Developed in collaboration with Broad Clinical Labs and Mass General Brigham Laboratory for Molecular Medicine, the test provides a comprehensive view of a patient’s inherited heart disease risk. div.hero-section__author { display:none;}",
-      "attachments": [
-        {
-          "url": "https://www.broadinstitute.org/files/longstory/News_BCL-logo-resize_ext-main-x2-size_090325.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "biotech"
-      ]
-    },
-    {
-      "id": "https://noetic.org/blog/non-physical-beings-in-reiki/",
-      "url": "https://noetic.org/blog/non-physical-beings-in-reiki/",
-      "title": "Beyond the Veil: Encounters with Non-Physical Beings in Reiki | IONS",
-      "content_text": "This study revealed unexpected reports of spirits, angels, and other non-physical beings during energy healing sessions.",
-      "attachments": [
-        {
-          "url": "https://noetic.org/wp-content/uploads/2025/09/iStock-1125632816.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.broadinstitute.org/news/how-massive-datasets-generated-broad-are-powering-latest-ai-models-biology",
-      "url": "https://www.broadinstitute.org/news/how-massive-datasets-generated-broad-are-powering-latest-ai-models-biology",
-      "title": "How massive datasets generated at Broad are powering the latest AI models in biology",
-      "content_text": "Broad scientists describe how data resources they helped build over more than a decade now form the foundation for cutting-edge AI and genome biology discoveries.",
-      "attachments": [
-        {
-          "url": "https://www.broadinstitute.org/files/longstory/Kristin%20Ardlie%20Brad%20Bernstein%20AlphaGenome%20ENCODE%20GTEx.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "biotech"
-      ]
-    },
-    {
-      "id": "https://aiforgood.itu.int/how-microsoft-is-driving-global-change-through-ai-skills/",
-      "url": "https://aiforgood.itu.int/how-microsoft-is-driving-global-change-through-ai-skills/",
-      "title": "How Microsoft is driving global change through AI skills",
-      "content_text": "Connect with 51K enthusiasts from all over the world.",
-      "attachments": [
-        {
-          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/How-Microsoft-is-driving-global-change-through-AI-skills-1024x576.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://montrealethics.ai/beyond-consultation-building-inclusive-ai-governance-for-canadas-democratic-future/",
-      "url": "https://montrealethics.ai/beyond-consultation-building-inclusive-ai-governance-for-canadas-democratic-future/",
-      "title": "Beyond Consultation: Building Inclusive AI Governance for Canada’s Democratic Future | Montreal AI Ethics Institute",
-      "content_text": "✍️ By Renjie Butalid. Renjie is Co-founder and Director of the Montreal AI Ethics Institute (MAIEI). At the Victoria Forum 2025, “Towards a Better Future: Shifting the Trajectory,” lawmakers…",
-      "attachments": [
-        {
-          "url": "https://montrealethics.ai/wp-content/uploads/2025/09/Victoria-Forum-2025_Closing-Session.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://montrealethics.ai/ai-policy-corner-u-s-executive-order-on-advancing-ai-education-for-american-youth/",
-      "url": "https://montrealethics.ai/ai-policy-corner-u-s-executive-order-on-advancing-ai-education-for-american-youth/",
-      "title": "AI Policy Corner: U.S. Executive Order on Advancing AI Education for American Youth | Montreal AI Ethics Institute",
-      "content_text": "✍️ By Tasneem Ahmed. Tasneem is an Undergraduate Student in Political Science and a Research Assistant at the Governance and Responsible AI Lab (GRAIL), Purdue University. 📌 Editor’s Note: This…",
-      "attachments": [
-        {
-          "url": "https://montrealethics.ai/wp-content/uploads/2025/09/EO-AI-Education-for-American-Youth_.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/how-small-language-models-are-key-to-scalable-agentic-ai/",
-      "url": "https://developer.nvidia.com/blog/how-small-language-models-are-key-to-scalable-agentic-ai/",
-      "title": "How Small Language Models Are Key to Scalable Agentic AI | NVIDIA Technical Blog",
-      "content_text": "The rapid rise of agentic AI has reshaped how enterprises, developers, and entire industries think about automation and digital productivity. From software development workflows to enterprise process…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/08/Why-SLMs.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai"
+        "space-force"
       ]
     }
   ]
