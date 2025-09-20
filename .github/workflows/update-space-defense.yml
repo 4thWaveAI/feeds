@@ -41,17 +41,22 @@ jobs:
       - name: Backup original feeds.yaml
         run: cp feeds.yaml feeds.yaml.bak
 
-      - name: Filter feeds.yaml to only space-tech & space-force
+            - name: Filter feeds.yaml to only space-tech & space-force
         env:
-          AREAS: "space-tech,space-force"
+          AREAS: space-tech,space-force   # edit list as needed
         run: |
           echo "Keeping areas: $AREAS"
-          # Build a filtered YAML with only the requested areas under .areas
-          yq -o=yaml '
-            . as $root
-            | {"site_base": .site_base, "home_url": .home_url, "max_items_per_area": .max_items_per_area}
-            + {"areas": ( .areas | with_entries(select(.key as $k | env( "AREAS") | split(",") | index($k))) ) }
-          ' feeds.yaml > feeds.filtered.yaml
+          yq -i '
+            .areas |= (
+              to_entries
+              | map(select((env(AREAS) | split(",")) as $keep
+                           | ($keep | index(.key)) != null))
+              | from_entries
+            )
+          ' feeds.yaml
+          echo "Filtered areas present:"
+          yq '.areas | keys' feeds.yaml
+
 
           # Safety checks
           echo "Filtered areas present:"
