@@ -1,0 +1,181 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "4thWave AI — Jensen Huang (Aggregated)",
+  "home_page_url": "https://www.4thwaveai.com",
+  "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/jensen-huang.json",
+  "items": [
+    {
+      "id": "https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/",
+      "url": "https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/",
+      "title": "The UK’s ‘Goldilocks Moment for AI’: NVIDIA, UK and US Leaders Highlight AI Infrastructure Investments",
+      "content_text": "NVIDIA founder and CEO Jensen Huang discussed the UK’s plans to become an AI superpower with UK Prime Minister Keir Starmer, UK Secretary of State for Science, Innovation and Technology Liz Kendall, UK Secretary of State for Business and Trade Peter Kyle, and US Secretary of Commerce Howard Lutnick.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/UK-Visit-MAT10296_isp.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/3GhckKPLDd4?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/blackwell-ai-inference/",
+      "url": "https://blogs.nvidia.com/blog/blackwell-ai-inference/",
+      "title": "NVIDIA Blackwell: Born for Extreme-Scale AI Inference",
+      "content_text": "NVIDIA Blackwell is the core of a system architecture designed to power AI factories that produce intelligence through inference.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/blackwell-more-than-a-chip-intro-desktop-scaled.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/uk-partner-ecosystem-ai-makers/",
+      "url": "https://blogs.nvidia.com/blog/uk-partner-ecosystem-ai-makers/",
+      "title": "The AI Makers: NVIDIA Partners in UK Advance Physical and Agentic AI, Robotics, Life Sciences and More",
+      "content_text": "During NVIDIA founder and CEO Jensen Huang’s visit to the U.K. this week, NVIDIA highlighted how it is working with a broad ecosystem of AI makers across the nation on applications in physical and agentic AI, robotics and healthcare.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/uk-ecosystem-featured-1280x680-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem",
+      "title": "NVIDIA Announces £2 Billion Investment in the United Kingdom AI Startup Ecosystem",
+      "content_text": "NVIDIA today announced an investment of £2 billion in the U.K. market to catalyze the nation’s AI startup ecosystem and scale the next generation of globally transformative AI businesses.",
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/20258/68cc4a5b3d6332160038b7b1_nvidia-investment-uk-ai-startup-ecosystem/nvidia-investment-uk-ai-startup-ecosystem_059a49be-6e31-4eca-bfc9-ce7dcf993421-prv.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products",
+      "title": "NVIDIA and Intel to Develop AI Infrastructure and Personal Computing Products",
+      "content_text": "NVIDIA (NASDAQ: NVDA) and Intel Corporation (NASDAQ: INTC) today announced a collaboration to jointly develop multiple generations of custom data center and PC products that accelerate applications and workloads across hyperscale, enterprise and consumer markets.",
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/202509/68cbe6953d63324b19567968_0ddda295-ba99-4ec9-b4c1-d5f3e2a83e7/0ddda295-ba99-4ec9-b4c1-d5f3e2a83e7_c5f3709f-5bf8-4d9a-8097-a20149241fe2-prv.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://nvidianews.nvidia.com/news/nvidia-and-united-kingdom-build-nations-ai-infrastructure-and-ecosystem-to-fuel-innovation-economic-growth-and-jobs",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-united-kingdom-build-nations-ai-infrastructure-and-ecosystem-to-fuel-innovation-economic-growth-and-jobs",
+      "title": "NVIDIA and United Kingdom Build Nation’s AI Infrastructure and Ecosystem to Fuel Innovation, Economic Growth and Jobs",
+      "content_text": "NVIDIA today announced that it is investing in accelerating the AI industrial revolution in the United Kingdom, working with partners including CoreWeave, Microsoft and Nscale to build the nation’s next generation of AI infrastructure.",
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/20258/68c9c4723d6332b53638ac60_uk-ai-infrastructure/uk-ai-infrastructure_47de3ab3-2006-4b02-8300-a57b40c8e7a4-prv.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "url": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "title": "Generative AI Archives",
+      "content_text": "AI is no longer solely a back-office tool. It’s a strategic partner that can augment decision-making across every… Read Article",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/enterprise/",
+      "url": "https://blogs.nvidia.com/blog/category/enterprise/",
+      "title": "Data Center Archives",
+      "content_text": "AI is no longer solely a back-office tool. It’s a strategic partner that can augment decision-making across every… Read Article",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/auto/",
+      "url": "https://blogs.nvidia.com/blog/category/auto/",
+      "title": "Driving Archives",
+      "content_text": "At this week’s IAA Mobility conference in Munich, NVIDIA Vice President of Automotive Ali Kani outlined how cloud-to-car… Read Article",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/08/automotive-comms-drive-agx-thor-1280x680-1.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/gaming/",
+      "url": "https://blogs.nvidia.com/blog/category/gaming/",
+      "title": "Gaming Archives",
+      "content_text": "GeForce NOW is packing a monstrous punch this week. Dying Light: The Beast, the latest adrenaline‑fueled chapter in… Read Article",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/pro-graphics/",
+      "url": "https://blogs.nvidia.com/blog/category/pro-graphics/",
+      "title": "Pro Graphics Archives",
+      "content_text": "Editor’s note: This blog is a part of Into the Omniverse, a series focused on how developers, 3D… Read Article",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    }
+  ]
+}
