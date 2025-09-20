@@ -1,0 +1,164 @@
+name: Validate feeds.yaml
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - "feeds.yaml"
+      - ".github/workflows/validate-feeds.yml"
+  pull_request:
+    branches: [ main ]
+    paths:
+      - "feeds.yaml"
+      - ".github/workflows/validate-feeds.yml"
+
+jobs:
+  yamllint:
+    name: YAML Lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install yamllint
+        run: |
+          sudo pipx install yamllint
+
+      - name: Add minimal yamllint config
+        run: |
+          cat > .yamllint.yml <<'YML'
+          extends: default
+          rules:
+            line-length: disable
+            truthy:
+              allowed-values: ['true', 'false']
+          YML
+
+      - name: Run yamllint
+        run: |
+          yamllint -c .yamllint.yml feeds.yaml
+
+  schema:
+    name: Schema Validation
+    runs-on: ubuntu-latest
+    needs: yamllint
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyyaml
+
+      - name: Validate feeds.yaml structure
+        run: |
+          python - <<'PY'
+          import sys, re
+          from urllib.parse import urlparse
+          import yaml
+
+          def is_url(s):
+              try:
+                  u = urlparse(s)
+                  return u.scheme in ("http","https") and bool(u.netloc)
+              except Exception:
+                  return False
+
+          try:
+              with open("feeds.yaml","r",encoding="utf-8") as f:
+                  doc = yaml.safe_load(f)
+          except Exception as e:
+              print(f"❌ Failed to parse feeds.yaml: {e}")
+              sys.exit(1)
+
+          errors = []
+
+          # --- Top-level checks ---
+          for key in ("site_base","home_url","max_items_per_area","areas"):
+              if key not in doc:
+                  errors.append(f"Missing top-level key: {key}")
+
+          if "site_base" in doc and not is_url(doc["site_base"]):
+              errors.append("site_base must be a valid http(s) URL")
+
+          if "home_url" in doc and not is_url(doc["home_url"]):
+              errors.append("home_url must be a valid http(s) URL")
+
+          if "max_items_per_area" in doc:
+              mia = doc["max_items_per_area"]
+              if not isinstance(mia,int) or not (1 <= mia <= 500):
+                  errors.append("max_items_per_area must be an int between 1 and 500")
+
+          areas = doc.get("areas")
+          if not isinstance(areas, dict):
+              errors.append("areas must be a mapping of area_name -> list of sources")
+          else:
+              for area_name, items in areas.items():
+                  if not isinstance(items, list):
+                      errors.append(f"[{area_name}] must be a list of source objects")
+                      continue
+                  for i, it in enumerate(items):
+                      ctx = f"[{area_name}][{i}]"
+                      if not isinstance(it, dict):
+                          errors.append(f"{ctx} must be a mapping/object")
+                          continue
+
+                      # Required fields
+                      name = it.get("name")
+                      index = it.get("index")
+                      base  = it.get("base")
+                      prefix = it.get("prefix")
+                      mode = it.get("mode")  # optional (e.g., 'rss')
+                      limit = it.get("limit")
+
+                      if not name or not isinstance(name,str):
+                          errors.append(f"{ctx} missing or invalid 'name'")
+
+                      if not index or not isinstance(index,str) or not is_url(index):
+                          errors.append(f"{ctx} 'index' must be a valid URL")
+
+                      # For non-RSS-mode entries, base is typically required
+                      if mode != "rss":
+                          if not base or not isinstance(base,str) or not is_url(base):
+                              errors.append(f"{ctx} 'base' must be a valid URL (unless mode: rss)")
+                          if not prefix or not isinstance(prefix,str):
+                              errors.append(f"{ctx} 'prefix' must be a string (unless mode: rss)")
+                          else:
+                              if not (prefix.startswith("/") or prefix.startswith("http")):
+                                  errors.append(f"{ctx} 'prefix' should start with '/' or 'http'")
+
+                      # limit validation
+                      if limit is None or not isinstance(limit,int) or not (1 <= limit <= 200):
+                          errors.append(f"{ctx} 'limit' must be an integer between 1 and 200")
+
+                      # allow/deny patterns validation (if present)
+                      for pat_key in ("allow_patterns","deny_patterns"):
+                          if pat_key in it:
+                              pats = it[pat_key]
+                              if not isinstance(pats, list):
+                                  errors.append(f"{ctx} '{pat_key}' must be a list of regex strings")
+                              else:
+                                  for j, p in enumerate(pats):
+                                      if not isinstance(p, str):
+                                          errors.append(f"{ctx} '{pat_key}'[{j}] must be a string")
+                                          continue
+                                      try:
+                                          re.compile(p)
+                                      except re.error as e:
+                                          errors.append(f"{ctx} '{pat_key}'[{j}] invalid regex: {e}")
+
+          if errors:
+              print("❌ feeds.yaml validation failed:\n")
+              for e in errors:
+                  print(" - " + e)
+              sys.exit(1)
+          else:
+              print("✅ feeds.yaml passed schema validation.")
+
+          PY
