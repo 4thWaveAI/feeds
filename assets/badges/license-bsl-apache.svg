@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="28" role="img" aria-label="License: BSL → Apache 2.0 (3y)">
+  <title>License: BSL → Apache 2.0 (3y)</title>
+  <defs>
+    <linearGradient id="g" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#14171c"/>
+      <stop offset="1" stop-color="#0b0e11"/>
+    </linearGradient>
+  </defs>
+  <rect rx="6" width="330" height="28" fill="url(#g)"/>
+  <rect rx="6" width="78" height="28" fill="#0f1318"/>
+  <text x="10" y="19" fill="#9aa4af" font-family="Inter,Segoe UI,Ubuntu,Helvetica,Arial,sans-serif" font-size="12">License</text>
+  <text x="90" y="19" fill="#00FFFF" font-family="Inter,Segoe UI,Ubuntu,Helvetica,Arial,sans-serif" font-size="12">BSL → Apache 2.0 (3y)</text>
+  <rect x="78" y="4" width="1" height="20" fill="#1c2229" opacity=".9"/>
+</svg>
