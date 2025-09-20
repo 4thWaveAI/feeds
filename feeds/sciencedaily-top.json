@@ -5,6 +5,36 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sciencedaily-top.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250919085235.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250919085235.htm",
+      "title": "Smoking’s hidden gut bacteria trick may lead to new colitis treatments",
+      "content_text": "For decades, scientists have puzzled over why smoking makes Crohn’s disease worse but seems to protect people from ulcerative colitis. Now, researchers at RIKEN have discovered that smoking creates metabolites like hydroquinone that allow mouth bacteria—especially Streptococcus mitis—to settle in the gut. These bacteria spark an immune response that reduces inflammation in colitis but worsens Crohn’s. The findings open the door to new therapies using probiotics or targeted compounds that mimic smoking’s protective effects without its deadly risks.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/healthy-large-intestine-anatomy.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250919085232.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250919085232.htm",
+      "title": "Forgotten royal warship sunk 500 years ago reveals surprising secrets",
+      "content_text": "From the wreck of the royal Danish-Norwegian flagship Gribshunden, archaeologists have uncovered a rare glimpse into the naval power of the late Middle Ages. This warship, lost in 1495, carried an arsenal of small guns designed for close-range combat, symbolizing the technological leap that allowed European nations to dominate the seas. More than just a vessel, it served as King Hans’ floating castle, projecting both diplomatic influence and military might.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/gribshunden-gun-bed.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/09/250918230811.htm",
       "url": "https://www.sciencedaily.com/releases/2025/09/250918230811.htm",
       "title": "Shocking study exposes widespread math research fraud",
@@ -12,6 +42,21 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/fake-news-blocks.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250918225022.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250918225022.htm",
+      "title": "Egg-eating worms could be the secret to saving Chesapeake Bay’s blue crabs",
+      "content_text": "Egg-eating worms living on Chesapeake Bay blue crabs may hold the key to smarter fishery management. Once thought to be a threat, these parasites actually serve as natural biomarkers that reveal when and how often female crabs reproduce. Researchers found the worms are surprisingly resilient to varying salinity levels, meaning they can track crab spawning across the Bay.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/egg-bearing-blue-crab.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -252,51 +297,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/drug-addiction-opioid-pills.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250917221001.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250917221001.htm",
-      "title": "The hidden group that loses COVID protection fast",
-      "content_text": "Why do some people stay protected after vaccination while others quickly lose immunity? Researchers in Japan tracked over 2,500 people for 18 months and found four distinct immune response patterns. The so-called “rapid-decliners” looked strong at first but lost antibodies quickly, leaving them more vulnerable to infection.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/tracking-covid-19-vaccine-responses.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250917220959.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250917220959.htm",
-      "title": "NASA’s Perseverance just found new evidence that Mars could have been habitable",
-      "content_text": "Jezero Crater’s rocks reveal three stages of water activity, shifting from hostile acidic fluids to more life-friendly alkaline ones. Perseverance’s discoveries guide future sampling and strengthen the hunt for past life on Mars.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/jezero-crater-mars.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250917220957.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250917220957.htm",
-      "title": "The Moon could finally reveal dark matter",
-      "content_text": "Faint hydrogen signals from the cosmic Dark Ages may soon help determine the mass of dark matter particles. Simulations suggest future Moon-based observatories could distinguish between warm and cold dark matter, providing long-sought answers about the invisible backbone of the Universe.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/nasa-artemis-astronauts-working-on-moon.webp",
           "mime_type": "image/webp"
         }
       ],
