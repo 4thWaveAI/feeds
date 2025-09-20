@@ -1,0 +1,56 @@
+name: Archive weekly feeds
+
+on:
+  schedule: [ { cron: "0 6 * * 0" } ]   # Sundays 06:00 UTC
+  workflow_dispatch: {}                 # allow manual run
+
+permissions:
+  contents: write
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Make dated archive folder
+        shell: bash
+        run: |
+          set -euo pipefail
+          DATE_TAG="$(date -u +%Y/%m/%d)"
+          mkdir -p "archive/${DATE_TAG}"
+          echo "DATE_TAG=${DATE_TAG}" >> $GITHUB_ENV
+
+      - name: Copy latest feeds
+        shell: bash
+        run: |
+          shopt -s nullglob
+          cp -f feeds/*.xml "archive/${DATE_TAG}/" || true
+          cp -f feeds/*.atom.xml "archive/${DATE_TAG}/" || true
+          cp -f feeds/*.json "archive/${DATE_TAG}/" || true
+
+      - name: Gzip archive copies (keep originals too)
+        shell: bash
+        run: |
+          shopt -s nullglob
+          for f in archive/${DATE_TAG}/*; do
+            gzip -kf "$f"
+          done
+
+      - name: Prune old archive files (keep ~120 days)
+        shell: bash
+        run: |
+          # delete files older than 120 days, then empty dirs
+          find archive -type f -mtime +120 -delete || true
+          find archive -type d -empty -delete || true
+
+      - name: Commit archive snapshot
+        shell: bash
+        run: |
+          set -e
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add archive
+          git commit -m "archive: snapshot ${DATE_TAG} [skip ci]" || echo "No changes"
+          git push
