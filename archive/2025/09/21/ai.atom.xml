@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>4thWave AI — Ai (Aggregated)</title>
+  <link href="https://www.4thwaveai.com"/>
+  <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.atom.xml"/>
+  <id>urn:4thwaveai-feeds:ai</id>
+  <updated>Sun, 21 Sep 2025 05:39:44 +0000</updated>
+  <entry>
+    <title>Predict Extreme Weather Events in Minutes Without a Supercomputer | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/predict-extreme-weather-events-in-minutes-without-a-supercomputer/"/>
+    <id>https://developer.nvidia.com/blog/predict-extreme-weather-events-in-minutes-without-a-supercomputer/</id>
+    <summary type="text">Scientists from NVIDIA, in collaboration with Lawrence Berkeley National Laboratory (Berkeley Lab), released a machine learning tool called Huge Ensembles (HENS) for extreme-weather prediction that…</summary>
+    <updated>Fri, 19 Sep 2025 19:19:10 +0000</updated>
+  </entry>
+  <entry>
+    <title>The UK’s ‘Goldilocks Moment for AI’: NVIDIA, UK and US Leaders Highlight AI Infrastructure Investments</title>
+    <link href="https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/"/>
+    <id>https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/</id>
+    <summary type="text">NVIDIA founder and CEO Jensen Huang discussed the UK’s plans to become an AI superpower with UK Prime Minister Keir Starmer, UK Secretary of State for Science, Innovation and Technology Liz Kendall, UK Secretary of State for Business and Trade Peter Kyle, and US Secretary of Commerce Howard Lutnick.</summary>
+    <updated>Thu, 18 Sep 2025 21:21:03 +0000</updated>
+  </entry>
+  <entry>
+    <title>NVIDIA Blackwell: Born for Extreme-Scale AI Inference</title>
+    <link href="https://blogs.nvidia.com/blog/blackwell-ai-inference/"/>
+    <id>https://blogs.nvidia.com/blog/blackwell-ai-inference/</id>
+    <summary type="text">NVIDIA Blackwell is the core of a system architecture designed to power AI factories that produce intelligence through inference.</summary>
+    <updated>Thu, 18 Sep 2025 15:00:25 +0000</updated>
+  </entry>
+  <entry>
+    <title>An Introduction to Speculative Decoding for Reducing Latency in AI Inference | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference/"/>
+    <id>https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference/</id>
+    <summary type="text">Generating text with large language models (LLMs) often involves running into a fundamental bottleneck. GPUs offer massive compute, yet much of that power sits idle because autoregressive generation…</summary>
+    <updated>Wed, 17 Sep 2025 18:09:12 +0000</updated>
+  </entry>
+  <entry>
+    <title>The AI Makers: NVIDIA Partners in UK Advance Physical and Agentic AI, Robotics, Life Sciences and More</title>
+    <link href="https://blogs.nvidia.com/blog/uk-partner-ecosystem-ai-makers/"/>
+    <id>https://blogs.nvidia.com/blog/uk-partner-ecosystem-ai-makers/</id>
+    <summary type="text">During NVIDIA founder and CEO Jensen Huang’s visit to the U.K. this week, NVIDIA highlighted how it is working with a broad ecosystem of AI makers across the nation on applications in physical and agentic AI, robotics and healthcare.</summary>
+    <updated>Tue, 16 Sep 2025 21:30:16 +0000</updated>
+  </entry>
+  <entry>
+    <title>Build a Report Generator AI Agent with NVIDIA Nemotron on OpenRouter | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/build-a-report-generator-ai-agent-with-nvidia-nemotron-on-openrouter/"/>
+    <id>https://developer.nvidia.com/blog/build-a-report-generator-ai-agent-with-nvidia-nemotron-on-openrouter/</id>
+    <summary type="text">Unlike traditional systems that follow predefined paths, AI agents are autonomous systems that use large language models (LLMs) to make decisions, adapt to changing requirements…</summary>
+    <updated>Mon, 15 Sep 2025 19:31:45 +0000</updated>
+  </entry>
+  <entry>
+    <title>NVIDIA Blackwell Ultra Sets New Inference Records in MLPerf Debut | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/nvidia-blackwell-ultra-sets-new-inference-records-in-mlperf-debut/"/>
+    <id>https://developer.nvidia.com/blog/nvidia-blackwell-ultra-sets-new-inference-records-in-mlperf-debut/</id>
+    <summary type="text">As large language models (LLMs) grow larger, they get smarter, with open models from leading developers now featuring hundreds of billions of parameters. At the same time, today’s leading models are…</summary>
+    <updated>Tue, 09 Sep 2025 15:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>NVIDIA Rubin CPX Accelerates Inference Performance and Efficiency for 1M+ Token Context Workloads | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/nvidia-rubin-cpx-accelerates-inference-performance-and-efficiency-for-1m-token-context-workloads/"/>
+    <id>https://developer.nvidia.com/blog/nvidia-rubin-cpx-accelerates-inference-performance-and-efficiency-for-1m-token-context-workloads/</id>
+    <summary type="text">Inference has emerged as the new frontier of complexity in AI. Modern models are evolving into agentic systems capable of multi-step reasoning, persistent memory, and long-horizon context—enabling…</summary>
+    <updated>Tue, 09 Sep 2025 15:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>How Small Language Models Are Key to Scalable Agentic AI | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/how-small-language-models-are-key-to-scalable-agentic-ai/"/>
+    <id>https://developer.nvidia.com/blog/how-small-language-models-are-key-to-scalable-agentic-ai/</id>
+    <summary type="text">The rapid rise of agentic AI has reshaped how enterprises, developers, and entire industries think about automation and digital productivity. From software development workflows to enterprise process…</summary>
+    <updated>Fri, 29 Aug 2025 18:00:42 +0000</updated>
+  </entry>
+  <entry>
+    <title>Unlocking the potential of manufacturing with cloud modernization - Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/19/unlocking-the-potential-of-manufacturing-with-cloud-modernization/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/19/unlocking-the-potential-of-manufacturing-with-cloud-modernization/</id>
+    <summary type="text">Uncover how manufacturers use AI and cloud to optimize operations, accelerate R&amp;D, and deliver real business value. Learn more.</summary>
+    <updated>Tue, 19 Aug 2025 15:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Embracing AI-powered operations: A maturity path for manufacturers - Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/07/embracing-ai-powered-operations-a-maturity-path-for-manufacturers/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/07/embracing-ai-powered-operations-a-maturity-path-for-manufacturers/</id>
+    <summary type="text">Discover how manufacturers are embracing AI to boost efficiency, resilience, and innovation with Microsoft’s guidance. Learn more.</summary>
+    <updated>Thu, 07 Aug 2025 14:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Unlocking the Future of Surface Finishing with AI-Powered Adaptive Robotics</title>
+    <link href="https://www.palladyneai.com/blog/unlocking-the-future-of-surface-finishing-with-ai-powered-adaptive-robotics/"/>
+    <id>https://www.palladyneai.com/blog/unlocking-the-future-of-surface-finishing-with-ai-powered-adaptive-robotics/</id>
+    <summary type="text">Discover how AI software is revolutionizing surface finishing by tackling labor shortages, increasing consistency, and accelerating automation.</summary>
+    <updated>Tue, 22 Jul 2025 15:46:23 +0000</updated>
+  </entry>
+  <entry>
+    <title>Time-to-Value Speeds Up with Emerging AI-Enabled Robotics Automation</title>
+    <link href="https://www.palladyneai.com/blog/time-to-value-speeds-up-with-emerging-ai-enabled-robotics-automation/"/>
+    <id>https://www.palladyneai.com/blog/time-to-value-speeds-up-with-emerging-ai-enabled-robotics-automation/</id>
+    <summary type="text">ABI Research report explores how AI-enabled robotics automation with a human element boosts manufacturing.</summary>
+    <updated>Tue, 10 Jun 2025 16:41:28 +0000</updated>
+  </entry>
+  <entry>
+    <title>AI in process manufacturing: From operational gains to strategic advantage - Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/28/ai-in-process-manufacturing-from-operational-gains-to-strategic-advantage/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/28/ai-in-process-manufacturing-from-operational-gains-to-strategic-advantage/</id>
+    <summary type="text">Explore insights into how manufacturers prioritize technology and where AI fits by reading the report &quot;Artificial Intelligence in Process Manufacturing.&quot;</summary>
+    <updated>Wed, 28 May 2025 15:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Creating a resilient supply chain using connected data chains - Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/05/creating-a-resilient-supply-chain-using-connected-data-chains/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/05/creating-a-resilient-supply-chain-using-connected-data-chains/</id>
+    <summary type="text">Explore how Microsoft is enabling companies to easily navigate complexities and use technology with connected data chains and AI.</summary>
+    <updated>Mon, 05 May 2025 15:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Enhancing MRO and Remanufacturing Work Processes with AI</title>
+    <link href="https://www.palladyneai.com/blog/enhancing-mro-and-remanufacturing-work-processes-with-ai/"/>
+    <id>https://www.palladyneai.com/blog/enhancing-mro-and-remanufacturing-work-processes-with-ai/</id>
+    <summary type="text">Implementing Palladyne IQ robotic AI software can help autonomously manage component cleaning, prepare surfaces for the next production stage, and enhance the overall production process across MRO, remanufacturing, and other industries.</summary>
+    <updated>Tue, 29 Apr 2025 10:25:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Speeding Robotics Automation with AI</title>
+    <link href="https://www.palladyneai.com/blog/speeding-robotics-automation-with-ai/"/>
+    <id>https://www.palladyneai.com/blog/speeding-robotics-automation-with-ai/</id>
+    <summary type="text">ABI Research report explores AI-enabled robotics automation</summary>
+    <updated>Tue, 08 Apr 2025 17:03:03 +0000</updated>
+  </entry>
+  <entry>
+    <title>How Autonomous AI Tackles Quality Control Costs</title>
+    <link href="https://www.palladyneai.com/blog/how-autonomous-ai-tackles-quality-control-costs/"/>
+    <id>https://www.palladyneai.com/blog/how-autonomous-ai-tackles-quality-control-costs/</id>
+    <summary type="text">Palladyne IQ robotic AI software helps automate inspection and streamline production across many industries.</summary>
+    <updated>Tue, 01 Apr 2025 13:23:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Physical AI: Embracing AI’s Moment in Robotics</title>
+    <link href="https://www.palladyneai.com/blog/physical-ai-embracing-ais-moment-in-robotics/"/>
+    <id>https://www.palladyneai.com/blog/physical-ai-embracing-ais-moment-in-robotics/</id>
+    <summary type="text">The rise of physical AI is having its breakthrough moment, like ChatGPT did in language processing in 2022. Read more.</summary>
+    <updated>Tue, 18 Mar 2025 13:40:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>AlphaQubit tackles one of quantum computing’s biggest challenges</title>
+    <link href="https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/"/>
+    <id>https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/</id>
+    <summary type="text">AlphaQubit is an AI-based decoder that identifies quantum computing errors with state-of-the-art accuracy.</summary>
+    <updated>Wed, 20 Nov 2024 00:00:00 -0000</updated>
+  </entry>
+  <entry>
+    <title>Blog</title>
+    <link href="https://deepmind.google/discover/blog/"/>
+    <id>https://deepmind.google/discover/blog/</id>
+    <summary type="text">Discover our latest AI breakthroughs, projects, and updates.</summary>
+  </entry>
+  <entry>
+    <title>AlphaGenome: AI for better understanding the genome</title>
+    <link href="https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/"/>
+    <id>https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/</id>
+    <summary type="text">Introducing a new, unifying DNA sequence model that advances regulatory variant-effect prediction and promises to shed new light on genome function — now available via API.</summary>
+  </entry>
+  <entry>
+    <title>A catalogue of genetic mutations to help pinpoint the cause of diseases</title>
+    <link href="https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/"/>
+    <id>https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/</id>
+    <summary type="text">New AI tool classifies the effects of 71 million ‘missense’ mutations 
+Uncovering the root causes of disease is one of the greatest challenges in human genetics. With millions of possible...</summary>
+  </entry>
+  <entry>
+    <title>AlphaProteo generates novel proteins for biology and health research</title>
+    <link href="https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/"/>
+    <id>https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/</id>
+    <summary type="text">New AI system designs proteins that successfully bind to target molecules, with potential for advancing drug design, disease understanding and more.</summary>
+  </entry>
+  <entry>
+    <title>AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms</title>
+    <link href="https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/"/>
+    <id>https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/</id>
+    <summary type="text">New AI agent evolves algorithms for math and practical applications in computing by combining the creativity of large language models with automated evaluators</summary>
+  </entry>
+  <entry>
+    <title>AI achieves silver-medal standard solving International Mathematical Olympiad problems</title>
+    <link href="https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/"/>
+    <id>https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/</id>
+    <summary type="text">Breakthrough models AlphaProof and AlphaGeometry 2 solve advanced reasoning problems in mathematics</summary>
+  </entry>
+  <entry>
+    <title>Millions of new materials discovered with deep learning</title>
+    <link href="https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/"/>
+    <id>https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/</id>
+    <summary type="text">We share the discovery of 2.2 million new crystals  –  equivalent to nearly 800 years’ worth of knowledge. We introduce Graph Networks for Materials Exploration (GNoME), our new deep learning tool...</summary>
+  </entry>
+  <entry>
+    <title>Accelerating fusion science through learned plasma control</title>
+    <link href="https://deepmind.google/discover/blog/accelerating-fusion-science-through-learned-plasma-control/"/>
+    <id>https://deepmind.google/discover/blog/accelerating-fusion-science-through-learned-plasma-control/</id>
+    <summary type="text">Successfully controlling the nuclear fusion plasma in a tokamak with deep reinforcement learning</summary>
+  </entry>
+  <entry>
+    <title>Genie 3: A New Frontier for World Models</title>
+    <link href="https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/"/>
+    <id>https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/</id>
+    <summary type="text">Today we are announcing Genie 3, a general purpose world model that can generate an unprecedented diversity of interactive environments. Given a text prompt, Genie 3 can generate dynamic worlds...</summary>
+  </entry>
+  <entry>
+    <title>Thoughts on America’s AI Action Plan</title>
+    <link href="https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan"/>
+    <id>https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</id>
+    <summary type="text">Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.</summary>
+  </entry>
+  <entry>
+    <title>Anthropic raises $13B Series F at $183B post-money valuation</title>
+    <link href="https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation"/>
+    <id>https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</id>
+    <summary type="text">Anthropic has completed a Series F fundraising of $13 billion led by ICONIQ. This financing values Anthropic at $183 billion post-money. Along with ICONIQ, the round was co-led by Fidelity Management &amp; Research Company and Lightspeed Venture Partners. The investment reflects Anthropic’s continued momentum and reinforces our position as the leading intelligence platform for enterprises, developers, and power users.</summary>
+  </entry>
+  <entry>
+    <title>Claude Opus 4.1</title>
+    <link href="https://www.anthropic.com/news/claude-opus-4-1"/>
+    <id>https://www.anthropic.com/news/claude-opus-4-1</id>
+    <summary type="text">Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.</summary>
+  </entry>
+  <entry>
+    <title>Claude is now generally available in Xcode</title>
+    <link href="https://www.anthropic.com/news/claude-in-xcode"/>
+    <id>https://www.anthropic.com/news/claude-in-xcode</id>
+    <summary type="text">Connect your Claude account to Xcode 26 for AI-powered coding assistance. Debug, refactor, and build Apple apps faster with Claude Sonnet 4 by Anthropic.</summary>
+  </entry>
+  <entry>
+    <title>Strengthening our safeguards through collaboration with US CAISI and UK AISI</title>
+    <link href="https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi"/>
+    <id>https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi</id>
+    <summary type="text">Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.</summary>
+  </entry>
+  <entry>
+    <title>Claude introduces memory for teams at work</title>
+    <link href="https://www.anthropic.com/news/memory"/>
+    <id>https://www.anthropic.com/news/memory</id>
+    <summary type="text">Claude now remembers your team&#x27;s projects and preferences across conversations. Memory helps maintain context for complex work, with project-specific boundaries and full user control over what&#x27;s remembered.</summary>
+  </entry>
+  <entry>
+    <title>Latest News from Google Research Blog - Google Research</title>
+    <link href="https://ai.googleblog.com/"/>
+    <id>https://ai.googleblog.com/</id>
+    <summary type="text">We strive to create an environment conducive to many different types of research across many different time scales and levels of risk.</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA Announces £2 Billion Investment in the United Kingdom AI Startup Ecosystem</title>
+    <link href="https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem"/>
+    <id>https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem</id>
+    <summary type="text">NVIDIA today announced an investment of £2 billion in the U.K. market to catalyze the nation’s AI startup ecosystem and scale the next generation of globally transformative AI businesses.</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA and Intel to Develop AI Infrastructure and Personal Computing Products</title>
+    <link href="https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products"/>
+    <id>https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products</id>
+    <summary type="text">NVIDIA (NASDAQ: NVDA) and Intel Corporation (NASDAQ: INTC) today announced a collaboration to jointly develop multiple generations of custom data center and PC products that accelerate applications and workloads across hyperscale, enterprise and consumer markets.</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA and United Kingdom Build Nation’s AI Infrastructure and Ecosystem to Fuel Innovation, Economic Growth and Jobs</title>
+    <link href="https://nvidianews.nvidia.com/news/nvidia-and-united-kingdom-build-nations-ai-infrastructure-and-ecosystem-to-fuel-innovation-economic-growth-and-jobs"/>
+    <id>https://nvidianews.nvidia.com/news/nvidia-and-united-kingdom-build-nations-ai-infrastructure-and-ecosystem-to-fuel-innovation-economic-growth-and-jobs</id>
+    <summary type="text">NVIDIA today announced that it is investing in accelerating the AI industrial revolution in the United Kingdom, working with partners including CoreWeave, Microsoft and Nscale to build the nation’s next generation of AI infrastructure.</summary>
+  </entry>
+  <entry>
+    <title>Generative AI Archives</title>
+    <link href="https://blogs.nvidia.com/blog/category/generative-ai/"/>
+    <id>https://blogs.nvidia.com/blog/category/generative-ai/</id>
+    <summary type="text">AI is no longer solely a back-office tool. It’s a strategic partner that can augment decision-making across every… Read Article</summary>
+  </entry>
+  <entry>
+    <title>Data Center Archives</title>
+    <link href="https://blogs.nvidia.com/blog/category/enterprise/"/>
+    <id>https://blogs.nvidia.com/blog/category/enterprise/</id>
+    <summary type="text">AI is no longer solely a back-office tool. It’s a strategic partner that can augment decision-making across every… Read Article</summary>
+  </entry>
+  <entry>
+    <title>Driving Archives</title>
+    <link href="https://blogs.nvidia.com/blog/category/auto/"/>
+    <id>https://blogs.nvidia.com/blog/category/auto/</id>
+    <summary type="text">At this week’s IAA Mobility conference in Munich, NVIDIA Vice President of Automotive Ali Kani outlined how cloud-to-car… Read Article</summary>
+  </entry>
+  <entry>
+    <title>Gaming Archives</title>
+    <link href="https://blogs.nvidia.com/blog/category/gaming/"/>
+    <id>https://blogs.nvidia.com/blog/category/gaming/</id>
+    <summary type="text">GeForce NOW is packing a monstrous punch this week. Dying Light: The Beast, the latest adrenaline‑fueled chapter in… Read Article</summary>
+  </entry>
+  <entry>
+    <title>Pro Graphics Archives</title>
+    <link href="https://blogs.nvidia.com/blog/category/pro-graphics/"/>
+    <id>https://blogs.nvidia.com/blog/category/pro-graphics/</id>
+    <summary type="text">Editor’s note: This blog is a part of Into the Omniverse, a series focused on how developers, 3D… Read Article</summary>
+  </entry>
+  <entry>
+    <title>Robotics Archives</title>
+    <link href="https://blogs.nvidia.com/blog/category/robotics/"/>
+    <id>https://blogs.nvidia.com/blog/category/robotics/</id>
+    <summary type="text">AI models are advancing at a rapid rate and scale. But what might they lack that (most) humans… Read Article</summary>
+  </entry>
+  <entry>
+    <title>Healthcare and Life Sciences Archives</title>
+    <link href="https://blogs.nvidia.com/blog/tag/healthcare-life-sciences/"/>
+    <id>https://blogs.nvidia.com/blog/tag/healthcare-life-sciences/</id>
+    <summary type="text">Healthcare and Life Sciences Archives</summary>
+  </entry>
+  <entry>
+    <title>Category: Data Center / Cloud | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/category/data-center-cloud/"/>
+    <id>https://developer.nvidia.com/blog/category/data-center-cloud/</id>
+    <summary type="text">Category: Data Center / Cloud | NVIDIA Technical Blog</summary>
+  </entry>
+  <entry>
+    <title>Category: Generative AI | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/category/generative-ai/"/>
+    <id>https://developer.nvidia.com/blog/category/generative-ai/</id>
+    <summary type="text">Category: Generative AI | NVIDIA Technical Blog</summary>
+  </entry>
+  <entry>
+    <title>Category: AI Platforms / Deployment | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/category/deployment/"/>
+    <id>https://developer.nvidia.com/blog/category/deployment/</id>
+    <summary type="text">Category: AI Platforms / Deployment | NVIDIA Technical Blog</summary>
+  </entry>
+  <entry>
+    <title>Recent posts</title>
+    <link href="https://developer.nvidia.com/blog/recent-posts/"/>
+    <id>https://developer.nvidia.com/blog/recent-posts/</id>
+    <summary type="text">News and tutorials for developers, scientists, and IT admins</summary>
+  </entry>
+  <entry>
+    <title>Blog</title>
+    <link href="https://www.palladyneai.com/blog/"/>
+    <id>https://www.palladyneai.com/blog/</id>
+    <summary type="text">Tackling the growing demand for automation with AI-driven robotics Surface technology companies stand at a pivotal crossroads. 2025 will be a year of strong growth for the surface finishing market as demands…</summary>
+  </entry>
+  <entry>
+    <title>Automotive - Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/automotive/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/automotive/</id>
+    <summary type="text">Read the latest news and posts about Automotive from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
+  </entry>
+  <entry>
+    <title>Manufacturing - Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/</id>
+    <summary type="text">Read the latest news and posts about Manufacturing from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
+  </entry>
+  <entry>
+    <title>Mobility - Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/mobility/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/mobility/</id>
+    <summary type="text">Read the latest news and posts about Mobility from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
+  </entry>
+  <entry>
+    <title>Travel - Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/travel/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/travel/</id>
+    <summary type="text">Read the latest news and posts about Travel from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
+  </entry>
+  <entry>
+    <title>Transport and logistics - Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/transport-and-logistics/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/transport-and-logistics/</id>
+    <summary type="text">Read the latest news and posts about Transport and logistics from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
+  </entry>
+  <entry>
+    <title>Manufacturing and mobility - Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/</id>
+    <summary type="text">Read the latest news and posts about Manufacturing and mobility from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
+  </entry>
+  <entry>
+    <title>Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/</id>
+    <summary type="text">Learn how to innovate with Microsoft’s latest digital transformation solutions in financial services, health, government, manufacturing, retail, and more.</summary>
+  </entry>
+  <entry>
+    <title>Energy and resources - Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/energy-and-resources/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/energy-and-resources/</id>
+    <summary type="text">Read the latest news and posts about Energy and resources from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
+  </entry>
+  <entry>
+    <title>Financial services - Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/financial-services/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/financial-services/</id>
+    <summary type="text">Read the latest news and posts about Financial services from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
+  </entry>
+</feed>

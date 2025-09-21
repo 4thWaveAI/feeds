@@ -1,0 +1,936 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "4thWave AI — Tech Leaders (Spotlights)",
+  "home_page_url": "https://www.4thwaveai.com",
+  "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.json",
+  "items": [
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/summer-i-turned-pretty-movie-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/summer-i-turned-pretty-movie-prime-video",
+      "title": "'The Summer I Turned Pretty' movie—here's everything to know",
+      "content_text": "The final chapter of Belly’s journey will be told with a feature film.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/bce64e6/2147483647/strip/true/crop/8256x4128+0+258/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ffd%2F4b%2Fd10f683c40b38233ee61c8b1a69f%2Fanthonyghnassia-452.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/community/amazon-headquarters-seattle-bellevue-puget-sound-news",
+      "url": "https://www.aboutamazon.com/news/community/amazon-headquarters-seattle-bellevue-puget-sound-news",
+      "title": "Amazon in the community: Here's what's happening in Seattle, Bellevue, and the Puget Sound",
+      "content_text": "Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/8f88e6b/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F5b%2F7b%2F25139aad4a5fb4efafb1b3cdc335%2Fabout-amazon-hero-amazon-spheres-selects-29.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/QWQvaTXowao",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/aws/alibaba-qwen3-deepseek-v3-amazon-bedrock",
+      "url": "https://www.aboutamazon.com/news/aws/alibaba-qwen3-deepseek-v3-amazon-bedrock",
+      "title": "Qwen3 and DeepSeek-V3.1 models now available fully managed on AWS",
+      "content_text": "AWS continues to invest in being the best place to run open weight models with five new options that enhance model choice in Amazon Bedrock to further meet customers’ needs.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/2550bef/2147483647/strip/true/crop/1342x671+0+42/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F7b%2F21%2Fe87f4adf4c0788930b7a7adb8d9e%2Fnewheroforopenweight.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/",
+      "url": "https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/",
+      "title": "The UK’s ‘Goldilocks Moment for AI’: NVIDIA, UK and US Leaders Highlight AI Infrastructure Investments",
+      "content_text": "NVIDIA founder and CEO Jensen Huang discussed the UK’s plans to become an AI superpower with UK Prime Minister Keir Starmer, UK Secretary of State for Science, Innovation and Technology Liz Kendall, UK Secretary of State for Business and Trade Peter Kyle, and US Secretary of Commerce Howard Lutnick.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/UK-Visit-MAT10296_isp.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/3GhckKPLDd4?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/blackwell-ai-inference/",
+      "url": "https://blogs.nvidia.com/blog/blackwell-ai-inference/",
+      "title": "NVIDIA Blackwell: Born for Extreme-Scale AI Inference",
+      "content_text": "NVIDIA Blackwell is the core of a system architecture designed to power AI factories that produce intelligence through inference.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/blackwell-more-than-a-chip-intro-desktop-scaled.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/",
+      "url": "https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/",
+      "title": "Inside the world’s most powerful AI datacenter - The Official Microsoft Blog",
+      "content_text": "This week we have introduced a wave of purpose-built datacenters and infrastructure investments we are making around the world to support the global adoption of cutting-edge AI workloads and cloud services. Today in Wisconsin we introduced Fairwater, our newest US AI datacenter, the largest and most sophisticated AI factory we’ve built yet. In addition to...",
+      "attachments": [
+        {
+          "url": "https://blogs.microsoft.com/wp-content/uploads/2025/09/OMB-Datacenter-Hero-9_18_25-1024x683.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "satya-nadella"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/uk-partner-ecosystem-ai-makers/",
+      "url": "https://blogs.nvidia.com/blog/uk-partner-ecosystem-ai-makers/",
+      "title": "The AI Makers: NVIDIA Partners in UK Advance Physical and Agentic AI, Robotics, Life Sciences and More",
+      "content_text": "During NVIDIA founder and CEO Jensen Huang’s visit to the U.K. this week, NVIDIA highlighted how it is working with a broad ecosystem of AI makers across the nation on applications in physical and agentic AI, robotics and healthcare.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/uk-ecosystem-featured-1280x680-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://blogs.microsoft.com/blog/2025/09/16/microsoft-leads-shift-beyond-data-unification-to-organization-delivering-next-gen-ai-readiness-with-new-microsoft-fabric-capabilities/",
+      "url": "https://blogs.microsoft.com/blog/2025/09/16/microsoft-leads-shift-beyond-data-unification-to-organization-delivering-next-gen-ai-readiness-with-new-microsoft-fabric-capabilities/",
+      "title": "Microsoft leads shift beyond data unification to organization, delivering next-gen AI readiness with new Microsoft Fabric capabilities - The Official Microsoft Blog",
+      "content_text": "We’re in a hinge moment for AI. The experiments are over and the real work has begun. Centralizing data, once the finish line, is now the starting point. The definition of “AI readiness” is evolving as increasingly sophisticated agents demand rich, contextualized data grounded in business operations to deliver meaningful results. What sets leaders apart...",
+      "attachments": [
+        {
+          "url": "https://blogs.microsoft.com/wp-content/uploads/2025/09/FabCon-Hero-9_15_25-1024x682.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "satya-nadella"
+      ]
+    },
+    {
+      "id": "https://blogs.microsoft.com/blog/2025/09/11/a-joint-statement-from-microsoft-and-openai/",
+      "url": "https://blogs.microsoft.com/blog/2025/09/11/a-joint-statement-from-microsoft-and-openai/",
+      "title": "A joint statement from Microsoft and OpenAI - The Official Microsoft Blog",
+      "content_text": "Microsoft and OpenAI have signed a non-binding memorandum of understanding (MOU) for the next phase of our partnership. We are actively working to finalize contractual terms in a definitive agreement. Together, we remain focused on delivering the best AI tools for everyone, grounded in our shared commitment to safety.",
+      "attachments": [
+        {
+          "url": "https://blogs.microsoft.com/wp-content/uploads/2023/01/PNG-openai-microsoft_960x540.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "satya-nadella"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/thursday-night-football-schedule-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/thursday-night-football-schedule-prime-video",
+      "title": "'Thursday Night Football' 2025 schedule: How to watch live on Prime Video",
+      "content_text": "Prime Video’s fourth season of ‘Thursday Night Football’ is packed with divisional matchups and features two holiday showdowns.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/469c2ce/2147483647/strip/true/crop/2000x1000+0+77/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff2%2F80%2Fdec20dc2442195487a40358c5704%2Ftnf25-schedule-release-blastuicarousel-2000-final.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
+      "url": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
+      "title": "AlphaQubit tackles one of quantum computing’s biggest challenges",
+      "content_text": "AlphaQubit is an AI-based decoder that identifies quantum computing errors with state-of-the-art accuracy.",
+      "attachments": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Share_Image_-_1920_x_1080.width-1300.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "demis-hassabis"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/everything-you-need-to-know-about-thursday-night-football-on-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/everything-you-need-to-know-about-thursday-night-football-on-prime-video",
+      "title": "Everything you need to know about ‘Thursday Night Football’ on Prime Video",
+      "content_text": "Find out who’s playing, how to watch, and who won each week. Plus, get all the latest ‘Thursday Night Football’ news from Prime Video.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/9d71b14/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F5d%2F5a%2Fd550d930492d8e012643fcdb7736%2Fabout-amazon-hero-c4n09568.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem",
+      "title": "NVIDIA Announces £2 Billion Investment in the United Kingdom AI Startup Ecosystem",
+      "content_text": "NVIDIA today announced an investment of £2 billion in the U.K. market to catalyze the nation’s AI startup ecosystem and scale the next generation of globally transformative AI businesses.",
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/20258/68cc4a5b3d6332160038b7b1_nvidia-investment-uk-ai-startup-ecosystem/nvidia-investment-uk-ai-startup-ecosystem_059a49be-6e31-4eca-bfc9-ce7dcf993421-prv.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products",
+      "title": "NVIDIA and Intel to Develop AI Infrastructure and Personal Computing Products",
+      "content_text": "NVIDIA (NASDAQ: NVDA) and Intel Corporation (NASDAQ: INTC) today announced a collaboration to jointly develop multiple generations of custom data center and PC products that accelerate applications and workloads across hyperscale, enterprise and consumer markets.",
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/202509/68cbe6953d63324b19567968_0ddda295-ba99-4ec9-b4c1-d5f3e2a83e7/0ddda295-ba99-4ec9-b4c1-d5f3e2a83e7_c5f3709f-5bf8-4d9a-8097-a20149241fe2-prv.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://nvidianews.nvidia.com/news/nvidia-and-united-kingdom-build-nations-ai-infrastructure-and-ecosystem-to-fuel-innovation-economic-growth-and-jobs",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-united-kingdom-build-nations-ai-infrastructure-and-ecosystem-to-fuel-innovation-economic-growth-and-jobs",
+      "title": "NVIDIA and United Kingdom Build Nation’s AI Infrastructure and Ecosystem to Fuel Innovation, Economic Growth and Jobs",
+      "content_text": "NVIDIA today announced that it is investing in accelerating the AI industrial revolution in the United Kingdom, working with partners including CoreWeave, Microsoft and Nscale to build the nation’s next generation of AI infrastructure.",
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/20258/68c9c4723d6332b53638ac60_uk-ai-infrastructure/uk-ai-infrastructure_47de3ab3-2006-4b02-8300-a57b40c8e7a4-prv.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "url": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "title": "Generative AI Archives",
+      "content_text": "AI is no longer solely a back-office tool. It’s a strategic partner that can augment decision-making across every… Read Article",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/enterprise/",
+      "url": "https://blogs.nvidia.com/blog/category/enterprise/",
+      "title": "Data Center Archives",
+      "content_text": "AI is no longer solely a back-office tool. It’s a strategic partner that can augment decision-making across every… Read Article",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/auto/",
+      "url": "https://blogs.nvidia.com/blog/category/auto/",
+      "title": "Driving Archives",
+      "content_text": "At this week’s IAA Mobility conference in Munich, NVIDIA Vice President of Automotive Ali Kani outlined how cloud-to-car… Read Article",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/08/automotive-comms-drive-agx-thor-1280x680-1.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/gaming/",
+      "url": "https://blogs.nvidia.com/blog/category/gaming/",
+      "title": "Gaming Archives",
+      "content_text": "GeForce NOW is packing a monstrous punch this week. Dying Light: The Beast, the latest adrenaline‑fueled chapter in… Read Article",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/pro-graphics/",
+      "url": "https://blogs.nvidia.com/blog/category/pro-graphics/",
+      "title": "Pro Graphics Archives",
+      "content_text": "Editor’s note: This blog is a part of Into the Omniverse, a series focused on how developers, 3D… Read Article",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/",
+      "url": "https://deepmind.google/discover/blog/",
+      "title": "Blog",
+      "content_text": "Discover our latest AI breakthroughs, projects, and updates.",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/EExFoaxzaMXaBiDlykAzkLEb5txs5aWQn6Lby4vpIXeKE60Fz4VdHOhbl1t8C0YEXJXKzux8i4fAxdb0n4UDFpns5U5VAeybnUNFc5OfnIZYJqMmzww=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "demis-hassabis"
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/",
+      "url": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/",
+      "title": "AlphaGenome: AI for better understanding the genome",
+      "content_text": "Introducing a new, unifying DNA sequence model that advances regulatory variant-effect prediction and promises to shed new light on genome function — now available via API.",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/SZkcKUQyLUhSQ06Rq-PJbxAqn1OpMeEa3khkrBVB1MGyHfxyftoqWwEb2aLP9JxX7CjhpLFODcc5zIoMoNdu0bl6ELsZV2nP9fDwZC6SYS36lzAKDw=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://deepmind.google/api/blob/website/media/AlphaGenome-Figure1-Animation-000000.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "demis-hassabis"
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/",
+      "url": "https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/",
+      "title": "A catalogue of genetic mutations to help pinpoint the cause of diseases",
+      "content_text": "New AI tool classifies the effects of 71 million ‘missense’ mutations \nUncovering the root causes of disease is one of the greatest challenges in human genetics. With millions of possible...",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/JySjDTZvGqEzUfDic5QOU6Rne3r6RWpiw5JZQ9VdzK1O5C20EbAkSPURGoCmAhea_U-gyyRu4KdCZmeWSCtYjGHHMvM0jVK5fWiqOwa0rpcC5uzM=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "demis-hassabis"
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/",
+      "url": "https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/",
+      "title": "AlphaProteo generates novel proteins for biology and health research",
+      "content_text": "New AI system designs proteins that successfully bind to target molecules, with potential for advancing drug design, disease understanding and more.",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/7RKd6r-Wc8JfMau5x9knRq9DrOKGDwS3ye4YxY0jjWGntf74y8WL0lOlktJefxwkJYw33UEf2Ph_BhQ51TIufCxPkmtCPOpakekMpnOUwVI-3R6RzQ=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://deepmind.google/api/blob/website/media/GDM-ProteinDesignBlog-02-Binder-Final.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "demis-hassabis"
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+      "url": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+      "title": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms",
+      "content_text": "New AI agent evolves algorithms for math and practical applications in computing by combining the creativity of large language models with automated evaluators",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/tG6-MqdlvhQ-z7ENzGxR-kpGPPdPHbJ8UZtbTP66Rxi0UftTFU1yAvaBCVuigYuKvESMeEFf4jqNBVENFcZXEUnj8SSqj8zsop8UHAl0eD9A-hUCvQ=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://deepmind.google/api/blob/website/media/Code-Evolution-Illustration_compressed_iUJETbv.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "demis-hassabis"
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/",
+      "url": "https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/",
+      "title": "AI achieves silver-medal standard solving International Mathematical Olympiad problems",
+      "content_text": "Breakthrough models AlphaProof and AlphaGeometry 2 solve advanced reasoning problems in mathematics",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/2A21eFt7wdDrmMzzkenrCTuioLWGFdzU5Ao5dPH9yPtAw6QNHxZcDmoQA2_ZriU2gMjX8mzEOtfPbMCRuL5kVzLoz6efLgqT_foBXU3pxKBXTTOXXpc=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "demis-hassabis"
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/",
+      "url": "https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/",
+      "title": "Millions of new materials discovered with deep learning",
+      "content_text": "We share the discovery of 2.2 million new crystals  –  equivalent to nearly 800 years’ worth of knowledge. We introduce Graph Networks for Materials Exploration (GNoME), our new deep learning tool...",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/mq3mFiVHSVuszhJMt-Nz4jckN5qy3cAckEIdNYDPhy8UHjxk4VkGFriqo8sA76teioNQ2fC3qgMH7FJfPc0L5JJPppXiZzHP7Rl3UodlU4IC4TWw=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "demis-hassabis"
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/accelerating-fusion-science-through-learned-plasma-control/",
+      "url": "https://deepmind.google/discover/blog/accelerating-fusion-science-through-learned-plasma-control/",
+      "title": "Accelerating fusion science through learned plasma control",
+      "content_text": "Successfully controlling the nuclear fusion plasma in a tokamak with deep reinforcement learning",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/2enxIWCpVE9laIRzXhLngv6nvwB-M-qSubWh_uTkhaGfbY4vJnvnCLef1VKiwP_U4b0LXmVkfvJ9LXDTVN1DY0wdDesfRibd57GvjBYAgaylMQwUbQ=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "demis-hassabis"
+      ]
+    },
+    {
+      "id": "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/",
+      "url": "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/",
+      "title": "Genie 3: A New Frontier for World Models",
+      "content_text": "Today we are announcing Genie 3, a general purpose world model that can generate an unprecedented diversity of interactive environments. Given a text prompt, Genie 3 can generate dynamic worlds...",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/pXnO9nBpgw0RnwPCDrcbdFqO0cHkaIsQYNuOyXd7L3iFrp0Mr_yLMROiWzz3EqG8W-qq-QzGPTEAs1pr75kX7SzVC-y4jnON7b7P9Bwqd19Nl-bkJYc=w1200-h630-n-nu",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://deepmind.google/api/blob/website/media/sxs_1.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "demis-hassabis"
+      ]
+    },
+    {
+      "id": "https://blog.google/",
+      "url": "https://blog.google/",
+      "title": "The Keyword",
+      "content_text": "Get the latest news and stories about Google products, technology and innovation on the Keyword, Google's official blog.",
+      "attachments": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-200x200.png?version=pr20250918-1745",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "sundar-pichai"
+      ]
+    },
+    {
+      "id": "https://blog.google/products/android/",
+      "url": "https://blog.google/products/android/",
+      "title": "Android",
+      "content_text": "Read the latest news and updates about Android, the world's most popular mobile platform.",
+      "attachments": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3D_DROID_HEAD_200x200.max-1440x810.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "sundar-pichai"
+      ]
+    },
+    {
+      "id": "https://blog.google/products/chrome/",
+      "url": "https://blog.google/products/chrome/",
+      "title": "Google Chrome",
+      "content_text": "Read the latest news and updates about Chrome, Google's fast, free web browser for your computer, phone, and tablet.",
+      "attachments": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome-Logo_1.max-1440x810.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "sundar-pichai"
+      ]
+    },
+    {
+      "id": "https://blog.google/products/chromebooks/",
+      "url": "https://blog.google/products/chromebooks/",
+      "title": "Chromebook",
+      "content_text": "Read the latest news and updates about Chromebooks, the fast and easy to use laptop that helps you enjoy your favorite apps.",
+      "attachments": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-200x200.png?version=pr20250918-1745",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "sundar-pichai"
+      ]
+    },
+    {
+      "id": "https://blog.google/products/google-play/",
+      "url": "https://blog.google/products/google-play/",
+      "title": "Google Play",
+      "content_text": "Read the latest news and updates about Google Play, where you can enjoy your favorite music, movies, books and apps on your Android device, or on the web.",
+      "attachments": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Logo_Play_512px_clr_nGVTgYY.max-1440x810.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "sundar-pichai"
+      ]
+    },
+    {
+      "id": "https://blog.google/products/wear-os/",
+      "url": "https://blog.google/products/wear-os/",
+      "title": "Wear OS",
+      "content_text": "Read the latest about Wear OS by Google — smartwatches that let you track fitness, read messages and get help from Google Assistant.",
+      "attachments": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-200x200.png?version=pr20250918-1745",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "sundar-pichai"
+      ]
+    },
+    {
+      "id": "https://ai.googleblog.com/",
+      "url": "https://ai.googleblog.com/",
+      "title": "Latest News from Google Research Blog - Google Research",
+      "content_text": "We strive to create an environment conducive to many different types of research across many different time scales and levels of risk.",
+      "attachments": [
+        {
+          "url": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "sundar-pichai"
+      ]
+    },
+    {
+      "id": "https://blogs.microsoft.com/blog/author/scottguthrie/",
+      "url": "https://blogs.microsoft.com/blog/author/scottguthrie/",
+      "title": "Executive Vice President, Cloud + AI",
+      "content_text": "Sep 18, 2025 | Scott Guthrie - Executive Vice President, Cloud + AI",
+      "attachments": [
+        {
+          "url": "https://secure.gravatar.com/avatar/673c92a01873eaa2479d9b87513b5912?s=500&d=mm&r=g",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "satya-nadella"
+      ]
+    },
+    {
+      "id": "https://blogs.microsoft.com/blog/author/jessiahawk/",
+      "url": "https://blogs.microsoft.com/blog/author/jessiahawk/",
+      "title": "Jessica Hawk, Author at The Official Microsoft Blog",
+      "content_text": "Sep 16, 2025 | Jessica Hawk - Corporate Vice President, Data, AI, and Digital Applications, Product Marketing",
+      "attachments": [
+        {
+          "url": "https://secure.gravatar.com/avatar/c4a2ecbcaff8e9904e6df808728f6397?s=500&d=mm&r=g",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "satya-nadella"
+      ]
+    },
+    {
+      "id": "https://blogs.microsoft.com/blog/author/cdemaria/",
+      "url": "https://blogs.microsoft.com/blog/author/cdemaria/",
+      "title": "Microsoft Corporate Blogs, Author at The Official Microsoft Blog",
+      "content_text": "Sep 11, 2025 | Microsoft Corporate Blogs",
+      "attachments": [
+        {
+          "url": "https://secure.gravatar.com/avatar/8322d323ed803aee63f13bee99e0071a?s=500&d=mm&r=g",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "satya-nadella"
+      ]
+    },
+    {
+      "id": "https://www.apple.com/newsroom/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/",
+      "url": "https://www.apple.com/newsroom/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/",
+      "title": "How the mind-splitting world of Severance comes together on Mac",
+      "content_text": "How Geoff Richman, lead editor on the Apple Original, “Severance,” created the frenetic world of the hit show’s season two finale.",
+      "attachments": [
+        {
+          "url": "https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/Apple-TV-plus-Mac-editing-Severance-Geoffrey-Richman-and-Ben-Stiller-lp.jpg.og.jpg?202508281640=",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "tim-cook"
+      ]
+    },
+    {
+      "id": "https://www.apple.com/newsroom/2025/05/meet-four-of-this-years-swift-student-challenge-winners/",
+      "url": "https://www.apple.com/newsroom/2025/05/meet-four-of-this-years-swift-student-challenge-winners/",
+      "title": "Meet four of this year’s Swift Student Challenge winners",
+      "content_text": "Meet Taiki Hamamoto, Marina Lee, Luciana Ortiz Nolasco, and Nahom Worku, four winners of Apple’s 2025 Swift Student Challenge.",
+      "attachments": [
+        {
+          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281742=",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "tim-cook"
+      ]
+    },
+    {
+      "id": "https://www.apple.com/newsroom/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/",
+      "url": "https://www.apple.com/newsroom/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/",
+      "title": "Meet four emerging filmmakers bending cultural and creative lines with iPhone 16 Pro Max",
+      "content_text": "From a horror-comedy in Tamil to a magical romance in Malayalam, MAMI Select filmmakers are redefining cinema with iPhone 16 Pro Max.",
+      "attachments": [
+        {
+          "url": "https://www.apple.com/newsroom/images/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/tile/Apple-MAMI-Select-iPhone-16-Pro-Max-hero-lp.jpg.og.jpg?202508281639=",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "tim-cook"
+      ]
+    },
+    {
+      "id": "https://www.apple.com/newsroom/2025/02/capturing-paradise-karston-tannis-re-creates-island-vibes-with-iphone-16-pro-max/",
+      "url": "https://www.apple.com/newsroom/2025/02/capturing-paradise-karston-tannis-re-creates-island-vibes-with-iphone-16-pro-max/",
+      "title": "Capturing paradise: Karston Tannis re-creates island vibes with iPhone 16 Pro Max",
+      "content_text": "Captured on iPhone 16 Pro Max, a recent shoot by photographer Karston Tannis showcased the vibrancy of the African diaspora.",
+      "attachments": [
+        {
+          "url": "https://www.apple.com/newsroom/images/2025/02/capturing-paradise-karston-tannis-re-creates-island-vibes-with-iphone-16-pro-max/tile/Apple-Tannis-shot-on-iPhone-16-Pro-Max-group-shot-lp.jpg.og.jpg?202508281745=",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "tim-cook"
+      ]
+    },
+    {
+      "id": "https://www.apple.com/newsroom/",
+      "url": "https://www.apple.com/newsroom/",
+      "title": "Newsroom",
+      "content_text": "The official source for news about Apple, from Apple. Read press releases, get updates, watch video and download images.",
+      "attachments": [
+        {
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202509202047=",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "tim-cook"
+      ]
+    },
+    {
+      "id": "https://www.apple.com/newsroom/apple-services/",
+      "url": "https://www.apple.com/newsroom/apple-services/",
+      "title": "Apple Services - Newsroom",
+      "content_text": "The source for news about Apple Services. Get updates on the latest Apple Arcade games, Apple Originals on TV+, Podcasts, Books, and more from Apple Newsroom.",
+      "attachments": [
+        {
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758401411813=",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "tim-cook"
+      ]
+    },
+    {
+      "id": "https://www.apple.com/newsroom/apple-stories/",
+      "url": "https://www.apple.com/newsroom/apple-stories/",
+      "title": "Apple Stories - Newsroom",
+      "content_text": "Discover more stories from Apple Newsroom that showcase the creators, developers, and innovators leaving the world better than they found it.",
+      "attachments": [
+        {
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758401456930=",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "tim-cook"
+      ]
+    },
+    {
+      "id": "https://about.fb.com/news/category/technologies/meta/",
+      "url": "https://about.fb.com/news/category/technologies/meta/",
+      "title": "Latest Meta Company News | Meta Newsroom",
+      "content_text": "Latest Meta Company News | Meta Newsroom",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
+      "id": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/",
+      "title": "Newsroom | Meta Newsroom",
+      "content_text": "View the latest news, announcements and media resources from Meta.",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
+      "id": "https://about.fb.com/news/category/product-news/",
+      "url": "https://about.fb.com/news/category/product-news/",
+      "title": "Product News Archives | Meta Newsroom",
+      "content_text": "Product News Archives | Meta Newsroom",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
+      "id": "https://about.fb.com/news/category/technology-and-innovation/",
+      "url": "https://about.fb.com/news/category/technology-and-innovation/",
+      "title": "Technology and Innovation News | Meta Newsroom",
+      "content_text": "Technology and Innovation News | Meta Newsroom",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
+      "id": "https://about.fb.com/news/category/public-policy/",
+      "url": "https://about.fb.com/news/category/public-policy/",
+      "title": "Public Policy Archives | Meta Newsroom",
+      "content_text": "Public Policy Archives | Meta Newsroom",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
+      "id": "https://about.fb.com/news/tag/well-being/",
+      "url": "https://about.fb.com/news/tag/well-being/",
+      "title": "Youth Well-Being Articles, Resources, & Tools for Parents & Teens | Meta Newsroom",
+      "content_text": "Stay informed with the latest youth well-being news and resources from Meta. Including topics on mental health, digital wellness, and teen safety.",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
+      "id": "https://about.fb.com/news/category/data-and-privacy/",
+      "url": "https://about.fb.com/news/category/data-and-privacy/",
+      "title": "Data and Privacy News | Meta Newsroom",
+      "content_text": "Data and Privacy News | Meta Newsroom",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
+      "id": "https://about.fb.com/news/category/integrity-security/",
+      "url": "https://about.fb.com/news/category/integrity-security/",
+      "title": "Integrity and Security Archives | Meta Newsroom",
+      "content_text": "Integrity and Security Archives | Meta Newsroom",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
+      "id": "https://www.blueorigin.com/news/media-inquiries",
+      "url": "https://www.blueorigin.com/news/media-inquiries",
+      "title": "Submit a Media Inquiry | Blue Origin",
+      "content_text": "If you’re a member of the press, please contact us at media@blueorigin.com with your inquiry and deadline.",
+      "attachments": [
+        {
+          "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/BlueOrigin_EarthAtNight.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.blueorigin.com/news/gallery",
+      "url": "https://www.blueorigin.com/news/gallery",
+      "title": "Gallery | Blue Origin",
+      "content_text": "Images available for download. Please credit Blue Origin.",
+      "attachments": [
+        {
+          "url": "https://d3ezn0y6hdgq62.cloudfront.net/assets/og_feather_logo.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.blueorigin.com/news/new-shepard-ns-35-mission",
+      "url": "https://www.blueorigin.com/news/new-shepard-ns-35-mission",
+      "title": "Blue Origin Completes 35th New Shepard Mission | Blue Origin",
+      "content_text": "Blue Origin successfully completed its 35th New Shepard flight and 15th payload mission today from Launch Site One in West Texas.",
+      "attachments": [
+        {
+          "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/NS35_CapsuleDescent.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.blueorigin.com/news/blue-alchemist-hits-major-milestone-toward-permanent-sustainable-lunar-infrastructure",
+      "url": "https://www.blueorigin.com/news/blue-alchemist-hits-major-milestone-toward-permanent-sustainable-lunar-infrastructure",
+      "title": "Blue Alchemist Hits Major Milestone Toward Permanent and Sustainable Lunar Infrastructure | Blue Origin",
+      "content_text": "Blue Origin's pioneering in-space resource utilization system, Blue Alchemist, has successfully completed its Critical Design Review, marking a transformative milestone toward humanity's permanent expansion beyond Earth.",
+      "attachments": [
+        {
+          "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/starrybackground_weblarge.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.blueorigin.com/news/blue-origin-mars-telecommunications-orbiter",
+      "url": "https://www.blueorigin.com/news/blue-origin-mars-telecommunications-orbiter",
+      "title": "The Mission: Blue Origin’s Mars Telecommunications Orbiter | Blue Origin",
+      "content_text": "Built upon our existing and affordable Blue Ring platform, our Mars Telecommunications Orbiter is ready to support NASA’s Mars mission in 2028.",
+      "attachments": [
+        {
+          "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/MarsTelcomOrbiter_BlueOrigin_Rendering-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.blueorigin.com/news/new-shepard-ns-34-mission",
+      "url": "https://www.blueorigin.com/news/new-shepard-ns-34-mission",
+      "title": "Blue Origin’s New Shepard Completes 34th Mission to Space | Blue Origin",
+      "content_text": "Blue Origin successfully completed its 14th human spaceflight and the 34th flight for the New Shepard program.",
+      "attachments": [
+        {
+          "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/NS26Social_NewShepard-Sunrise_HomePageTakeover.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    }
+  ]
+}
