@@ -3,7 +3,7 @@ name: Update Area Feeds (AI/Robotics/Quantum/Biotech/Nanotech)
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "*/30 * * * *"           # every 30 minutes
+    - cron: "*/30 * * * *"  # every 30 minutes
   push:
     branches: [ main ]
     paths:
@@ -16,10 +16,12 @@ on:
       - 'assets/**'
       - 'docs/**'
 
+# Prevent overlapping runs on the same ref
 concurrency:
-  group: area-feeds
+  group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
+# Needed to push updated feeds back to the repo
 permissions:
   contents: write
 
@@ -29,21 +31,24 @@ jobs:
     timeout-minutes: 15
 
     steps:
-      - name: Checkout
+      - name: Checkout (full history for safe pushes)
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true  # use GITHUB_TOKEN for push
+
+      - name: Set up Git (identity & safe directory)
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
-      - name: Cache pip
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('scripts/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
+          cache: "pip"
+          cache-dependency-path: scripts/requirements.txt
 
       - name: Install deps
         run: |
@@ -54,6 +59,10 @@ jobs:
         run: |
           python scripts/build_area_feeds.py
 
+      - name: Ensure feeds directory exists (no-op if present)
+        run: |
+          mkdir -p feeds
+
       - name: Gzip latest feeds (keep originals)
         shell: bash
         run: |
@@ -62,14 +71,25 @@ jobs:
             [ -e "$f" ] && gzip -kf "$f"
           done
 
-      - name: Commit generated files
+      - name: Commit generated files (only if changes)
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          git diff --cached --quiet || git commit -m "chore: update feeds & index [skip ci]"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update feeds & index [skip ci]"
+            # Retry push to avoid rare race with concurrent runs
+            for i in 1 2 3; do
+              git pull --rebase --autostash origin "${GITHUB_REF_NAME:-main}" || true
+              if git push origin "HEAD:${GITHUB_REF_NAME:-main}"; then
+                exit 0
+              fi
+              echo "Push failed, retry $i/3…"
+              sleep 3
+            done
+            echo "Push failed after retries"; exit 1
+          else
+            echo "No changes to commit."
+          fi
 
-      - name: Lightweight repo GC
+      - name: Lightweight repo GC (best-effort)
         run: |
           git gc --prune=now || true
