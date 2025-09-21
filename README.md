@@ -1,4 +1,10 @@
-# 🌌 4th Wave AI Feeds
+<p align="center">
+  <img src="assets/branding/4thwaveai-logo.png" width="250" alt="4th Wave AI Logo"/>
+</p>
+
+<h1 align="center">🌌 4th Wave AI</h1>
+<p align="center"><b>Future-Tech Media & Intelligence Platform</b></p>
+<p align="center">Tracking AI, Robotics, Quantum, Biotech, Nanotech</p>
 
 [![License: BSL → Apache 2.0 (3y)](assets/badges/license-bsl-apache.svg)](./LICENSE.md)
 [![Governing Law: Nevada](https://img.shields.io/badge/Governing%20Law-Nevada-00FFFF?style=flat-square&labelColor=111318)](./LICENSE.md)
