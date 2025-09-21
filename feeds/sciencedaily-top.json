@@ -5,6 +5,66 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sciencedaily-top.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250920214314.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250920214314.htm",
+      "title": "This stunning X-ray advance could help detect cancer earlier",
+      "content_text": "Sandia scientists developed a new type of X-ray that uses patterned multi-metal targets to create colorized, high-resolution images. The technology promises sharper scans, better material detection, and transformative applications in security, manufacturing, and medicine.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/head-scan-brain-cancer-tumor.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250920214309.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250920214309.htm",
+      "title": "Strange new hybrid bird spotted in Texas backyard",
+      "content_text": "In Texas, biologists have documented an extraordinary bird — the natural hybrid offspring of a green jay and a blue jay. Once separated by millions of years of evolution and distinct ranges, the two species were brought together as climate change expanded their territories. A backyard birder’s photo led to the discovery, and after years of elusiveness, scientists confirmed the bird’s identity through genetic testing.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/rare-hybrid-bird-grue-jay.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250920214304.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250920214304.htm",
+      "title": "Hidden gene trick lets ants smell with super precision",
+      "content_text": "Researchers uncovered how ants keep their powerful sense of smell clear: by using a genetic safeguard that silences surrounding receptor genes. This discovery not only solves a decades-old puzzle but also reveals how ants can rapidly evolve new olfactory abilities.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/clonal-raider-ants.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250920214301.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250920214301.htm",
+      "title": "Stunning fossil from the Gobi Desert rewrites dinosaur history",
+      "content_text": "A newly discovered fossil in Mongolia’s Gobi Desert has revealed the oldest and most complete pachycephalosaur ever found, offering a rare glimpse into the early evolution of these dome-headed dinosaurs. Named Zavacephale rinpoche, or “precious one,” this juvenile specimen dates back 108 million years, pushing the group’s fossil record back by 15 million years.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/zava-skull.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/09/250919085252.htm",
       "url": "https://www.sciencedaily.com/releases/2025/09/250919085252.htm",
       "title": "Simple therapies outperform drugs for knee arthritis pain relief",
@@ -237,66 +297,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/microplastics-test-tube-science.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250918225012.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250918225012.htm",
-      "title": "Scientists win Ig Nobel Prize for cracking the code to perfect cacio e pepe",
-      "content_text": "What started as a frustrating kitchen challenge turned into award-winning science: Fabrizio Olmeda and his colleagues scientifically decoded the secret of creamy cacio e pepe and earned the Ig Nobel Prize. Their research showed how starch can stabilize Pecorino into a smooth sauce, turning a culinary mystery into physics-driven perfection.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/cacio-e-pepe-pasta.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250918225010.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250918225010.htm",
-      "title": "Earthquakes release blistering heat that can melt rock in an instant",
-      "content_text": "MIT scientists have unraveled the hidden energy balance of earthquakes by recreating them in the lab. Their findings show that while only a sliver of energy goes into the shaking we feel on the surface, the overwhelming majority is released as heat—sometimes hot enough to melt surrounding rock in an instant.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/rock-slip-earthquake-energy.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250918225006.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250918225006.htm",
-      "title": "Alien water worlds were just a mirage",
-      "content_text": "A new study challenges the dream of water-rich “Hycean” planets like K2-18b, suggesting that most sub-Neptunes lose their water deep into their interiors during formation. Instead of vast oceans, these worlds likely retain only a few percent of water at the surface.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/exoplanet-k2-18b.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250918225004.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250918225004.htm",
-      "title": "Scientists just found the hidden cosmic fingerprints of dark matter",
-      "content_text": "Scientists at Rutgers and collaborators have traced the invisible dark matter scaffolding of the universe using over 100,000 Lyman-alpha emitting galaxies. By studying how these galaxies clustered across three eras shortly after the Big Bang, they mapped dark matter concentrations, uncovering cosmic “fingerprints” that reveal how galaxies grow and evolve.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/dark-matter-fingerprints.webp",
           "mime_type": "image/webp"
         }
       ],
