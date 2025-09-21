@@ -5,6 +5,111 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sciencedaily-top.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250919085252.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250919085252.htm",
+      "title": "Simple therapies outperform drugs for knee arthritis pain relief",
+      "content_text": "A sweeping analysis of nearly 10,000 patients reveals that knee braces, hydrotherapy, and exercise stand out as the most effective non-drug therapies for knee osteoarthritis. Unlike common pain medications that carry risks, these low-cost and accessible options reduce pain, improve mobility, and could shift treatment guidelines toward safer, drug-free approaches.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/arthritis-knee-pain-sitting-senior.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250919085250.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250919085250.htm",
+      "title": "Clear skin in a week with this breakthrough acne patch",
+      "content_text": "Researchers have created a two-stage acne patch with tiny arrowhead-shaped spikes that deliver healing compounds directly under the skin. Trials showed pimples vanished in seven days, and the technology may expand to treat other conditions.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/new-pimple-patch.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250919085248.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250919085248.htm",
+      "title": "New breath sensor detects diabetes quickly and easily",
+      "content_text": "Diabetes affects millions of Americans, and many don’t even realize they have it. Instead of relying on costly and time-consuming lab tests, scientists at Penn State have developed a breath sensor that can detect diabetes and prediabetes within minutes by measuring acetone levels. Built from laser-induced graphene and zinc oxide, the sensor is lightweight, inexpensive, and designed to overcome challenges like humidity in exhaled breath.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/new-diabetes-sensor.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250919085246.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250919085246.htm",
+      "title": "DNA from old ants reveals a hidden insect apocalypse in Fiji",
+      "content_text": "Insects are essential for ecosystems, but mounting evidence suggests many populations are collapsing under modern pressures. A new study used cutting-edge genomic techniques on museum specimens to track centuries of ant biodiversity across Fiji. The results reveal that nearly 80% of native ants are in decline, with losses intensifying in the past few hundred years as human activities expanded.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/fiji-pinned-ant-collection.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250919085244.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250919085244.htm",
+      "title": "Scientists uncover exercise’s secret hunger-busting molecule",
+      "content_text": "Scientists have uncovered how exercise suppresses appetite through a surprising molecular pathway. A compound called Lac-Phe, produced during intense workouts, directly quiets hunger neurons in the brain while boosting appetite-suppressing ones, causing mice to eat less without side effects. This discovery reveals a natural mechanism linking physical activity and reduced hunger, paving the way for new obesity treatments.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/weight-loss-molecule-woman.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250919085242.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250919085242.htm",
+      "title": "New cooling breakthrough nearly doubles efficiency",
+      "content_text": "CHESS thin-film materials nearly double refrigeration efficiency compared to traditional methods. Scalable and versatile, they promise applications from household cooling to space exploration.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/chess-efficient-thermoelectric-cooling-device.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250919085239.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250919085239.htm",
+      "title": "Scientists discover cancer’s hidden power to accelerate aging",
+      "content_text": "New research reveals lymphoma can directly accelerate aging in the immune system and vital organs, independent of treatments like chemotherapy. The changes, sometimes reversible, highlight a hidden dimension of cancer—and possible new paths for intervention.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/malignant-cancer-cell.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/09/250919085237.htm",
       "url": "https://www.sciencedaily.com/releases/2025/09/250919085237.htm",
       "title": "Hardly anyone uses this surprisingly simple fix for high blood pressure",
@@ -192,111 +297,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/dark-matter-fingerprints.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250918225001.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250918225001.htm",
-      "title": "Cosmic simulations that once needed supercomputers now run on a laptop",
-      "content_text": "Astronomers have long relied on supercomputers to simulate the immense structure of the Universe, but a new tool called Effort.jl is changing that. By mimicking the behavior of complex cosmological models, this emulator delivers results with the same accuracy — and sometimes even finer detail — in just minutes on a standard laptop. The breakthrough combines neural networks with clever use of physical knowledge, cutting computation time dramatically while preserving reliability.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/large-scale-structure-of-the-universe.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250918025025.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250918025025.htm",
-      "title": "Scientists build micromotors smaller than a human hair",
-      "content_text": "Using laser light instead of traditional mechanics, researchers have built micro-gears that can spin, shift direction, and even power tiny machines. These breakthroughs could soon lead to revolutionary medical tools working at the scale of cells.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/four-microgears.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250918011602.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250918011602.htm",
-      "title": "Why Alaska’s salmon streams are suddenly bleeding orange",
-      "content_text": "Warming Arctic permafrost is unlocking toxic metals, turning Alaska’s once-clear rivers into orange, acid-laced streams. The shift, eerily similar to mine pollution but entirely natural, threatens fish, ecosystems, and communities that depend on them—with no way to stop the process once it starts.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/alaska-brooks-range.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250917221212.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250917221212.htm",
-      "title": "America is throwing away the minerals that could power its future",
-      "content_text": "America already mines all the critical minerals it needs for energy, defense, and technology, but most are being wasted as mine tailings. Researchers discovered that minerals like cobalt, germanium, and rare earths are discarded in massive amounts, even though recovering just a fraction could eliminate U.S. dependence on imports.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/colorado-climax-mine.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250917221010.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250917221010.htm",
-      "title": "Could plastic in your food be fueling Azheimer’s?",
-      "content_text": "Plastic particles from everyday items like Styrofoam cups and take-out containers are finding their way into the brain, where they may trigger Alzheimer’s-like symptoms. New research shows that mice carrying the Alzheimer’s-linked APOE4 gene who consumed microplastics exhibited sex-dependent cognitive decline, mirroring the differences seen in human patients.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/eating-food-from-styrofoam-takeout-box.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250917221007.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250917221007.htm",
-      "title": "Lasers just made atoms dance, unlocking the future of electronics",
-      "content_text": "Scientists at Michigan State University have discovered how to use ultrafast lasers to wiggle atoms in exotic materials, temporarily altering their electronic behavior. By combining cutting-edge microscopes with quantum simulations, they created a nanoscale switch that could revolutionize smartphones, laptops, and even future quantum computers.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/lasers-atomic-motion.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250917221005.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250917221005.htm",
-      "title": "Tiny protein pairs may hold the secret to life’s origin",
-      "content_text": "A team from the University of Illinois has uncovered surprising evolutionary links between the genetic code and tiny protein fragments called dipeptides. By analyzing billions of dipeptide sequences across thousands of species, the researchers revealed that these molecular pairs trace the earliest steps in the origin of life.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/gustavo-caetano-anolles.webp",
           "mime_type": "image/webp"
         }
       ],

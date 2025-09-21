@@ -189,6 +189,21 @@
       ]
     },
     {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250919085242.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250919085242.htm",
+      "title": "New cooling breakthrough nearly doubles efficiency",
+      "content_text": "CHESS thin-film materials nearly double refrigeration efficiency compared to traditional methods. Scalable and versatile, they promise applications from household cooling to space exploration.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/chess-efficient-thermoelectric-cooling-device.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/09/250917221007.htm",
       "url": "https://www.sciencedaily.com/releases/2025/09/250917221007.htm",
       "title": "Lasers just made atoms dance, unlocking the future of electronics",
@@ -346,21 +361,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/magnetism-quantum-properties.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/08/250814094658.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/08/250814094658.htm",
-      "title": "Scientists just made vibrations so precise they can spot a single molecule",
-      "content_text": "Rice University scientists have discovered a way to make tiny vibrations, called phonons, interfere with each other more strongly than ever before. Using a special sandwich of silver, graphene, and silicon carbide, they created a record-breaking effect so sensitive it can detect a single molecule without labels or complex equipment. This breakthrough could open new possibilities for powerful sensors, quantum devices, and technologies that control heat and energy at the smallest scales.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/quantum-vibrations-sensor-waves.webp",
           "mime_type": "image/webp"
         }
       ],

@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/advanced-materials-technology.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250919085242.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250919085242.htm",
+      "title": "New cooling breakthrough nearly doubles efficiency",
+      "content_text": "CHESS thin-film materials nearly double refrigeration efficiency compared to traditional methods. Scalable and versatile, they promise applications from household cooling to space exploration.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/chess-efficient-thermoelectric-cooling-device.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "advanced-materials-technology"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/09/250917221007.htm",
       "url": "https://www.sciencedaily.com/releases/2025/09/250917221007.htm",
       "title": "Lasers just made atoms dance, unlocking the future of electronics",
@@ -162,21 +177,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/structural-evolution-of-gold-nanoclusters.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "advanced-materials-technology"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250905112312.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250905112312.htm",
-      "title": "These clear windows can secretly produce solar power",
-      "content_text": "Scientists have created a transparent solar coating that turns ordinary windows into clean energy generators without affecting clarity. Using cholesteric liquid crystal layers, the coating redirects polarized sunlight to the window edges where solar cells collect it. A small prototype already powered a fan, and full-sized windows could boost efficiency 50-fold while cutting the need for costly photovoltaic cells.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/sunlight-streams-through-building-windows.webp",
           "mime_type": "image/webp"
         }
       ],
