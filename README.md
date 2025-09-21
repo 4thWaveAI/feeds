@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://builder.hostinger.com/mjEGRKM9zpTV7VJ5" width="240" alt="4th Wave AI Logo"/>
+  <img src="[https://builder.hostinger.com/mjEGRKM9zpTV7VJ5](https://4thwaveai.com/)" width="240" alt="4th Wave AI Logo"/>
 </p>
 
 <h1 align="center">🌌 4th Wave AI Feeds</h1>
