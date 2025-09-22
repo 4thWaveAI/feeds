@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Mon, 22 Sep 2025 16:43:56 +0000</updated>
+  <updated>Mon, 22 Sep 2025 17:30:22 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -20,11 +20,30 @@
     <updated>Thu, 29 Jun 2023 14:53:17 -0400</updated>
   </entry>
   <entry>
+    <title>NASA Media Contacts - NASA</title>
+    <link href="https://www.nasa.gov/news/nasa-media-contacts/"/>
+    <id>https://www.nasa.gov/news/nasa-media-contacts/</id>
+    <summary type="text">Media Contacts Roxana Bardan Mars Sample Return 771-200-7217 Gerelle Dodson NASA Workforce, STEM Engagement 202-358-1600 Jennifer Dooren Deputy News Chief,</summary>
+    <updated>Thu, 29 Jun 2023 14:53:17 -0400</updated>
+  </entry>
+  <entry>
     <title>NASA News</title>
     <link href="https://www.nasa.gov/news/"/>
     <id>https://www.nasa.gov/news/</id>
     <summary type="text">Resources for news media, including NASA news contacts and archived news material</summary>
     <updated>Wed, 07 Dec 2022 13:25:24 -0500</updated>
+  </entry>
+  <entry>
+    <title>La NASA selecciona a los candidatos a astronauta de la promoción 2025, totalmente estadounidense - NASA</title>
+    <link href="https://www.nasa.gov/news-release/la-nasa-selecciona-a-los-candidatos-a-astronauta-de-la-promocion-2025-totalmente-estadounidense/"/>
+    <id>https://www.nasa.gov/news-release/la-nasa-selecciona-a-los-candidatos-a-astronauta-de-la-promocion-2025-totalmente-estadounidense/</id>
+    <summary type="text">Read this press release in English here.</summary>
+  </entry>
+  <entry>
+    <title>NASA Selects All-American 2025 Class of Astronaut Candidates  - NASA</title>
+    <link href="https://www.nasa.gov/news-release/nasa-selects-all-american-2025-class-of-astronaut-candidates/"/>
+    <id>https://www.nasa.gov/news-release/nasa-selects-all-american-2025-class-of-astronaut-candidates/</id>
+    <summary type="text">NASA’s 10 new astronaut candidates were introduced Monday following a competitive selection process of more than 8,000 applicants from across the United</summary>
   </entry>
   <entry>
     <title>NASA Selects Blue Origin to Deliver VIPER Rover to Moon’s South Pole - NASA</title>
@@ -43,12 +62,6 @@
     <link href="https://www.nasa.gov/blogs/spacestation/2025/09/19/nasa-northrop-grumman-collaboration-ensures-resupply-mission-success/"/>
     <id>https://www.nasa.gov/blogs/spacestation/2025/09/19/nasa-northrop-grumman-collaboration-ensures-resupply-mission-success/</id>
     <summary type="text">The crew aboard the International Space Station continue to unpack more than 11,000 pounds of critical spares, food and supplies delivered Sept. 18 by a Cygnus XL commercial resupply mission.  The arrival of the Cygnus XL to the space station was delayed by one day, due to changes in the rendezvous planning resulting from the main spacecraft engine shutting down early on two burns on Sept. 16.</summary>
-  </entry>
-  <entry>
-    <title>Cygnus XL Cargo Craft Installed on Station&#x27;s Unity Module - NASA</title>
-    <link href="https://www.nasa.gov/blogs/spacestation/2025/09/18/cygnus-xl-cargo-craft-installed-on-stations-unity-module/"/>
-    <id>https://www.nasa.gov/blogs/spacestation/2025/09/18/cygnus-xl-cargo-craft-installed-on-stations-unity-module/</id>
-    <summary type="text">Northrop Grumman’s new Cygnus XL spacecraft has been installed to the International Space Station. The mission is known as NASA’s Northrop Grumman Commercial Resupply Services 23, or Northrop Grumman CRS-23.</summary>
   </entry>
   <entry>
     <title>NASA’s Deep Space Communications Demo Exceeds Project Expectations</title>

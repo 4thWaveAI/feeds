@@ -29,6 +29,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "url": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "title": "NASA Media Contacts - NASA",
+      "content_text": "Media Contacts Roxana Bardan Mars Sample Return 771-200-7217 Gerelle Dodson NASA Workforce, STEM Engagement 202-358-1600 Jennifer Dooren Deputy News Chief,",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news/",
       "url": "https://www.nasa.gov/news/",
       "title": "NASA News",
@@ -36,6 +51,36 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2025/05/54492396655-c6ba83df1d-o-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/la-nasa-selecciona-a-los-candidatos-a-astronauta-de-la-promocion-2025-totalmente-estadounidense/",
+      "url": "https://www.nasa.gov/news-release/la-nasa-selecciona-a-los-candidatos-a-astronauta-de-la-promocion-2025-totalmente-estadounidense/",
+      "title": "La NASA selecciona a los candidatos a astronauta de la promoción 2025, totalmente estadounidense - NASA",
+      "content_text": "Read this press release in English here.",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/09/ascans-2-003.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-selects-all-american-2025-class-of-astronaut-candidates/",
+      "url": "https://www.nasa.gov/news-release/nasa-selects-all-american-2025-class-of-astronaut-candidates/",
+      "title": "NASA Selects All-American 2025 Class of Astronaut Candidates  - NASA",
+      "content_text": "NASA’s 10 new astronaut candidates were introduced Monday following a competitive selection process of more than 8,000 applicants from across the United",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/09/ascans-2-003.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -81,21 +126,6 @@
       "attachments": [
         {
           "url": "https://images-assets.nasa.gov/image/iss073e0703409/iss073e0703409~large.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2025/09/18/cygnus-xl-cargo-craft-installed-on-stations-unity-module/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2025/09/18/cygnus-xl-cargo-craft-installed-on-stations-unity-module/",
-      "title": "Cygnus XL Cargo Craft Installed on Station's Unity Module - NASA",
-      "content_text": "Northrop Grumman’s new Cygnus XL spacecraft has been installed to the International Space Station. The mission is known as NASA’s Northrop Grumman Commercial Resupply Services 23, or Northrop Grumman CRS-23.",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2025/09/iss-09-17-25.jpg",
           "mime_type": "image/jpeg"
         }
       ],
