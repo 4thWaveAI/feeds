@@ -189,6 +189,21 @@
       ]
     },
     {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250920214318.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250920214318.htm",
+      "title": "Scientists just made atoms talk to each other inside silicon chips",
+      "content_text": "Researchers at UNSW have found a way to make atomic nuclei communicate through electrons, allowing them to achieve entanglement at scales used in today’s computer chips. This breakthrough brings scalable, silicon-based quantum computing much closer to reality.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/two-nuclear-spins-remotely-entangled.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/09/250919085242.htm",
       "url": "https://www.sciencedaily.com/releases/2025/09/250919085242.htm",
       "title": "New cooling breakthrough nearly doubles efficiency",
@@ -346,21 +361,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/quantum-cryptography-secure-communication.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/08/250816113508.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/08/250816113508.htm",
-      "title": "This simple magnetic trick could change quantum computing forever",
-      "content_text": "Researchers have unveiled a new quantum material that could make quantum computers much more stable by using magnetism to protect delicate qubits from environmental disturbances. Unlike traditional approaches that rely on rare spin-orbit interactions, this method uses magnetic interactions—common in many materials—to create robust topological excitations. Combined with a new computational tool for finding such materials, this breakthrough could pave the way for practical, disturbance-resistant quantum computers.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/magnetism-quantum-properties.webp",
           "mime_type": "image/webp"
         }
       ],

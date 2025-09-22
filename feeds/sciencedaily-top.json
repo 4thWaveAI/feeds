@@ -5,6 +5,171 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sciencedaily-top.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250921090850.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250921090850.htm",
+      "title": "New crystal camera lets doctors see inside the body like never before",
+      "content_text": "Scientists have created a perovskite-based gamma-ray detector that surpasses traditional nuclear medicine imaging technology. The device delivers sharper, faster, and safer scans at a fraction of the cost. By combining crystal engineering with pixelated sensor design, it achieves record imaging resolution. Now being commercialized, it promises to expand access to high-quality diagnostics worldwide.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/advanced-medical-scan-inside-human-body-anatomy.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250921090846.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250921090846.htm",
+      "title": "Ordinary ice found to have shocking electrical powers",
+      "content_text": "Scientists have discovered that ordinary ice is a flexoelectric material, capable of generating electricity when bent or unevenly deformed. At very low temperatures, it can even become ferroelectric, developing reversible electric polarization. This could help explain lightning formation in storms and inspire new technologies that use ice as an active material.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/ice-generates-electricity-when-bent.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250921090841.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250921090841.htm",
+      "title": "Could these strange rocks be the first true evidence of life on Mars?",
+      "content_text": "In Jezero Crater’s Bright Angel formation, Perseverance has found rocks rich in organic molecules and minerals linked to microbial metabolism. Their arrangement hints at redox reactions that resemble Earth’s life-driven chemistry. While not proof of Martian life, the findings qualify as “potential biosignatures” and make the stored sample a top candidate for return to Earth.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/nasa-perseverance-mars-rover-at-bright-angel.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250921090838.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250921090838.htm",
+      "title": "Breakthrough method could dramatically cut prescription drug prices",
+      "content_text": "University of Maine researchers developed a new process to make HBL, a key ingredient in many medicines, from renewable glucose instead of petroleum. The approach not only lowers drug production costs but also reduces emissions.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/prescription-drug-prices.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250921023936.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250921023936.htm",
+      "title": "Hubble reveals baby stars in a galaxy torn by gravity",
+      "content_text": "Hubble’s latest look at Messier 96 reveals a warped spiral galaxy glowing with rings of stellar birth. The new details shed light on how stars emerge and influence their surroundings.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/messier-96-hubble-space-telescope.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250920214459.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250920214459.htm",
+      "title": "Scientists reveal the everyday habits that may shield you from dementia",
+      "content_text": "New studies reveal that lifestyle changes—such as exercise, healthy eating, and social engagement—can help slow or prevent cognitive decline. Experts say this low-cost, powerful approach could transform dementia care and reduce its crushing toll on families and health systems.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/coffee-couple-walking-dog.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250920214455.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250920214455.htm",
+      "title": "Your pancreas may be making its own version of Ozempic",
+      "content_text": "Duke University scientists have discovered that pancreatic alpha cells, long believed to only produce glucagon, actually generate powerful amounts of GLP-1 — the same hormone mimicked by popular diabetes drugs like semaglutide (Ozempic and Wegovy). Even more surprisingly, when glucagon production is blocked, alpha cells “switch gears” and boost GLP-1 output, enhancing insulin release and blood sugar control.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/ozempic-semaglutide-injection-pens.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250920214451.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250920214451.htm",
+      "title": "The surprising way metabolism controls embryo growth",
+      "content_text": "Metabolism does more than fuel embryos—it sets their developmental rhythm. EMBL researchers found that a sugar molecule, FBP, controls the pace of spine formation, suggesting metabolism may act as a biological pacemaker.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/human-fetus-embryo-with-internal-organs.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250920214447.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250920214447.htm",
+      "title": "Neutrinos may be the hidden force behind gold and platinum",
+      "content_text": "When two neutron stars collide, they unleash some of the most powerful forces in the universe, creating ripples in spacetime, showers of radiation, and even the building blocks of gold and platinum. Now, new simulations from Penn State and the University of Tennessee Knoxville reveal that elusive particles called neutrinos—able to shift between different “flavors”—play a crucial role in shaping what emerges from these cataclysmic events.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/neutron-star-merger-remnant.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250920214427.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250920214427.htm",
+      "title": "NASA just confirmed its 6,000th alien world. Some are truly bizarre",
+      "content_text": "NASA has confirmed 6,000 exoplanets, marking a major milestone in humanity’s quest to understand other worlds. From gas giants hugging their stars to planets covered in lava or clouds of gemstones, the diversity of discoveries is staggering. With upcoming missions like the Roman Space Telescope and the Habitable Worlds Observatory, scientists are getting closer to detecting Earth-like planets, and possibly signs of life.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/nasa-confirms-6000-exoplanets.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250920214318.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250920214318.htm",
+      "title": "Scientists just made atoms talk to each other inside silicon chips",
+      "content_text": "Researchers at UNSW have found a way to make atomic nuclei communicate through electrons, allowing them to achieve entanglement at scales used in today’s computer chips. This breakthrough brings scalable, silicon-based quantum computing much closer to reality.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/two-nuclear-spins-remotely-entangled.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/09/250920214314.htm",
       "url": "https://www.sciencedaily.com/releases/2025/09/250920214314.htm",
       "title": "This stunning X-ray advance could help detect cancer earlier",
@@ -132,171 +297,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/weight-loss-molecule-woman.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250919085242.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250919085242.htm",
-      "title": "New cooling breakthrough nearly doubles efficiency",
-      "content_text": "CHESS thin-film materials nearly double refrigeration efficiency compared to traditional methods. Scalable and versatile, they promise applications from household cooling to space exploration.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/chess-efficient-thermoelectric-cooling-device.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250919085239.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250919085239.htm",
-      "title": "Scientists discover cancer’s hidden power to accelerate aging",
-      "content_text": "New research reveals lymphoma can directly accelerate aging in the immune system and vital organs, independent of treatments like chemotherapy. The changes, sometimes reversible, highlight a hidden dimension of cancer—and possible new paths for intervention.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/malignant-cancer-cell.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250919085237.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250919085237.htm",
-      "title": "Hardly anyone uses this surprisingly simple fix for high blood pressure",
-      "content_text": "Despite strong evidence that salt substitutes can safely lower sodium intake and reduce high blood pressure, very few Americans use them. A new analysis of nearly 20 years of national health data found that usage peaked at just over 5% and then declined, even among those with hypertension. Researchers say this represents a major missed opportunity to improve heart health, especially since salt substitutes are inexpensive and effective.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/blood-pressure-measurement-heart-cardiology.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250919085235.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250919085235.htm",
-      "title": "Smoking’s hidden gut bacteria trick may lead to new colitis treatments",
-      "content_text": "For decades, scientists have puzzled over why smoking makes Crohn’s disease worse but seems to protect people from ulcerative colitis. Now, researchers at RIKEN have discovered that smoking creates metabolites like hydroquinone that allow mouth bacteria—especially Streptococcus mitis—to settle in the gut. These bacteria spark an immune response that reduces inflammation in colitis but worsens Crohn’s. The findings open the door to new therapies using probiotics or targeted compounds that mimic smoking’s protective effects without its deadly risks.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/healthy-large-intestine-anatomy.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250919085232.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250919085232.htm",
-      "title": "Forgotten royal warship sunk 500 years ago reveals surprising secrets",
-      "content_text": "From the wreck of the royal Danish-Norwegian flagship Gribshunden, archaeologists have uncovered a rare glimpse into the naval power of the late Middle Ages. This warship, lost in 1495, carried an arsenal of small guns designed for close-range combat, symbolizing the technological leap that allowed European nations to dominate the seas. More than just a vessel, it served as King Hans’ floating castle, projecting both diplomatic influence and military might.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/gribshunden-gun-bed.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250918230811.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250918230811.htm",
-      "title": "Shocking study exposes widespread math research fraud",
-      "content_text": "A sweeping investigation has revealed widespread fraud in mathematics publishing, where commercial metrics and rankings have incentivized the mass production of meaningless or flawed papers. The study highlights shocking distortions—such as a university without a math department ranked as having the most top mathematicians—and the explosion of megajournals willing to publish anything for a fee.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/fake-news-blocks.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250918225022.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250918225022.htm",
-      "title": "Egg-eating worms could be the secret to saving Chesapeake Bay’s blue crabs",
-      "content_text": "Egg-eating worms living on Chesapeake Bay blue crabs may hold the key to smarter fishery management. Once thought to be a threat, these parasites actually serve as natural biomarkers that reveal when and how often female crabs reproduce. Researchers found the worms are surprisingly resilient to varying salinity levels, meaning they can track crab spawning across the Bay.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/egg-bearing-blue-crab.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250918225020.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250918225020.htm",
-      "title": "Scientists finally reveal the hidden mechanism linking alcohol to fatty liver",
-      "content_text": "Mayo Clinic scientists uncovered how excessive drinking triggers fatty liver disease by disrupting the enzyme VCP, which normally prevents harmful protein buildup on fat droplets in the liver. Alcohol blocks this protective process, allowing fat to accumulate and damage liver cells.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/diseased-liver-illustration.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250918225018.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250918225018.htm",
-      "title": "Alcohol’s hidden shortcut lets gut bacteria wreck the liver",
-      "content_text": "Alcohol-associated liver disease is becoming a massive health and economic burden, but researchers at UC San Diego may have uncovered a new way forward. They discovered that chronic alcohol use blocks a crucial protein that normally helps keep gut bacteria from leaking into the liver, worsening damage. Restoring this protein’s function, using drugs already in development, could not only reduce liver disease but also have implications for treating alcohol addiction itself.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/small-intestine-organoid.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250918225016.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250918225016.htm",
-      "title": "Wildfire smoke could kill 70,000 Americans a year by 2050",
-      "content_text": "Wildfires are no longer a seasonal nuisance but a deadly, nationwide health crisis. Fueled by climate change, smoke is spreading farther and lingering longer, with new research warning of tens of thousands of additional deaths annually by mid-century. The health costs alone could surpass all other climate damages combined, revealing wildfire smoke as one of the most underestimated threats of our warming world.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/smoky-forest-fire.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250918225014.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250918225014.htm",
-      "title": "Scientists discover microplastics deep inside human bones",
-      "content_text": "Microplastics have been detected in human blood, brain tissue, and even bones, where they may weaken skeletal structure and accelerate cell aging. Recent studies suggest that these particles could worsen metabolic bone diseases like osteoporosis, a risk that’s especially concerning as fractures are projected to rise sharply in the coming decades.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/microplastics-test-tube-science.webp",
           "mime_type": "image/webp"
         }
       ],

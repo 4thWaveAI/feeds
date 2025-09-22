@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/advanced-materials-technology.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250920214318.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250920214318.htm",
+      "title": "Scientists just made atoms talk to each other inside silicon chips",
+      "content_text": "Researchers at UNSW have found a way to make atomic nuclei communicate through electrons, allowing them to achieve entanglement at scales used in today’s computer chips. This breakthrough brings scalable, silicon-based quantum computing much closer to reality.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/two-nuclear-spins-remotely-entangled.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "advanced-materials-technology"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/09/250919085242.htm",
       "url": "https://www.sciencedaily.com/releases/2025/09/250919085242.htm",
       "title": "New cooling breakthrough nearly doubles efficiency",
@@ -162,21 +177,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/instant-convolution-silicon-photonic-chip.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "advanced-materials-technology"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250905180734.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250905180734.htm",
-      "title": "Tiny gold quantum needles with astonishing powers discovered",
-      "content_text": "Scientists at the University of Tokyo have unveiled “gold quantum needles,” a newly discovered nanocluster structure formed under unusual synthesis conditions. Unlike typical spherical clusters, these elongated, pencil-shaped formations display unique quantum behaviors and respond to near-infrared light, making them promising tools for biomedical imaging and energy applications.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/structural-evolution-of-gold-nanoclusters.webp",
           "mime_type": "image/webp"
         }
       ],

@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/mark-zuckerberg.atom.xml"/>
   <id>urn:4thwaveai-feeds:mark-zuckerberg</id>
-  <updated>Sun, 21 Sep 2025 05:41:35 +0000</updated>
+  <updated>Mon, 22 Sep 2025 05:44:13 +0000</updated>
   <entry>
     <title>Latest Meta Company News | Meta Newsroom</title>
     <link href="https://about.fb.com/news/category/technologies/meta/"/>
@@ -48,9 +48,9 @@
     <summary type="text">Data and Privacy News | Meta Newsroom</summary>
   </entry>
   <entry>
-    <title>Integrity and Security Archives | Meta Newsroom</title>
-    <link href="https://about.fb.com/news/category/integrity-security/"/>
-    <id>https://about.fb.com/news/category/integrity-security/</id>
-    <summary type="text">Integrity and Security Archives | Meta Newsroom</summary>
+    <title>Security News Archives | Meta Newsroom</title>
+    <link href="https://about.fb.com/news/tag/security/"/>
+    <id>https://about.fb.com/news/tag/security/</id>
+    <summary type="text">The latest updates on our work to keep people safe on our apps and protect our platform from abuse.</summary>
   </entry>
 </feed>

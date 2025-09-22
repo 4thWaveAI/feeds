@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.atom.xml"/>
   <id>urn:4thwaveai-feeds:nanotech</id>
-  <updated>Sun, 21 Sep 2025 05:40:29 +0000</updated>
+  <updated>Mon, 22 Sep 2025 05:43:07 +0000</updated>
   <entry>
     <title>New method for making graphene turns defects into improvements</title>
     <link href="https://phys.org/news/2025-09-method-graphene-defects.html"/>
@@ -78,6 +78,12 @@
     <summary type="text">Researchers at Michigan State University have figured out how to use a fast laser to wiggle atoms in a way that temporarily changes the behavior of their host material. Their novel approach could lead to smaller and more efficient electronics—like smartphones—in the future.</summary>
   </entry>
   <entry>
+    <title>Scientists just made atoms talk to each other inside silicon chips</title>
+    <link href="https://www.sciencedaily.com/releases/2025/09/250920214318.htm"/>
+    <id>https://www.sciencedaily.com/releases/2025/09/250920214318.htm</id>
+    <summary type="text">Researchers at UNSW have found a way to make atomic nuclei communicate through electrons, allowing them to achieve entanglement at scales used in today’s computer chips. This breakthrough brings scalable, silicon-based quantum computing much closer to reality.</summary>
+  </entry>
+  <entry>
     <title>New cooling breakthrough nearly doubles efficiency</title>
     <link href="https://www.sciencedaily.com/releases/2025/09/250919085242.htm"/>
     <id>https://www.sciencedaily.com/releases/2025/09/250919085242.htm</id>
@@ -142,11 +148,5 @@
     <link href="https://www.sciencedaily.com/releases/2025/08/250822073814.htm"/>
     <id>https://www.sciencedaily.com/releases/2025/08/250822073814.htm</id>
     <summary type="text">By using quantum dots and smart encryption protocols, researchers overcame a 40-year barrier in quantum communication, showing that secure networks don’t need perfect hardware to outperform today’s best systems.</summary>
-  </entry>
-  <entry>
-    <title>This simple magnetic trick could change quantum computing forever</title>
-    <link href="https://www.sciencedaily.com/releases/2025/08/250816113508.htm"/>
-    <id>https://www.sciencedaily.com/releases/2025/08/250816113508.htm</id>
-    <summary type="text">Researchers have unveiled a new quantum material that could make quantum computers much more stable by using magnetism to protect delicate qubits from environmental disturbances. Unlike traditional approaches that rely on rare spin-orbit interactions, this method uses magnetic interactions—common in many materials—to create robust topological excitations. Combined with a new computational tool for finding such materials, this breakthrough could pave the way for practical, disturbance-resistant quantum computers.</summary>
   </entry>
 </feed>
