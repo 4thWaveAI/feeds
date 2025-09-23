@@ -5,6 +5,156 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sciencedaily-top.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250922074947.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250922074947.htm",
+      "title": "Childhood plastic exposure could be fueling obesity, infertility, and asthma",
+      "content_text": "A sweeping review from NYU Langone Health reveals that everyday exposure to plastics—especially during childhood—poses lasting risks for heart disease, infertility, asthma, and even brain development issues. These chemicals, found in packaging, cosmetics, and common household items, can disrupt hormones, ignite chronic inflammation, and lower IQ.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/baby-boy-biting-plastic-toy-in-mouth.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250922074945.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250922074945.htm",
+      "title": "Sneezing from cats or dust? Safe UV light may neutralize allergens in minutes",
+      "content_text": "Sneezing from cats, dust mites, or mold may one day be preventable with a flip of a switch. Researchers at CU Boulder found that UV222 light can alter allergen proteins, reducing allergic reactions without dangerous side effects. Within 30 minutes, airborne allergens decreased by up to 25%. The team imagines portable devices that could shield people in homes, schools, and workplaces from harmful triggers.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/sneezing-pet-allergies-cat.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250922074938.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250922074938.htm",
+      "title": "The shocking reason Arctic rivers are turning rusty orange",
+      "content_text": "Researchers found that ice can trigger stronger chemical reactions than liquid water, dissolving iron minerals in extreme cold. Freeze-thaw cycles amplify the effect, releasing iron into rivers and soils. With climate change accelerating these cycles, Arctic waterways may face major transformations.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/rusty-kutuk-river.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250922074936.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250922074936.htm",
+      "title": "Scientists finally capture water’s hidden state that’s both solid and liquid",
+      "content_text": "Water, though familiar, still hides astonishing secrets. When squeezed into nanosized channels, it can enter a bizarre “premelting state” that is both solid and liquid at once. Using advanced NMR techniques, Japanese researchers directly observed this strange new phase, revealing that confined water molecules move like a liquid while maintaining solid-like order.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/physics-water-explosion.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250921091002.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250921091002.htm",
+      "title": "A hormone that silences the immune system may unlock new cancer treatments",
+      "content_text": "Scientists have discovered that cancer uses a hidden hormone to switch off the body’s natural defenses, allowing tumors to grow unchecked. By uncovering this secret signal, they found a way to block it and restore the immune system’s ability to fight back. The breakthrough not only hints at powerful new cancer treatments but also suggests the same pathway could someday be used to calm autoimmune diseases.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/t-cells-cancer-cells.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250921090904.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250921090904.htm",
+      "title": "When cancer cells feel squeezed, they become more dangerous",
+      "content_text": "New research shows that cancer cells don’t just grow; they adapt when stressed. When squeezed inside tissues, they transform into more invasive, drug-resistant versions of themselves. A protein called HMGB2 helps flip this dangerous switch, giving the cells new powers to escape. The findings reveal how the tumor’s environment itself can drive cancer’s deadly flexibility.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/cancer-cell-infecting-healthy-tissue.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250921090902.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250921090902.htm",
+      "title": "Want a younger brain? Harvard researchers say eat like this",
+      "content_text": "Researchers have shown that a green-Mediterranean diet can help slow brain aging. By analyzing data from the DIRECT PLUS trial, scientists found reduced levels of proteins tied to faster brain decline among those consuming green tea and Mankai. The results point to anti-inflammatory compounds as key protectors of brain health. This diet may be a powerful tool for preserving cognitive function.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/green-tea-and-salad.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250921090859.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250921090859.htm",
+      "title": "Why alcohol blocks the liver from healing, even after you quit",
+      "content_text": "Alcohol doesn’t just damage the liver — it locks its cells in a strange “in-between” state that prevents them from healing. Even after someone quits drinking, liver cells often get stuck, unable to function normally or regenerate. Scientists have now traced this problem to runaway inflammation, which scrambles the cell’s instructions and silences a key helper protein. By blocking these inflammatory signals in lab tests, they were able to restore the liver’s healing ability — a finding that could point to new treatments beyond transplants.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/man-suffering-liver-pain.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250921090857.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250921090857.htm",
+      "title": "Hidden for 125 years, a Welsh fossil turns out to be a dinosaur",
+      "content_text": "More than a century after its discovery, a mysterious fossil from South Wales has finally been confirmed as belonging to a new species of predatory dinosaur. Using cutting-edge digital scanning, researchers reconstructed the long-lost jawbone, revealing unique features that warranted a new name: Newtonsaurus.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/newtonsaurus-fossil-jawbone-specimen.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250921090853.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250921090853.htm",
+      "title": "Tiny new lenses, smaller than a hair, could transform phone and drone cameras",
+      "content_text": "Scientists have developed a new multi-layered metalens design that could revolutionize portable optics in devices like phones, drones, and satellites. By stacking metamaterial layers instead of relying on a single one, the team overcame fundamental limits in focusing multiple wavelengths of light. Their algorithm-driven approach produced intricate nanostructures shaped like clovers, propellers, and squares, enabling improved performance, scalability, and polarization independence.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/metamaterial-lenses-for-phones-and-drones.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/09/250921090850.htm",
       "url": "https://www.sciencedaily.com/releases/2025/09/250921090850.htm",
       "title": "New crystal camera lets doctors see inside the body like never before",
@@ -147,156 +297,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/nasa-confirms-6000-exoplanets.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250920214318.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250920214318.htm",
-      "title": "Scientists just made atoms talk to each other inside silicon chips",
-      "content_text": "Researchers at UNSW have found a way to make atomic nuclei communicate through electrons, allowing them to achieve entanglement at scales used in today’s computer chips. This breakthrough brings scalable, silicon-based quantum computing much closer to reality.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/two-nuclear-spins-remotely-entangled.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250920214314.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250920214314.htm",
-      "title": "This stunning X-ray advance could help detect cancer earlier",
-      "content_text": "Sandia scientists developed a new type of X-ray that uses patterned multi-metal targets to create colorized, high-resolution images. The technology promises sharper scans, better material detection, and transformative applications in security, manufacturing, and medicine.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/head-scan-brain-cancer-tumor.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250920214309.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250920214309.htm",
-      "title": "Strange new hybrid bird spotted in Texas backyard",
-      "content_text": "In Texas, biologists have documented an extraordinary bird — the natural hybrid offspring of a green jay and a blue jay. Once separated by millions of years of evolution and distinct ranges, the two species were brought together as climate change expanded their territories. A backyard birder’s photo led to the discovery, and after years of elusiveness, scientists confirmed the bird’s identity through genetic testing.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/rare-hybrid-bird-grue-jay.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250920214304.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250920214304.htm",
-      "title": "Hidden gene trick lets ants smell with super precision",
-      "content_text": "Researchers uncovered how ants keep their powerful sense of smell clear: by using a genetic safeguard that silences surrounding receptor genes. This discovery not only solves a decades-old puzzle but also reveals how ants can rapidly evolve new olfactory abilities.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/clonal-raider-ants.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250920214301.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250920214301.htm",
-      "title": "Stunning fossil from the Gobi Desert rewrites dinosaur history",
-      "content_text": "A newly discovered fossil in Mongolia’s Gobi Desert has revealed the oldest and most complete pachycephalosaur ever found, offering a rare glimpse into the early evolution of these dome-headed dinosaurs. Named Zavacephale rinpoche, or “precious one,” this juvenile specimen dates back 108 million years, pushing the group’s fossil record back by 15 million years.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/zava-skull.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250919085252.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250919085252.htm",
-      "title": "Simple therapies outperform drugs for knee arthritis pain relief",
-      "content_text": "A sweeping analysis of nearly 10,000 patients reveals that knee braces, hydrotherapy, and exercise stand out as the most effective non-drug therapies for knee osteoarthritis. Unlike common pain medications that carry risks, these low-cost and accessible options reduce pain, improve mobility, and could shift treatment guidelines toward safer, drug-free approaches.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/arthritis-knee-pain-sitting-senior.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250919085250.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250919085250.htm",
-      "title": "Clear skin in a week with this breakthrough acne patch",
-      "content_text": "Researchers have created a two-stage acne patch with tiny arrowhead-shaped spikes that deliver healing compounds directly under the skin. Trials showed pimples vanished in seven days, and the technology may expand to treat other conditions.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/new-pimple-patch.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250919085248.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250919085248.htm",
-      "title": "New breath sensor detects diabetes quickly and easily",
-      "content_text": "Diabetes affects millions of Americans, and many don’t even realize they have it. Instead of relying on costly and time-consuming lab tests, scientists at Penn State have developed a breath sensor that can detect diabetes and prediabetes within minutes by measuring acetone levels. Built from laser-induced graphene and zinc oxide, the sensor is lightweight, inexpensive, and designed to overcome challenges like humidity in exhaled breath.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/new-diabetes-sensor.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250919085246.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250919085246.htm",
-      "title": "DNA from old ants reveals a hidden insect apocalypse in Fiji",
-      "content_text": "Insects are essential for ecosystems, but mounting evidence suggests many populations are collapsing under modern pressures. A new study used cutting-edge genomic techniques on museum specimens to track centuries of ant biodiversity across Fiji. The results reveal that nearly 80% of native ants are in decline, with losses intensifying in the past few hundred years as human activities expanded.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/fiji-pinned-ant-collection.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250919085244.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250919085244.htm",
-      "title": "Scientists uncover exercise’s secret hunger-busting molecule",
-      "content_text": "Scientists have uncovered how exercise suppresses appetite through a surprising molecular pathway. A compound called Lac-Phe, produced during intense workouts, directly quiets hunger neurons in the brain while boosting appetite-suppressing ones, causing mice to eat less without side effects. This discovery reveals a natural mechanism linking physical activity and reduced hunger, paving the way for new obesity treatments.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/weight-loss-molecule-woman.webp",
           "mime_type": "image/webp"
         }
       ],

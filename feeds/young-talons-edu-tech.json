@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/young-talons-edu-tech.json",
   "items": [
     {
+      "id": "https://www.edsurge.com/news/2025-09-22-at-this-rural-microschool-students-will-study-with-ai-and-run-an-airbnb",
+      "url": "https://www.edsurge.com/news/2025-09-22-at-this-rural-microschool-students-will-study-with-ai-and-run-an-airbnb",
+      "title": "At This Rural Microschool, Students Will Study With AI and Run an Airbnb - EdSurge News",
+      "content_text": "A rural district in North Carolina is putting its hopes in a new microschool where students operate an Airbnb and study through AI-powered lessons.",
+      "attachments": [
+        {
+          "url": "https://edsurge.imgix.net/uploads/post/image/16445/shutterstock_2425657115-1758126971.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "young-talons-edu-tech"
+      ]
+    },
+    {
       "id": "https://www.edsurge.com/news/2025-09-19-two-moms-and-trump-s-head-start-rule-child-care-shortages-meet-anti-immigrant-politics",
       "url": "https://www.edsurge.com/news/2025-09-19-two-moms-and-trump-s-head-start-rule-child-care-shortages-meet-anti-immigrant-politics",
       "title": "Two Moms and Trump’s Head Start Rule: Child Care Shortages Meet Anti-Immigrant Politics - EdSurge News",
@@ -80,21 +95,6 @@
       ]
     },
     {
-      "id": "https://www.edsurge.com/news/2025-09-12-how-schools-are-helping-students-feel-safe-enough-to-attend-class-amid-immigration-raids",
-      "url": "https://www.edsurge.com/news/2025-09-12-how-schools-are-helping-students-feel-safe-enough-to-attend-class-amid-immigration-raids",
-      "title": "How Schools Are Helping Students Feel Safe Enough to Attend Amid Immigration Raids - EdSurge News",
-      "content_text": "“What they see are their classmates, their family members, their neighbors often being apprehended in violent and confusing ways, and this for children ...",
-      "attachments": [
-        {
-          "url": "https://edsurge.imgix.net/uploads/post/image/16439/Shutterstock_655869010-1757633166.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "young-talons-edu-tech"
-      ]
-    },
-    {
       "id": "https://www.edsurge.com/news/early-childhood",
       "url": "https://www.edsurge.com/news/early-childhood",
       "title": "Early Childhood - News - EdSurge",
@@ -158,7 +158,7 @@
       "id": "https://hechingerreport.org/category/news/",
       "url": "https://hechingerreport.org/category/news/",
       "title": "News Archives - The Hechinger Report",
-      "content_text": "Writing can be hard, equal parts heavy lifting and drudgery. No wonder so many students are turning to the time-saving allure of ChatGPT, which can crank out entire papers in seconds. It rescues them from procrastination jams and dreaded all-nighters, magically freeing up more time for other pursuits, like, say … doomscrolling. This story also […]",
+      "content_text": "For many Americans, the specter of missing children evokes forlorn images on milk cartons or Amber alerts on cell phones. But a new report from the Brookings Institution suggests that the pandemic may have created a new generation of lost kids — this time, from classrooms.  This story also appeared in Mind/Shift Lost but not […]",
       "attachments": [
         {
           "url": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2016/09/Hechinger_social_avatar.png?fit=229%2C230&ssl=1",
@@ -191,7 +191,7 @@
       "id": "https://news.mit.edu/topic/machine-learning",
       "url": "https://news.mit.edu/topic/machine-learning",
       "title": "Machine learning | MIT News | Massachusetts Institute of Technology",
-      "content_text": "At the inaugural MIT Generative AI Impact Consortium Symposium, researchers and business leaders discussed potential advancements centered on this powerful technology.",
+      "content_text": "With SCIGEN, researchers can steer AI models to create materials with exotic properties for applications like quantum computing.",
       "tags": [
         "young-talons-edu-tech"
       ]

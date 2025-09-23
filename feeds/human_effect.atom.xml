@@ -4,7 +4,28 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/human_effect.atom.xml"/>
   <id>urn:4thwaveai-feeds:human_effect</id>
-  <updated>Mon, 22 Sep 2025 05:45:47 +0000</updated>
+  <updated>Tue, 23 Sep 2025 05:45:16 +0000</updated>
+  <entry>
+    <title>Can AI&#x27;s Intelligence Be Measured Like Human IQ?</title>
+    <link href="https://spectrum.ieee.org/agi-benchmark"/>
+    <id>https://spectrum.ieee.org/agi-benchmark</id>
+    <summary type="text">AI leaders predict AGI soon, but how close are we really to AI that thinks like us? The challenges of testing machine intelligence make it hard to say.</summary>
+    <updated>Mon, 22 Sep 2025 13:01:02 +0000</updated>
+  </entry>
+  <entry>
+    <title>Can You Solve the Puzzles That Stump AI Models?</title>
+    <link href="https://spectrum.ieee.org/arc-prize-agi-test"/>
+    <id>https://spectrum.ieee.org/arc-prize-agi-test</id>
+    <summary type="text">Think you can outsmart AI? Try these visual puzzles and see how you measure up.</summary>
+    <updated>Mon, 22 Sep 2025 13:00:02 +0000</updated>
+  </entry>
+  <entry>
+    <title>Blue Alchemist Could Turn Lunar Dust Into Vital Resources</title>
+    <link href="https://spectrum.ieee.org/blue-origin-molten-regolith-electrolysis"/>
+    <id>https://spectrum.ieee.org/blue-origin-molten-regolith-electrolysis</id>
+    <summary type="text">Blue Origin&#x27;s Blue Alchemist could make lunar landings 60 percent cheaper by using lunar resources to fabricate infrastructure.</summary>
+    <updated>Sun, 21 Sep 2025 13:00:02 +0000</updated>
+  </entry>
   <entry>
     <title>Is a Billion Dollars Enough for Figure to Make Humanoids Happen?</title>
     <link href="https://spectrum.ieee.org/video-friday-billion-humanoid-robots"/>
@@ -125,32 +146,11 @@
     <updated>Sun, 14 Sep 2025 13:00:02 +0000</updated>
   </entry>
   <entry>
-    <title>The Newest Humanoid Robot Is a Warm, Soft Companion</title>
-    <link href="https://spectrum.ieee.org/video-friday-soft-robot-companion"/>
-    <id>https://spectrum.ieee.org/video-friday-soft-robot-companion</id>
-    <summary type="text">Meet the Care-bot GR-3: A soft-touch companion bringing &quot;warm tech companionship&quot; to life.</summary>
-    <updated>Fri, 12 Sep 2025 17:04:10 +0000</updated>
-  </entry>
-  <entry>
     <title>How Falcon LLM is reshaping accessibility through model efficiency</title>
     <link href="https://aiforgood.itu.int/how-falcon-llm-is-reshaping-accessibility-through-model-efficiency/"/>
     <id>https://aiforgood.itu.int/how-falcon-llm-is-reshaping-accessibility-through-model-efficiency/</id>
     <summary type="text">Connect with 51K enthusiasts from all over the world.</summary>
     <updated>Fri, 12 Sep 2025 05:30:31 +0000</updated>
-  </entry>
-  <entry>
-    <title>Are You Ready to Transition from Engineer to Manager?</title>
-    <link href="https://spectrum.ieee.org/faster-career-growth"/>
-    <id>https://spectrum.ieee.org/faster-career-growth</id>
-    <summary type="text">Curious about the path from IC to manager? Discover the nuances of tech career growth.</summary>
-    <updated>Thu, 11 Sep 2025 19:55:38 +0000</updated>
-  </entry>
-  <entry>
-    <title>Celebrate IEEE Day With Events and Contests Worldwide</title>
-    <link href="https://spectrum.ieee.org/ieee-day-2025"/>
-    <id>https://spectrum.ieee.org/ieee-day-2025</id>
-    <summary type="text">Celebrate IEEE Day 2025 with thousands of events worldwide, from hackathons to cultural showcases. Be part of the movement.</summary>
-    <updated>Thu, 11 Sep 2025 18:00:05 +0000</updated>
   </entry>
   <entry>
     <title>Our Bodies Know Before We Do | IONS</title>
@@ -325,6 +325,24 @@
     <summary type="text">Dr Fabian Braesemann explores how rental levels in Vienna responded to the Covid-19 pandemic and asks what we can learn from Vienna to solve the global housing crisis.</summary>
   </entry>
   <entry>
+    <title>The Download: the LLM will see you now, and a new fusion power deal</title>
+    <link href="https://www.technologyreview.com/2025/09/22/1123889/the-download-the-llm-will-see-you-now-and-a-new-fusion-power-deal/"/>
+    <id>https://www.technologyreview.com/2025/09/22/1123889/the-download-the-llm-will-see-you-now-and-a-new-fusion-power-deal/</id>
+    <summary type="text">Plus: the Trump administration is preparing to link Tylenol to autism</summary>
+  </entry>
+  <entry>
+    <title>An oil and gas giant signed a $1 billion deal with Commonwealth Fusion Systems</title>
+    <link href="https://www.technologyreview.com/2025/09/22/1123870/commonwealth-fusion-eni/"/>
+    <id>https://www.technologyreview.com/2025/09/22/1123870/commonwealth-fusion-eni/</id>
+    <summary type="text">The power purchase agreement makes Eni the second major customer for Commonwealth’s first commercial fusion power plant.</summary>
+  </entry>
+  <entry>
+    <title>This medical startup uses LLMs to run appointments and make diagnoses</title>
+    <link href="https://www.technologyreview.com/2025/09/22/1123873/medical-diagnosis-llm/"/>
+    <id>https://www.technologyreview.com/2025/09/22/1123873/medical-diagnosis-llm/</id>
+    <summary type="text">“Our focus is really on what we can do to pull the doctor out of the visit,” says Akido’s CTO.</summary>
+  </entry>
+  <entry>
     <title>The Download: the CDC’s vaccine chaos</title>
     <link href="https://www.technologyreview.com/2025/09/19/1123860/the-download-the-cdcs-vaccine-chaos/"/>
     <id>https://www.technologyreview.com/2025/09/19/1123860/the-download-the-cdcs-vaccine-chaos/</id>
@@ -365,24 +383,6 @@
     <link href="https://www.technologyreview.com/2025/09/17/1123760/how-to-measure-the-returns-to-rd-spending/"/>
     <id>https://www.technologyreview.com/2025/09/17/1123760/how-to-measure-the-returns-to-rd-spending/</id>
     <summary type="text">Forget the glorious successes of past breakthroughs—the real justification for research investment is what we get for our money. Here’s what economists say.</summary>
-  </entry>
-  <entry>
-    <title>De-risking investment in AI agents</title>
-    <link href="https://www.technologyreview.com/2025/09/16/1123592/de-risking-investment-in-ai-agents/"/>
-    <id>https://www.technologyreview.com/2025/09/16/1123592/de-risking-investment-in-ai-agents/</id>
-    <summary type="text">AI agents thrive when trust is designed in from the start, says vice president of product management at NICE, Neeraj Verma.</summary>
-  </entry>
-  <entry>
-    <title>The Download: regulators are coming for AI companions, and meet our Innovator of 2025</title>
-    <link href="https://www.technologyreview.com/2025/09/16/1123695/the-download-regulators-are-coming-for-ai-companions-and-meet-our-innovator-of-2025/"/>
-    <id>https://www.technologyreview.com/2025/09/16/1123695/the-download-regulators-are-coming-for-ai-companions-and-meet-our-innovator-of-2025/</id>
-    <summary type="text">Plus: childhood vaccination rates are down across America</summary>
-  </entry>
-  <entry>
-    <title>The looming crackdown on AI companionship</title>
-    <link href="https://www.technologyreview.com/2025/09/16/1123614/the-looming-crackdown-on-ai-companionship/"/>
-    <id>https://www.technologyreview.com/2025/09/16/1123614/the-looming-crackdown-on-ai-companionship/</id>
-    <summary type="text">The risks posed when kids form bonds with chatbots have turned AI safety from an abstract worry into a political flashpoint. What happens now?</summary>
   </entry>
   <entry>
     <title>The AI Ethics Brief #172: The State of AI Ethics in 2025: What&#x27;s Actually Working</title>

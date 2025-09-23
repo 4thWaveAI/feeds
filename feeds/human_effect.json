@@ -5,6 +5,51 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/human_effect.json",
   "items": [
     {
+      "id": "https://spectrum.ieee.org/agi-benchmark",
+      "url": "https://spectrum.ieee.org/agi-benchmark",
+      "title": "Can AI's Intelligence Be Measured Like Human IQ?",
+      "content_text": "AI leaders predict AGI soon, but how close are we really to AI that thinks like us? The challenges of testing machine intelligence make it hard to say.",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/image.png?id=61613469&width=1200&height=600&coordinates=0%2C1063%2C0%2C1063",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/arc-prize-agi-test",
+      "url": "https://spectrum.ieee.org/arc-prize-agi-test",
+      "title": "Can You Solve the Puzzles That Stump AI Models?",
+      "content_text": "Think you can outsmart AI? Try these visual puzzles and see how you measure up.",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/blue-origin-molten-regolith-electrolysis",
+      "url": "https://spectrum.ieee.org/blue-origin-molten-regolith-electrolysis",
+      "title": "Blue Alchemist Could Turn Lunar Dust Into Vital Resources",
+      "content_text": "Blue Origin's Blue Alchemist could make lunar landings 60 percent cheaper by using lunar resources to fabricate infrastructure.",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=61623726&width=1200&height=600&coordinates=0%2C692%2C0%2C118",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://spectrum.ieee.org/video-friday-billion-humanoid-robots",
       "url": "https://spectrum.ieee.org/video-friday-billion-humanoid-robots",
       "title": "Is a Billion Dollars Enough for Figure to Make Humanoids Happen?",
@@ -260,21 +305,6 @@
       ]
     },
     {
-      "id": "https://spectrum.ieee.org/video-friday-soft-robot-companion",
-      "url": "https://spectrum.ieee.org/video-friday-soft-robot-companion",
-      "title": "The Newest Humanoid Robot Is a Warm, Soft Companion",
-      "content_text": "Meet the Care-bot GR-3: A soft-touch companion bringing \"warm tech companionship\" to life.",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/image.png?id=61594149&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
       "id": "https://aiforgood.itu.int/how-falcon-llm-is-reshaping-accessibility-through-model-efficiency/",
       "url": "https://aiforgood.itu.int/how-falcon-llm-is-reshaping-accessibility-through-model-efficiency/",
       "title": "How Falcon LLM is reshaping accessibility through model efficiency",
@@ -283,36 +313,6 @@
         {
           "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/TII_How-Falcon-LLM-is-reshaping-accessibility--1024x576.png",
           "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/faster-career-growth",
-      "url": "https://spectrum.ieee.org/faster-career-growth",
-      "title": "Are You Ready to Transition from Engineer to Manager?",
-      "content_text": "Curious about the path from IC to manager? Discover the nuances of tech career growth.",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.jpg?id=59104110&width=1200&height=600&coordinates=0%2C310%2C0%2C310",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/ieee-day-2025",
-      "url": "https://spectrum.ieee.org/ieee-day-2025",
-      "title": "Celebrate IEEE Day With Events and Contests Worldwide",
-      "content_text": "Celebrate IEEE Day 2025 with thousands of events worldwide, from hackathons to cultural showcases. Be part of the movement.",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/a-large-group-of-college-students-posing-outside-a-university-building-several-people-are-holding-up-banners-representing-ieee.jpg?id=61588570&width=1200&height=600&coordinates=0%2C118%2C0%2C118",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -710,6 +710,51 @@
       ]
     },
     {
+      "id": "https://www.technologyreview.com/2025/09/22/1123889/the-download-the-llm-will-see-you-now-and-a-new-fusion-power-deal/",
+      "url": "https://www.technologyreview.com/2025/09/22/1123889/the-download-the-llm-will-see-you-now-and-a-new-fusion-power-deal/",
+      "title": "The Download: the LLM will see you now, and a new fusion power deal",
+      "content_text": "Plus: the Trump administration is preparing to link Tylenol to autism",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/stethoscope-ai2.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2025/09/22/1123870/commonwealth-fusion-eni/",
+      "url": "https://www.technologyreview.com/2025/09/22/1123870/commonwealth-fusion-eni/",
+      "title": "An oil and gas giant signed a $1 billion deal with Commonwealth Fusion Systems",
+      "content_text": "The power purchase agreement makes Eni the second major customer for Commonwealth’s first commercial fusion power plant.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/CFS-ARC-Facility-Aerial-illustration.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2025/09/22/1123873/medical-diagnosis-llm/",
+      "url": "https://www.technologyreview.com/2025/09/22/1123873/medical-diagnosis-llm/",
+      "title": "This medical startup uses LLMs to run appointments and make diagnoses",
+      "content_text": "“Our focus is really on what we can do to pull the doctor out of the visit,” says Akido’s CTO.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/stethoscope-ai2.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://www.technologyreview.com/2025/09/19/1123860/the-download-the-cdcs-vaccine-chaos/",
       "url": "https://www.technologyreview.com/2025/09/19/1123860/the-download-the-cdcs-vaccine-chaos/",
       "title": "The Download: the CDC’s vaccine chaos",
@@ -807,51 +852,6 @@
       "attachments": [
         {
           "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/research-spending-usa.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/09/16/1123592/de-risking-investment-in-ai-agents/",
-      "url": "https://www.technologyreview.com/2025/09/16/1123592/de-risking-investment-in-ai-agents/",
-      "title": "De-risking investment in AI agents",
-      "content_text": "AI agents thrive when trust is designed in from the start, says vice president of product management at NICE, Neeraj Verma.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/1200x628-social-NiCE-webcast-V2.png?resize=1200%2C600",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/09/16/1123695/the-download-regulators-are-coming-for-ai-companions-and-meet-our-innovator-of-2025/",
-      "url": "https://www.technologyreview.com/2025/09/16/1123695/the-download-regulators-are-coming-for-ai-companions-and-meet-our-innovator-of-2025/",
-      "title": "The Download: regulators are coming for AI companions, and meet our Innovator of 2025",
-      "content_text": "Plus: childhood vaccination rates are down across America",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/GettyImages-901654862.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/09/16/1123614/the-looming-crackdown-on-ai-companionship/",
-      "url": "https://www.technologyreview.com/2025/09/16/1123614/the-looming-crackdown-on-ai-companionship/",
-      "title": "The looming crackdown on AI companionship",
-      "content_text": "The risks posed when kids form bonds with chatbots have turned AI safety from an abstract worry into a political flashpoint. What happens now?",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/GettyImages-901654862.jpg?resize=1200%2C600",
           "mime_type": "image/jpeg"
         }
       ],

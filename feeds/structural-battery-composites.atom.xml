@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/structural-battery-composites.atom.xml"/>
   <id>urn:4thwaveai-feeds:structural-battery-composites</id>
-  <updated>Mon, 22 Sep 2025 05:43:52 +0000</updated>
+  <updated>Tue, 23 Sep 2025 05:43:09 +0000</updated>
   <entry>
     <title>New cooling breakthrough nearly doubles efficiency</title>
     <link href="https://www.sciencedaily.com/releases/2025/09/250919085242.htm"/>
@@ -66,6 +66,12 @@
     <summary type="text">Lightweight, powerful lithium-ion batteries are crucial for the transition to electric vehicles, and global demand for lithium is set to grow rapidly over the next 25 years. A new analysis looks at how new mining operations and battery recycling could meet that demand. Recycling could play a big role in easing supply constraints, the researchers found.</summary>
   </entry>
   <entry>
+    <title>Deploying two-dimensional memristors on chip - Nature Nanotechnology</title>
+    <link href="https://www.nature.com/articles/s41565-025-02004-0"/>
+    <id>https://www.nature.com/articles/s41565-025-02004-0</id>
+    <summary type="text">Two studies demonstrate wafer-scale synthesis of hexagonal boron nitride memristors compatible with CMOS technology and introduce opto-reconfigurable devices for broad-spectrum neuromorphic applications.</summary>
+  </entry>
+  <entry>
     <title>Thermally stable β-tungsten for spin–orbit torque magnetic random-access memory - Nature Electronics</title>
     <link href="https://www.nature.com/articles/s41928-025-01435-w"/>
     <id>https://www.nature.com/articles/s41928-025-01435-w</id>
@@ -78,39 +84,33 @@
     <summary type="text">Delayed femtosecond photoemission from a single-walled carbon nanotube enables pulsed electron beams with an unprecedented combination of pulse duration and energy spread.</summary>
   </entry>
   <entry>
-    <title>Bioelectronic implants built from rolled-up stretchy circuits</title>
-    <link href="https://www.nature.com/articles/d41586-025-02704-6"/>
-    <id>https://www.nature.com/articles/d41586-025-02704-6</id>
-    <summary type="text">Soft devices made by rolling up rubber-like sheets patterned with 2D electronics can monitor, stimulate and navigate deep tissue in animal models.</summary>
+    <title>Leveraging unlabeled SEM datasets with self-supervised learning for enhanced particle segmentation - npj Computational Materials</title>
+    <link href="https://www.nature.com/articles/s41524-025-01802-3"/>
+    <id>https://www.nature.com/articles/s41524-025-01802-3</id>
+    <summary type="text">npj Computational Materials volume 11 , Article number: 289 ( 2025 ) Cite this article</summary>
   </entry>
   <entry>
-    <title>Materials advances for distributed environmental sensor networks at scale - Nature Reviews Materials</title>
-    <link href="https://www.nature.com/articles/s41578-025-00838-7"/>
-    <id>https://www.nature.com/articles/s41578-025-00838-7</id>
-    <summary type="text">Accurate, spatiotemporally resolved monitoring of environments and ecosystems serves as the starting point to both identify and remedy natural or anthropogenic environmental hazards. This Review covers materials science advances supporting a new paradigm in environmental sensing: distributed networks of sensing elements capable of system-level profiling with the possibility of harmless environmental resorption after a predetermined recording period.</summary>
+    <title>Self-assembly of low-molecular-weight cellulose into nanostructured macroscopic materials - Polymer Journal</title>
+    <link href="https://www.nature.com/articles/s41428-025-01101-0"/>
+    <id>https://www.nature.com/articles/s41428-025-01101-0</id>
+    <summary type="text">Artificial nanocelluloses are produced via the self-assembly of low-molecular-weight (LMW) cellulose in vitro and represent an emerging class of nanocelluloses developed over the past decade. Most artificial nanocelluloses reported to date are particulates. We have developed two types of nanostructured macroscopic materials through the self-assembly of LMW cellulose: nanoribbon network hydrogels and nanospiked microfibrous materials. This Focus Review summarizes our work along with related studies on these novel nanostructured cellulose materials.</summary>
   </entry>
   <entry>
-    <title>Impact-resistant, haze-free, 3D-printable transparent block copolymer resin via photopolymerization-induced microphase separation - NPG Asia Materials</title>
-    <link href="https://www.nature.com/articles/s41427-025-00618-3"/>
-    <id>https://www.nature.com/articles/s41427-025-00618-3</id>
-    <summary type="text">We developed impact-resistant, haze-free poly(methyl methacrylate) (PMMA) by photopolymerization-induced microphase separation. Upon irradiation, a polymerization mixture transforms into a transparent monolithic solid. A nanoscopic bicontinuous morphology of glassy PMMA with rubbery and cross-linked polymer domains retains transparency and dimension stability even at high temperatures. 3D printing via direct ink writing demonstrates the potential of the developed material for advanced optical and structural applications.</summary>
+    <title>Comprehensive analysis of disruption mitigation methods using gas and pellet-like injections in ITER-like Tokamaks - Scientific Reports</title>
+    <link href="https://www.nature.com/articles/s41598-025-14407-z"/>
+    <id>https://www.nature.com/articles/s41598-025-14407-z</id>
+    <summary type="text">Scientific Reports volume 15 , Article number: 32630 ( 2025 ) Cite this article</summary>
   </entry>
   <entry>
-    <title>Analysis of the influence of coupling agents on the composition of artificial rocks with polymer matrix - Scientific Reports</title>
-    <link href="https://www.nature.com/articles/s41598-025-18783-4"/>
-    <id>https://www.nature.com/articles/s41598-025-18783-4</id>
-    <summary type="text">Scientific Reports volume 15 , Article number: 32619 ( 2025 ) Cite this article</summary>
+    <title>Structural constraint integration in a generative model for the discovery of quantum materials - Nature Materials</title>
+    <link href="https://www.nature.com/articles/s41563-025-02355-y"/>
+    <id>https://www.nature.com/articles/s41563-025-02355-y</id>
+    <summary type="text">This work presents SCIGEN, a machine learning framework integrating geometric constraints into material generation. The framework enables the discovery of stable quantum material candidates, and the authors synthesize two predicted magnetic materials.</summary>
   </entry>
   <entry>
-    <title>Decoupled dual-salt electrolyte for practical aqueous zinc batteries - Nature Sustainability</title>
-    <link href="https://www.nature.com/articles/s41893-025-01646-1"/>
-    <id>https://www.nature.com/articles/s41893-025-01646-1</id>
-    <summary type="text">Aqueous zinc batteries possess advantages in safety, cost and environmental friendliness. To address side reaction, limited cycle life and other challenges, the authors formulate a dual-salt electrolyte that decouples the interfacial electrolyte from the bulk, enabling suppressed hydrogen evolution, fast zinc transport and resilience against low temperature.</summary>
-  </entry>
-  <entry>
-    <title>Predicting fracture in disordered network materials using the local intelligent stress threshold indicator - Communications Physics</title>
-    <link href="https://www.nature.com/articles/s42005-025-02315-7"/>
-    <id>https://www.nature.com/articles/s42005-025-02315-7</id>
-    <summary type="text">Network glass fracture is a sudden, complex process lacking clear precursors. Here, the authors develop the local intelligent stress threshold indicator (LISTI), a neural network-based tool that predicts nanoscale crack nucleation by correlating local stress thresholds with structural topology, offering a method to identify fracture-prone zones in network glasses.</summary>
+    <title>Directional strong coupling at the nanoscale between hyperbolic polaritons and organic molecules - Nature Photonics</title>
+    <link href="https://www.nature.com/articles/s41566-025-01762-6"/>
+    <id>https://www.nature.com/articles/s41566-025-01762-6</id>
+    <summary type="text">Researchers observe directional strong coupling on the nanoscale between hyperbolic phonon polaritons and pentacene molecules.</summary>
   </entry>
 </feed>

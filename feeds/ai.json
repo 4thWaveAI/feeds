@@ -5,6 +5,25 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.json",
   "items": [
     {
+      "id": "https://blogs.nvidia.com/blog/openai-nvidia/",
+      "url": "https://blogs.nvidia.com/blog/openai-nvidia/",
+      "title": "NVIDIA, OpenAI Announce 'the Biggest AI Infrastructure Deployment in History'",
+      "content_text": "OpenAI and NVIDIA announced a partnership that will scale OpenAI’s compute with at least 10 gigawatts of data centers powered by millions of GPUs.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/jhh-oai-announce-sep25-corp-blog-1280x680-1417.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/LdMfINZOpbI?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "https://developer.nvidia.com/blog/predict-extreme-weather-events-in-minutes-without-a-supercomputer/",
       "url": "https://developer.nvidia.com/blog/predict-extreme-weather-events-in-minutes-without-a-supercomputer/",
       "title": "Predict Extreme Weather Events in Minutes Without a Supercomputer | NVIDIA Technical Blog",
@@ -61,21 +80,6 @@
       "attachments": [
         {
           "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/inference-speculative-decoding-llama-eagle.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/uk-partner-ecosystem-ai-makers/",
-      "url": "https://blogs.nvidia.com/blog/uk-partner-ecosystem-ai-makers/",
-      "title": "The AI Makers: NVIDIA Partners in UK Advance Physical and Agentic AI, Robotics, Life Sciences and More",
-      "content_text": "During NVIDIA founder and CEO Jensen Huang’s visit to the U.K. this week, NVIDIA highlighted how it is working with a broad ecosystem of AI makers across the nation on applications in physical and agentic AI, robotics and healthcare.",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/uk-ecosystem-featured-1280x680-1.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -565,6 +569,21 @@
       ]
     },
     {
+      "id": "https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems",
+      "url": "https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems",
+      "title": "OpenAI and NVIDIA Announce Strategic Partnership to Deploy 10 Gigawatts of NVIDIA Systems",
+      "content_text": "OpenAI and NVIDIA today announced a letter of intent for a landmark strategic partnership to deploy at least 10 gigawatts of NVIDIA systems for OpenAI’s next-generation AI infrastructure to train and run its next generation of models on the path to deploying superintelligence.",
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/202509/68d164573d63320d88f176b7_openai-and-nvidia/openai-and-nvidia_cbdd3def-150e-4b20-bf18-b15de5fb1eb0-prv.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem",
       "url": "https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem",
       "title": "NVIDIA Announces £2 Billion Investment in the United Kingdom AI Startup Ecosystem",
@@ -610,10 +629,10 @@
       ]
     },
     {
-      "id": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "url": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "title": "Generative AI Archives",
-      "content_text": "AI is no longer solely a back-office tool. It’s a strategic partner that can augment decision-making across every… Read Article",
+      "id": "https://blogs.nvidia.com/blog/category/enterprise/",
+      "url": "https://blogs.nvidia.com/blog/category/enterprise/",
+      "title": "Data Center Archives",
+      "content_text": "OpenAI and NVIDIA just announced a landmark AI infrastructure partnership — an initiative that will scale OpenAI’s compute… Read Article",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
@@ -625,10 +644,10 @@
       ]
     },
     {
-      "id": "https://blogs.nvidia.com/blog/category/enterprise/",
-      "url": "https://blogs.nvidia.com/blog/category/enterprise/",
-      "title": "Data Center Archives",
-      "content_text": "AI is no longer solely a back-office tool. It’s a strategic partner that can augment decision-making across every… Read Article",
+      "id": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "url": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "title": "Generative AI Archives",
+      "content_text": "OpenAI and NVIDIA just announced a landmark AI infrastructure partnership — an initiative that will scale OpenAI’s compute… Read Article",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
@@ -907,21 +926,6 @@
       "url": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/",
       "title": "Energy and resources - Microsoft Industry Blogs",
       "content_text": "Read the latest news and posts about Energy and resources from Microsoft's team of experts at Microsoft Industry Blogs.",
-      "attachments": [
-        {
-          "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2019/01/cropped-microsoft_logo_element.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://www.microsoft.com/en-us/industry/blog/financial-services/",
-      "url": "https://www.microsoft.com/en-us/industry/blog/financial-services/",
-      "title": "Financial services - Microsoft Industry Blogs",
-      "content_text": "Read the latest news and posts about Financial services from Microsoft's team of experts at Microsoft Industry Blogs.",
       "attachments": [
         {
           "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2019/01/cropped-microsoft_logo_element.png",
