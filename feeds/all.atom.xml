@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Wed, 24 Sep 2025 18:45:40 +0000</updated>
+  <updated>Wed, 24 Sep 2025 19:25:04 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -20,11 +20,24 @@
     <updated>Thu, 29 Jun 2023 14:53:17 -0400</updated>
   </entry>
   <entry>
+    <title>NASA Media Contacts - NASA</title>
+    <link href="https://www.nasa.gov/news/nasa-media-contacts/"/>
+    <id>https://www.nasa.gov/news/nasa-media-contacts/</id>
+    <summary type="text">Media Contacts Roxana Bardan Mars Sample Return 771-200-7217 Gerelle Dodson NASA Workforce, STEM Engagement 202-358-1600 Jennifer Dooren Deputy News Chief,</summary>
+    <updated>Thu, 29 Jun 2023 14:53:17 -0400</updated>
+  </entry>
+  <entry>
     <title>NASA News</title>
     <link href="https://www.nasa.gov/news/"/>
     <id>https://www.nasa.gov/news/</id>
     <summary type="text">Resources for news media, including NASA news contacts and archived news material</summary>
     <updated>Wed, 07 Dec 2022 13:25:24 -0500</updated>
+  </entry>
+  <entry>
+    <title>NASA Highlights Space Innovation, Exploration at Space Conference - NASA</title>
+    <link href="https://www.nasa.gov/news-release/nasa-highlights-space-innovation-exploration-at-space-conference/"/>
+    <id>https://www.nasa.gov/news-release/nasa-highlights-space-innovation-exploration-at-space-conference/</id>
+    <summary type="text">Led by acting NASA Administrator Sean Duffy, an agency delegation will participate in the International Astronautical Congress (IAC) in Sydney, Australia,</summary>
   </entry>
   <entry>
     <title>La NASA y la NOAA lanzan tres naves espaciales para cartografiar la influencia del Sol en el espacio - NASA</title>
@@ -45,16 +58,10 @@
     <summary type="text">Sign up to receive NASA news releases and other information.</summary>
   </entry>
   <entry>
-    <title>Exercise Research and Computer Upgrades Keep Crew Busy on Tuesday - NASA</title>
-    <link href="https://www.nasa.gov/blogs/spacestation/2025/09/23/exercise-research-and-computer-upgrades-keep-crew-busy-on-tuesday/"/>
-    <id>https://www.nasa.gov/blogs/spacestation/2025/09/23/exercise-research-and-computer-upgrades-keep-crew-busy-on-tuesday/</id>
-    <summary type="text">The Expedition 73 crew members explored how exercise in space affects the body, conducted an eye exam, and continued upgrading computer networking gear aboard the International Space Station on Tuesday. The orbital residents also transferred emergency gear into the SpaceX Dragon crew spacecraft, maintained life support equipment, and continued unpacking a Progress resupply ship.</summary>
-  </entry>
-  <entry>
-    <title>Crew Studies Cardiac Health and Unpacks Cygnus, Progress Spacecraft - NASA</title>
-    <link href="https://www.nasa.gov/blogs/spacestation/2025/09/22/crew-studies-cardiac-health-and-unpacks-cygnus-progress-spacecraft/"/>
-    <id>https://www.nasa.gov/blogs/spacestation/2025/09/22/crew-studies-cardiac-health-and-unpacks-cygnus-progress-spacecraft/</id>
-    <summary type="text">Expedition 73 kicked off the week with ultrasound scans for cardiac research and unloading new science experiments delivered last week aboard the Cygnus XL cargo craft. Spacesuit work and computer networking maintenance rounded out the day aboard the International Space Station.</summary>
+    <title>Cutting Edge Medical Studies Look at Crew Fitness and Vision - NASA</title>
+    <link href="https://www.nasa.gov/blogs/spacestation/2025/09/24/cutting-edge-medical-studies-look-at-crew-fitness-and-vision/"/>
+    <id>https://www.nasa.gov/blogs/spacestation/2025/09/24/cutting-edge-medical-studies-look-at-crew-fitness-and-vision/</id>
+    <summary type="text">Fitness research and vision studies once again topped the science schedule aboard the International Space Station on Wednesday helping doctors ensure the crew remains healthy on orbit. The Expedition 73 crewmates also worked throughout the day inspecting lab module hatches, installing research cables, and testing robotic communications.</summary>
   </entry>
   <entry>
     <title>NASA’s Webb Explores Largest Star-Forming Cloud in Milky Way</title>
