@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Wed, 24 Sep 2025 15:35:31 +0000</updated>
+  <updated>Wed, 24 Sep 2025 16:48:08 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -57,6 +57,12 @@
     <summary type="text">Expedition 73 kicked off the week with ultrasound scans for cardiac research and unloading new science experiments delivered last week aboard the Cygnus XL cargo craft. Spacesuit work and computer networking maintenance rounded out the day aboard the International Space Station.</summary>
   </entry>
   <entry>
+    <title>NASA’s Webb Explores Largest Star-Forming Cloud in Milky Way</title>
+    <link href="https://www.jpl.nasa.gov/news/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/"/>
+    <id>https://www.jpl.nasa.gov/news/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/</id>
+    <summary type="text">Webb’s MIRI, managed by NASA’s Jet Propulsion Laboratory through launch, helped reveal the star-studded Sagittarius B2 molecular cloud in unprecedented detail.</summary>
+  </entry>
+  <entry>
     <title>NASA’s Deep Space Communications Demo Exceeds Project Expectations</title>
     <link href="https://www.jpl.nasa.gov/news/nasas-deep-space-communications-demo-exceeds-project-expectations/"/>
     <id>https://www.jpl.nasa.gov/news/nasas-deep-space-communications-demo-exceeds-project-expectations/</id>
@@ -97,12 +103,6 @@
     <link href="https://www.jpl.nasa.gov/news/nasa-to-share-details-of-new-perseverance-mars-rover--finding/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-to-share-details-of-new-perseverance-mars-rover--finding/</id>
     <summary type="text">A news conference this morning will focus on the analysis of a rock sampled by the agency’s Perseverance Mars rover last year, which is the subject of a forthcoming science paper.</summary>
-  </entry>
-  <entry>
-    <title>NASA Study: Celestial ‘Accident’ Sheds Light on Jupiter, Saturn Riddle</title>
-    <link href="https://www.jpl.nasa.gov/news/nasa-study-celestial-accident-sheds-light-on-jupiter-saturn-riddle/"/>
-    <id>https://www.jpl.nasa.gov/news/nasa-study-celestial-accident-sheds-light-on-jupiter-saturn-riddle/</id>
-    <summary type="text">An unusual cosmic object is helping scientists better understand the chemistry hidden deep in Jupiter and Saturn’s atmospheres — and potentially those of exoplanets.</summary>
   </entry>
   <entry>
     <title>NASA-ISRO Satellite Lifts Off to Track Earth’s Changing Surfaces</title>
