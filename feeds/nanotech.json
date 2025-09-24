@@ -5,13 +5,141 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
-      "id": "https://phys.org/news/2025-09-ai-nanoparticles-drug-delivery.html",
-      "url": "https://phys.org/news/2025-09-ai-nanoparticles-drug-delivery.html",
-      "title": "AI engineers nanoparticles for improved drug delivery",
-      "content_text": "Biomedical engineers at Duke University have developed a platform that combines automated wet lab techniques with artificial intelligence (AI) to design nanoparticles for drug delivery. The approach could help researchers deliver difficult-to-encapsulate therapeutics more efficiently and effectively.",
+      "id": "https://phys.org/news/2025-09-ultra-strong-coating-resists-bacteria.html",
+      "url": "https://phys.org/news/2025-09-ultra-strong-coating-resists-bacteria.html",
+      "title": "Ultra-strong coating resists bacteria and viruses on complex organic surfaces",
+      "content_text": "Professor Bonghoon Kim of the Department of Robotics and Mechatronics Engineering at the Daegu Gyeongbuk Institute of Science & Technology has successfully developed a next-generation surface modification technology with antibacterial and antiviral contamination properties.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/ai-engineers-nanoparti-1.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/ultra-strong-coating-i.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-bone-substitute-3d-glass.html",
+      "url": "https://phys.org/news/2025-09-bone-substitute-3d-glass.html",
+      "title": "A new bone substitute made out of 3D-printed glass",
+      "content_text": "You might think that glass has no business acting as a replacement for bone, but it turns out the two materials have many similarities. For a new study published in ACS Nano, researchers developed a 3D printable bio-active glass that served as an effective bone replacement material. In rabbits, it sustained bone cell growth better than regular glass and a commercially available bone substitute.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2025/a-new-bone-substitute.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-nanotechnology-crop-munching-pests-beneficial.html",
+      "url": "https://phys.org/news/2025-09-nanotechnology-crop-munching-pests-beneficial.html",
+      "title": "Using nanotechnology to target crop-munching pests and spare beneficial bugs",
+      "content_text": "A bane of farmers' existence, it's estimated that plant-eating pests are responsible for the loss of up to 40% of pre-harvest yields globally. But a new generation of crop treatments that target only \"bad\" bugs could mean big gains for the Canadian agriculture sector, improving pest management tools in an industry that in 2024 generated over $142 billion.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/using-nanotechnology-t.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/3Wij0I0Iw2Q?color=white",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-scientists-visualize-atomic-moir-materials.html",
+      "url": "https://phys.org/news/2025-09-scientists-visualize-atomic-moir-materials.html",
+      "title": "Scientists visualize atomic structures in moiré materials",
+      "content_text": "Researchers with the Department of Energy's Oak Ridge National Laboratory and the University of Tennessee, Knoxville, have created an innovative method to visualize and analyze atomic structures within specially designed, ultrathin bilayer 2D materials. When precisely aligned at an angle, these materials exhibit unique properties that could lead to advancements in quantum computing, superconductors and ultraefficient electronics.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2025/scientists-visualize-a.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-nanoculture-shell-frontiers-microbiome.html",
+      "url": "https://phys.org/news/2025-09-nanoculture-shell-frontiers-microbiome.html",
+      "title": "Cracking the nanoculture shell to unlock new frontiers in microbiome research",
+      "content_text": "Tiny bioreactors, called nanocultures, are opening up new possibilities for microbiome research, especially in harsh and dynamic environments.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/cracking-the-shell-to.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://scx2.b-cdn.net/gfx/video/2025/cracking-the-shell-to.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-ball-mill-technique-nanoscale-scaffolds.html",
+      "url": "https://phys.org/news/2025-09-ball-mill-technique-nanoscale-scaffolds.html",
+      "title": "Ball mill technique produces nanoscale scaffolds that filter PFAS",
+      "content_text": "PFAS are fluorinated compounds found in many everyday products, such as outdoor clothing and cookware like Teflon pans. This is because PFAS are durable, heat-resistant and dirt-repellent. Their stability is precisely what leads to problems: although potentially harmful to our health, these substances are scarcely broken down at all in the environment and are regarded as \"forever chemicals.\" PFAS are also found in wastewater. Although they can be removed by filtration, this is a laborious process.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/pfas-filter-from-a-bal.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-lipid-nanoparticles-complex-options-generation.html",
+      "url": "https://phys.org/news/2025-09-lipid-nanoparticles-complex-options-generation.html",
+      "title": "Lipid nanoparticles with complex shapes expand options for next-generation drug delivery",
+      "content_text": "An Australian research team has achieved an advanced materials breakthrough that opens the door to a new generation of nanodrug applications. From drug delivery, to diagnostics, to gene editing and beyond, the breakthrough has the potential to improve outcomes for patients around the world in coming decades.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2025/pioneering-the-next-ge-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-nanocellulose-based-foam-materials-purification.html",
+      "url": "https://phys.org/news/2025-09-nanocellulose-based-foam-materials-purification.html",
+      "title": "Nanocellulose-based foam materials for water purification, smart packaging and green electronics",
+      "content_text": "Nanocellulose is a renewable nanomaterial made from plant fibers, with unique properties including lightness, very high strength and large surface area. The doctoral dissertation of Mohammad Karzarjeddi from the University of Oulu, Finland, investigated nanocellulose-based porous foam materials in water purification, smart packaging and wireless communications. These advanced cellulose applications reduce dependence on fossil-based materials.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/nanocellulose-based-ad.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-method-enables-ws8322-epitaxy-growth.html",
+      "url": "https://phys.org/news/2025-09-method-enables-ws8322-epitaxy-growth.html",
+      "title": "Two-step method enables controllable WS&#8322; epitaxy growth",
+      "content_text": "In a study published in Journal of the American Chemical Society, a team led by Prof. Song Li from the University of Science and Technology of China (USTC) of the Chinese Academy of Sciences synthesized monolayer WS2 lateral homojunctions via in situ domain engineering, and enabled controllable direct chemical vapor deposition (CVD) growth of these structures.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2025/ustc-reports-epitaxy-g.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -54,137 +182,13 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-09-sensitive-nanoparticles-contrast-agents-advanced.html",
-      "url": "https://phys.org/news/2025-09-sensitive-nanoparticles-contrast-agents-advanced.html",
-      "title": "Light-sensitive nanoparticles could serve as contrast agents for advanced imaging",
-      "content_text": "A novel class of light-sensitive nanoparticles may one day enable new approaches to medical imaging. They were developed by a research team at Martin Luther University Halle-Wittenberg (MLU). The particles absorb laser light and convert them into heat, thereby changing their internal structure, similar to folded proteins. The research was published in the journal Communications Chemistry.",
+      "id": "https://phys.org/news/2025-09-ai-nanoparticles-drug-delivery.html",
+      "url": "https://phys.org/news/2025-09-ai-nanoparticles-drug-delivery.html",
+      "title": "AI engineers nanoparticles for improved drug delivery",
+      "content_text": "Biomedical engineers at Duke University have developed a platform that combines automated wet lab techniques with artificial intelligence (AI) to design nanoparticles for drug delivery. The approach could help researchers deliver difficult-to-encapsulate therapeutics more efficiently and effectively.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/researchers-develop-ul-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-deep-unique-behavior-confined.html",
-      "url": "https://phys.org/news/2025-09-deep-unique-behavior-confined.html",
-      "title": "A deep look into the unique structure and behavior of confined water",
-      "content_text": "Despite being one of the most familiar substances on Earth, water holds many secrets that scientists are still working to understand. When confined to extremely small spaces—such as within certain proteins, minerals, or artificial nanomaterials—water behaves in ways that are drastically different from its bulk liquid form.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/a-deep-look-into-the-u.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-method-graphene-defects.html",
-      "url": "https://phys.org/news/2025-09-method-graphene-defects.html",
-      "title": "New method for making graphene turns defects into improvements",
-      "content_text": "Recent research has found a new way to make graphene that adds structural defects to improve the performance of the material that could have benefits across a range of applications—from sensors and batteries, to electronics.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/graphene.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-member-nanoring-boundaries-global-aromaticity.html",
-      "url": "https://phys.org/news/2025-09-member-nanoring-boundaries-global-aromaticity.html",
-      "title": "18-member nanoring pushes the boundaries of global aromaticity",
-      "content_text": "Pushing the limits of size constraints in chemistry, an 8-nanometer 18-porphyrin nanoring (c-P18) becomes the largest known cyclic molecule to exhibit detectable global aromaticity. This phenomenon, where π-electrons are delocalized not just over individual aromatic units but around the entire macrocyclic ring, is mostly seen in smaller aromatic molecules but rarely found in macrocyclic entities.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/18-member-nanoring-pus.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-powered-gears-strand-hair.html",
-      "url": "https://phys.org/news/2025-09-powered-gears-strand-hair.html",
-      "title": "New light-powered gears fit inside a strand of hair",
-      "content_text": "Researchers at the University of Gothenburg have made light-powered gears on a micrometer scale. This paves the way for the smallest on-chip motors in history, which can fit inside a strand of hair. The research is published in the journal Nature Communications.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-light-powered-moto.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://scx2.b-cdn.net/gfx/video/2025/new-light-powered-moto-1.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-bioengineers-explore-tumor-mechanics-tiny.html",
-      "url": "https://phys.org/news/2025-09-bioengineers-explore-tumor-mechanics-tiny.html",
-      "title": "Bioengineers explore how tumor mechanics and tiny messengers could shape the future of cancer research",
-      "content_text": "When Ph.D. student Kshitiz Parihar began combing through dozens of research papers on two seemingly different topics—tumor mechanics and extracellular vesicles, tiny packages of proteins and genetic material secreted by cells—he noticed something surprising: the two fields were speaking to each other.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/penn-engineers-explore.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-hybrid-nanoantennas-enable-capture-diamond.html",
-      "url": "https://phys.org/news/2025-09-hybrid-nanoantennas-enable-capture-diamond.html",
-      "title": "Hybrid nanoantennas enable light capture from diamond defects",
-      "content_text": "Researchers at the Hebrew University of Jerusalem and the Humboldt University in Berlin have developed a way to capture nearly all the light emitted from tiny diamond defects known as color centers. By placing nanodiamonds into specially designed hybrid nanoantennas with extreme precision, the team achieved record photon collection at room temperature—a necessary step for quantum technologies such as quantum sensors, and quantum-secured communications.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-sources-for-quantu.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-thermal-trigger-scientists-protein-cell.html",
-      "url": "https://phys.org/news/2025-09-thermal-trigger-scientists-protein-cell.html",
-      "title": "Thermal trigger: Scientists develop heat-activated protein control for targeted cell death",
-      "content_text": "Researchers at the Nano Life Science Institute (WPI-NanoLSI), Kanazawa University, report in ACS Nano, how proteins in cells can be controllably activated through heating, an effect that can be used to initiate programmed cell death.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/thermal-trigger.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-court-demand-scientific-certainty-case.html",
-      "url": "https://phys.org/news/2025-09-court-demand-scientific-certainty-case.html",
-      "title": "Court rulings increasingly demand scientific certainty—but the case of titanium dioxide shows that's not always possible",
-      "content_text": "Last month, courts on both sides of the Atlantic delivered a clear verdict: When classifying titanium dioxide as carcinogenic, regulatory agencies had overreached.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/sunscreen-lotion.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/2025/ai-engineers-nanoparti-1.jpg",
           "mime_type": "image/jpeg"
         }
       ],

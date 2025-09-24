@@ -4,7 +4,28 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/human_effect.atom.xml"/>
   <id>urn:4thwaveai-feeds:human_effect</id>
-  <updated>Tue, 23 Sep 2025 05:45:16 +0000</updated>
+  <updated>Wed, 24 Sep 2025 05:43:46 +0000</updated>
+  <entry>
+    <title>AI Is Redefining the Concept of a Programming Language&#x27;s Popularity</title>
+    <link href="https://spectrum.ieee.org/top-programming-languages-2025"/>
+    <id>https://spectrum.ieee.org/top-programming-languages-2025</id>
+    <summary type="text">Python reigns supreme again, but is AI changing the game for programming languages? Find out how coding is transforming.</summary>
+    <updated>Tue, 23 Sep 2025 17:44:36 +0000</updated>
+  </entry>
+  <entry>
+    <title>Top Programming Languages Methodology 2025</title>
+    <link href="https://spectrum.ieee.org/top-programming-languages-methodology-2025"/>
+    <id>https://spectrum.ieee.org/top-programming-languages-methodology-2025</id>
+    <summary type="text">How we construct the rankings</summary>
+    <updated>Tue, 23 Sep 2025 17:44:19 +0000</updated>
+  </entry>
+  <entry>
+    <title>The Long Strange Trip from Silica to Smartphone</title>
+    <link href="https://spectrum.ieee.org/the-long-strange-trip-from-silica-to-smartphone"/>
+    <id>https://spectrum.ieee.org/the-long-strange-trip-from-silica-to-smartphone</id>
+    <summary type="text">Three continents, 30,000 kilometers, and 2,000-degree reactors</summary>
+    <updated>Tue, 23 Sep 2025 13:00:04 +0000</updated>
+  </entry>
   <entry>
     <title>Can AI&#x27;s Intelligence Be Measured Like Human IQ?</title>
     <link href="https://spectrum.ieee.org/agi-benchmark"/>
@@ -83,13 +104,6 @@
     <updated>Tue, 16 Sep 2025 18:00:04 +0000</updated>
   </entry>
   <entry>
-    <title>Are We Losing Our Connection to the Night Sky?</title>
-    <link href="https://spectrum.ieee.org/scale-of-light-pollution"/>
-    <id>https://spectrum.ieee.org/scale-of-light-pollution</id>
-    <summary type="text">What&#x27;s at stake as artificial light drowns out the stars, cutting us off from the universe&#x27;s vastness and the wonder it inspires.</summary>
-    <updated>Tue, 16 Sep 2025 15:04:13 +0000</updated>
-  </entry>
-  <entry>
     <title>Setting the Scene on AI Governance</title>
     <link href="https://aiforgood.itu.int/setting-the-scene-on-ai-governance/"/>
     <id>https://aiforgood.itu.int/setting-the-scene-on-ai-governance/</id>
@@ -111,13 +125,6 @@
     <updated>Mon, 15 Sep 2025 22:57:33 +0000</updated>
   </entry>
   <entry>
-    <title>Scaling Carbon Capture: Can We Meet the Challenge?</title>
-    <link href="https://spectrum.ieee.org/scaling-carbon-capture-technology"/>
-    <id>https://spectrum.ieee.org/scaling-carbon-capture-technology</id>
-    <summary type="text">What would it take to scale carbon removal technologies to remove billions of tonnes of carbon dioxide a year? These charts explain.</summary>
-    <updated>Mon, 15 Sep 2025 13:00:03 +0000</updated>
-  </entry>
-  <entry>
     <title>AI Policy Corner: Restriction vs. Regulation: Comparing State Approaches to AI Mental Health Legislation | Montreal AI Ethics Institute</title>
     <link href="https://montrealethics.ai/ai-policy-corner-restriction-vs-regulation-comparing-state-approaches-to-ai-mental-health-legislation/"/>
     <id>https://montrealethics.ai/ai-policy-corner-restriction-vs-regulation-comparing-state-approaches-to-ai-mental-health-legislation/</id>
@@ -137,13 +144,6 @@
     <id>https://montrealethics.ai/bridging-the-gap-addressing-the-legislative-gap-surrounding-non-consensual-deepfakes/</id>
     <summary type="text">🔬 Original article by Alessandra Destison from Encode Canada. 📌 Editor’s Note: This is part of our Recess series, featuring university students from across Canada exploring ethical challenges in AI.</summary>
     <updated>Mon, 15 Sep 2025 06:14:53 +0000</updated>
-  </entry>
-  <entry>
-    <title>Plasma Thrusters Could Be Key to Tackling Space Debris</title>
-    <link href="https://spectrum.ieee.org/kessler-syndrome-plasma-thruster-deorbit"/>
-    <id>https://spectrum.ieee.org/kessler-syndrome-plasma-thruster-deorbit</id>
-    <summary type="text">A novel plasma thruster design could be the answer to Kessler Syndrome. Learn how it aims to clear space debris without contact.</summary>
-    <updated>Sun, 14 Sep 2025 13:00:02 +0000</updated>
   </entry>
   <entry>
     <title>How Falcon LLM is reshaping accessibility through model efficiency</title>
@@ -325,6 +325,24 @@
     <summary type="text">Dr Fabian Braesemann explores how rental levels in Vienna responded to the Covid-19 pandemic and asks what we can learn from Vienna to solve the global housing crisis.</summary>
   </entry>
   <entry>
+    <title>Roundtables: Meet the 2025 Innovator of the Year</title>
+    <link href="https://www.technologyreview.com/2025/09/23/1123986/roundtables-meet-the-2025-innovator-of-the-year/"/>
+    <id>https://www.technologyreview.com/2025/09/23/1123986/roundtables-meet-the-2025-innovator-of-the-year/</id>
+    <summary type="text">Watch a subscriber-only conversation with Sneha Goenka, who designed the computations behind the world’s fastest whole-genome sequencing method.</summary>
+  </entry>
+  <entry>
+    <title>The Download: AI’s retracted papers problem</title>
+    <link href="https://www.technologyreview.com/2025/09/23/1123921/the-download-ais-retracted-papers-problem/"/>
+    <id>https://www.technologyreview.com/2025/09/23/1123921/the-download-ais-retracted-papers-problem/</id>
+    <summary type="text">Plus: There’s scant evidence that tylenol use during pregnancy causes autism.</summary>
+  </entry>
+  <entry>
+    <title>AI models are using material from retracted scientific papers</title>
+    <link href="https://www.technologyreview.com/2025/09/23/1123897/ai-models-are-using-material-from-retracted-scientific-papers/"/>
+    <id>https://www.technologyreview.com/2025/09/23/1123897/ai-models-are-using-material-from-retracted-scientific-papers/</id>
+    <summary type="text">Some companies are working to remedy the issue.</summary>
+  </entry>
+  <entry>
     <title>The Download: the LLM will see you now, and a new fusion power deal</title>
     <link href="https://www.technologyreview.com/2025/09/22/1123889/the-download-the-llm-will-see-you-now-and-a-new-fusion-power-deal/"/>
     <id>https://www.technologyreview.com/2025/09/22/1123889/the-download-the-llm-will-see-you-now-and-a-new-fusion-power-deal/</id>
@@ -365,24 +383,6 @@
     <link href="https://www.technologyreview.com/2025/09/18/1123818/hydrogen-reality-check-china/"/>
     <id>https://www.technologyreview.com/2025/09/18/1123818/hydrogen-reality-check-china/</id>
     <summary type="text">Forecasts aren’t looking quite as rosy for the green fuel, though China is still a bright spot.</summary>
-  </entry>
-  <entry>
-    <title>AI-designed viruses are here and already killing bacteria</title>
-    <link href="https://www.technologyreview.com/2025/09/17/1123801/ai-virus-bacteriophage-life/"/>
-    <id>https://www.technologyreview.com/2025/09/17/1123801/ai-virus-bacteriophage-life/</id>
-    <summary type="text">Can AI create a life form? These “generative” genomes are a start</summary>
-  </entry>
-  <entry>
-    <title>The Download: measuring returns on R&amp;D, and AI’s creative potential</title>
-    <link href="https://www.technologyreview.com/2025/09/17/1123795/the-download-measuring-returns-on-rd-and-ais-creative-potential/"/>
-    <id>https://www.technologyreview.com/2025/09/17/1123795/the-download-measuring-returns-on-rd-and-ais-creative-potential/</id>
-    <summary type="text">Plus: TikTok&#x27;s potential new owners have deep pockets</summary>
-  </entry>
-  <entry>
-    <title>How to measure the returns on R&amp;D spending</title>
-    <link href="https://www.technologyreview.com/2025/09/17/1123760/how-to-measure-the-returns-to-rd-spending/"/>
-    <id>https://www.technologyreview.com/2025/09/17/1123760/how-to-measure-the-returns-to-rd-spending/</id>
-    <summary type="text">Forget the glorious successes of past breakthroughs—the real justification for research investment is what we get for our money. Here’s what economists say.</summary>
   </entry>
   <entry>
     <title>The AI Ethics Brief #172: The State of AI Ethics in 2025: What&#x27;s Actually Working</title>

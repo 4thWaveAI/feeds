@@ -5,6 +5,51 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.json",
   "items": [
     {
+      "id": "https://developer.nvidia.com/blog/deploy-ai-models-faster-with-windows-ml-on-rtx-pcs/",
+      "url": "https://developer.nvidia.com/blog/deploy-ai-models-faster-with-windows-ml-on-rtx-pcs/",
+      "title": "Deploy High-Performance AI Models in Windows Applications on NVIDIA RTX AI PCs | NVIDIA Technical Blog",
+      "content_text": "Today, Microsoft is making Windows ML available to developers. Windows ML enables C#, C++ and Python developers to optimally run AI models locally across PC hardware from CPU, NPU and GPUs.",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/Deploy-High-Performance-AI-Models-in-Windows-Applications-on-NVIDIA-RTX-AI-PCs-copy.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/faster-training-throughput-in-fp8-precision-with-nvidia-nemo/",
+      "url": "https://developer.nvidia.com/blog/faster-training-throughput-in-fp8-precision-with-nvidia-nemo/",
+      "title": "Faster Training Throughput in FP8 Precision with NVIDIA NeMo | NVIDIA Technical Blog",
+      "content_text": "In previous posts on FP8 training, we explored the fundamentals of FP8 precision and took a deep dive into the various scaling recipes for practical large-scale deep learning. If you haven’t read…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/llm-optimize-deploy-graphic.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemotron/",
+      "url": "https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemotron/",
+      "title": "Build a Retrieval-Augmented Generation (RAG) Agent with NVIDIA Nemotron | NVIDIA Technical Blog",
+      "content_text": "Unlike traditional LLM-based systems that are limited by their training data, retrieval-augmented generation (RAG) improves text generation by incorporating relevant external information.",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/blog-rag-agent-workshop-tech-blog-1920x1080-1.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "https://blogs.nvidia.com/blog/openai-nvidia/",
       "url": "https://blogs.nvidia.com/blog/openai-nvidia/",
       "title": "NVIDIA, OpenAI Announce 'the Biggest AI Infrastructure Deployment in History'",
@@ -17,21 +62,6 @@
         {
           "url": "https://www.youtube.com/embed/LdMfINZOpbI?feature=oembed",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/predict-extreme-weather-events-in-minutes-without-a-supercomputer/",
-      "url": "https://developer.nvidia.com/blog/predict-extreme-weather-events-in-minutes-without-a-supercomputer/",
-      "title": "Predict Extreme Weather Events in Minutes Without a Supercomputer | NVIDIA Technical Blog",
-      "content_text": "Scientists from NVIDIA, in collaboration with Lawrence Berkeley National Laboratory (Berkeley Lab), released a machine learning tool called Huge Ensembles (HENS) for extreme-weather prediction that…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/HENS-TechBlog-GIF-500x282.gif",
-          "mime_type": "image/gif"
         }
       ],
       "tags": [
@@ -125,21 +155,6 @@
       "attachments": [
         {
           "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/Rubin-CPX.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/how-small-language-models-are-key-to-scalable-agentic-ai/",
-      "url": "https://developer.nvidia.com/blog/how-small-language-models-are-key-to-scalable-agentic-ai/",
-      "title": "How Small Language Models Are Key to Scalable Agentic AI | NVIDIA Technical Blog",
-      "content_text": "The rapid rise of agentic AI has reshaped how enterprises, developers, and entire industries think about automation and digital productivity. From software development workflows to enterprise process…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/08/Why-SLMs.png",
           "mime_type": "image/png"
         }
       ],
@@ -614,25 +629,10 @@
       ]
     },
     {
-      "id": "https://nvidianews.nvidia.com/news/nvidia-and-united-kingdom-build-nations-ai-infrastructure-and-ecosystem-to-fuel-innovation-economic-growth-and-jobs",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-united-kingdom-build-nations-ai-infrastructure-and-ecosystem-to-fuel-innovation-economic-growth-and-jobs",
-      "title": "NVIDIA and United Kingdom Build Nation’s AI Infrastructure and Ecosystem to Fuel Innovation, Economic Growth and Jobs",
-      "content_text": "NVIDIA today announced that it is investing in accelerating the AI industrial revolution in the United Kingdom, working with partners including CoreWeave, Microsoft and Nscale to build the nation’s next generation of AI infrastructure.",
-      "attachments": [
-        {
-          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/20258/68c9c4723d6332b53638ac60_uk-ai-infrastructure/uk-ai-infrastructure_47de3ab3-2006-4b02-8300-a57b40c8e7a4-prv.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "https://blogs.nvidia.com/blog/category/enterprise/",
       "url": "https://blogs.nvidia.com/blog/category/enterprise/",
       "title": "Data Center Archives",
-      "content_text": "OpenAI and NVIDIA just announced a landmark AI infrastructure partnership — an initiative that will scale OpenAI’s compute… Read Article",
+      "content_text": "Energy efficiency in large language model inference has improved 100,000x in the past 10 years — demonstrating that… Read Article",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
@@ -647,7 +647,7 @@
       "id": "https://blogs.nvidia.com/blog/category/generative-ai/",
       "url": "https://blogs.nvidia.com/blog/category/generative-ai/",
       "title": "Generative AI Archives",
-      "content_text": "OpenAI and NVIDIA just announced a landmark AI infrastructure partnership — an initiative that will scale OpenAI’s compute… Read Article",
+      "content_text": "Energy efficiency in large language model inference has improved 100,000x in the past 10 years — demonstrating that… Read Article",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
@@ -742,21 +742,6 @@
       ]
     },
     {
-      "id": "https://developer.nvidia.com/blog/category/data-center-cloud/",
-      "url": "https://developer.nvidia.com/blog/category/data-center-cloud/",
-      "title": "Category: Data Center / Cloud | NVIDIA Technical Blog",
-      "content_text": "Category: Data Center / Cloud | NVIDIA Technical Blog",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2024/09/techblog-og.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "https://developer.nvidia.com/blog/category/generative-ai/",
       "url": "https://developer.nvidia.com/blog/category/generative-ai/",
       "title": "Category: Generative AI | NVIDIA Technical Blog",
@@ -772,10 +757,10 @@
       ]
     },
     {
-      "id": "https://developer.nvidia.com/blog/category/deployment/",
-      "url": "https://developer.nvidia.com/blog/category/deployment/",
-      "title": "Category: AI Platforms / Deployment | NVIDIA Technical Blog",
-      "content_text": "Category: AI Platforms / Deployment | NVIDIA Technical Blog",
+      "id": "https://developer.nvidia.com/blog/category/data-center-cloud/",
+      "url": "https://developer.nvidia.com/blog/category/data-center-cloud/",
+      "title": "Category: Data Center / Cloud | NVIDIA Technical Blog",
+      "content_text": "Category: Data Center / Cloud | NVIDIA Technical Blog",
       "attachments": [
         {
           "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2024/09/techblog-og.jpg",
@@ -926,6 +911,21 @@
       "url": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/",
       "title": "Energy and resources - Microsoft Industry Blogs",
       "content_text": "Read the latest news and posts about Energy and resources from Microsoft's team of experts at Microsoft Industry Blogs.",
+      "attachments": [
+        {
+          "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2019/01/cropped-microsoft_logo_element.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://www.microsoft.com/en-us/industry/blog/financial-services/",
+      "url": "https://www.microsoft.com/en-us/industry/blog/financial-services/",
+      "title": "Financial services - Microsoft Industry Blogs",
+      "content_text": "Read the latest news and posts about Financial services from Microsoft's team of experts at Microsoft Industry Blogs.",
       "attachments": [
         {
           "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2019/01/cropped-microsoft_logo_element.png",

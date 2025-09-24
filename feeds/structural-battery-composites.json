@@ -155,6 +155,21 @@
       ]
     },
     {
+      "id": "https://www.nature.com/articles/s41565-025-02014-y",
+      "url": "https://www.nature.com/articles/s41565-025-02014-y",
+      "title": "Interstitial nanofilament pathway reduces energy consumption in memristors - Nature Nanotechnology",
+      "content_text": "Molecular crystals with interstitial filaments enable memristors with zeptojoule-level switching energy and over one billion switching cycles, offering a scalable path to energy-efficient and reliable in-memory computing.",
+      "attachments": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41565-025-02014-y/MediaObjects/41565_2025_2014_Fig1_HTML.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "structural-battery-composites"
+      ]
+    },
+    {
       "id": "https://www.nature.com/articles/s41565-025-02004-0",
       "url": "https://www.nature.com/articles/s41565-025-02004-0",
       "title": "Deploying two-dimensional memristors on chip - Nature Nanotechnology",
@@ -185,13 +200,22 @@
       ]
     },
     {
-      "id": "https://www.nature.com/articles/s41563-025-02347-y",
-      "url": "https://www.nature.com/articles/s41563-025-02347-y",
-      "title": "Pipe dream beam coming true - Nature Materials",
-      "content_text": "Delayed femtosecond photoemission from a single-walled carbon nanotube enables pulsed electron beams with an unprecedented combination of pulse duration and energy spread.",
+      "id": "https://www.nature.com/articles/s41586-025-09640-5",
+      "url": "https://www.nature.com/articles/s41586-025-09640-5",
+      "title": "A multimodal robotic platform for multi-element electrocatalyst discovery - Nature",
+      "content_text": "Nature ( 2025 ) Cite this article",
+      "tags": [
+        "structural-battery-composites"
+      ]
+    },
+    {
+      "id": "https://www.nature.com/articles/s41563-025-02367-8",
+      "url": "https://www.nature.com/articles/s41563-025-02367-8",
+      "title": "Stabilized perovskite phases enabling efficient perovskite/perovskite/silicon triple-junction solar cells - Nature Materials",
+      "content_text": "To address the phase instability issue of perovskites, ammonium propionic acid is introduced to enhance the phase stability of both perovskite layers in perovskite/perovskite/silicon triple-junction solar cells, resulting in improved efficiency and reproducibility.",
       "attachments": [
         {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-025-02347-y/MediaObjects/41563_2025_2347_Fig1_HTML.png",
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-025-02367-8/MediaObjects/41563_2025_2367_Fig1_HTML.png",
           "mime_type": "image/png"
         }
       ],
@@ -200,13 +224,28 @@
       ]
     },
     {
-      "id": "https://www.nature.com/articles/s41524-025-01802-3",
-      "url": "https://www.nature.com/articles/s41524-025-01802-3",
-      "title": "Leveraging unlabeled SEM datasets with self-supervised learning for enhanced particle segmentation - npj Computational Materials",
-      "content_text": "npj Computational Materials volume 11 , Article number: 289 ( 2025 ) Cite this article",
+      "id": "https://www.nature.com/articles/s41598-025-19863-1",
+      "url": "https://www.nature.com/articles/s41598-025-19863-1",
+      "title": "Cost-effective laser metal deposition of 304L stainless steel for repairing and enhancing 316L and mild steel engineering components - Scientific Reports",
+      "content_text": "Scientific Reports volume 15 , Article number: 32665 ( 2025 ) Cite this article",
       "attachments": [
         {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41524-025-01802-3/MediaObjects/41524_2025_1802_Fig1_HTML.png",
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-025-19863-1/MediaObjects/41598_2025_19863_Fig1_HTML.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "structural-battery-composites"
+      ]
+    },
+    {
+      "id": "https://www.nature.com/articles/s41598-025-19875-x",
+      "url": "https://www.nature.com/articles/s41598-025-19875-x",
+      "title": "Amylopectin xerogel with onion based sulfur nitrogen doped carbon quantum dots as a chemosensor for chromium and biosensor for microbial spoilage in tomatoes - Scientific Reports",
+      "content_text": "Scientific Reports volume 15 , Article number: 32667 ( 2025 ) Cite this article",
+      "attachments": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-025-19875-x/MediaObjects/41598_2025_19875_Fig2_HTML.png",
           "mime_type": "image/png"
         }
       ],
@@ -215,58 +254,13 @@
       ]
     },
     {
-      "id": "https://www.nature.com/articles/s41428-025-01101-0",
-      "url": "https://www.nature.com/articles/s41428-025-01101-0",
-      "title": "Self-assembly of low-molecular-weight cellulose into nanostructured macroscopic materials - Polymer Journal",
-      "content_text": "Artificial nanocelluloses are produced via the self-assembly of low-molecular-weight (LMW) cellulose in vitro and represent an emerging class of nanocelluloses developed over the past decade. Most artificial nanocelluloses reported to date are particulates. We have developed two types of nanostructured macroscopic materials through the self-assembly of LMW cellulose: nanoribbon network hydrogels and nanospiked microfibrous materials. This Focus Review summarizes our work along with related studies on these novel nanostructured cellulose materials.",
+      "id": "https://www.nature.com/articles/s41528-025-00482-9",
+      "url": "https://www.nature.com/articles/s41528-025-00482-9",
+      "title": "Rethinking organic electrochemical transistor modeling: the critical role of volumetric capacitance in predictive 2D Nernst-Planck-Poisson simulations - npj Flexible Electronics",
+      "content_text": "npj Flexible Electronics volume 9 , Article number: 97 ( 2025 ) Cite this article",
       "attachments": [
         {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41428-025-01101-0/MediaObjects/41428_2025_1101_Figa_HTML.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "structural-battery-composites"
-      ]
-    },
-    {
-      "id": "https://www.nature.com/articles/s41598-025-14407-z",
-      "url": "https://www.nature.com/articles/s41598-025-14407-z",
-      "title": "Comprehensive analysis of disruption mitigation methods using gas and pellet-like injections in ITER-like Tokamaks - Scientific Reports",
-      "content_text": "Scientific Reports volume 15 , Article number: 32630 ( 2025 ) Cite this article",
-      "attachments": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-025-14407-z/MediaObjects/41598_2025_14407_Fig1_HTML.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "structural-battery-composites"
-      ]
-    },
-    {
-      "id": "https://www.nature.com/articles/s41563-025-02355-y",
-      "url": "https://www.nature.com/articles/s41563-025-02355-y",
-      "title": "Structural constraint integration in a generative model for the discovery of quantum materials - Nature Materials",
-      "content_text": "This work presents SCIGEN, a machine learning framework integrating geometric constraints into material generation. The framework enables the discovery of stable quantum material candidates, and the authors synthesize two predicted magnetic materials.",
-      "attachments": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-025-02355-y/MediaObjects/41563_2025_2355_Fig1_HTML.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "structural-battery-composites"
-      ]
-    },
-    {
-      "id": "https://www.nature.com/articles/s41566-025-01762-6",
-      "url": "https://www.nature.com/articles/s41566-025-01762-6",
-      "title": "Directional strong coupling at the nanoscale between hyperbolic polaritons and organic molecules - Nature Photonics",
-      "content_text": "Researchers observe directional strong coupling on the nanoscale between hyperbolic phonon polaritons and pentacene molecules.",
-      "attachments": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41566-025-01762-6/MediaObjects/41566_2025_1762_Fig1_HTML.png",
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41528-025-00482-9/MediaObjects/41528_2025_482_Fig1_HTML.png",
           "mime_type": "image/png"
         }
       ],

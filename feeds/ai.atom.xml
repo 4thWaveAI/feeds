@@ -4,20 +4,34 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai</id>
-  <updated>Tue, 23 Sep 2025 05:41:31 +0000</updated>
+  <updated>Wed, 24 Sep 2025 05:40:43 +0000</updated>
+  <entry>
+    <title>Deploy High-Performance AI Models in Windows Applications on NVIDIA RTX AI PCs | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/deploy-ai-models-faster-with-windows-ml-on-rtx-pcs/"/>
+    <id>https://developer.nvidia.com/blog/deploy-ai-models-faster-with-windows-ml-on-rtx-pcs/</id>
+    <summary type="text">Today, Microsoft is making Windows ML available to developers. Windows ML enables C#, C++ and Python developers to optimally run AI models locally across PC hardware from CPU, NPU and GPUs.</summary>
+    <updated>Tue, 23 Sep 2025 19:20:46 +0000</updated>
+  </entry>
+  <entry>
+    <title>Faster Training Throughput in FP8 Precision with NVIDIA NeMo | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/faster-training-throughput-in-fp8-precision-with-nvidia-nemo/"/>
+    <id>https://developer.nvidia.com/blog/faster-training-throughput-in-fp8-precision-with-nvidia-nemo/</id>
+    <summary type="text">In previous posts on FP8 training, we explored the fundamentals of FP8 precision and took a deep dive into the various scaling recipes for practical large-scale deep learning. If you haven’t read…</summary>
+    <updated>Tue, 23 Sep 2025 16:36:21 +0000</updated>
+  </entry>
+  <entry>
+    <title>Build a Retrieval-Augmented Generation (RAG) Agent with NVIDIA Nemotron | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemotron/"/>
+    <id>https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemotron/</id>
+    <summary type="text">Unlike traditional LLM-based systems that are limited by their training data, retrieval-augmented generation (RAG) improves text generation by incorporating relevant external information.</summary>
+    <updated>Tue, 23 Sep 2025 15:00:00 +0000</updated>
+  </entry>
   <entry>
     <title>NVIDIA, OpenAI Announce &#x27;the Biggest AI Infrastructure Deployment in History&#x27;</title>
     <link href="https://blogs.nvidia.com/blog/openai-nvidia/"/>
     <id>https://blogs.nvidia.com/blog/openai-nvidia/</id>
     <summary type="text">OpenAI and NVIDIA announced a partnership that will scale OpenAI’s compute with at least 10 gigawatts of data centers powered by millions of GPUs.</summary>
     <updated>Mon, 22 Sep 2025 18:38:58 +0000</updated>
-  </entry>
-  <entry>
-    <title>Predict Extreme Weather Events in Minutes Without a Supercomputer | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/predict-extreme-weather-events-in-minutes-without-a-supercomputer/"/>
-    <id>https://developer.nvidia.com/blog/predict-extreme-weather-events-in-minutes-without-a-supercomputer/</id>
-    <summary type="text">Scientists from NVIDIA, in collaboration with Lawrence Berkeley National Laboratory (Berkeley Lab), released a machine learning tool called Huge Ensembles (HENS) for extreme-weather prediction that…</summary>
-    <updated>Fri, 19 Sep 2025 19:19:10 +0000</updated>
   </entry>
   <entry>
     <title>The UK’s ‘Goldilocks Moment for AI’: NVIDIA, UK and US Leaders Highlight AI Infrastructure Investments</title>
@@ -60,13 +74,6 @@
     <id>https://developer.nvidia.com/blog/nvidia-rubin-cpx-accelerates-inference-performance-and-efficiency-for-1m-token-context-workloads/</id>
     <summary type="text">Inference has emerged as the new frontier of complexity in AI. Modern models are evolving into agentic systems capable of multi-step reasoning, persistent memory, and long-horizon context—enabling…</summary>
     <updated>Tue, 09 Sep 2025 15:00:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>How Small Language Models Are Key to Scalable Agentic AI | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/how-small-language-models-are-key-to-scalable-agentic-ai/"/>
-    <id>https://developer.nvidia.com/blog/how-small-language-models-are-key-to-scalable-agentic-ai/</id>
-    <summary type="text">The rapid rise of agentic AI has reshaped how enterprises, developers, and entire industries think about automation and digital productivity. From software development workflows to enterprise process…</summary>
-    <updated>Fri, 29 Aug 2025 18:00:42 +0000</updated>
   </entry>
   <entry>
     <title>Unlocking the potential of manufacturing with cloud modernization - Microsoft Industry Blogs</title>
@@ -261,22 +268,16 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <summary type="text">NVIDIA (NASDAQ: NVDA) and Intel Corporation (NASDAQ: INTC) today announced a collaboration to jointly develop multiple generations of custom data center and PC products that accelerate applications and workloads across hyperscale, enterprise and consumer markets.</summary>
   </entry>
   <entry>
-    <title>NVIDIA and United Kingdom Build Nation’s AI Infrastructure and Ecosystem to Fuel Innovation, Economic Growth and Jobs</title>
-    <link href="https://nvidianews.nvidia.com/news/nvidia-and-united-kingdom-build-nations-ai-infrastructure-and-ecosystem-to-fuel-innovation-economic-growth-and-jobs"/>
-    <id>https://nvidianews.nvidia.com/news/nvidia-and-united-kingdom-build-nations-ai-infrastructure-and-ecosystem-to-fuel-innovation-economic-growth-and-jobs</id>
-    <summary type="text">NVIDIA today announced that it is investing in accelerating the AI industrial revolution in the United Kingdom, working with partners including CoreWeave, Microsoft and Nscale to build the nation’s next generation of AI infrastructure.</summary>
-  </entry>
-  <entry>
     <title>Data Center Archives</title>
     <link href="https://blogs.nvidia.com/blog/category/enterprise/"/>
     <id>https://blogs.nvidia.com/blog/category/enterprise/</id>
-    <summary type="text">OpenAI and NVIDIA just announced a landmark AI infrastructure partnership — an initiative that will scale OpenAI’s compute… Read Article</summary>
+    <summary type="text">Energy efficiency in large language model inference has improved 100,000x in the past 10 years — demonstrating that… Read Article</summary>
   </entry>
   <entry>
     <title>Generative AI Archives</title>
     <link href="https://blogs.nvidia.com/blog/category/generative-ai/"/>
     <id>https://blogs.nvidia.com/blog/category/generative-ai/</id>
-    <summary type="text">OpenAI and NVIDIA just announced a landmark AI infrastructure partnership — an initiative that will scale OpenAI’s compute… Read Article</summary>
+    <summary type="text">Energy efficiency in large language model inference has improved 100,000x in the past 10 years — demonstrating that… Read Article</summary>
   </entry>
   <entry>
     <title>Driving Archives</title>
@@ -309,22 +310,16 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <summary type="text">Healthcare and Life Sciences Archives</summary>
   </entry>
   <entry>
-    <title>Category: Data Center / Cloud | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/category/data-center-cloud/"/>
-    <id>https://developer.nvidia.com/blog/category/data-center-cloud/</id>
-    <summary type="text">Category: Data Center / Cloud | NVIDIA Technical Blog</summary>
-  </entry>
-  <entry>
     <title>Category: Generative AI | NVIDIA Technical Blog</title>
     <link href="https://developer.nvidia.com/blog/category/generative-ai/"/>
     <id>https://developer.nvidia.com/blog/category/generative-ai/</id>
     <summary type="text">Category: Generative AI | NVIDIA Technical Blog</summary>
   </entry>
   <entry>
-    <title>Category: AI Platforms / Deployment | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/category/deployment/"/>
-    <id>https://developer.nvidia.com/blog/category/deployment/</id>
-    <summary type="text">Category: AI Platforms / Deployment | NVIDIA Technical Blog</summary>
+    <title>Category: Data Center / Cloud | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/category/data-center-cloud/"/>
+    <id>https://developer.nvidia.com/blog/category/data-center-cloud/</id>
+    <summary type="text">Category: Data Center / Cloud | NVIDIA Technical Blog</summary>
   </entry>
   <entry>
     <title>Recent posts</title>
@@ -385,5 +380,11 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <link href="https://www.microsoft.com/en-us/industry/blog/energy-and-resources/"/>
     <id>https://www.microsoft.com/en-us/industry/blog/energy-and-resources/</id>
     <summary type="text">Read the latest news and posts about Energy and resources from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
+  </entry>
+  <entry>
+    <title>Financial services - Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/financial-services/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/financial-services/</id>
+    <summary type="text">Read the latest news and posts about Financial services from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
   </entry>
 </feed>

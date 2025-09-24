@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/young-talons-edu-tech.json",
   "items": [
     {
+      "id": "https://www.edsurge.com/news/2025-09-23-the-silver-bullet-to-fix-child-care-s-staffing-problem",
+      "url": "https://www.edsurge.com/news/2025-09-23-the-silver-bullet-to-fix-child-care-s-staffing-problem",
+      "title": "The ‘Silver Bullet’ to Fix Child Care’s Staffing Problem\n - EdSurge News",
+      "content_text": "The early childhood sector is having a staffing crisis. With men remaining a largely untouched population, new efforts could draw them in.",
+      "attachments": [
+        {
+          "url": "https://edsurge.imgix.net/uploads/post/image/16448/shutterstock_447175231-1758313076.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "young-talons-edu-tech"
+      ]
+    },
+    {
       "id": "https://www.edsurge.com/news/2025-09-22-at-this-rural-microschool-students-will-study-with-ai-and-run-an-airbnb",
       "url": "https://www.edsurge.com/news/2025-09-22-at-this-rural-microschool-students-will-study-with-ai-and-run-an-airbnb",
       "title": "At This Rural Microschool, Students Will Study With AI and Run an Airbnb - EdSurge News",
@@ -72,21 +87,6 @@
       "attachments": [
         {
           "url": "https://edsurge.imgix.net/uploads/post/image/16441/shutterstock_1731619444-1757714156.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "young-talons-edu-tech"
-      ]
-    },
-    {
-      "id": "https://www.edsurge.com/news/2025-09-15-how-much-freedom-do-teachers-have-in-the-classroom-in-2025-it-s-complicated",
-      "url": "https://www.edsurge.com/news/2025-09-15-how-much-freedom-do-teachers-have-in-the-classroom-in-2025-it-s-complicated",
-      "title": "How Much Freedom Do Teachers Have in the Classroom? In 2025, It’s Complicated. - EdSurge News",
-      "content_text": "PEN America this year identified more than a dozen states that have considered laws prohibiting teachers from displaying flags or signs related to ...",
-      "attachments": [
-        {
-          "url": "https://edsurge.imgix.net/uploads/post/image/16440/shutterstock_1336931381-1757702997.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
           "mime_type": "image/jpeg"
         }
       ],
@@ -200,7 +200,7 @@
       "id": "https://news.mit.edu/topic/sustainability",
       "url": "https://news.mit.edu/topic/sustainability",
       "title": "Sustainability | MIT News | Massachusetts Institute of Technology",
-      "content_text": "J-PAL North America’s inaugural Climate Action Learning Lab provided six U.S. cities and states with customized training and resources to leverage data and evaluation to advance climate solutions that work.",
+      "content_text": "The collaboration has led to new fuels and a variety of other projects to enable clean, safe nuclear energy.",
       "tags": [
         "young-talons-edu-tech"
       ]

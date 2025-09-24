@@ -5,6 +5,246 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sciencedaily-top.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250923021217.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250923021217.htm",
+      "title": "Diamonds reveal hidden chemistry deep inside Earth",
+      "content_text": "South African diamonds have revealed nickel-rich metallic inclusions, offering the first direct evidence of reactions predicted to occur deep in Earth’s mantle. The study shows how oxidized melts infiltrated reduced rocks, trapping both the cause and effect of diamond formation. These reactions help explain volatile-rich magmas like kimberlites, linking mantle chemistry to volcanic processes. Diamonds emerge as tiny record-keepers of Earth’s deep, dynamic engine.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/earth-structure-layers.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250923021212.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250923021212.htm",
+      "title": "Dogs can tell how toys work without any training",
+      "content_text": "Gifted dogs can categorize toys by function, not just appearance. In playful at-home tests, they linked labels like “fetch” and “pull” to toys—even ones they’d never seen before. The findings hint that dogs form mental concepts of objects, much like humans, pointing to deeper cognitive abilities.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/smart-dog-puzzle-toy.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250923021210.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250923021210.htm",
+      "title": "Fish love songs recorded for 12 years reveal a surprising shift",
+      "content_text": "By recording grouper grunts for 12 years, scientists discovered major shifts in how red hind spawn and compete. Courtship calls once dominated, but territorial sounds have surged, suggesting changes in population structure. Machine learning helped decode the patterns quickly, offering a groundbreaking way to monitor and conserve reef fish.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/red-hind-epinephelus-guttatus-close.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250923021207.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250923021207.htm",
+      "title": "Stressed koalas are facing a deadly epidemic",
+      "content_text": "Researchers have shown that stress and retrovirus levels are tightly linked to disease in koalas. High KoRV loads make koalas more vulnerable to chlamydia, worsening epidemics in stressed populations. Protecting habitats, careful breeding, and antiviral trials are now being pursued to give koalas a fighting chance at survival.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/koala-stare.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250923021204.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250923021204.htm",
+      "title": "10 people who beat 8,000 others to become NASA astronaut candidates",
+      "content_text": "NASA has chosen 10 new astronaut candidates who will train for missions to the Moon and Mars. Their selection represents a powerful blend of talent and ambition, fueling humanity’s next great leaps into space.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/nasa-2025-class-of-astronaut-candidates.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250923021200.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250923021200.htm",
+      "title": "NASA’s Mars rover Curiosity captures stunning details of alien rock formations",
+      "content_text": "Curiosity is exploring Mars’ boxwork terrain, where ridges and hollows may have formed from cementation and erosion. The rover has been documenting rock textures and chemistry, comparing smoother ridge rocks with nodular hollow-edge rocks. Scientists are weighing drill sites while also monitoring dust, clouds, and long-distance features across Gale Crater.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/nasa-mars-rover-curiosity.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250923021158.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250923021158.htm",
+      "title": "The Universe’s first magnetic fields were shockingly weak, but changed everything",
+      "content_text": "Primordial magnetic fields, billions of times weaker than a fridge magnet, may have left lasting imprints on the Universe. Researchers ran over 250,000 simulations to show how these fields shaped the cosmic web, then validated the results with observations. Their study sets a stricter upper limit on the fields’ strength, aligning with other data and suggesting important consequences for early star and galaxy formation.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/galaxy-formation-magnetic-field.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250923021156.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250923021156.htm",
+      "title": "AI breakthrough finds life-saving insights in everyday bloodwork",
+      "content_text": "AI-powered analysis of routine blood tests can reveal hidden patterns that predict recovery and survival after spinal cord injuries. This breakthrough could make life-saving predictions affordable and accessible in hospitals worldwide.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/blood-sample-test-clinic-laboratory.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250923021153.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250923021153.htm",
+      "title": "Student’s pinkie-sized fossil reveals a new croc species",
+      "content_text": "A 95-million-year-old crocodyliform fossil, affectionately nicknamed Elton, was discovered in Montana by student Harrison Allen. Unlike most crocs, it lived on land and ate a varied diet. The find led to the naming of a new species, Thikarisuchus xenodentes, offering insights into croc evolution and burrow-based fossil preservation. For Allen, it was a life-changing project that launched him into a career in paleontology.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/thikarisuchus-xenodentes.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250923021148.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250923021148.htm",
+      "title": "How dehydration secretly fuels anxiety and health problems",
+      "content_text": "Not drinking enough water could intensify stress responses. Researchers found that under-hydrated individuals had cortisol levels more than 50% higher during stressful situations. Poor hydration didn’t make participants feel thirstier, but it did trigger biological signs of strain. Keeping a water bottle handy could help manage stress and safeguard health.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/man-drinking-water-on-sofa.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250922075000.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250922075000.htm",
+      "title": "Can meditation apps really reduce stress, anxiety, and insomnia?",
+      "content_text": "Meditation apps are revolutionizing mental health, providing easy access to mindfulness practices and new opportunities for scientific research. With the help of wearables and AI, these tools can now deliver personalized training tailored to individual needs.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/woman-mindfulness-meditation-app.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250922074958.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250922074958.htm",
+      "title": "This vibrant moth fooled scientists for generations",
+      "content_text": "For more than a century, a dazzling pink-and-yellow moth was mistaken for a common European species, but DNA analysis revealed it as entirely new: Carcina ingridmariae. Found across the eastern Mediterranean, this hidden beauty had evaded recognition until advanced barcoding techniques exposed its genetic secrets. Entomologist Dr. Peter Huemer confirmed the discovery and, in a heartfelt gesture, named the moth after his wife on their 42nd anniversary, celebrating both science and love.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/ingrid-marias-carcina-moth.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250922074956.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250922074956.htm",
+      "title": "Insects are disappearing from the last places we thought were safe",
+      "content_text": "A long-term study in Colorado reveals that insect populations are plummeting even in remote, undisturbed areas. Over two decades, flying insect abundance dropped by more than 70%, closely linked to rising summer temperatures. The results suggest that climate change, not just human land use, is driving massive losses. Scientists warn that biodiversity hotspots, especially mountain ecosystems, are now at serious risk.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/dead-bees-close-up.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250922074954.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250922074954.htm",
+      "title": "Dementia-like clumps found in cells before cancer strikes",
+      "content_text": "Researchers found that pancreatic pre-cancer cells mimic dementia by forming clumps of proteins due to faulty recycling processes. These insights could shed light on why pancreatic cancer develops so aggressively and why it is difficult to treat. By studying overlaps with neurological diseases, scientists hope to identify new strategies for prevention and treatment.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/malignant-cancer-cells.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250922074952.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250922074952.htm",
+      "title": "Hidden brain signal reveals Alzheimer’s years before symptoms",
+      "content_text": "A new study has revealed that TSPO, a protein linked to brain inflammation, rises long before Alzheimer’s symptoms appear. Researchers tracked the protein in genetically engineered mice and confirmed the results in human brain tissue from Colombian families with a known Alzheimer’s mutation. They found unusually high levels of TSPO in microglia clustered around plaques, particularly in women. This discovery not only deepens our understanding of the disease but also sparks the possibility of using TSPO to detect and treat Alzheimer’s far earlier than ever before.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/brain-disease-inflammation.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250922074949.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250922074949.htm",
+      "title": "This surprising building material is strong, cheap, and sustainable",
+      "content_text": "A team at RMIT University has created a cement-free construction material using only cardboard, soil, and water. Strong enough for low-rise buildings, it reduces emissions, costs, and waste compared to concrete. The lightweight, on-site process makes it ideal for remote areas, while its thermal properties naturally cool buildings. Researchers see it as a key step toward greener, more resilient architecture.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/jiaming-ma-holding-cardboard-confined-rammed-earth-material.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/09/250922074947.htm",
       "url": "https://www.sciencedaily.com/releases/2025/09/250922074947.htm",
       "title": "Childhood plastic exposure could be fueling obesity, infertility, and asthma",
@@ -57,246 +297,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/physics-water-explosion.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250921091002.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250921091002.htm",
-      "title": "A hormone that silences the immune system may unlock new cancer treatments",
-      "content_text": "Scientists have discovered that cancer uses a hidden hormone to switch off the body’s natural defenses, allowing tumors to grow unchecked. By uncovering this secret signal, they found a way to block it and restore the immune system’s ability to fight back. The breakthrough not only hints at powerful new cancer treatments but also suggests the same pathway could someday be used to calm autoimmune diseases.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/t-cells-cancer-cells.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250921090904.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250921090904.htm",
-      "title": "When cancer cells feel squeezed, they become more dangerous",
-      "content_text": "New research shows that cancer cells don’t just grow; they adapt when stressed. When squeezed inside tissues, they transform into more invasive, drug-resistant versions of themselves. A protein called HMGB2 helps flip this dangerous switch, giving the cells new powers to escape. The findings reveal how the tumor’s environment itself can drive cancer’s deadly flexibility.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/cancer-cell-infecting-healthy-tissue.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250921090902.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250921090902.htm",
-      "title": "Want a younger brain? Harvard researchers say eat like this",
-      "content_text": "Researchers have shown that a green-Mediterranean diet can help slow brain aging. By analyzing data from the DIRECT PLUS trial, scientists found reduced levels of proteins tied to faster brain decline among those consuming green tea and Mankai. The results point to anti-inflammatory compounds as key protectors of brain health. This diet may be a powerful tool for preserving cognitive function.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/green-tea-and-salad.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250921090859.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250921090859.htm",
-      "title": "Why alcohol blocks the liver from healing, even after you quit",
-      "content_text": "Alcohol doesn’t just damage the liver — it locks its cells in a strange “in-between” state that prevents them from healing. Even after someone quits drinking, liver cells often get stuck, unable to function normally or regenerate. Scientists have now traced this problem to runaway inflammation, which scrambles the cell’s instructions and silences a key helper protein. By blocking these inflammatory signals in lab tests, they were able to restore the liver’s healing ability — a finding that could point to new treatments beyond transplants.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/man-suffering-liver-pain.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250921090857.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250921090857.htm",
-      "title": "Hidden for 125 years, a Welsh fossil turns out to be a dinosaur",
-      "content_text": "More than a century after its discovery, a mysterious fossil from South Wales has finally been confirmed as belonging to a new species of predatory dinosaur. Using cutting-edge digital scanning, researchers reconstructed the long-lost jawbone, revealing unique features that warranted a new name: Newtonsaurus.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/newtonsaurus-fossil-jawbone-specimen.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250921090853.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250921090853.htm",
-      "title": "Tiny new lenses, smaller than a hair, could transform phone and drone cameras",
-      "content_text": "Scientists have developed a new multi-layered metalens design that could revolutionize portable optics in devices like phones, drones, and satellites. By stacking metamaterial layers instead of relying on a single one, the team overcame fundamental limits in focusing multiple wavelengths of light. Their algorithm-driven approach produced intricate nanostructures shaped like clovers, propellers, and squares, enabling improved performance, scalability, and polarization independence.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/metamaterial-lenses-for-phones-and-drones.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250921090850.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250921090850.htm",
-      "title": "New crystal camera lets doctors see inside the body like never before",
-      "content_text": "Scientists have created a perovskite-based gamma-ray detector that surpasses traditional nuclear medicine imaging technology. The device delivers sharper, faster, and safer scans at a fraction of the cost. By combining crystal engineering with pixelated sensor design, it achieves record imaging resolution. Now being commercialized, it promises to expand access to high-quality diagnostics worldwide.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/advanced-medical-scan-inside-human-body-anatomy.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250921090846.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250921090846.htm",
-      "title": "Ordinary ice found to have shocking electrical powers",
-      "content_text": "Scientists have discovered that ordinary ice is a flexoelectric material, capable of generating electricity when bent or unevenly deformed. At very low temperatures, it can even become ferroelectric, developing reversible electric polarization. This could help explain lightning formation in storms and inspire new technologies that use ice as an active material.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/ice-generates-electricity-when-bent.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250921090841.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250921090841.htm",
-      "title": "Could these strange rocks be the first true evidence of life on Mars?",
-      "content_text": "In Jezero Crater’s Bright Angel formation, Perseverance has found rocks rich in organic molecules and minerals linked to microbial metabolism. Their arrangement hints at redox reactions that resemble Earth’s life-driven chemistry. While not proof of Martian life, the findings qualify as “potential biosignatures” and make the stored sample a top candidate for return to Earth.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/nasa-perseverance-mars-rover-at-bright-angel.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250921090838.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250921090838.htm",
-      "title": "Breakthrough method could dramatically cut prescription drug prices",
-      "content_text": "University of Maine researchers developed a new process to make HBL, a key ingredient in many medicines, from renewable glucose instead of petroleum. The approach not only lowers drug production costs but also reduces emissions.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/prescription-drug-prices.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250921023936.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250921023936.htm",
-      "title": "Hubble reveals baby stars in a galaxy torn by gravity",
-      "content_text": "Hubble’s latest look at Messier 96 reveals a warped spiral galaxy glowing with rings of stellar birth. The new details shed light on how stars emerge and influence their surroundings.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/messier-96-hubble-space-telescope.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250920214459.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250920214459.htm",
-      "title": "Scientists reveal the everyday habits that may shield you from dementia",
-      "content_text": "New studies reveal that lifestyle changes—such as exercise, healthy eating, and social engagement—can help slow or prevent cognitive decline. Experts say this low-cost, powerful approach could transform dementia care and reduce its crushing toll on families and health systems.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/coffee-couple-walking-dog.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250920214455.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250920214455.htm",
-      "title": "Your pancreas may be making its own version of Ozempic",
-      "content_text": "Duke University scientists have discovered that pancreatic alpha cells, long believed to only produce glucagon, actually generate powerful amounts of GLP-1 — the same hormone mimicked by popular diabetes drugs like semaglutide (Ozempic and Wegovy). Even more surprisingly, when glucagon production is blocked, alpha cells “switch gears” and boost GLP-1 output, enhancing insulin release and blood sugar control.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/ozempic-semaglutide-injection-pens.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250920214451.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250920214451.htm",
-      "title": "The surprising way metabolism controls embryo growth",
-      "content_text": "Metabolism does more than fuel embryos—it sets their developmental rhythm. EMBL researchers found that a sugar molecule, FBP, controls the pace of spine formation, suggesting metabolism may act as a biological pacemaker.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/human-fetus-embryo-with-internal-organs.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250920214447.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250920214447.htm",
-      "title": "Neutrinos may be the hidden force behind gold and platinum",
-      "content_text": "When two neutron stars collide, they unleash some of the most powerful forces in the universe, creating ripples in spacetime, showers of radiation, and even the building blocks of gold and platinum. Now, new simulations from Penn State and the University of Tennessee Knoxville reveal that elusive particles called neutrinos—able to shift between different “flavors”—play a crucial role in shaping what emerges from these cataclysmic events.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/neutron-star-merger-remnant.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250920214427.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250920214427.htm",
-      "title": "NASA just confirmed its 6,000th alien world. Some are truly bizarre",
-      "content_text": "NASA has confirmed 6,000 exoplanets, marking a major milestone in humanity’s quest to understand other worlds. From gas giants hugging their stars to planets covered in lava or clouds of gemstones, the diversity of discoveries is staggering. With upcoming missions like the Roman Space Telescope and the Habitable Worlds Observatory, scientists are getting closer to detecting Earth-like planets, and possibly signs of life.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/nasa-confirms-6000-exoplanets.webp",
           "mime_type": "image/webp"
         }
       ],

@@ -5,6 +5,51 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/human_effect.json",
   "items": [
     {
+      "id": "https://spectrum.ieee.org/top-programming-languages-2025",
+      "url": "https://spectrum.ieee.org/top-programming-languages-2025",
+      "title": "AI Is Redefining the Concept of a Programming Language's Popularity",
+      "content_text": "Python reigns supreme again, but is AI changing the game for programming languages? Find out how coding is transforming.",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=61631330&width=1200&height=600&coordinates=0%2C236%2C0%2C384",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/top-programming-languages-methodology-2025",
+      "url": "https://spectrum.ieee.org/top-programming-languages-methodology-2025",
+      "title": "Top Programming Languages Methodology 2025",
+      "content_text": "How we construct the rankings",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=61634718&width=1200&height=600&coordinates=0%2C204%2C0%2C416",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/the-long-strange-trip-from-silica-to-smartphone",
+      "url": "https://spectrum.ieee.org/the-long-strange-trip-from-silica-to-smartphone",
+      "title": "The Long Strange Trip from Silica to Smartphone",
+      "content_text": "Three continents, 30,000 kilometers, and 2,000-degree reactors",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://spectrum.ieee.org/agi-benchmark",
       "url": "https://spectrum.ieee.org/agi-benchmark",
       "title": "Can AI's Intelligence Be Measured Like Human IQ?",
@@ -170,21 +215,6 @@
       ]
     },
     {
-      "id": "https://spectrum.ieee.org/scale-of-light-pollution",
-      "url": "https://spectrum.ieee.org/scale-of-light-pollution",
-      "title": "Are We Losing Our Connection to the Night Sky?",
-      "content_text": "What's at stake as artificial light drowns out the stars, cutting us off from the universe's vastness and the wonder it inspires.",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/image.png?id=61591088&width=1200&height=600&coordinates=0%2C500%2C0%2C500",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
       "id": "https://aiforgood.itu.int/setting-the-scene-on-ai-governance/",
       "url": "https://aiforgood.itu.int/setting-the-scene-on-ai-governance/",
       "title": "Setting the Scene on AI Governance",
@@ -230,21 +260,6 @@
       ]
     },
     {
-      "id": "https://spectrum.ieee.org/scaling-carbon-capture-technology",
-      "url": "https://spectrum.ieee.org/scaling-carbon-capture-technology",
-      "title": "Scaling Carbon Capture: Can We Meet the Challenge?",
-      "content_text": "What would it take to scale carbon removal technologies to remove billions of tonnes of carbon dioxide a year? These charts explain.",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/image.png?id=61597747&width=1200&height=600&coordinates=0%2C201%2C0%2C202",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
       "id": "https://montrealethics.ai/ai-policy-corner-restriction-vs-regulation-comparing-state-approaches-to-ai-mental-health-legislation/",
       "url": "https://montrealethics.ai/ai-policy-corner-restriction-vs-regulation-comparing-state-approaches-to-ai-mental-health-legislation/",
       "title": "AI Policy Corner: Restriction vs. Regulation: Comparing State Approaches to AI Mental Health Legislation | Montreal AI Ethics Institute",
@@ -282,21 +297,6 @@
       "attachments": [
         {
           "url": "https://montrealethics.ai/wp-content/uploads/2025/09/tom-kotov-jIQqNvDihBA-unsplash-scaled.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/kessler-syndrome-plasma-thruster-deorbit",
-      "url": "https://spectrum.ieee.org/kessler-syndrome-plasma-thruster-deorbit",
-      "title": "Plasma Thrusters Could Be Key to Tackling Space Debris",
-      "content_text": "A novel plasma thruster design could be the answer to Kessler Syndrome. Learn how it aims to clear space debris without contact.",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=61592157&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
           "mime_type": "image/jpeg"
         }
       ],
@@ -710,6 +710,51 @@
       ]
     },
     {
+      "id": "https://www.technologyreview.com/2025/09/23/1123986/roundtables-meet-the-2025-innovator-of-the-year/",
+      "url": "https://www.technologyreview.com/2025/09/23/1123986/roundtables-meet-the-2025-innovator-of-the-year/",
+      "title": "Roundtables: Meet the 2025 Innovator of the Year",
+      "content_text": "Watch a subscriber-only conversation with Sneha Goenka, who designed the computations behind the world’s fastest whole-genome sequencing method.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/MITTR-Roundtables-1-Zoom-Opening-Overlay.png?resize=1200%2C600",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2025/09/23/1123921/the-download-ais-retracted-papers-problem/",
+      "url": "https://www.technologyreview.com/2025/09/23/1123921/the-download-ais-retracted-papers-problem/",
+      "title": "The Download: AI’s retracted papers problem",
+      "content_text": "Plus: There’s scant evidence that tylenol use during pregnancy causes autism.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/retracted-papers2a.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2025/09/23/1123897/ai-models-are-using-material-from-retracted-scientific-papers/",
+      "url": "https://www.technologyreview.com/2025/09/23/1123897/ai-models-are-using-material-from-retracted-scientific-papers/",
+      "title": "AI models are using material from retracted scientific papers",
+      "content_text": "Some companies are working to remedy the issue.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/retracted-papers2a.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://www.technologyreview.com/2025/09/22/1123889/the-download-the-llm-will-see-you-now-and-a-new-fusion-power-deal/",
       "url": "https://www.technologyreview.com/2025/09/22/1123889/the-download-the-llm-will-see-you-now-and-a-new-fusion-power-deal/",
       "title": "The Download: the LLM will see you now, and a new fusion power deal",
@@ -807,51 +852,6 @@
       "attachments": [
         {
           "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/GettyImages-1785583497.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/09/17/1123801/ai-virus-bacteriophage-life/",
-      "url": "https://www.technologyreview.com/2025/09/17/1123801/ai-virus-bacteriophage-life/",
-      "title": "AI-designed viruses are here and already killing bacteria",
-      "content_text": "Can AI create a life form? These “generative” genomes are a start",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/generate-phage.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/09/17/1123795/the-download-measuring-returns-on-rd-and-ais-creative-potential/",
-      "url": "https://www.technologyreview.com/2025/09/17/1123795/the-download-measuring-returns-on-rd-and-ais-creative-potential/",
-      "title": "The Download: measuring returns on R&D, and AI’s creative potential",
-      "content_text": "Plus: TikTok's potential new owners have deep pockets",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/research-spending-usa.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/09/17/1123760/how-to-measure-the-returns-to-rd-spending/",
-      "url": "https://www.technologyreview.com/2025/09/17/1123760/how-to-measure-the-returns-to-rd-spending/",
-      "title": "How to measure the returns on R&D spending",
-      "content_text": "Forget the glorious successes of past breakthroughs—the real justification for research investment is what we get for our money. Here’s what economists say.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/research-spending-usa.jpg?resize=1200%2C600",
           "mime_type": "image/jpeg"
         }
       ],

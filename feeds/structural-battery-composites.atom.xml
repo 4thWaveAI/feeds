@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/structural-battery-composites.atom.xml"/>
   <id>urn:4thwaveai-feeds:structural-battery-composites</id>
-  <updated>Tue, 23 Sep 2025 05:43:09 +0000</updated>
+  <updated>Wed, 24 Sep 2025 05:41:54 +0000</updated>
   <entry>
     <title>New cooling breakthrough nearly doubles efficiency</title>
     <link href="https://www.sciencedaily.com/releases/2025/09/250919085242.htm"/>
@@ -66,6 +66,12 @@
     <summary type="text">Lightweight, powerful lithium-ion batteries are crucial for the transition to electric vehicles, and global demand for lithium is set to grow rapidly over the next 25 years. A new analysis looks at how new mining operations and battery recycling could meet that demand. Recycling could play a big role in easing supply constraints, the researchers found.</summary>
   </entry>
   <entry>
+    <title>Interstitial nanofilament pathway reduces energy consumption in memristors - Nature Nanotechnology</title>
+    <link href="https://www.nature.com/articles/s41565-025-02014-y"/>
+    <id>https://www.nature.com/articles/s41565-025-02014-y</id>
+    <summary type="text">Molecular crystals with interstitial filaments enable memristors with zeptojoule-level switching energy and over one billion switching cycles, offering a scalable path to energy-efficient and reliable in-memory computing.</summary>
+  </entry>
+  <entry>
     <title>Deploying two-dimensional memristors on chip - Nature Nanotechnology</title>
     <link href="https://www.nature.com/articles/s41565-025-02004-0"/>
     <id>https://www.nature.com/articles/s41565-025-02004-0</id>
@@ -78,39 +84,33 @@
     <summary type="text">The insertion of thin cobalt layers increases the thermal stability of β-tungsten. Using this composite as the spin current source in a 64-kb spin–orbit torque magnetic random-access memory array enables back-end-of-line process compatibility and efficient magnetization switching — achieving 1 ns switching, data retention of more than 10 years and 146% tunnelling magnetoresistance.</summary>
   </entry>
   <entry>
-    <title>Pipe dream beam coming true - Nature Materials</title>
-    <link href="https://www.nature.com/articles/s41563-025-02347-y"/>
-    <id>https://www.nature.com/articles/s41563-025-02347-y</id>
-    <summary type="text">Delayed femtosecond photoemission from a single-walled carbon nanotube enables pulsed electron beams with an unprecedented combination of pulse duration and energy spread.</summary>
+    <title>A multimodal robotic platform for multi-element electrocatalyst discovery - Nature</title>
+    <link href="https://www.nature.com/articles/s41586-025-09640-5"/>
+    <id>https://www.nature.com/articles/s41586-025-09640-5</id>
+    <summary type="text">Nature ( 2025 ) Cite this article</summary>
   </entry>
   <entry>
-    <title>Leveraging unlabeled SEM datasets with self-supervised learning for enhanced particle segmentation - npj Computational Materials</title>
-    <link href="https://www.nature.com/articles/s41524-025-01802-3"/>
-    <id>https://www.nature.com/articles/s41524-025-01802-3</id>
-    <summary type="text">npj Computational Materials volume 11 , Article number: 289 ( 2025 ) Cite this article</summary>
+    <title>Stabilized perovskite phases enabling efficient perovskite/perovskite/silicon triple-junction solar cells - Nature Materials</title>
+    <link href="https://www.nature.com/articles/s41563-025-02367-8"/>
+    <id>https://www.nature.com/articles/s41563-025-02367-8</id>
+    <summary type="text">To address the phase instability issue of perovskites, ammonium propionic acid is introduced to enhance the phase stability of both perovskite layers in perovskite/perovskite/silicon triple-junction solar cells, resulting in improved efficiency and reproducibility.</summary>
   </entry>
   <entry>
-    <title>Self-assembly of low-molecular-weight cellulose into nanostructured macroscopic materials - Polymer Journal</title>
-    <link href="https://www.nature.com/articles/s41428-025-01101-0"/>
-    <id>https://www.nature.com/articles/s41428-025-01101-0</id>
-    <summary type="text">Artificial nanocelluloses are produced via the self-assembly of low-molecular-weight (LMW) cellulose in vitro and represent an emerging class of nanocelluloses developed over the past decade. Most artificial nanocelluloses reported to date are particulates. We have developed two types of nanostructured macroscopic materials through the self-assembly of LMW cellulose: nanoribbon network hydrogels and nanospiked microfibrous materials. This Focus Review summarizes our work along with related studies on these novel nanostructured cellulose materials.</summary>
+    <title>Cost-effective laser metal deposition of 304L stainless steel for repairing and enhancing 316L and mild steel engineering components - Scientific Reports</title>
+    <link href="https://www.nature.com/articles/s41598-025-19863-1"/>
+    <id>https://www.nature.com/articles/s41598-025-19863-1</id>
+    <summary type="text">Scientific Reports volume 15 , Article number: 32665 ( 2025 ) Cite this article</summary>
   </entry>
   <entry>
-    <title>Comprehensive analysis of disruption mitigation methods using gas and pellet-like injections in ITER-like Tokamaks - Scientific Reports</title>
-    <link href="https://www.nature.com/articles/s41598-025-14407-z"/>
-    <id>https://www.nature.com/articles/s41598-025-14407-z</id>
-    <summary type="text">Scientific Reports volume 15 , Article number: 32630 ( 2025 ) Cite this article</summary>
+    <title>Amylopectin xerogel with onion based sulfur nitrogen doped carbon quantum dots as a chemosensor for chromium and biosensor for microbial spoilage in tomatoes - Scientific Reports</title>
+    <link href="https://www.nature.com/articles/s41598-025-19875-x"/>
+    <id>https://www.nature.com/articles/s41598-025-19875-x</id>
+    <summary type="text">Scientific Reports volume 15 , Article number: 32667 ( 2025 ) Cite this article</summary>
   </entry>
   <entry>
-    <title>Structural constraint integration in a generative model for the discovery of quantum materials - Nature Materials</title>
-    <link href="https://www.nature.com/articles/s41563-025-02355-y"/>
-    <id>https://www.nature.com/articles/s41563-025-02355-y</id>
-    <summary type="text">This work presents SCIGEN, a machine learning framework integrating geometric constraints into material generation. The framework enables the discovery of stable quantum material candidates, and the authors synthesize two predicted magnetic materials.</summary>
-  </entry>
-  <entry>
-    <title>Directional strong coupling at the nanoscale between hyperbolic polaritons and organic molecules - Nature Photonics</title>
-    <link href="https://www.nature.com/articles/s41566-025-01762-6"/>
-    <id>https://www.nature.com/articles/s41566-025-01762-6</id>
-    <summary type="text">Researchers observe directional strong coupling on the nanoscale between hyperbolic phonon polaritons and pentacene molecules.</summary>
+    <title>Rethinking organic electrochemical transistor modeling: the critical role of volumetric capacitance in predictive 2D Nernst-Planck-Poisson simulations - npj Flexible Electronics</title>
+    <link href="https://www.nature.com/articles/s41528-025-00482-9"/>
+    <id>https://www.nature.com/articles/s41528-025-00482-9</id>
+    <summary type="text">npj Flexible Electronics volume 9 , Article number: 97 ( 2025 ) Cite this article</summary>
   </entry>
 </feed>

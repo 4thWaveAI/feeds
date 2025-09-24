@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/jeff-bezos.json",
   "items": [
     {
+      "id": "https://www.aboutamazon.com/news/community/stem-education-programs-amazon",
+      "url": "https://www.aboutamazon.com/news/community/stem-education-programs-amazon",
+      "title": "STEM Education programs Amazon supports in the U.S.",
+      "content_text": "We are committed to increase youth and adult access to STEM opportunities, inspire students to explore careers of the future and the broad range of technical and non-technical roles available to them, and promote diversity and inclusion in the tech industry.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/d441dce/2147483647/strip/true/crop/1320x660+0+42/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fae%2Ff4%2Fd1109e2c4fb3950e8cf8e0a9f7aa%2Fnm.jfif",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/entertainment/the-chosen-adventures-animated-series-prime-video",
       "url": "https://www.aboutamazon.com/news/entertainment/the-chosen-adventures-animated-series-prime-video",
       "title": "How to watch ‘The Chosen Adventures,’ coming soon to Prime Video",
@@ -20,47 +35,17 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/policy-news-views/united-nations-general-assembly-2025-amazon-ai-project-kuiper",
-      "url": "https://www.aboutamazon.com/news/policy-news-views/united-nations-general-assembly-2025-amazon-ai-project-kuiper",
-      "title": "Amazon shares vision for responsible AI and global connectivity at UN General Assembly",
-      "content_text": "As world leaders gather for UNGA80, Amazon's Chief Global Affairs Officer discusses how Project Kuiper and responsible AI can address pressing global challenges.",
+      "id": "https://www.aboutamazon.com/news/entertainment/saquon-barkley-eagles-prime-video-documentary",
+      "url": "https://www.aboutamazon.com/news/entertainment/saquon-barkley-eagles-prime-video-documentary",
+      "title": "See the trailer for 'Saquon' on Prime Video",
+      "content_text": "The documentary follows NFL running back Saquon Barkley's journey to the Super Bowl with the Philadelphia Eagles.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/0dca2f7/2147483647/strip/true/crop/1920x960+0+69/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fb7%2Fff%2F376c03cb4b2594deef963bde87d1%2Fun-ny-1920x1098-min.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/retail/glp-1-drugs-savings-discount-coupons-amazon-pharmacy",
-      "url": "https://www.aboutamazon.com/news/retail/glp-1-drugs-savings-discount-coupons-amazon-pharmacy",
-      "title": "How Amazon Pharmacy has helped customers save more than $100 million on prescription medications like GLP-1s and insulin",
-      "content_text": "Amazon Pharmacy automatically applies manufacturer-sponsored coupons directly to eligible orders, making medications more affordable.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/543d5d4/2147483647/strip/true/crop/2000x1000+0+85/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F1e%2F7b%2Fafef60974e76a5f09ca53f579b10%2Fabout-amazon-hero-amazon-pharmacy-5012.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/entertainment/harlan-coben-lazarus-sam-claflin-bill-nighy-prime-video",
-      "url": "https://www.aboutamazon.com/news/entertainment/harlan-coben-lazarus-sam-claflin-bill-nighy-prime-video",
-      "title": "How to watch ‘Harlan Coben’s Lazarus’ on Prime Video",
-      "content_text": "Sam Claflin and Bill Nighy star in the mind-bending thriller series from ‘New York Times’ best-selling author Harlan Coben.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/be9dbe4/2147483647/strip/true/crop/3000x1500+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fc3%2F1e%2F50b6bb9642c08fb61a8bb10a0ce1%2Flazu-s1-ut-101-240221-blaben-00200rc-3000.jpg",
+          "url": "https://assets.aboutamazon.com/dims4/default/9703c96/2147483647/strip/true/crop/3000x1500+0+94/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fb0%2Fba%2Fa5c361744e5697c541d569fae865%2Fsaqn-2025-static16x9-teaser-3840x2160-evrgrn-pv-final-en-us-prico-4558254-3000.jpg",
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://www.youtube.com/embed/MjP-63ZG74I",
+          "url": "https://www.youtube.com/embed/0p0LEmgd1uE",
           "mime_type": "video/mp4"
         }
       ],
@@ -69,18 +54,29 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/entertainment/house-of-david-streaming-prime-video",
-      "url": "https://www.aboutamazon.com/news/entertainment/house-of-david-streaming-prime-video",
-      "title": "Everything to know about Prime Video’s biblical epic ‘House of David’ Season 2",
-      "content_text": "The second season of the drama, which follows the aftermath of the battle between David and Goliath, and David’s rise to the throne, returns on October 5.",
+      "id": "https://www.aboutamazon.com/news/entertainment/stream-nba-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/stream-nba-prime-video",
+      "title": "See the NBA schedule on Prime Video",
+      "content_text": "NBA on Prime's inaugural season tips off with a doubleheader: Boston Celtics vs. New York Knicks; Los Angeles Lakers vs. Minnesota Timberwolves.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/f176037/2147483647/strip/true/crop/480x240+0+60/resize/1200x600!/quality/90/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9JUNabjeYlw%2Fhqdefault.jpg",
+          "url": "https://assets.aboutamazon.com/dims4/default/e67a869/2147483647/strip/true/crop/1800x900+0+56/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F4c%2Ff7%2Fcb61b9274157bbff1f8d29b7455c%2Fnba25-schedule-release-gallery-1800x1098-trlpr-final-en-us.jpg",
           "mime_type": "image/jpeg"
-        },
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/community/how-amazon-supports-american-red-cross",
+      "url": "https://www.aboutamazon.com/news/community/how-amazon-supports-american-red-cross",
+      "title": "How Amazon partners with the American Red Cross to make a difference",
+      "content_text": "Learn more about our longstanding partnership, which helps communities recover faster from natural disasters.",
+      "attachments": [
         {
-          "url": "https://www.youtube.com/embed/9JUNabjeYlw",
-          "mime_type": "video/mp4"
+          "url": "https://assets.aboutamazon.com/dims4/default/3079a42/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F9e%2F43%2Faee1b64c4b2f817b1bb819ac13a0%2Famerican-red-cross-volunteer-with-tarp.jpg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -208,6 +204,21 @@
       ]
     },
     {
+      "id": "https://www.aboutamazon.com/news/community",
+      "url": "https://www.aboutamazon.com/news/community",
+      "title": "Community",
+      "content_text": "We look for uniquely Amazonian and innovative ways to make positive, lasting impacts and encourage our employees to champion causes they care about.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/entertainment",
       "url": "https://www.aboutamazon.com/news/entertainment",
       "title": "Entertainment",
@@ -245,51 +256,6 @@
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/community",
-      "url": "https://www.aboutamazon.com/news/community",
-      "title": "Community",
-      "content_text": "We look for uniquely Amazonian and innovative ways to make positive, lasting impacts and encourage our employees to champion causes they care about.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/aws",
-      "url": "https://www.aboutamazon.com/news/aws",
-      "title": "AWS",
-      "content_text": "If you're an inventor, you'll love being an Amazonian. From day one at Amazon, you'll take ownership of projects that have a direct impact on our customers.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/small-business",
-      "url": "https://www.aboutamazon.com/news/small-business",
-      "title": "Small business",
-      "content_text": "More than 60% of items sold in Amazon stores are from independent sellers, most of which are small and medium-sized businesses.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/7b6edd5/2147483647/strip/true/crop/4945x2473+0+412/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F84%2Fc4%2F6d607ca34ef9aaedf00c7cc40a7c%2F20170914elmcoffeeroasters-js-04.JPG",
           "mime_type": "image/jpeg"
         }
       ],
