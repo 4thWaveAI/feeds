@@ -59,6 +59,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news-release/nasa-awards-atmosphere-research-support-contract/",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-atmosphere-research-support-contract/",
+      "title": "NASA Awards Atmosphere Research Support Contract - NASA",
+      "content_text": "NASA has selected Science and Technology Corp. of Columbia, Maryland, to support atmospheric science research and development at the agency’s Goddard Space",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2024/08/meatball-w-black-background.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news-release/nasa-awards-company-to-attempt-swift-spacecraft-orbit-boost/",
       "url": "https://www.nasa.gov/news-release/nasa-awards-company-to-attempt-swift-spacecraft-orbit-boost/",
       "title": "NASA Awards Company to Attempt Swift Spacecraft Orbit Boost - NASA",
@@ -82,21 +97,6 @@
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2025/09/iac-2025-advisory-sept-24.jpg",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/news-release/la-nasa-y-la-noaa-lanzan-tres-naves-espaciales-para-cartografiar-la-influencia-del-sol-en-el-espacio/",
-      "url": "https://www.nasa.gov/news-release/la-nasa-y-la-noaa-lanzan-tres-naves-espaciales-para-cartografiar-la-influencia-del-sol-en-el-espacio/",
-      "title": "La NASA y la NOAA lanzan tres naves espaciales para cartografiar la influencia del Sol en el espacio - NASA",
-      "content_text": "La NASA y la Administración Nacional Oceánica y Atmosférica (NOAA, por sus siglas en inglés) lanzaron el miércoles tres nuevas misiones para investigar la",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2025/09/screenshot-2025-09-24-092053.png",
-          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -295,114 +295,6 @@
           "mime_type": "image/png"
         }
       ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Uniquement les demandes de la presse)",
       "tags": [
         "space-tech"
       ]
