@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/jensen-huang.json",
   "items": [
     {
+      "id": "https://blogs.nvidia.com/blog/canada-all-in/",
+      "url": "https://blogs.nvidia.com/blog/canada-all-in/",
+      "title": "Canada Goes All In on AI: NVIDIA Joins Nations’ Technology Leaders in Montreal to Shape Sovereign AI Strategy",
+      "content_text": "Canada’s role as a leader in artificial intelligence was on full display at this week’s All In Canada AI Ecosystem event. NVIDIA Vice President of Generative AI Software Kari Briski today joined Canada’s Minister of Artificial Intelligence and Digital Innovation Evan Solomon and Aiden Gomez, cofounder and CEO of Cohere, in a special address moderated  Read Article",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/Cocktail-23-septembre-113-1-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
       "id": "https://blogs.nvidia.com/blog/openai-nvidia/",
       "url": "https://blogs.nvidia.com/blog/openai-nvidia/",
       "title": "NVIDIA, OpenAI Announce 'the Biggest AI Infrastructure Deployment in History'",
@@ -36,21 +51,6 @@
         {
           "url": "https://www.youtube.com/embed/3GhckKPLDd4?feature=oembed",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "jensen-huang"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/blackwell-ai-inference/",
-      "url": "https://blogs.nvidia.com/blog/blackwell-ai-inference/",
-      "title": "NVIDIA Blackwell: Born for Extreme-Scale AI Inference",
-      "content_text": "NVIDIA Blackwell is the core of a system architecture designed to power AI factories that produce intelligence through inference.",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/blackwell-more-than-a-chip-intro-desktop-scaled.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -106,7 +106,7 @@
       "id": "https://blogs.nvidia.com/blog/category/enterprise/",
       "url": "https://blogs.nvidia.com/blog/category/enterprise/",
       "title": "Data Center Archives",
-      "content_text": "Energy efficiency in large language model inference has improved 100,000x in the past 10 years — demonstrating that… Read Article",
+      "content_text": "Open technologies — made available to developers and businesses to adopt, modify and innovate with — have been… Read Article",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
@@ -121,7 +121,7 @@
       "id": "https://blogs.nvidia.com/blog/category/generative-ai/",
       "url": "https://blogs.nvidia.com/blog/category/generative-ai/",
       "title": "Generative AI Archives",
-      "content_text": "Energy efficiency in large language model inference has improved 100,000x in the past 10 years — demonstrating that… Read Article",
+      "content_text": "Open technologies — made available to developers and businesses to adopt, modify and innovate with — have been… Read Article",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",

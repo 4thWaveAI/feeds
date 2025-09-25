@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/young-talons-edu-tech.json",
   "items": [
     {
+      "id": "https://www.edsurge.com/news/2025-09-24-how-i-m-rewriting-the-narrative-for-latino-students-in-our-schools",
+      "url": "https://www.edsurge.com/news/2025-09-24-how-i-m-rewriting-the-narrative-for-latino-students-in-our-schools",
+      "title": "How I’m Rewriting the Narrative for Latino Students in Our Schools - EdSurge News",
+      "content_text": "BREAKING THE NARRATIVE: Latino students are too often reduced to a single story — whether through labels like “no sabo kid” or assumptions about ...",
+      "attachments": [
+        {
+          "url": "https://edsurge.imgix.net/uploads/post/image/16443/shutterstock_2572050171-1757952340.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "young-talons-edu-tech"
+      ]
+    },
+    {
       "id": "https://www.edsurge.com/news/2025-09-23-the-silver-bullet-to-fix-child-care-s-staffing-problem",
       "url": "https://www.edsurge.com/news/2025-09-23-the-silver-bullet-to-fix-child-care-s-staffing-problem",
       "title": "The ‘Silver Bullet’ to Fix Child Care’s Staffing Problem\n - EdSurge News",
@@ -53,7 +68,7 @@
       "id": "https://www.edsurge.com/news/2025-09-18-teaching-through-the-latest-industrial-revolution",
       "url": "https://www.edsurge.com/news/2025-09-18-teaching-through-the-latest-industrial-revolution",
       "title": "Teaching Through the Latest Industrial Revolution  - EdSurge News",
-      "content_text": "The following story is part of our research series, Teaching Tech. To read more about this project, click here. Almost three years into the ChatGPT ...",
+      "content_text": "Almost three years into the ChatGPT frenzy, and we’ve heard it all about AI. Ever since ChatGPT was released, and kids started writing essays with AI, ...",
       "attachments": [
         {
           "url": "https://edsurge.imgix.net/uploads/post/image/16444/shutterstock_786572845-1757966727.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
@@ -72,21 +87,6 @@
       "attachments": [
         {
           "url": "https://edsurge.imgix.net/uploads/post/image/16442/shutterstock_2567109937-1757950759.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "young-talons-edu-tech"
-      ]
-    },
-    {
-      "id": "https://www.edsurge.com/news/2025-09-16-teachers-turn-toward-virtual-schools-for-better-work-life-balance",
-      "url": "https://www.edsurge.com/news/2025-09-16-teachers-turn-toward-virtual-schools-for-better-work-life-balance",
-      "title": "Teachers Turn Toward Virtual Schools for Better Work-Life Balance \n - EdSurge News",
-      "content_text": "More teachers are flocking to virtual schools, citing better work-life balance, improved safety and more time for creativity as driving forces.",
-      "attachments": [
-        {
-          "url": "https://edsurge.imgix.net/uploads/post/image/16441/shutterstock_1731619444-1757714156.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
           "mime_type": "image/jpeg"
         }
       ],
@@ -191,7 +191,7 @@
       "id": "https://news.mit.edu/topic/machine-learning",
       "url": "https://news.mit.edu/topic/machine-learning",
       "title": "Machine learning | MIT News | Massachusetts Institute of Technology",
-      "content_text": "With SCIGEN, researchers can steer AI models to create materials with exotic properties for applications like quantum computing.",
+      "content_text": "By enabling rapid annotation of areas of interest in medical images, the tool can help scientists study new treatments or map disease progression.",
       "tags": [
         "young-talons-edu-tech"
       ]

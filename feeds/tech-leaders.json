@@ -5,13 +5,43 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.json",
   "items": [
     {
-      "id": "https://www.aboutamazon.com/news/community/stem-education-programs-amazon",
-      "url": "https://www.aboutamazon.com/news/community/stem-education-programs-amazon",
-      "title": "STEM Education programs Amazon supports in the U.S.",
-      "content_text": "We are committed to increase youth and adult access to STEM opportunities, inspire students to explore careers of the future and the broad range of technical and non-technical roles available to them, and promote diversity and inclusion in the tech industry.",
+      "id": "https://blogs.nvidia.com/blog/canada-all-in/",
+      "url": "https://blogs.nvidia.com/blog/canada-all-in/",
+      "title": "Canada Goes All In on AI: NVIDIA Joins Nations’ Technology Leaders in Montreal to Shape Sovereign AI Strategy",
+      "content_text": "Canada’s role as a leader in artificial intelligence was on full display at this week’s All In Canada AI Ecosystem event. NVIDIA Vice President of Generative AI Software Kari Briski today joined Canada’s Minister of Artificial Intelligence and Digital Innovation Evan Solomon and Aiden Gomez, cofounder and CEO of Cohere, in a special address moderated  Read Article",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/d441dce/2147483647/strip/true/crop/1320x660+0+42/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fae%2Ff4%2Fd1109e2c4fb3950e8cf8e0a9f7aa%2Fnm.jfif",
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/Cocktail-23-septembre-113-1-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/micah-parsons-justin-jefferson-prime-video-undercovers",
+      "url": "https://www.aboutamazon.com/news/entertainment/micah-parsons-justin-jefferson-prime-video-undercovers",
+      "title": "Watch NFL stars Micah Parsons and Justin Jefferson in the next installments of 'The Undercovers' on Prime Video",
+      "content_text": "Eli Manning's show features NFL players going undercover to interact with football fans.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/c098d38/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fde%2Fa3%2F745918a6402e8bd3e4fb53e7f459%2Fabout-amazon-hero-elmp-2025-static16x9-micah-3840x2160-evrgrn-pv-final-en-us-kaps-4628906.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/new-heights-jason-travis-kelce-prime-video-podcast-wondery",
+      "url": "https://www.aboutamazon.com/news/entertainment/new-heights-jason-travis-kelce-prime-video-podcast-wondery",
+      "title": "‘New Heights with Jason & Travis Kelce’ now available on Prime Video in the US",
+      "content_text": "Fans can now watch football’s funniest family duo on Prime Video with their unique blend of NFL insider perspectives, brotherly banter, and pop culture commentary.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/6367ad3/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F6e%2F57%2Fe895a6d847b18a14d66447ac8366%2Fwondery-new-heights-standard-hero-082925-2000x1125.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -39,21 +69,6 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/entertainment/the-chosen-adventures-animated-series-prime-video",
-      "url": "https://www.aboutamazon.com/news/entertainment/the-chosen-adventures-animated-series-prime-video",
-      "title": "How to watch ‘The Chosen Adventures,’ coming soon to Prime Video",
-      "content_text": "The animated adventure comedy series from Ryan Swanson follows two friends who encounter a wise craftsman and teacher who helps them change the way they see the world.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/1ae6e78/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F99%2F3f%2Fb60aa84b4825ae17e1cee1d2ee6e%2Fabout-amazon-inline-thechosenadventures-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
       "id": "https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/",
       "url": "https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/",
       "title": "The UK’s ‘Goldilocks Moment for AI’: NVIDIA, UK and US Leaders Highlight AI Infrastructure Investments",
@@ -66,21 +81,6 @@
         {
           "url": "https://www.youtube.com/embed/3GhckKPLDd4?feature=oembed",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "jensen-huang"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/blackwell-ai-inference/",
-      "url": "https://blogs.nvidia.com/blog/blackwell-ai-inference/",
-      "title": "NVIDIA Blackwell: Born for Extreme-Scale AI Inference",
-      "content_text": "NVIDIA Blackwell is the core of a system architecture designed to power AI factories that produce intelligence through inference.",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/blackwell-more-than-a-chip-intro-desktop-scaled.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -133,17 +133,17 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/entertainment/saquon-barkley-eagles-prime-video-documentary",
-      "url": "https://www.aboutamazon.com/news/entertainment/saquon-barkley-eagles-prime-video-documentary",
-      "title": "See the trailer for 'Saquon' on Prime Video",
-      "content_text": "The documentary follows NFL running back Saquon Barkley's journey to the Super Bowl with the Philadelphia Eagles.",
+      "id": "https://www.aboutamazon.com/news/entertainment/hotel-costiera-jesse-williams-amazon-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/hotel-costiera-jesse-williams-amazon-prime-video",
+      "title": "How to watch ‘Hotel Costiera’ starring Jesse Williams, available now on Prime Video",
+      "content_text": "Check out the official trailer for this new action-drama series set against the stunning backdrop of Italy’s Amalfi Coast.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/9703c96/2147483647/strip/true/crop/3000x1500+0+94/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fb0%2Fba%2Fa5c361744e5697c541d569fae865%2Fsaqn-2025-static16x9-teaser-3840x2160-evrgrn-pv-final-en-us-prico-4558254-3000.jpg",
+          "url": "https://assets.aboutamazon.com/dims4/default/7842016/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fc1%2F57%2F19188a814cf8afc640777f0b9995%2Fabout-amazon-hero-csra-s1-static16x9-coast-3840x2160-pre-pv-final-en-us-kaps-4484518-3000-2.jpg",
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://www.youtube.com/embed/0p0LEmgd1uE",
+          "url": "https://www.youtube.com/embed/UdaXFn54RG0",
           "mime_type": "video/mp4"
         }
       ],
@@ -152,13 +152,13 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/entertainment/stream-nba-prime-video",
-      "url": "https://www.aboutamazon.com/news/entertainment/stream-nba-prime-video",
-      "title": "See the NBA schedule on Prime Video",
-      "content_text": "NBA on Prime's inaugural season tips off with a doubleheader: Boston Celtics vs. New York Knicks; Los Angeles Lakers vs. Minnesota Timberwolves.",
+      "id": "https://www.aboutamazon.com/news/community/amazon-disaster-relief-programs-hubs-portal",
+      "url": "https://www.aboutamazon.com/news/community/amazon-disaster-relief-programs-hubs-portal",
+      "title": "How Amazon’s Disaster Relief hubs help communities when every minute counts",
+      "content_text": "Amazon donates and delivers emergency supplies to American Red Cross and other partners from our Disaster Relief hubs after disasters strike. Here's how our hubs work.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/e67a869/2147483647/strip/true/crop/1800x900+0+56/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F4c%2Ff7%2Fcb61b9274157bbff1f8d29b7455c%2Fnba25-schedule-release-gallery-1800x1098-trlpr-final-en-us.jpg",
+          "url": "https://assets.aboutamazon.com/dims4/default/70f961c/2147483647/strip/true/crop/6720x3360+0+210/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F67%2Fe1%2Fea63e59a4423b2d0eb7bd138b8bf%2Fatl7-0912.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -182,14 +182,18 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/community/how-amazon-supports-american-red-cross",
-      "url": "https://www.aboutamazon.com/news/community/how-amazon-supports-american-red-cross",
-      "title": "How Amazon partners with the American Red Cross to make a difference",
-      "content_text": "Learn more about our longstanding partnership, which helps communities recover faster from natural disasters.",
+      "id": "https://www.aboutamazon.com/news/aws/aws-cloud-institute-virtual-training-for-cloud-developers",
+      "url": "https://www.aboutamazon.com/news/aws/aws-cloud-institute-virtual-training-for-cloud-developers",
+      "title": "Join AWS Cloud Institute, a virtual program that trains you to become a cloud developer in as little as 9 months",
+      "content_text": "AWS’s structured virtual training program removes the guesswork from starting a career in the tech industry.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/3079a42/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F9e%2F43%2Faee1b64c4b2f817b1bb819ac13a0%2Famerican-red-cross-volunteer-with-tarp.jpg",
+          "url": "https://assets.aboutamazon.com/dims4/default/37ce52b/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff5%2F09%2F326e9bb64f9592c3eaf9dbc0bd68%2Finline-01-cloud-institute.jpg",
           "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/eoXMnkPKljQ",
+          "mime_type": "video/mp4"
         }
       ],
       "tags": [
@@ -245,7 +249,7 @@
       "id": "https://blogs.nvidia.com/blog/category/enterprise/",
       "url": "https://blogs.nvidia.com/blog/category/enterprise/",
       "title": "Data Center Archives",
-      "content_text": "Energy efficiency in large language model inference has improved 100,000x in the past 10 years — demonstrating that… Read Article",
+      "content_text": "Open technologies — made available to developers and businesses to adopt, modify and innovate with — have been… Read Article",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
@@ -260,7 +264,7 @@
       "id": "https://blogs.nvidia.com/blog/category/generative-ai/",
       "url": "https://blogs.nvidia.com/blog/category/generative-ai/",
       "title": "Generative AI Archives",
-      "content_text": "Energy efficiency in large language model inference has improved 100,000x in the past 10 years — demonstrating that… Read Article",
+      "content_text": "Open technologies — made available to developers and businesses to adopt, modify and innovate with — have been… Read Article",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
@@ -628,7 +632,7 @@
       "content_text": "How Geoff Richman, lead editor on the Apple Original, “Severance,” created the frenetic world of the hit show’s season two finale.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/Apple-TV-plus-Mac-editing-Severance-Geoffrey-Richman-and-Ben-Stiller-lp.jpg.og.jpg?202508281642=",
+          "url": "https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/Apple-TV-plus-Mac-editing-Severance-Geoffrey-Richman-and-Ben-Stiller-lp.jpg.og.jpg?202508281732=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -658,7 +662,7 @@
       "content_text": "From a horror-comedy in Tamil to a magical romance in Malayalam, MAMI Select filmmakers are redefining cinema with iPhone 16 Pro Max.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/tile/Apple-MAMI-Select-iPhone-16-Pro-Max-hero-lp.jpg.og.jpg?202508281639=",
+          "url": "https://www.apple.com/newsroom/images/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/tile/Apple-MAMI-Select-iPhone-16-Pro-Max-hero-lp.jpg.og.jpg?202508281644=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -673,7 +677,7 @@
       "content_text": "Captured on iPhone 16 Pro Max, a recent shoot by photographer Karston Tannis showcased the vibrancy of the African diaspora.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/02/capturing-paradise-karston-tannis-re-creates-island-vibes-with-iphone-16-pro-max/tile/Apple-Tannis-shot-on-iPhone-16-Pro-Max-group-shot-lp.jpg.og.jpg?202508281642=",
+          "url": "https://www.apple.com/newsroom/images/2025/02/capturing-paradise-karston-tannis-re-creates-island-vibes-with-iphone-16-pro-max/tile/Apple-Tannis-shot-on-iPhone-16-Pro-Max-group-shot-lp.jpg.og.jpg?202508281745=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -688,7 +692,7 @@
       "content_text": "The official source for news about Apple, from Apple. Read press releases, get updates, watch video and download images.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202509231649=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202509250259=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -703,7 +707,7 @@
       "content_text": "The source for news about Apple Services. Get updates on the latest Apple Arcade games, Apple Originals on TV+, Podcasts, Books, and more from Apple Newsroom.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758646445631=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758769250016=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -718,7 +722,7 @@
       "content_text": "Discover more stories from Apple Newsroom that showcase the creators, developers, and innovators leaving the world better than they found it.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758646419161=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758769504403=",
           "mime_type": "image/jpeg"
         }
       ],

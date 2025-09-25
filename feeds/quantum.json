@@ -39,6 +39,21 @@
       ]
     },
     {
+      "id": "https://research.ibm.com/blog/hsbc-algorithmic-bond-trading",
+      "url": "https://research.ibm.com/blog/hsbc-algorithmic-bond-trading",
+      "title": "HSBC explores algorithmic trading with IBM quantum computers | IBM Quantum Computing Blog",
+      "content_text": "Researchers deliver first-known empirical evidence that quantum computers could soon solve valuable problems in algorithmic bond trading.",
+      "attachments": [
+        {
+          "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/IBM_Quantum_Heron_156_Layers_7e322d8a97.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
       "id": "https://research.ibm.com/blog/qcsc-software",
       "url": "https://research.ibm.com/blog/qcsc-software",
       "title": "Building software for quantum-centric supercomputing | IBM Quantum Computing Blog",
@@ -140,21 +155,6 @@
       "attachments": [
         {
           "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Foptimization_algorithms_0e3c8d2c0c.png&w=1200&q=85",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "quantum"
-      ]
-    },
-    {
-      "id": "https://research.ibm.com/blog/generative-computing-mellea",
-      "url": "https://research.ibm.com/blog/generative-computing-mellea",
-      "title": "Towards a generative future for computing",
-      "content_text": "IBM is exploring a future where generative AI isn’t limited to what’s in the prompt window.",
-      "attachments": [
-        {
-          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2FTowards_Generative_Computing_606f70f5fb.png&w=1200&q=85",
           "mime_type": "image/png"
         }
       ],

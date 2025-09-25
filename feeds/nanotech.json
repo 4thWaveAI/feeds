@@ -5,13 +5,43 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
-      "id": "https://phys.org/news/2025-09-ultra-strong-coating-resists-bacteria.html",
-      "url": "https://phys.org/news/2025-09-ultra-strong-coating-resists-bacteria.html",
-      "title": "Ultra-strong coating resists bacteria and viruses on complex organic surfaces",
-      "content_text": "Professor Bonghoon Kim of the Department of Robotics and Mechatronics Engineering at the Daegu Gyeongbuk Institute of Science & Technology has successfully developed a next-generation surface modification technology with antibacterial and antiviral contamination properties.",
+      "id": "https://phys.org/news/2025-09-broadband-photodetector-material-visible-infrared.html",
+      "url": "https://phys.org/news/2025-09-broadband-photodetector-material-visible-infrared.html",
+      "title": "Broadband photodetector material senses visible light to long-wave infrared, simplifying device design",
+      "content_text": "A research team in South Korea has developed a next-generation sensor material capable of integrating the detection of multiple light wavelengths.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/ultra-strong-coating-i.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/broadband-photodetecto.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-scientists-electrons-pattern-sources-wiring.html",
+      "url": "https://phys.org/news/2025-09-scientists-electrons-pattern-sources-wiring.html",
+      "title": "Scientists use electrons to pattern light sources and wiring directly onto crystals",
+      "content_text": "Rice University researchers used a focused electron beam to pattern device functions with submicron precision directly into an ultrathin crystal. The approach produced traces narrower than the width of a DNA helix that glow with bright blue light and conduct electricity, showing it could be used to manufacture compact on-chip wiring and built-in light sources.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/rice-scientists-use-el-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-nanovaccine-halts-tumor-growth-cancer.html",
+      "url": "https://phys.org/news/2025-09-nanovaccine-halts-tumor-growth-cancer.html",
+      "title": "Nanovaccine halts tumor growth and reduces cancer recurrence in lab models",
+      "content_text": "A research team has developed an approach to significantly reduce the risk of cancer recurrence and metastasis after surgery, by targeting both bulk cancer cells and the elusive cancer stem cells (CSCs) responsible for relapse.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2025/novel-nanovaccine-halt-1.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -27,6 +57,36 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/2025/a-new-bone-substitute.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-ball-mill-technique-nanoscale-scaffolds.html",
+      "url": "https://phys.org/news/2025-09-ball-mill-technique-nanoscale-scaffolds.html",
+      "title": "Ball mill technique produces nanoscale scaffolds that filter PFAS",
+      "content_text": "PFAS are fluorinated compounds found in many everyday products, such as outdoor clothing and cookware like Teflon pans. This is because PFAS are durable, heat-resistant and dirt-repellent. Their stability is precisely what leads to problems: although potentially harmful to our health, these substances are scarcely broken down at all in the environment and are regarded as \"forever chemicals.\" PFAS are also found in wastewater. Although they can be removed by filtration, this is a laborious process.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/pfas-filter-from-a-bal.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-scientists-visualize-atomic-moir-materials.html",
+      "url": "https://phys.org/news/2025-09-scientists-visualize-atomic-moir-materials.html",
+      "title": "Scientists visualize atomic structures in moiré materials",
+      "content_text": "Researchers with the Department of Energy's Oak Ridge National Laboratory and the University of Tennessee, Knoxville, have created an innovative method to visualize and analyze atomic structures within specially designed, ultrathin bilayer 2D materials. When precisely aligned at an angle, these materials exhibit unique properties that could lead to advancements in quantum computing, superconductors and ultraefficient electronics.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2025/scientists-visualize-a.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -54,21 +114,6 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-09-scientists-visualize-atomic-moir-materials.html",
-      "url": "https://phys.org/news/2025-09-scientists-visualize-atomic-moir-materials.html",
-      "title": "Scientists visualize atomic structures in moiré materials",
-      "content_text": "Researchers with the Department of Energy's Oak Ridge National Laboratory and the University of Tennessee, Knoxville, have created an innovative method to visualize and analyze atomic structures within specially designed, ultrathin bilayer 2D materials. When precisely aligned at an angle, these materials exhibit unique properties that could lead to advancements in quantum computing, superconductors and ultraefficient electronics.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/scientists-visualize-a.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
       "id": "https://phys.org/news/2025-09-nanoculture-shell-frontiers-microbiome.html",
       "url": "https://phys.org/news/2025-09-nanoculture-shell-frontiers-microbiome.html",
       "title": "Cracking the nanoculture shell to unlock new frontiers in microbiome research",
@@ -81,21 +126,6 @@
         {
           "url": "https://scx2.b-cdn.net/gfx/video/2025/cracking-the-shell-to.mp4",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-ball-mill-technique-nanoscale-scaffolds.html",
-      "url": "https://phys.org/news/2025-09-ball-mill-technique-nanoscale-scaffolds.html",
-      "title": "Ball mill technique produces nanoscale scaffolds that filter PFAS",
-      "content_text": "PFAS are fluorinated compounds found in many everyday products, such as outdoor clothing and cookware like Teflon pans. This is because PFAS are durable, heat-resistant and dirt-repellent. Their stability is precisely what leads to problems: although potentially harmful to our health, these substances are scarcely broken down at all in the environment and are regarded as \"forever chemicals.\" PFAS are also found in wastewater. Although they can be removed by filtration, this is a laborious process.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/pfas-filter-from-a-bal.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -133,6 +163,21 @@
       ]
     },
     {
+      "id": "https://phys.org/news/2025-09-ultra-strong-coating-resists-bacteria.html",
+      "url": "https://phys.org/news/2025-09-ultra-strong-coating-resists-bacteria.html",
+      "title": "Ultra-strong coating resists bacteria and viruses on complex organic surfaces",
+      "content_text": "Professor Bonghoon Kim of the Department of Robotics and Mechatronics Engineering at the Daegu Gyeongbuk Institute of Science & Technology has successfully developed a next-generation surface modification technology with antibacterial and antiviral contamination properties.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/ultra-strong-coating-i.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://phys.org/news/2025-09-method-enables-ws8322-epitaxy-growth.html",
       "url": "https://phys.org/news/2025-09-method-enables-ws8322-epitaxy-growth.html",
       "title": "Two-step method enables controllable WS&#8322; epitaxy growth",
@@ -140,55 +185,6 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/2025/ustc-reports-epitaxy-g.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-nanoparticles-supercharge-vinegar-fashioned-wound.html",
-      "url": "https://phys.org/news/2025-09-nanoparticles-supercharge-vinegar-fashioned-wound.html",
-      "title": "Nanoparticles supercharge vinegar's old-fashioned wound healing power",
-      "content_text": "Wounds that do not heal are often caused by bacterial infections and are particularly dangerous for the elderly and people with diabetes, cancer and other conditions. Acetic acid (more commonly known as vinegar) has been used for centuries as a disinfectant, but it is only effective against a small number of bacteria, and it does not kill the most dangerous types.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/nanoparticles-supercha.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://scx2.b-cdn.net/gfx/video/2025/nanoparticles-supercha.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-eco-friendly-dark-colloidal-quantum.html",
-      "url": "https://phys.org/news/2025-09-eco-friendly-dark-colloidal-quantum.html",
-      "title": "An eco-friendly way to see in the dark using colloidal quantum dots",
-      "content_text": "Manufacturers of infrared cameras face a growing problem: The toxic heavy metals in today's infrared detectors are increasingly banned under environmental regulations, forcing companies to choose between performance and compliance.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/an-eco-friendly-way-to.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-ai-nanoparticles-drug-delivery.html",
-      "url": "https://phys.org/news/2025-09-ai-nanoparticles-drug-delivery.html",
-      "title": "AI engineers nanoparticles for improved drug delivery",
-      "content_text": "Biomedical engineers at Duke University have developed a platform that combines automated wet lab techniques with artificial intelligence (AI) to design nanoparticles for drug delivery. The approach could help researchers deliver difficult-to-encapsulate therapeutics more efficiently and effectively.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/ai-engineers-nanoparti-1.jpg",
           "mime_type": "image/jpeg"
         }
       ],

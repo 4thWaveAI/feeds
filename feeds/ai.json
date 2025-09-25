@@ -5,14 +5,14 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.json",
   "items": [
     {
-      "id": "https://developer.nvidia.com/blog/deploy-ai-models-faster-with-windows-ml-on-rtx-pcs/",
-      "url": "https://developer.nvidia.com/blog/deploy-ai-models-faster-with-windows-ml-on-rtx-pcs/",
-      "title": "Deploy High-Performance AI Models in Windows Applications on NVIDIA RTX AI PCs | NVIDIA Technical Blog",
-      "content_text": "Today, Microsoft is making Windows ML available to developers. Windows ML enables C#, C++ and Python developers to optimally run AI models locally across PC hardware from CPU, NPU and GPUs.",
+      "id": "https://developer.nvidia.com/blog/nvidia-open-sources-audio2face-animation-model/",
+      "url": "https://developer.nvidia.com/blog/nvidia-open-sources-audio2face-animation-model/",
+      "title": "NVIDIA Open Sources Audio2Face Animation Model | NVIDIA Technical Blog",
+      "content_text": "By leveraging large language and speech models, generative AI is creating intelligent 3D avatars that can engage users in natural conversation, from video games to customer service.",
       "attachments": [
         {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/Deploy-High-Performance-AI-Models-in-Windows-Applications-on-NVIDIA-RTX-AI-PCs-copy.png",
-          "mime_type": "image/png"
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/NVIDIA-Open-Source-Audio2Face-video-500x282.gif",
+          "mime_type": "image/gif"
         }
       ],
       "tags": [
@@ -20,13 +20,28 @@
       ]
     },
     {
-      "id": "https://developer.nvidia.com/blog/faster-training-throughput-in-fp8-precision-with-nvidia-nemo/",
-      "url": "https://developer.nvidia.com/blog/faster-training-throughput-in-fp8-precision-with-nvidia-nemo/",
-      "title": "Faster Training Throughput in FP8 Precision with NVIDIA NeMo | NVIDIA Technical Blog",
-      "content_text": "In previous posts on FP8 training, we explored the fundamentals of FP8 precision and took a deep dive into the various scaling recipes for practical large-scale deep learning. If you haven’t read…",
+      "id": "https://blogs.nvidia.com/blog/canada-all-in/",
+      "url": "https://blogs.nvidia.com/blog/canada-all-in/",
+      "title": "Canada Goes All In on AI: NVIDIA Joins Nations’ Technology Leaders in Montreal to Shape Sovereign AI Strategy",
+      "content_text": "Canada’s role as a leader in artificial intelligence was on full display at this week’s All In Canada AI Ecosystem event. NVIDIA Vice President of Generative AI Software Kari Briski today joined Canada’s Minister of Artificial Intelligence and Digital Innovation Evan Solomon and Aiden Gomez, cofounder and CEO of Cohere, in a special address moderated  Read Article",
       "attachments": [
         {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/llm-optimize-deploy-graphic.png",
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/Cocktail-23-septembre-113-1-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/deploy-ai-models-faster-with-windows-ml-on-rtx-pcs/",
+      "url": "https://developer.nvidia.com/blog/deploy-ai-models-faster-with-windows-ml-on-rtx-pcs/",
+      "title": "Deploy High-Performance AI Models in Windows Applications on NVIDIA RTX AI PCs | NVIDIA Technical Blog",
+      "content_text": "Today, Microsoft is making Windows ML available to developers. Windows ML enables C#, C++ and Python developers to optimally run AI models locally across PC hardware from CPU, NPU and GPUs.",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/Deploy-High-Performance-AI-Models-in-Windows-Applications-on-NVIDIA-RTX-AI-PCs-copy.png",
           "mime_type": "image/png"
         }
       ],
@@ -88,21 +103,6 @@
       ]
     },
     {
-      "id": "https://blogs.nvidia.com/blog/blackwell-ai-inference/",
-      "url": "https://blogs.nvidia.com/blog/blackwell-ai-inference/",
-      "title": "NVIDIA Blackwell: Born for Extreme-Scale AI Inference",
-      "content_text": "NVIDIA Blackwell is the core of a system architecture designed to power AI factories that produce intelligence through inference.",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/blackwell-more-than-a-chip-intro-desktop-scaled.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference/",
       "url": "https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference/",
       "title": "An Introduction to Speculative Decoding for Reducing Latency in AI Inference | NVIDIA Technical Blog",
@@ -140,21 +140,6 @@
       "attachments": [
         {
           "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/grace-tech-blog-gb300-nvl72-1920x1080-r1.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/nvidia-rubin-cpx-accelerates-inference-performance-and-efficiency-for-1m-token-context-workloads/",
-      "url": "https://developer.nvidia.com/blog/nvidia-rubin-cpx-accelerates-inference-performance-and-efficiency-for-1m-token-context-workloads/",
-      "title": "NVIDIA Rubin CPX Accelerates Inference Performance and Efficiency for 1M+ Token Context Workloads | NVIDIA Technical Blog",
-      "content_text": "Inference has emerged as the new frontier of complexity in AI. Modern models are evolving into agentic systems capable of multi-step reasoning, persistent memory, and long-horizon context—enabling…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/Rubin-CPX.png",
           "mime_type": "image/png"
         }
       ],
@@ -524,6 +509,21 @@
       ]
     },
     {
+      "id": "https://www.anthropic.com/news/claude-now-available-in-microsoft-365-copilot",
+      "url": "https://www.anthropic.com/news/claude-now-available-in-microsoft-365-copilot",
+      "title": "Claude now available in Microsoft 365 Copilot",
+      "content_text": "Claude models are now available in Microsoft 365 Copilot, bringing Claude to millions of enterprise users through Microsoft's productivity platform.",
+      "attachments": [
+        {
+          "url": "https://www.anthropic.com/api/opengraph-illustration?name=Node+Cursor&backgroundColor=clay",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "https://www.anthropic.com/news/claude-in-xcode",
       "url": "https://www.anthropic.com/news/claude-in-xcode",
       "title": "Claude is now generally available in Xcode",
@@ -547,21 +547,6 @@
         {
           "url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand+NodeTree&backgroundColor=olive",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://www.anthropic.com/news/memory",
-      "url": "https://www.anthropic.com/news/memory",
-      "title": "Claude introduces memory for teams at work",
-      "content_text": "Claude now remembers your team's projects and preferences across conversations. Memory helps maintain context for complex work, with project-specific boundaries and full user control over what's remembered.",
-      "attachments": [
-        {
-          "url": "https://cdn.sanity.io/images/4zrzovbb/website/b0fec85c4cfb29023f80f59ae564a77b6dc0ba78-2400x1260.png",
-          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -632,7 +617,7 @@
       "id": "https://blogs.nvidia.com/blog/category/enterprise/",
       "url": "https://blogs.nvidia.com/blog/category/enterprise/",
       "title": "Data Center Archives",
-      "content_text": "Energy efficiency in large language model inference has improved 100,000x in the past 10 years — demonstrating that… Read Article",
+      "content_text": "Open technologies — made available to developers and businesses to adopt, modify and innovate with — have been… Read Article",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
@@ -647,7 +632,7 @@
       "id": "https://blogs.nvidia.com/blog/category/generative-ai/",
       "url": "https://blogs.nvidia.com/blog/category/generative-ai/",
       "title": "Generative AI Archives",
-      "content_text": "Energy efficiency in large language model inference has improved 100,000x in the past 10 years — demonstrating that… Read Article",
+      "content_text": "Open technologies — made available to developers and businesses to adopt, modify and innovate with — have been… Read Article",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
@@ -734,6 +719,21 @@
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/category/graphics/",
+      "url": "https://developer.nvidia.com/blog/category/graphics/",
+      "title": "Category: Content Creation / Rendering | NVIDIA Technical Blog",
+      "content_text": "Category: Content Creation / Rendering | NVIDIA Technical Blog",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2024/09/techblog-og.jpg",
           "mime_type": "image/jpeg"
         }
       ],

@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/quantum.atom.xml"/>
   <id>urn:4thwaveai-feeds:quantum</id>
-  <updated>Wed, 24 Sep 2025 05:41:05 +0000</updated>
+  <updated>Thu, 25 Sep 2025 05:42:10 +0000</updated>
   <entry>
     <title>IBM and BharatGen collaborate for India’s AI needs</title>
     <link href="https://research.ibm.com/blog/bharatgen-ai-india"/>
@@ -16,6 +16,12 @@
     <link href="https://research.ibm.com/blog/surya-heliophysics-ai-model-sun"/>
     <id>https://research.ibm.com/blog/surya-heliophysics-ai-model-sun</id>
     <summary type="text">IBM and NASA open-source a new AI foundation model for the Sun that could change how we look at solar flares.</summary>
+  </entry>
+  <entry>
+    <title>HSBC explores algorithmic trading with IBM quantum computers | IBM Quantum Computing Blog</title>
+    <link href="https://research.ibm.com/blog/hsbc-algorithmic-bond-trading"/>
+    <id>https://research.ibm.com/blog/hsbc-algorithmic-bond-trading</id>
+    <summary type="text">Researchers deliver first-known empirical evidence that quantum computers could soon solve valuable problems in algorithmic bond trading.</summary>
   </entry>
   <entry>
     <title>Building software for quantum-centric supercomputing | IBM Quantum Computing Blog</title>
@@ -58,11 +64,5 @@
     <link href="https://research.ibm.com/blog/ai-algorithm-complexity"/>
     <id>https://research.ibm.com/blog/ai-algorithm-complexity</id>
     <summary type="text">A decades-old approach to measuring algorithmic complexity could provide a window into better understanding how AI systems compute.</summary>
-  </entry>
-  <entry>
-    <title>Towards a generative future for computing</title>
-    <link href="https://research.ibm.com/blog/generative-computing-mellea"/>
-    <id>https://research.ibm.com/blog/generative-computing-mellea</id>
-    <summary type="text">IBM is exploring a future where generative AI isn’t limited to what’s in the prompt window.</summary>
   </entry>
 </feed>

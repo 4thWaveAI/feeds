@@ -5,6 +5,36 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/human_effect.json",
   "items": [
     {
+      "id": "https://spectrum.ieee.org/ai-impact-on-job-market",
+      "url": "https://spectrum.ieee.org/ai-impact-on-job-market",
+      "title": "Is AI Making Entry-Level Tech Jobs Disappear?",
+      "content_text": "AI tools are changing the landscape for early-career software engineers, but senior roles remain stable.",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=61623205&width=1200&height=600&coordinates=0%2C293%2C0%2C194",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/vacuum-measurement",
+      "url": "https://spectrum.ieee.org/vacuum-measurement",
+      "title": "How to Measure Nothing Better",
+      "content_text": "How can atoms redefine our understanding of emptiness? Dive into the world of quantum sensors and find out.",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/image.png?id=61609779&width=1200&height=600&coordinates=0%2C1333%2C0%2C1333",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://spectrum.ieee.org/top-programming-languages-2025",
       "url": "https://spectrum.ieee.org/top-programming-languages-2025",
       "title": "AI Is Redefining the Concept of a Programming Language's Popularity",
@@ -170,21 +200,6 @@
       ]
     },
     {
-      "id": "https://spectrum.ieee.org/iphone-17-pro-vapor-chamber",
-      "url": "https://spectrum.ieee.org/iphone-17-pro-vapor-chamber",
-      "title": "Apple’s iPhone 17 Pro Debuts With Vapor Chamber Cooling",
-      "content_text": "Apple's iPhone 17 Pro uses vapor chambers to keep cool, joining other high performance smartphones. How does this cooling tech work?",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/a-front-and-back-view-of-an-apple-iphone-17-on-an-orange-background-with-a-misty-blue-pattern.jpg?id=61605042&width=1200&height=600&coordinates=0%2C222%2C0%2C223",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
       "id": "https://aiforgood.itu.int/transforming-data-creating-value-sustaining-tomorrow-deepgreenxs-vision-for-the-future-of-finance/",
       "url": "https://aiforgood.itu.int/transforming-data-creating-value-sustaining-tomorrow-deepgreenxs-vision-for-the-future-of-finance/",
       "title": "Transforming data, creating value, sustaining tomorrow: DeepGreenX’s vision for the future of finance",
@@ -193,21 +208,6 @@
         {
           "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/DeepGreenX-Transforming-data.-Creating-value.-Sustaining-tomorrow-1024x576.png",
           "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/smart-infrastructure-carolina-moreira-delci",
-      "url": "https://spectrum.ieee.org/smart-infrastructure-carolina-moreira-delci",
-      "title": "Carolina Delci: Leading the Charge in Sustainable Infrastructure",
-      "content_text": "Carolina Delci is reshaping civil engineering with AI and 4D modeling. How does her work make construction smarter and safer?",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/smiling-portrait-of-carolina-moreira-delci.jpg?id=61603271&width=1200&height=600&coordinates=0%2C675%2C0%2C676",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -560,6 +560,21 @@
       ]
     },
     {
+      "id": "https://www.oii.ox.ac.uk/news-events/new-report-calls-for-decisive-government-action-to-help-build-public-trust-in-ai/",
+      "url": "https://www.oii.ox.ac.uk/news-events/new-report-calls-for-decisive-government-action-to-help-build-public-trust-in-ai/",
+      "title": "OII | New report calls for decisive government action to help build public trust in AI",
+      "content_text": "A new paper from the Tony Blair Institute for Change, featuring a guest contribution from the OII’s Professor Helen Margetts, calls for government action to build better public trust in AI.",
+      "attachments": [
+        {
+          "url": "https://www.oii.ox.ac.uk/wp-content/uploads/2025/09/people-small-700x395.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://www.oii.ox.ac.uk/news-events/lofred-madzou-appointed-to-oii-advisory-board/",
       "url": "https://www.oii.ox.ac.uk/news-events/lofred-madzou-appointed-to-oii-advisory-board/",
       "title": "OII | Lofred Madzou appointed to OII Advisory Board",
@@ -695,13 +710,73 @@
       ]
     },
     {
-      "id": "https://www.oii.ox.ac.uk/news-events/how-can-we-solve-the-housing-crisis-with-better-data-asks-dr-fabian-braesemann/",
-      "url": "https://www.oii.ox.ac.uk/news-events/how-can-we-solve-the-housing-crisis-with-better-data-asks-dr-fabian-braesemann/",
-      "title": "OII | How can we solve the housing crisis with better data?",
-      "content_text": "Dr Fabian Braesemann explores how rental levels in Vienna responded to the Covid-19 pandemic and asks what we can learn from Vienna to solve the global housing crisis.",
+      "id": "https://www.technologyreview.com/2025/09/24/1124058/roundtables-the-future-of-birth-control/",
+      "url": "https://www.technologyreview.com/2025/09/24/1124058/roundtables-the-future-of-birth-control/",
+      "title": "Roundtables: The Future of Birth Control",
+      "content_text": "Watch a subscriber-only conversation with Kevin Eisenfrats, co-founder and CEO of Contraline, on the future of birth control options for men.",
       "attachments": [
         {
-          "url": "https://www.oii.ox.ac.uk/wp-content/uploads/2025/07/Austria-small-700x395.jpg",
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/MITTR-Roundtables-2-Zoom-Opening-Overlay-1.png?resize=1200%2C600",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2025/09/24/1124026/the-download-accidental-ai-relationships-and-future-contraception/",
+      "url": "https://www.technologyreview.com/2025/09/24/1124026/the-download-accidental-ai-relationships-and-future-contraception/",
+      "title": "The Download: accidental AI relationships, and the future of contraception",
+      "content_text": "Plus: Secret Service agents dismantled a giant operation to cripple cell networks.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/desire-phone1.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2025/09/24/1124029/trump-leucovorin-autism-tylenol/",
+      "url": "https://www.technologyreview.com/2025/09/24/1124029/trump-leucovorin-autism-tylenol/",
+      "title": "Trump is pushing leucovorin as a new treatment for autism. What is it?",
+      "content_text": "The president also blamed the painkiller Tylenol for autism, but the evidence doesn’t stack up at all.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/GettyImages-1293450497.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2025/09/24/1123999/the-ai-hype-index-cracking-the-chatbot-code/",
+      "url": "https://www.technologyreview.com/2025/09/24/1123999/the-ai-hype-index-cracking-the-chatbot-code/",
+      "title": "The AI Hype Index: Cracking the chatbot code",
+      "content_text": "MIT Technology Review’s highly subjective take on the latest buzz about AI",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/Sept-Thumb2a.png?resize=1200%2C600",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2025/09/24/1123915/relationship-ai-without-seeking-it/",
+      "url": "https://www.technologyreview.com/2025/09/24/1123915/relationship-ai-without-seeking-it/",
+      "title": "It’s surprisingly easy to stumble into a relationship with an AI chatbot",
+      "content_text": "We’re increasingly developing bonds with chatbots. While that’s safe for some, it’s dangerous for others.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/desire-phone1.jpg?resize=1200%2C600",
           "mime_type": "image/jpeg"
         }
       ],
@@ -777,81 +852,6 @@
       "attachments": [
         {
           "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/CFS-ARC-Facility-Aerial-illustration.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/09/22/1123873/medical-diagnosis-llm/",
-      "url": "https://www.technologyreview.com/2025/09/22/1123873/medical-diagnosis-llm/",
-      "title": "This medical startup uses LLMs to run appointments and make diagnoses",
-      "content_text": "“Our focus is really on what we can do to pull the doctor out of the visit,” says Akido’s CTO.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/stethoscope-ai2.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/09/19/1123860/the-download-the-cdcs-vaccine-chaos/",
-      "url": "https://www.technologyreview.com/2025/09/19/1123860/the-download-the-cdcs-vaccine-chaos/",
-      "title": "The Download: the CDC’s vaccine chaos",
-      "content_text": "The CDC has voted against giving children under 4-years old a combined MMRV vaccine",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/AP25260616180400.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/09/18/1123844/meeting-vaccine-guidance-former-cdc-leaders-alarmed/",
-      "url": "https://www.technologyreview.com/2025/09/18/1123844/meeting-vaccine-guidance-former-cdc-leaders-alarmed/",
-      "title": "A pivotal meeting on vaccine guidance is underway—and former CDC leaders are alarmed",
-      "content_text": "Ex-staffers testify that RFK Jr. is turning away from science, with potentially dire consequences.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/AP25260616180400.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/09/18/1123830/the-download-ai-designed-viruses-and-bad-news-for-the-hydrogen-industry/",
-      "url": "https://www.technologyreview.com/2025/09/18/1123830/the-download-ai-designed-viruses-and-bad-news-for-the-hydrogen-industry/",
-      "title": "The Download: AI-designed viruses, and bad news for the hydrogen industry",
-      "content_text": "Plus: Meta has unveiled its latest smart specs",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/generate-phage.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/09/18/1123818/hydrogen-reality-check-china/",
-      "url": "https://www.technologyreview.com/2025/09/18/1123818/hydrogen-reality-check-china/",
-      "title": "Clean hydrogen is facing a big reality check",
-      "content_text": "Forecasts aren’t looking quite as rosy for the green fuel, though China is still a bright spot.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/GettyImages-1785583497.jpg?resize=1200%2C600",
           "mime_type": "image/jpeg"
         }
       ],

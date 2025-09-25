@@ -4,20 +4,27 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai</id>
-  <updated>Wed, 24 Sep 2025 05:40:43 +0000</updated>
+  <updated>Thu, 25 Sep 2025 05:41:32 +0000</updated>
+  <entry>
+    <title>NVIDIA Open Sources Audio2Face Animation Model | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/nvidia-open-sources-audio2face-animation-model/"/>
+    <id>https://developer.nvidia.com/blog/nvidia-open-sources-audio2face-animation-model/</id>
+    <summary type="text">By leveraging large language and speech models, generative AI is creating intelligent 3D avatars that can engage users in natural conversation, from video games to customer service.</summary>
+    <updated>Wed, 24 Sep 2025 17:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Canada Goes All In on AI: NVIDIA Joins Nations’ Technology Leaders in Montreal to Shape Sovereign AI Strategy</title>
+    <link href="https://blogs.nvidia.com/blog/canada-all-in/"/>
+    <id>https://blogs.nvidia.com/blog/canada-all-in/</id>
+    <summary type="text">Canada’s role as a leader in artificial intelligence was on full display at this week’s All In Canada AI Ecosystem event. NVIDIA Vice President of Generative AI Software Kari Briski today joined Canada’s Minister of Artificial Intelligence and Digital Innovation Evan Solomon and Aiden Gomez, cofounder and CEO of Cohere, in a special address moderated  Read Article</summary>
+    <updated>Wed, 24 Sep 2025 16:20:41 +0000</updated>
+  </entry>
   <entry>
     <title>Deploy High-Performance AI Models in Windows Applications on NVIDIA RTX AI PCs | NVIDIA Technical Blog</title>
     <link href="https://developer.nvidia.com/blog/deploy-ai-models-faster-with-windows-ml-on-rtx-pcs/"/>
     <id>https://developer.nvidia.com/blog/deploy-ai-models-faster-with-windows-ml-on-rtx-pcs/</id>
     <summary type="text">Today, Microsoft is making Windows ML available to developers. Windows ML enables C#, C++ and Python developers to optimally run AI models locally across PC hardware from CPU, NPU and GPUs.</summary>
     <updated>Tue, 23 Sep 2025 19:20:46 +0000</updated>
-  </entry>
-  <entry>
-    <title>Faster Training Throughput in FP8 Precision with NVIDIA NeMo | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/faster-training-throughput-in-fp8-precision-with-nvidia-nemo/"/>
-    <id>https://developer.nvidia.com/blog/faster-training-throughput-in-fp8-precision-with-nvidia-nemo/</id>
-    <summary type="text">In previous posts on FP8 training, we explored the fundamentals of FP8 precision and took a deep dive into the various scaling recipes for practical large-scale deep learning. If you haven’t read…</summary>
-    <updated>Tue, 23 Sep 2025 16:36:21 +0000</updated>
   </entry>
   <entry>
     <title>Build a Retrieval-Augmented Generation (RAG) Agent with NVIDIA Nemotron | NVIDIA Technical Blog</title>
@@ -41,13 +48,6 @@
     <updated>Thu, 18 Sep 2025 21:21:03 +0000</updated>
   </entry>
   <entry>
-    <title>NVIDIA Blackwell: Born for Extreme-Scale AI Inference</title>
-    <link href="https://blogs.nvidia.com/blog/blackwell-ai-inference/"/>
-    <id>https://blogs.nvidia.com/blog/blackwell-ai-inference/</id>
-    <summary type="text">NVIDIA Blackwell is the core of a system architecture designed to power AI factories that produce intelligence through inference.</summary>
-    <updated>Thu, 18 Sep 2025 15:00:25 +0000</updated>
-  </entry>
-  <entry>
     <title>An Introduction to Speculative Decoding for Reducing Latency in AI Inference | NVIDIA Technical Blog</title>
     <link href="https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference/"/>
     <id>https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference/</id>
@@ -66,13 +66,6 @@
     <link href="https://developer.nvidia.com/blog/nvidia-blackwell-ultra-sets-new-inference-records-in-mlperf-debut/"/>
     <id>https://developer.nvidia.com/blog/nvidia-blackwell-ultra-sets-new-inference-records-in-mlperf-debut/</id>
     <summary type="text">As large language models (LLMs) grow larger, they get smarter, with open models from leading developers now featuring hundreds of billions of parameters. At the same time, today’s leading models are…</summary>
-    <updated>Tue, 09 Sep 2025 15:00:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>NVIDIA Rubin CPX Accelerates Inference Performance and Efficiency for 1M+ Token Context Workloads | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/nvidia-rubin-cpx-accelerates-inference-performance-and-efficiency-for-1m-token-context-workloads/"/>
-    <id>https://developer.nvidia.com/blog/nvidia-rubin-cpx-accelerates-inference-performance-and-efficiency-for-1m-token-context-workloads/</id>
-    <summary type="text">Inference has emerged as the new frontier of complexity in AI. Modern models are evolving into agentic systems capable of multi-step reasoning, persistent memory, and long-horizon context—enabling…</summary>
     <updated>Tue, 09 Sep 2025 15:00:00 +0000</updated>
   </entry>
   <entry>
@@ -226,6 +219,12 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <summary type="text">Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.</summary>
   </entry>
   <entry>
+    <title>Claude now available in Microsoft 365 Copilot</title>
+    <link href="https://www.anthropic.com/news/claude-now-available-in-microsoft-365-copilot"/>
+    <id>https://www.anthropic.com/news/claude-now-available-in-microsoft-365-copilot</id>
+    <summary type="text">Claude models are now available in Microsoft 365 Copilot, bringing Claude to millions of enterprise users through Microsoft&#x27;s productivity platform.</summary>
+  </entry>
+  <entry>
     <title>Claude is now generally available in Xcode</title>
     <link href="https://www.anthropic.com/news/claude-in-xcode"/>
     <id>https://www.anthropic.com/news/claude-in-xcode</id>
@@ -236,12 +235,6 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <link href="https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi"/>
     <id>https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi</id>
     <summary type="text">Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.</summary>
-  </entry>
-  <entry>
-    <title>Claude introduces memory for teams at work</title>
-    <link href="https://www.anthropic.com/news/memory"/>
-    <id>https://www.anthropic.com/news/memory</id>
-    <summary type="text">Claude now remembers your team&#x27;s projects and preferences across conversations. Memory helps maintain context for complex work, with project-specific boundaries and full user control over what&#x27;s remembered.</summary>
   </entry>
   <entry>
     <title>Latest News from Google Research Blog - Google Research</title>
@@ -271,13 +264,13 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <title>Data Center Archives</title>
     <link href="https://blogs.nvidia.com/blog/category/enterprise/"/>
     <id>https://blogs.nvidia.com/blog/category/enterprise/</id>
-    <summary type="text">Energy efficiency in large language model inference has improved 100,000x in the past 10 years — demonstrating that… Read Article</summary>
+    <summary type="text">Open technologies — made available to developers and businesses to adopt, modify and innovate with — have been… Read Article</summary>
   </entry>
   <entry>
     <title>Generative AI Archives</title>
     <link href="https://blogs.nvidia.com/blog/category/generative-ai/"/>
     <id>https://blogs.nvidia.com/blog/category/generative-ai/</id>
-    <summary type="text">Energy efficiency in large language model inference has improved 100,000x in the past 10 years — demonstrating that… Read Article</summary>
+    <summary type="text">Open technologies — made available to developers and businesses to adopt, modify and innovate with — have been… Read Article</summary>
   </entry>
   <entry>
     <title>Driving Archives</title>
@@ -308,6 +301,12 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <link href="https://blogs.nvidia.com/blog/tag/healthcare-life-sciences/"/>
     <id>https://blogs.nvidia.com/blog/tag/healthcare-life-sciences/</id>
     <summary type="text">Healthcare and Life Sciences Archives</summary>
+  </entry>
+  <entry>
+    <title>Category: Content Creation / Rendering | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/category/graphics/"/>
+    <id>https://developer.nvidia.com/blog/category/graphics/</id>
+    <summary type="text">Category: Content Creation / Rendering | NVIDIA Technical Blog</summary>
   </entry>
   <entry>
     <title>Category: Generative AI | NVIDIA Technical Blog</title>
