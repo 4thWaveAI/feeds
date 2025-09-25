@@ -59,21 +59,6 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-upcoming-launch-mission/",
-      "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-upcoming-launch-mission/",
-      "title": "NASA Astronaut Chris Williams to Discuss Upcoming Launch, Mission - NASA",
-      "content_text": "NASA will host a news conference at 2 p.m. EDT Wednesday, Oct. 1, from the agency’s Johnson Space Center in Houston to highlight the upcoming mission of",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2025/09/chris-williams-portrait.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.nasa.gov/news-release/nasa-awards-atmosphere-research-support-contract/",
       "url": "https://www.nasa.gov/news-release/nasa-awards-atmosphere-research-support-contract/",
       "title": "NASA Awards Atmosphere Research Support Contract - NASA",
@@ -126,6 +111,21 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2024/12/54200119914-6ac915b145-o.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasa-isro-satellite-sends-first-radar-images-of-earths-surface/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-isro-satellite-sends-first-radar-images-of-earths-surface/",
+      "title": "NASA-ISRO Satellite Sends First Radar Images of Earth’s Surface",
+      "content_text": "Preliminary images from the most powerful Earth radar satellite ever launched offer a tantalizing glimpse of the science the mission will be able to deliver.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26616_Maine_4K_Annotated.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -244,21 +244,6 @@
         {
           "url": "https://www.youtube.com/embed/ieJKWW8sp2A?feature=oembed",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/nasa-to-share-details-of-new-perseverance-mars-rover--finding/",
-      "url": "https://www.jpl.nasa.gov/news/nasa-to-share-details-of-new-perseverance-mars-rover--finding/",
-      "title": "NASA to Share Details of New Perseverance Mars Rover Finding",
-      "content_text": "A news conference this morning will focus on the analysis of a rock sampled by the agency’s Perseverance Mars rover last year, which is the subject of a forthcoming science paper.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/Percy_hero.jpeg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [

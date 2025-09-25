@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Thu, 25 Sep 2025 16:51:17 +0000</updated>
+  <updated>Thu, 25 Sep 2025 17:32:06 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -34,12 +34,6 @@
     <updated>Wed, 07 Dec 2022 13:25:24 -0500</updated>
   </entry>
   <entry>
-    <title>NASA Astronaut Chris Williams to Discuss Upcoming Launch, Mission - NASA</title>
-    <link href="https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-upcoming-launch-mission/"/>
-    <id>https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-upcoming-launch-mission/</id>
-    <summary type="text">NASA will host a news conference at 2 p.m. EDT Wednesday, Oct. 1, from the agency’s Johnson Space Center in Houston to highlight the upcoming mission of</summary>
-  </entry>
-  <entry>
     <title>NASA Awards Atmosphere Research Support Contract - NASA</title>
     <link href="https://www.nasa.gov/news-release/nasa-awards-atmosphere-research-support-contract/"/>
     <id>https://www.nasa.gov/news-release/nasa-awards-atmosphere-research-support-contract/</id>
@@ -62,6 +56,12 @@
     <link href="https://www.nasa.gov/2025-news-releases/"/>
     <id>https://www.nasa.gov/2025-news-releases/</id>
     <summary type="text">Sign up to receive NASA news releases and other information.</summary>
+  </entry>
+  <entry>
+    <title>NASA-ISRO Satellite Sends First Radar Images of Earth’s Surface</title>
+    <link href="https://www.jpl.nasa.gov/news/nasa-isro-satellite-sends-first-radar-images-of-earths-surface/"/>
+    <id>https://www.jpl.nasa.gov/news/nasa-isro-satellite-sends-first-radar-images-of-earths-surface/</id>
+    <summary type="text">Preliminary images from the most powerful Earth radar satellite ever launched offer a tantalizing glimpse of the science the mission will be able to deliver.</summary>
   </entry>
   <entry>
     <title>NASA’s Webb Explores Largest Star-Forming Cloud in Milky Way</title>
@@ -104,12 +104,6 @@
     <link href="https://www.jpl.nasa.gov/news/nasa-says-mars-rover-discovered-potential-biosignature-last-year/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-says-mars-rover-discovered-potential-biosignature-last-year/</id>
     <summary type="text">After a year’s worth of scientific scrutiny, the ‘Sapphire Canyon’ rock sample remains the mission’s best candidate for containing signs of ancient microbial life processes.</summary>
-  </entry>
-  <entry>
-    <title>NASA to Share Details of New Perseverance Mars Rover Finding</title>
-    <link href="https://www.jpl.nasa.gov/news/nasa-to-share-details-of-new-perseverance-mars-rover--finding/"/>
-    <id>https://www.jpl.nasa.gov/news/nasa-to-share-details-of-new-perseverance-mars-rover--finding/</id>
-    <summary type="text">A news conference this morning will focus on the analysis of a rock sampled by the agency’s Perseverance Mars rover last year, which is the subject of a forthcoming science paper.</summary>
   </entry>
   <entry>
     <title>NASA-ISRO Satellite Lifts Off to Track Earth’s Changing Surfaces</title>
