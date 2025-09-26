@@ -4,7 +4,14 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai</id>
-  <updated>Thu, 25 Sep 2025 05:41:32 +0000</updated>
+  <updated>Fri, 26 Sep 2025 05:40:58 +0000</updated>
+  <entry>
+    <title>R²D²: Three Neural Breakthroughs Transforming Robot Learning from NVIDIA Research | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/r2d2-three-neural-breakthroughs-transforming-robot-learning-from-nvidia-research/"/>
+    <id>https://developer.nvidia.com/blog/r2d2-three-neural-breakthroughs-transforming-robot-learning-from-nvidia-research/</id>
+    <summary type="text">While today’s robots excel in controlled settings, they still struggle with the unpredictability, dexterity, and nuanced interactions required for real-world tasks—from assembling delicate components…</summary>
+    <updated>Thu, 25 Sep 2025 18:47:35 +0000</updated>
+  </entry>
   <entry>
     <title>NVIDIA Open Sources Audio2Face Animation Model | NVIDIA Technical Blog</title>
     <link href="https://developer.nvidia.com/blog/nvidia-open-sources-audio2face-animation-model/"/>
@@ -18,13 +25,6 @@
     <id>https://blogs.nvidia.com/blog/canada-all-in/</id>
     <summary type="text">Canada’s role as a leader in artificial intelligence was on full display at this week’s All In Canada AI Ecosystem event. NVIDIA Vice President of Generative AI Software Kari Briski today joined Canada’s Minister of Artificial Intelligence and Digital Innovation Evan Solomon and Aiden Gomez, cofounder and CEO of Cohere, in a special address moderated  Read Article</summary>
     <updated>Wed, 24 Sep 2025 16:20:41 +0000</updated>
-  </entry>
-  <entry>
-    <title>Deploy High-Performance AI Models in Windows Applications on NVIDIA RTX AI PCs | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/deploy-ai-models-faster-with-windows-ml-on-rtx-pcs/"/>
-    <id>https://developer.nvidia.com/blog/deploy-ai-models-faster-with-windows-ml-on-rtx-pcs/</id>
-    <summary type="text">Today, Microsoft is making Windows ML available to developers. Windows ML enables C#, C++ and Python developers to optimally run AI models locally across PC hardware from CPU, NPU and GPUs.</summary>
-    <updated>Tue, 23 Sep 2025 19:20:46 +0000</updated>
   </entry>
   <entry>
     <title>Build a Retrieval-Augmented Generation (RAG) Agent with NVIDIA Nemotron | NVIDIA Technical Blog</title>
@@ -264,13 +264,13 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <title>Data Center Archives</title>
     <link href="https://blogs.nvidia.com/blog/category/enterprise/"/>
     <id>https://blogs.nvidia.com/blog/category/enterprise/</id>
-    <summary type="text">Open technologies — made available to developers and businesses to adopt, modify and innovate with — have been… Read Article</summary>
+    <summary type="text">On Tuesday, more than 800 attendees joined NVIDIA AI Day Ho Chi Minh City to learn about sovereign… Read Article</summary>
   </entry>
   <entry>
     <title>Generative AI Archives</title>
     <link href="https://blogs.nvidia.com/blog/category/generative-ai/"/>
     <id>https://blogs.nvidia.com/blog/category/generative-ai/</id>
-    <summary type="text">Open technologies — made available to developers and businesses to adopt, modify and innovate with — have been… Read Article</summary>
+    <summary type="text">On Tuesday, more than 800 attendees joined NVIDIA AI Day Ho Chi Minh City to learn about sovereign… Read Article</summary>
   </entry>
   <entry>
     <title>Driving Archives</title>
@@ -282,7 +282,7 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <title>Gaming Archives</title>
     <link href="https://blogs.nvidia.com/blog/category/gaming/"/>
     <id>https://blogs.nvidia.com/blog/category/gaming/</id>
-    <summary type="text">GeForce NOW is packing a monstrous punch this week. Dying Light: The Beast, the latest adrenaline‑fueled chapter in… Read Article</summary>
+    <summary type="text">Suit up and head for the cloud. Mecha BREAK, the popular third-person shooter, is now available to stream… Read Article</summary>
   </entry>
   <entry>
     <title>Pro Graphics Archives</title>

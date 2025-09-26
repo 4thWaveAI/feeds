@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/satya-nadella.json",
   "items": [
     {
+      "id": "https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/",
+      "url": "https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/",
+      "title": "Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace. - The Official Microsoft Blog",
+      "content_text": "A new breed of industry-leading company is taking shape — Frontier Firms. These organizations blend human ambition with AI-powered technology to reshape how innovation is scaled, work is orchestrated and value is created. They’re accelerating AI transformation to enrich employee experiences, reinvent customer engagement, reshape business processes and unlock creativity and innovation. To empower customers...",
+      "attachments": [
+        {
+          "url": "https://blogs.microsoft.com/wp-content/uploads/2025/09/OMB-New-Market-Hero-Image-1024x576.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "satya-nadella"
+      ]
+    },
+    {
       "id": "https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/",
       "url": "https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/",
       "title": "Inside the world’s most powerful AI datacenter - The Official Microsoft Blog",
@@ -35,14 +50,14 @@
       ]
     },
     {
-      "id": "https://blogs.microsoft.com/blog/2025/09/11/a-joint-statement-from-microsoft-and-openai/",
-      "url": "https://blogs.microsoft.com/blog/2025/09/11/a-joint-statement-from-microsoft-and-openai/",
-      "title": "A joint statement from Microsoft and OpenAI - The Official Microsoft Blog",
-      "content_text": "Microsoft and OpenAI have signed a non-binding memorandum of understanding (MOU) for the next phase of our partnership. We are actively working to finalize contractual terms in a definitive agreement. Together, we remain focused on delivering the best AI tools for everyone, grounded in our shared commitment to safety.",
+      "id": "https://blogs.microsoft.com/blog/author/ataylor/",
+      "url": "https://blogs.microsoft.com/blog/author/ataylor/",
+      "title": "Chief Marketing Officer, Commercial Cloud & AI",
+      "content_text": "Sep 25, 2025 | Alysa Taylor - Chief Marketing Officer, Commercial Cloud & AI",
       "attachments": [
         {
-          "url": "https://blogs.microsoft.com/wp-content/uploads/2023/01/PNG-openai-microsoft_960x540.png",
-          "mime_type": "image/png"
+          "url": "https://secure.gravatar.com/avatar/a88e6788fc3afec1362ee3002fadc838?s=500&d=mm&r=g",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -72,21 +87,6 @@
       "attachments": [
         {
           "url": "https://secure.gravatar.com/avatar/c4a2ecbcaff8e9904e6df808728f6397?s=500&d=mm&r=g",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "satya-nadella"
-      ]
-    },
-    {
-      "id": "https://blogs.microsoft.com/blog/author/cdemaria/",
-      "url": "https://blogs.microsoft.com/blog/author/cdemaria/",
-      "title": "Microsoft Corporate Blogs, Author at The Official Microsoft Blog",
-      "content_text": "Sep 11, 2025 | Microsoft Corporate Blogs",
-      "attachments": [
-        {
-          "url": "https://secure.gravatar.com/avatar/8322d323ed803aee63f13bee99e0071a?s=500&d=mm&r=g",
           "mime_type": "image/jpeg"
         }
       ],

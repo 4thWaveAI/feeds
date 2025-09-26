@@ -5,6 +5,40 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
+      "id": "https://phys.org/news/2025-09-multifunctional-liquid-metal-nanocomposites-cancer.html",
+      "url": "https://phys.org/news/2025-09-multifunctional-liquid-metal-nanocomposites-cancer.html",
+      "title": "Multifunctional liquid metal nanocomposites for cancer photoimmunotherapy successfully developed",
+      "content_text": "A research team led by Professor Eijiro Miyako from the Materials Chemistry Frontiers Research Area at Japan Advanced Institute of Science and Technology (JAIST) has successfully developed multifunctional nanocomposites by coating liquid metal surfaces with lactic acid bacteria components and near-infrared fluorescent dye (indocyanine green).",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2025/successful-development.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-chilling-discovery-flexibility-ice-nanoscale.html",
+      "url": "https://phys.org/news/2025-09-chilling-discovery-flexibility-ice-nanoscale.html",
+      "title": "A chilling discovery: The surprising flexibility of ice at the nanoscale",
+      "content_text": "You'd think there's nothing surprising left to discover about water. After all, researchers have been studying its properties for centuries.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/a-chilling-discovery-t.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://scx2.b-cdn.net/gfx/video/2025/a-chilling-discovery-t.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://phys.org/news/2025-09-broadband-photodetector-material-visible-infrared.html",
       "url": "https://phys.org/news/2025-09-broadband-photodetector-material-visible-infrared.html",
       "title": "Broadband photodetector material senses visible light to long-wave infrared, simplifying device design",
@@ -155,36 +189,6 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/nanocellulose-based-ad.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-ultra-strong-coating-resists-bacteria.html",
-      "url": "https://phys.org/news/2025-09-ultra-strong-coating-resists-bacteria.html",
-      "title": "Ultra-strong coating resists bacteria and viruses on complex organic surfaces",
-      "content_text": "Professor Bonghoon Kim of the Department of Robotics and Mechatronics Engineering at the Daegu Gyeongbuk Institute of Science & Technology has successfully developed a next-generation surface modification technology with antibacterial and antiviral contamination properties.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/ultra-strong-coating-i.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-method-enables-ws8322-epitaxy-growth.html",
-      "url": "https://phys.org/news/2025-09-method-enables-ws8322-epitaxy-growth.html",
-      "title": "Two-step method enables controllable WS&#8322; epitaxy growth",
-      "content_text": "In a study published in Journal of the American Chemical Society, a team led by Prof. Song Li from the University of Science and Technology of China (USTC) of the Chinese Academy of Sciences synthesized monolayer WS2 lateral homojunctions via in situ domain engineering, and enabled controllable direct chemical vapor deposition (CVD) growth of these structures.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/ustc-reports-epitaxy-g.jpg",
           "mime_type": "image/jpeg"
         }
       ],

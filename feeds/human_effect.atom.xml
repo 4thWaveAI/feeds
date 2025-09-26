@@ -4,7 +4,28 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/human_effect.atom.xml"/>
   <id>urn:4thwaveai-feeds:human_effect</id>
-  <updated>Thu, 25 Sep 2025 05:45:14 +0000</updated>
+  <updated>Fri, 26 Sep 2025 05:44:53 +0000</updated>
+  <entry>
+    <title>What’s next for quantum? TII’s roadmap from research to impact</title>
+    <link href="https://aiforgood.itu.int/whats-next-for-quantum-tiis-roadmap-from-research-to-impact/"/>
+    <id>https://aiforgood.itu.int/whats-next-for-quantum-tiis-roadmap-from-research-to-impact/</id>
+    <summary type="text">Connect with 51K enthusiasts from all over the world.</summary>
+    <updated>Fri, 26 Sep 2025 05:30:35 +0000</updated>
+  </entry>
+  <entry>
+    <title>Security Flaw Turns Unitree Robots Into Botnets</title>
+    <link href="https://spectrum.ieee.org/unitree-robot-exploit"/>
+    <id>https://spectrum.ieee.org/unitree-robot-exploit</id>
+    <summary type="text">Can your robot be hacked? A new vulnerability in Unitree robots could turn them into a botnet army. Are we taking robot security seriously enough?</summary>
+    <updated>Thu, 25 Sep 2025 13:36:52 +0000</updated>
+  </entry>
+  <entry>
+    <title>Short Courses Help Bridge the Semiconductor Skills Gap</title>
+    <link href="https://spectrum.ieee.org/microcredentials-semiconductor-workforce-development"/>
+    <id>https://spectrum.ieee.org/microcredentials-semiconductor-workforce-development</id>
+    <summary type="text">Short courses in semiconductor manufacturing are gaining traction, offering students a path to industry-ready skills and experience.</summary>
+    <updated>Thu, 25 Sep 2025 13:00:03 +0000</updated>
+  </entry>
   <entry>
     <title>Is AI Making Entry-Level Tech Jobs Disappear?</title>
     <link href="https://spectrum.ieee.org/ai-impact-on-job-market"/>
@@ -55,20 +76,6 @@
     <updated>Mon, 22 Sep 2025 13:00:02 +0000</updated>
   </entry>
   <entry>
-    <title>Blue Alchemist Could Turn Lunar Dust Into Vital Resources</title>
-    <link href="https://spectrum.ieee.org/blue-origin-molten-regolith-electrolysis"/>
-    <id>https://spectrum.ieee.org/blue-origin-molten-regolith-electrolysis</id>
-    <summary type="text">Blue Origin&#x27;s Blue Alchemist could make lunar landings 60 percent cheaper by using lunar resources to fabricate infrastructure.</summary>
-    <updated>Sun, 21 Sep 2025 13:00:02 +0000</updated>
-  </entry>
-  <entry>
-    <title>Is a Billion Dollars Enough for Figure to Make Humanoids Happen?</title>
-    <link href="https://spectrum.ieee.org/video-friday-billion-humanoid-robots"/>
-    <id>https://spectrum.ieee.org/video-friday-billion-humanoid-robots</id>
-    <summary type="text">​What kind of humanoid can be built with over one billion in funding? And more of the week&#x27;s best robot videos!</summary>
-    <updated>Fri, 19 Sep 2025 15:30:05 +0000</updated>
-  </entry>
-  <entry>
     <title>AI for healthcare, AI for humanity: ZTE’s vision for real-world impact</title>
     <link href="https://aiforgood.itu.int/ai-for-healthcare-ai-for-humanity-ztes-vision-for-real-world-impact/"/>
     <id>https://aiforgood.itu.int/ai-for-healthcare-ai-for-humanity-ztes-vision-for-real-world-impact/</id>
@@ -88,13 +95,6 @@
     <id>https://noetic.org/blog/listen-to-edgar-on-his-birthday/</id>
     <summary type="text">A recording of Edgar was kindly shared with us. In honor of his birthday, we hope you listen and enjoy it as much as we do.</summary>
     <updated>Wed, 17 Sep 2025 19:01:34 +0000</updated>
-  </entry>
-  <entry>
-    <title>How RCA&#x27;s VideoDisc Failure Became a Semiconductor Success Story</title>
-    <link href="https://spectrum.ieee.org/rca-videodisc"/>
-    <id>https://spectrum.ieee.org/rca-videodisc</id>
-    <summary type="text">RCA spent millions developing its home video system. It flopped, but the underlying tech led to an advanced microscope that shaped modern semiconductors.</summary>
-    <updated>Wed, 17 Sep 2025 14:00:04 +0000</updated>
   </entry>
   <entry>
     <title>Transforming data, creating value, sustaining tomorrow: DeepGreenX’s vision for the future of finance</title>
@@ -258,13 +258,6 @@
     <updated>Wed, 13 Aug 2025 18:01:21 +0000</updated>
   </entry>
   <entry>
-    <title>Final cut, the AI for Good Film Festival 2025 crowns this year’s winning film</title>
-    <link href="https://aiforgood.itu.int/final-cut-the-ai-for-good-film-festival-2025-crowns-this-years-winning-film/"/>
-    <id>https://aiforgood.itu.int/final-cut-the-ai-for-good-film-festival-2025-crowns-this-years-winning-film/</id>
-    <summary type="text">And that’s a wrap! The AI for Good Film Festival 2025 came to a close on 9 July during the Global Summit in Geneva, where four finalists presented their short films to a live audience and a panel of expert judges. Each film tackled different aspects of how artificial intelligence is shaping the world, from the challenges it raises to the possibilities it opens up.</summary>
-    <updated>Mon, 21 Jul 2025 08:41:40 +0000</updated>
-  </entry>
-  <entry>
     <title>OII | New report calls for decisive government action to help build public trust in AI</title>
     <link href="https://www.oii.ox.ac.uk/news-events/new-report-calls-for-decisive-government-action-to-help-build-public-trust-in-ai/"/>
     <id>https://www.oii.ox.ac.uk/news-events/new-report-calls-for-decisive-government-action-to-help-build-public-trust-in-ai/</id>
@@ -325,6 +318,30 @@
     <summary type="text">Whether it is merely long-term hype or near-term reality, Large Language Models (LLMs) in medicine are well-positioned to engage with a wide range of medical tasks and be used for medical research purposes.</summary>
   </entry>
   <entry>
+    <title>Shoplifters could soon be chased down by drones</title>
+    <link href="https://www.technologyreview.com/2025/09/25/1124088/shoplifters-could-soon-be-chased-down-by-drones/"/>
+    <id>https://www.technologyreview.com/2025/09/25/1124088/shoplifters-could-soon-be-chased-down-by-drones/</id>
+    <summary type="text">Flock Safety is pitching its police-style drone program to private businesses. It could bring aerial surveillance to shopping centers, warehouses, and hospitals.</summary>
+  </entry>
+  <entry>
+    <title>The Download: growing threats to vulnerable languages, and fact-checking Trump’s medical claims</title>
+    <link href="https://www.technologyreview.com/2025/09/25/1124079/the-download-threats-vulnerable-languages-and-trump-medical-claims/"/>
+    <id>https://www.technologyreview.com/2025/09/25/1124079/the-download-threats-vulnerable-languages-and-trump-medical-claims/</id>
+    <summary type="text">Plus: Huntington&#x27;s disease has been treated successfully for the first time.</summary>
+  </entry>
+  <entry>
+    <title>Fusion power plants don’t exist yet, but they’re making money anyway</title>
+    <link href="https://www.technologyreview.com/2025/09/25/1124050/fusion-future-funding/"/>
+    <id>https://www.technologyreview.com/2025/09/25/1124050/fusion-future-funding/</id>
+    <summary type="text">The industry is getting billions, but it’s way too early to count on fusion to meet growing electricity demand.</summary>
+  </entry>
+  <entry>
+    <title>How AI and Wikipedia have sent vulnerable languages into a doom spiral</title>
+    <link href="https://www.technologyreview.com/2025/09/25/1124005/ai-wikipedia-vulnerable-languages-doom-spiral/"/>
+    <id>https://www.technologyreview.com/2025/09/25/1124005/ai-wikipedia-vulnerable-languages-doom-spiral/</id>
+    <summary type="text">Machine translators have made it easier than ever to create error-plagued Wikipedia articles in obscure languages. What happens when AI models get trained on junk pages?</summary>
+  </entry>
+  <entry>
     <title>Roundtables: The Future of Birth Control</title>
     <link href="https://www.technologyreview.com/2025/09/24/1124058/roundtables-the-future-of-birth-control/"/>
     <id>https://www.technologyreview.com/2025/09/24/1124058/roundtables-the-future-of-birth-control/</id>
@@ -337,7 +354,7 @@
     <summary type="text">Plus: Secret Service agents dismantled a giant operation to cripple cell networks.</summary>
   </entry>
   <entry>
-    <title>Trump is pushing leucovorin as a new treatment for autism. What is it?</title>
+    <title>Trump is pushing leucovorin as a treatment for autism. What is it?</title>
     <link href="https://www.technologyreview.com/2025/09/24/1124029/trump-leucovorin-autism-tylenol/"/>
     <id>https://www.technologyreview.com/2025/09/24/1124029/trump-leucovorin-autism-tylenol/</id>
     <summary type="text">The president also blamed the painkiller Tylenol for autism, but the evidence doesn’t stack up at all.</summary>
@@ -361,34 +378,21 @@
     <summary type="text">Watch a subscriber-only conversation with Sneha Goenka, who designed the computations behind the world’s fastest whole-genome sequencing method.</summary>
   </entry>
   <entry>
-    <title>The Download: AI’s retracted papers problem</title>
-    <link href="https://www.technologyreview.com/2025/09/23/1123921/the-download-ais-retracted-papers-problem/"/>
-    <id>https://www.technologyreview.com/2025/09/23/1123921/the-download-ais-retracted-papers-problem/</id>
-    <summary type="text">Plus: There’s scant evidence that tylenol use during pregnancy causes autism.</summary>
-  </entry>
-  <entry>
-    <title>AI models are using material from retracted scientific papers</title>
-    <link href="https://www.technologyreview.com/2025/09/23/1123897/ai-models-are-using-material-from-retracted-scientific-papers/"/>
-    <id>https://www.technologyreview.com/2025/09/23/1123897/ai-models-are-using-material-from-retracted-scientific-papers/</id>
-    <summary type="text">Some companies are working to remedy the issue.</summary>
-  </entry>
-  <entry>
-    <title>The Download: the LLM will see you now, and a new fusion power deal</title>
-    <link href="https://www.technologyreview.com/2025/09/22/1123889/the-download-the-llm-will-see-you-now-and-a-new-fusion-power-deal/"/>
-    <id>https://www.technologyreview.com/2025/09/22/1123889/the-download-the-llm-will-see-you-now-and-a-new-fusion-power-deal/</id>
-    <summary type="text">Plus: the Trump administration is preparing to link Tylenol to autism</summary>
-  </entry>
-  <entry>
-    <title>An oil and gas giant signed a $1 billion deal with Commonwealth Fusion Systems</title>
-    <link href="https://www.technologyreview.com/2025/09/22/1123870/commonwealth-fusion-eni/"/>
-    <id>https://www.technologyreview.com/2025/09/22/1123870/commonwealth-fusion-eni/</id>
-    <summary type="text">The power purchase agreement makes Eni the second major customer for Commonwealth’s first commercial fusion power plant.</summary>
-  </entry>
-  <entry>
     <title>The AI Ethics Brief #172: The State of AI Ethics in 2025: What&#x27;s Actually Working</title>
     <link href="https://montrealethics.ai/the-ai-ethics-brief-172-the-state-of-ai-ethics-in-2025-whats-actually-working/"/>
     <id>https://montrealethics.ai/the-ai-ethics-brief-172-the-state-of-ai-ethics-in-2025-whats-actually-working/</id>
     <summary type="text">SAIER Volume 7 Returns in November 2025 with Practical Solutions from Communities Leading the Way</summary>
+  </entry>
+  <entry>
+    <title>Configuring and controlling complex test equipment setups for silicon device test and characterization</title>
+    <link href="https://events.bizzabo.com/762929"/>
+    <id>https://events.bizzabo.com/762929</id>
+    <summary type="text">In this webinar, we will explore efficient, accurate, and scalable techniques for analog and mixed-signal device testing using reconfigurable test setups. As semiconductor devices grow more complex, engineers face the challenge of validating performance and catching edge cases under tight schedules. Test setups often include oscilloscopes, waveform generators, network analyzers, and more, potentially from different vendors with unique automation and configuration considerations. In order to keep pace with semiconductor validation requirements, multi-channel test setups designed for flexibility and performance can help engineers scale effectively.
+    
+    Key learnings:
+    
+    - Reducing signal path complexity with multiple integrated instruments
+    - Improving data fidelity when measur</summary>
   </entry>
   <entry>
     <title>Global Resources Outlook 2024</title>

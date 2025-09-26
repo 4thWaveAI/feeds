@@ -5,6 +5,126 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sciencedaily-top.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250925025403.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250925025403.htm",
+      "title": "The surprising new particle that could finally explain dark matter",
+      "content_text": "Physicists are eyeing charged gravitinos—ultra-heavy, stable particles from supergravity theory—as possible Dark Matter candidates. Unlike axions or WIMPs, these particles carry electric charge but remain undetectable due to their scarcity. With detectors like JUNO and DUNE, researchers now have a chance to spot their unique signal, a breakthrough that could link particle physics with gravity.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/atomic-matter-structure-particle-physics.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250925025401.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250925025401.htm",
+      "title": "Cambridge scientists created a gel that could end arthritis pain",
+      "content_text": "Cambridge scientists have created a breakthrough material that can sense tiny chemical changes in the body, such as the increased acidity during an arthritis flare-up, and release drugs exactly when and where they’re needed. By mimicking cartilage while delivering medication, this smart gel could ease pain, reduce side effects, and provide continuous treatment for millions of arthritis sufferers.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/arthritic-knee-joint-arthritis-injury-pain.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250925025359.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250925025359.htm",
+      "title": "This high-sugar fruit may actually lower diabetes risk",
+      "content_text": "Mangos, often dismissed as too sugary, may hold hidden benefits for those at risk of diabetes. A George Mason University study found that daily mango eaters showed better blood sugar control and less body fat than those eating a lower-sugar snack. The results suggest that it’s not just sugar levels, but how the sugar is packaged in whole foods, that matters.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/fresh-cut-mango-cubes.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250925025356.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250925025356.htm",
+      "title": "Scientists brew “quantum ink” to power next-gen night vision",
+      "content_text": "Toxic metals are pushing infrared detector makers into a corner, but NYU Tandon researchers have developed a cleaner solution using colloidal quantum dots. These detectors are made like “inks,” allowing scalable, low-cost production while showing impressive infrared sensitivity. Combined with transparent electrodes, the innovation tackles major barriers in imaging systems and could bring infrared technology to cars, medicine, and consumer devices.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/eco-friendly-night-vision.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250925025341.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250925025341.htm",
+      "title": "Caltech’s massive 6,100-qubit array brings the quantum future closer",
+      "content_text": "Caltech scientists have built a record-breaking array of 6,100 neutral-atom qubits, a critical step toward powerful error-corrected quantum computers. The qubits maintained long-lasting superposition and exceptional accuracy, even while being moved within the array. This balance of scale and stability points toward the next milestone: linking qubits through entanglement to unlock true quantum computation.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/large-qubit-array.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250925025336.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250925025336.htm",
+      "title": "Hidden bacterial molecules in the brain reveal new secrets of sleep",
+      "content_text": "New studies show that a bacterial molecule, peptidoglycan, is present in the brain and fluctuates with sleep patterns. This challenges the idea that sleep is solely brain-driven, instead suggesting it’s a collaborative process between our bodies and microbiomes. The theory links microbes not only to sleep but also to cognition, appetite, and behavior, pointing to a profound evolutionary relationship.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/man-sleeping-with-stars.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250925025310.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250925025310.htm",
+      "title": "Breakthrough wetsuits slash shark attack injuries and save lives",
+      "content_text": "Shark experts tested four innovative wetsuit materials to measure how well they reduce shark-bite injuries. The results show they can lessen major trauma, blood loss, and even save lives when compared to standard neoprene. While not a perfect shield, these suits represent a leap forward in personal protection.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/bite-resistant-wetuit-material-testing.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250925025308.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250925025308.htm",
+      "title": "This flower smells like dying ants, and flies can’t resist it",
+      "content_text": "Vincetoxicum nakaianum tricks flies into pollinating it by imitating the smell of ants attacked by spiders. Ko Mochizuki stumbled upon this finding when he noticed flies clustering around the flowers and later confirmed their unusual preference. The study reveals the first known case of ant odor mimicry in plants, expanding our understanding of how diverse floral deception can be.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/plant-mimicking-ants-to-attract-pollinators.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/09/250924012257.htm",
       "url": "https://www.sciencedaily.com/releases/2025/09/250924012257.htm",
       "title": "Brain fat, not just plaques, may be the hidden driver of Alzheimer’s",
@@ -177,126 +297,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/smart-dog-puzzle-toy.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250923021210.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250923021210.htm",
-      "title": "Fish love songs recorded for 12 years reveal a surprising shift",
-      "content_text": "By recording grouper grunts for 12 years, scientists discovered major shifts in how red hind spawn and compete. Courtship calls once dominated, but territorial sounds have surged, suggesting changes in population structure. Machine learning helped decode the patterns quickly, offering a groundbreaking way to monitor and conserve reef fish.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/red-hind-epinephelus-guttatus-close.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250923021207.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250923021207.htm",
-      "title": "Stressed koalas are facing a deadly epidemic",
-      "content_text": "Researchers have shown that stress and retrovirus levels are tightly linked to disease in koalas. High KoRV loads make koalas more vulnerable to chlamydia, worsening epidemics in stressed populations. Protecting habitats, careful breeding, and antiviral trials are now being pursued to give koalas a fighting chance at survival.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/koala-stare.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250923021204.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250923021204.htm",
-      "title": "10 people who beat 8,000 others to become NASA astronaut candidates",
-      "content_text": "NASA has chosen 10 new astronaut candidates who will train for missions to the Moon and Mars. Their selection represents a powerful blend of talent and ambition, fueling humanity’s next great leaps into space.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/nasa-2025-class-of-astronaut-candidates.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250923021200.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250923021200.htm",
-      "title": "NASA’s Mars rover Curiosity captures stunning details of alien rock formations",
-      "content_text": "Curiosity is exploring Mars’ boxwork terrain, where ridges and hollows may have formed from cementation and erosion. The rover has been documenting rock textures and chemistry, comparing smoother ridge rocks with nodular hollow-edge rocks. Scientists are weighing drill sites while also monitoring dust, clouds, and long-distance features across Gale Crater.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/nasa-mars-rover-curiosity.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250923021158.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250923021158.htm",
-      "title": "The Universe’s first magnetic fields were shockingly weak, but changed everything",
-      "content_text": "Primordial magnetic fields, billions of times weaker than a fridge magnet, may have left lasting imprints on the Universe. Researchers ran over 250,000 simulations to show how these fields shaped the cosmic web, then validated the results with observations. Their study sets a stricter upper limit on the fields’ strength, aligning with other data and suggesting important consequences for early star and galaxy formation.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/galaxy-formation-magnetic-field.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250923021156.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250923021156.htm",
-      "title": "AI breakthrough finds life-saving insights in everyday bloodwork",
-      "content_text": "AI-powered analysis of routine blood tests can reveal hidden patterns that predict recovery and survival after spinal cord injuries. This breakthrough could make life-saving predictions affordable and accessible in hospitals worldwide.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/blood-sample-test-clinic-laboratory.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250923021153.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250923021153.htm",
-      "title": "Student’s pinkie-sized fossil reveals a new croc species",
-      "content_text": "A 95-million-year-old crocodyliform fossil, affectionately nicknamed Elton, was discovered in Montana by student Harrison Allen. Unlike most crocs, it lived on land and ate a varied diet. The find led to the naming of a new species, Thikarisuchus xenodentes, offering insights into croc evolution and burrow-based fossil preservation. For Allen, it was a life-changing project that launched him into a career in paleontology.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/thikarisuchus-xenodentes.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250923021148.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250923021148.htm",
-      "title": "How dehydration secretly fuels anxiety and health problems",
-      "content_text": "Not drinking enough water could intensify stress responses. Researchers found that under-hydrated individuals had cortisol levels more than 50% higher during stressful situations. Poor hydration didn’t make participants feel thirstier, but it did trigger biological signs of strain. Keeping a water bottle handy could help manage stress and safeguard health.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/man-drinking-water-on-sofa.webp",
           "mime_type": "image/webp"
         }
       ],

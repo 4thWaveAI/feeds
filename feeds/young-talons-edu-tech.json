@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/young-talons-edu-tech.json",
   "items": [
     {
+      "id": "https://www.edsurge.com/news/2025-09-25-the-world-s-classrooms-are-short-44-million-teachers",
+      "url": "https://www.edsurge.com/news/2025-09-25-the-world-s-classrooms-are-short-44-million-teachers",
+      "title": "The World's Classrooms Are Short 44 Million Teachers - EdSurge News",
+      "content_text": "“(Data) suggests there's something unique about the context of teaching or the working conditions teachers experience that are affecting these ...",
+      "attachments": [
+        {
+          "url": "https://edsurge.imgix.net/uploads/post/image/16452/Shutterstock_2296870297-1758754735.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "young-talons-edu-tech"
+      ]
+    },
+    {
       "id": "https://www.edsurge.com/news/2025-09-24-how-i-m-rewriting-the-narrative-for-latino-students-in-our-schools",
       "url": "https://www.edsurge.com/news/2025-09-24-how-i-m-rewriting-the-narrative-for-latino-students-in-our-schools",
       "title": "How I’m Rewriting the Narrative for Latino Students in Our Schools - EdSurge News",
@@ -72,21 +87,6 @@
       "attachments": [
         {
           "url": "https://edsurge.imgix.net/uploads/post/image/16444/shutterstock_786572845-1757966727.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "young-talons-edu-tech"
-      ]
-    },
-    {
-      "id": "https://www.edsurge.com/news/2025-09-17-what-i-learned-after-building-a-tech-tool-to-support-student-well-being",
-      "url": "https://www.edsurge.com/news/2025-09-17-what-i-learned-after-building-a-tech-tool-to-support-student-well-being",
-      "title": "What I Learned After Building a Tech Tool to Support Student Well-Being - EdSurge News",
-      "content_text": "This story was published by a Voices of Change fellow. Learn more about the fellowship here.One morning, my computer science students opened their ...",
-      "attachments": [
-        {
-          "url": "https://edsurge.imgix.net/uploads/post/image/16442/shutterstock_2567109937-1757950759.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
           "mime_type": "image/jpeg"
         }
       ],
@@ -191,7 +191,7 @@
       "id": "https://news.mit.edu/topic/machine-learning",
       "url": "https://news.mit.edu/topic/machine-learning",
       "title": "Machine learning | MIT News | Massachusetts Institute of Technology",
-      "content_text": "By enabling rapid annotation of areas of interest in medical images, the tool can help scientists study new treatments or map disease progression.",
+      "content_text": "The new “CRESt” platform could help find solutions to real-world energy problems that have plagued the materials science and engineering community for decades.",
       "tags": [
         "young-talons-edu-tech"
       ]

@@ -5,6 +5,51 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/human_effect.json",
   "items": [
     {
+      "id": "https://aiforgood.itu.int/whats-next-for-quantum-tiis-roadmap-from-research-to-impact/",
+      "url": "https://aiforgood.itu.int/whats-next-for-quantum-tiis-roadmap-from-research-to-impact/",
+      "title": "What’s next for quantum? TII’s roadmap from research to impact",
+      "content_text": "Connect with 51K enthusiasts from all over the world.",
+      "attachments": [
+        {
+          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/TII_Quantum-for-Good_Article-1024x576.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/unitree-robot-exploit",
+      "url": "https://spectrum.ieee.org/unitree-robot-exploit",
+      "title": "Security Flaw Turns Unitree Robots Into Botnets",
+      "content_text": "Can your robot be hacked? A new vulnerability in Unitree robots could turn them into a botnet army. Are we taking robot security seriously enough?",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=61646508&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/microcredentials-semiconductor-workforce-development",
+      "url": "https://spectrum.ieee.org/microcredentials-semiconductor-workforce-development",
+      "title": "Short Courses Help Bridge the Semiconductor Skills Gap",
+      "content_text": "Short courses in semiconductor manufacturing are gaining traction, offering students a path to industry-ready skills and experience.",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/image.png?id=61607685&width=1200&height=600&coordinates=0%2C334%2C0%2C334",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://spectrum.ieee.org/ai-impact-on-job-market",
       "url": "https://spectrum.ieee.org/ai-impact-on-job-market",
       "title": "Is AI Making Entry-Level Tech Jobs Disappear?",
@@ -110,36 +155,6 @@
       ]
     },
     {
-      "id": "https://spectrum.ieee.org/blue-origin-molten-regolith-electrolysis",
-      "url": "https://spectrum.ieee.org/blue-origin-molten-regolith-electrolysis",
-      "title": "Blue Alchemist Could Turn Lunar Dust Into Vital Resources",
-      "content_text": "Blue Origin's Blue Alchemist could make lunar landings 60 percent cheaper by using lunar resources to fabricate infrastructure.",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=61623726&width=1200&height=600&coordinates=0%2C692%2C0%2C118",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/video-friday-billion-humanoid-robots",
-      "url": "https://spectrum.ieee.org/video-friday-billion-humanoid-robots",
-      "title": "Is a Billion Dollars Enough for Figure to Make Humanoids Happen?",
-      "content_text": "​What kind of humanoid can be built with over one billion in funding? And more of the week's best robot videos!",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/image.png?id=61621100&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
       "id": "https://aiforgood.itu.int/ai-for-healthcare-ai-for-humanity-ztes-vision-for-real-world-impact/",
       "url": "https://aiforgood.itu.int/ai-for-healthcare-ai-for-humanity-ztes-vision-for-real-world-impact/",
       "title": "AI for healthcare, AI for humanity: ZTE’s vision for real-world impact",
@@ -177,21 +192,6 @@
       "attachments": [
         {
           "url": "https://noetic.org/wp-content/uploads/2025/09/space-657383_1280-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/rca-videodisc",
-      "url": "https://spectrum.ieee.org/rca-videodisc",
-      "title": "How RCA's VideoDisc Failure Became a Semiconductor Success Story",
-      "content_text": "RCA spent millions developing its home video system. It flopped, but the underlying tech led to an advanced microscope that shaped modern semiconductors.",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/photo-of-a-prototype-electronic-device-consisting-of-a-rectangular-base-with-a-circuit-board-and-other-components-perched-atop.jpg?id=61607510&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
           "mime_type": "image/jpeg"
         }
       ],
@@ -545,21 +545,6 @@
       ]
     },
     {
-      "id": "https://aiforgood.itu.int/final-cut-the-ai-for-good-film-festival-2025-crowns-this-years-winning-film/",
-      "url": "https://aiforgood.itu.int/final-cut-the-ai-for-good-film-festival-2025-crowns-this-years-winning-film/",
-      "title": "Final cut, the AI for Good Film Festival 2025 crowns this year’s winning film",
-      "content_text": "And that’s a wrap! The AI for Good Film Festival 2025 came to a close on 9 July during the Global Summit in Geneva, where four finalists presented their short films to a live audience and a panel of expert judges. Each film tackled different aspects of how artificial intelligence is shaping the world, from the challenges it raises to the possibilities it opens up.",
-      "attachments": [
-        {
-          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/07/6-1-1024x576.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
       "id": "https://www.oii.ox.ac.uk/news-events/new-report-calls-for-decisive-government-action-to-help-build-public-trust-in-ai/",
       "url": "https://www.oii.ox.ac.uk/news-events/new-report-calls-for-decisive-government-action-to-help-build-public-trust-in-ai/",
       "title": "OII | New report calls for decisive government action to help build public trust in AI",
@@ -710,6 +695,66 @@
       ]
     },
     {
+      "id": "https://www.technologyreview.com/2025/09/25/1124088/shoplifters-could-soon-be-chased-down-by-drones/",
+      "url": "https://www.technologyreview.com/2025/09/25/1124088/shoplifters-could-soon-be-chased-down-by-drones/",
+      "title": "Shoplifters could soon be chased down by drones",
+      "content_text": "Flock Safety is pitching its police-style drone program to private businesses. It could bring aerial surveillance to shopping centers, warehouses, and hospitals.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/flock-shopper.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2025/09/25/1124079/the-download-threats-vulnerable-languages-and-trump-medical-claims/",
+      "url": "https://www.technologyreview.com/2025/09/25/1124079/the-download-threats-vulnerable-languages-and-trump-medical-claims/",
+      "title": "The Download: growing threats to vulnerable languages, and fact-checking Trump’s medical claims",
+      "content_text": "Plus: Huntington's disease has been treated successfully for the first time.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/0924f.png?resize=1200%2C600",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2025/09/25/1124050/fusion-future-funding/",
+      "url": "https://www.technologyreview.com/2025/09/25/1124050/fusion-future-funding/",
+      "title": "Fusion power plants don’t exist yet, but they’re making money anyway",
+      "content_text": "The industry is getting billions, but it’s way too early to count on fusion to meet growing electricity demand.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/6-25-CFS-Magnet-Factory-in-Devens-1.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2025/09/25/1124005/ai-wikipedia-vulnerable-languages-doom-spiral/",
+      "url": "https://www.technologyreview.com/2025/09/25/1124005/ai-wikipedia-vulnerable-languages-doom-spiral/",
+      "title": "How AI and Wikipedia have sent vulnerable languages into a doom spiral",
+      "content_text": "Machine translators have made it easier than ever to create error-plagued Wikipedia articles in obscure languages. What happens when AI models get trained on junk pages?",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/0924f.png?resize=1200%2C600",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://www.technologyreview.com/2025/09/24/1124058/roundtables-the-future-of-birth-control/",
       "url": "https://www.technologyreview.com/2025/09/24/1124058/roundtables-the-future-of-birth-control/",
       "title": "Roundtables: The Future of Birth Control",
@@ -742,7 +787,7 @@
     {
       "id": "https://www.technologyreview.com/2025/09/24/1124029/trump-leucovorin-autism-tylenol/",
       "url": "https://www.technologyreview.com/2025/09/24/1124029/trump-leucovorin-autism-tylenol/",
-      "title": "Trump is pushing leucovorin as a new treatment for autism. What is it?",
+      "title": "Trump is pushing leucovorin as a treatment for autism. What is it?",
       "content_text": "The president also blamed the painkiller Tylenol for autism, but the evidence doesn’t stack up at all.",
       "attachments": [
         {
@@ -800,66 +845,6 @@
       ]
     },
     {
-      "id": "https://www.technologyreview.com/2025/09/23/1123921/the-download-ais-retracted-papers-problem/",
-      "url": "https://www.technologyreview.com/2025/09/23/1123921/the-download-ais-retracted-papers-problem/",
-      "title": "The Download: AI’s retracted papers problem",
-      "content_text": "Plus: There’s scant evidence that tylenol use during pregnancy causes autism.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/retracted-papers2a.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/09/23/1123897/ai-models-are-using-material-from-retracted-scientific-papers/",
-      "url": "https://www.technologyreview.com/2025/09/23/1123897/ai-models-are-using-material-from-retracted-scientific-papers/",
-      "title": "AI models are using material from retracted scientific papers",
-      "content_text": "Some companies are working to remedy the issue.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/retracted-papers2a.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/09/22/1123889/the-download-the-llm-will-see-you-now-and-a-new-fusion-power-deal/",
-      "url": "https://www.technologyreview.com/2025/09/22/1123889/the-download-the-llm-will-see-you-now-and-a-new-fusion-power-deal/",
-      "title": "The Download: the LLM will see you now, and a new fusion power deal",
-      "content_text": "Plus: the Trump administration is preparing to link Tylenol to autism",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/stethoscope-ai2.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/09/22/1123870/commonwealth-fusion-eni/",
-      "url": "https://www.technologyreview.com/2025/09/22/1123870/commonwealth-fusion-eni/",
-      "title": "An oil and gas giant signed a $1 billion deal with Commonwealth Fusion Systems",
-      "content_text": "The power purchase agreement makes Eni the second major customer for Commonwealth’s first commercial fusion power plant.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/CFS-ARC-Facility-Aerial-illustration.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
       "id": "https://montrealethics.ai/the-ai-ethics-brief-172-the-state-of-ai-ethics-in-2025-whats-actually-working/",
       "url": "https://montrealethics.ai/the-ai-ethics-brief-172-the-state-of-ai-ethics-in-2025-whats-actually-working/",
       "title": "The AI Ethics Brief #172: The State of AI Ethics in 2025: What's Actually Working",
@@ -870,6 +855,15 @@
           "mime_type": "image/png"
         }
       ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://events.bizzabo.com/762929",
+      "url": "https://events.bizzabo.com/762929",
+      "title": "Configuring and controlling complex test equipment setups for silicon device test and characterization",
+      "content_text": "In this webinar, we will explore efficient, accurate, and scalable techniques for analog and mixed-signal device testing using reconfigurable test setups. As semiconductor devices grow more complex, engineers face the challenge of validating performance and catching edge cases under tight schedules. Test setups often include oscilloscopes, waveform generators, network analyzers, and more, potentially from different vendors with unique automation and configuration considerations. In order to keep pace with semiconductor validation requirements, multi-channel test setups designed for flexibility and performance can help engineers scale effectively.\n    \n    Key learnings:\n    \n    - Reducing signal path complexity with multiple integrated instruments\n    - Improving data fidelity when measur",
       "tags": [
         "human_effect"
       ]
