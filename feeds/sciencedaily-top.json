@@ -5,6 +5,126 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sciencedaily-top.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250926035048.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250926035048.htm",
+      "title": "This new camera sees the invisible in 3D without lenses",
+      "content_text": "Scientists have developed a lens-free mid-infrared camera using a modern twist on pinhole imaging. The system uses nonlinear crystals to convert infrared light into visible, allowing standard sensors to capture sharp, wide-range images without distortion. It can also create precise 3D reconstructions even in extremely low light. Though still experimental, the technology promises affordable, portable infrared imaging for safety, industrial, and environmental uses.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/mid-infrared-nonlinear-pinhole-imaging.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250926035023.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250926035023.htm",
+      "title": "A pink bumpy snailfish was just discovered miles beneath the ocean",
+      "content_text": "Scientists have identified three new species of deep-sea snailfish, including the strikingly pink “bumpy snailfish,” thanks to MBARI’s advanced technology and global collaborations. Found thousands of meters below the surface off California, these elusive fish demonstrate remarkable adaptations for life under crushing pressure and darkness.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/bumpy-snailfish-careproctus-colliculi.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250926035019.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250926035019.htm",
+      "title": "Biochar’s secret power could change clean water forever",
+      "content_text": "Scientists found that biochar doesn’t just capture pollutants, it actively destroys them using direct electron transfer. This newly recognized ability accounts for up to 40% of its cleaning power and remains effective through repeated use. The discovery opens the door to cheaper, greener, and more efficient water treatment methods worldwide.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/adding-biochar-to-soil.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250926035016.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250926035016.htm",
+      "title": "Toxic waste could become the next clean energy breakthrough",
+      "content_text": "Bio-tar, once seen as a toxic waste, can be transformed into bio-carbon with applications in clean energy and environmental protection. This innovation could reduce emissions, create profits, and solve a major bioenergy industry problem.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/liquid-oil-petroleum.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250926035015.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250926035015.htm",
+      "title": "Hidden “electron highways” beneath our feet could revolutionize pollution cleanup",
+      "content_text": "Electrons flow underground in ways far more extensive than once believed, forming networks that link distant chemical zones. Minerals, organic molecules, and specialized bacteria can act as bridges, creating long-distance electron highways. These discoveries hold promise for pollution cleanup strategies, remote remediation, and protecting ecosystems. Scientists now see the subsurface as an interconnected redox system with exciting practical potential.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/earth-hidden-electron-highways.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250926033415.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250926033415.htm",
+      "title": "Hidden galaxy bursting with baby stars, X-ray fireworks, and cosmic energy",
+      "content_text": "Although this spiral galaxy appears unremarkable from afar, NGC 7456 is bursting with newborn stars and glowing gas, providing researchers with insight into galactic evolution.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/ngc-7456.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250925025409.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250925025409.htm",
+      "title": "The quantum internet just went live on Verizon’s network",
+      "content_text": "Penn engineers have taken quantum networking from the lab to Verizon’s live fiber network, using a silicon “Q-chip” that speaks the same Internet Protocol as the modern web. The system pairs classical and quantum signals like a train engine with sealed cargo, ensuring routing without destroying quantum states. By maintaining fidelity above 97% even under real-world noise, the approach shows that a scalable quantum internet is possible using today’s infrastructure.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/fiber-optic-computer-networking.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250925025406.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250925025406.htm",
+      "title": "Scientists unveil breakthrough pixel that could put holograms on your smartphone",
+      "content_text": "A team at the University of St Andrews has unlocked a major step toward true holographic displays by combining OLEDs with holographic metasurfaces. Unlike traditional laser-based holograms, this compact and affordable method could transform smart devices, entertainment, and even virtual reality. The breakthrough allows entire images to be generated from a single OLED pixel, removing long-standing barriers and pointing to a future of lightweight, miniaturized holographic technology.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/smartphone-tablet-holographic-display.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/09/250925025403.htm",
       "url": "https://www.sciencedaily.com/releases/2025/09/250925025403.htm",
       "title": "The surprising new particle that could finally explain dark matter",
@@ -177,126 +297,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/active-black-hole-jet.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250924012234.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250924012234.htm",
-      "title": "The phantom heat of empty space might soon be detectable",
-      "content_text": "A Hiroshima University team has designed a feasible way to detect the Unruh effect, where acceleration turns quantum vacuum fluctuations into observable particles. By using superconducting Josephson junctions, they can achieve extreme accelerations that create a detectable Unruh temperature. This produces measurable voltage jumps, providing a clear signal of the effect. The breakthrough could transform both fundamental physics and quantum technology.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/unruh-effect-acceleration-quantum-heat.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250924012232.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250924012232.htm",
-      "title": "AI-powered smart bandage heals wounds 25% faster",
-      "content_text": "A new wearable device, a-Heal, combines AI, imaging, and bioelectronics to speed up wound recovery. It continuously monitors wounds, diagnoses healing stages, and applies personalized treatments like medicine or electric fields. Preclinical tests showed healing about 25% faster than standard care, highlighting potential for chronic wound therapy.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/wound-healing-hand.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250924012230.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250924012230.htm",
-      "title": "A tiny mineral may hold the secret to feeding billions sustainably",
-      "content_text": "Rice, a staple for billions, is one of the most resource-hungry crops on the planet—but scientists may have found a way to change that. By applying nanoscale selenium directly to rice plants, researchers dramatically improved nitrogen efficiency, boosted yields, and made grains more nutritious while reducing fertilizer use and cutting greenhouse gas emissions.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/rice-paddy-neat-rows.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250924012229.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250924012229.htm",
-      "title": "Scientists crack the explosive secret of how diamonds reach the surface",
-      "content_text": "Diamonds hitch a ride to the surface through explosive kimberlite eruptions, powered by volatile-rich magmas. New simulations show that carbon dioxide and water are the secret ingredients that make these eruptions possible.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/octahedral-diamond-in-kimberlite.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250924012226.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250924012226.htm",
-      "title": "Mushrooms evolved psychedelics twice, baffling scientists",
-      "content_text": "Researchers found that magic mushrooms and fiber caps independently evolved different biochemical pathways to create psilocybin. This convergence shows nature’s ingenuity, but the reason why remains unknown—possibly predator deterrence. Beyond evolutionary mystery, the discovery provides new enzyme tools for biotech, with promising applications for producing psilocybin-based medicines.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/glowing-magic-mushrooms.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250924012222.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250924012222.htm",
-      "title": "Tylenol in pregnancy linked to higher autism risk, Harvard scientists report",
-      "content_text": "Researchers reviewing 46 studies found evidence linking prenatal acetaminophen (Tylenol) exposure with higher risks of autism and ADHD. The FDA has since urged caution, echoing scientists’ advice that the drug be used only at the lowest effective dose and shortest duration. While important for managing fever and pain in pregnancy, prolonged use may pose risks to fetal development. Experts stress careful medical oversight and further investigation.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/tylenol-extra-strength-acetaminophen-medicine-caplets.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250923021217.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250923021217.htm",
-      "title": "Diamonds reveal hidden chemistry deep inside Earth",
-      "content_text": "South African diamonds have revealed nickel-rich metallic inclusions, offering the first direct evidence of reactions predicted to occur deep in Earth’s mantle. The study shows how oxidized melts infiltrated reduced rocks, trapping both the cause and effect of diamond formation. These reactions help explain volatile-rich magmas like kimberlites, linking mantle chemistry to volcanic processes. Diamonds emerge as tiny record-keepers of Earth’s deep, dynamic engine.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/earth-structure-layers.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250923021212.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250923021212.htm",
-      "title": "Dogs can tell how toys work without any training",
-      "content_text": "Gifted dogs can categorize toys by function, not just appearance. In playful at-home tests, they linked labels like “fetch” and “pull” to toys—even ones they’d never seen before. The findings hint that dogs form mental concepts of objects, much like humans, pointing to deeper cognitive abilities.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/smart-dog-puzzle-toy.webp",
           "mime_type": "image/webp"
         }
       ],

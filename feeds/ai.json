@@ -5,14 +5,14 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.json",
   "items": [
     {
-      "id": "https://developer.nvidia.com/blog/r2d2-three-neural-breakthroughs-transforming-robot-learning-from-nvidia-research/",
-      "url": "https://developer.nvidia.com/blog/r2d2-three-neural-breakthroughs-transforming-robot-learning-from-nvidia-research/",
-      "title": "R²D²: Three Neural Breakthroughs Transforming Robot Learning from NVIDIA Research | NVIDIA Technical Blog",
-      "content_text": "While today’s robots excel in controlled settings, they still struggle with the unpredictability, dexterity, and nuanced interactions required for real-world tasks—from assembling delicate components…",
+      "id": "https://developer.nvidia.com/blog/why-cves-belong-in-frameworks-and-apps-not-ai-models/",
+      "url": "https://developer.nvidia.com/blog/why-cves-belong-in-frameworks-and-apps-not-ai-models/",
+      "title": "Why CVEs Belong in Frameworks and Apps, Not AI Models | NVIDIA Technical Blog",
+      "content_text": "The Common Vulnerabilities and Exposures (CVE) system is the global standard for cataloging security flaws in software. Maintained by MITRE and backed by CISA, the program gives each vulnerability a…",
       "attachments": [
         {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/gif-robot-learning.gif",
-          "mime_type": "image/gif"
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/genai-blog-3104222-1920x1080-1.jpg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -509,6 +509,21 @@
       ]
     },
     {
+      "id": "https://www.anthropic.com/news/anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of",
+      "url": "https://www.anthropic.com/news/anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of",
+      "title": "Anthropic expands global leadership in enterprise AI, naming Chris Ciauri as Managing Director of International",
+      "content_text": "Chris Ciauri joins Anthropic as Managing Director of International, adding to our global leadership team as we expand our worldwide presence.",
+      "attachments": [
+        {
+          "url": "https://www.anthropic.com/api/opengraph-illustration?name=Node+Globe&backgroundColor=olive",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "https://www.anthropic.com/news/claude-now-available-in-microsoft-365-copilot",
       "url": "https://www.anthropic.com/news/claude-now-available-in-microsoft-365-copilot",
       "title": "Claude now available in Microsoft 365 Copilot",
@@ -532,21 +547,6 @@
         {
           "url": "https://cdn.sanity.io/images/4zrzovbb/website/0daf4c734673d46413d8b2ad95e7f4249234473c-2400x1260.png",
           "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi",
-      "url": "https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi",
-      "title": "Strengthening our safeguards through collaboration with US CAISI and UK AISI",
-      "content_text": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-      "attachments": [
-        {
-          "url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand+NodeTree&backgroundColor=olive",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -584,13 +584,13 @@
       ]
     },
     {
-      "id": "https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem",
-      "title": "NVIDIA Announces £2 Billion Investment in the United Kingdom AI Startup Ecosystem",
-      "content_text": "NVIDIA today announced an investment of £2 billion in the U.K. market to catalyze the nation’s AI startup ecosystem and scale the next generation of globally transformative AI businesses.",
+      "id": "https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products",
+      "title": "NVIDIA and Intel to Develop AI Infrastructure and Personal Computing Products",
+      "content_text": "NVIDIA (NASDAQ: NVDA) and Intel Corporation (NASDAQ: INTC) today announced a collaboration to jointly develop multiple generations of custom data center and PC products that accelerate applications and workloads across hyperscale, enterprise and consumer markets.",
       "attachments": [
         {
-          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/20258/68cc4a5b3d6332160038b7b1_nvidia-investment-uk-ai-startup-ecosystem/nvidia-investment-uk-ai-startup-ecosystem_059a49be-6e31-4eca-bfc9-ce7dcf993421-prv.jpg",
+          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/202509/68cbe6953d63324b19567968_0ddda295-ba99-4ec9-b4c1-d5f3e2a83e7/0ddda295-ba99-4ec9-b4c1-d5f3e2a83e7_c5f3709f-5bf8-4d9a-8097-a20149241fe2-prv.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -599,13 +599,13 @@
       ]
     },
     {
-      "id": "https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products",
-      "title": "NVIDIA and Intel to Develop AI Infrastructure and Personal Computing Products",
-      "content_text": "NVIDIA (NASDAQ: NVDA) and Intel Corporation (NASDAQ: INTC) today announced a collaboration to jointly develop multiple generations of custom data center and PC products that accelerate applications and workloads across hyperscale, enterprise and consumer markets.",
+      "id": "https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem",
+      "title": "NVIDIA Announces £2 Billion Investment in the United Kingdom AI Startup Ecosystem",
+      "content_text": "NVIDIA today announced an investment of £2 billion in the U.K. market to catalyze the nation’s AI startup ecosystem and scale the next generation of globally transformative AI businesses.",
       "attachments": [
         {
-          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/202509/68cbe6953d63324b19567968_0ddda295-ba99-4ec9-b4c1-d5f3e2a83e7/0ddda295-ba99-4ec9-b4c1-d5f3e2a83e7_c5f3709f-5bf8-4d9a-8097-a20149241fe2-prv.jpg",
+          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/20258/68cc4a5b3d6332160038b7b1_nvidia-investment-uk-ai-startup-ecosystem/nvidia-investment-uk-ai-startup-ecosystem_059a49be-6e31-4eca-bfc9-ce7dcf993421-prv.jpg",
           "mime_type": "image/jpeg"
         }
       ],

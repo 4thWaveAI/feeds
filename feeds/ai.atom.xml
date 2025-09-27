@@ -4,13 +4,13 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai</id>
-  <updated>Fri, 26 Sep 2025 05:40:58 +0000</updated>
+  <updated>Sat, 27 Sep 2025 05:39:05 +0000</updated>
   <entry>
-    <title>R²D²: Three Neural Breakthroughs Transforming Robot Learning from NVIDIA Research | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/r2d2-three-neural-breakthroughs-transforming-robot-learning-from-nvidia-research/"/>
-    <id>https://developer.nvidia.com/blog/r2d2-three-neural-breakthroughs-transforming-robot-learning-from-nvidia-research/</id>
-    <summary type="text">While today’s robots excel in controlled settings, they still struggle with the unpredictability, dexterity, and nuanced interactions required for real-world tasks—from assembling delicate components…</summary>
-    <updated>Thu, 25 Sep 2025 18:47:35 +0000</updated>
+    <title>Why CVEs Belong in Frameworks and Apps, Not AI Models | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/why-cves-belong-in-frameworks-and-apps-not-ai-models/"/>
+    <id>https://developer.nvidia.com/blog/why-cves-belong-in-frameworks-and-apps-not-ai-models/</id>
+    <summary type="text">The Common Vulnerabilities and Exposures (CVE) system is the global standard for cataloging security flaws in software. Maintained by MITRE and backed by CISA, the program gives each vulnerability a…</summary>
+    <updated>Fri, 26 Sep 2025 16:31:23 +0000</updated>
   </entry>
   <entry>
     <title>NVIDIA Open Sources Audio2Face Animation Model | NVIDIA Technical Blog</title>
@@ -219,6 +219,12 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <summary type="text">Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.</summary>
   </entry>
   <entry>
+    <title>Anthropic expands global leadership in enterprise AI, naming Chris Ciauri as Managing Director of International</title>
+    <link href="https://www.anthropic.com/news/anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of"/>
+    <id>https://www.anthropic.com/news/anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of</id>
+    <summary type="text">Chris Ciauri joins Anthropic as Managing Director of International, adding to our global leadership team as we expand our worldwide presence.</summary>
+  </entry>
+  <entry>
     <title>Claude now available in Microsoft 365 Copilot</title>
     <link href="https://www.anthropic.com/news/claude-now-available-in-microsoft-365-copilot"/>
     <id>https://www.anthropic.com/news/claude-now-available-in-microsoft-365-copilot</id>
@@ -229,12 +235,6 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <link href="https://www.anthropic.com/news/claude-in-xcode"/>
     <id>https://www.anthropic.com/news/claude-in-xcode</id>
     <summary type="text">Connect your Claude account to Xcode 26 for AI-powered coding assistance. Debug, refactor, and build Apple apps faster with Claude Sonnet 4 by Anthropic.</summary>
-  </entry>
-  <entry>
-    <title>Strengthening our safeguards through collaboration with US CAISI and UK AISI</title>
-    <link href="https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi"/>
-    <id>https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi</id>
-    <summary type="text">Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.</summary>
   </entry>
   <entry>
     <title>Latest News from Google Research Blog - Google Research</title>
@@ -249,16 +249,16 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <summary type="text">OpenAI and NVIDIA today announced a letter of intent for a landmark strategic partnership to deploy at least 10 gigawatts of NVIDIA systems for OpenAI’s next-generation AI infrastructure to train and run its next generation of models on the path to deploying superintelligence.</summary>
   </entry>
   <entry>
-    <title>NVIDIA Announces £2 Billion Investment in the United Kingdom AI Startup Ecosystem</title>
-    <link href="https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem"/>
-    <id>https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem</id>
-    <summary type="text">NVIDIA today announced an investment of £2 billion in the U.K. market to catalyze the nation’s AI startup ecosystem and scale the next generation of globally transformative AI businesses.</summary>
-  </entry>
-  <entry>
     <title>NVIDIA and Intel to Develop AI Infrastructure and Personal Computing Products</title>
     <link href="https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products"/>
     <id>https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products</id>
     <summary type="text">NVIDIA (NASDAQ: NVDA) and Intel Corporation (NASDAQ: INTC) today announced a collaboration to jointly develop multiple generations of custom data center and PC products that accelerate applications and workloads across hyperscale, enterprise and consumer markets.</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA Announces £2 Billion Investment in the United Kingdom AI Startup Ecosystem</title>
+    <link href="https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem"/>
+    <id>https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem</id>
+    <summary type="text">NVIDIA today announced an investment of £2 billion in the U.K. market to catalyze the nation’s AI startup ecosystem and scale the next generation of globally transformative AI businesses.</summary>
   </entry>
   <entry>
     <title>Data Center Archives</title>

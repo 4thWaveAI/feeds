@@ -5,18 +5,14 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/quantum.json",
   "items": [
     {
-      "id": "https://research.ibm.com/blog/bharatgen-ai-india",
-      "url": "https://research.ibm.com/blog/bharatgen-ai-india",
-      "title": "IBM and BharatGen collaborate for India’s AI needs",
-      "content_text": "Using the multimodal AI and LLMs BharatGen is working on, it will work with IBM to build the unique tools needed to best serve Indian language speakers.",
+      "id": "https://research.ibm.com/blog/map-measure-manage-gen-ai",
+      "url": "https://research.ibm.com/blog/map-measure-manage-gen-ai",
+      "title": "How AI alignment differs from AI steering",
+      "content_text": "IBM Fellow Kush Varshney explains the difference, and provides an update on IBM’s latest work to mitigate the safety risks around generative AI.",
       "attachments": [
         {
-          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fbharat_Gen_5f657bc5af.jpg&w=1200&q=75",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://d35x6597f7j1wm.cloudfront.net/bharat_Gen_2x_74880ee970.mp4",
-          "mime_type": "video/mp4"
+          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2FAI_Safety1_eb62d689d2.png&w=1200&q=85",
+          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -47,6 +43,25 @@
         {
           "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/IBM_Quantum_Heron_156_Layers_7e322d8a97.jpg",
           "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://research.ibm.com/blog/bharatgen-ai-india",
+      "url": "https://research.ibm.com/blog/bharatgen-ai-india",
+      "title": "IBM and BharatGen collaborate for India’s AI needs",
+      "content_text": "Using the multimodal AI and LLMs BharatGen is working on, it will work with IBM to build the unique tools needed to best serve Indian language speakers.",
+      "attachments": [
+        {
+          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fbharat_Gen_5f657bc5af.jpg&w=1200&q=75",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://d35x6597f7j1wm.cloudfront.net/bharat_Gen_2x_74880ee970.mp4",
+          "mime_type": "video/mp4"
         }
       ],
       "tags": [
@@ -141,21 +156,6 @@
         {
           "url": "https://d35x6597f7j1wm.cloudfront.net/blog_Art_hacker_One_17c19fbd70.mp4",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "quantum"
-      ]
-    },
-    {
-      "id": "https://research.ibm.com/blog/ai-algorithm-complexity",
-      "url": "https://research.ibm.com/blog/ai-algorithm-complexity",
-      "title": "Can AI generate truly novel algorithms?",
-      "content_text": "A decades-old approach to measuring algorithmic complexity could provide a window into better understanding how AI systems compute.",
-      "attachments": [
-        {
-          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Foptimization_algorithms_0e3c8d2c0c.png&w=1200&q=85",
-          "mime_type": "image/png"
         }
       ],
       "tags": [

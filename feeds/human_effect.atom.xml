@@ -4,7 +4,21 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/human_effect.atom.xml"/>
   <id>urn:4thwaveai-feeds:human_effect</id>
-  <updated>Fri, 26 Sep 2025 05:44:53 +0000</updated>
+  <updated>Sat, 27 Sep 2025 05:42:43 +0000</updated>
+  <entry>
+    <title>The Accidental Discovery That Proved the Big Bang Theory</title>
+    <link href="https://spectrum.ieee.org/big-bang-theory-discovery"/>
+    <id>https://spectrum.ieee.org/big-bang-theory-discovery</id>
+    <summary type="text">What mysterious noise did Bell Labs researchers uncover in 1964 that changed our understanding of the universe?</summary>
+    <updated>Fri, 26 Sep 2025 18:00:02 +0000</updated>
+  </entry>
+  <entry>
+    <title>Video Friday: Gemini Robotics Improves Motor Skills</title>
+    <link href="https://spectrum.ieee.org/video-friday-google-gemini-robotics"/>
+    <id>https://spectrum.ieee.org/video-friday-google-gemini-robotics</id>
+    <summary type="text">Google DeepMind shows off its newest and most skillful robots.</summary>
+    <updated>Fri, 26 Sep 2025 15:30:02 +0000</updated>
+  </entry>
   <entry>
     <title>What’s next for quantum? TII’s roadmap from research to impact</title>
     <link href="https://aiforgood.itu.int/whats-next-for-quantum-tiis-roadmap-from-research-to-impact/"/>
@@ -60,20 +74,6 @@
     <id>https://spectrum.ieee.org/the-long-strange-trip-from-silica-to-smartphone</id>
     <summary type="text">Three continents, 30,000 kilometers, and 2,000-degree reactors</summary>
     <updated>Tue, 23 Sep 2025 13:00:04 +0000</updated>
-  </entry>
-  <entry>
-    <title>Can AI&#x27;s Intelligence Be Measured Like Human IQ?</title>
-    <link href="https://spectrum.ieee.org/agi-benchmark"/>
-    <id>https://spectrum.ieee.org/agi-benchmark</id>
-    <summary type="text">AI leaders predict AGI soon, but how close are we really to AI that thinks like us? The challenges of testing machine intelligence make it hard to say.</summary>
-    <updated>Mon, 22 Sep 2025 13:01:02 +0000</updated>
-  </entry>
-  <entry>
-    <title>Can You Solve the Puzzles That Stump AI Models?</title>
-    <link href="https://spectrum.ieee.org/arc-prize-agi-test"/>
-    <id>https://spectrum.ieee.org/arc-prize-agi-test</id>
-    <summary type="text">Think you can outsmart AI? Try these visual puzzles and see how you measure up.</summary>
-    <updated>Mon, 22 Sep 2025 13:00:02 +0000</updated>
   </entry>
   <entry>
     <title>AI for healthcare, AI for humanity: ZTE’s vision for real-world impact</title>
@@ -318,6 +318,18 @@
     <summary type="text">Whether it is merely long-term hype or near-term reality, Large Language Models (LLMs) in medicine are well-positioned to engage with a wide range of medical tasks and be used for medical research purposes.</summary>
   </entry>
   <entry>
+    <title>US investigators are using AI to detect child abuse images made by AI</title>
+    <link href="https://www.technologyreview.com/2025/09/26/1124343/us-investigators-are-using-ai-to-detect-child-abuse-images-made-by-ai/"/>
+    <id>https://www.technologyreview.com/2025/09/26/1124343/us-investigators-are-using-ai-to-detect-child-abuse-images-made-by-ai/</id>
+    <summary type="text">Though artificial intelligence is fueling a surge in synthetic child abuse images, it’s also being tested as a way to stop harm to real victims.</summary>
+  </entry>
+  <entry>
+    <title>The Download: shoplifter-chasing drones, and Trump’s TikTok deal</title>
+    <link href="https://www.technologyreview.com/2025/09/26/1124253/the-download-shoplifter-chasing-drones-and-trumps-tiktok-deal/"/>
+    <id>https://www.technologyreview.com/2025/09/26/1124253/the-download-shoplifter-chasing-drones-and-trumps-tiktok-deal/</id>
+    <summary type="text">Plus: Microsoft has stopped letting Israel use its technology for surveillance.</summary>
+  </entry>
+  <entry>
     <title>Shoplifters could soon be chased down by drones</title>
     <link href="https://www.technologyreview.com/2025/09/25/1124088/shoplifters-could-soon-be-chased-down-by-drones/"/>
     <id>https://www.technologyreview.com/2025/09/25/1124088/shoplifters-could-soon-be-chased-down-by-drones/</id>
@@ -364,18 +376,6 @@
     <link href="https://www.technologyreview.com/2025/09/24/1123999/the-ai-hype-index-cracking-the-chatbot-code/"/>
     <id>https://www.technologyreview.com/2025/09/24/1123999/the-ai-hype-index-cracking-the-chatbot-code/</id>
     <summary type="text">MIT Technology Review’s highly subjective take on the latest buzz about AI</summary>
-  </entry>
-  <entry>
-    <title>It’s surprisingly easy to stumble into a relationship with an AI chatbot</title>
-    <link href="https://www.technologyreview.com/2025/09/24/1123915/relationship-ai-without-seeking-it/"/>
-    <id>https://www.technologyreview.com/2025/09/24/1123915/relationship-ai-without-seeking-it/</id>
-    <summary type="text">We’re increasingly developing bonds with chatbots. While that’s safe for some, it’s dangerous for others.</summary>
-  </entry>
-  <entry>
-    <title>Roundtables: Meet the 2025 Innovator of the Year</title>
-    <link href="https://www.technologyreview.com/2025/09/23/1123986/roundtables-meet-the-2025-innovator-of-the-year/"/>
-    <id>https://www.technologyreview.com/2025/09/23/1123986/roundtables-meet-the-2025-innovator-of-the-year/</id>
-    <summary type="text">Watch a subscriber-only conversation with Sneha Goenka, who designed the computations behind the world’s fastest whole-genome sequencing method.</summary>
   </entry>
   <entry>
     <title>The AI Ethics Brief #172: The State of AI Ethics in 2025: What&#x27;s Actually Working</title>

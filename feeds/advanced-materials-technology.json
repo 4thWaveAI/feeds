@@ -5,6 +5,36 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/advanced-materials-technology.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250926035019.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250926035019.htm",
+      "title": "Biochar’s secret power could change clean water forever",
+      "content_text": "Scientists found that biochar doesn’t just capture pollutants, it actively destroys them using direct electron transfer. This newly recognized ability accounts for up to 40% of its cleaning power and remains effective through repeated use. The discovery opens the door to cheaper, greener, and more efficient water treatment methods worldwide.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/adding-biochar-to-soil.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "advanced-materials-technology"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250926035016.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250926035016.htm",
+      "title": "Toxic waste could become the next clean energy breakthrough",
+      "content_text": "Bio-tar, once seen as a toxic waste, can be transformed into bio-carbon with applications in clean energy and environmental protection. This innovation could reduce emissions, create profits, and solve a major bioenergy industry problem.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/liquid-oil-petroleum.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "advanced-materials-technology"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/09/250921090853.htm",
       "url": "https://www.sciencedaily.com/releases/2025/09/250921090853.htm",
       "title": "Tiny new lenses, smaller than a hair, could transform phone and drone cameras",
@@ -147,36 +177,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/electrosynthesized-chiral-ferromagnetic-nanohelix.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "advanced-materials-technology"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250912195122.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250912195122.htm",
-      "title": "New quantum breakthrough could transform teleportation and computing",
-      "content_text": "Scientists have finally unlocked a way to identify the elusive W state of quantum entanglement, solving a decades-old problem and opening paths to quantum teleportation and advanced quantum technologies.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/measuring-the-quantum-w-state.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "advanced-materials-technology"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250912081319.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250912081319.htm",
-      "title": "Graphene just broke a fundamental law of physics",
-      "content_text": "For the first time, scientists have observed electrons in graphene behaving like a nearly perfect quantum fluid, challenging a long-standing puzzle in physics. By creating ultra-clean samples, the team at IISc uncovered a surprising decoupling of heat and charge transport, shattering the traditional Wiedemann-Franz law. At the mysterious “Dirac point,” graphene electrons flowed like an exotic liquid similar to quark-gluon plasma, with ultra-low viscosity. Beyond rewriting physics textbooks, this discovery opens new avenues for studying black holes and quantum entanglement in the lab—and may even power next-gen quantum sensors.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/graphene-energy-liquid.webp",
           "mime_type": "image/webp"
         }
       ],

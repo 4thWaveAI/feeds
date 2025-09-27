@@ -4,18 +4,36 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.atom.xml"/>
   <id>urn:4thwaveai-feeds:nanotech</id>
-  <updated>Fri, 26 Sep 2025 05:41:42 +0000</updated>
+  <updated>Sat, 27 Sep 2025 05:39:52 +0000</updated>
   <entry>
-    <title>Multifunctional liquid metal nanocomposites for cancer photoimmunotherapy successfully developed</title>
-    <link href="https://phys.org/news/2025-09-multifunctional-liquid-metal-nanocomposites-cancer.html"/>
-    <id>https://phys.org/news/2025-09-multifunctional-liquid-metal-nanocomposites-cancer.html</id>
-    <summary type="text">A research team led by Professor Eijiro Miyako from the Materials Chemistry Frontiers Research Area at Japan Advanced Institute of Science and Technology (JAIST) has successfully developed multifunctional nanocomposites by coating liquid metal surfaces with lactic acid bacteria components and near-infrared fluorescent dye (indocyanine green).</summary>
+    <title>3D-printed carbon nanotube sensors show potential for smart health monitoring</title>
+    <link href="https://phys.org/news/2025-09-3d-carbon-nanotube-sensors-potential.html"/>
+    <id>https://phys.org/news/2025-09-3d-carbon-nanotube-sensors-potential.html</id>
+    <summary type="text">Polymer-based conductive nanocomposites, particularly those incorporating carbon nanotubes, are highly promising for the development of flexible electronics, soft robotics and wearable devices. However, CNTs are difficult to work with as they tend to agglomerate, making it hard to obtain a uniform dispersion. Moreover, conventional methods limit control over CNT distribution and shape.</summary>
+  </entry>
+  <entry>
+    <title>Nature-inspired nanocage serves as gold nanoparticle reactor</title>
+    <link href="https://phys.org/news/2025-09-nature-nanocage-gold-nanoparticle-reactor.html"/>
+    <id>https://phys.org/news/2025-09-nature-nanocage-gold-nanoparticle-reactor.html</id>
+    <summary type="text">Researchers led by Professor Yi-Tsu Chan at National Taiwan University have created a giant molecular cage that mimics nature&#x27;s nested structures. This layered nanocage is remarkably stable and can serve as a miniature reactor for producing gold nanoparticles.</summary>
+  </entry>
+  <entry>
+    <title>Stretchable light-emitting material holds promise for photon-based devices</title>
+    <link href="https://phys.org/news/2025-09-stretchable-emitting-material-photon-based.html"/>
+    <id>https://phys.org/news/2025-09-stretchable-emitting-material-photon-based.html</id>
+    <summary type="text">A research team led by the California NanoSystems Institute at UCLA, or CNSI, demonstrated a new type of light-emitting material expected to be suitable for photonics—devices based on light in the same way that today&#x27;s electronics are based on electrical signals.</summary>
   </entry>
   <entry>
     <title>A chilling discovery: The surprising flexibility of ice at the nanoscale</title>
     <link href="https://phys.org/news/2025-09-chilling-discovery-flexibility-ice-nanoscale.html"/>
     <id>https://phys.org/news/2025-09-chilling-discovery-flexibility-ice-nanoscale.html</id>
     <summary type="text">You&#x27;d think there&#x27;s nothing surprising left to discover about water. After all, researchers have been studying its properties for centuries.</summary>
+  </entry>
+  <entry>
+    <title>Multifunctional liquid metal nanocomposites for cancer photoimmunotherapy successfully developed</title>
+    <link href="https://phys.org/news/2025-09-multifunctional-liquid-metal-nanocomposites-cancer.html"/>
+    <id>https://phys.org/news/2025-09-multifunctional-liquid-metal-nanocomposites-cancer.html</id>
+    <summary type="text">A research team led by Professor Eijiro Miyako from the Materials Chemistry Frontiers Research Area at Japan Advanced Institute of Science and Technology (JAIST) has successfully developed multifunctional nanocomposites by coating liquid metal surfaces with lactic acid bacteria components and near-infrared fluorescent dye (indocyanine green).</summary>
   </entry>
   <entry>
     <title>Broadband photodetector material senses visible light to long-wave infrared, simplifying device design</title>
@@ -36,16 +54,16 @@
     <summary type="text">A research team has developed an approach to significantly reduce the risk of cancer recurrence and metastasis after surgery, by targeting both bulk cancer cells and the elusive cancer stem cells (CSCs) responsible for relapse.</summary>
   </entry>
   <entry>
-    <title>A new bone substitute made out of 3D-printed glass</title>
-    <link href="https://phys.org/news/2025-09-bone-substitute-3d-glass.html"/>
-    <id>https://phys.org/news/2025-09-bone-substitute-3d-glass.html</id>
-    <summary type="text">You might think that glass has no business acting as a replacement for bone, but it turns out the two materials have many similarities. For a new study published in ACS Nano, researchers developed a 3D printable bio-active glass that served as an effective bone replacement material. In rabbits, it sustained bone cell growth better than regular glass and a commercially available bone substitute.</summary>
-  </entry>
-  <entry>
     <title>Ball mill technique produces nanoscale scaffolds that filter PFAS</title>
     <link href="https://phys.org/news/2025-09-ball-mill-technique-nanoscale-scaffolds.html"/>
     <id>https://phys.org/news/2025-09-ball-mill-technique-nanoscale-scaffolds.html</id>
     <summary type="text">PFAS are fluorinated compounds found in many everyday products, such as outdoor clothing and cookware like Teflon pans. This is because PFAS are durable, heat-resistant and dirt-repellent. Their stability is precisely what leads to problems: although potentially harmful to our health, these substances are scarcely broken down at all in the environment and are regarded as &quot;forever chemicals.&quot; PFAS are also found in wastewater. Although they can be removed by filtration, this is a laborious process.</summary>
+  </entry>
+  <entry>
+    <title>A new bone substitute made out of 3D-printed glass</title>
+    <link href="https://phys.org/news/2025-09-bone-substitute-3d-glass.html"/>
+    <id>https://phys.org/news/2025-09-bone-substitute-3d-glass.html</id>
+    <summary type="text">You might think that glass has no business acting as a replacement for bone, but it turns out the two materials have many similarities. For a new study published in ACS Nano, researchers developed a 3D printable bio-active glass that served as an effective bone replacement material. In rabbits, it sustained bone cell growth better than regular glass and a commercially available bone substitute.</summary>
   </entry>
   <entry>
     <title>Scientists visualize atomic structures in moiré materials</title>
@@ -60,22 +78,10 @@
     <summary type="text">A bane of farmers&#x27; existence, it&#x27;s estimated that plant-eating pests are responsible for the loss of up to 40% of pre-harvest yields globally. But a new generation of crop treatments that target only &quot;bad&quot; bugs could mean big gains for the Canadian agriculture sector, improving pest management tools in an industry that in 2024 generated over $142 billion.</summary>
   </entry>
   <entry>
-    <title>Cracking the nanoculture shell to unlock new frontiers in microbiome research</title>
-    <link href="https://phys.org/news/2025-09-nanoculture-shell-frontiers-microbiome.html"/>
-    <id>https://phys.org/news/2025-09-nanoculture-shell-frontiers-microbiome.html</id>
-    <summary type="text">Tiny bioreactors, called nanocultures, are opening up new possibilities for microbiome research, especially in harsh and dynamic environments.</summary>
-  </entry>
-  <entry>
-    <title>Lipid nanoparticles with complex shapes expand options for next-generation drug delivery</title>
-    <link href="https://phys.org/news/2025-09-lipid-nanoparticles-complex-options-generation.html"/>
-    <id>https://phys.org/news/2025-09-lipid-nanoparticles-complex-options-generation.html</id>
-    <summary type="text">An Australian research team has achieved an advanced materials breakthrough that opens the door to a new generation of nanodrug applications. From drug delivery, to diagnostics, to gene editing and beyond, the breakthrough has the potential to improve outcomes for patients around the world in coming decades.</summary>
-  </entry>
-  <entry>
-    <title>Nanocellulose-based foam materials for water purification, smart packaging and green electronics</title>
-    <link href="https://phys.org/news/2025-09-nanocellulose-based-foam-materials-purification.html"/>
-    <id>https://phys.org/news/2025-09-nanocellulose-based-foam-materials-purification.html</id>
-    <summary type="text">Nanocellulose is a renewable nanomaterial made from plant fibers, with unique properties including lightness, very high strength and large surface area. The doctoral dissertation of Mohammad Karzarjeddi from the University of Oulu, Finland, investigated nanocellulose-based porous foam materials in water purification, smart packaging and wireless communications. These advanced cellulose applications reduce dependence on fossil-based materials.</summary>
+    <title>Toxic waste could become the next clean energy breakthrough</title>
+    <link href="https://www.sciencedaily.com/releases/2025/09/250926035016.htm"/>
+    <id>https://www.sciencedaily.com/releases/2025/09/250926035016.htm</id>
+    <summary type="text">Bio-tar, once seen as a toxic waste, can be transformed into bio-carbon with applications in clean energy and environmental protection. This innovation could reduce emissions, create profits, and solve a major bioenergy industry problem.</summary>
   </entry>
   <entry>
     <title>Tiny new lenses, smaller than a hair, could transform phone and drone cameras</title>
@@ -142,11 +148,5 @@
     <link href="https://www.sciencedaily.com/releases/2025/08/250827010717.htm"/>
     <id>https://www.sciencedaily.com/releases/2025/08/250827010717.htm</id>
     <summary type="text">Hydrogen fuel cells could power cars, devices, and homes with nothing but water as a byproduct—but platinum’s cost holds them back. Chinese researchers have now unveiled a breakthrough iron-based catalyst that could rival platinum while boosting efficiency and durability. With its clever “inner activation, outer protection” design, this new catalyst not only reduces harmful byproducts but also shatters performance records, potentially paving the way for cleaner, cheaper, and more practical hydrogen energy.</summary>
-  </entry>
-  <entry>
-    <title>Scientists unlock nature’s secret to superfast mini robots</title>
-    <link href="https://www.sciencedaily.com/releases/2025/08/250824031532.htm"/>
-    <id>https://www.sciencedaily.com/releases/2025/08/250824031532.htm</id>
-    <summary type="text">Ripple bugs’ fan-like legs inspired engineers to build the Rhagobot, a tiny robot with self-morphing fans. By mimicking these insects’ passive, ultra-fast movements, the robot gains speed, control, and endurance without extra energy—potentially transforming aquatic microrobotics.</summary>
   </entry>
 </feed>

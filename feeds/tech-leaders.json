@@ -5,32 +5,17 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.json",
   "items": [
     {
-      "id": "https://www.aboutamazon.com/news/entertainment/spinal-tap-movies-amazon-prime-video",
-      "url": "https://www.aboutamazon.com/news/entertainment/spinal-tap-movies-amazon-prime-video",
-      "title": "How to watch the ‘Spinal Tap’ films on Prime Video",
-      "content_text": "Find out how to buy or rent the cult classic ‘This Is Spinal Tap’ and its sequel ‘Spinal Tap II: The End Continues,’ both written and directed by Rob Reiner.",
+      "id": "https://www.aboutamazon.com/news/entertainment/faceoff-inside-nhl-prime-video-sidney-crosby",
+      "url": "https://www.aboutamazon.com/news/entertainment/faceoff-inside-nhl-prime-video-sidney-crosby",
+      "title": "How to watch 'Faceoff: Inside the NHL' on Prime Video",
+      "content_text": "See unprecedented behind-the-scenes access with NHL stars like Sidney Crosby and the Tkachuk brothers in Season 2.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/d603cc1/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F84%2F30%2Fa485b0f6408b9df240f495b57302%2Fspinaltapii-a.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/entertainment/prime-video-movies-tv-shows-originals-sports-october-2025",
-      "url": "https://www.aboutamazon.com/news/entertainment/prime-video-movies-tv-shows-originals-sports-october-2025",
-      "title": "What’s new on Prime Video in October, including ‘Play Dirty,’ ‘Hazbin Hotel,’ and more",
-      "content_text": "Check out what films, series, sports, and fresh episodes are premiering this month on the streaming service.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/a6d87af/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fc5%2Fec%2Fa3c1258f455ba38221d9b71c6b7a%2Fabout-amazon-inline-mateo-gabriel-alvarado-grofield-lakeith-stanfield-zen-rosa-salazar-colonel-ortiz-hemky-madera-and-parker-mark-wahlberg-in-play-dirty-photo-credit-jasin-boland-prime-amazon-content-services-llc-3000.jpg",
+          "url": "https://assets.aboutamazon.com/dims4/default/a0db97b/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fbe%2F5d%2Fbc57656044f0aab50082e14cbc27%2Fabout-amazon-inline-nhl1-s2-episodicstill-1920x1080-203-en-ca.jpg",
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://www.youtube.com/embed/6paP2-ry-QY",
+          "url": "https://www.youtube.com/embed/OTJfeBxGDwk",
           "mime_type": "video/mp4"
         }
       ],
@@ -39,14 +24,37 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/company-news/amazon-response-on-ftc-agreement",
-      "url": "https://www.aboutamazon.com/news/company-news/amazon-response-on-ftc-agreement",
-      "title": "Statement from Amazon on FTC agreement",
-      "content_text": "\"Amazon and our executives have always followed the law and this settlement allows us to move forward and focus on innovating for customers. We work incredibly hard to make it clear and simple for customers to both sign up or cancel their Prime membership, and to offer substantial value for our…",
+      "id": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news",
+      "url": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news",
+      "title": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound",
+      "content_text": "Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/70d7fc6/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F47%2F6d%2F7fe296e642859c7ba2a629eda3ba%2Famazon-logo-hero-images-2024.jpg",
+          "url": "https://assets.aboutamazon.com/dims4/default/3c9e582/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff2%2Fe4%2F6f67188e480392ce0b19a6671b59%2Fspheres-rolling-blog-hero-1.jpg",
           "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/QWQvaTXowao",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news",
+      "url": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news",
+      "title": "Amazon data center communities: Here’s what’s happening near data centers across the US",
+      "content_text": "Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/182bf18/2147483647/strip/true/crop/5272x2636+0+163/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fa3%2Ff6%2F0abb1c1a4734ba2e727893e6eae2%2Faws-data-center-exterior-1.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/gcEJZpcISyQ",
+          "mime_type": "video/mp4"
         }
       ],
       "tags": [
@@ -152,13 +160,13 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/retail/amazon-business-prime",
-      "url": "https://www.aboutamazon.com/news/retail/amazon-business-prime",
-      "title": "What is Amazon Business Prime? Your questions answered",
-      "content_text": "The membership fit for your business offers fast, free shipping and other awesome benefits.",
+      "id": "https://www.aboutamazon.com/news/entertainment/thursday-night-football-schedule-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/thursday-night-football-schedule-prime-video",
+      "title": "'Thursday Night Football' 2025 schedule: How to watch live on Prime Video",
+      "content_text": "Prime Video’s fourth season of ‘Thursday Night Football’ is packed with divisional matchups and features two holiday showdowns.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/22686cf/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fa7%2F6b%2Ff9daa46e4f85b9eed24c240cb477%2Fabout-amazon-hero2-15-urban-business-owner-and-employee-13351-final-1-copy.jpg",
+          "url": "https://assets.aboutamazon.com/dims4/default/469c2ce/2147483647/strip/true/crop/2000x1000+0+77/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff2%2F80%2Fdec20dc2442195487a40358c5704%2Ftnf25-schedule-release-blastuicarousel-2000-final.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -182,18 +190,14 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/company-news/what-is-amazon-business",
-      "url": "https://www.aboutamazon.com/news/company-news/what-is-amazon-business",
-      "title": "Everything you need to know about Amazon Business, one of Amazon’s company priorities",
-      "content_text": "Amazon Business drives over $35 billion in annualized sales. Here’s what it is and how it works.",
+      "id": "https://www.aboutamazon.com/news/entertainment/everything-you-need-to-know-about-thursday-night-football-on-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/everything-you-need-to-know-about-thursday-night-football-on-prime-video",
+      "title": "Everything you need to know about ‘Thursday Night Football’ on Prime Video",
+      "content_text": "Find out who’s playing, how to watch, and who won each week. Plus, get all the latest ‘Thursday Night Football’ news from Prime Video.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/eb7fa64/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ffc%2F64%2Feeadb2c24a4e899970723ce55e98%2Famazon-business-still.jpg",
+          "url": "https://assets.aboutamazon.com/dims4/default/9d71b14/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F5d%2F5a%2Fd550d930492d8e012643fcdb7736%2Fabout-amazon-hero-c4n09568.jpg",
           "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/Yl0wwa1Tzo4",
-          "mime_type": "video/mp4"
         }
       ],
       "tags": [
@@ -216,13 +220,13 @@
       ]
     },
     {
-      "id": "https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem",
-      "title": "NVIDIA Announces £2 Billion Investment in the United Kingdom AI Startup Ecosystem",
-      "content_text": "NVIDIA today announced an investment of £2 billion in the U.K. market to catalyze the nation’s AI startup ecosystem and scale the next generation of globally transformative AI businesses.",
+      "id": "https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products",
+      "title": "NVIDIA and Intel to Develop AI Infrastructure and Personal Computing Products",
+      "content_text": "NVIDIA (NASDAQ: NVDA) and Intel Corporation (NASDAQ: INTC) today announced a collaboration to jointly develop multiple generations of custom data center and PC products that accelerate applications and workloads across hyperscale, enterprise and consumer markets.",
       "attachments": [
         {
-          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/20258/68cc4a5b3d6332160038b7b1_nvidia-investment-uk-ai-startup-ecosystem/nvidia-investment-uk-ai-startup-ecosystem_059a49be-6e31-4eca-bfc9-ce7dcf993421-prv.jpg",
+          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/202509/68cbe6953d63324b19567968_0ddda295-ba99-4ec9-b4c1-d5f3e2a83e7/0ddda295-ba99-4ec9-b4c1-d5f3e2a83e7_c5f3709f-5bf8-4d9a-8097-a20149241fe2-prv.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -231,13 +235,13 @@
       ]
     },
     {
-      "id": "https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products",
-      "title": "NVIDIA and Intel to Develop AI Infrastructure and Personal Computing Products",
-      "content_text": "NVIDIA (NASDAQ: NVDA) and Intel Corporation (NASDAQ: INTC) today announced a collaboration to jointly develop multiple generations of custom data center and PC products that accelerate applications and workloads across hyperscale, enterprise and consumer markets.",
+      "id": "https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem",
+      "title": "NVIDIA Announces £2 Billion Investment in the United Kingdom AI Startup Ecosystem",
+      "content_text": "NVIDIA today announced an investment of £2 billion in the U.K. market to catalyze the nation’s AI startup ecosystem and scale the next generation of globally transformative AI businesses.",
       "attachments": [
         {
-          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/202509/68cbe6953d63324b19567968_0ddda295-ba99-4ec9-b4c1-d5f3e2a83e7/0ddda295-ba99-4ec9-b4c1-d5f3e2a83e7_c5f3709f-5bf8-4d9a-8097-a20149241fe2-prv.jpg",
+          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/20258/68cc4a5b3d6332160038b7b1_nvidia-investment-uk-ai-startup-ecosystem/nvidia-investment-uk-ai-startup-ecosystem_059a49be-6e31-4eca-bfc9-ce7dcf993421-prv.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -632,7 +636,7 @@
       "content_text": "How Geoff Richman, lead editor on the Apple Original, “Severance,” created the frenetic world of the hit show’s season two finale.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/Apple-TV-plus-Mac-editing-Severance-Geoffrey-Richman-and-Ben-Stiller-lp.jpg.og.jpg?202508281642=",
+          "url": "https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/Apple-TV-plus-Mac-editing-Severance-Geoffrey-Richman-and-Ben-Stiller-lp.jpg.og.jpg?202508281732=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -647,7 +651,7 @@
       "content_text": "Meet Taiki Hamamoto, Marina Lee, Luciana Ortiz Nolasco, and Nahom Worku, four winners of Apple’s 2025 Swift Student Challenge.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281642=",
+          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281742=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -662,7 +666,7 @@
       "content_text": "From a horror-comedy in Tamil to a magical romance in Malayalam, MAMI Select filmmakers are redefining cinema with iPhone 16 Pro Max.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/tile/Apple-MAMI-Select-iPhone-16-Pro-Max-hero-lp.jpg.og.jpg?202508281644=",
+          "url": "https://www.apple.com/newsroom/images/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/tile/Apple-MAMI-Select-iPhone-16-Pro-Max-hero-lp.jpg.og.jpg?202508281729=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -677,7 +681,7 @@
       "content_text": "Captured on iPhone 16 Pro Max, a recent shoot by photographer Karston Tannis showcased the vibrancy of the African diaspora.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/02/capturing-paradise-karston-tannis-re-creates-island-vibes-with-iphone-16-pro-max/tile/Apple-Tannis-shot-on-iPhone-16-Pro-Max-group-shot-lp.jpg.og.jpg?202508281648=",
+          "url": "https://www.apple.com/newsroom/images/2025/02/capturing-paradise-karston-tannis-re-creates-island-vibes-with-iphone-16-pro-max/tile/Apple-Tannis-shot-on-iPhone-16-Pro-Max-group-shot-lp.jpg.og.jpg?202508281642=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -692,7 +696,7 @@
       "content_text": "The official source for news about Apple, from Apple. Read press releases, get updates, watch video and download images.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202509252028=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202509260737=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -707,7 +711,7 @@
       "content_text": "The source for news about Apple Services. Get updates on the latest Apple Arcade games, Apple Originals on TV+, Podcasts, Books, and more from Apple Newsroom.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758832181708=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758872407447=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -722,7 +726,7 @@
       "content_text": "Discover more stories from Apple Newsroom that showcase the creators, developers, and innovators leaving the world better than they found it.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758832126004=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1758872357891=",
           "mime_type": "image/jpeg"
         }
       ],

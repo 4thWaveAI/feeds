@@ -4,12 +4,12 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/quantum.atom.xml"/>
   <id>urn:4thwaveai-feeds:quantum</id>
-  <updated>Fri, 26 Sep 2025 05:41:30 +0000</updated>
+  <updated>Sat, 27 Sep 2025 05:39:41 +0000</updated>
   <entry>
-    <title>IBM and BharatGen collaborate for India’s AI needs</title>
-    <link href="https://research.ibm.com/blog/bharatgen-ai-india"/>
-    <id>https://research.ibm.com/blog/bharatgen-ai-india</id>
-    <summary type="text">Using the multimodal AI and LLMs BharatGen is working on, it will work with IBM to build the unique tools needed to best serve Indian language speakers.</summary>
+    <title>How AI alignment differs from AI steering</title>
+    <link href="https://research.ibm.com/blog/map-measure-manage-gen-ai"/>
+    <id>https://research.ibm.com/blog/map-measure-manage-gen-ai</id>
+    <summary type="text">IBM Fellow Kush Varshney explains the difference, and provides an update on IBM’s latest work to mitigate the safety risks around generative AI.</summary>
   </entry>
   <entry>
     <title>Introducing Surya, a new heliophysics foundation model</title>
@@ -22,6 +22,12 @@
     <link href="https://research.ibm.com/blog/hsbc-algorithmic-bond-trading"/>
     <id>https://research.ibm.com/blog/hsbc-algorithmic-bond-trading</id>
     <summary type="text">Researchers deliver first-known empirical evidence that quantum computers could soon solve valuable problems in algorithmic bond trading.</summary>
+  </entry>
+  <entry>
+    <title>IBM and BharatGen collaborate for India’s AI needs</title>
+    <link href="https://research.ibm.com/blog/bharatgen-ai-india"/>
+    <id>https://research.ibm.com/blog/bharatgen-ai-india</id>
+    <summary type="text">Using the multimodal AI and LLMs BharatGen is working on, it will work with IBM to build the unique tools needed to best serve Indian language speakers.</summary>
   </entry>
   <entry>
     <title>Building software for quantum-centric supercomputing | IBM Quantum Computing Blog</title>
@@ -58,11 +64,5 @@
     <link href="https://research.ibm.com/blog/granite-hackerone-bug-bounty"/>
     <id>https://research.ibm.com/blog/granite-hackerone-bug-bounty</id>
     <summary type="text">IBM is partnering with HackerOne to offer a bug bounty program for Granite, with up to $100,000 in bounty payouts available. The objective is to identify successful jailbreaks of Granite models deployed in enterprise-like settings with guardrails enabled, as businesses look to scale their AI workflows.</summary>
-  </entry>
-  <entry>
-    <title>Can AI generate truly novel algorithms?</title>
-    <link href="https://research.ibm.com/blog/ai-algorithm-complexity"/>
-    <id>https://research.ibm.com/blog/ai-algorithm-complexity</id>
-    <summary type="text">A decades-old approach to measuring algorithmic complexity could provide a window into better understanding how AI systems compute.</summary>
   </entry>
 </feed>
