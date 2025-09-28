@@ -62,14 +62,18 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/entertainment/thursday-night-football-schedule-prime-video",
-      "url": "https://www.aboutamazon.com/news/entertainment/thursday-night-football-schedule-prime-video",
-      "title": "'Thursday Night Football' 2025 schedule: How to watch live on Prime Video",
-      "content_text": "Prime Video’s fourth season of ‘Thursday Night Football’ is packed with divisional matchups and features two holiday showdowns.",
+      "id": "https://www.aboutamazon.com/news/retail/amazon-gas-savings-prime",
+      "url": "https://www.aboutamazon.com/news/retail/amazon-gas-savings-prime",
+      "title": "Prime membership now includes fuel savings, enabling savings of nearly $70 per year on average",
+      "content_text": "Prime members now save $0.10 per gallon at approximately 7,500 bp, Amoco, and ampm locations across the U.S.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/469c2ce/2147483647/strip/true/crop/2000x1000+0+77/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff2%2F80%2Fdec20dc2442195487a40358c5704%2Ftnf25-schedule-release-blastuicarousel-2000-final.jpg",
-          "mime_type": "image/jpeg"
+          "url": "https://assets.aboutamazon.com/dims4/default/55b8a73/2147483647/strip/true/crop/2000x1000+0+108/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F05%2Fd3%2Fd53b6b2f45b3bbe0f49e90539b23%2Fblog-hero-image-2000x1125-px.png",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/tLgDfwaydko",
+          "mime_type": "video/mp4"
         }
       ],
       "tags": [
@@ -212,6 +216,21 @@
       ]
     },
     {
+      "id": "https://www.aboutamazon.com/news/retail",
+      "url": "https://www.aboutamazon.com/news/retail",
+      "title": "Retail",
+      "content_text": "More information about shopping on Amazon and our selection of products and services.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/entertainment",
       "url": "https://www.aboutamazon.com/news/entertainment",
       "title": "Entertainment",
@@ -246,21 +265,6 @@
       "url": "https://www.aboutamazon.com/news/community",
       "title": "Community",
       "content_text": "We look for uniquely Amazonian and innovative ways to make positive, lasting impacts and encourage our employees to champion causes they care about.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/retail",
-      "url": "https://www.aboutamazon.com/news/retail",
-      "title": "Retail",
-      "content_text": "More information about shopping on Amazon and our selection of products and services.",
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
