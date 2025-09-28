@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>4thWave AI — Sundar Pichai (Aggregated)</title>
+  <link href="https://www.4thwaveai.com"/>
+  <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sundar-pichai.atom.xml"/>
+  <id>urn:4thwaveai-feeds:sundar-pichai</id>
+  <updated>Sun, 28 Sep 2025 05:41:00 +0000</updated>
+  <entry>
+    <title>The Keyword</title>
+    <link href="https://blog.google/"/>
+    <id>https://blog.google/</id>
+    <summary type="text">Get the latest news and stories about Google products, technology and innovation on the Keyword, Google&#x27;s official blog.</summary>
+  </entry>
+  <entry>
+    <title>Android</title>
+    <link href="https://blog.google/products/android/"/>
+    <id>https://blog.google/products/android/</id>
+    <summary type="text">Read the latest news and updates about Android, the world&#x27;s most popular mobile platform.</summary>
+  </entry>
+  <entry>
+    <title>Google Chrome</title>
+    <link href="https://blog.google/products/chrome/"/>
+    <id>https://blog.google/products/chrome/</id>
+    <summary type="text">Read the latest news and updates about Chrome, Google&#x27;s fast, free web browser for your computer, phone, and tablet.</summary>
+  </entry>
+  <entry>
+    <title>Chromebook</title>
+    <link href="https://blog.google/products/chromebooks/"/>
+    <id>https://blog.google/products/chromebooks/</id>
+    <summary type="text">Read the latest news and updates about Chromebooks, the fast and easy to use laptop that helps you enjoy your favorite apps.</summary>
+  </entry>
+  <entry>
+    <title>Google Play</title>
+    <link href="https://blog.google/products/google-play/"/>
+    <id>https://blog.google/products/google-play/</id>
+    <summary type="text">Read the latest news and updates about Google Play, where you can enjoy your favorite music, movies, books and apps on your Android device, or on the web.</summary>
+  </entry>
+  <entry>
+    <title>Wear OS</title>
+    <link href="https://blog.google/products/wear-os/"/>
+    <id>https://blog.google/products/wear-os/</id>
+    <summary type="text">Read the latest about Wear OS by Google — smartwatches that let you track fitness, read messages and get help from Google Assistant.</summary>
+  </entry>
+  <entry>
+    <title>Latest News from Google Research Blog - Google Research</title>
+    <link href="https://ai.googleblog.com/"/>
+    <id>https://ai.googleblog.com/</id>
+    <summary type="text">We strive to create an environment conducive to many different types of research across many different time scales and levels of risk.</summary>
+  </entry>
+</feed>

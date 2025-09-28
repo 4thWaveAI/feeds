@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>4thWave AI — Mark Zuckerberg (Aggregated)</title>
+  <link href="https://www.4thwaveai.com"/>
+  <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/mark-zuckerberg.atom.xml"/>
+  <id>urn:4thwaveai-feeds:mark-zuckerberg</id>
+  <updated>Sun, 28 Sep 2025 05:41:06 +0000</updated>
+  <entry>
+    <title>Latest Meta Company News | Meta Newsroom</title>
+    <link href="https://about.fb.com/news/category/technologies/meta/"/>
+    <id>https://about.fb.com/news/category/technologies/meta/</id>
+    <summary type="text">Latest Meta Company News | Meta Newsroom</summary>
+  </entry>
+  <entry>
+    <title>Newsroom | Meta Newsroom</title>
+    <link href="https://about.fb.com/news/"/>
+    <id>https://about.fb.com/news/</id>
+    <summary type="text">View the latest news, announcements and media resources from Meta.</summary>
+  </entry>
+  <entry>
+    <title>Product News Archives | Meta Newsroom</title>
+    <link href="https://about.fb.com/news/category/product-news/"/>
+    <id>https://about.fb.com/news/category/product-news/</id>
+    <summary type="text">Product News Archives | Meta Newsroom</summary>
+  </entry>
+  <entry>
+    <title>Technology and Innovation News | Meta Newsroom</title>
+    <link href="https://about.fb.com/news/category/technology-and-innovation/"/>
+    <id>https://about.fb.com/news/category/technology-and-innovation/</id>
+    <summary type="text">Technology and Innovation News | Meta Newsroom</summary>
+  </entry>
+  <entry>
+    <title>Public Policy Archives | Meta Newsroom</title>
+    <link href="https://about.fb.com/news/category/public-policy/"/>
+    <id>https://about.fb.com/news/category/public-policy/</id>
+    <summary type="text">Public Policy Archives | Meta Newsroom</summary>
+  </entry>
+  <entry>
+    <title>Youth Well-Being Articles, Resources, &amp; Tools for Parents &amp; Teens | Meta Newsroom</title>
+    <link href="https://about.fb.com/news/tag/well-being/"/>
+    <id>https://about.fb.com/news/tag/well-being/</id>
+    <summary type="text">Stay informed with the latest youth well-being news and resources from Meta. Including topics on mental health, digital wellness, and teen safety.</summary>
+  </entry>
+  <entry>
+    <title>Data and Privacy News | Meta Newsroom</title>
+    <link href="https://about.fb.com/news/category/data-and-privacy/"/>
+    <id>https://about.fb.com/news/category/data-and-privacy/</id>
+    <summary type="text">Data and Privacy News | Meta Newsroom</summary>
+  </entry>
+  <entry>
+    <title>Security News Archives | Meta Newsroom</title>
+    <link href="https://about.fb.com/news/tag/security/"/>
+    <id>https://about.fb.com/news/tag/security/</id>
+    <summary type="text">The latest updates on our work to keep people safe on our apps and protect our platform from abuse.</summary>
+  </entry>
+</feed>

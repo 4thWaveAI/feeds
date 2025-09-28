@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>4thWave AI — Demis Hassabis (Aggregated)</title>
+  <link href="https://www.4thwaveai.com"/>
+  <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/demis-hassabis.atom.xml"/>
+  <id>urn:4thwaveai-feeds:demis-hassabis</id>
+  <updated>Sun, 28 Sep 2025 05:40:59 +0000</updated>
+  <entry>
+    <title>AlphaQubit tackles one of quantum computing’s biggest challenges</title>
+    <link href="https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/"/>
+    <id>https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/</id>
+    <summary type="text">AlphaQubit is an AI-based decoder that identifies quantum computing errors with state-of-the-art accuracy.</summary>
+    <updated>Wed, 20 Nov 2024 00:00:00 -0000</updated>
+  </entry>
+  <entry>
+    <title>Blog</title>
+    <link href="https://deepmind.google/discover/blog/"/>
+    <id>https://deepmind.google/discover/blog/</id>
+    <summary type="text">Discover our latest AI breakthroughs, projects, and updates.</summary>
+  </entry>
+  <entry>
+    <title>AlphaGenome: AI for better understanding the genome</title>
+    <link href="https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/"/>
+    <id>https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/</id>
+    <summary type="text">Introducing a new, unifying DNA sequence model that advances regulatory variant-effect prediction and promises to shed new light on genome function — now available via API.</summary>
+  </entry>
+  <entry>
+    <title>A catalogue of genetic mutations to help pinpoint the cause of diseases</title>
+    <link href="https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/"/>
+    <id>https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/</id>
+    <summary type="text">New AI tool classifies the effects of 71 million ‘missense’ mutations 
+Uncovering the root causes of disease is one of the greatest challenges in human genetics. With millions of possible...</summary>
+  </entry>
+  <entry>
+    <title>AlphaProteo generates novel proteins for biology and health research</title>
+    <link href="https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/"/>
+    <id>https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/</id>
+    <summary type="text">New AI system designs proteins that successfully bind to target molecules, with potential for advancing drug design, disease understanding and more.</summary>
+  </entry>
+  <entry>
+    <title>AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms</title>
+    <link href="https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/"/>
+    <id>https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/</id>
+    <summary type="text">New AI agent evolves algorithms for math and practical applications in computing by combining the creativity of large language models with automated evaluators</summary>
+  </entry>
+  <entry>
+    <title>AI achieves silver-medal standard solving International Mathematical Olympiad problems</title>
+    <link href="https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/"/>
+    <id>https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/</id>
+    <summary type="text">Breakthrough models AlphaProof and AlphaGeometry 2 solve advanced reasoning problems in mathematics</summary>
+  </entry>
+  <entry>
+    <title>Millions of new materials discovered with deep learning</title>
+    <link href="https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/"/>
+    <id>https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/</id>
+    <summary type="text">We share the discovery of 2.2 million new crystals  –  equivalent to nearly 800 years’ worth of knowledge. We introduce Graph Networks for Materials Exploration (GNoME), our new deep learning tool...</summary>
+  </entry>
+  <entry>
+    <title>Accelerating fusion science through learned plasma control</title>
+    <link href="https://deepmind.google/discover/blog/accelerating-fusion-science-through-learned-plasma-control/"/>
+    <id>https://deepmind.google/discover/blog/accelerating-fusion-science-through-learned-plasma-control/</id>
+    <summary type="text">Successfully controlling the nuclear fusion plasma in a tokamak with deep reinforcement learning</summary>
+  </entry>
+  <entry>
+    <title>Genie 3: A New Frontier for World Models</title>
+    <link href="https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/"/>
+    <id>https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/</id>
+    <summary type="text">Today we are announcing Genie 3, a general purpose world model that can generate an unprecedented diversity of interactive environments. Given a text prompt, Genie 3 can generate dynamic worlds...</summary>
+  </entry>
+</feed>

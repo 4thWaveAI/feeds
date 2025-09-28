@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>4thWave AI — Videos (Aggregated)</title>
+  <link href="https://www.4thwaveai.com"/>
+  <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.atom.xml"/>
+  <id>urn:4thwaveai-feeds:videos</id>
+  <updated>Sun, 28 Sep 2025 06:45:54 +0000</updated>
+  <entry>
+    <title>NASA’s Deep Space Communications Demo Exceeds Project Expectations</title>
+    <link href="https://www.jpl.nasa.gov/news/nasas-deep-space-communications-demo-exceeds-project-expectations/"/>
+    <id>https://www.jpl.nasa.gov/news/nasas-deep-space-communications-demo-exceeds-project-expectations/</id>
+    <summary type="text">The project has exceeded all of its technical goals after two years, setting up the foundations of high-speed communications for NASA’s future human missions to Mars.</summary>
+  </entry>
+  <entry>
+    <title>NASA’s Tally of Planets Outside Our Solar System Reaches 6,000</title>
+    <link href="https://www.jpl.nasa.gov/news/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/"/>
+    <id>https://www.jpl.nasa.gov/news/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/</id>
+    <summary type="text">The milestone highlights the accelerating rate of discoveries, just over three decades since the first exoplanets were found.</summary>
+  </entry>
+  <entry>
+    <title>NASA Says Mars Rover Discovered Potential Biosignature Last Year</title>
+    <link href="https://www.jpl.nasa.gov/news/nasa-says-mars-rover-discovered-potential-biosignature-last-year/"/>
+    <id>https://www.jpl.nasa.gov/news/nasa-says-mars-rover-discovered-potential-biosignature-last-year/</id>
+    <summary type="text">After a year’s worth of scientific scrutiny, the ‘Sapphire Canyon’ rock sample remains the mission’s best candidate for containing signs of ancient microbial life processes.</summary>
+  </entry>
+  <entry>
+    <title>NASA-ISRO Satellite Lifts Off to Track Earth’s Changing Surfaces</title>
+    <link href="https://www.jpl.nasa.gov/news/nasa-isro-satellite-lifts-off-to-track-earths-changing-surfaces/"/>
+    <id>https://www.jpl.nasa.gov/news/nasa-isro-satellite-lifts-off-to-track-earths-changing-surfaces/</id>
+    <summary type="text">The first-of-its kind satellite will provide actionable information in a range of areas, including disaster response, infrastructure monitoring, and agricultural management.</summary>
+  </entry>
+  <entry>
+    <title>August 2025 Company Update</title>
+    <link href="https://www.relativityspace.com/press-release/2025/9/8/august-2025-company-update"/>
+    <id>https://www.relativityspace.com/press-release/2025/9/8/august-2025-company-update</id>
+    <summary type="text">Throughout August, the Terran R program continued to make measurable progress toward first launch, delivering on critical program milestones.   Design  This month, the team completed 18 component-level Critical Design Reviews (CDRs), most of which focused on the second stage engine and fluids system</summary>
+  </entry>
+  <entry>
+    <title>July 2025 Company Update</title>
+    <link href="https://www.relativityspace.com/press-release/2025/8/7/july-2025-company-update"/>
+    <id>https://www.relativityspace.com/press-release/2025/8/7/july-2025-company-update</id>
+    <summary type="text">As development of Terran R continues to accelerate, July marked another month of meaningful progress across design, manufacturing, testing, and launch operations.   Design  In July, the team successfully completed 28 additional component-level Critical Design Reviews (CDRs). Notably, 351 thrust stru</summary>
+  </entry>
+  <entry>
+    <title>June 2025 Company Update</title>
+    <link href="https://www.relativityspace.com/press-release/2025/7/8/june-2025-company-update"/>
+    <id>https://www.relativityspace.com/press-release/2025/7/8/june-2025-company-update</id>
+    <summary type="text">As the Terran R program continues to advance, we’re highlighting some of the latest milestones across design, build, test, and launch.   Design&amp;nbsp;  Throughout June, the team completed 12 additional component-level critical design reviews (CDRs), covering a range of hardware from trays and flu</summary>
+  </entry>
+  <entry>
+    <title>May 2025 Company Update</title>
+    <link href="https://www.relativityspace.com/press-release/2025/6/6/may-2025-company-update"/>
+    <id>https://www.relativityspace.com/press-release/2025/6/6/may-2025-company-update</id>
+    <summary type="text">As we close out another month of Terran R development, we’re sharing a look at recent progress across design, build, test, and launch.&amp;nbsp;&amp;nbsp;   Design &amp;nbsp; In May, we completed an additional 17 component-level critical design reviews (CDR). At this stage of the program, many of th</summary>
+  </entry>
+  <entry>
+    <title>Updates</title>
+    <link href="https://www.relativityspace.com/news"/>
+    <id>https://www.relativityspace.com/news</id>
+    <summary type="text">Learn about Terran R’s progress towards reusability.</summary>
+  </entry>
+</feed>
