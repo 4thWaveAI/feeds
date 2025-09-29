@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/human_effect.json",
   "items": [
     {
+      "id": "https://spectrum.ieee.org/commodore-64-cartridge",
+      "url": "https://spectrum.ieee.org/commodore-64-cartridge",
+      "title": "A Commodore 64 Cartridge Brings History to Life",
+      "content_text": "Discover the \"Chips That Shook The World\" exhibit, featuring a C64 cartridge that brings the history of microchips to life in a captivating way.",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/image.png?id=61658944&width=1200&height=600&coordinates=0%2C409%2C0%2C409",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://spectrum.ieee.org/big-bang-theory-discovery",
       "url": "https://spectrum.ieee.org/big-bang-theory-discovery",
       "title": "The Accidental Discovery That Proved the Big Bang Theory",
@@ -133,21 +148,6 @@
         {
           "url": "https://spectrum.ieee.org/media-library/image.jpg?id=61634718&width=1200&height=600&coordinates=0%2C204%2C0%2C416",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/the-long-strange-trip-from-silica-to-smartphone",
-      "url": "https://spectrum.ieee.org/the-long-strange-trip-from-silica-to-smartphone",
-      "title": "The Long Strange Trip from Silica to Smartphone",
-      "content_text": "Three continents, 30,000 kilometers, and 2,000-degree reactors",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
-          "mime_type": "image/png"
         }
       ],
       "tags": [

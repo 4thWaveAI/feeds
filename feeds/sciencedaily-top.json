@@ -5,6 +5,126 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sciencedaily-top.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250928095620.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250928095620.htm",
+      "title": "Fruit might be the surprising key to healthier lungs",
+      "content_text": "Eating more fruit could help protect lungs from air pollution damage, particularly in women. Researchers point to antioxidants and anti-inflammatory compounds in fruit as possible defenses against harmful airborne particles.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/happy-healthy-woman-eating-apple.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250928095616.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250928095616.htm",
+      "title": "Doctors tested a common drug on COVID. The results are stunning",
+      "content_text": "Inhaled heparin significantly lowers the risk of death and ventilation in COVID-19 patients while also showing potential against other respiratory infections. With its unique triple-action benefits, it could serve as a powerful and accessible treatment worldwide.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/punching-virus-beating-infection.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250928095611.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250928095611.htm",
+      "title": "New inhaler halves childhood asthma attacks",
+      "content_text": "A groundbreaking international study has shown that a 2-in-1 budesonide-formoterol inhaler is far more effective than the standard salbutamol inhaler in children with mild asthma, cutting attacks by nearly half.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/boy-using-asthma-inhaler-outside.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250927031245.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250927031245.htm",
+      "title": "The accidental discovery that forged the Iron Age",
+      "content_text": "Ancient copper smelters may have accidentally set the stage for the Iron Age. At a 3,000-year-old workshop in Georgia, researchers discovered that metalworkers were using iron oxide not to smelt iron but to improve copper yields. This experimentation shows how curiosity with materials could have sparked one of history’s greatest technological leaps, turning iron from a rare celestial metal into the backbone of empires and industry.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/hot-metal-sparks.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250927031239.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250927031239.htm",
+      "title": "Why “dry” oil wells aren’t really empty",
+      "content_text": "Oil wells often dry up far earlier than predicted, leaving companies baffled about the “missing” reserves. A Penn State team tackled this puzzle by harnessing PSC’s Bridges-2 supercomputer, adding a time dimension and amplitude analysis to traditional seismic data. Their findings revealed hidden rock structures blocking oil flow, meaning reserves weren’t gone—they were trapped.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/oil-pumpjacks-with-birds-sunrise.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250927031230.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250927031230.htm",
+      "title": "Quantum chips just proved they’re ready for the real world",
+      "content_text": "Diraq has shown that its silicon-based quantum chips can maintain world-class accuracy even when mass-produced in semiconductor foundries. Achieving over 99% fidelity in two-qubit operations, the breakthrough clears a major hurdle toward utility-scale quantum computing. Silicon’s compatibility with existing chipmaking processes means building powerful quantum processors could become both cost-effective and scalable.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/advanced-futuristic-computer-chips.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250927031227.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250927031227.htm",
+      "title": "Living with purpose may protect your brain from dementia",
+      "content_text": "Living with a sense of purpose may not just enrich life, it could also guard against dementia. A UC Davis study tracking over 13,000 adults for up to 15 years found that people with higher purpose were about 28% less likely to develop cognitive impairment. Purpose was linked to resilience across ethnicities, even in those with genetic risks for Alzheimer’s, and activities like relationships, volunteering, spirituality, and personal goals can help nurture it.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/cute-girl-and-grandmother-cooking-in-kitchen.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250927031224.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250927031224.htm",
+      "title": "Autism may be the price of human intelligence",
+      "content_text": "Researchers discovered that autism’s prevalence may be linked to human brain evolution. Specific neurons in the outer brain evolved rapidly, and autism-linked genes changed under natural selection. These shifts may have slowed brain development in children while boosting language and cognition. The findings suggest autism is part of the trade-off that made humans so cognitively advanced.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/brain-neuroscience.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/09/250927031221.htm",
       "url": "https://www.sciencedaily.com/releases/2025/09/250927031221.htm",
       "title": "Cocoa supplements show surprising anti-aging potential",
@@ -12,6 +132,36 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/mature-man-eating-chocolate-bar.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250927031219.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250927031219.htm",
+      "title": "Four strange secrets scientists just found in beer and wine",
+      "content_text": "Beer and wine, staples of human history for millennia, are still yielding new surprises. Recent research highlights how yeast extracts can cloud lagers, gluten can be quickly detected with a simple test strip, tannins give red wine its lip-puckering edge, and sulfites alter gut bacteria in unexpected ways. These discoveries not only deepen our understanding of these drinks’ sensory qualities but also hint at implications for health and brewing innovation.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/friends-drinking-at-outdoor-rooftop-bar.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250927031217.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250927031217.htm",
+      "title": "Hidden Alzheimer’s warning signs found in Parkinson’s patients without dementia",
+      "content_text": "Researchers in Japan discovered that Parkinson’s patients diagnosed in their 80s are far more likely to show signs of amyloid buildup, a hallmark of Alzheimer’s, even without dementia symptoms. The study compared younger and older patients, finding that older individuals had three times the rate of amyloid positivity. Surprisingly, Parkinson’s patients overall showed lower amyloid buildup than healthy people their age, suggesting that Parkinson’s might change the way Alzheimer’s-related processes unfold in the brain.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/amyloid-plaques-forming-between-brain-neurons.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -147,156 +297,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/bumpy-snailfish-careproctus-colliculi.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250926035019.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250926035019.htm",
-      "title": "Biochar’s secret power could change clean water forever",
-      "content_text": "Scientists found that biochar doesn’t just capture pollutants, it actively destroys them using direct electron transfer. This newly recognized ability accounts for up to 40% of its cleaning power and remains effective through repeated use. The discovery opens the door to cheaper, greener, and more efficient water treatment methods worldwide.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/adding-biochar-to-soil.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250926035016.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250926035016.htm",
-      "title": "Toxic waste could become the next clean energy breakthrough",
-      "content_text": "Bio-tar, once seen as a toxic waste, can be transformed into bio-carbon with applications in clean energy and environmental protection. This innovation could reduce emissions, create profits, and solve a major bioenergy industry problem.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/liquid-oil-petroleum.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250926035015.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250926035015.htm",
-      "title": "Hidden “electron highways” beneath our feet could revolutionize pollution cleanup",
-      "content_text": "Electrons flow underground in ways far more extensive than once believed, forming networks that link distant chemical zones. Minerals, organic molecules, and specialized bacteria can act as bridges, creating long-distance electron highways. These discoveries hold promise for pollution cleanup strategies, remote remediation, and protecting ecosystems. Scientists now see the subsurface as an interconnected redox system with exciting practical potential.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/earth-hidden-electron-highways.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250926033415.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250926033415.htm",
-      "title": "Hidden galaxy bursting with baby stars, X-ray fireworks, and cosmic energy",
-      "content_text": "Although this spiral galaxy appears unremarkable from afar, NGC 7456 is bursting with newborn stars and glowing gas, providing researchers with insight into galactic evolution.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/ngc-7456.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250925025409.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250925025409.htm",
-      "title": "The quantum internet just went live on Verizon’s network",
-      "content_text": "Penn engineers have taken quantum networking from the lab to Verizon’s live fiber network, using a silicon “Q-chip” that speaks the same Internet Protocol as the modern web. The system pairs classical and quantum signals like a train engine with sealed cargo, ensuring routing without destroying quantum states. By maintaining fidelity above 97% even under real-world noise, the approach shows that a scalable quantum internet is possible using today’s infrastructure.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/fiber-optic-computer-networking.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250925025406.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250925025406.htm",
-      "title": "Scientists unveil breakthrough pixel that could put holograms on your smartphone",
-      "content_text": "A team at the University of St Andrews has unlocked a major step toward true holographic displays by combining OLEDs with holographic metasurfaces. Unlike traditional laser-based holograms, this compact and affordable method could transform smart devices, entertainment, and even virtual reality. The breakthrough allows entire images to be generated from a single OLED pixel, removing long-standing barriers and pointing to a future of lightweight, miniaturized holographic technology.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/smartphone-tablet-holographic-display.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250925025403.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250925025403.htm",
-      "title": "The surprising new particle that could finally explain dark matter",
-      "content_text": "Physicists are eyeing charged gravitinos—ultra-heavy, stable particles from supergravity theory—as possible Dark Matter candidates. Unlike axions or WIMPs, these particles carry electric charge but remain undetectable due to their scarcity. With detectors like JUNO and DUNE, researchers now have a chance to spot their unique signal, a breakthrough that could link particle physics with gravity.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/atomic-matter-structure-particle-physics.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250925025401.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250925025401.htm",
-      "title": "Cambridge scientists created a gel that could end arthritis pain",
-      "content_text": "Cambridge scientists have created a breakthrough material that can sense tiny chemical changes in the body, such as the increased acidity during an arthritis flare-up, and release drugs exactly when and where they’re needed. By mimicking cartilage while delivering medication, this smart gel could ease pain, reduce side effects, and provide continuous treatment for millions of arthritis sufferers.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/arthritic-knee-joint-arthritis-injury-pain.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250925025359.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250925025359.htm",
-      "title": "This high-sugar fruit may actually lower diabetes risk",
-      "content_text": "Mangos, often dismissed as too sugary, may hold hidden benefits for those at risk of diabetes. A George Mason University study found that daily mango eaters showed better blood sugar control and less body fat than those eating a lower-sugar snack. The results suggest that it’s not just sugar levels, but how the sugar is packaged in whole foods, that matters.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/fresh-cut-mango-cubes.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250925025356.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250925025356.htm",
-      "title": "Scientists brew “quantum ink” to power next-gen night vision",
-      "content_text": "Toxic metals are pushing infrared detector makers into a corner, but NYU Tandon researchers have developed a cleaner solution using colloidal quantum dots. These detectors are made like “inks,” allowing scalable, low-cost production while showing impressive infrared sensitivity. Combined with transparent electrodes, the innovation tackles major barriers in imaging systems and could bring infrared technology to cars, medicine, and consumer devices.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/eco-friendly-night-vision.webp",
           "mime_type": "image/webp"
         }
       ],
