@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Mon, 29 Sep 2025 17:31:40 +0000</updated>
+  <updated>Mon, 29 Sep 2025 18:49:47 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -195,6 +195,12 @@
     <summary type="text">Images available for download. Please credit Blue Origin.</summary>
   </entry>
   <entry>
+    <title>Florida Investment Matches Our Ambitious Growth Plans | Blue Origin</title>
+    <link href="https://www.blueorigin.com/news/florida-investment-matches-ambitious-growth-plans"/>
+    <id>https://www.blueorigin.com/news/florida-investment-matches-ambitious-growth-plans</id>
+    <summary type="text">Blue Origin employs nearly 4,000 people in Brevard County and has invested over $2.3 billion with 500 suppliers in Florida, generating significant economic growth and employment in the region.</summary>
+  </entry>
+  <entry>
     <title>Blue Origin Completes 35th New Shepard Mission | Blue Origin</title>
     <link href="https://www.blueorigin.com/news/new-shepard-ns-35-mission"/>
     <id>https://www.blueorigin.com/news/new-shepard-ns-35-mission</id>
@@ -211,12 +217,6 @@
     <link href="https://www.blueorigin.com/news/blue-origin-mars-telecommunications-orbiter"/>
     <id>https://www.blueorigin.com/news/blue-origin-mars-telecommunications-orbiter</id>
     <summary type="text">Built upon our existing and affordable Blue Ring platform, our Mars Telecommunications Orbiter is ready to support NASA’s Mars mission in 2028.</summary>
-  </entry>
-  <entry>
-    <title>Blue Origin’s New Shepard Completes 34th Mission to Space | Blue Origin</title>
-    <link href="https://www.blueorigin.com/news/new-shepard-ns-34-mission"/>
-    <id>https://www.blueorigin.com/news/new-shepard-ns-34-mission</id>
-    <summary type="text">Blue Origin successfully completed its 14th human spaceflight and the 34th flight for the New Shepard program.</summary>
   </entry>
   <entry>
     <title>News | Blue Origin</title>

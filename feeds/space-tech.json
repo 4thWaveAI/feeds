@@ -408,6 +408,21 @@
       ]
     },
     {
+      "id": "https://www.blueorigin.com/news/florida-investment-matches-ambitious-growth-plans",
+      "url": "https://www.blueorigin.com/news/florida-investment-matches-ambitious-growth-plans",
+      "title": "Florida Investment Matches Our Ambitious Growth Plans | Blue Origin",
+      "content_text": "Blue Origin employs nearly 4,000 people in Brevard County and has invested over $2.3 billion with 500 suppliers in Florida, generating significant economic growth and employment in the region.",
+      "attachments": [
+        {
+          "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/News_Florida-RocketPark.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.blueorigin.com/news/new-shepard-ns-35-mission",
       "url": "https://www.blueorigin.com/news/new-shepard-ns-35-mission",
       "title": "Blue Origin Completes 35th New Shepard Mission | Blue Origin",
@@ -445,21 +460,6 @@
       "attachments": [
         {
           "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/MarsTelcomOrbiter_BlueOrigin_Rendering-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.blueorigin.com/news/new-shepard-ns-34-mission",
-      "url": "https://www.blueorigin.com/news/new-shepard-ns-34-mission",
-      "title": "Blue Origin’s New Shepard Completes 34th Mission to Space | Blue Origin",
-      "content_text": "Blue Origin successfully completed its 14th human spaceflight and the 34th flight for the New Shepard program.",
-      "attachments": [
-        {
-          "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/NS26Social_NewShepard-Sunrise_HomePageTakeover.jpg",
           "mime_type": "image/jpeg"
         }
       ],
