@@ -4,426 +4,284 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Tue, 30 Sep 2025 05:44:53 +0000</updated>
+  <updated>Tue, 30 Sep 2025 06:52:33 +0000</updated>
   <entry>
-    <title>No Vacancy</title>
-    <link href="https://spectrum.ieee.org/steve-searcy-october-2025-poem"/>
-    <id>https://spectrum.ieee.org/steve-searcy-october-2025-poem</id>
-    <summary type="text">Read Steven Searcy’s poem from our October 2025 issue</summary>
-    <updated>Mon, 29 Sep 2025 18:00:04 +0000</updated>
+    <title>All NASA News - NASA</title>
+    <link href="https://www.nasa.gov/news/recently-published/"/>
+    <id>https://www.nasa.gov/news/recently-published/</id>
+    <summary type="text">Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.</summary>
+    <updated>Fri, 30 Jun 2023 08:59:39 -0400</updated>
   </entry>
   <entry>
-    <title>Unlock GPU Performance: Global Memory Access in CUDA | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/unlock-gpu-performance-global-memory-access-in-cuda/"/>
-    <id>https://developer.nvidia.com/blog/unlock-gpu-performance-global-memory-access-in-cuda/</id>
-    <summary type="text">Managing memory is one of the most important performance characteristics to consider when writing a GPU kernel. This post walks you through the important aspects you should know about global memory…</summary>
-    <updated>Mon, 29 Sep 2025 16:16:37 +0000</updated>
+    <title>NASA Media Contacts - NASA</title>
+    <link href="https://www.nasa.gov/news/media-contacts/"/>
+    <id>https://www.nasa.gov/news/media-contacts/</id>
+    <summary type="text">Media Contacts Roxana Bardan Mars Sample Return 771-200-7217 Gerelle Dodson NASA Workforce, STEM Engagement 202-358-1600 Jennifer Dooren Deputy News Chief,</summary>
+    <updated>Thu, 29 Jun 2023 14:53:17 -0400</updated>
   </entry>
   <entry>
-    <title>Maine’s Oyster Farmers Embrace Electric Workboats</title>
-    <link href="https://spectrum.ieee.org/electric-boats-aquaculture"/>
-    <id>https://spectrum.ieee.org/electric-boats-aquaculture</id>
-    <summary type="text">Can electric boats handle Maine&#x27;s cold winters? Learn how oyster farmers are testing the limits of battery-powered vessels in challenging conditions.</summary>
-    <updated>Mon, 29 Sep 2025 16:00:04 +0000</updated>
+    <title>NASA News</title>
+    <link href="https://www.nasa.gov/news/"/>
+    <id>https://www.nasa.gov/news/</id>
+    <summary type="text">Resources for news media, including NASA news contacts and archived news material</summary>
+    <updated>Wed, 07 Dec 2022 13:25:24 -0500</updated>
   </entry>
   <entry>
-    <title>Streamline Robot Learning with Whole-Body Control and Enhanced Teleoperation in NVIDIA Isaac Lab 2.3 | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/streamline-robot-learning-with-whole-body-control-and-enhanced-teleoperation-in-nvidia-isaac-lab-2-3/"/>
-    <id>https://developer.nvidia.com/blog/streamline-robot-learning-with-whole-body-control-and-enhanced-teleoperation-in-nvidia-isaac-lab-2-3/</id>
-    <summary type="text">Training robot policies from real-world demonstrations is costly, slow, and prone to overfitting, limiting generalization across tasks and environments. A sim-first approach streamlines development…</summary>
-    <updated>Mon, 29 Sep 2025 15:12:20 +0000</updated>
+    <title>NASA Awards Custodial, Landscaping Services Contract - NASA</title>
+    <link href="https://www.nasa.gov/news-release/nasa-awards-custodial-landscaping-services-contract/"/>
+    <id>https://www.nasa.gov/news-release/nasa-awards-custodial-landscaping-services-contract/</id>
+    <summary type="text">NASA has selected Melwood Horticultural Training Center Inc. of Upper Marlboro, Maryland, to provide custodial, janitorial, landscaping, and recycling</summary>
   </entry>
   <entry>
-    <title>Train a Quadruped Locomotion Policy and Simulate Cloth Manipulation with NVIDIA Isaac Lab and Newton | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/train-a-quadruped-locomotion-policy-and-simulate-cloth-manipulation-with-nvidia-isaac-lab-and-newton/"/>
-    <id>https://developer.nvidia.com/blog/train-a-quadruped-locomotion-policy-and-simulate-cloth-manipulation-with-nvidia-isaac-lab-and-newton/</id>
-    <summary type="text">Physics plays a crucial role in robotic simulation, providing the foundation for accurate virtual representations of robot behavior and interactions within realistic environments.</summary>
-    <updated>Mon, 29 Sep 2025 15:11:31 +0000</updated>
+    <title>2025 News Releases - NASA</title>
+    <link href="https://www.nasa.gov/2025-news-releases/"/>
+    <id>https://www.nasa.gov/2025-news-releases/</id>
+    <summary type="text">Sign up to receive NASA news releases and other information.</summary>
   </entry>
   <entry>
-    <title>Smart Multi-Node Scheduling for Fast and Efficient LLM Inference with NVIDIA Run:ai and NVIDIA Dynamo | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/smart-multi-node-scheduling-for-fast-and-efficient-llm-inference-with-nvidia-runai-and-nvidia-dynamo/"/>
-    <id>https://developer.nvidia.com/blog/smart-multi-node-scheduling-for-fast-and-efficient-llm-inference-with-nvidia-runai-and-nvidia-dynamo/</id>
-    <summary type="text">The exponential growth in large language model complexity has created challenges, such as models too large for single GPUs, workloads that demand high throughput and low latency…</summary>
-    <updated>Mon, 29 Sep 2025 15:00:00 +0000</updated>
+    <title>Crew Begins Week Configuring Advanced Physics, Space Tech Demo Hardware - NASA</title>
+    <link href="https://www.nasa.gov/blogs/spacestation/2025/09/29/crew-begins-week-configuring-advanced-physics-space-tech-demo-hardware/"/>
+    <id>https://www.nasa.gov/blogs/spacestation/2025/09/29/crew-begins-week-configuring-advanced-physics-space-tech-demo-hardware/</id>
+    <summary type="text">Science hardware was the focus on Monday as the Expedition 73 crew configured foam and material physics research gear and installed a space technology demonstration. Meanwhile, blood circulation studies and cargo operations rounded out the day aboard the International Space Station.</summary>
   </entry>
   <entry>
-    <title>3 Easy Ways to Supercharge Your Robotics Development Using OpenUSD | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/3-easy-ways-to-supercharge-your-robotics-development-using-openusd/"/>
-    <id>https://developer.nvidia.com/blog/3-easy-ways-to-supercharge-your-robotics-development-using-openusd/</id>
-    <summary type="text">The increasing demand for robotics is driving the need for physics-accurate simulation at an unprecedented scale. Universal Scene Description (OpenUSD) is key to this transformation…</summary>
-    <updated>Mon, 29 Sep 2025 15:00:00 +0000</updated>
+    <title>Crew Studies Space Orientation, DNA Data Storage as Dragon Reboosts Station - NASA</title>
+    <link href="https://www.nasa.gov/blogs/spacestation/2025/09/26/crew-studies-space-orientation-dna-data-storage-as-dragon-reboosts-station/"/>
+    <id>https://www.nasa.gov/blogs/spacestation/2025/09/26/crew-studies-space-orientation-dna-data-storage-as-dragon-reboosts-station/</id>
+    <summary type="text">The Expedition 73 crew ended the work week exploring how living and working in space affects the sensory system and DNA. The International Space Station residents also continued researching how digestion is impacted by microgravity and unpacking a U.S. cargo craft.</summary>
   </entry>
   <entry>
-    <title>Advancing Robotics Development with Neural Dynamics in Newton | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/advancing-robotics-development-with-neural-dynamics-in-newton/"/>
-    <id>https://developer.nvidia.com/blog/advancing-robotics-development-with-neural-dynamics-in-newton/</id>
-    <summary type="text">Modern robotics requires more than what classical analytic dynamics provides because of simplified contacts, omitted kinematic loops, and non-differentiable models. Neural Robot Dynamics (NeRD)…</summary>
-    <updated>Mon, 29 Sep 2025 15:00:00 +0000</updated>
+    <title>NASA-ISRO Satellite Sends First Radar Images of Earth’s Surface</title>
+    <link href="https://www.jpl.nasa.gov/news/nasa-isro-satellite-sends-first-radar-images-of-earths-surface/"/>
+    <id>https://www.jpl.nasa.gov/news/nasa-isro-satellite-sends-first-radar-images-of-earths-surface/</id>
+    <summary type="text">Preliminary images from the most powerful Earth radar satellite ever launched offer a tantalizing glimpse of the science the mission will be able to deliver.</summary>
   </entry>
   <entry>
-    <title>The Plan to Send Tiny Probes to the Stars</title>
-    <link href="https://spectrum.ieee.org/high-speed-interstellar-travel"/>
-    <id>https://spectrum.ieee.org/high-speed-interstellar-travel</id>
-    <summary type="text">A new approach to interstellar travel could bring us close-up images of exoplanets in just 25 years.</summary>
-    <updated>Mon, 29 Sep 2025 13:00:03 +0000</updated>
+    <title>NASA’s Webb Explores Largest Star-Forming Cloud in Milky Way</title>
+    <link href="https://www.jpl.nasa.gov/news/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/"/>
+    <id>https://www.jpl.nasa.gov/news/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/</id>
+    <summary type="text">Webb’s MIRI, managed by NASA’s Jet Propulsion Laboratory through launch, helped reveal the star-studded Sagittarius B2 molecular cloud in unprecedented detail.</summary>
   </entry>
   <entry>
-    <title>How the Supreme Court Is Remolding Education in 2025 - EdSurge News</title>
-    <link href="https://www.edsurge.com/news/2025-09-29-how-the-supreme-court-is-remolding-education-in-2025"/>
-    <id>https://www.edsurge.com/news/2025-09-29-how-the-supreme-court-is-remolding-education-in-2025</id>
-    <summary type="text">It isn’t just the executive branch changing education for American K-12 students. The Supreme Court has leapt in.</summary>
-    <updated>Mon, 29 Sep 2025 00:00:00 -0000</updated>
+    <title>NASA’s Deep Space Communications Demo Exceeds Project Expectations</title>
+    <link href="https://www.jpl.nasa.gov/news/nasas-deep-space-communications-demo-exceeds-project-expectations/"/>
+    <id>https://www.jpl.nasa.gov/news/nasas-deep-space-communications-demo-exceeds-project-expectations/</id>
+    <summary type="text">The project has exceeded all of its technical goals after two years, setting up the foundations of high-speed communications for NASA’s future human missions to Mars.</summary>
   </entry>
   <entry>
-    <title>A Commodore 64 Cartridge Brings History to Life</title>
-    <link href="https://spectrum.ieee.org/commodore-64-cartridge"/>
-    <id>https://spectrum.ieee.org/commodore-64-cartridge</id>
-    <summary type="text">Discover the &quot;Chips That Shook The World&quot; exhibit, featuring a C64 cartridge that brings the history of microchips to life in a captivating way.</summary>
-    <updated>Sun, 28 Sep 2025 13:00:01 +0000</updated>
+    <title>NASA’s Tally of Planets Outside Our Solar System Reaches 6,000</title>
+    <link href="https://www.jpl.nasa.gov/news/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/"/>
+    <id>https://www.jpl.nasa.gov/news/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/</id>
+    <summary type="text">The milestone highlights the accelerating rate of discoveries, just over three decades since the first exoplanets were found.</summary>
   </entry>
   <entry>
-    <title>The Accidental Discovery That Proved the Big Bang Theory</title>
-    <link href="https://spectrum.ieee.org/big-bang-theory-discovery"/>
-    <id>https://spectrum.ieee.org/big-bang-theory-discovery</id>
-    <summary type="text">What mysterious noise did Bell Labs researchers uncover in 1964 that changed our understanding of the universe?</summary>
-    <updated>Fri, 26 Sep 2025 18:00:02 +0000</updated>
+    <title>NASA Analysis Shows Sun’s Activity Ramping Up</title>
+    <link href="https://www.jpl.nasa.gov/news/nasa-analysis-shows-suns-activity-ramping-up/"/>
+    <id>https://www.jpl.nasa.gov/news/nasa-analysis-shows-suns-activity-ramping-up/</id>
+    <summary type="text">It looked like the Sun was heading toward a historic lull in activity. That trend flipped in 2008, according to new research.</summary>
   </entry>
   <entry>
-    <title>Video Friday: Gemini Robotics Improves Motor Skills</title>
-    <link href="https://spectrum.ieee.org/video-friday-google-gemini-robotics"/>
-    <id>https://spectrum.ieee.org/video-friday-google-gemini-robotics</id>
-    <summary type="text">Google DeepMind shows off its newest and most skillful robots.</summary>
-    <updated>Fri, 26 Sep 2025 15:30:02 +0000</updated>
+    <title>NASA’s GUARDIAN Tsunami Detection Tech Catches Wave in Real Time</title>
+    <link href="https://www.jpl.nasa.gov/news/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/"/>
+    <id>https://www.jpl.nasa.gov/news/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/</id>
+    <summary type="text">A massive earthquake and subsequent tsunami off Russia in late July tested an experimental detection system that had deployed a critical component just the day before.</summary>
   </entry>
   <entry>
-    <title>What’s next for quantum? TII’s roadmap from research to impact</title>
-    <link href="https://aiforgood.itu.int/whats-next-for-quantum-tiis-roadmap-from-research-to-impact/"/>
-    <id>https://aiforgood.itu.int/whats-next-for-quantum-tiis-roadmap-from-research-to-impact/</id>
-    <summary type="text">Connect with 51K enthusiasts from all over the world.</summary>
-    <updated>Fri, 26 Sep 2025 05:30:35 +0000</updated>
+    <title>New U.S.-European Sea Level Satellite Will Help Safeguard Ships at Sea</title>
+    <link href="https://www.jpl.nasa.gov/news/new-us-european-sea-level-satellite-will-help-safeguard-ships-at-sea/"/>
+    <id>https://www.jpl.nasa.gov/news/new-us-european-sea-level-satellite-will-help-safeguard-ships-at-sea/</id>
+    <summary type="text">Sea surface height data from the Sentinel-6B satellite, led by NASA and ESA, will help with the development of marine weather forecasts, alerting ships to possible dangers.</summary>
   </entry>
   <entry>
-    <title>Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace. - The Official Microsoft Blog</title>
-    <link href="https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/"/>
-    <id>https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/</id>
-    <summary type="text">A new breed of industry-leading company is taking shape — Frontier Firms. These organizations blend human ambition with AI-powered technology to reshape how innovation is scaled, work is orchestrated and value is created. They’re accelerating AI transformation to enrich employee experiences, reinvent customer engagement, reshape business processes and unlock creativity and innovation. To empower customers...</summary>
-    <updated>Thu, 25 Sep 2025 14:00:01 +0000</updated>
+    <title>NASA Says Mars Rover Discovered Potential Biosignature Last Year</title>
+    <link href="https://www.jpl.nasa.gov/news/nasa-says-mars-rover-discovered-potential-biosignature-last-year/"/>
+    <id>https://www.jpl.nasa.gov/news/nasa-says-mars-rover-discovered-potential-biosignature-last-year/</id>
+    <summary type="text">After a year’s worth of scientific scrutiny, the ‘Sapphire Canyon’ rock sample remains the mission’s best candidate for containing signs of ancient microbial life processes.</summary>
   </entry>
   <entry>
-    <title>Security Flaw Turns Unitree Robots Into Botnets</title>
-    <link href="https://spectrum.ieee.org/unitree-robot-exploit"/>
-    <id>https://spectrum.ieee.org/unitree-robot-exploit</id>
-    <summary type="text">Can your robot be hacked? A new vulnerability in Unitree robots could turn them into a botnet army. Are we taking robot security seriously enough?</summary>
-    <updated>Thu, 25 Sep 2025 13:36:52 +0000</updated>
+    <title>NASA-ISRO Satellite Lifts Off to Track Earth’s Changing Surfaces</title>
+    <link href="https://www.jpl.nasa.gov/news/nasa-isro-satellite-lifts-off-to-track-earths-changing-surfaces/"/>
+    <id>https://www.jpl.nasa.gov/news/nasa-isro-satellite-lifts-off-to-track-earths-changing-surfaces/</id>
+    <summary type="text">The first-of-its kind satellite will provide actionable information in a range of areas, including disaster response, infrastructure monitoring, and agricultural management.</summary>
   </entry>
   <entry>
-    <title>Short Courses Help Bridge the Semiconductor Skills Gap</title>
-    <link href="https://spectrum.ieee.org/microcredentials-semiconductor-workforce-development"/>
-    <id>https://spectrum.ieee.org/microcredentials-semiconductor-workforce-development</id>
-    <summary type="text">Short courses in semiconductor manufacturing are gaining traction, offering students a path to industry-ready skills and experience.</summary>
-    <updated>Thu, 25 Sep 2025 13:00:03 +0000</updated>
+    <title>News</title>
+    <link href="https://www.jpl.nasa.gov/news/"/>
+    <id>https://www.jpl.nasa.gov/news/</id>
+    <summary type="text">NASA&#x27;s Jet Propulsion Laboratory, the leading center for robotic exploration of the solar system.</summary>
   </entry>
   <entry>
-    <title>The World&#x27;s Classrooms Are Short 44 Million Teachers - EdSurge News</title>
-    <link href="https://www.edsurge.com/news/2025-09-25-the-world-s-classrooms-are-short-44-million-teachers"/>
-    <id>https://www.edsurge.com/news/2025-09-25-the-world-s-classrooms-are-short-44-million-teachers</id>
-    <summary type="text">“(Data) suggests there&#x27;s something unique about the context of teaching or the working conditions teachers experience that are affecting these ...</summary>
-    <updated>Thu, 25 Sep 2025 00:00:00 -0000</updated>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
   </entry>
   <entry>
-    <title>Canada Goes All In on AI: NVIDIA Joins Nations’ Technology Leaders in Montreal to Shape Sovereign AI Strategy</title>
-    <link href="https://blogs.nvidia.com/blog/canada-all-in/"/>
-    <id>https://blogs.nvidia.com/blog/canada-all-in/</id>
-    <summary type="text">NVIDIA’s Kari Briski joins Canada’s AI Minister Evan Solomon and Cohere’s Aidan Gomez in a panel this week, as TELUS unveils Canada’s first fully sovereign AI factory in Rimouski and RBC Capital Markets creates AI agents for financial services.</summary>
-    <updated>Wed, 24 Sep 2025 16:20:41 +0000</updated>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
   </entry>
   <entry>
-    <title>How I’m Rewriting the Narrative for Latino Students in Our Schools - EdSurge News</title>
-    <link href="https://www.edsurge.com/news/2025-09-24-how-i-m-rewriting-the-narrative-for-latino-students-in-our-schools"/>
-    <id>https://www.edsurge.com/news/2025-09-24-how-i-m-rewriting-the-narrative-for-latino-students-in-our-schools</id>
-    <summary type="text">BREAKING THE NARRATIVE: Latino students are too often reduced to a single story — whether through labels like “no sabo kid” or assumptions about ...</summary>
-    <updated>Wed, 24 Sep 2025 00:00:00 -0000</updated>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
   </entry>
   <entry>
-    <title>The ‘Silver Bullet’ to Fix Child Care’s Staffing Problem
- - EdSurge News</title>
-    <link href="https://www.edsurge.com/news/2025-09-23-the-silver-bullet-to-fix-child-care-s-staffing-problem"/>
-    <id>https://www.edsurge.com/news/2025-09-23-the-silver-bullet-to-fix-child-care-s-staffing-problem</id>
-    <summary type="text">The early childhood sector is having a staffing crisis. With men remaining a largely untouched population, new efforts could draw them in.</summary>
-    <updated>Tue, 23 Sep 2025 00:00:00 -0000</updated>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
   </entry>
   <entry>
-    <title>NVIDIA, OpenAI Announce &#x27;the Biggest AI Infrastructure Deployment in History&#x27;</title>
-    <link href="https://blogs.nvidia.com/blog/openai-nvidia/"/>
-    <id>https://blogs.nvidia.com/blog/openai-nvidia/</id>
-    <summary type="text">OpenAI and NVIDIA announced a partnership that will scale OpenAI’s compute with at least 10 gigawatts of data centers powered by millions of GPUs.</summary>
-    <updated>Mon, 22 Sep 2025 18:38:58 +0000</updated>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
   </entry>
   <entry>
-    <title>At This Rural Microschool, Students Will Study With AI and Run an Airbnb - EdSurge News</title>
-    <link href="https://www.edsurge.com/news/2025-09-22-at-this-rural-microschool-students-will-study-with-ai-and-run-an-airbnb"/>
-    <id>https://www.edsurge.com/news/2025-09-22-at-this-rural-microschool-students-will-study-with-ai-and-run-an-airbnb</id>
-    <summary type="text">A rural district in North Carolina is putting its hopes in a new microschool where students operate an Airbnb and study through AI-powered lessons.</summary>
-    <updated>Mon, 22 Sep 2025 00:00:00 -0000</updated>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
   </entry>
   <entry>
-    <title>AI for healthcare, AI for humanity: ZTE’s vision for real-world impact</title>
-    <link href="https://aiforgood.itu.int/ai-for-healthcare-ai-for-humanity-ztes-vision-for-real-world-impact/"/>
-    <id>https://aiforgood.itu.int/ai-for-healthcare-ai-for-humanity-ztes-vision-for-real-world-impact/</id>
-    <summary type="text">Connect with 51K enthusiasts from all over the world.</summary>
-    <updated>Fri, 19 Sep 2025 05:30:23 +0000</updated>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/cz"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/cz</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
   </entry>
   <entry>
-    <title>Two Moms and Trump’s Head Start Rule: Child Care Shortages Meet Anti-Immigrant Politics - EdSurge News</title>
-    <link href="https://www.edsurge.com/news/2025-09-19-two-moms-and-trump-s-head-start-rule-child-care-shortages-meet-anti-immigrant-politics"/>
-    <id>https://www.edsurge.com/news/2025-09-19-two-moms-and-trump-s-head-start-rule-child-care-shortages-meet-anti-immigrant-politics</id>
-    <summary type="text">Solangel, a Venezuelan immigrant, is the mother of a 7-year-old who blossomed at the Head Start preschool program he attended in a Denver suburb. He ...</summary>
-    <updated>Fri, 19 Sep 2025 00:00:00 -0000</updated>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/dk"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/dk</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
   </entry>
   <entry>
-    <title>The UK’s ‘Goldilocks Moment for AI’: NVIDIA, UK and US Leaders Highlight AI Infrastructure Investments</title>
-    <link href="https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/"/>
-    <id>https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/</id>
-    <summary type="text">NVIDIA founder and CEO Jensen Huang discussed the UK’s plans to become an AI superpower with UK Prime Minister Keir Starmer, UK Secretary of State for Science, Innovation and Technology Liz Kendall, UK Secretary of State for Business and Trade Peter Kyle, and US Secretary of Commerce Howard Lutnick.</summary>
-    <updated>Thu, 18 Sep 2025 21:21:03 +0000</updated>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/nl"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/nl</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
   </entry>
   <entry>
-    <title>Advancing the Science of Connection: Challenges in the Mind2Mind Study | IONS</title>
-    <link href="https://noetic.org/blog/challenges-in-the-mind2mind-study/"/>
-    <id>https://noetic.org/blog/challenges-in-the-mind2mind-study/</id>
-    <summary type="text">While recruitment for our telepathy study presents challenges, each step brings us closer to uncovering the mysteries of human connection.</summary>
-    <updated>Thu, 18 Sep 2025 16:57:40 +0000</updated>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/ee"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/ee</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
   </entry>
   <entry>
-    <title>Inside the world’s most powerful AI datacenter - The Official Microsoft Blog</title>
-    <link href="https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/"/>
-    <id>https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/</id>
-    <summary type="text">This week we have introduced a wave of purpose-built datacenters and infrastructure investments we are making around the world to support the global adoption of cutting-edge AI workloads and cloud services. Today in Wisconsin we introduced Fairwater, our newest US AI datacenter, the largest and most sophisticated AI factory we’ve built yet. In addition to...</summary>
-    <updated>Thu, 18 Sep 2025 14:00:02 +0000</updated>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/fi"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/fi</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
   </entry>
   <entry>
-    <title>Listen to Edgar on His Birthday | IONS</title>
-    <link href="https://noetic.org/blog/listen-to-edgar-on-his-birthday/"/>
-    <id>https://noetic.org/blog/listen-to-edgar-on-his-birthday/</id>
-    <summary type="text">A recording of Edgar was kindly shared with us. In honor of his birthday, we hope you listen and enjoy it as much as we do.</summary>
-    <updated>Wed, 17 Sep 2025 19:01:34 +0000</updated>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/fr"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/fr</id>
+    <summary type="text">email: media @ esa.int (Uniquement les demandes de la presse)</summary>
   </entry>
   <entry>
-    <title>Transforming data, creating value, sustaining tomorrow: DeepGreenX’s vision for the future of finance</title>
-    <link href="https://aiforgood.itu.int/transforming-data-creating-value-sustaining-tomorrow-deepgreenxs-vision-for-the-future-of-finance/"/>
-    <id>https://aiforgood.itu.int/transforming-data-creating-value-sustaining-tomorrow-deepgreenxs-vision-for-the-future-of-finance/</id>
-    <summary type="text">Connect with 51K enthusiasts from all over the world.</summary>
-    <updated>Wed, 17 Sep 2025 05:30:08 +0000</updated>
+    <title>Submit a Media Inquiry | Blue Origin</title>
+    <link href="https://www.blueorigin.com/news/media-inquiries"/>
+    <id>https://www.blueorigin.com/news/media-inquiries</id>
+    <summary type="text">If you’re a member of the press, please contact us at media@blueorigin.com with your inquiry and deadline.</summary>
   </entry>
   <entry>
-    <title>Setting the Scene on AI Governance</title>
-    <link href="https://aiforgood.itu.int/setting-the-scene-on-ai-governance/"/>
-    <id>https://aiforgood.itu.int/setting-the-scene-on-ai-governance/</id>
-    <summary type="text">Connect with 51K enthusiasts from all over the world.</summary>
-    <updated>Tue, 16 Sep 2025 12:25:35 +0000</updated>
+    <title>Gallery | Blue Origin</title>
+    <link href="https://www.blueorigin.com/news/gallery"/>
+    <id>https://www.blueorigin.com/news/gallery</id>
+    <summary type="text">Images available for download. Please credit Blue Origin.</summary>
   </entry>
   <entry>
-    <title>Join YAIL’s Global Project to Shape the Future of AI Regulation</title>
-    <link href="https://aiforgood.itu.int/join-yails-global-project-to-shape-the-future-of-ai-regulation/"/>
-    <id>https://aiforgood.itu.int/join-yails-global-project-to-shape-the-future-of-ai-regulation/</id>
-    <summary type="text">Connect with 51K enthusiasts from all over the world.</summary>
-    <updated>Tue, 16 Sep 2025 12:12:32 +0000</updated>
+    <title>Florida Investment Matches Our Ambitious Growth Plans | Blue Origin</title>
+    <link href="https://www.blueorigin.com/news/florida-investment-matches-ambitious-growth-plans"/>
+    <id>https://www.blueorigin.com/news/florida-investment-matches-ambitious-growth-plans</id>
+    <summary type="text">Blue Origin employs nearly 4,000 people in Brevard County and has invested over $2.3 billion with 500 suppliers in Florida, generating significant economic growth and employment in the region.</summary>
   </entry>
   <entry>
-    <title>Microsoft leads shift beyond data unification to organization, delivering next-gen AI readiness with new Microsoft Fabric capabilities - The Official Microsoft Blog</title>
-    <link href="https://blogs.microsoft.com/blog/2025/09/16/microsoft-leads-shift-beyond-data-unification-to-organization-delivering-next-gen-ai-readiness-with-new-microsoft-fabric-capabilities/"/>
-    <id>https://blogs.microsoft.com/blog/2025/09/16/microsoft-leads-shift-beyond-data-unification-to-organization-delivering-next-gen-ai-readiness-with-new-microsoft-fabric-capabilities/</id>
-    <summary type="text">We’re in a hinge moment for AI. The experiments are over and the real work has begun. Centralizing data, once the finish line, is now the starting point. The definition of “AI readiness” is evolving as increasingly sophisticated agents demand rich, contextualized data grounded in business operations to deliver meaningful results. What sets leaders apart...</summary>
-    <updated>Tue, 16 Sep 2025 07:00:04 +0000</updated>
+    <title>Blue Origin Completes 35th New Shepard Mission | Blue Origin</title>
+    <link href="https://www.blueorigin.com/news/new-shepard-ns-35-mission"/>
+    <id>https://www.blueorigin.com/news/new-shepard-ns-35-mission</id>
+    <summary type="text">Blue Origin successfully completed its 35th New Shepard flight and 15th payload mission today from Launch Site One in West Texas.</summary>
   </entry>
   <entry>
-    <title>A Frequency of Faith: What I Learned from a Scientist Who Measures Vibes | IONS</title>
-    <link href="https://noetic.org/blog/a-frequency-of-faith/"/>
-    <id>https://noetic.org/blog/a-frequency-of-faith/</id>
-    <summary type="text">What are we really talking about when we say “vibes”? Jeremy Koenig unveils the power of vibes with Garret Yount, PhD.</summary>
-    <updated>Mon, 15 Sep 2025 22:57:33 +0000</updated>
+    <title>Blue Alchemist Hits Major Milestone Toward Permanent and Sustainable Lunar Infrastructure | Blue Origin</title>
+    <link href="https://www.blueorigin.com/news/blue-alchemist-hits-major-milestone-toward-permanent-sustainable-lunar-infrastructure"/>
+    <id>https://www.blueorigin.com/news/blue-alchemist-hits-major-milestone-toward-permanent-sustainable-lunar-infrastructure</id>
+    <summary type="text">Blue Origin&#x27;s pioneering in-space resource utilization system, Blue Alchemist, has successfully completed its Critical Design Review, marking a transformative milestone toward humanity&#x27;s permanent expansion beyond Earth.</summary>
   </entry>
   <entry>
-    <title>AI Policy Corner: Restriction vs. Regulation: Comparing State Approaches to AI Mental Health Legislation | Montreal AI Ethics Institute</title>
-    <link href="https://montrealethics.ai/ai-policy-corner-restriction-vs-regulation-comparing-state-approaches-to-ai-mental-health-legislation/"/>
-    <id>https://montrealethics.ai/ai-policy-corner-restriction-vs-regulation-comparing-state-approaches-to-ai-mental-health-legislation/</id>
-    <summary type="text">✍️ By Ruth Sugiarto. Ruth is an Undergraduate Student in Computer Engineering and a Research Assistant at the Governance and Responsible AI Lab (GRAIL), Purdue University. 📌 Editor’s Note: This…</summary>
-    <updated>Mon, 15 Sep 2025 06:49:19 +0000</updated>
+    <title>The Mission: Blue Origin’s Mars Telecommunications Orbiter | Blue Origin</title>
+    <link href="https://www.blueorigin.com/news/blue-origin-mars-telecommunications-orbiter"/>
+    <id>https://www.blueorigin.com/news/blue-origin-mars-telecommunications-orbiter</id>
+    <summary type="text">Built upon our existing and affordable Blue Ring platform, our Mars Telecommunications Orbiter is ready to support NASA’s Mars mission in 2028.</summary>
   </entry>
   <entry>
-    <title>Beyond Dependency: The Hidden Risk of Social Comparison in Chatbot Companionship | Montreal AI Ethics Institute</title>
-    <link href="https://montrealethics.ai/beyond-dependency-the-hidden-risk-of-social-comparison-in-chatbot-companionship/"/>
-    <id>https://montrealethics.ai/beyond-dependency-the-hidden-risk-of-social-comparison-in-chatbot-companionship/</id>
-    <summary type="text">🔬 By Hamed Maleki. Hamed is a communication researcher currently completing a Master’s degree at the University of Wrocław in Poland. His work focuses on human–AI interaction…</summary>
-    <updated>Mon, 15 Sep 2025 06:49:13 +0000</updated>
+    <title>News | Blue Origin</title>
+    <link href="https://www.blueorigin.com/news"/>
+    <id>https://www.blueorigin.com/news</id>
+    <summary type="text">The Latest from Blue</summary>
   </entry>
   <entry>
-    <title>Bridging the Gap: Addressing the Legislative Gap Surrounding Non-Consensual Deepfakes | Montreal AI Ethics Institute</title>
-    <link href="https://montrealethics.ai/bridging-the-gap-addressing-the-legislative-gap-surrounding-non-consensual-deepfakes/"/>
-    <id>https://montrealethics.ai/bridging-the-gap-addressing-the-legislative-gap-surrounding-non-consensual-deepfakes/</id>
-    <summary type="text">🔬 Original article by Alessandra Destison from Encode Canada. 📌 Editor’s Note: This is part of our Recess series, featuring university students from across Canada exploring ethical challenges in AI.</summary>
-    <updated>Mon, 15 Sep 2025 06:14:53 +0000</updated>
+    <title>August 2025 Company Update</title>
+    <link href="https://www.relativityspace.com/press-release/2025/9/8/august-2025-company-update"/>
+    <id>https://www.relativityspace.com/press-release/2025/9/8/august-2025-company-update</id>
+    <summary type="text">Throughout August, the Terran R program continued to make measurable progress toward first launch, delivering on critical program milestones.   Design  This month, the team completed 18 component-level Critical Design Reviews (CDRs), most of which focused on the second stage engine and fluids system</summary>
   </entry>
   <entry>
-    <title>How Falcon LLM is reshaping accessibility through model efficiency</title>
-    <link href="https://aiforgood.itu.int/how-falcon-llm-is-reshaping-accessibility-through-model-efficiency/"/>
-    <id>https://aiforgood.itu.int/how-falcon-llm-is-reshaping-accessibility-through-model-efficiency/</id>
-    <summary type="text">Connect with 51K enthusiasts from all over the world.</summary>
-    <updated>Fri, 12 Sep 2025 05:30:31 +0000</updated>
+    <title>July 2025 Company Update</title>
+    <link href="https://www.relativityspace.com/press-release/2025/8/7/july-2025-company-update"/>
+    <id>https://www.relativityspace.com/press-release/2025/8/7/july-2025-company-update</id>
+    <summary type="text">As development of Terran R continues to accelerate, July marked another month of meaningful progress across design, manufacturing, testing, and launch operations.   Design  In July, the team successfully completed 28 additional component-level Critical Design Reviews (CDRs). Notably, 351 thrust stru</summary>
   </entry>
   <entry>
-    <title>Our Bodies Know Before We Do | IONS</title>
-    <link href="https://noetic.org/blog/our-bodies-know/"/>
-    <id>https://noetic.org/blog/our-bodies-know/</id>
-    <summary type="text">Dan Brown&#x27;s latest thriller, The Secret of Secrets, describes an experiment on presentiment.</summary>
-    <updated>Wed, 10 Sep 2025 23:27:12 +0000</updated>
+    <title>June 2025 Company Update</title>
+    <link href="https://www.relativityspace.com/press-release/2025/7/8/june-2025-company-update"/>
+    <id>https://www.relativityspace.com/press-release/2025/7/8/june-2025-company-update</id>
+    <summary type="text">As the Terran R program continues to advance, we’re highlighting some of the latest milestones across design, build, test, and launch.   Design&amp;nbsp;  Throughout June, the team completed 12 additional component-level critical design reviews (CDRs), covering a range of hardware from trays and flu</summary>
   </entry>
   <entry>
-    <title>#WhyIScience Q&amp;A: A structural biologist adopts a new role catalyzing collaborations</title>
-    <link href="https://www.broadinstitute.org/news/whyiscience-qa-structural-biologist-adopts-new-role-catalyzing-collaborations"/>
-    <id>https://www.broadinstitute.org/news/whyiscience-qa-structural-biologist-adopts-new-role-catalyzing-collaborations</id>
-    <summary type="text">A former drug discovery scientist, Gail Guo now helps advance research into novel cancer drugs as part of Broad’s alliance with Bayer.</summary>
-    <updated>Wed, 10 Sep 2025 09:22:24 -0400</updated>
+    <title>May 2025 Company Update</title>
+    <link href="https://www.relativityspace.com/press-release/2025/6/6/may-2025-company-update"/>
+    <id>https://www.relativityspace.com/press-release/2025/6/6/may-2025-company-update</id>
+    <summary type="text">As we close out another month of Terran R development, we’re sharing a look at recent progress across design, build, test, and launch.&amp;nbsp;&amp;nbsp;   Design &amp;nbsp; In May, we completed an additional 17 component-level critical design reviews (CDR). At this stage of the program, many of th</summary>
   </entry>
   <entry>
-    <title>Governing advanced AI in practice</title>
-    <link href="https://aiforgood.itu.int/governing-advanced-ai-in-practice/"/>
-    <id>https://aiforgood.itu.int/governing-advanced-ai-in-practice/</id>
-    <summary type="text">Connect with 51K enthusiasts from all over the world.</summary>
-    <updated>Wed, 10 Sep 2025 10:55:01 +0000</updated>
+    <title>Updates</title>
+    <link href="https://www.relativityspace.com/news"/>
+    <id>https://www.relativityspace.com/news</id>
+    <summary type="text">Learn about Terran R’s progress towards reusability.</summary>
   </entry>
   <entry>
-    <title>What Is Channeling? – IONS</title>
-    <link href="https://noetic.org/blog/what-is-channeling/"/>
-    <id>https://noetic.org/blog/what-is-channeling/</id>
-    <summary type="text">What is channeling? In her new book, IONS Director of Research Helané Wahbeh shares what she&#x27;s learned by investigating 6 research questions.</summary>
-    <updated>Tue, 09 Sep 2025 17:14:25 +0000</updated>
+    <title>NEWS – Space Development Agency</title>
+    <link href="https://www.sda.mil/home/news/"/>
+    <id>https://www.sda.mil/home/news/</id>
+    <summary type="text">NEWS – Space Development Agency</summary>
   </entry>
   <entry>
-    <title>Remembering David Baltimore</title>
-    <link href="https://www.broadinstitute.org/news/remembering-david-baltimore"/>
-    <id>https://www.broadinstitute.org/news/remembering-david-baltimore</id>
-    <summary type="text">David Baltimore served as Chair of the Broad Institute Board of Scientific Counselors, was a member of our Board of Directors, and was essential in the formation of the Broad Institute itself. We asked our Founding Director, Eric S. Lander, to share some reflections with the Broad community.</summary>
-    <updated>Mon, 08 Sep 2025 11:19:08 -0400</updated>
+    <title>News Releases – Space Development Agency</title>
+    <link href="https://www.sda.mil/home/news/news-releases/"/>
+    <id>https://www.sda.mil/home/news/news-releases/</id>
+    <summary type="text">News Releases – Space Development Agency</summary>
   </entry>
   <entry>
-    <title>Making AI ethical, inclusive, and effective across the UN</title>
-    <link href="https://aiforgood.itu.int/making-ai-ethical-inclusive-and-effective-across-the-un/"/>
-    <id>https://aiforgood.itu.int/making-ai-ethical-inclusive-and-effective-across-the-un/</id>
-    <summary type="text">Connect with 51K enthusiasts from all over the world.</summary>
-    <updated>Fri, 05 Sep 2025 10:55:39 +0000</updated>
+    <title>NEWS – Page 2 – Space Development Agency</title>
+    <link href="https://www.sda.mil/home/news/page/2/"/>
+    <id>https://www.sda.mil/home/news/page/2/</id>
+    <summary type="text">NEWS – Page 2 – Space Development Agency</summary>
   </entry>
   <entry>
-    <title>Mass General Brigham launches genetic test to predict risk across eight cardiovascular conditions</title>
-    <link href="https://www.broadinstitute.org/news/mass-general-brigham-launches-genetic-test-predict-risk-across-eight-cardiovascular-conditions"/>
-    <id>https://www.broadinstitute.org/news/mass-general-brigham-launches-genetic-test-predict-risk-across-eight-cardiovascular-conditions</id>
-    <summary type="text">Developed in collaboration with Broad Clinical Labs and Mass General Brigham Laboratory for Molecular Medicine, the test provides a comprehensive view of a patient’s inherited heart disease risk. div.hero-section__author { display:none;}</summary>
-    <updated>Wed, 03 Sep 2025 17:35:14 -0400</updated>
+    <title>NEWS – Page 3 – Space Development Agency</title>
+    <link href="https://www.sda.mil/home/news/page/3/"/>
+    <id>https://www.sda.mil/home/news/page/3/</id>
+    <summary type="text">NEWS – Page 3 – Space Development Agency</summary>
   </entry>
   <entry>
-    <title>Beyond the Veil: Encounters with Non-Physical Beings in Reiki | IONS</title>
-    <link href="https://noetic.org/blog/non-physical-beings-in-reiki/"/>
-    <id>https://noetic.org/blog/non-physical-beings-in-reiki/</id>
-    <summary type="text">This study revealed unexpected reports of spirits, angels, and other non-physical beings during energy healing sessions.</summary>
-    <updated>Wed, 03 Sep 2025 20:03:19 +0000</updated>
-  </entry>
-  <entry>
-    <title>How massive datasets generated at Broad are powering the latest AI models in biology</title>
-    <link href="https://www.broadinstitute.org/news/how-massive-datasets-generated-broad-are-powering-latest-ai-models-biology"/>
-    <id>https://www.broadinstitute.org/news/how-massive-datasets-generated-broad-are-powering-latest-ai-models-biology</id>
-    <summary type="text">Broad scientists describe how data resources they helped build over more than a decade now form the foundation for cutting-edge AI and genome biology discoveries.</summary>
-    <updated>Wed, 03 Sep 2025 14:10:36 -0400</updated>
-  </entry>
-  <entry>
-    <title>How Microsoft is driving global change through AI skills</title>
-    <link href="https://aiforgood.itu.int/how-microsoft-is-driving-global-change-through-ai-skills/"/>
-    <id>https://aiforgood.itu.int/how-microsoft-is-driving-global-change-through-ai-skills/</id>
-    <summary type="text">Connect with 51K enthusiasts from all over the world.</summary>
-    <updated>Wed, 03 Sep 2025 05:30:12 +0000</updated>
-  </entry>
-  <entry>
-    <title>Beyond Consultation: Building Inclusive AI Governance for Canada’s Democratic Future | Montreal AI Ethics Institute</title>
-    <link href="https://montrealethics.ai/beyond-consultation-building-inclusive-ai-governance-for-canadas-democratic-future/"/>
-    <id>https://montrealethics.ai/beyond-consultation-building-inclusive-ai-governance-for-canadas-democratic-future/</id>
-    <summary type="text">✍️ By Renjie Butalid. Renjie is Co-founder and Director of the Montreal AI Ethics Institute (MAIEI). At the Victoria Forum 2025, “Towards a Better Future: Shifting the Trajectory,” lawmakers…</summary>
-    <updated>Tue, 02 Sep 2025 13:31:48 +0000</updated>
-  </entry>
-  <entry>
-    <title>AI Policy Corner: U.S. Executive Order on Advancing AI Education for American Youth | Montreal AI Ethics Institute</title>
-    <link href="https://montrealethics.ai/ai-policy-corner-u-s-executive-order-on-advancing-ai-education-for-american-youth/"/>
-    <id>https://montrealethics.ai/ai-policy-corner-u-s-executive-order-on-advancing-ai-education-for-american-youth/</id>
-    <summary type="text">✍️ By Tasneem Ahmed. Tasneem is an Undergraduate Student in Political Science and a Research Assistant at the Governance and Responsible AI Lab (GRAIL), Purdue University. 📌 Editor’s Note: This…</summary>
-    <updated>Tue, 02 Sep 2025 10:26:39 +0000</updated>
-  </entry>
-  <entry>
-    <title>IONS Sponsors the Nanobiosym Global Summit 2.0: Quantum Convergence | IONS</title>
-    <link href="https://noetic.org/blog/nanobiosym-global-summit/"/>
-    <id>https://noetic.org/blog/nanobiosym-global-summit/</id>
-    <summary type="text">IONS is pleased to announce that we are helping to sponsor the Nanobiosym Global Summit 2.0: Quantum Convergence at MIT.</summary>
-    <updated>Wed, 27 Aug 2025 19:35:25 +0000</updated>
-  </entry>
-  <entry>
-    <title>$100,000 IONS Award Recognizes Pioneering Advances in Conscious AI Research | IONS</title>
-    <link href="https://noetic.org/blog/ions-award-recognizes-pioneering-advances-in-conscious-ai-research/"/>
-    <id>https://noetic.org/blog/ions-award-recognizes-pioneering-advances-in-conscious-ai-research/</id>
-    <summary type="text">Eight finalists selected for groundbreaking proposals on the design and assessment of conscious artificial intelligence frameworks.</summary>
-    <updated>Wed, 20 Aug 2025 19:05:58 +0000</updated>
-  </entry>
-  <entry>
-    <title>Unlocking the potential of manufacturing with cloud modernization - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/19/unlocking-the-potential-of-manufacturing-with-cloud-modernization/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/19/unlocking-the-potential-of-manufacturing-with-cloud-modernization/</id>
-    <summary type="text">Uncover how manufacturers use AI and cloud to optimize operations, accelerate R&amp;D, and deliver real business value. Learn more.</summary>
-    <updated>Tue, 19 Aug 2025 15:00:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>Can Chatbots Replace Human Mental Health Support? | Montreal AI Ethics Institute</title>
-    <link href="https://montrealethics.ai/can-chatbots-replace-human-mental-health-support/"/>
-    <id>https://montrealethics.ai/can-chatbots-replace-human-mental-health-support/</id>
-    <summary type="text">✍️ Op-Ed by Sabia Irfan. Sabia is an undergraduate computer science student at McGill University and is interested in AI, biotechnology, and journalism. With more than 987 million users worldwide…</summary>
-    <updated>Mon, 18 Aug 2025 19:22:27 +0000</updated>
-  </entry>
-  <entry>
-    <title>AI Policy Corner: U.S. Copyright Guidance on Works Created with AI | Montreal AI Ethics Institute</title>
-    <link href="https://montrealethics.ai/ai-policy-corner-u-s-copyright-guidance-on-works-created-with-ai/"/>
-    <id>https://montrealethics.ai/ai-policy-corner-u-s-copyright-guidance-on-works-created-with-ai/</id>
-    <summary type="text">✍️ By Tejasvi Nallagundla. Tejasvi is an Undergraduate Student in Computer Science, Artificial Intelligence and Global Studies and an Undergraduate Affiliate at the Governance and Responsible AI Lab…</summary>
-    <updated>Mon, 18 Aug 2025 18:11:55 +0000</updated>
-  </entry>
-  <entry>
-    <title>Exploring the Energy of People, Places, and Spaces — Through Your Questions | IONS</title>
-    <link href="https://noetic.org/blog/energy-of-people-places-and-spaces-questions/"/>
-    <id>https://noetic.org/blog/energy-of-people-places-and-spaces-questions/</id>
-    <summary type="text">IONS scientist Garret Yount answers your fascinating questions on exploring the science and mystery of subtle energy.</summary>
-    <updated>Mon, 18 Aug 2025 17:58:50 +0000</updated>
-  </entry>
-  <entry>
-    <title>Robotics for Good Youth Challenge : Le Burkina Faso remporte le bronze, les lauréats reçus par le ministre de l’Enseignement secondaire</title>
-    <link href="https://aiforgood.itu.int/robotics-for-good-youth-challenge-le-burkina-faso-remporte-le-bronze-les-laureats-recus-par-le-ministre-de-lenseignement-secondaire/"/>
-    <id>https://aiforgood.itu.int/robotics-for-good-youth-challenge-le-burkina-faso-remporte-le-bronze-les-laureats-recus-par-le-ministre-de-lenseignement-secondaire/</id>
-    <summary type="text">Les 8 et 9 juillet 2025, des jeunes Burkinabè ont porté haut les couleurs du pays en participant au Robotics for Good Youth Challenge, à Genève. Après</summary>
-    <updated>Mon, 18 Aug 2025 11:32:07 +0000</updated>
-  </entry>
-  <entry>
-    <title>Giving Day by the Numbers: A Global Community in Action | IONS</title>
-    <link href="https://noetic.org/blog/giving-day-by-the-numbers/"/>
-    <id>https://noetic.org/blog/giving-day-by-the-numbers/</id>
-    <summary type="text">The numbers tell a story of a global community uniting for Giving Day, with support from around the world and many first-time donors.</summary>
-    <updated>Wed, 13 Aug 2025 18:01:21 +0000</updated>
-  </entry>
-  <entry>
-    <title>Embracing AI-powered operations: A maturity path for manufacturers - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/07/embracing-ai-powered-operations-a-maturity-path-for-manufacturers/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/07/embracing-ai-powered-operations-a-maturity-path-for-manufacturers/</id>
-    <summary type="text">Discover how manufacturers are embracing AI to boost efficiency, resilience, and innovation with Microsoft’s guidance. Learn more.</summary>
-    <updated>Thu, 07 Aug 2025 14:00:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>Breathing low-oxygen air slows Parkinson’s progression in mice</title>
-    <link href="https://www.broadinstitute.org/news/breathing-low-oxygen-air-slows-parkinsons-progression-mice"/>
-    <id>https://www.broadinstitute.org/news/breathing-low-oxygen-air-slows-parkinsons-progression-mice</id>
-    <summary type="text">Low-oxygen air prevented and even reversed symptoms in a mouse model of Parkinson’s disease.</summary>
-    <updated>Wed, 06 Aug 2025 09:26:25 -0400</updated>
+    <title>NEWS – Page 5 – Space Development Agency</title>
+    <link href="https://www.sda.mil/home/news/page/5/"/>
+    <id>https://www.sda.mil/home/news/page/5/</id>
+    <summary type="text">NEWS – Page 5 – Space Development Agency</summary>
   </entry>
 </feed>
