@@ -5,21 +5,6 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.json",
   "items": [
     {
-      "id": "https://www.aboutamazon.com/news/retail/prime-big-deal-days-best-deals-savings",
-      "url": "https://www.aboutamazon.com/news/retail/prime-big-deal-days-best-deals-savings",
-      "title": "Exclusive sneak peek: Prime Big Deal Days brings holiday savings early on October 7–8",
-      "content_text": "Exciting new deals will continue to drop throughout the event, including Today’s Big Deals—special limited-time offers featuring some of the best savings of the season so far.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/a75f263/2147483647/strip/true/crop/2000x1000+0+51/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F52%2F63%2F99184fd344bca98bcce726419d01%2Faa-pbdd25-preview-standard-hero-v2-2000x1125.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
       "id": "https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/",
       "url": "https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/",
       "title": "Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace. - The Official Microsoft Blog",
@@ -83,7 +68,7 @@
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://www.youtube.com/embed/3GhckKPLDd4?feature=oembed",
+          "url": "https://www.youtube.com/embed/9okNvX89U_c?feature=oembed",
           "mime_type": "video/mp4"
         }
       ],
@@ -122,6 +107,21 @@
       ]
     },
     {
+      "id": "https://www.aboutamazon.com/news/retail/amazon-prime-for-young-adults",
+      "url": "https://www.aboutamazon.com/news/retail/amazon-prime-for-young-adults",
+      "title": "Score big with Prime for Young Adults—Amazon’s discounted Prime membership",
+      "content_text": "Learn about the extraordinary value of the go-to Prime membership for 18-to-24-year-olds. Eligible new members can try it for six months for $0 and earn 5% cash back.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/f5d95eb/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F8e%2Ff3%2F714a5bea457ab79834d19f13ead4%2Fhero001-youngadult-amazon-prime-studentredesign-rivera-downtime-quad-2000x1125.JPG",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
       "url": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
       "title": "AlphaQubit tackles one of quantum computing’s biggest challenges",
@@ -137,67 +137,78 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/retail/amazon-gas-savings-prime",
-      "url": "https://www.aboutamazon.com/news/retail/amazon-gas-savings-prime",
-      "title": "Prime membership now includes fuel savings, enabling savings of nearly $70 per year on average",
-      "content_text": "Prime members now save $0.10 per gallon at approximately 7,500 bp, Amoco, and ampm locations across the U.S.",
+      "id": "https://www.aboutamazon.com/news/retail/amazon-prime-free-trial",
+      "url": "https://www.aboutamazon.com/news/retail/amazon-prime-free-trial",
+      "title": "How to sign up for a free trial of Prime before Prime Big Deal Days 2025",
+      "content_text": "Prime is packed with tons of great benefits—and you can start enjoying them for free today and ahead of Prime Big Deal Days this October.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/55b8a73/2147483647/strip/true/crop/2000x1000+0+108/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F05%2Fd3%2Fd53b6b2f45b3bbe0f49e90539b23%2Fblog-hero-image-2000x1125-px.png",
+          "url": "https://assets.aboutamazon.com/dims4/default/0fbc10d/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fd1%2Fca%2F93ed2147445ea7806166ce14883c%2Faa-feb2025-freeshippingwithoutprime-standard-hero-v2-2000x1125.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/retail/how-to-find-amazon-lightning-deals",
+      "url": "https://www.aboutamazon.com/news/retail/how-to-find-amazon-lightning-deals",
+      "title": "What are Amazon Lightning Deals and how to find them",
+      "content_text": "Lightning Deals are limited-time promotions that offer big savings on some of your favorite brands and products.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/bf6eb6e/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fbf%2F07%2F22b66b934a2fa38117439fea63a9%2Faa-062025-pd-lightningdeals-standard-hero-v1-600kb-2000x1125.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/retail/prime-benefits-that-will-save-you-money",
+      "url": "https://www.aboutamazon.com/news/retail/prime-benefits-that-will-save-you-money",
+      "title": "7 Prime benefits that will save you money",
+      "content_text": "It’s not just about free shipping and Prime Video. Prime keeps money back in your pocket.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/586e4f1/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F29%2F94%2Fa49b6a064bf19e75e8ee89e71b74%2F2025primeday-hero-2000x1125-10.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/retail/prime-membership-cost-benefits",
+      "url": "https://www.aboutamazon.com/news/retail/prime-membership-cost-benefits",
+      "title": "Here’s how much a Prime membership costs, and how to make the most of its benefits in time for Prime Big Deal Days this October",
+      "content_text": "Amazon Prime makes your life more convenient, simple, and fun, while saving you money every single day and during events like Prime Big Deal Days.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/ebf0dae/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F45%2F9c%2F14ea4d214798863d8752e37f174c%2Ffree-delivery-inline.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://nvidianews.nvidia.com/news/nvidia-accelerates-robotics-research-and-development-with-new-open-models-and-simulation-libraries",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-accelerates-robotics-research-and-development-with-new-open-models-and-simulation-libraries",
+      "title": "NVIDIA Accelerates Robotics Research and Development With New Open Models and Simulation Libraries",
+      "content_text": "NVIDIA today announced that the open‑source Newton Physics Engine is now available in NVIDIA Isaac™ Lab, along with the open NVIDIA Isaac GR00T N1.6 reasoning vision language action model for robot skills and new AI infrastructure.",
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/202509/68da29813d6332546f0426c7_nvidia-corl-2025/nvidia-corl-2025_de46f7af-0808-4ecc-8cd1-d5e14ad83a57-prv.png",
           "mime_type": "image/png"
-        },
-        {
-          "url": "https://www.youtube.com/embed/tLgDfwaydko",
-          "mime_type": "video/mp4"
         }
       ],
       "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/retail/amazon-prime-big-deal-days-faq",
-      "url": "https://www.aboutamazon.com/news/retail/amazon-prime-big-deal-days-faq",
-      "title": "Amazon Prime Big Deal Days 2025: Everything you need to know to get deals October 7-8",
-      "content_text": "Everything you need to know about Amazon Prime Big Deal Days 2025, including when it starts, when it ends, and how to get the best deals October 7-8.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/8756161/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F0b%2Feb%2F35485c2f4c629fcc3568ec79102e%2Fabout-amazon-inline-aa-pbdd25-everythingtoknow-standard-hero-v5-2000x1125.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/retail/can-you-shop-prime-day-without-prime-membership",
-      "url": "https://www.aboutamazon.com/news/retail/can-you-shop-prime-day-without-prime-membership",
-      "title": "Can you shop Prime Big Deal Days without a Prime membership?",
-      "content_text": "Join Prime and celebrate the member-exclusive fall shopping event.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/ca7e7f6/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F81%2Ff5%2Fb121616044a48afb63157a86b340%2Fabout-amazon-inline-aa-sept2024-pbdd-tips-standard-inline-tip1-1600x900.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/retail/how-to-sign-up-for-a-prime-membership",
-      "url": "https://www.aboutamazon.com/news/retail/how-to-sign-up-for-a-prime-membership",
-      "title": "How to sign up for a Prime membership ahead of Prime Big Deal Days 2025",
-      "content_text": "Ready to enjoy all the great benefits of a Prime membership? Sign up before October to shop Prime Big Deal Days this year.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/5d8cd9d/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fc3%2Ff6%2F2732bcd24952af3b3e313a252046%2Fhow-to-sign-up-for-prime-membership-hero-v3.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
+        "jensen-huang"
       ]
     },
     {
@@ -209,36 +220,6 @@
         {
           "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/202509/68d164573d63320d88f176b7_openai-and-nvidia/openai-and-nvidia_cbdd3def-150e-4b20-bf18-b15de5fb1eb0-prv.png",
           "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "jensen-huang"
-      ]
-    },
-    {
-      "id": "https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products",
-      "title": "NVIDIA and Intel to Develop AI Infrastructure and Personal Computing Products",
-      "content_text": "NVIDIA (NASDAQ: NVDA) and Intel Corporation (NASDAQ: INTC) today announced a collaboration to jointly develop multiple generations of custom data center and PC products that accelerate applications and workloads across hyperscale, enterprise and consumer markets.",
-      "attachments": [
-        {
-          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/202509/68cbe6953d63324b19567968_0ddda295-ba99-4ec9-b4c1-d5f3e2a83e7/0ddda295-ba99-4ec9-b4c1-d5f3e2a83e7_c5f3709f-5bf8-4d9a-8097-a20149241fe2-prv.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jensen-huang"
-      ]
-    },
-    {
-      "id": "https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem",
-      "title": "NVIDIA Announces £2 Billion Investment in the United Kingdom AI Startup Ecosystem",
-      "content_text": "NVIDIA today announced an investment of £2 billion in the U.K. market to catalyze the nation’s AI startup ecosystem and scale the next generation of globally transformative AI businesses.",
-      "attachments": [
-        {
-          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/20258/68cc4a5b3d6332160038b7b1_nvidia-investment-uk-ai-startup-ecosystem/nvidia-investment-uk-ai-startup-ecosystem_059a49be-6e31-4eca-bfc9-ce7dcf993421-prv.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -632,7 +613,7 @@
       "content_text": "How Geoff Richman, lead editor on the Apple Original, “Severance,” created the frenetic world of the hit show’s season two finale.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/Apple-TV-plus-Mac-editing-Severance-Geoffrey-Richman-and-Ben-Stiller-lp.jpg.og.jpg?202508281642=",
+          "url": "https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/Apple-TV-plus-Mac-editing-Severance-Geoffrey-Richman-and-Ben-Stiller-lp.jpg.og.jpg?202508281640=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -647,7 +628,7 @@
       "content_text": "Meet Taiki Hamamoto, Marina Lee, Luciana Ortiz Nolasco, and Nahom Worku, four winners of Apple’s 2025 Swift Student Challenge.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281636=",
+          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281742=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -662,7 +643,7 @@
       "content_text": "From a horror-comedy in Tamil to a magical romance in Malayalam, MAMI Select filmmakers are redefining cinema with iPhone 16 Pro Max.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/tile/Apple-MAMI-Select-iPhone-16-Pro-Max-hero-lp.jpg.og.jpg?202508281644=",
+          "url": "https://www.apple.com/newsroom/images/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/tile/Apple-MAMI-Select-iPhone-16-Pro-Max-hero-lp.jpg.og.jpg?202508281729=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -677,7 +658,7 @@
       "content_text": "Captured on iPhone 16 Pro Max, a recent shoot by photographer Karston Tannis showcased the vibrancy of the African diaspora.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/02/capturing-paradise-karston-tannis-re-creates-island-vibes-with-iphone-16-pro-max/tile/Apple-Tannis-shot-on-iPhone-16-Pro-Max-group-shot-lp.jpg.og.jpg?202508281648=",
+          "url": "https://www.apple.com/newsroom/images/2025/02/capturing-paradise-karston-tannis-re-creates-island-vibes-with-iphone-16-pro-max/tile/Apple-Tannis-shot-on-iPhone-16-Pro-Max-group-shot-lp.jpg.og.jpg?202508281745=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -692,7 +673,7 @@
       "content_text": "The official source for news about Apple, from Apple. Read press releases, get updates, watch video and download images.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202509272039=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202509291501=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -707,7 +688,7 @@
       "content_text": "The source for news about Apple Services. Get updates on the latest Apple Arcade games, Apple Originals on TV+, Podcasts, Books, and more from Apple Newsroom.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1759005653053=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1759158540332=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -722,7 +703,7 @@
       "content_text": "Discover more stories from Apple Newsroom that showcase the creators, developers, and innovators leaving the world better than they found it.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1759005639886=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1759158161648=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -881,6 +862,21 @@
       ]
     },
     {
+      "id": "https://www.blueorigin.com/news/florida-investment-matches-ambitious-growth-plans",
+      "url": "https://www.blueorigin.com/news/florida-investment-matches-ambitious-growth-plans",
+      "title": "Florida Investment Matches Our Ambitious Growth Plans | Blue Origin",
+      "content_text": "Blue Origin employs nearly 4,000 people in Brevard County and has invested over $2.3 billion with 500 suppliers in Florida, generating significant economic growth and employment in the region.",
+      "attachments": [
+        {
+          "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/News_Florida-RocketPark.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.blueorigin.com/news/new-shepard-ns-35-mission",
       "url": "https://www.blueorigin.com/news/new-shepard-ns-35-mission",
       "title": "Blue Origin Completes 35th New Shepard Mission | Blue Origin",
@@ -926,14 +922,14 @@
       ]
     },
     {
-      "id": "https://www.blueorigin.com/news/new-shepard-ns-34-mission",
-      "url": "https://www.blueorigin.com/news/new-shepard-ns-34-mission",
-      "title": "Blue Origin’s New Shepard Completes 34th Mission to Space | Blue Origin",
-      "content_text": "Blue Origin successfully completed its 14th human spaceflight and the 34th flight for the New Shepard program.",
+      "id": "https://www.blueorigin.com/news",
+      "url": "https://www.blueorigin.com/news",
+      "title": "News | Blue Origin",
+      "content_text": "The Latest from Blue",
       "attachments": [
         {
-          "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/NS26Social_NewShepard-Sunrise_HomePageTakeover.jpg",
-          "mime_type": "image/jpeg"
+          "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/latest-news_hero.png",
+          "mime_type": "image/png"
         }
       ],
       "tags": [

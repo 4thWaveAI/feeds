@@ -5,6 +5,100 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
+      "id": "https://phys.org/news/2025-09-sensor-platform-nanopore-cameras-gases.html",
+      "url": "https://phys.org/news/2025-09-sensor-platform-nanopore-cameras-gases.html",
+      "title": "Sensor platform uses nanopore 'speed cameras' to pinpoint gases in complex mixtures",
+      "content_text": "From breath analysis to explosive detection, many applications require reliable electronic \"noses.\" Unfortunately, current technology often falls short. That is why researchers at KU Leuven have developed a flexible sensor platform that not only detects gases, but also records their speed—like a speed camera.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-sensor-identifies.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-steel-production-makeover-captures-real.html",
+      "url": "https://phys.org/news/2025-09-steel-production-makeover-captures-real.html",
+      "title": "Steel production could get a makeover: Study captures real-time iron formation at the nanoscale",
+      "content_text": "A research team at the University of Minnesota Twin Cities has investigated a new method to produce iron, the main component of steel. For the first time, the researchers were able to observe chemical reactions and iron formation in real-time at the nanometer scale.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/steel-production-could.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-good-cholesterol-imaging-method-production.html",
+      "url": "https://phys.org/news/2025-09-good-cholesterol-imaging-method-production.html",
+      "title": "How is good cholesterol made? Imaging method shows production mechanism at molecular level",
+      "content_text": "High-density lipoproteins (HDL), also known as \"good cholesterol,\" remove excess cholesterol from the body's tissues and transport it to the liver. This process is known to prevent atherosclerosis, the build-up of plaque in the walls of arteries. Atherosclerosis is associated with deadly symptoms, including heart attacks, strokes, aneurysms, and blood clots. Despite the importance of HDLs, scientists still have a limited understanding of how they are made.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/how-is-good-cholestero.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://scx2.b-cdn.net/gfx/video/2025/how-is-good-cholestero.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-scientists-microelectrode-array-neuronal-hibernation.html",
+      "url": "https://phys.org/news/2025-09-scientists-microelectrode-array-neuronal-hibernation.html",
+      "title": "Scientists develop microelectrode array for monitoring neuronal activity during hibernation",
+      "content_text": "A research team has developed a nanocomposite-modified microelectrode array (MEA) that enables long-term, high-sensitivity monitoring of neuronal activity during hibernation. Their findings were recently published in ACS Sensors.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2025/scientists-develop-mic.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-nanotubes-blood-bioengineered-tissues.html",
+      "url": "https://phys.org/news/2025-09-nanotubes-blood-bioengineered-tissues.html",
+      "title": "Researchers use nanotubes to improve blood flow in bioengineered tissues",
+      "content_text": "When biomedical researchers need to test their latest ideas, they often turn to engineered human tissue that mimics the responses in our own bodies. It's become an important intermediary step before human clinical trials.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/researchers-use-nanotu-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-3d-bioprinting-advances-enable-creation.html",
+      "url": "https://phys.org/news/2025-09-3d-bioprinting-advances-enable-creation.html",
+      "title": "3D bioprinting advances enable creation of artificial blood vessels with layered structures",
+      "content_text": "To explore possible treatments for various diseases, either animal models or human cell cultures are usually used first; however, animal models do not always mimic human diseases well, and cultures are far removed from tissue complexity. Advances in 3D printing, together with knowledge of biomaterials, are making it possible to recreate complex 3D tissue models in the laboratory.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/progress-in-the-field.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://phys.org/news/2025-09-3d-carbon-nanotube-sensors-potential.html",
       "url": "https://phys.org/news/2025-09-3d-carbon-nanotube-sensors-potential.html",
       "title": "3D-printed carbon nanotube sensors show potential for smart health monitoring",
@@ -92,100 +186,6 @@
         {
           "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/broadband-photodetecto.jpg",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-scientists-electrons-pattern-sources-wiring.html",
-      "url": "https://phys.org/news/2025-09-scientists-electrons-pattern-sources-wiring.html",
-      "title": "Scientists use electrons to pattern light sources and wiring directly onto crystals",
-      "content_text": "Rice University researchers used a focused electron beam to pattern device functions with submicron precision directly into an ultrathin crystal. The approach produced traces narrower than the width of a DNA helix that glow with bright blue light and conduct electricity, showing it could be used to manufacture compact on-chip wiring and built-in light sources.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/rice-scientists-use-el-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-nanovaccine-halts-tumor-growth-cancer.html",
-      "url": "https://phys.org/news/2025-09-nanovaccine-halts-tumor-growth-cancer.html",
-      "title": "Nanovaccine halts tumor growth and reduces cancer recurrence in lab models",
-      "content_text": "A research team has developed an approach to significantly reduce the risk of cancer recurrence and metastasis after surgery, by targeting both bulk cancer cells and the elusive cancer stem cells (CSCs) responsible for relapse.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/novel-nanovaccine-halt-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-ball-mill-technique-nanoscale-scaffolds.html",
-      "url": "https://phys.org/news/2025-09-ball-mill-technique-nanoscale-scaffolds.html",
-      "title": "Ball mill technique produces nanoscale scaffolds that filter PFAS",
-      "content_text": "PFAS are fluorinated compounds found in many everyday products, such as outdoor clothing and cookware like Teflon pans. This is because PFAS are durable, heat-resistant and dirt-repellent. Their stability is precisely what leads to problems: although potentially harmful to our health, these substances are scarcely broken down at all in the environment and are regarded as \"forever chemicals.\" PFAS are also found in wastewater. Although they can be removed by filtration, this is a laborious process.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/pfas-filter-from-a-bal.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-bone-substitute-3d-glass.html",
-      "url": "https://phys.org/news/2025-09-bone-substitute-3d-glass.html",
-      "title": "A new bone substitute made out of 3D-printed glass",
-      "content_text": "You might think that glass has no business acting as a replacement for bone, but it turns out the two materials have many similarities. For a new study published in ACS Nano, researchers developed a 3D printable bio-active glass that served as an effective bone replacement material. In rabbits, it sustained bone cell growth better than regular glass and a commercially available bone substitute.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/a-new-bone-substitute.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-scientists-visualize-atomic-moir-materials.html",
-      "url": "https://phys.org/news/2025-09-scientists-visualize-atomic-moir-materials.html",
-      "title": "Scientists visualize atomic structures in moiré materials",
-      "content_text": "Researchers with the Department of Energy's Oak Ridge National Laboratory and the University of Tennessee, Knoxville, have created an innovative method to visualize and analyze atomic structures within specially designed, ultrathin bilayer 2D materials. When precisely aligned at an angle, these materials exhibit unique properties that could lead to advancements in quantum computing, superconductors and ultraefficient electronics.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/scientists-visualize-a.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-nanotechnology-crop-munching-pests-beneficial.html",
-      "url": "https://phys.org/news/2025-09-nanotechnology-crop-munching-pests-beneficial.html",
-      "title": "Using nanotechnology to target crop-munching pests and spare beneficial bugs",
-      "content_text": "A bane of farmers' existence, it's estimated that plant-eating pests are responsible for the loss of up to 40% of pre-harvest yields globally. But a new generation of crop treatments that target only \"bad\" bugs could mean big gains for the Canadian agriculture sector, improving pest management tools in an industry that in 2024 generated over $142 billion.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/using-nanotechnology-t.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/3Wij0I0Iw2Q?color=white",
-          "mime_type": "video/mp4"
         }
       ],
       "tags": [

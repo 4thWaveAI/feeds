@@ -4,7 +4,13 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/quantum.atom.xml"/>
   <id>urn:4thwaveai-feeds:quantum</id>
-  <updated>Mon, 29 Sep 2025 05:45:35 +0000</updated>
+  <updated>Tue, 30 Sep 2025 05:42:04 +0000</updated>
+  <entry>
+    <title>IBM’s time-series foundation model reaches #2 on GIFT-Eval</title>
+    <link href="https://research.ibm.com/blog/SSM-time-series-model"/>
+    <id>https://research.ibm.com/blog/SSM-time-series-model</id>
+    <summary type="text">The model uses a state space architecture to outperform time-series models at least 20 times bigger.</summary>
+  </entry>
   <entry>
     <title>How AI alignment differs from AI steering</title>
     <link href="https://research.ibm.com/blog/map-measure-manage-gen-ai"/>
@@ -12,10 +18,10 @@
     <summary type="text">IBM Fellow Kush Varshney explains the difference, and provides an update on IBM’s latest work to mitigate the safety risks around generative AI.</summary>
   </entry>
   <entry>
-    <title>Introducing Surya, a new heliophysics foundation model</title>
-    <link href="https://research.ibm.com/blog/surya-heliophysics-ai-model-sun"/>
-    <id>https://research.ibm.com/blog/surya-heliophysics-ai-model-sun</id>
-    <summary type="text">IBM and NASA open-source a new AI foundation model for the Sun that could change how we look at solar flares.</summary>
+    <title>IBM and Vanguard explore quantum optimization for finance | IBM Quantum Computing Blog</title>
+    <link href="https://research.ibm.com/blog/vanguard-portfolio-optimization"/>
+    <id>https://research.ibm.com/blog/vanguard-portfolio-optimization</id>
+    <summary type="text">Variational quantum algorithms for portfolio optimization.</summary>
   </entry>
   <entry>
     <title>HSBC explores algorithmic trading with IBM quantum computers | IBM Quantum Computing Blog</title>
@@ -58,11 +64,5 @@
     <link href="https://research.ibm.com/blog/ado-accelerated-discovery-orchestrator-experiments"/>
     <id>https://research.ibm.com/blog/ado-accelerated-discovery-orchestrator-experiments</id>
     <summary type="text">The new platform for computational experiments at scale.</summary>
-  </entry>
-  <entry>
-    <title>IBM further strengthens Granite for enterprise deployment with HackerOne</title>
-    <link href="https://research.ibm.com/blog/granite-hackerone-bug-bounty"/>
-    <id>https://research.ibm.com/blog/granite-hackerone-bug-bounty</id>
-    <summary type="text">IBM is partnering with HackerOne to offer a bug bounty program for Granite, with up to $100,000 in bounty payouts available. The objective is to identify successful jailbreaks of Granite models deployed in enterprise-like settings with guardrails enabled, as businesses look to scale their AI workflows.</summary>
   </entry>
 </feed>

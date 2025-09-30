@@ -4,20 +4,48 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai</id>
-  <updated>Mon, 29 Sep 2025 05:45:04 +0000</updated>
+  <updated>Tue, 30 Sep 2025 05:41:33 +0000</updated>
   <entry>
-    <title>Why CVEs Belong in Frameworks and Apps, Not AI Models | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/why-cves-belong-in-frameworks-and-apps-not-ai-models/"/>
-    <id>https://developer.nvidia.com/blog/why-cves-belong-in-frameworks-and-apps-not-ai-models/</id>
-    <summary type="text">The Common Vulnerabilities and Exposures (CVE) system is the global standard for cataloging security flaws in software. Maintained by MITRE and backed by CISA, the program gives each vulnerability a…</summary>
-    <updated>Fri, 26 Sep 2025 16:31:23 +0000</updated>
+    <title>Unlock GPU Performance: Global Memory Access in CUDA | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/unlock-gpu-performance-global-memory-access-in-cuda/"/>
+    <id>https://developer.nvidia.com/blog/unlock-gpu-performance-global-memory-access-in-cuda/</id>
+    <summary type="text">Managing memory is one of the most important performance characteristics to consider when writing a GPU kernel. This post walks you through the important aspects you should know about global memory…</summary>
+    <updated>Mon, 29 Sep 2025 16:16:37 +0000</updated>
   </entry>
   <entry>
-    <title>NVIDIA Open Sources Audio2Face Animation Model | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/nvidia-open-sources-audio2face-animation-model/"/>
-    <id>https://developer.nvidia.com/blog/nvidia-open-sources-audio2face-animation-model/</id>
-    <summary type="text">By leveraging large language and speech models, generative AI is creating intelligent 3D avatars that can engage users in natural conversation, from video games to customer service.</summary>
-    <updated>Wed, 24 Sep 2025 17:00:00 +0000</updated>
+    <title>Streamline Robot Learning with Whole-Body Control and Enhanced Teleoperation in NVIDIA Isaac Lab 2.3 | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/streamline-robot-learning-with-whole-body-control-and-enhanced-teleoperation-in-nvidia-isaac-lab-2-3/"/>
+    <id>https://developer.nvidia.com/blog/streamline-robot-learning-with-whole-body-control-and-enhanced-teleoperation-in-nvidia-isaac-lab-2-3/</id>
+    <summary type="text">Training robot policies from real-world demonstrations is costly, slow, and prone to overfitting, limiting generalization across tasks and environments. A sim-first approach streamlines development…</summary>
+    <updated>Mon, 29 Sep 2025 15:12:20 +0000</updated>
+  </entry>
+  <entry>
+    <title>Train a Quadruped Locomotion Policy and Simulate Cloth Manipulation with NVIDIA Isaac Lab and Newton | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/train-a-quadruped-locomotion-policy-and-simulate-cloth-manipulation-with-nvidia-isaac-lab-and-newton/"/>
+    <id>https://developer.nvidia.com/blog/train-a-quadruped-locomotion-policy-and-simulate-cloth-manipulation-with-nvidia-isaac-lab-and-newton/</id>
+    <summary type="text">Physics plays a crucial role in robotic simulation, providing the foundation for accurate virtual representations of robot behavior and interactions within realistic environments.</summary>
+    <updated>Mon, 29 Sep 2025 15:11:31 +0000</updated>
+  </entry>
+  <entry>
+    <title>Smart Multi-Node Scheduling for Fast and Efficient LLM Inference with NVIDIA Run:ai and NVIDIA Dynamo | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/smart-multi-node-scheduling-for-fast-and-efficient-llm-inference-with-nvidia-runai-and-nvidia-dynamo/"/>
+    <id>https://developer.nvidia.com/blog/smart-multi-node-scheduling-for-fast-and-efficient-llm-inference-with-nvidia-runai-and-nvidia-dynamo/</id>
+    <summary type="text">The exponential growth in large language model complexity has created challenges, such as models too large for single GPUs, workloads that demand high throughput and low latency…</summary>
+    <updated>Mon, 29 Sep 2025 15:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>3 Easy Ways to Supercharge Your Robotics Development Using OpenUSD | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/3-easy-ways-to-supercharge-your-robotics-development-using-openusd/"/>
+    <id>https://developer.nvidia.com/blog/3-easy-ways-to-supercharge-your-robotics-development-using-openusd/</id>
+    <summary type="text">The increasing demand for robotics is driving the need for physics-accurate simulation at an unprecedented scale. Universal Scene Description (OpenUSD) is key to this transformation…</summary>
+    <updated>Mon, 29 Sep 2025 15:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Advancing Robotics Development with Neural Dynamics in Newton | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/advancing-robotics-development-with-neural-dynamics-in-newton/"/>
+    <id>https://developer.nvidia.com/blog/advancing-robotics-development-with-neural-dynamics-in-newton/</id>
+    <summary type="text">Modern robotics requires more than what classical analytic dynamics provides because of simplified contacts, omitted kinematic loops, and non-differentiable models. Neural Robot Dynamics (NeRD)…</summary>
+    <updated>Mon, 29 Sep 2025 15:00:00 +0000</updated>
   </entry>
   <entry>
     <title>Canada Goes All In on AI: NVIDIA Joins Nations’ Technology Leaders in Montreal to Shape Sovereign AI Strategy</title>
@@ -25,13 +53,6 @@
     <id>https://blogs.nvidia.com/blog/canada-all-in/</id>
     <summary type="text">NVIDIA’s Kari Briski joins Canada’s AI Minister Evan Solomon and Cohere’s Aidan Gomez in a panel this week, as TELUS unveils Canada’s first fully sovereign AI factory in Rimouski and RBC Capital Markets creates AI agents for financial services.</summary>
     <updated>Wed, 24 Sep 2025 16:20:41 +0000</updated>
-  </entry>
-  <entry>
-    <title>Build a Retrieval-Augmented Generation (RAG) Agent with NVIDIA Nemotron | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemotron/"/>
-    <id>https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemotron/</id>
-    <summary type="text">Unlike traditional LLM-based systems that are limited by their training data, retrieval-augmented generation (RAG) improves text generation by incorporating relevant external information.</summary>
-    <updated>Tue, 23 Sep 2025 15:00:00 +0000</updated>
   </entry>
   <entry>
     <title>NVIDIA, OpenAI Announce &#x27;the Biggest AI Infrastructure Deployment in History&#x27;</title>
@@ -46,27 +67,6 @@
     <id>https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/</id>
     <summary type="text">NVIDIA founder and CEO Jensen Huang discussed the UK’s plans to become an AI superpower with UK Prime Minister Keir Starmer, UK Secretary of State for Science, Innovation and Technology Liz Kendall, UK Secretary of State for Business and Trade Peter Kyle, and US Secretary of Commerce Howard Lutnick.</summary>
     <updated>Thu, 18 Sep 2025 21:21:03 +0000</updated>
-  </entry>
-  <entry>
-    <title>An Introduction to Speculative Decoding for Reducing Latency in AI Inference | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference/"/>
-    <id>https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference/</id>
-    <summary type="text">Generating text with large language models (LLMs) often involves running into a fundamental bottleneck. GPUs offer massive compute, yet much of that power sits idle because autoregressive generation…</summary>
-    <updated>Wed, 17 Sep 2025 18:09:12 +0000</updated>
-  </entry>
-  <entry>
-    <title>Build a Report Generator AI Agent with NVIDIA Nemotron on OpenRouter | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/build-a-report-generator-ai-agent-with-nvidia-nemotron-on-openrouter/"/>
-    <id>https://developer.nvidia.com/blog/build-a-report-generator-ai-agent-with-nvidia-nemotron-on-openrouter/</id>
-    <summary type="text">Unlike traditional systems that follow predefined paths, AI agents are autonomous systems that use large language models (LLMs) to make decisions, adapt to changing requirements…</summary>
-    <updated>Mon, 15 Sep 2025 19:31:45 +0000</updated>
-  </entry>
-  <entry>
-    <title>NVIDIA Blackwell Ultra Sets New Inference Records in MLPerf Debut | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/nvidia-blackwell-ultra-sets-new-inference-records-in-mlperf-debut/"/>
-    <id>https://developer.nvidia.com/blog/nvidia-blackwell-ultra-sets-new-inference-records-in-mlperf-debut/</id>
-    <summary type="text">As large language models (LLMs) grow larger, they get smarter, with open models from leading developers now featuring hundreds of billions of parameters. At the same time, today’s leading models are…</summary>
-    <updated>Tue, 09 Sep 2025 15:00:00 +0000</updated>
   </entry>
   <entry>
     <title>Unlocking the potential of manufacturing with cloud modernization - Microsoft Industry Blogs</title>
@@ -201,6 +201,12 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <summary type="text">Today we are announcing Genie 3, a general purpose world model that can generate an unprecedented diversity of interactive environments. Given a text prompt, Genie 3 can generate dynamic worlds...</summary>
   </entry>
   <entry>
+    <title>Introducing Claude Sonnet 4.5</title>
+    <link href="https://www.anthropic.com/news/claude-sonnet-4-5"/>
+    <id>https://www.anthropic.com/news/claude-sonnet-4-5</id>
+    <summary type="text">Claude Sonnet 4.5 is the best coding model in the world, strongest model for building complex agents, and best model at using computers.</summary>
+  </entry>
+  <entry>
     <title>Thoughts on America’s AI Action Plan</title>
     <link href="https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan"/>
     <id>https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</id>
@@ -213,10 +219,16 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <summary type="text">Anthropic has completed a Series F fundraising of $13 billion led by ICONIQ. This financing values Anthropic at $183 billion post-money. Along with ICONIQ, the round was co-led by Fidelity Management &amp; Research Company and Lightspeed Venture Partners. The investment reflects Anthropic’s continued momentum and reinforces our position as the leading intelligence platform for enterprises, developers, and power users.</summary>
   </entry>
   <entry>
-    <title>Claude Opus 4.1</title>
-    <link href="https://www.anthropic.com/news/claude-opus-4-1"/>
-    <id>https://www.anthropic.com/news/claude-opus-4-1</id>
-    <summary type="text">Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.</summary>
+    <title>Enabling Claude Code to work more autonomously</title>
+    <link href="https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously"/>
+    <id>https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously</id>
+    <summary type="text">Introducing Claude Code upgrades: native VS Code extension, terminal UX updates, and checkpoints for autonomous development. Handle complex tasks with confidence.</summary>
+  </entry>
+  <entry>
+    <title>Managing context on the Claude Developer Platform</title>
+    <link href="https://www.anthropic.com/news/context-management"/>
+    <id>https://www.anthropic.com/news/context-management</id>
+    <summary type="text">We&#x27;re introducing new capabilities for managing your agents’ context on the Claude Developer Platform: context editing and the memory tool.</summary>
   </entry>
   <entry>
     <title>Anthropic expands global leadership in enterprise AI, naming Chris Ciauri as Managing Director of International</title>
@@ -225,40 +237,22 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <summary type="text">Chris Ciauri joins Anthropic as Managing Director of International, adding to our global leadership team as we expand our worldwide presence.</summary>
   </entry>
   <entry>
-    <title>Claude now available in Microsoft 365 Copilot</title>
-    <link href="https://www.anthropic.com/news/claude-now-available-in-microsoft-365-copilot"/>
-    <id>https://www.anthropic.com/news/claude-now-available-in-microsoft-365-copilot</id>
-    <summary type="text">Claude models are now available in Microsoft 365 Copilot, bringing Claude to millions of enterprise users through Microsoft&#x27;s productivity platform.</summary>
-  </entry>
-  <entry>
-    <title>Claude is now generally available in Xcode</title>
-    <link href="https://www.anthropic.com/news/claude-in-xcode"/>
-    <id>https://www.anthropic.com/news/claude-in-xcode</id>
-    <summary type="text">Connect your Claude account to Xcode 26 for AI-powered coding assistance. Debug, refactor, and build Apple apps faster with Claude Sonnet 4 by Anthropic.</summary>
-  </entry>
-  <entry>
     <title>Latest News from Google Research Blog - Google Research</title>
     <link href="https://ai.googleblog.com/"/>
     <id>https://ai.googleblog.com/</id>
     <summary type="text">We strive to create an environment conducive to many different types of research across many different time scales and levels of risk.</summary>
   </entry>
   <entry>
+    <title>NVIDIA Accelerates Robotics Research and Development With New Open Models and Simulation Libraries</title>
+    <link href="https://nvidianews.nvidia.com/news/nvidia-accelerates-robotics-research-and-development-with-new-open-models-and-simulation-libraries"/>
+    <id>https://nvidianews.nvidia.com/news/nvidia-accelerates-robotics-research-and-development-with-new-open-models-and-simulation-libraries</id>
+    <summary type="text">NVIDIA today announced that the open‑source Newton Physics Engine is now available in NVIDIA Isaac™ Lab, along with the open NVIDIA Isaac GR00T N1.6 reasoning vision language action model for robot skills and new AI infrastructure.</summary>
+  </entry>
+  <entry>
     <title>OpenAI and NVIDIA Announce Strategic Partnership to Deploy 10 Gigawatts of NVIDIA Systems</title>
     <link href="https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems"/>
     <id>https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems</id>
     <summary type="text">OpenAI and NVIDIA today announced a letter of intent for a landmark strategic partnership to deploy at least 10 gigawatts of NVIDIA systems for OpenAI’s next-generation AI infrastructure to train and run its next generation of models on the path to deploying superintelligence.</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA and Intel to Develop AI Infrastructure and Personal Computing Products</title>
-    <link href="https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products"/>
-    <id>https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products</id>
-    <summary type="text">NVIDIA (NASDAQ: NVDA) and Intel Corporation (NASDAQ: INTC) today announced a collaboration to jointly develop multiple generations of custom data center and PC products that accelerate applications and workloads across hyperscale, enterprise and consumer markets.</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA Announces £2 Billion Investment in the United Kingdom AI Startup Ecosystem</title>
-    <link href="https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem"/>
-    <id>https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem</id>
-    <summary type="text">NVIDIA today announced an investment of £2 billion in the U.K. market to catalyze the nation’s AI startup ecosystem and scale the next generation of globally transformative AI businesses.</summary>
   </entry>
   <entry>
     <title>Data Center Archives</title>
@@ -303,22 +297,22 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <summary type="text">Healthcare and Life Sciences Archives</summary>
   </entry>
   <entry>
-    <title>Category: Content Creation / Rendering | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/category/graphics/"/>
-    <id>https://developer.nvidia.com/blog/category/graphics/</id>
-    <summary type="text">Category: Content Creation / Rendering | NVIDIA Technical Blog</summary>
-  </entry>
-  <entry>
-    <title>Category: Generative AI | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/category/generative-ai/"/>
-    <id>https://developer.nvidia.com/blog/category/generative-ai/</id>
-    <summary type="text">Category: Generative AI | NVIDIA Technical Blog</summary>
+    <title>Category: Robotics | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/category/robotics/"/>
+    <id>https://developer.nvidia.com/blog/category/robotics/</id>
+    <summary type="text">Category: Robotics | NVIDIA Technical Blog</summary>
   </entry>
   <entry>
     <title>Category: Data Center / Cloud | NVIDIA Technical Blog</title>
     <link href="https://developer.nvidia.com/blog/category/data-center-cloud/"/>
     <id>https://developer.nvidia.com/blog/category/data-center-cloud/</id>
     <summary type="text">Category: Data Center / Cloud | NVIDIA Technical Blog</summary>
+  </entry>
+  <entry>
+    <title>Category: Simulation / Modeling / Design | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/category/simulation-modeling-design/"/>
+    <id>https://developer.nvidia.com/blog/category/simulation-modeling-design/</id>
+    <summary type="text">Category: Simulation / Modeling / Design | NVIDIA Technical Blog</summary>
   </entry>
   <entry>
     <title>Recent posts</title>
@@ -385,5 +379,11 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <link href="https://www.microsoft.com/en-us/industry/blog/financial-services/"/>
     <id>https://www.microsoft.com/en-us/industry/blog/financial-services/</id>
     <summary type="text">Read the latest news and posts about Financial services from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
+  </entry>
+  <entry>
+    <title>Government - Microsoft Industry Blogs</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/government/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/government/</id>
+    <summary type="text">Read the latest news and posts about Government from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
   </entry>
 </feed>

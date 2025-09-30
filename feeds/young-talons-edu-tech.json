@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/young-talons-edu-tech.json",
   "items": [
     {
+      "id": "https://www.edsurge.com/news/2025-09-29-how-the-supreme-court-is-remolding-education-in-2025",
+      "url": "https://www.edsurge.com/news/2025-09-29-how-the-supreme-court-is-remolding-education-in-2025",
+      "title": "How the Supreme Court Is Remolding Education in 2025 - EdSurge News",
+      "content_text": "It isn’t just the executive branch changing education for American K-12 students. The Supreme Court has leapt in.",
+      "attachments": [
+        {
+          "url": "https://edsurge.imgix.net/uploads/post/image/16453/shutterstock_2109212408-1759120185.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "young-talons-edu-tech"
+      ]
+    },
+    {
       "id": "https://www.edsurge.com/news/2025-09-25-the-world-s-classrooms-are-short-44-million-teachers",
       "url": "https://www.edsurge.com/news/2025-09-25-the-world-s-classrooms-are-short-44-million-teachers",
       "title": "The World's Classrooms Are Short 44 Million Teachers - EdSurge News",
@@ -80,21 +95,6 @@
       ]
     },
     {
-      "id": "https://www.edsurge.com/news/2025-09-18-teaching-through-the-latest-industrial-revolution",
-      "url": "https://www.edsurge.com/news/2025-09-18-teaching-through-the-latest-industrial-revolution",
-      "title": "Teaching Through the Latest Industrial Revolution  - EdSurge News",
-      "content_text": "Almost three years into the ChatGPT frenzy, and we’ve heard it all about AI. Ever since ChatGPT was released, and kids started writing essays with AI, ...",
-      "attachments": [
-        {
-          "url": "https://edsurge.imgix.net/uploads/post/image/16444/shutterstock_786572845-1757966727.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "young-talons-edu-tech"
-      ]
-    },
-    {
       "id": "https://www.edsurge.com/news/early-childhood",
       "url": "https://www.edsurge.com/news/early-childhood",
       "title": "Early Childhood - News - EdSurge",
@@ -158,7 +158,7 @@
       "id": "https://hechingerreport.org/category/news/",
       "url": "https://hechingerreport.org/category/news/",
       "title": "News Archives - The Hechinger Report",
-      "content_text": "For many Americans, the specter of missing children evokes forlorn images on milk cartons or Amber alerts on cell phones. But a new report from the Brookings Institution suggests that the pandemic may have created a new generation of lost kids — this time, from classrooms.  This story also appeared in Mind/Shift Lost but not […]",
+      "content_text": "In his first two months in office, President Donald Trump ordered the closing of the Education Department and fired half of its staff. The department’s research and statistics division, called the Institute of Education Sciences (IES), was particularly hard hit. About 90 percent of its staff lost their jobs and more than 100 federal contracts […]",
       "attachments": [
         {
           "url": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2016/09/Hechinger_social_avatar.png?fit=229%2C230&ssl=1",
@@ -191,7 +191,7 @@
       "id": "https://news.mit.edu/topic/machine-learning",
       "url": "https://news.mit.edu/topic/machine-learning",
       "title": "Machine learning | MIT News | Massachusetts Institute of Technology",
-      "content_text": "The new “CRESt” platform could help find solutions to real-world energy problems that have plagued the materials science and engineering community for decades.",
+      "content_text": "Explosive growth of AI data centers is expected to increase greenhouse gas emissions. Researchers are now seeking solutions to reduce these environmental harms.",
       "tags": [
         "young-talons-edu-tech"
       ]
@@ -200,7 +200,7 @@
       "id": "https://news.mit.edu/topic/sustainability",
       "url": "https://news.mit.edu/topic/sustainability",
       "title": "Sustainability | MIT News | Massachusetts Institute of Technology",
-      "content_text": "The collaboration has led to new fuels and a variety of other projects to enable clean, safe nuclear energy.",
+      "content_text": "A lantern created in the Design Intelligence Lab creates sustainable alternatives for consumer electronics.",
       "tags": [
         "young-talons-edu-tech"
       ]

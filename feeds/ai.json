@@ -5,13 +5,66 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.json",
   "items": [
     {
-      "id": "https://developer.nvidia.com/blog/why-cves-belong-in-frameworks-and-apps-not-ai-models/",
-      "url": "https://developer.nvidia.com/blog/why-cves-belong-in-frameworks-and-apps-not-ai-models/",
-      "title": "Why CVEs Belong in Frameworks and Apps, Not AI Models | NVIDIA Technical Blog",
-      "content_text": "The Common Vulnerabilities and Exposures (CVE) system is the global standard for cataloging security flaws in software. Maintained by MITRE and backed by CISA, the program gives each vulnerability a…",
+      "id": "https://developer.nvidia.com/blog/unlock-gpu-performance-global-memory-access-in-cuda/",
+      "url": "https://developer.nvidia.com/blog/unlock-gpu-performance-global-memory-access-in-cuda/",
+      "title": "Unlock GPU Performance: Global Memory Access in CUDA | NVIDIA Technical Blog",
+      "content_text": "Managing memory is one of the most important performance characteristics to consider when writing a GPU kernel. This post walks you through the important aspects you should know about global memory…",
       "attachments": [
         {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/genai-blog-3104222-1920x1080-1.jpg",
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/04/blackwell-cuda-12-9-family-specific-featured.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/streamline-robot-learning-with-whole-body-control-and-enhanced-teleoperation-in-nvidia-isaac-lab-2-3/",
+      "url": "https://developer.nvidia.com/blog/streamline-robot-learning-with-whole-body-control-and-enhanced-teleoperation-in-nvidia-isaac-lab-2-3/",
+      "title": "Streamline Robot Learning with Whole-Body Control and Enhanced Teleoperation in NVIDIA Isaac Lab 2.3 | NVIDIA Technical Blog",
+      "content_text": "Training robot policies from real-world demonstrations is costly, slow, and prone to overfitting, limiting generalization across tasks and environments. A sim-first approach streamlines development…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/pbt-lift-1-500x282.gif",
+          "mime_type": "image/gif"
+        },
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/Locomanipulation-Teacher-Policy-Robomimic-Policy-1-1.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/train-a-quadruped-locomotion-policy-and-simulate-cloth-manipulation-with-nvidia-isaac-lab-and-newton/",
+      "url": "https://developer.nvidia.com/blog/train-a-quadruped-locomotion-policy-and-simulate-cloth-manipulation-with-nvidia-isaac-lab-and-newton/",
+      "title": "Train a Quadruped Locomotion Policy and Simulate Cloth Manipulation with NVIDIA Isaac Lab and Newton | NVIDIA Technical Blog",
+      "content_text": "Physics plays a crucial role in robotic simulation, providing the foundation for accurate virtual representations of robot behavior and interactions within realistic environments.",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/newton-1.png",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/anymal-sim2sim-results.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/smart-multi-node-scheduling-for-fast-and-efficient-llm-inference-with-nvidia-runai-and-nvidia-dynamo/",
+      "url": "https://developer.nvidia.com/blog/smart-multi-node-scheduling-for-fast-and-efficient-llm-inference-with-nvidia-runai-and-nvidia-dynamo/",
+      "title": "Smart Multi-Node Scheduling for Fast and Efficient LLM Inference with NVIDIA Run:ai and NVIDIA Dynamo | NVIDIA Technical Blog",
+      "content_text": "The exponential growth in large language model complexity has created challenges, such as models too large for single GPUs, workloads that demand high throughput and low latency…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/inference-nvidia-dynamo-blog-1280x680-1-e1758728822171.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -20,13 +73,28 @@
       ]
     },
     {
-      "id": "https://developer.nvidia.com/blog/nvidia-open-sources-audio2face-animation-model/",
-      "url": "https://developer.nvidia.com/blog/nvidia-open-sources-audio2face-animation-model/",
-      "title": "NVIDIA Open Sources Audio2Face Animation Model | NVIDIA Technical Blog",
-      "content_text": "By leveraging large language and speech models, generative AI is creating intelligent 3D avatars that can engage users in natural conversation, from video games to customer service.",
+      "id": "https://developer.nvidia.com/blog/3-easy-ways-to-supercharge-your-robotics-development-using-openusd/",
+      "url": "https://developer.nvidia.com/blog/3-easy-ways-to-supercharge-your-robotics-development-using-openusd/",
+      "title": "3 Easy Ways to Supercharge Your Robotics Development Using OpenUSD | NVIDIA Technical Blog",
+      "content_text": "The increasing demand for robotics is driving the need for physics-accurate simulation at an unprecedented scale. Universal Scene Description (OpenUSD) is key to this transformation…",
       "attachments": [
         {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/NVIDIA-Open-Source-Audio2Face-video-500x282.gif",
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/OpenUSD-robotics.gif",
+          "mime_type": "image/gif"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/advancing-robotics-development-with-neural-dynamics-in-newton/",
+      "url": "https://developer.nvidia.com/blog/advancing-robotics-development-with-neural-dynamics-in-newton/",
+      "title": "Advancing Robotics Development with Neural Dynamics in Newton | NVIDIA Technical Blog",
+      "content_text": "Modern robotics requires more than what classical analytic dynamics provides because of simplified contacts, omitted kinematic loops, and non-differentiable models. Neural Robot Dynamics (NeRD)…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/NeRD-500x282.gif",
           "mime_type": "image/gif"
         }
       ],
@@ -47,21 +115,6 @@
         {
           "url": "https://www.youtube.com/embed/U24AuyPMi74?start=105",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemotron/",
-      "url": "https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemotron/",
-      "title": "Build a Retrieval-Augmented Generation (RAG) Agent with NVIDIA Nemotron | NVIDIA Technical Blog",
-      "content_text": "Unlike traditional LLM-based systems that are limited by their training data, retrieval-augmented generation (RAG) improves text generation by incorporating relevant external information.",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/blog-rag-agent-workshop-tech-blog-1920x1080-1.png",
-          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -98,53 +151,8 @@
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://www.youtube.com/embed/3GhckKPLDd4?feature=oembed",
+          "url": "https://www.youtube.com/embed/9okNvX89U_c?feature=oembed",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference/",
-      "url": "https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference/",
-      "title": "An Introduction to Speculative Decoding for Reducing Latency in AI Inference | NVIDIA Technical Blog",
-      "content_text": "Generating text with large language models (LLMs) often involves running into a fundamental bottleneck. GPUs offer massive compute, yet much of that power sits idle because autoregressive generation…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/inference-speculative-decoding-llama-eagle.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/build-a-report-generator-ai-agent-with-nvidia-nemotron-on-openrouter/",
-      "url": "https://developer.nvidia.com/blog/build-a-report-generator-ai-agent-with-nvidia-nemotron-on-openrouter/",
-      "title": "Build a Report Generator AI Agent with NVIDIA Nemotron on OpenRouter | NVIDIA Technical Blog",
-      "content_text": "Unlike traditional systems that follow predefined paths, AI agents are autonomous systems that use large language models (LLMs) to make decisions, adapt to changing requirements…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/llm-promo-chat-labs-blog2-blog-3419377-1920x1080-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/nvidia-blackwell-ultra-sets-new-inference-records-in-mlperf-debut/",
-      "url": "https://developer.nvidia.com/blog/nvidia-blackwell-ultra-sets-new-inference-records-in-mlperf-debut/",
-      "title": "NVIDIA Blackwell Ultra Sets New Inference Records in MLPerf Debut | NVIDIA Technical Blog",
-      "content_text": "As large language models (LLMs) grow larger, they get smarter, with open models from leading developers now featuring hundreds of billions of parameters. At the same time, today’s leading models are…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/grace-tech-blog-gb300-nvl72-1920x1080-r1.png",
-          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -468,6 +476,21 @@
       ]
     },
     {
+      "id": "https://www.anthropic.com/news/claude-sonnet-4-5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-4-5",
+      "title": "Introducing Claude Sonnet 4.5",
+      "content_text": "Claude Sonnet 4.5 is the best coding model in the world, strongest model for building complex agents, and best model at using computers.",
+      "attachments": [
+        {
+          "url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand+HeadCube&backgroundColor=clay",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
       "url": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
       "title": "Thoughts on America’s AI Action Plan",
@@ -498,13 +521,28 @@
       ]
     },
     {
-      "id": "https://www.anthropic.com/news/claude-opus-4-1",
-      "url": "https://www.anthropic.com/news/claude-opus-4-1",
-      "title": "Claude Opus 4.1",
-      "content_text": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "id": "https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously",
+      "url": "https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously",
+      "title": "Enabling Claude Code to work more autonomously",
+      "content_text": "Introducing Claude Code upgrades: native VS Code extension, terminal UX updates, and checkpoints for autonomous development. Handle complex tasks with confidence.",
       "attachments": [
         {
-          "url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand+HeadShapes&backgroundColor=clay",
+          "url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand+ShapeArrow&backgroundColor=clay",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://www.anthropic.com/news/context-management",
+      "url": "https://www.anthropic.com/news/context-management",
+      "title": "Managing context on the Claude Developer Platform",
+      "content_text": "We're introducing new capabilities for managing your agents’ context on the Claude Developer Platform: context editing and the memory tool.",
+      "attachments": [
+        {
+          "url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand+NodeWeb&backgroundColor=clay",
           "mime_type": "image/jpeg"
         }
       ],
@@ -528,36 +566,6 @@
       ]
     },
     {
-      "id": "https://www.anthropic.com/news/claude-now-available-in-microsoft-365-copilot",
-      "url": "https://www.anthropic.com/news/claude-now-available-in-microsoft-365-copilot",
-      "title": "Claude now available in Microsoft 365 Copilot",
-      "content_text": "Claude models are now available in Microsoft 365 Copilot, bringing Claude to millions of enterprise users through Microsoft's productivity platform.",
-      "attachments": [
-        {
-          "url": "https://www.anthropic.com/api/opengraph-illustration?name=Node+Cursor&backgroundColor=clay",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://www.anthropic.com/news/claude-in-xcode",
-      "url": "https://www.anthropic.com/news/claude-in-xcode",
-      "title": "Claude is now generally available in Xcode",
-      "content_text": "Connect your Claude account to Xcode 26 for AI-powered coding assistance. Debug, refactor, and build Apple apps faster with Claude Sonnet 4 by Anthropic.",
-      "attachments": [
-        {
-          "url": "https://cdn.sanity.io/images/4zrzovbb/website/0daf4c734673d46413d8b2ad95e7f4249234473c-2400x1260.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "https://ai.googleblog.com/",
       "url": "https://ai.googleblog.com/",
       "title": "Latest News from Google Research Blog - Google Research",
@@ -573,13 +581,13 @@
       ]
     },
     {
-      "id": "https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems",
-      "url": "https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems",
-      "title": "OpenAI and NVIDIA Announce Strategic Partnership to Deploy 10 Gigawatts of NVIDIA Systems",
-      "content_text": "OpenAI and NVIDIA today announced a letter of intent for a landmark strategic partnership to deploy at least 10 gigawatts of NVIDIA systems for OpenAI’s next-generation AI infrastructure to train and run its next generation of models on the path to deploying superintelligence.",
+      "id": "https://nvidianews.nvidia.com/news/nvidia-accelerates-robotics-research-and-development-with-new-open-models-and-simulation-libraries",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-accelerates-robotics-research-and-development-with-new-open-models-and-simulation-libraries",
+      "title": "NVIDIA Accelerates Robotics Research and Development With New Open Models and Simulation Libraries",
+      "content_text": "NVIDIA today announced that the open‑source Newton Physics Engine is now available in NVIDIA Isaac™ Lab, along with the open NVIDIA Isaac GR00T N1.6 reasoning vision language action model for robot skills and new AI infrastructure.",
       "attachments": [
         {
-          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/202509/68d164573d63320d88f176b7_openai-and-nvidia/openai-and-nvidia_cbdd3def-150e-4b20-bf18-b15de5fb1eb0-prv.png",
+          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/202509/68da29813d6332546f0426c7_nvidia-corl-2025/nvidia-corl-2025_de46f7af-0808-4ecc-8cd1-d5e14ad83a57-prv.png",
           "mime_type": "image/png"
         }
       ],
@@ -588,29 +596,14 @@
       ]
     },
     {
-      "id": "https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products",
-      "title": "NVIDIA and Intel to Develop AI Infrastructure and Personal Computing Products",
-      "content_text": "NVIDIA (NASDAQ: NVDA) and Intel Corporation (NASDAQ: INTC) today announced a collaboration to jointly develop multiple generations of custom data center and PC products that accelerate applications and workloads across hyperscale, enterprise and consumer markets.",
+      "id": "https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems",
+      "url": "https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems",
+      "title": "OpenAI and NVIDIA Announce Strategic Partnership to Deploy 10 Gigawatts of NVIDIA Systems",
+      "content_text": "OpenAI and NVIDIA today announced a letter of intent for a landmark strategic partnership to deploy at least 10 gigawatts of NVIDIA systems for OpenAI’s next-generation AI infrastructure to train and run its next generation of models on the path to deploying superintelligence.",
       "attachments": [
         {
-          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/202509/68cbe6953d63324b19567968_0ddda295-ba99-4ec9-b4c1-d5f3e2a83e7/0ddda295-ba99-4ec9-b4c1-d5f3e2a83e7_c5f3709f-5bf8-4d9a-8097-a20149241fe2-prv.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem",
-      "title": "NVIDIA Announces £2 Billion Investment in the United Kingdom AI Startup Ecosystem",
-      "content_text": "NVIDIA today announced an investment of £2 billion in the U.K. market to catalyze the nation’s AI startup ecosystem and scale the next generation of globally transformative AI businesses.",
-      "attachments": [
-        {
-          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/20258/68cc4a5b3d6332160038b7b1_nvidia-investment-uk-ai-startup-ecosystem/nvidia-investment-uk-ai-startup-ecosystem_059a49be-6e31-4eca-bfc9-ce7dcf993421-prv.jpg",
-          "mime_type": "image/jpeg"
+          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/202509/68d164573d63320d88f176b7_openai-and-nvidia/openai-and-nvidia_cbdd3def-150e-4b20-bf18-b15de5fb1eb0-prv.png",
+          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -731,25 +724,10 @@
       ]
     },
     {
-      "id": "https://developer.nvidia.com/blog/category/graphics/",
-      "url": "https://developer.nvidia.com/blog/category/graphics/",
-      "title": "Category: Content Creation / Rendering | NVIDIA Technical Blog",
-      "content_text": "Category: Content Creation / Rendering | NVIDIA Technical Blog",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2024/09/techblog-og.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/category/generative-ai/",
-      "url": "https://developer.nvidia.com/blog/category/generative-ai/",
-      "title": "Category: Generative AI | NVIDIA Technical Blog",
-      "content_text": "Category: Generative AI | NVIDIA Technical Blog",
+      "id": "https://developer.nvidia.com/blog/category/robotics/",
+      "url": "https://developer.nvidia.com/blog/category/robotics/",
+      "title": "Category: Robotics | NVIDIA Technical Blog",
+      "content_text": "Category: Robotics | NVIDIA Technical Blog",
       "attachments": [
         {
           "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2024/09/techblog-og.jpg",
@@ -765,6 +743,21 @@
       "url": "https://developer.nvidia.com/blog/category/data-center-cloud/",
       "title": "Category: Data Center / Cloud | NVIDIA Technical Blog",
       "content_text": "Category: Data Center / Cloud | NVIDIA Technical Blog",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2024/09/techblog-og.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/category/simulation-modeling-design/",
+      "url": "https://developer.nvidia.com/blog/category/simulation-modeling-design/",
+      "title": "Category: Simulation / Modeling / Design | NVIDIA Technical Blog",
+      "content_text": "Category: Simulation / Modeling / Design | NVIDIA Technical Blog",
       "attachments": [
         {
           "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2024/09/techblog-og.jpg",
@@ -930,6 +923,21 @@
       "url": "https://www.microsoft.com/en-us/industry/blog/financial-services/",
       "title": "Financial services - Microsoft Industry Blogs",
       "content_text": "Read the latest news and posts about Financial services from Microsoft's team of experts at Microsoft Industry Blogs.",
+      "attachments": [
+        {
+          "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2019/01/cropped-microsoft_logo_element.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://www.microsoft.com/en-us/industry/blog/government/",
+      "url": "https://www.microsoft.com/en-us/industry/blog/government/",
+      "title": "Government - Microsoft Industry Blogs",
+      "content_text": "Read the latest news and posts about Government from Microsoft's team of experts at Microsoft Industry Blogs.",
       "attachments": [
         {
           "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2019/01/cropped-microsoft_logo_element.png",

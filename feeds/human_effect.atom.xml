@@ -4,7 +4,28 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/human_effect.atom.xml"/>
   <id>urn:4thwaveai-feeds:human_effect</id>
-  <updated>Mon, 29 Sep 2025 05:48:13 +0000</updated>
+  <updated>Tue, 30 Sep 2025 05:44:53 +0000</updated>
+  <entry>
+    <title>No Vacancy</title>
+    <link href="https://spectrum.ieee.org/steve-searcy-october-2025-poem"/>
+    <id>https://spectrum.ieee.org/steve-searcy-october-2025-poem</id>
+    <summary type="text">Read Steven Searcy’s poem from our October 2025 issue</summary>
+    <updated>Mon, 29 Sep 2025 18:00:04 +0000</updated>
+  </entry>
+  <entry>
+    <title>Maine’s Oyster Farmers Embrace Electric Workboats</title>
+    <link href="https://spectrum.ieee.org/electric-boats-aquaculture"/>
+    <id>https://spectrum.ieee.org/electric-boats-aquaculture</id>
+    <summary type="text">Can electric boats handle Maine&#x27;s cold winters? Learn how oyster farmers are testing the limits of battery-powered vessels in challenging conditions.</summary>
+    <updated>Mon, 29 Sep 2025 16:00:04 +0000</updated>
+  </entry>
+  <entry>
+    <title>The Plan to Send Tiny Probes to the Stars</title>
+    <link href="https://spectrum.ieee.org/high-speed-interstellar-travel"/>
+    <id>https://spectrum.ieee.org/high-speed-interstellar-travel</id>
+    <summary type="text">A new approach to interstellar travel could bring us close-up images of exoplanets in just 25 years.</summary>
+    <updated>Mon, 29 Sep 2025 13:00:03 +0000</updated>
+  </entry>
   <entry>
     <title>A Commodore 64 Cartridge Brings History to Life</title>
     <link href="https://spectrum.ieee.org/commodore-64-cartridge"/>
@@ -46,34 +67,6 @@
     <id>https://spectrum.ieee.org/microcredentials-semiconductor-workforce-development</id>
     <summary type="text">Short courses in semiconductor manufacturing are gaining traction, offering students a path to industry-ready skills and experience.</summary>
     <updated>Thu, 25 Sep 2025 13:00:03 +0000</updated>
-  </entry>
-  <entry>
-    <title>Is AI Making Entry-Level Tech Jobs Disappear?</title>
-    <link href="https://spectrum.ieee.org/ai-impact-on-job-market"/>
-    <id>https://spectrum.ieee.org/ai-impact-on-job-market</id>
-    <summary type="text">AI tools are changing the landscape for early-career software engineers, but senior roles remain stable.</summary>
-    <updated>Wed, 24 Sep 2025 13:00:02 +0000</updated>
-  </entry>
-  <entry>
-    <title>How to Measure Nothing Better</title>
-    <link href="https://spectrum.ieee.org/vacuum-measurement"/>
-    <id>https://spectrum.ieee.org/vacuum-measurement</id>
-    <summary type="text">How can atoms redefine our understanding of emptiness? Dive into the world of quantum sensors and find out.</summary>
-    <updated>Wed, 24 Sep 2025 11:02:08 +0000</updated>
-  </entry>
-  <entry>
-    <title>AI Is Redefining the Concept of a Programming Language&#x27;s Popularity</title>
-    <link href="https://spectrum.ieee.org/top-programming-languages-2025"/>
-    <id>https://spectrum.ieee.org/top-programming-languages-2025</id>
-    <summary type="text">Python reigns supreme again, but is AI changing the game for programming languages? Find out how coding is transforming.</summary>
-    <updated>Tue, 23 Sep 2025 17:44:36 +0000</updated>
-  </entry>
-  <entry>
-    <title>Top Programming Languages Methodology 2025</title>
-    <link href="https://spectrum.ieee.org/top-programming-languages-methodology-2025"/>
-    <id>https://spectrum.ieee.org/top-programming-languages-methodology-2025</id>
-    <summary type="text">How we construct the rankings</summary>
-    <updated>Tue, 23 Sep 2025 17:44:19 +0000</updated>
   </entry>
   <entry>
     <title>AI for healthcare, AI for humanity: ZTE’s vision for real-world impact</title>
@@ -318,6 +311,18 @@
     <summary type="text">Whether it is merely long-term hype or near-term reality, Large Language Models (LLMs) in medicine are well-positioned to engage with a wide range of medical tasks and be used for medical research purposes.</summary>
   </entry>
   <entry>
+    <title>The Download: AI to detect child abuse images, and what to expect from our 2025 Climate Tech Companies to Watch list</title>
+    <link href="https://www.technologyreview.com/2025/09/29/1124465/the-download-ai-to-detect-child-abuse-images-and-what-to-expect-from-our-2025-climate-tech-companies-to-watch-list/"/>
+    <id>https://www.technologyreview.com/2025/09/29/1124465/the-download-ai-to-detect-child-abuse-images-and-what-to-expect-from-our-2025-climate-tech-companies-to-watch-list/</id>
+    <summary type="text">Plus: OpenAI&#x27;s parental controls have come into force</summary>
+  </entry>
+  <entry>
+    <title>Coming soon: Our 2025 list of Climate Tech Companies to Watch</title>
+    <link href="https://www.technologyreview.com/2025/09/29/1124055/2025-climate-tech-companies-to-watch-preview/"/>
+    <id>https://www.technologyreview.com/2025/09/29/1124055/2025-climate-tech-companies-to-watch-preview/</id>
+    <summary type="text">The new edition of our annual list features startups and established businesses working to decarbonize transportation, heavy industry, energy, and more.</summary>
+  </entry>
+  <entry>
     <title>US investigators are using AI to detect child abuse images made by AI</title>
     <link href="https://www.technologyreview.com/2025/09/26/1124343/us-investigators-are-using-ai-to-detect-child-abuse-images-made-by-ai/"/>
     <id>https://www.technologyreview.com/2025/09/26/1124343/us-investigators-are-using-ai-to-detect-child-abuse-images-made-by-ai/</id>
@@ -366,22 +371,24 @@
     <summary type="text">Plus: Secret Service agents dismantled a giant operation to cripple cell networks.</summary>
   </entry>
   <entry>
-    <title>Trump is pushing leucovorin as a treatment for autism. What is it?</title>
-    <link href="https://www.technologyreview.com/2025/09/24/1124029/trump-leucovorin-autism-tylenol/"/>
-    <id>https://www.technologyreview.com/2025/09/24/1124029/trump-leucovorin-autism-tylenol/</id>
-    <summary type="text">The president also blamed the painkiller Tylenol for autism, but the evidence doesn’t stack up at all.</summary>
-  </entry>
-  <entry>
-    <title>The AI Hype Index: Cracking the chatbot code</title>
-    <link href="https://www.technologyreview.com/2025/09/24/1123999/the-ai-hype-index-cracking-the-chatbot-code/"/>
-    <id>https://www.technologyreview.com/2025/09/24/1123999/the-ai-hype-index-cracking-the-chatbot-code/</id>
-    <summary type="text">MIT Technology Review’s highly subjective take on the latest buzz about AI</summary>
-  </entry>
-  <entry>
     <title>The AI Ethics Brief #172: The State of AI Ethics in 2025: What&#x27;s Actually Working</title>
     <link href="https://montrealethics.ai/the-ai-ethics-brief-172-the-state-of-ai-ethics-in-2025-whats-actually-working/"/>
     <id>https://montrealethics.ai/the-ai-ethics-brief-172-the-state-of-ai-ethics-in-2025-whats-actually-working/</id>
     <summary type="text">SAIER Volume 7 Returns in November 2025 with Practical Solutions from Communities Leading the Way</summary>
+  </entry>
+  <entry>
+    <title>Array-scale MUT simulations powered by the cloud</title>
+    <link href="https://events.bizzabo.com/764786"/>
+    <id>https://events.bizzabo.com/764786</id>
+    <summary type="text">Designing and optimizing ultrasound transducers—whether PMUTs or CMUTs—requires accuracy at scale. 
+    
+    Yet traditional simulation approaches are often constrained to individual cells or limited structures, leaving important array-level effects poorly understood until expensive and time-consuming testing begins. 
+    
+    This gap can lead to longer development cycles and higher risk of failed devices.
+    
+    In this webinar, we will introduce the improved approach: full array-scale MUT simulations with fully coupled multiphysics. 
+    
+    By leveraging Quanscient’s cloud-native platform, engineers can model entire transducer arrays with all relevant physical interactions (electrical, mechanical, acoustic, and more) capturing system-level behaviors such as beam patterns and cross-t</summary>
   </entry>
   <entry>
     <title>Configuring and controlling complex test equipment setups for silicon device test and characterization</title>

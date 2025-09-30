@@ -53,8 +53,23 @@
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://www.youtube.com/embed/3GhckKPLDd4?feature=oembed",
+          "url": "https://www.youtube.com/embed/9okNvX89U_c?feature=oembed",
           "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://nvidianews.nvidia.com/news/nvidia-accelerates-robotics-research-and-development-with-new-open-models-and-simulation-libraries",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-accelerates-robotics-research-and-development-with-new-open-models-and-simulation-libraries",
+      "title": "NVIDIA Accelerates Robotics Research and Development With New Open Models and Simulation Libraries",
+      "content_text": "NVIDIA today announced that the open‑source Newton Physics Engine is now available in NVIDIA Isaac™ Lab, along with the open NVIDIA Isaac GR00T N1.6 reasoning vision language action model for robot skills and new AI infrastructure.",
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/202509/68da29813d6332546f0426c7_nvidia-corl-2025/nvidia-corl-2025_de46f7af-0808-4ecc-8cd1-d5e14ad83a57-prv.png",
+          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -70,36 +85,6 @@
         {
           "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/202509/68d164573d63320d88f176b7_openai-and-nvidia/openai-and-nvidia_cbdd3def-150e-4b20-bf18-b15de5fb1eb0-prv.png",
           "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "jensen-huang"
-      ]
-    },
-    {
-      "id": "https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products",
-      "title": "NVIDIA and Intel to Develop AI Infrastructure and Personal Computing Products",
-      "content_text": "NVIDIA (NASDAQ: NVDA) and Intel Corporation (NASDAQ: INTC) today announced a collaboration to jointly develop multiple generations of custom data center and PC products that accelerate applications and workloads across hyperscale, enterprise and consumer markets.",
-      "attachments": [
-        {
-          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/202509/68cbe6953d63324b19567968_0ddda295-ba99-4ec9-b4c1-d5f3e2a83e7/0ddda295-ba99-4ec9-b4c1-d5f3e2a83e7_c5f3709f-5bf8-4d9a-8097-a20149241fe2-prv.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jensen-huang"
-      ]
-    },
-    {
-      "id": "https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-investment-in-the-united-kingdom-ai-startup-ecosystem",
-      "title": "NVIDIA Announces £2 Billion Investment in the United Kingdom AI Startup Ecosystem",
-      "content_text": "NVIDIA today announced an investment of £2 billion in the U.K. market to catalyze the nation’s AI startup ecosystem and scale the next generation of globally transformative AI businesses.",
-      "attachments": [
-        {
-          "url": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/20258/68cc4a5b3d6332160038b7b1_nvidia-investment-uk-ai-startup-ecosystem/nvidia-investment-uk-ai-startup-ecosystem_059a49be-6e31-4eca-bfc9-ce7dcf993421-prv.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
