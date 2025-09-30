@@ -17,7 +17,7 @@
       "id": "https://www.nasa.gov/news/media-contacts/",
       "url": "https://www.nasa.gov/news/media-contacts/",
       "title": "NASA Media Contacts - NASA",
-      "content_text": "Media Contacts Roxana Bardan Mars Sample Return 771-200-7217 Gerelle Dodson NASA Workforce, STEM Engagement 202-358-1600 Jennifer Dooren Deputy News Chief,",
+      "content_text": "Media Contacts Gerelle Dodson NASA Workforce, STEM Engagement 202-358-1600 Jennifer Dooren Deputy News Chief, Cybersecurity 202-358-1600 Tiernan Doyle",
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
@@ -44,14 +44,29 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news-release/nasa-awards-custodial-landscaping-services-contract/",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-custodial-landscaping-services-contract/",
-      "title": "NASA Awards Custodial, Landscaping Services Contract - NASA",
-      "content_text": "NASA has selected Melwood Horticultural Training Center Inc. of Upper Marlboro, Maryland, to provide custodial, janitorial, landscaping, and recycling",
+      "id": "https://www.nasa.gov/news-release/nasa-blue-origin-invite-media-to-attend-mars-mission-launch/",
+      "url": "https://www.nasa.gov/news-release/nasa-blue-origin-invite-media-to-attend-mars-mission-launch/",
+      "title": "NASA, Blue Origin Invite Media to Attend Mars Mission Launch - NASA",
+      "content_text": "NASA and Blue Origin are reopening media accreditation for the launch of the agency’s ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers)",
       "attachments": [
         {
-          "url": "https://www.nasa.gov/wp-content/uploads/2024/08/meatball-w-black-background.webp",
-          "mime_type": "image/webp"
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/09/escapade1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-international-partners-deepen-commitment-to-artemis-accords/",
+      "url": "https://www.nasa.gov/news-release/nasa-international-partners-deepen-commitment-to-artemis-accords/",
+      "title": "NASA, International Partners Deepen Commitment to Artemis Accords - NASA",
+      "content_text": "NASA, along with leaders from global space agencies and government representatives worldwide, convened on Monday to further the implementation of the Artemis",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/09/iac3.jpg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -270,114 +285,6 @@
       ]
     },
     {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Uniquement les demandes de la presse)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.blueorigin.com/news/media-inquiries",
       "url": "https://www.blueorigin.com/news/media-inquiries",
       "title": "Submit a Media Inquiry | Blue Origin",
@@ -400,6 +307,21 @@
       "attachments": [
         {
           "url": "https://d3ezn0y6hdgq62.cloudfront.net/assets/og_feather_logo.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.blueorigin.com/news/blue-origin-luxembourg-partner-on-oasis-1-mission",
+      "url": "https://www.blueorigin.com/news/blue-origin-luxembourg-partner-on-oasis-1-mission",
+      "title": "Blue Origin and Luxembourg Partner on Oasis-1 Mission to Map Lunar Resources | Blue Origin",
+      "content_text": "Blue Origin today announced Project Oasis, a multi-phase initiative to identify key lunar resources from orbit, assess them on the ground, and harness them in situ.",
+      "attachments": [
+        {
+          "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/News_Oasis-1-Small-Sat.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -445,21 +367,6 @@
       "attachments": [
         {
           "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/starrybackground_weblarge.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.blueorigin.com/news/blue-origin-mars-telecommunications-orbiter",
-      "url": "https://www.blueorigin.com/news/blue-origin-mars-telecommunications-orbiter",
-      "title": "The Mission: Blue Origin’s Mars Telecommunications Orbiter | Blue Origin",
-      "content_text": "Built upon our existing and affordable Blue Ring platform, our Mars Telecommunications Orbiter is ready to support NASA’s Mars mission in 2028.",
-      "attachments": [
-        {
-          "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/MarsTelcomOrbiter_BlueOrigin_Rendering-1.jpg",
           "mime_type": "image/jpeg"
         }
       ],

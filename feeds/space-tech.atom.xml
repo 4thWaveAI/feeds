@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Tue, 30 Sep 2025 21:28:48 +0000</updated>
+  <updated>Tue, 30 Sep 2025 22:33:30 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -16,7 +16,7 @@
     <title>NASA Media Contacts - NASA</title>
     <link href="https://www.nasa.gov/news/media-contacts/"/>
     <id>https://www.nasa.gov/news/media-contacts/</id>
-    <summary type="text">Media Contacts Roxana Bardan Mars Sample Return 771-200-7217 Gerelle Dodson NASA Workforce, STEM Engagement 202-358-1600 Jennifer Dooren Deputy News Chief,</summary>
+    <summary type="text">Media Contacts Gerelle Dodson NASA Workforce, STEM Engagement 202-358-1600 Jennifer Dooren Deputy News Chief, Cybersecurity 202-358-1600 Tiernan Doyle</summary>
     <updated>Thu, 29 Jun 2023 14:53:17 -0400</updated>
   </entry>
   <entry>
@@ -27,10 +27,16 @@
     <updated>Wed, 07 Dec 2022 13:25:24 -0500</updated>
   </entry>
   <entry>
-    <title>NASA Awards Custodial, Landscaping Services Contract - NASA</title>
-    <link href="https://www.nasa.gov/news-release/nasa-awards-custodial-landscaping-services-contract/"/>
-    <id>https://www.nasa.gov/news-release/nasa-awards-custodial-landscaping-services-contract/</id>
-    <summary type="text">NASA has selected Melwood Horticultural Training Center Inc. of Upper Marlboro, Maryland, to provide custodial, janitorial, landscaping, and recycling</summary>
+    <title>NASA, Blue Origin Invite Media to Attend Mars Mission Launch - NASA</title>
+    <link href="https://www.nasa.gov/news-release/nasa-blue-origin-invite-media-to-attend-mars-mission-launch/"/>
+    <id>https://www.nasa.gov/news-release/nasa-blue-origin-invite-media-to-attend-mars-mission-launch/</id>
+    <summary type="text">NASA and Blue Origin are reopening media accreditation for the launch of the agency’s ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers)</summary>
+  </entry>
+  <entry>
+    <title>NASA, International Partners Deepen Commitment to Artemis Accords - NASA</title>
+    <link href="https://www.nasa.gov/news-release/nasa-international-partners-deepen-commitment-to-artemis-accords/"/>
+    <id>https://www.nasa.gov/news-release/nasa-international-partners-deepen-commitment-to-artemis-accords/</id>
+    <summary type="text">NASA, along with leaders from global space agencies and government representatives worldwide, convened on Monday to further the implementation of the Artemis</summary>
   </entry>
   <entry>
     <title>2025 News Releases - NASA</title>
@@ -111,78 +117,6 @@
     <summary type="text">NASA&#x27;s Jet Propulsion Laboratory, the leading center for robotic exploration of the solar system.</summary>
   </entry>
   <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/cz"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/cz</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/dk"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/dk</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/nl"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/nl</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/ee"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/ee</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/fi"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/fi</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/fr"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/fr</id>
-    <summary type="text">email: media @ esa.int (Uniquement les demandes de la presse)</summary>
-  </entry>
-  <entry>
     <title>Submit a Media Inquiry | Blue Origin</title>
     <link href="https://www.blueorigin.com/news/media-inquiries"/>
     <id>https://www.blueorigin.com/news/media-inquiries</id>
@@ -193,6 +127,12 @@
     <link href="https://www.blueorigin.com/news/gallery"/>
     <id>https://www.blueorigin.com/news/gallery</id>
     <summary type="text">Images available for download. Please credit Blue Origin.</summary>
+  </entry>
+  <entry>
+    <title>Blue Origin and Luxembourg Partner on Oasis-1 Mission to Map Lunar Resources | Blue Origin</title>
+    <link href="https://www.blueorigin.com/news/blue-origin-luxembourg-partner-on-oasis-1-mission"/>
+    <id>https://www.blueorigin.com/news/blue-origin-luxembourg-partner-on-oasis-1-mission</id>
+    <summary type="text">Blue Origin today announced Project Oasis, a multi-phase initiative to identify key lunar resources from orbit, assess them on the ground, and harness them in situ.</summary>
   </entry>
   <entry>
     <title>Florida Investment Matches Our Ambitious Growth Plans | Blue Origin</title>
@@ -211,12 +151,6 @@
     <link href="https://www.blueorigin.com/news/blue-alchemist-hits-major-milestone-toward-permanent-sustainable-lunar-infrastructure"/>
     <id>https://www.blueorigin.com/news/blue-alchemist-hits-major-milestone-toward-permanent-sustainable-lunar-infrastructure</id>
     <summary type="text">Blue Origin&#x27;s pioneering in-space resource utilization system, Blue Alchemist, has successfully completed its Critical Design Review, marking a transformative milestone toward humanity&#x27;s permanent expansion beyond Earth.</summary>
-  </entry>
-  <entry>
-    <title>The Mission: Blue Origin’s Mars Telecommunications Orbiter | Blue Origin</title>
-    <link href="https://www.blueorigin.com/news/blue-origin-mars-telecommunications-orbiter"/>
-    <id>https://www.blueorigin.com/news/blue-origin-mars-telecommunications-orbiter</id>
-    <summary type="text">Built upon our existing and affordable Blue Ring platform, our Mars Telecommunications Orbiter is ready to support NASA’s Mars mission in 2028.</summary>
   </entry>
   <entry>
     <title>News | Blue Origin</title>
