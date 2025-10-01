@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/young-talons-edu-tech.json",
   "items": [
     {
+      "id": "https://www.edsurge.com/news/2025-09-30-from-defense-to-resilience-where-school-cybersecurity-goes-next",
+      "url": "https://www.edsurge.com/news/2025-09-30-from-defense-to-resilience-where-school-cybersecurity-goes-next",
+      "title": "From Defense to Resilience: Where School Cybersecurity Goes Next - EdSurge News",
+      "content_text": "The future of cybersecurity in schools is to build resilience. As one district IT director puts it, “we’re asking how we can get in front of this and ...",
+      "attachments": [
+        {
+          "url": "https://edsurge.imgix.net/uploads/post/image/16451/shutterstock_1996823285-1758653671.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "young-talons-edu-tech"
+      ]
+    },
+    {
       "id": "https://www.edsurge.com/news/2025-09-29-how-the-supreme-court-is-remolding-education-in-2025",
       "url": "https://www.edsurge.com/news/2025-09-29-how-the-supreme-court-is-remolding-education-in-2025",
       "title": "How the Supreme Court Is Remolding Education in 2025 - EdSurge News",
@@ -72,21 +87,6 @@
       "attachments": [
         {
           "url": "https://edsurge.imgix.net/uploads/post/image/16445/shutterstock_2425657115-1758126971.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "young-talons-edu-tech"
-      ]
-    },
-    {
-      "id": "https://www.edsurge.com/news/2025-09-19-two-moms-and-trump-s-head-start-rule-child-care-shortages-meet-anti-immigrant-politics",
-      "url": "https://www.edsurge.com/news/2025-09-19-two-moms-and-trump-s-head-start-rule-child-care-shortages-meet-anti-immigrant-politics",
-      "title": "Two Moms and Trump’s Head Start Rule: Child Care Shortages Meet Anti-Immigrant Politics - EdSurge News",
-      "content_text": "Solangel, a Venezuelan immigrant, is the mother of a 7-year-old who blossomed at the Head Start preschool program he attended in a Denver suburb. He ...",
-      "attachments": [
-        {
-          "url": "https://edsurge.imgix.net/uploads/post/image/16446/Erin_Einhorn_Chalkbeat-1758285065.jpeg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
           "mime_type": "image/jpeg"
         }
       ],

@@ -5,6 +5,89 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.json",
   "items": [
     {
+      "id": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news",
+      "url": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news",
+      "title": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound",
+      "content_text": "Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/3c9e582/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff2%2Fe4%2F6f67188e480392ce0b19a6671b59%2Fspheres-rolling-blog-hero-1.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/QWQvaTXowao",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/devices/amazon-new-echo-devices-alexa-plus",
+      "url": "https://www.aboutamazon.com/news/devices/amazon-new-echo-devices-alexa-plus",
+      "title": "Amazon unveils the next generation of AI-powered Echo devices, purpose-built for Alexa+",
+      "content_text": "Introducing our most advanced Echo devices yet, featuring premium audio, next-generation AI processing and Omnisense sensor fusion for more proactive and personalized Alexa+ experiences.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/43ebda6/2147483647/strip/true/crop/2000x1000+0+62/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F07%2Ffe%2Fb51fae6a4b178f5ee434e6163ae9%2Fpanospanay-echo-2025.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/how-to-watch-nba-prime",
+      "url": "https://www.aboutamazon.com/news/entertainment/how-to-watch-nba-prime",
+      "title": "Prime Video introduces new immersive features to watch the NBA on Prime",
+      "content_text": "Features include opt-in personalized bet tracking with FanDuel, customizable Multiview, and AI-powered Key Moments and Rapid Recap.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/09689ff/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F28%2Fe7%2Fe627cace4c01890e3e4988b8726e%2Fabout-amazon-hero-nba-hero2-2000x1125.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/devices/new-amazon-kindle-scribe-color",
+      "url": "https://www.aboutamazon.com/news/devices/new-amazon-kindle-scribe-color",
+      "title": "Amazon unveils redesigned Kindle Scribe lineup with first-ever color Scribe",
+      "content_text": "The all-new Kindle Scribe lineup is thinner, lighter, and faster with new productivity features, including AI-powered notebook search.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/09bf3c7/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F37%2F3a%2Faaa39dba47c1a19fc1d79828fe9d%2Fkindle.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/prime-video-movies-tv-shows-originals-sports-october-2025",
+      "url": "https://www.aboutamazon.com/news/entertainment/prime-video-movies-tv-shows-originals-sports-october-2025",
+      "title": "What’s new on Prime Video in October, including ‘Play Dirty,’ ‘Hazbin Hotel,’ and more",
+      "content_text": "Check out what films, series, sports, and fresh episodes are premiering this month on the streaming service.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/a6d87af/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fc5%2Fec%2Fa3c1258f455ba38221d9b71c6b7a%2Fabout-amazon-inline-mateo-gabriel-alvarado-grofield-lakeith-stanfield-zen-rosa-salazar-colonel-ortiz-hemky-madera-and-parker-mark-wahlberg-in-play-dirty-photo-credit-jasin-boland-prime-amazon-content-services-llc-3000.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/6paP2-ry-QY",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/",
       "url": "https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/",
       "title": "Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace. - The Official Microsoft Blog",
@@ -107,21 +190,6 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/retail/amazon-prime-for-young-adults",
-      "url": "https://www.aboutamazon.com/news/retail/amazon-prime-for-young-adults",
-      "title": "Score big with Prime for Young Adults—Amazon’s discounted Prime membership",
-      "content_text": "Learn about the extraordinary value of the go-to Prime membership for 18-to-24-year-olds. Eligible new members can try it for six months for $0 and earn 5% cash back.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/f5d95eb/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F8e%2Ff3%2F714a5bea457ab79834d19f13ead4%2Fhero001-youngadult-amazon-prime-studentredesign-rivera-downtime-quad-2000x1125.JPG",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
       "id": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
       "url": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
       "title": "AlphaQubit tackles one of quantum computing’s biggest challenges",
@@ -134,66 +202,6 @@
       ],
       "tags": [
         "demis-hassabis"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/retail/amazon-prime-free-trial",
-      "url": "https://www.aboutamazon.com/news/retail/amazon-prime-free-trial",
-      "title": "How to sign up for a free trial of Prime before Prime Big Deal Days 2025",
-      "content_text": "Prime is packed with tons of great benefits—and you can start enjoying them for free today and ahead of Prime Big Deal Days this October.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/0fbc10d/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fd1%2Fca%2F93ed2147445ea7806166ce14883c%2Faa-feb2025-freeshippingwithoutprime-standard-hero-v2-2000x1125.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/retail/how-to-find-amazon-lightning-deals",
-      "url": "https://www.aboutamazon.com/news/retail/how-to-find-amazon-lightning-deals",
-      "title": "What are Amazon Lightning Deals and how to find them",
-      "content_text": "Lightning Deals are limited-time promotions that offer big savings on some of your favorite brands and products.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/bf6eb6e/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fbf%2F07%2F22b66b934a2fa38117439fea63a9%2Faa-062025-pd-lightningdeals-standard-hero-v1-600kb-2000x1125.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/retail/prime-benefits-that-will-save-you-money",
-      "url": "https://www.aboutamazon.com/news/retail/prime-benefits-that-will-save-you-money",
-      "title": "7 Prime benefits that will save you money",
-      "content_text": "It’s not just about free shipping and Prime Video. Prime keeps money back in your pocket.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/586e4f1/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F29%2F94%2Fa49b6a064bf19e75e8ee89e71b74%2F2025primeday-hero-2000x1125-10.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/retail/prime-membership-cost-benefits",
-      "url": "https://www.aboutamazon.com/news/retail/prime-membership-cost-benefits",
-      "title": "Here’s how much a Prime membership costs, and how to make the most of its benefits in time for Prime Big Deal Days this October",
-      "content_text": "Amazon Prime makes your life more convenient, simple, and fun, while saving you money every single day and during events like Prime Big Deal Days.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/ebf0dae/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F45%2F9c%2F14ea4d214798863d8752e37f174c%2Ffree-delivery-inline.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
       ]
     },
     {
@@ -230,7 +238,7 @@
       "id": "https://blogs.nvidia.com/blog/category/enterprise/",
       "url": "https://blogs.nvidia.com/blog/category/enterprise/",
       "title": "Data Center Archives",
-      "content_text": "On Tuesday, more than 800 attendees joined NVIDIA AI Day Ho Chi Minh City to learn about sovereign… Read Article",
+      "content_text": "Quantum computing promises to reshape industries — but progress hinges on solving key problems. Error correction. Simulations of… Read Article",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
@@ -294,7 +302,7 @@
       "id": "https://blogs.nvidia.com/blog/category/pro-graphics/",
       "url": "https://blogs.nvidia.com/blog/category/pro-graphics/",
       "title": "Pro Graphics Archives",
-      "content_text": "Editor’s note: This blog is a part of Into the Omniverse, a series focused on how developers, 3D… Read Article",
+      "content_text": "Building robots that can effectively operate alongside human workers in factories, hospitals and public spaces presents an enormous… Read Article",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
@@ -628,7 +636,7 @@
       "content_text": "Meet Taiki Hamamoto, Marina Lee, Luciana Ortiz Nolasco, and Nahom Worku, four winners of Apple’s 2025 Swift Student Challenge.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281742=",
+          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281636=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -658,7 +666,7 @@
       "content_text": "Captured on iPhone 16 Pro Max, a recent shoot by photographer Karston Tannis showcased the vibrancy of the African diaspora.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/02/capturing-paradise-karston-tannis-re-creates-island-vibes-with-iphone-16-pro-max/tile/Apple-Tannis-shot-on-iPhone-16-Pro-Max-group-shot-lp.jpg.og.jpg?202508281745=",
+          "url": "https://www.apple.com/newsroom/images/2025/02/capturing-paradise-karston-tannis-re-creates-island-vibes-with-iphone-16-pro-max/tile/Apple-Tannis-shot-on-iPhone-16-Pro-Max-group-shot-lp.jpg.og.jpg?202508281642=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -673,7 +681,7 @@
       "content_text": "The official source for news about Apple, from Apple. Read press releases, get updates, watch video and download images.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202509291501=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202509301917=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -688,7 +696,7 @@
       "content_text": "The source for news about Apple Services. Get updates on the latest Apple Arcade games, Apple Originals on TV+, Podcasts, Books, and more from Apple Newsroom.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1759158540332=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1759260324228=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -703,7 +711,7 @@
       "content_text": "Discover more stories from Apple Newsroom that showcase the creators, developers, and innovators leaving the world better than they found it.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1759158161648=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1759260691634=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -862,6 +870,21 @@
       ]
     },
     {
+      "id": "https://www.blueorigin.com/news/blue-origin-luxembourg-partner-on-oasis-1-mission",
+      "url": "https://www.blueorigin.com/news/blue-origin-luxembourg-partner-on-oasis-1-mission",
+      "title": "Blue Origin and Luxembourg Partner on Oasis-1 Mission to Map Lunar Resources | Blue Origin",
+      "content_text": "Blue Origin today announced Project Oasis, a multi-phase initiative to identify key lunar resources from orbit, assess them on the ground, and harness them in situ.",
+      "attachments": [
+        {
+          "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/News_Oasis-1-Small-Sat.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.blueorigin.com/news/florida-investment-matches-ambitious-growth-plans",
       "url": "https://www.blueorigin.com/news/florida-investment-matches-ambitious-growth-plans",
       "title": "Florida Investment Matches Our Ambitious Growth Plans | Blue Origin",
@@ -899,21 +922,6 @@
       "attachments": [
         {
           "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/starrybackground_weblarge.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.blueorigin.com/news/blue-origin-mars-telecommunications-orbiter",
-      "url": "https://www.blueorigin.com/news/blue-origin-mars-telecommunications-orbiter",
-      "title": "The Mission: Blue Origin’s Mars Telecommunications Orbiter | Blue Origin",
-      "content_text": "Built upon our existing and affordable Blue Ring platform, our Mars Telecommunications Orbiter is ready to support NASA’s Mars mission in 2028.",
-      "attachments": [
-        {
-          "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/MarsTelcomOrbiter_BlueOrigin_Rendering-1.jpg",
           "mime_type": "image/jpeg"
         }
       ],

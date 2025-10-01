@@ -5,6 +5,74 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
+      "id": "https://phys.org/news/2025-09-positive-carriers-stabilize-instantly-key.html",
+      "url": "https://phys.org/news/2025-09-positive-carriers-stabilize-instantly-key.html",
+      "title": "Positive charge carriers stabilize instantly in key solar fuel catalyst",
+      "content_text": "In a study appearing in Physical Chemistry Chemical Physics, researchers used quantum-chemical molecular dynamics simulations to visualize the ultrafast formation of polarons—charge carriers stabilized by lattice distortion—in NaTaO3, a key photocatalyst for solar water splitting.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2025/positive-charges-stabi.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-tiny-nanoparticles-conquer-big-polymer.html",
+      "url": "https://phys.org/news/2025-09-tiny-nanoparticles-conquer-big-polymer.html",
+      "title": "Tiny nanoparticles conquer the big three in polymer glasses: Strength, toughness and processability",
+      "content_text": "Scientists have found a nanoparticle-inspired solution to the age-old strength issue of polymer glasses. Seasoning the polymer glass recipe with single-chain nanoparticles, which are tiny, folded-up polymer strands, can make the glass stronger, tougher, and easier to process by acting as reinforcements.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2025/tiny-nanoparticles-con-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-braided-nanostructures-reveal-3d-tapestry.html",
+      "url": "https://phys.org/news/2025-09-braided-nanostructures-reveal-3d-tapestry.html",
+      "title": "Braided nanostructures reveal 3D tapestry behind vibrant green butterfly coloration",
+      "content_text": "The metamorphosis of butterflies from larvae to pupae to adulthood is a natural wonder. By investigating the developmental processes that occur within the pupa, transforming it into a butterfly, scientists have discovered a new twist in a process that forms an intricate nanostructure responsible for the vibrant green colors of their wings.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2025/researchers-explain-na.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://scx2.b-cdn.net/gfx/video/2025/researchers-explain-na.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-good-cholesterol-imaging-method-production.html",
+      "url": "https://phys.org/news/2025-09-good-cholesterol-imaging-method-production.html",
+      "title": "How is good cholesterol made? Imaging method shows production mechanism at molecular level",
+      "content_text": "High-density lipoproteins (HDL), also known as \"good cholesterol,\" remove excess cholesterol from the body's tissues and transport it to the liver. This process is known to prevent atherosclerosis, the build-up of plaque in the walls of arteries. Atherosclerosis is associated with deadly symptoms, including heart attacks, strokes, aneurysms, and blood clots. Despite the importance of HDLs, scientists still have a limited understanding of how they are made.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/how-is-good-cholestero.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://scx2.b-cdn.net/gfx/video/2025/how-is-good-cholestero.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://phys.org/news/2025-09-sensor-platform-nanopore-cameras-gases.html",
       "url": "https://phys.org/news/2025-09-sensor-platform-nanopore-cameras-gases.html",
       "title": "Sensor platform uses nanopore 'speed cameras' to pinpoint gases in complex mixtures",
@@ -35,25 +103,6 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-09-good-cholesterol-imaging-method-production.html",
-      "url": "https://phys.org/news/2025-09-good-cholesterol-imaging-method-production.html",
-      "title": "How is good cholesterol made? Imaging method shows production mechanism at molecular level",
-      "content_text": "High-density lipoproteins (HDL), also known as \"good cholesterol,\" remove excess cholesterol from the body's tissues and transport it to the liver. This process is known to prevent atherosclerosis, the build-up of plaque in the walls of arteries. Atherosclerosis is associated with deadly symptoms, including heart attacks, strokes, aneurysms, and blood clots. Despite the importance of HDLs, scientists still have a limited understanding of how they are made.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/how-is-good-cholestero.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://scx2.b-cdn.net/gfx/video/2025/how-is-good-cholestero.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
       "id": "https://phys.org/news/2025-09-scientists-microelectrode-array-neuronal-hibernation.html",
       "url": "https://phys.org/news/2025-09-scientists-microelectrode-array-neuronal-hibernation.html",
       "title": "Scientists develop microelectrode array for monitoring neuronal activity during hibernation",
@@ -69,13 +118,13 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-09-nanotubes-blood-bioengineered-tissues.html",
-      "url": "https://phys.org/news/2025-09-nanotubes-blood-bioengineered-tissues.html",
-      "title": "Researchers use nanotubes to improve blood flow in bioengineered tissues",
-      "content_text": "When biomedical researchers need to test their latest ideas, they often turn to engineered human tissue that mimics the responses in our own bodies. It's become an important intermediary step before human clinical trials.",
+      "id": "https://phys.org/news/2025-09-3d-bioprinting-advances-enable-creation.html",
+      "url": "https://phys.org/news/2025-09-3d-bioprinting-advances-enable-creation.html",
+      "title": "3D bioprinting advances enable creation of artificial blood vessels with layered structures",
+      "content_text": "To explore possible treatments for various diseases, either animal models or human cell cultures are usually used first; however, animal models do not always mimic human diseases well, and cultures are far removed from tissue complexity. Advances in 3D printing, together with knowledge of biomaterials, are making it possible to recreate complex 3D tissue models in the laboratory.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/researchers-use-nanotu-1.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/progress-in-the-field.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -84,13 +133,13 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-09-3d-bioprinting-advances-enable-creation.html",
-      "url": "https://phys.org/news/2025-09-3d-bioprinting-advances-enable-creation.html",
-      "title": "3D bioprinting advances enable creation of artificial blood vessels with layered structures",
-      "content_text": "To explore possible treatments for various diseases, either animal models or human cell cultures are usually used first; however, animal models do not always mimic human diseases well, and cultures are far removed from tissue complexity. Advances in 3D printing, together with knowledge of biomaterials, are making it possible to recreate complex 3D tissue models in the laboratory.",
+      "id": "https://phys.org/news/2025-09-nanotubes-blood-bioengineered-tissues.html",
+      "url": "https://phys.org/news/2025-09-nanotubes-blood-bioengineered-tissues.html",
+      "title": "Researchers use nanotubes to improve blood flow in bioengineered tissues",
+      "content_text": "When biomedical researchers need to test their latest ideas, they often turn to engineered human tissue that mimics the responses in our own bodies. It's become an important intermediary step before human clinical trials.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/progress-in-the-field.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/researchers-use-nanotu-1.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -144,48 +193,14 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-09-chilling-discovery-flexibility-ice-nanoscale.html",
-      "url": "https://phys.org/news/2025-09-chilling-discovery-flexibility-ice-nanoscale.html",
-      "title": "A chilling discovery: The surprising flexibility of ice at the nanoscale",
-      "content_text": "You'd think there's nothing surprising left to discover about water. After all, researchers have been studying its properties for centuries.",
+      "id": "https://www.sciencedaily.com/releases/2025/09/250929055000.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250929055000.htm",
+      "title": "The hidden forces inside diamonds that could make tech 1,000x faster",
+      "content_text": "A team of physicists has discovered that virtual charges, which exist only during brief interactions with light, play a critical role in ultrafast material responses. Using attosecond pulses on diamonds, they showed these hidden carriers significantly influence optical behavior. The findings could accelerate the development of petahertz-speed devices, unlocking a new era of ultrafast electronics.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/a-chilling-discovery-t.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://scx2.b-cdn.net/gfx/video/2025/a-chilling-discovery-t.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-multifunctional-liquid-metal-nanocomposites-cancer.html",
-      "url": "https://phys.org/news/2025-09-multifunctional-liquid-metal-nanocomposites-cancer.html",
-      "title": "Multifunctional liquid metal nanocomposites for cancer photoimmunotherapy successfully developed",
-      "content_text": "A research team led by Professor Eijiro Miyako from the Materials Chemistry Frontiers Research Area at Japan Advanced Institute of Science and Technology (JAIST) has successfully developed multifunctional nanocomposites by coating liquid metal surfaces with lactic acid bacteria components and near-infrared fluorescent dye (indocyanine green).",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/successful-development.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-broadband-photodetector-material-visible-infrared.html",
-      "url": "https://phys.org/news/2025-09-broadband-photodetector-material-visible-infrared.html",
-      "title": "Broadband photodetector material senses visible light to long-wave infrared, simplifying device design",
-      "content_text": "A research team in South Korea has developed a next-generation sensor material capable of integrating the detection of multiple light wavelengths.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/broadband-photodetecto.jpg",
-          "mime_type": "image/jpeg"
+          "url": "https://www.sciencedaily.com/images/1920/futuristic-energy-particles-ultrafast-electronics.webp",
+          "mime_type": "image/webp"
         }
       ],
       "tags": [
@@ -350,21 +365,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/iridium-catalyst.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/08/250827010717.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/08/250827010717.htm",
-      "title": "This tiny iron catalyst could transform the future of clean energy",
-      "content_text": "Hydrogen fuel cells could power cars, devices, and homes with nothing but water as a byproduct—but platinum’s cost holds them back. Chinese researchers have now unveiled a breakthrough iron-based catalyst that could rival platinum while boosting efficiency and durability. With its clever “inner activation, outer protection” design, this new catalyst not only reduces harmful byproducts but also shatters performance records, potentially paving the way for cleaner, cheaper, and more practical hydrogen energy.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/construction-of-cs-fen-c.webp",
           "mime_type": "image/webp"
         }
       ],

@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/quantum.atom.xml"/>
   <id>urn:4thwaveai-feeds:quantum</id>
-  <updated>Tue, 30 Sep 2025 05:42:04 +0000</updated>
+  <updated>Wed, 01 Oct 2025 05:43:40 +0000</updated>
   <entry>
     <title>IBM’s time-series foundation model reaches #2 on GIFT-Eval</title>
     <link href="https://research.ibm.com/blog/SSM-time-series-model"/>
@@ -12,16 +12,22 @@
     <summary type="text">The model uses a state space architecture to outperform time-series models at least 20 times bigger.</summary>
   </entry>
   <entry>
-    <title>How AI alignment differs from AI steering</title>
-    <link href="https://research.ibm.com/blog/map-measure-manage-gen-ai"/>
-    <id>https://research.ibm.com/blog/map-measure-manage-gen-ai</id>
-    <summary type="text">IBM Fellow Kush Varshney explains the difference, and provides an update on IBM’s latest work to mitigate the safety risks around generative AI.</summary>
+    <title>New AI model finds railroad defects before they’re critical</title>
+    <link href="https://research.ibm.com/blog/ai-model-discovers-railroad-defects-before-theyre-critical"/>
+    <id>https://research.ibm.com/blog/ai-model-discovers-railroad-defects-before-theyre-critical</id>
+    <summary type="text">A new AI model detects and tracks rail maintenance issues before they can cause problems, freeing up skilled workers from tedious inspections.</summary>
   </entry>
   <entry>
     <title>IBM and Vanguard explore quantum optimization for finance | IBM Quantum Computing Blog</title>
     <link href="https://research.ibm.com/blog/vanguard-portfolio-optimization"/>
     <id>https://research.ibm.com/blog/vanguard-portfolio-optimization</id>
     <summary type="text">Variational quantum algorithms for portfolio optimization.</summary>
+  </entry>
+  <entry>
+    <title>How AI alignment differs from AI steering</title>
+    <link href="https://research.ibm.com/blog/map-measure-manage-gen-ai"/>
+    <id>https://research.ibm.com/blog/map-measure-manage-gen-ai</id>
+    <summary type="text">IBM Fellow Kush Varshney explains the difference, and provides an update on IBM’s latest work to mitigate the safety risks around generative AI.</summary>
   </entry>
   <entry>
     <title>HSBC explores algorithmic trading with IBM quantum computers | IBM Quantum Computing Blog</title>
@@ -58,11 +64,5 @@
     <link href="https://research.ibm.com/blog/ibm-researchers-win-prestigious-european-grants"/>
     <id>https://research.ibm.com/blog/ibm-researchers-win-prestigious-european-grants</id>
     <summary type="text">Ghazi Sarwat Syed and Gregor Seiler add to IBM Research’s strong history with European Research Council grants.</summary>
-  </entry>
-  <entry>
-    <title>Ado: The accelerated discovery orchestrator</title>
-    <link href="https://research.ibm.com/blog/ado-accelerated-discovery-orchestrator-experiments"/>
-    <id>https://research.ibm.com/blog/ado-accelerated-discovery-orchestrator-experiments</id>
-    <summary type="text">The new platform for computational experiments at scale.</summary>
   </entry>
 </feed>

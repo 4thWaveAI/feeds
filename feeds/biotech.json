@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/biotech.json",
   "items": [
     {
+      "id": "https://www.broadinstitute.org/news/jason-buenrostro-named-core-institute-member-broad",
+      "url": "https://www.broadinstitute.org/news/jason-buenrostro-named-core-institute-member-broad",
+      "title": "Jason Buenrostro named core institute member at Broad",
+      "content_text": "An expert in epigenetics and longtime member of the Broad community, Buenrostro will focus on how life experiences can alter the epigenome and increase risk of disease.",
+      "attachments": [
+        {
+          "url": "https://www.broadinstitute.org/files/longstory/buenrostro_2023_hi-res-download_2%20%282%29.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "biotech"
+      ]
+    },
+    {
       "id": "https://www.broadinstitute.org/news/whyiscience-qa-structural-biologist-adopts-new-role-catalyzing-collaborations",
       "url": "https://www.broadinstitute.org/news/whyiscience-qa-structural-biologist-adopts-new-role-catalyzing-collaborations",
       "title": "#WhyIScience Q&A: A structural biologist adopts a new role catalyzing collaborations",
@@ -57,21 +72,6 @@
       "attachments": [
         {
           "url": "https://www.broadinstitute.org/files/longstory/Kristin%20Ardlie%20Brad%20Bernstein%20AlphaGenome%20ENCODE%20GTEx.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "biotech"
-      ]
-    },
-    {
-      "id": "https://www.broadinstitute.org/news/breathing-low-oxygen-air-slows-parkinsons-progression-mice",
-      "url": "https://www.broadinstitute.org/news/breathing-low-oxygen-air-slows-parkinsons-progression-mice",
-      "title": "Breathing low-oxygen air slows Parkinson’s progression in mice",
-      "content_text": "Low-oxygen air prevented and even reversed symptoms in a mouse model of Parkinson’s disease.",
-      "attachments": [
-        {
-          "url": "https://www.broadinstitute.org/files/longstory/mouse%20cells%20neurodegeneration.png",
           "mime_type": "image/png"
         }
       ],

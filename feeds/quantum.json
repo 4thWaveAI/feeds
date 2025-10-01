@@ -24,14 +24,14 @@
       ]
     },
     {
-      "id": "https://research.ibm.com/blog/map-measure-manage-gen-ai",
-      "url": "https://research.ibm.com/blog/map-measure-manage-gen-ai",
-      "title": "How AI alignment differs from AI steering",
-      "content_text": "IBM Fellow Kush Varshney explains the difference, and provides an update on IBM’s latest work to mitigate the safety risks around generative AI.",
+      "id": "https://research.ibm.com/blog/ai-model-discovers-railroad-defects-before-theyre-critical",
+      "url": "https://research.ibm.com/blog/ai-model-discovers-railroad-defects-before-theyre-critical",
+      "title": "New AI model finds railroad defects before they’re critical",
+      "content_text": "A new AI model detects and tracks rail maintenance issues before they can cause problems, freeing up skilled workers from tedious inspections.",
       "attachments": [
         {
-          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2FAI_Safety3_7944ed0a31.png&w=1200&q=85",
-          "mime_type": "image/png"
+          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fblog_tracks_to_tensors_7466572020.jpg&w=1200&q=75",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -46,6 +46,21 @@
       "attachments": [
         {
           "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/Vanguard_4_1_77232bc50f.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://research.ibm.com/blog/map-measure-manage-gen-ai",
+      "url": "https://research.ibm.com/blog/map-measure-manage-gen-ai",
+      "title": "How AI alignment differs from AI steering",
+      "content_text": "IBM Fellow Kush Varshney explains the difference, and provides an update on IBM’s latest work to mitigate the safety risks around generative AI.",
+      "attachments": [
+        {
+          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2FAI_Safety3_7944ed0a31.png&w=1200&q=85",
           "mime_type": "image/png"
         }
       ],
@@ -140,21 +155,6 @@
       "attachments": [
         {
           "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fblog_Art_erc2_9b55018291.jpg&w=1200&q=75",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "quantum"
-      ]
-    },
-    {
-      "id": "https://research.ibm.com/blog/ado-accelerated-discovery-orchestrator-experiments",
-      "url": "https://research.ibm.com/blog/ado-accelerated-discovery-orchestrator-experiments",
-      "title": "Ado: The accelerated discovery orchestrator",
-      "content_text": "The new platform for computational experiments at scale.",
-      "attachments": [
-        {
-          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Faccelerated_discovery_f204a83b2f.jpg&w=1200&q=75",
           "mime_type": "image/jpeg"
         }
       ],

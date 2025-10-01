@@ -5,6 +5,96 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sciencedaily-top.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250930034202.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250930034202.htm",
+      "title": "Black mamba venom has a deadly hidden second strike",
+      "content_text": "Scientists have uncovered a dangerous hidden feature in Black Mamba venom that explains why antivenoms sometimes fail. The study revealed that several mamba species launch a dual neurological attack, first causing limp paralysis and then unleashing painful spasms once treatment begins.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/biting-black-mamba.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250930034200.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250930034200.htm",
+      "title": "Pollen holds a secret that could save honeybees",
+      "content_text": "Scientists have discovered that pollen is a hidden source of natural medicine for honeybees. Symbiotic bacteria called Streptomyces produce antimicrobial compounds that fight deadly bee and plant pathogens. Bees collect these bacteria along with pollen and store them in hives, creating a natural defense system. This could lead to new, sustainable ways of protecting both pollinators and crops.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/honey-bee-pollen-flower.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250930034158.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250930034158.htm",
+      "title": "Long commutes and small homes are wrecking sleep",
+      "content_text": "Tokyo residents face a trade-off between home size and commute time when it comes to sleep health. A new study shows longer commutes increase both insomnia and daytime sleepiness, while smaller housing also raises insomnia risk. Even with average-sized homes, commuting more than 52 minutes pushed people into the insomnia range. Researchers say smarter housing planning could improve both sleep and quality of life.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/asian-woman-sitting-in-bed-late-night.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250929055022.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250929055022.htm",
+      "title": "New rocket fuel compound packs 150% more energy",
+      "content_text": "A new boron-rich compound, manganese diboride, delivers much higher energy density than current solid-rocket materials while remaining stable until intentionally ignited. Its power comes from an unusual, strained atomic structure formed during ultra-hot synthesis, with promising uses beyond propulsion.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/synthesizing-manganese-diboride.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250929055003.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250929055003.htm",
+      "title": "First living cochlea outside the body shows how hearing really works",
+      "content_text": "Scientists have kept a tiny slice of cochlea alive outside the body, directly witnessing how hair cells amplify sound. The finding confirms a universal principle of hearing and could pave the way for long-sought treatments for hearing loss.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/live-mammalian-cochlea.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/09/250929055000.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250929055000.htm",
+      "title": "The hidden forces inside diamonds that could make tech 1,000x faster",
+      "content_text": "A team of physicists has discovered that virtual charges, which exist only during brief interactions with light, play a critical role in ultrafast material responses. Using attosecond pulses on diamonds, they showed these hidden carriers significantly influence optical behavior. The findings could accelerate the development of petahertz-speed devices, unlocking a new era of ultrafast electronics.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/futuristic-energy-particles-ultrafast-electronics.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/09/250929054931.htm",
       "url": "https://www.sciencedaily.com/releases/2025/09/250929054931.htm",
       "title": "This tiny butterfly has the most chromosomes of any animal on Earth",
@@ -207,96 +297,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/happy-healthy-woman-eating-apple.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250928095616.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250928095616.htm",
-      "title": "Doctors tested a common drug on COVID. The results are stunning",
-      "content_text": "Inhaled heparin significantly lowers the risk of death and ventilation in COVID-19 patients while also showing potential against other respiratory infections. With its unique triple-action benefits, it could serve as a powerful and accessible treatment worldwide.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/punching-virus-beating-infection.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250928095611.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250928095611.htm",
-      "title": "New inhaler halves childhood asthma attacks",
-      "content_text": "A groundbreaking international study has shown that a 2-in-1 budesonide-formoterol inhaler is far more effective than the standard salbutamol inhaler in children with mild asthma, cutting attacks by nearly half.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/boy-using-asthma-inhaler-outside.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250927031249.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250927031249.htm",
-      "title": "Junk food can scramble memory in just 4 days",
-      "content_text": "Scientists discovered that high-fat junk food disrupts memory circuits in the brain almost immediately. Within just four days, neurons in the hippocampus became overactive, impairing memory. Restoring glucose calmed the neurons, showing that interventions like fasting or dietary shifts can restore brain health. This could help prevent obesity-related dementia and Alzheimer’s.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/table-of-junk-food-snacks.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250927031245.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250927031245.htm",
-      "title": "The accidental discovery that forged the Iron Age",
-      "content_text": "Ancient copper smelters may have accidentally set the stage for the Iron Age. At a 3,000-year-old workshop in Georgia, researchers discovered that metalworkers were using iron oxide not to smelt iron but to improve copper yields. This experimentation shows how curiosity with materials could have sparked one of history’s greatest technological leaps, turning iron from a rare celestial metal into the backbone of empires and industry.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/hot-metal-sparks.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250927031239.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250927031239.htm",
-      "title": "Why “dry” oil wells aren’t really empty",
-      "content_text": "Oil wells often dry up far earlier than predicted, leaving companies baffled about the “missing” reserves. A Penn State team tackled this puzzle by harnessing PSC’s Bridges-2 supercomputer, adding a time dimension and amplitude analysis to traditional seismic data. Their findings revealed hidden rock structures blocking oil flow, meaning reserves weren’t gone—they were trapped.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/oil-pumpjacks-with-birds-sunrise.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250927031230.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250927031230.htm",
-      "title": "Quantum chips just proved they’re ready for the real world",
-      "content_text": "Diraq has shown that its silicon-based quantum chips can maintain world-class accuracy even when mass-produced in semiconductor foundries. Achieving over 99% fidelity in two-qubit operations, the breakthrough clears a major hurdle toward utility-scale quantum computing. Silicon’s compatibility with existing chipmaking processes means building powerful quantum processors could become both cost-effective and scalable.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/advanced-futuristic-computer-chips.webp",
           "mime_type": "image/webp"
         }
       ],

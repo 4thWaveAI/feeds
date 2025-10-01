@@ -5,13 +5,47 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/jeff-bezos.json",
   "items": [
     {
-      "id": "https://www.aboutamazon.com/news/retail/amazon-prime-for-young-adults",
-      "url": "https://www.aboutamazon.com/news/retail/amazon-prime-for-young-adults",
-      "title": "Score big with Prime for Young Adults—Amazon’s discounted Prime membership",
-      "content_text": "Learn about the extraordinary value of the go-to Prime membership for 18-to-24-year-olds. Eligible new members can try it for six months for $0 and earn 5% cash back.",
+      "id": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news",
+      "url": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news",
+      "title": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound",
+      "content_text": "Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/f5d95eb/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F8e%2Ff3%2F714a5bea457ab79834d19f13ead4%2Fhero001-youngadult-amazon-prime-studentredesign-rivera-downtime-quad-2000x1125.JPG",
+          "url": "https://assets.aboutamazon.com/dims4/default/3c9e582/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff2%2Fe4%2F6f67188e480392ce0b19a6671b59%2Fspheres-rolling-blog-hero-1.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/QWQvaTXowao",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/devices/amazon-new-echo-devices-alexa-plus",
+      "url": "https://www.aboutamazon.com/news/devices/amazon-new-echo-devices-alexa-plus",
+      "title": "Amazon unveils the next generation of AI-powered Echo devices, purpose-built for Alexa+",
+      "content_text": "Introducing our most advanced Echo devices yet, featuring premium audio, next-generation AI processing and Omnisense sensor fusion for more proactive and personalized Alexa+ experiences.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/43ebda6/2147483647/strip/true/crop/2000x1000+0+62/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F07%2Ffe%2Fb51fae6a4b178f5ee434e6163ae9%2Fpanospanay-echo-2025.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/how-to-watch-nba-prime",
+      "url": "https://www.aboutamazon.com/news/entertainment/how-to-watch-nba-prime",
+      "title": "Prime Video introduces new immersive features to watch the NBA on Prime",
+      "content_text": "Features include opt-in personalized bet tracking with FanDuel, customizable Multiview, and AI-powered Key Moments and Rapid Recap.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/09689ff/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F28%2Fe7%2Fe627cace4c01890e3e4988b8726e%2Fabout-amazon-hero-nba-hero2-2000x1125.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -20,14 +54,14 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/retail/amazon-prime-free-trial",
-      "url": "https://www.aboutamazon.com/news/retail/amazon-prime-free-trial",
-      "title": "How to sign up for a free trial of Prime before Prime Big Deal Days 2025",
-      "content_text": "Prime is packed with tons of great benefits—and you can start enjoying them for free today and ahead of Prime Big Deal Days this October.",
+      "id": "https://www.aboutamazon.com/news/devices/new-amazon-kindle-scribe-color",
+      "url": "https://www.aboutamazon.com/news/devices/new-amazon-kindle-scribe-color",
+      "title": "Amazon unveils redesigned Kindle Scribe lineup with first-ever color Scribe",
+      "content_text": "The all-new Kindle Scribe lineup is thinner, lighter, and faster with new productivity features, including AI-powered notebook search.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/0fbc10d/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fd1%2Fca%2F93ed2147445ea7806166ce14883c%2Faa-feb2025-freeshippingwithoutprime-standard-hero-v2-2000x1125.jpg",
-          "mime_type": "image/jpeg"
+          "url": "https://assets.aboutamazon.com/dims4/default/09bf3c7/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F37%2F3a%2Faaa39dba47c1a19fc1d79828fe9d%2Fkindle.png",
+          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -35,44 +69,18 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/retail/how-to-find-amazon-lightning-deals",
-      "url": "https://www.aboutamazon.com/news/retail/how-to-find-amazon-lightning-deals",
-      "title": "What are Amazon Lightning Deals and how to find them",
-      "content_text": "Lightning Deals are limited-time promotions that offer big savings on some of your favorite brands and products.",
+      "id": "https://www.aboutamazon.com/news/entertainment/prime-video-movies-tv-shows-originals-sports-october-2025",
+      "url": "https://www.aboutamazon.com/news/entertainment/prime-video-movies-tv-shows-originals-sports-october-2025",
+      "title": "What’s new on Prime Video in October, including ‘Play Dirty,’ ‘Hazbin Hotel,’ and more",
+      "content_text": "Check out what films, series, sports, and fresh episodes are premiering this month on the streaming service.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/bf6eb6e/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fbf%2F07%2F22b66b934a2fa38117439fea63a9%2Faa-062025-pd-lightningdeals-standard-hero-v1-600kb-2000x1125.jpg",
+          "url": "https://assets.aboutamazon.com/dims4/default/a6d87af/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fc5%2Fec%2Fa3c1258f455ba38221d9b71c6b7a%2Fabout-amazon-inline-mateo-gabriel-alvarado-grofield-lakeith-stanfield-zen-rosa-salazar-colonel-ortiz-hemky-madera-and-parker-mark-wahlberg-in-play-dirty-photo-credit-jasin-boland-prime-amazon-content-services-llc-3000.jpg",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/retail/prime-benefits-that-will-save-you-money",
-      "url": "https://www.aboutamazon.com/news/retail/prime-benefits-that-will-save-you-money",
-      "title": "7 Prime benefits that will save you money",
-      "content_text": "It’s not just about free shipping and Prime Video. Prime keeps money back in your pocket.",
-      "attachments": [
+        },
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/586e4f1/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F29%2F94%2Fa49b6a064bf19e75e8ee89e71b74%2F2025primeday-hero-2000x1125-10.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/retail/prime-membership-cost-benefits",
-      "url": "https://www.aboutamazon.com/news/retail/prime-membership-cost-benefits",
-      "title": "Here’s how much a Prime membership costs, and how to make the most of its benefits in time for Prime Big Deal Days this October",
-      "content_text": "Amazon Prime makes your life more convenient, simple, and fun, while saving you money every single day and during events like Prime Big Deal Days.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/ebf0dae/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F45%2F9c%2F14ea4d214798863d8752e37f174c%2Ffree-delivery-inline.jpg",
-          "mime_type": "image/jpeg"
+          "url": "https://www.youtube.com/embed/6paP2-ry-QY",
+          "mime_type": "video/mp4"
         }
       ],
       "tags": [
@@ -102,6 +110,21 @@
       "attachments": [
         {
           "url": "https://d3ezn0y6hdgq62.cloudfront.net/assets/og_feather_logo.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.blueorigin.com/news/blue-origin-luxembourg-partner-on-oasis-1-mission",
+      "url": "https://www.blueorigin.com/news/blue-origin-luxembourg-partner-on-oasis-1-mission",
+      "title": "Blue Origin and Luxembourg Partner on Oasis-1 Mission to Map Lunar Resources | Blue Origin",
+      "content_text": "Blue Origin today announced Project Oasis, a multi-phase initiative to identify key lunar resources from orbit, assess them on the ground, and harness them in situ.",
+      "attachments": [
+        {
+          "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/News_Oasis-1-Small-Sat.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -155,21 +178,6 @@
       ]
     },
     {
-      "id": "https://www.blueorigin.com/news/blue-origin-mars-telecommunications-orbiter",
-      "url": "https://www.blueorigin.com/news/blue-origin-mars-telecommunications-orbiter",
-      "title": "The Mission: Blue Origin’s Mars Telecommunications Orbiter | Blue Origin",
-      "content_text": "Built upon our existing and affordable Blue Ring platform, our Mars Telecommunications Orbiter is ready to support NASA’s Mars mission in 2028.",
-      "attachments": [
-        {
-          "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/MarsTelcomOrbiter_BlueOrigin_Rendering-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
       "id": "https://www.blueorigin.com/news",
       "url": "https://www.blueorigin.com/news",
       "title": "News | Blue Origin",
@@ -200,40 +208,70 @@
       ]
     },
     {
+      "id": "https://www.aboutamazon.com/news/community",
+      "url": "https://www.aboutamazon.com/news/community",
+      "title": "Community",
+      "content_text": "We look for uniquely Amazonian and innovative ways to make positive, lasting impacts and encourage our employees to champion causes they care about.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment",
+      "url": "https://www.aboutamazon.com/news/entertainment",
+      "title": "Entertainment",
+      "content_text": "Stories about the latest apps and games, movies, TV shows, and music available from Amazon Prime Video, Amazon Music, and Kindle.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/devices",
+      "url": "https://www.aboutamazon.com/news/devices",
+      "title": "Devices",
+      "content_text": "Stories and information about Amazon devices, such as Kindle e-readers, Fire tablets, Fire TV streaming media players, Echo devices, Dash Buttons, and more.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/books-and-authors",
+      "url": "https://www.aboutamazon.com/news/books-and-authors",
+      "title": "Books and authors",
+      "content_text": "Stories and information about Amazon books, Amazon authors, and Kindle Direct Publishing.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/retail",
       "url": "https://www.aboutamazon.com/news/retail",
       "title": "Retail",
       "content_text": "More information about shopping on Amazon and our selection of products and services.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/aws",
-      "url": "https://www.aboutamazon.com/news/aws",
-      "title": "AWS",
-      "content_text": "If you're an inventor, you'll love being an Amazonian. From day one at Amazon, you'll take ownership of projects that have a direct impact on our customers.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/transportation",
-      "url": "https://www.aboutamazon.com/news/transportation",
-      "title": "Transportation",
-      "content_text": "From Prime Air to Prime Now, this is how Amazon transports and delivers right to your doorstep",
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",

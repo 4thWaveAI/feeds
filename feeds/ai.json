@@ -5,14 +5,14 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.json",
   "items": [
     {
-      "id": "https://developer.nvidia.com/blog/unlock-gpu-performance-global-memory-access-in-cuda/",
-      "url": "https://developer.nvidia.com/blog/unlock-gpu-performance-global-memory-access-in-cuda/",
-      "title": "Unlock GPU Performance: Global Memory Access in CUDA | NVIDIA Technical Blog",
-      "content_text": "Managing memory is one of the most important performance characteristics to consider when writing a GPU kernel. This post walks you through the important aspects you should know about global memory…",
+      "id": "https://developer.nvidia.com/blog/advancing-anomaly-detection-for-industry-applications-with-nvidia-nv-tesseract-ad/",
+      "url": "https://developer.nvidia.com/blog/advancing-anomaly-detection-for-industry-applications-with-nvidia-nv-tesseract-ad/",
+      "title": "Advancing Anomaly Detection for Industry Applications with NVIDIA NV-Tesseract-AD | NVIDIA Technical Blog",
+      "content_text": "In a recent blog post, we introduced NVIDIA NV-Tesseract, a family of models designed to unify anomaly detection, classification, and forecasting within a single framework. That work demonstrated the…",
       "attachments": [
         {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/04/blackwell-cuda-12-9-family-specific-featured.png",
-          "mime_type": "image/png"
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/Industrial-NV-Tasseract-AD-e1758906541355.jpg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -614,7 +614,7 @@
       "id": "https://blogs.nvidia.com/blog/category/enterprise/",
       "url": "https://blogs.nvidia.com/blog/category/enterprise/",
       "title": "Data Center Archives",
-      "content_text": "On Tuesday, more than 800 attendees joined NVIDIA AI Day Ho Chi Minh City to learn about sovereign… Read Article",
+      "content_text": "Quantum computing promises to reshape industries — but progress hinges on solving key problems. Error correction. Simulations of… Read Article",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
@@ -678,7 +678,7 @@
       "id": "https://blogs.nvidia.com/blog/category/pro-graphics/",
       "url": "https://blogs.nvidia.com/blog/category/pro-graphics/",
       "title": "Pro Graphics Archives",
-      "content_text": "Editor’s note: This blog is a part of Into the Omniverse, a series focused on how developers, 3D… Read Article",
+      "content_text": "Building robots that can effectively operate alongside human workers in factories, hospitals and public spaces presents an enormous… Read Article",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
@@ -693,7 +693,7 @@
       "id": "https://blogs.nvidia.com/blog/category/robotics/",
       "url": "https://blogs.nvidia.com/blog/category/robotics/",
       "title": "Robotics Archives",
-      "content_text": "AI models are advancing at a rapid rate and scale. But what might they lack that (most) humans… Read Article",
+      "content_text": "Building robots that can effectively operate alongside human workers in factories, hospitals and public spaces presents an enormous… Read Article",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",

@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/structural-battery-composites.atom.xml"/>
   <id>urn:4thwaveai-feeds:structural-battery-composites</id>
-  <updated>Tue, 30 Sep 2025 05:43:00 +0000</updated>
+  <updated>Wed, 01 Oct 2025 05:44:31 +0000</updated>
   <entry>
     <title>New cooling breakthrough nearly doubles efficiency</title>
     <link href="https://www.sciencedaily.com/releases/2025/09/250919085242.htm"/>
@@ -66,6 +66,12 @@
     <summary type="text">Lightweight, powerful lithium-ion batteries are crucial for the transition to electric vehicles, and global demand for lithium is set to grow rapidly over the next 25 years. A new analysis looks at how new mining operations and battery recycling could meet that demand. Recycling could play a big role in easing supply constraints, the researchers found.</summary>
   </entry>
   <entry>
+    <title>Entering the age of designer protein materials - Nature Materials</title>
+    <link href="https://www.nature.com/articles/s41563-025-02372-x"/>
+    <id>https://www.nature.com/articles/s41563-025-02372-x</id>
+    <summary type="text">Deep learning-based generative tools are used to design protein building blocks with well-defined directional protein bonding interactions, allowing for the generation of a variety of scalable protein assemblies from a small set of reusable subunits.</summary>
+  </entry>
+  <entry>
     <title>Ions in solution drive action and satisfaction - Nature Materials</title>
     <link href="https://www.nature.com/articles/s41563-025-02341-4"/>
     <id>https://www.nature.com/articles/s41563-025-02341-4</id>
@@ -78,39 +84,33 @@
     <summary type="text">The visualization of periodic electronic and vibrational textures in conjugated polymers using a multimodal probe provides possible evidence of ordered states formed by the interaction of multiple polarons.</summary>
   </entry>
   <entry>
-    <title>Increasing the efficiency of binary organic solar cells through a two-step crystallization process - Nature Energy</title>
-    <link href="https://www.nature.com/articles/s41560-025-01881-y"/>
-    <id>https://www.nature.com/articles/s41560-025-01881-y</id>
-    <summary type="text">Controlling the morphology of the active layer in organic solar cells (OSCs) is challenging. Now, acenaphthene is shown to induce the two-step crystallization of non-fullerene acceptors to achieve a highly oriented arrangement. The resulting improvement in the charge transport properties enables a binary OSC with 21% efficiency and a 83.2% fill factor.</summary>
+    <title>Ab initio analysis of the structural, hydrogen storage, mechanical, electronic, and optical characteristics of Cs2XAlH6 (X = K, Na, Rb) double perovskite hydrides - Scientific Reports</title>
+    <link href="https://www.nature.com/articles/s41598-025-10823-3"/>
+    <id>https://www.nature.com/articles/s41598-025-10823-3</id>
+    <summary type="text">Scientific Reports volume 15 , Article number: 33966 ( 2025 ) Cite this article</summary>
   </entry>
   <entry>
-    <title>The effect of non-stoichiometry in Sb2Se3 films on their phonon and electronic properties in the infrared range - Scientific Reports</title>
-    <link href="https://www.nature.com/articles/s41598-025-17551-8"/>
-    <id>https://www.nature.com/articles/s41598-025-17551-8</id>
-    <summary type="text">Scientific Reports volume 15 , Article number: 33513 ( 2025 ) Cite this article</summary>
+    <title>Jamming with magnetic composites - Nature Communications</title>
+    <link href="https://www.nature.com/articles/s41467-025-63729-z"/>
+    <id>https://www.nature.com/articles/s41467-025-63729-z</id>
+    <summary type="text">An untethered jamming mechanism uses magnetic fields to control interactions between soft-ferromagnetic composites with designed magnetization profiles. Stiffness, damping, and shapelocking are tuned for programmable robotic materials.</summary>
   </entry>
   <entry>
-    <title>2D MOF structure, electrochemical biosensing in bioelectronic applications - npj 2D Materials and Applications</title>
-    <link href="https://www.nature.com/articles/s41699-025-00603-y"/>
-    <id>https://www.nature.com/articles/s41699-025-00603-y</id>
-    <summary type="text">npj 2D Materials and Applications volume 9 , Article number: 81 ( 2025 ) Cite this article</summary>
+    <title>Random and unpredictable optical textures in biobased self-assembled ionogels for dynamic anti-counterfeiting tags - Communications Materials</title>
+    <link href="https://www.nature.com/articles/s43246-025-00940-x"/>
+    <id>https://www.nature.com/articles/s43246-025-00940-x</id>
+    <summary type="text">Materials that can generate physical unclonable functions (PUF) are needed for anti-counterfeiting applications. Here, self-assembly of liquid crystals with ionic liquids in a gelatin matrix is used to generate biodegradable optical PUF tags.</summary>
   </entry>
   <entry>
-    <title>Magnetoelectricity of topological solitons in 2D magnets - npj Computational Materials</title>
-    <link href="https://www.nature.com/articles/s41524-025-01795-z"/>
-    <id>https://www.nature.com/articles/s41524-025-01795-z</id>
-    <summary type="text">npj Computational Materials volume 11 , Article number: 295 ( 2025 ) Cite this article</summary>
+    <title>Innovative anode porous transport layers for polymer electrolyte membrane water electrolyzers - Scientific Reports</title>
+    <link href="https://www.nature.com/articles/s41598-025-95399-8"/>
+    <id>https://www.nature.com/articles/s41598-025-95399-8</id>
+    <summary type="text">Scientific Reports volume 15 , Article number: 33751 ( 2025 ) Cite this article</summary>
   </entry>
   <entry>
-    <title>Skin-conformal electronics for intelligent gesture recognition - Nature Reviews Electrical Engineering</title>
-    <link href="https://www.nature.com/articles/s44287-025-00215-0"/>
-    <id>https://www.nature.com/articles/s44287-025-00215-0</id>
-    <summary type="text">Skin-conformal electronics enable intuitive, real-time gesture recognition through seamless integration of conformal sensing and intelligent processing. Reliable and precise human–machine interactions gain thus transformative potential in health care, robotics, immersive applications and other dynamic environments.</summary>
-  </entry>
-  <entry>
-    <title>Study on the laser ablation behavior of carbon fiber reinforced polymer laminates under the air environment - Scientific Reports</title>
-    <link href="https://www.nature.com/articles/s41598-025-18643-1"/>
-    <id>https://www.nature.com/articles/s41598-025-18643-1</id>
-    <summary type="text">Scientific Reports volume 15 , Article number: 33399 ( 2025 ) Cite this article</summary>
+    <title>Manufacturing and characterization of innovative lightweight wooden furniture from polystyrene core wood sandwich panels - Scientific Reports</title>
+    <link href="https://www.nature.com/articles/s41598-025-11044-4"/>
+    <id>https://www.nature.com/articles/s41598-025-11044-4</id>
+    <summary type="text">Scientific Reports volume 15 , Article number: 33960 ( 2025 ) Cite this article</summary>
   </entry>
 </feed>
