@@ -285,114 +285,6 @@
       ]
     },
     {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Uniquement les demandes de la presse)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.blueorigin.com/news/media-inquiries",
       "url": "https://www.blueorigin.com/news/media-inquiries",
       "title": "Submit a Media Inquiry | Blue Origin",
@@ -415,6 +307,21 @@
       "attachments": [
         {
           "url": "https://d3ezn0y6hdgq62.cloudfront.net/assets/og_feather_logo.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.blueorigin.com/news/new-shepard-ns-36-mission",
+      "url": "https://www.blueorigin.com/news/new-shepard-ns-36-mission",
+      "title": "Blue Origin Announces Crew for New Shepard’s 36th Mission | Blue Origin",
+      "content_text": "Blue Origin announced the next crew flying on its NS-36 mission. The crew includes: Jeff Elgin, Danna Karagussova, Dr. Clint Kelly III, Aaron Newman, Vitalii Ostrovsky, and an undisclosed sixth crew member.",
+      "attachments": [
+        {
+          "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/NS-34_SunriseLaunch.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -460,21 +367,6 @@
       "attachments": [
         {
           "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/NS35_CapsuleDescent.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.blueorigin.com/news/blue-alchemist-hits-major-milestone-toward-permanent-sustainable-lunar-infrastructure",
-      "url": "https://www.blueorigin.com/news/blue-alchemist-hits-major-milestone-toward-permanent-sustainable-lunar-infrastructure",
-      "title": "Blue Alchemist Hits Major Milestone Toward Permanent and Sustainable Lunar Infrastructure | Blue Origin",
-      "content_text": "Blue Origin's pioneering in-space resource utilization system, Blue Alchemist, has successfully completed its Critical Design Review, marking a transformative milestone toward humanity's permanent expansion beyond Earth.",
-      "attachments": [
-        {
-          "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/starrybackground_weblarge.jpeg",
           "mime_type": "image/jpeg"
         }
       ],
