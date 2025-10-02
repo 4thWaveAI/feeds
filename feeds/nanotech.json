@@ -5,13 +5,43 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
-      "id": "https://phys.org/news/2025-09-positive-carriers-stabilize-instantly-key.html",
-      "url": "https://phys.org/news/2025-09-positive-carriers-stabilize-instantly-key.html",
-      "title": "Positive charge carriers stabilize instantly in key solar fuel catalyst",
-      "content_text": "In a study appearing in Physical Chemistry Chemical Physics, researchers used quantum-chemical molecular dynamics simulations to visualize the ultrafast formation of polarons—charge carriers stabilized by lattice distortion—in NaTaO3, a key photocatalyst for solar water splitting.",
+      "id": "https://phys.org/news/2025-10-rechargeable-powers-nanoscale-molecular-machines.html",
+      "url": "https://phys.org/news/2025-10-rechargeable-powers-nanoscale-molecular-machines.html",
+      "title": "Heat-rechargeable design powers nanoscale molecular machines",
+      "content_text": "Though it might seem like science fiction, scientists are working to build nanoscale molecular machines that can be designed for myriad applications, such as \"smart\" medicines and materials. But like all machines, these tiny devices need a source of power, the way electronic appliances use electricity or living cells use ATP (adenosine triphosphate, the universal biological energy source).",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/positive-charges-stabi.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/heat-rechargeable-desi.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-10-laser-pulses-graphene-electrons-lightning.html",
+      "url": "https://phys.org/news/2025-10-laser-pulses-graphene-electrons-lightning.html",
+      "title": "Laser pulses in graphene control electrons with lightning speed and nanometer precision",
+      "content_text": "A research team in Kiel has demonstrated a previously unknown effect in graphene—a single layer of carbon atoms whose discovery earned the 2010 Nobel Prize. For years, graphene has been seen as a promising material for nanoelectronics, thanks to its exceptional conductivity, flexibility, and stability. Now, researchers from the Institute of Theoretical Physics and Astrophysics at Kiel University have taken this promise a step further.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/graphene-steers-electr.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-10-scientists-memory-smart-plastic.html",
+      "url": "https://phys.org/news/2025-10-scientists-memory-smart-plastic.html",
+      "title": "Scientists see shape memory activation in 'smart' plastic",
+      "content_text": "Researchers from the Skoltech Engineering Center's Hierarchically Structured Materials Laboratory, in collaboration with colleagues from MISIS University and the Joint Institute for Nuclear Research, have for the first time observed nanoscale transformations in ultra-high molecular weight polyethylene—a material possessing a shape memory effect—in real time.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2025/scientists-see-shape-m.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -47,6 +77,21 @@
         {
           "url": "https://scx2.b-cdn.net/gfx/video/2025/researchers-explain-na.mp4",
           "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-positive-carriers-stabilize-instantly-key.html",
+      "url": "https://phys.org/news/2025-09-positive-carriers-stabilize-instantly-key.html",
+      "title": "Positive charge carriers stabilize instantly in key solar fuel catalyst",
+      "content_text": "In a study appearing in Physical Chemistry Chemical Physics, researchers used quantum-chemical molecular dynamics simulations to visualize the ultrafast formation of polarons—charge carriers stabilized by lattice distortion—in NaTaO3, a key photocatalyst for solar water splitting.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2025/positive-charges-stabi.jpg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -140,51 +185,6 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/researchers-use-nanotu-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-3d-carbon-nanotube-sensors-potential.html",
-      "url": "https://phys.org/news/2025-09-3d-carbon-nanotube-sensors-potential.html",
-      "title": "3D-printed carbon nanotube sensors show potential for smart health monitoring",
-      "content_text": "Polymer-based conductive nanocomposites, particularly those incorporating carbon nanotubes, are highly promising for the development of flexible electronics, soft robotics and wearable devices. However, CNTs are difficult to work with as they tend to agglomerate, making it hard to obtain a uniform dispersion. Moreover, conventional methods limit control over CNT distribution and shape.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/seoul-national-univers-2.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-nature-nanocage-gold-nanoparticle-reactor.html",
-      "url": "https://phys.org/news/2025-09-nature-nanocage-gold-nanoparticle-reactor.html",
-      "title": "Nature-inspired nanocage serves as gold nanoparticle reactor",
-      "content_text": "Researchers led by Professor Yi-Tsu Chan at National Taiwan University have created a giant molecular cage that mimics nature's nested structures. This layered nanocage is remarkably stable and can serve as a miniature reactor for producing gold nanoparticles.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/scientists-create-robu.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-stretchable-emitting-material-photon-based.html",
-      "url": "https://phys.org/news/2025-09-stretchable-emitting-material-photon-based.html",
-      "title": "Stretchable light-emitting material holds promise for photon-based devices",
-      "content_text": "A research team led by the California NanoSystems Institute at UCLA, or CNSI, demonstrated a new type of light-emitting material expected to be suitable for photonics—devices based on light in the same way that today's electronics are based on electrical signals.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/new-stretchable-light.jpg",
           "mime_type": "image/jpeg"
         }
       ],

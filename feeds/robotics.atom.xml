@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/robotics.atom.xml"/>
   <id>urn:4thwaveai-feeds:robotics</id>
-  <updated>Wed, 01 Oct 2025 05:43:19 +0000</updated>
+  <updated>Thu, 02 Oct 2025 05:39:22 +0000</updated>
   <entry>
     <title>Ask a Roboticist: Q&amp;A with Josh | Boston Dynamics</title>
     <link href="https://bostondynamics.com/blog/ask-a-roboticist-qa-with-josh-a-mechanical-engineer-at-boston-dynamics/"/>
@@ -28,6 +28,12 @@
     <link href="https://bostondynamics.com/blog/large-behavior-models-atlas-find-new-footing/"/>
     <id>https://bostondynamics.com/blog/large-behavior-models-atlas-find-new-footing/</id>
     <summary type="text">Useful humanoid robots will require a long list of competencies. They will need the ability to manipulate a diverse range of objects (e.g. hard/soft, heavy/delicate, rigid/articulated, large/small), as well as to coordinate their entire bodies to reconfigure themselves, their environments, avoid obstacles, and maintain balance while responding to surprises. We believe that building AI generalist […]</summary>
+  </entry>
+  <entry>
+    <title>Boston Dynamics Awarded Contract withthe Dutch Ministry of Defence | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/boston-dynamics-awarded-contract-to-supply-spot-to-the-dutch-ministry-of-defence/"/>
+    <id>https://bostondynamics.com/blog/boston-dynamics-awarded-contract-to-supply-spot-to-the-dutch-ministry-of-defence/</id>
+    <summary type="text">Boston Dynamics is proud to announce it has been awarded a multi-year contract by the Ministry of Defence for Spot for use by the Explosive Ordnance Disposal Teams.</summary>
   </entry>
   <entry>
     <title>Spot Takes the Stage | Boston Dynamics</title>
@@ -70,12 +76,6 @@
     <link href="https://bostondynamics.com/blog/getting-real-with-humanoids/"/>
     <id>https://bostondynamics.com/blog/getting-real-with-humanoids/</id>
     <summary type="text">Almost a year ago, we announced our new Atlas® robot—faster, stronger, more compact, and less messy. We’re designing the world’s most dynamic humanoid robot to do anything and everything, maybe even change work as we know it. How do we get there? One step at a time. At Boston Dynamics, we’ve learned a few things […]</summary>
-  </entry>
-  <entry>
-    <title>A Retrospective on Uses of Boston Dynamics&#x27; Spot Robot | Boston Dynamics</title>
-    <link href="https://bostondynamics.com/blog/retrospective-on-boston-dynamics-spot-robot-uses/"/>
-    <id>https://bostondynamics.com/blog/retrospective-on-boston-dynamics-spot-robot-uses/</id>
-    <summary type="text">Our team reviews Boston Dynamics Spot capabilities over the years, reflecting on how Spot has been used to keep people safe and improve efficiency.</summary>
   </entry>
   <entry>
     <title>Anduril</title>

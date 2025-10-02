@@ -5,70 +5,6 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/jeff-bezos.json",
   "items": [
     {
-      "id": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news",
-      "url": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news",
-      "title": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound",
-      "content_text": "Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/3c9e582/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff2%2Fe4%2F6f67188e480392ce0b19a6671b59%2Fspheres-rolling-blog-hero-1.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/QWQvaTXowao",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/devices/amazon-new-echo-devices-alexa-plus",
-      "url": "https://www.aboutamazon.com/news/devices/amazon-new-echo-devices-alexa-plus",
-      "title": "Amazon unveils the next generation of AI-powered Echo devices, purpose-built for Alexa+",
-      "content_text": "Introducing our most advanced Echo devices yet, featuring premium audio, next-generation AI processing and Omnisense sensor fusion for more proactive and personalized Alexa+ experiences.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/43ebda6/2147483647/strip/true/crop/2000x1000+0+62/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F07%2Ffe%2Fb51fae6a4b178f5ee434e6163ae9%2Fpanospanay-echo-2025.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/entertainment/how-to-watch-nba-prime",
-      "url": "https://www.aboutamazon.com/news/entertainment/how-to-watch-nba-prime",
-      "title": "Prime Video introduces new immersive features to watch the NBA on Prime",
-      "content_text": "Features include opt-in personalized bet tracking with FanDuel, customizable Multiview, and AI-powered Key Moments and Rapid Recap.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/09689ff/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F28%2Fe7%2Fe627cace4c01890e3e4988b8726e%2Fabout-amazon-hero-nba-hero2-2000x1125.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/devices/new-amazon-kindle-scribe-color",
-      "url": "https://www.aboutamazon.com/news/devices/new-amazon-kindle-scribe-color",
-      "title": "Amazon unveils redesigned Kindle Scribe lineup with first-ever color Scribe",
-      "content_text": "The all-new Kindle Scribe lineup is thinner, lighter, and faster with new productivity features, including AI-powered notebook search.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/09bf3c7/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F37%2F3a%2Faaa39dba47c1a19fc1d79828fe9d%2Fkindle.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
       "id": "https://www.aboutamazon.com/news/entertainment/prime-video-movies-tv-shows-originals-sports-october-2025",
       "url": "https://www.aboutamazon.com/news/entertainment/prime-video-movies-tv-shows-originals-sports-october-2025",
       "title": "What’s new on Prime Video in October, including ‘Play Dirty,’ ‘Hazbin Hotel,’ and more",
@@ -81,6 +17,70 @@
         {
           "url": "https://www.youtube.com/embed/6paP2-ry-QY",
           "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video",
+      "title": "How to watch ‘Hazbin Hotel’ Season 2 on Prime Video",
+      "content_text": "Fall Out Boy's Patrick Stump joins as one of the newest cast members for Season 2 of hit adult animated series.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/8269df6/2147483647/strip/true/crop/480x240+0+60/resize/1200x600!/quality/90/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FRo311cUw5b0%2Fhqdefault.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/Ro311cUw5b0",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/innovation-at-amazon/project-kuiper-satellite-rocket-launch-progress-updates",
+      "url": "https://www.aboutamazon.com/news/innovation-at-amazon/project-kuiper-satellite-rocket-launch-progress-updates",
+      "title": "Project Kuiper mission updates: The latest launch news as we deploy our satellite internet constellation",
+      "content_text": "Follow along for updates as Project Kuiper launches more than 80 missions to deploy our initial low Earth orbit satellite internet constellation.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/65e47f3/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F12%2Ff8%2Ffc8be3994e2e9da5f510adf93f54%2Fabout-amazon-hero-inline010-aa-kuiper-amazon-liftoff-atlas-v-kuiper-1-54484120534-o-copy-3257x1833-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/sinners-michael-b-jordan-ryan-coogler-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/sinners-michael-b-jordan-ryan-coogler-prime-video",
+      "title": "‘Sinners,’ starring Michael B. Jordan, is available on Prime Video",
+      "content_text": "Find out how to watch Ryan Coogler’s supernatural blockbuster ‘Sinners,’ which is available for purchase.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/7519746/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fb8%2F3c%2Fa792efce47e2addbf3b7a27cdabc%2Faa-june2025-sinners-standard-hero-v2-600kb-2000x1125.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/seattle-kraken-games-prime-video-watch-stream",
+      "url": "https://www.aboutamazon.com/news/entertainment/seattle-kraken-games-prime-video-watch-stream",
+      "title": "How to watch Kraken games on Prime Video",
+      "content_text": "Select Seattle Kraken games will be available for local Prime members to stream during the 2025 NHL season.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/bf85e79/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fa2%2Fc1%2F3cbb5c714804a275d1514b7d6a51%2Fabout-amazon-hero-hero01-gettyimages-2087341028.jpg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -110,6 +110,21 @@
       "attachments": [
         {
           "url": "https://d3ezn0y6hdgq62.cloudfront.net/assets/og_feather_logo.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.blueorigin.com/news/new-shepard-ns-36-mission",
+      "url": "https://www.blueorigin.com/news/new-shepard-ns-36-mission",
+      "title": "Blue Origin Announces Crew for New Shepard’s 36th Mission | Blue Origin",
+      "content_text": "Blue Origin announced the next crew flying on its NS-36 mission. The crew includes: Jeff Elgin, Danna Karagussova, Dr. Clint Kelly III, Aaron Newman, Vitalii Ostrovsky, and an undisclosed sixth crew member.",
+      "attachments": [
+        {
+          "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/NS-34_SunriseLaunch.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -163,21 +178,6 @@
       ]
     },
     {
-      "id": "https://www.blueorigin.com/news/blue-alchemist-hits-major-milestone-toward-permanent-sustainable-lunar-infrastructure",
-      "url": "https://www.blueorigin.com/news/blue-alchemist-hits-major-milestone-toward-permanent-sustainable-lunar-infrastructure",
-      "title": "Blue Alchemist Hits Major Milestone Toward Permanent and Sustainable Lunar Infrastructure | Blue Origin",
-      "content_text": "Blue Origin's pioneering in-space resource utilization system, Blue Alchemist, has successfully completed its Critical Design Review, marking a transformative milestone toward humanity's permanent expansion beyond Earth.",
-      "attachments": [
-        {
-          "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/starrybackground_weblarge.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
       "id": "https://www.blueorigin.com/news",
       "url": "https://www.blueorigin.com/news",
       "title": "News | Blue Origin",
@@ -208,13 +208,13 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/community",
-      "url": "https://www.aboutamazon.com/news/community",
-      "title": "Community",
-      "content_text": "We look for uniquely Amazonian and innovative ways to make positive, lasting impacts and encourage our employees to champion causes they care about.",
+      "id": "https://www.aboutamazon.com/news/innovation-at-amazon",
+      "url": "https://www.aboutamazon.com/news/innovation-at-amazon",
+      "title": "Innovation at Amazon",
+      "content_text": "Amazon is a company of builders. It's our job to make bold bets, and we get our energy from inventing on behalf of customers.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
+          "url": "https://assets.aboutamazon.com/dims4/default/4452c77/2147483647/strip/true/crop/2000x1000+0+167/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F38%2Fb6%2F949fea4a4420b67b004314a888de%2Finnovation.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -238,40 +238,40 @@
       ]
     },
     {
+      "id": "https://www.aboutamazon.com/news/community",
+      "url": "https://www.aboutamazon.com/news/community",
+      "title": "Community",
+      "content_text": "We look for uniquely Amazonian and innovative ways to make positive, lasting impacts and encourage our employees to champion causes they care about.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/aws",
+      "url": "https://www.aboutamazon.com/news/aws",
+      "title": "AWS",
+      "content_text": "If you're an inventor, you'll love being an Amazonian. From day one at Amazon, you'll take ownership of projects that have a direct impact on our customers.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/devices",
       "url": "https://www.aboutamazon.com/news/devices",
       "title": "Devices",
       "content_text": "Stories and information about Amazon devices, such as Kindle e-readers, Fire tablets, Fire TV streaming media players, Echo devices, Dash Buttons, and more.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/books-and-authors",
-      "url": "https://www.aboutamazon.com/news/books-and-authors",
-      "title": "Books and authors",
-      "content_text": "Stories and information about Amazon books, Amazon authors, and Kindle Direct Publishing.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/retail",
-      "url": "https://www.aboutamazon.com/news/retail",
-      "title": "Retail",
-      "content_text": "More information about shopping on Amazon and our selection of products and services.",
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",

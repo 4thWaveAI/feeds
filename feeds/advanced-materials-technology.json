@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/advanced-materials-technology.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2025/10/251001092204.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251001092204.htm",
+      "title": "Princeton’s AI reveals what fusion sensors can’t see",
+      "content_text": "A powerful new AI tool called Diag2Diag is revolutionizing fusion research by filling in missing plasma data with synthetic yet highly detailed information. Developed by Princeton scientists and international collaborators, this system uses sensor input to predict readings other diagnostics can’t capture, especially in the crucial plasma edge region where stability determines performance. By reducing reliance on bulky hardware, it promises to make future fusion reactors more compact, affordable, and reliable.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/diag2diag-illustration.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "advanced-materials-technology"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/09/250929055022.htm",
       "url": "https://www.sciencedaily.com/releases/2025/09/250929055022.htm",
       "title": "New rocket fuel compound packs 150% more energy",
@@ -162,21 +177,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/colorado-climax-mine.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "advanced-materials-technology"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250917220957.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250917220957.htm",
-      "title": "The Moon could finally reveal dark matter",
-      "content_text": "Faint hydrogen signals from the cosmic Dark Ages may soon help determine the mass of dark matter particles. Simulations suggest future Moon-based observatories could distinguish between warm and cold dark matter, providing long-sought answers about the invisible backbone of the Universe.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/nasa-artemis-astronauts-working-on-moon.webp",
           "mime_type": "image/webp"
         }
       ],

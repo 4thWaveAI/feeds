@@ -5,7 +5,7 @@
     <link>https://bostondynamics.com/blog/</link>
     <description>Unofficial feed generated for convenience. Source: Boston Dynamics Blog.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Oct 2025 05:42:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 05:38:16 +0000</lastBuildDate>
     <item>
       <title>Ask a Roboticist: Q&amp;A with Josh | Boston Dynamics</title>
       <link>https://bostondynamics.com/blog/ask-a-roboticist-qa-with-josh-a-mechanical-engineer-at-boston-dynamics/</link>
@@ -17,6 +17,12 @@
       <link>https://bostondynamics.com/blog/large-behavior-models-atlas-find-new-footing/</link>
       <guid isPermaLink="true">https://bostondynamics.com/blog/large-behavior-models-atlas-find-new-footing/</guid>
       <description><![CDATA[Useful humanoid robots will require a long list of competencies. They will need the ability to manipulate a diverse range of objects (e.g. hard/soft, heavy/delicate, rigid/articulated, large/small), as well as to coordinate their entire bodies to reconfigure themselves, their environments, avoid obstacles, and maintain balance while responding to surprises. We believe that building AI generalist […]]]></description>
+    </item>
+    <item>
+      <title>Boston Dynamics Awarded Contract withthe Dutch Ministry of Defence | Boston Dynamics</title>
+      <link>https://bostondynamics.com/blog/boston-dynamics-awarded-contract-to-supply-spot-to-the-dutch-ministry-of-defence/</link>
+      <guid isPermaLink="true">https://bostondynamics.com/blog/boston-dynamics-awarded-contract-to-supply-spot-to-the-dutch-ministry-of-defence/</guid>
+      <description><![CDATA[Boston Dynamics is proud to announce it has been awarded a multi-year contract by the Ministry of Defence for Spot for use by the Explosive Ordnance Disposal Teams.]]></description>
     </item>
     <item>
       <title>Spot Takes the Stage | Boston Dynamics</title>
@@ -77,12 +83,6 @@
       <link>https://bostondynamics.com/blog/a-new-approach-to-predictive-maintenance-challenges/</link>
       <guid isPermaLink="true">https://bostondynamics.com/blog/a-new-approach-to-predictive-maintenance-challenges/</guid>
       <description><![CDATA[AI-based predictive maintenance requires the right data at the right time. Automated asset condition monitoring is key.]]></description>
-    </item>
-    <item>
-      <title>Maintain Accurate Digital Twins with Autonomous Reality Capture | Boston Dynamics</title>
-      <link>https://bostondynamics.com/blog/maintain-accurate-digital-twins-with-autonomous-reality-capture/</link>
-      <guid isPermaLink="true">https://bostondynamics.com/blog/maintain-accurate-digital-twins-with-autonomous-reality-capture/</guid>
-      <description><![CDATA[Digital twins allow stakeholders to monitor and analyze the current state of facilities. Automating reality capture makes it easier.]]></description>
     </item>
   </channel>
 </rss>

@@ -5,67 +5,18 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.json",
   "items": [
     {
-      "id": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news",
-      "url": "https://www.aboutamazon.com/news/community/amazon-seattle-bellevue-puget-sound-news",
-      "title": "Amazon in the community: Here’s what’s happening in Seattle, Bellevue, and the Puget Sound",
-      "content_text": "Learn how we invest in the community, help power the local economy, and support our employees in the Puget Sound region.",
+      "id": "https://blogs.microsoft.com/blog/2025/10/01/accelerating-our-commercial-growth/",
+      "url": "https://blogs.microsoft.com/blog/2025/10/01/accelerating-our-commercial-growth/",
+      "title": "Accelerating our commercial growth - The Official Microsoft Blog",
+      "content_text": "Satya Nadella, Chairman and CEO, shared the below communication with Microsoft employees this morning. We are in the midst of a tectonic AI platform shift, one that requires us to both manage and grow our at-scale commercial business today, while building the new frontier and executing flawlessly across both. History shows that general purpose technologies...",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/3c9e582/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff2%2Fe4%2F6f67188e480392ce0b19a6671b59%2Fspheres-rolling-blog-hero-1.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/QWQvaTXowao",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/devices/amazon-new-echo-devices-alexa-plus",
-      "url": "https://www.aboutamazon.com/news/devices/amazon-new-echo-devices-alexa-plus",
-      "title": "Amazon unveils the next generation of AI-powered Echo devices, purpose-built for Alexa+",
-      "content_text": "Introducing our most advanced Echo devices yet, featuring premium audio, next-generation AI processing and Omnisense sensor fusion for more proactive and personalized Alexa+ experiences.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/43ebda6/2147483647/strip/true/crop/2000x1000+0+62/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F07%2Ffe%2Fb51fae6a4b178f5ee434e6163ae9%2Fpanospanay-echo-2025.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/entertainment/how-to-watch-nba-prime",
-      "url": "https://www.aboutamazon.com/news/entertainment/how-to-watch-nba-prime",
-      "title": "Prime Video introduces new immersive features to watch the NBA on Prime",
-      "content_text": "Features include opt-in personalized bet tracking with FanDuel, customizable Multiview, and AI-powered Key Moments and Rapid Recap.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/09689ff/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F28%2Fe7%2Fe627cace4c01890e3e4988b8726e%2Fabout-amazon-hero-nba-hero2-2000x1125.jpg",
+          "url": "https://blogs.microsoft.com/wp-content/uploads/2025/10/Judson02-1024x576.jpg",
           "mime_type": "image/jpeg"
         }
       ],
       "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/devices/new-amazon-kindle-scribe-color",
-      "url": "https://www.aboutamazon.com/news/devices/new-amazon-kindle-scribe-color",
-      "title": "Amazon unveils redesigned Kindle Scribe lineup with first-ever color Scribe",
-      "content_text": "The all-new Kindle Scribe lineup is thinner, lighter, and faster with new productivity features, including AI-powered notebook search.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/09bf3c7/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F37%2F3a%2Faaa39dba47c1a19fc1d79828fe9d%2Fkindle.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
+        "satya-nadella"
       ]
     },
     {
@@ -175,18 +126,52 @@
       ]
     },
     {
-      "id": "https://blogs.microsoft.com/blog/2025/09/16/microsoft-leads-shift-beyond-data-unification-to-organization-delivering-next-gen-ai-readiness-with-new-microsoft-fabric-capabilities/",
-      "url": "https://blogs.microsoft.com/blog/2025/09/16/microsoft-leads-shift-beyond-data-unification-to-organization-delivering-next-gen-ai-readiness-with-new-microsoft-fabric-capabilities/",
-      "title": "Microsoft leads shift beyond data unification to organization, delivering next-gen AI readiness with new Microsoft Fabric capabilities - The Official Microsoft Blog",
-      "content_text": "We’re in a hinge moment for AI. The experiments are over and the real work has begun. Centralizing data, once the finish line, is now the starting point. The definition of “AI readiness” is evolving as increasingly sophisticated agents demand rich, contextualized data grounded in business operations to deliver meaningful results. What sets leaders apart...",
+      "id": "https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video",
+      "title": "How to watch ‘Hazbin Hotel’ Season 2 on Prime Video",
+      "content_text": "Fall Out Boy's Patrick Stump joins as one of the newest cast members for Season 2 of hit adult animated series.",
       "attachments": [
         {
-          "url": "https://blogs.microsoft.com/wp-content/uploads/2025/09/FabCon-Hero-9_15_25-1024x682.jpg",
+          "url": "https://assets.aboutamazon.com/dims4/default/8269df6/2147483647/strip/true/crop/480x240+0+60/resize/1200x600!/quality/90/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FRo311cUw5b0%2Fhqdefault.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/Ro311cUw5b0",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/innovation-at-amazon/project-kuiper-satellite-rocket-launch-progress-updates",
+      "url": "https://www.aboutamazon.com/news/innovation-at-amazon/project-kuiper-satellite-rocket-launch-progress-updates",
+      "title": "Project Kuiper mission updates: The latest launch news as we deploy our satellite internet constellation",
+      "content_text": "Follow along for updates as Project Kuiper launches more than 80 missions to deploy our initial low Earth orbit satellite internet constellation.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/65e47f3/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F12%2Ff8%2Ffc8be3994e2e9da5f510adf93f54%2Fabout-amazon-hero-inline010-aa-kuiper-amazon-liftoff-atlas-v-kuiper-1-54484120534-o-copy-3257x1833-1.jpg",
           "mime_type": "image/jpeg"
         }
       ],
       "tags": [
-        "satya-nadella"
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/sinners-michael-b-jordan-ryan-coogler-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/sinners-michael-b-jordan-ryan-coogler-prime-video",
+      "title": "‘Sinners,’ starring Michael B. Jordan, is available on Prime Video",
+      "content_text": "Find out how to watch Ryan Coogler’s supernatural blockbuster ‘Sinners,’ which is available for purchase.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/7519746/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fb8%2F3c%2Fa792efce47e2addbf3b7a27cdabc%2Faa-june2025-sinners-standard-hero-v2-600kb-2000x1125.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
       ]
     },
     {
@@ -202,6 +187,21 @@
       ],
       "tags": [
         "demis-hassabis"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/seattle-kraken-games-prime-video-watch-stream",
+      "url": "https://www.aboutamazon.com/news/entertainment/seattle-kraken-games-prime-video-watch-stream",
+      "title": "How to watch Kraken games on Prime Video",
+      "content_text": "Select Seattle Kraken games will be available for local Prime members to stream during the 2025 NHL season.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/bf85e79/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fa2%2Fc1%2F3cbb5c714804a275d1514b7d6a51%2Fabout-amazon-hero-hero01-gettyimages-2087341028.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
       ]
     },
     {
@@ -238,7 +238,7 @@
       "id": "https://blogs.nvidia.com/blog/category/enterprise/",
       "url": "https://blogs.nvidia.com/blog/category/enterprise/",
       "title": "Data Center Archives",
-      "content_text": "Quantum computing promises to reshape industries — but progress hinges on solving key problems. Error correction. Simulations of… Read Article",
+      "content_text": "NVIDIA AI Days — hosted for and in different pockets of the world — are drawing in hundreds… Read Article",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
@@ -253,7 +253,7 @@
       "id": "https://blogs.nvidia.com/blog/category/generative-ai/",
       "url": "https://blogs.nvidia.com/blog/category/generative-ai/",
       "title": "Generative AI Archives",
-      "content_text": "On Tuesday, more than 800 attendees joined NVIDIA AI Day Ho Chi Minh City to learn about sovereign… Read Article",
+      "content_text": "NVIDIA AI Days — hosted for and in different pockets of the world — are drawing in hundreds… Read Article",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
@@ -570,6 +570,21 @@
       ]
     },
     {
+      "id": "https://blogs.microsoft.com/blog/author/cdemaria/",
+      "url": "https://blogs.microsoft.com/blog/author/cdemaria/",
+      "title": "Microsoft Corporate Blogs, Author at The Official Microsoft Blog",
+      "content_text": "Oct 1, 2025 | Microsoft Corporate Blogs",
+      "attachments": [
+        {
+          "url": "https://secure.gravatar.com/avatar/8322d323ed803aee63f13bee99e0071a?s=500&d=mm&r=g",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "satya-nadella"
+      ]
+    },
+    {
       "id": "https://blogs.microsoft.com/blog/author/ataylor/",
       "url": "https://blogs.microsoft.com/blog/author/ataylor/",
       "title": "Chief Marketing Officer, Commercial Cloud & AI",
@@ -600,28 +615,13 @@
       ]
     },
     {
-      "id": "https://blogs.microsoft.com/blog/author/jessiahawk/",
-      "url": "https://blogs.microsoft.com/blog/author/jessiahawk/",
-      "title": "Jessica Hawk, Author at The Official Microsoft Blog",
-      "content_text": "Sep 16, 2025 | Jessica Hawk - Corporate Vice President, Data, AI, and Digital Applications, Product Marketing",
-      "attachments": [
-        {
-          "url": "https://secure.gravatar.com/avatar/c4a2ecbcaff8e9904e6df808728f6397?s=500&d=mm&r=g",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "satya-nadella"
-      ]
-    },
-    {
       "id": "https://www.apple.com/newsroom/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/",
       "url": "https://www.apple.com/newsroom/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/",
       "title": "How the mind-splitting world of Severance comes together on Mac",
       "content_text": "How Geoff Richman, lead editor on the Apple Original, “Severance,” created the frenetic world of the hit show’s season two finale.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/Apple-TV-plus-Mac-editing-Severance-Geoffrey-Richman-and-Ben-Stiller-lp.jpg.og.jpg?202508281640=",
+          "url": "https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/Apple-TV-plus-Mac-editing-Severance-Geoffrey-Richman-and-Ben-Stiller-lp.jpg.og.jpg?202508281642=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -636,7 +636,7 @@
       "content_text": "Meet Taiki Hamamoto, Marina Lee, Luciana Ortiz Nolasco, and Nahom Worku, four winners of Apple’s 2025 Swift Student Challenge.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281636=",
+          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281642=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -651,7 +651,7 @@
       "content_text": "From a horror-comedy in Tamil to a magical romance in Malayalam, MAMI Select filmmakers are redefining cinema with iPhone 16 Pro Max.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/tile/Apple-MAMI-Select-iPhone-16-Pro-Max-hero-lp.jpg.og.jpg?202508281729=",
+          "url": "https://www.apple.com/newsroom/images/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/tile/Apple-MAMI-Select-iPhone-16-Pro-Max-hero-lp.jpg.og.jpg?202508281639=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -696,7 +696,7 @@
       "content_text": "The source for news about Apple Services. Get updates on the latest Apple Arcade games, Apple Originals on TV+, Podcasts, Books, and more from Apple Newsroom.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1759260324228=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1759260071068=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -711,7 +711,7 @@
       "content_text": "Discover more stories from Apple Newsroom that showcase the creators, developers, and innovators leaving the world better than they found it.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1759260691634=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1759260071157=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -870,6 +870,21 @@
       ]
     },
     {
+      "id": "https://www.blueorigin.com/news/new-shepard-ns-36-mission",
+      "url": "https://www.blueorigin.com/news/new-shepard-ns-36-mission",
+      "title": "Blue Origin Announces Crew for New Shepard’s 36th Mission | Blue Origin",
+      "content_text": "Blue Origin announced the next crew flying on its NS-36 mission. The crew includes: Jeff Elgin, Danna Karagussova, Dr. Clint Kelly III, Aaron Newman, Vitalii Ostrovsky, and an undisclosed sixth crew member.",
+      "attachments": [
+        {
+          "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/NS-34_SunriseLaunch.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.blueorigin.com/news/blue-origin-luxembourg-partner-on-oasis-1-mission",
       "url": "https://www.blueorigin.com/news/blue-origin-luxembourg-partner-on-oasis-1-mission",
       "title": "Blue Origin and Luxembourg Partner on Oasis-1 Mission to Map Lunar Resources | Blue Origin",
@@ -907,21 +922,6 @@
       "attachments": [
         {
           "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/NS35_CapsuleDescent.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.blueorigin.com/news/blue-alchemist-hits-major-milestone-toward-permanent-sustainable-lunar-infrastructure",
-      "url": "https://www.blueorigin.com/news/blue-alchemist-hits-major-milestone-toward-permanent-sustainable-lunar-infrastructure",
-      "title": "Blue Alchemist Hits Major Milestone Toward Permanent and Sustainable Lunar Infrastructure | Blue Origin",
-      "content_text": "Blue Origin's pioneering in-space resource utilization system, Blue Alchemist, has successfully completed its Critical Design Review, marking a transformative milestone toward humanity's permanent expansion beyond Earth.",
-      "attachments": [
-        {
-          "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/starrybackground_weblarge.jpeg",
           "mime_type": "image/jpeg"
         }
       ],

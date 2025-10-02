@@ -521,6 +521,36 @@
       ]
     },
     {
+      "id": "https://www.anthropic.com/news/driving-ai-transformation-with-claude",
+      "url": "https://www.anthropic.com/news/driving-ai-transformation-with-claude",
+      "title": "How enterprises are driving AI transformation with Claude",
+      "content_text": "How Novo Nordisk, Cox Automotive, Palo Alto Networks, Salesforce, and IG Group drive enterprise AI transformation at scale with Claude.",
+      "attachments": [
+        {
+          "url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand+NodeLine&backgroundColor=clay",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-and-slack",
+      "url": "https://www.anthropic.com/news/claude-and-slack",
+      "title": "Claude and Slack",
+      "content_text": "We're introducing two ways to use Claude with Slack. Add Claude directly to your Slack workspace, or connect Slack to the Claude apps so Claude can search and reference relevant Slack messages during conversations.",
+      "attachments": [
+        {
+          "url": "https://www.anthropic.com/api/opengraph-illustration?name=Object+Chat&backgroundColor=clay",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously",
       "url": "https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously",
       "title": "Enabling Claude Code to work more autonomously",
@@ -528,36 +558,6 @@
       "attachments": [
         {
           "url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand+ShapeArrow&backgroundColor=clay",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://www.anthropic.com/news/context-management",
-      "url": "https://www.anthropic.com/news/context-management",
-      "title": "Managing context on the Claude Developer Platform",
-      "content_text": "We're introducing new capabilities for managing your agents’ context on the Claude Developer Platform: context editing and the memory tool.",
-      "attachments": [
-        {
-          "url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand+NodeWeb&backgroundColor=clay",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://www.anthropic.com/news/anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of",
-      "url": "https://www.anthropic.com/news/anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of",
-      "title": "Anthropic expands global leadership in enterprise AI, naming Chris Ciauri as Managing Director of International",
-      "content_text": "Chris Ciauri joins Anthropic as Managing Director of International, adding to our global leadership team as we expand our worldwide presence.",
-      "attachments": [
-        {
-          "url": "https://www.anthropic.com/api/opengraph-illustration?name=Node+Globe&backgroundColor=olive",
           "mime_type": "image/jpeg"
         }
       ],
@@ -614,7 +614,7 @@
       "id": "https://blogs.nvidia.com/blog/category/enterprise/",
       "url": "https://blogs.nvidia.com/blog/category/enterprise/",
       "title": "Data Center Archives",
-      "content_text": "Quantum computing promises to reshape industries — but progress hinges on solving key problems. Error correction. Simulations of… Read Article",
+      "content_text": "NVIDIA AI Days — hosted for and in different pockets of the world — are drawing in hundreds… Read Article",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
@@ -629,7 +629,7 @@
       "id": "https://blogs.nvidia.com/blog/category/generative-ai/",
       "url": "https://blogs.nvidia.com/blog/category/generative-ai/",
       "title": "Generative AI Archives",
-      "content_text": "On Tuesday, more than 800 attendees joined NVIDIA AI Day Ho Chi Minh City to learn about sovereign… Read Article",
+      "content_text": "NVIDIA AI Days — hosted for and in different pockets of the world — are drawing in hundreds… Read Article",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
