@@ -5,6 +5,85 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
+      "id": "https://phys.org/news/2025-10-random-nanofiber-networks-optimized-strength.html",
+      "url": "https://phys.org/news/2025-10-random-nanofiber-networks-optimized-strength.html",
+      "title": "Designing random nanofiber networks, optimized for strength and toughness",
+      "content_text": "In nature, random fiber networks such as some of the tissues in the human body, are strong and tough with the ability to hold together but also stretch a lot before they fail. Studying this structural randomness—that nature seems to replicate so effortlessly—is extremely difficult in the lab and is even more difficult to accurately reproduce in engineering applications.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/designing-random-fiber-2.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-10-ai-generated-nanomaterial-images-experts.html",
+      "url": "https://phys.org/news/2025-10-ai-generated-nanomaterial-images-experts.html",
+      "title": "AI-generated nanomaterial images fool even experts, study shows",
+      "content_text": "Black-and-white images of pom-pom–like clusters, semi-translucent fields of tiny dark gray stars on a pale background, and countless other abstract patterns are a familiar sight in scientific papers describing the shapes and properties of newly engineered materials.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2025/ai-fakes-are-so-good-e-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-09-floquet-chern-insulators-based-nonlinear.html",
+      "url": "https://phys.org/news/2025-09-floquet-chern-insulators-based-nonlinear.html",
+      "title": "Floquet Chern insulators based on nonlinear photonic crystals achieved",
+      "content_text": "Over the past few years, engineers and material scientists have been trying to devise new optical systems in which light particles (i.e., photons) can move freely and in useful ways, irrespective of defects and imperfections. Topological phases, unique states of matter that are not defined by local properties, but by non-local and global features, can enable the robust movement of photons despite material defects.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/the-realization-of-flo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-10-silver-nanoring-coating-smart-windows.html",
+      "url": "https://phys.org/news/2025-10-silver-nanoring-coating-smart-windows.html",
+      "title": "Silver-nanoring coating points to 'self-regulating' smart windows—without power or tinting",
+      "content_text": "A new Danish research breakthrough could make buildings far more energy-efficient in the future. Researchers from Aarhus University's Interdisciplinary Nanoscience Center (iNANO) have developed a light-responsive hybrid material based on so-called silver nanorings that automatically responds to solar intensity and regulates how much heat penetrates through windows.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/passive-silver-nanorin.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://scx2.b-cdn.net/gfx/video/2025/passive-silver-nanorin.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-10-nanoreactor-cage-visible-catalytic-ultra.html",
+      "url": "https://phys.org/news/2025-10-nanoreactor-cage-visible-catalytic-ultra.html",
+      "title": "'Nanoreactor' cage uses visible light for catalytic and ultra-selective cross-cycloadditions",
+      "content_text": "Researchers have engineered a novel M6L4 octahedral molecular cage by integrating photoactive cyclometalated platinum(II) units, creating a visible-light-responsive \"nanoreactor\" that drives highly efficient photochemical reactions through precise molecular confinement. This innovative design overcomes the limitations of previous hosts, achieving perfect stereo- and site-selective cross-[2 + 2] cycloaddition reactions, and most notably, enabling catalytic cross-[2 + 2] cycloaddition of chemically inert substrates using this supramolecular confinement approach.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2025/nanoreactor-cage-uses.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://phys.org/news/2025-10-rechargeable-powers-nanoscale-molecular-machines.html",
       "url": "https://phys.org/news/2025-10-rechargeable-powers-nanoscale-molecular-machines.html",
       "title": "Heat-rechargeable design powers nanoscale molecular machines",
@@ -118,74 +197,14 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-09-sensor-platform-nanopore-cameras-gases.html",
-      "url": "https://phys.org/news/2025-09-sensor-platform-nanopore-cameras-gases.html",
-      "title": "Sensor platform uses nanopore 'speed cameras' to pinpoint gases in complex mixtures",
-      "content_text": "From breath analysis to explosive detection, many applications require reliable electronic \"noses.\" Unfortunately, current technology often falls short. That is why researchers at KU Leuven have developed a flexible sensor platform that not only detects gases, but also records their speed—like a speed camera.",
+      "id": "https://www.sciencedaily.com/releases/2025/10/251001092218.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251001092218.htm",
+      "title": "This ultra-thin solar tech could power everything from phones to skyscrapers",
+      "content_text": "A team in Sweden has unraveled the hidden structure of a promising solar material using machine learning and advanced simulations. Their findings could unlock durable, ultra-efficient solar cells for a rapidly electrifying world.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-sensor-identifies.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-steel-production-makeover-captures-real.html",
-      "url": "https://phys.org/news/2025-09-steel-production-makeover-captures-real.html",
-      "title": "Steel production could get a makeover: Study captures real-time iron formation at the nanoscale",
-      "content_text": "A research team at the University of Minnesota Twin Cities has investigated a new method to produce iron, the main component of steel. For the first time, the researchers were able to observe chemical reactions and iron formation in real-time at the nanometer scale.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/steel-production-could.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-scientists-microelectrode-array-neuronal-hibernation.html",
-      "url": "https://phys.org/news/2025-09-scientists-microelectrode-array-neuronal-hibernation.html",
-      "title": "Scientists develop microelectrode array for monitoring neuronal activity during hibernation",
-      "content_text": "A research team has developed a nanocomposite-modified microelectrode array (MEA) that enables long-term, high-sensitivity monitoring of neuronal activity during hibernation. Their findings were recently published in ACS Sensors.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/scientists-develop-mic.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-3d-bioprinting-advances-enable-creation.html",
-      "url": "https://phys.org/news/2025-09-3d-bioprinting-advances-enable-creation.html",
-      "title": "3D bioprinting advances enable creation of artificial blood vessels with layered structures",
-      "content_text": "To explore possible treatments for various diseases, either animal models or human cell cultures are usually used first; however, animal models do not always mimic human diseases well, and cultures are far removed from tissue complexity. Advances in 3D printing, together with knowledge of biomaterials, are making it possible to recreate complex 3D tissue models in the laboratory.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/progress-in-the-field.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-nanotubes-blood-bioengineered-tissues.html",
-      "url": "https://phys.org/news/2025-09-nanotubes-blood-bioengineered-tissues.html",
-      "title": "Researchers use nanotubes to improve blood flow in bioengineered tissues",
-      "content_text": "When biomedical researchers need to test their latest ideas, they often turn to engineered human tissue that mimics the responses in our own bodies. It's become an important intermediary step before human clinical trials.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/researchers-use-nanotu-1.jpg",
-          "mime_type": "image/jpeg"
+          "url": "https://www.sciencedaily.com/images/1920/formamidinium-lead-iodide.webp",
+          "mime_type": "image/webp"
         }
       ],
       "tags": [
@@ -350,21 +369,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/structural-evolution-of-gold-nanoclusters.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/08/250828060040.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/08/250828060040.htm",
-      "title": "A tiny chip may have solved one of clean energy’s biggest problems",
-      "content_text": "In just one afternoon, scientists used a nanoparticle “megalibrary” to find a catalyst that matches or exceeds iridium’s performance in hydrogen fuel production, at a fraction of the cost.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/iridium-catalyst.webp",
           "mime_type": "image/webp"
         }
       ],

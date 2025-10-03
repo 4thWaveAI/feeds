@@ -5,6 +5,25 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.json",
   "items": [
     {
+      "id": "https://www.aboutamazon.com/news/retail/amazon-shopping-prime-members-add-to-delivery",
+      "url": "https://www.aboutamazon.com/news/retail/amazon-shopping-prime-members-add-to-delivery",
+      "title": "Game-changing new shopping feature lets you add items to upcoming Amazon deliveries with just one tap",
+      "content_text": "Add to Delivery, our latest feature for Prime members, makes it easier than ever to add what you need, when you remember you need it.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/d60d2b0/2147483647/strip/true/crop/2000x1000+0+125/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F47%2F9d%2F3861035e4d02b06f9557a65c0479%2Fadd-phonehero-2000x1125.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/phieeG3tqZs",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://blogs.microsoft.com/blog/2025/10/01/accelerating-our-commercial-growth/",
       "url": "https://blogs.microsoft.com/blog/2025/10/01/accelerating-our-commercial-growth/",
       "title": "Accelerating our commercial growth - The Official Microsoft Blog",
@@ -17,25 +36,6 @@
       ],
       "tags": [
         "satya-nadella"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/entertainment/prime-video-movies-tv-shows-originals-sports-october-2025",
-      "url": "https://www.aboutamazon.com/news/entertainment/prime-video-movies-tv-shows-originals-sports-october-2025",
-      "title": "What’s new on Prime Video in October, including ‘Play Dirty,’ ‘Hazbin Hotel,’ and more",
-      "content_text": "Check out what films, series, sports, and fresh episodes are premiering this month on the streaming service.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/a6d87af/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fc5%2Fec%2Fa3c1258f455ba38221d9b71c6b7a%2Fabout-amazon-inline-mateo-gabriel-alvarado-grofield-lakeith-stanfield-zen-rosa-salazar-colonel-ortiz-hemky-madera-and-parker-mark-wahlberg-in-play-dirty-photo-credit-jasin-boland-prime-amazon-content-services-llc-3000.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/6paP2-ry-QY",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
       ]
     },
     {
@@ -126,17 +126,51 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video",
-      "url": "https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video",
-      "title": "How to watch ‘Hazbin Hotel’ Season 2 on Prime Video",
-      "content_text": "Fall Out Boy's Patrick Stump joins as one of the newest cast members for Season 2 of hit adult animated series.",
+      "id": "https://www.aboutamazon.com/news/entertainment/play-dirty-mark-wahlberg-lakeith-stanfield-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/play-dirty-mark-wahlberg-lakeith-stanfield-prime-video",
+      "title": "How to watch the heist film ‘Play Dirty,’ streaming now on Prime Video",
+      "content_text": "The action thriller, starring Mark Wahlberg and LaKeith Stanfield, follows a ruthless thief and his expert crew in New York City.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/8269df6/2147483647/strip/true/crop/480x240+0+60/resize/1200x600!/quality/90/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FRo311cUw5b0%2Fhqdefault.jpg",
+          "url": "https://assets.aboutamazon.com/dims4/default/c04f066/2147483647/strip/true/crop/3000x1500+0+94/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff7%2Fda%2Ffcd437bd4f899b8409a81fb33735%2Fparker-mark-wahlberg-and-grofield-lakeith-stanfield-in-play-dirty-photo-credit-jasin-boland-prime-video-3000.jpg",
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://www.youtube.com/embed/Ro311cUw5b0",
+          "url": "https://www.youtube.com/embed/6paP2-ry-QY",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/prime-video-amazon-mgm-studios-fall-2025-movies",
+      "url": "https://www.aboutamazon.com/news/entertainment/prime-video-amazon-mgm-studios-fall-2025-movies",
+      "title": "10 movies from Prime Video and Amazon MGM Studios coming soon in fall 2025",
+      "content_text": "Find out what films are coming to theaters and Prime Video, including ‘After the Hunt’ with Julia Roberts and ‘Culpa Nuestra.’",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/05d0110/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F87%2F84%2Fd74c9ca7423e9e8f84c1d2c6ba79%2Fabout-amazon-hero-dia17-231010-cunu-7690-1125.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/maxton-hall-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/maxton-hall-prime-video",
+      "title": "Check out the brand-new trailer for ‘Maxton Hall’ Season 2, coming exclusively to Prime Video",
+      "content_text": "The second season of ‘Maxton Hall,’ based on the best-selling book series from Mona Kasten, will be available to stream this fall.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/d827f62/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fa0%2F0c%2F7220ba8549928cea1875f5a00189%2Fabout-amazon-inline-prime-video-stephan-raboldsymu-s2-00451-3000.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/HJzSlErp1vw",
           "mime_type": "video/mp4"
         }
       ],
@@ -160,21 +194,6 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/entertainment/sinners-michael-b-jordan-ryan-coogler-prime-video",
-      "url": "https://www.aboutamazon.com/news/entertainment/sinners-michael-b-jordan-ryan-coogler-prime-video",
-      "title": "‘Sinners,’ starring Michael B. Jordan, is available on Prime Video",
-      "content_text": "Find out how to watch Ryan Coogler’s supernatural blockbuster ‘Sinners,’ which is available for purchase.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/7519746/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fb8%2F3c%2Fa792efce47e2addbf3b7a27cdabc%2Faa-june2025-sinners-standard-hero-v2-600kb-2000x1125.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
       "id": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
       "url": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
       "title": "AlphaQubit tackles one of quantum computing’s biggest challenges",
@@ -187,21 +206,6 @@
       ],
       "tags": [
         "demis-hassabis"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/entertainment/seattle-kraken-games-prime-video-watch-stream",
-      "url": "https://www.aboutamazon.com/news/entertainment/seattle-kraken-games-prime-video-watch-stream",
-      "title": "How to watch Kraken games on Prime Video",
-      "content_text": "Select Seattle Kraken games will be available for local Prime members to stream during the 2025 NHL season.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/bf85e79/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fa2%2Fc1%2F3cbb5c714804a275d1514b7d6a51%2Fabout-amazon-hero-hero01-gettyimages-2087341028.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
       ]
     },
     {
@@ -471,7 +475,7 @@
       "content_text": "Get the latest news and stories about Google products, technology and innovation on the Keyword, Google's official blog.",
       "attachments": [
         {
-          "url": "https://blog.google/static/blogv2/images/google-200x200.png?version=pr20250918-1745",
+          "url": "https://blog.google/static/blogv2/images/google-200x200.png?version=pr20251002-1653",
           "mime_type": "image/png"
         }
       ],
@@ -516,7 +520,7 @@
       "content_text": "Read the latest news and updates about Chromebooks, the fast and easy to use laptop that helps you enjoy your favorite apps.",
       "attachments": [
         {
-          "url": "https://blog.google/static/blogv2/images/google-200x200.png?version=pr20250918-1745",
+          "url": "https://blog.google/static/blogv2/images/google-200x200.png?version=pr20251002-1653",
           "mime_type": "image/png"
         }
       ],
@@ -546,7 +550,7 @@
       "content_text": "Read the latest about Wear OS by Google — smartwatches that let you track fitness, read messages and get help from Google Assistant.",
       "attachments": [
         {
-          "url": "https://blog.google/static/blogv2/images/google-200x200.png?version=pr20250918-1745",
+          "url": "https://blog.google/static/blogv2/images/google-200x200.png?version=pr20251002-1653",
           "mime_type": "image/png"
         }
       ],
@@ -651,7 +655,7 @@
       "content_text": "From a horror-comedy in Tamil to a magical romance in Malayalam, MAMI Select filmmakers are redefining cinema with iPhone 16 Pro Max.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/tile/Apple-MAMI-Select-iPhone-16-Pro-Max-hero-lp.jpg.og.jpg?202508281639=",
+          "url": "https://www.apple.com/newsroom/images/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/tile/Apple-MAMI-Select-iPhone-16-Pro-Max-hero-lp.jpg.og.jpg?202508281729=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -696,7 +700,7 @@
       "content_text": "The source for news about Apple Services. Get updates on the latest Apple Arcade games, Apple Originals on TV+, Podcasts, Books, and more from Apple Newsroom.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1759260071068=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1759260173404=",
           "mime_type": "image/jpeg"
         }
       ],

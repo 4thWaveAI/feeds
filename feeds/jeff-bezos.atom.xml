@@ -4,20 +4,34 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/jeff-bezos.atom.xml"/>
   <id>urn:4thwaveai-feeds:jeff-bezos</id>
-  <updated>Thu, 02 Oct 2025 05:41:05 +0000</updated>
+  <updated>Fri, 03 Oct 2025 05:42:06 +0000</updated>
   <entry>
-    <title>What’s new on Prime Video in October, including ‘Play Dirty,’ ‘Hazbin Hotel,’ and more</title>
-    <link href="https://www.aboutamazon.com/news/entertainment/prime-video-movies-tv-shows-originals-sports-october-2025"/>
-    <id>https://www.aboutamazon.com/news/entertainment/prime-video-movies-tv-shows-originals-sports-october-2025</id>
-    <summary type="text">Check out what films, series, sports, and fresh episodes are premiering this month on the streaming service.</summary>
-    <updated>Thu, 25 Sep 2025 17:12:47 +0000</updated>
+    <title>Game-changing new shopping feature lets you add items to upcoming Amazon deliveries with just one tap</title>
+    <link href="https://www.aboutamazon.com/news/retail/amazon-shopping-prime-members-add-to-delivery"/>
+    <id>https://www.aboutamazon.com/news/retail/amazon-shopping-prime-members-add-to-delivery</id>
+    <summary type="text">Add to Delivery, our latest feature for Prime members, makes it easier than ever to add what you need, when you remember you need it.</summary>
+    <updated>Thu, 02 Oct 2025 14:30:05 +0000</updated>
   </entry>
   <entry>
-    <title>How to watch ‘Hazbin Hotel’ Season 2 on Prime Video</title>
-    <link href="https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video"/>
-    <id>https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video</id>
-    <summary type="text">Fall Out Boy&#x27;s Patrick Stump joins as one of the newest cast members for Season 2 of hit adult animated series.</summary>
-    <updated>Thu, 11 Sep 2025 15:16:34 +0000</updated>
+    <title>How to watch the heist film ‘Play Dirty,’ streaming now on Prime Video</title>
+    <link href="https://www.aboutamazon.com/news/entertainment/play-dirty-mark-wahlberg-lakeith-stanfield-prime-video"/>
+    <id>https://www.aboutamazon.com/news/entertainment/play-dirty-mark-wahlberg-lakeith-stanfield-prime-video</id>
+    <summary type="text">The action thriller, starring Mark Wahlberg and LaKeith Stanfield, follows a ruthless thief and his expert crew in New York City.</summary>
+    <updated>Mon, 15 Sep 2025 20:46:13 +0000</updated>
+  </entry>
+  <entry>
+    <title>10 movies from Prime Video and Amazon MGM Studios coming soon in fall 2025</title>
+    <link href="https://www.aboutamazon.com/news/entertainment/prime-video-amazon-mgm-studios-fall-2025-movies"/>
+    <id>https://www.aboutamazon.com/news/entertainment/prime-video-amazon-mgm-studios-fall-2025-movies</id>
+    <summary type="text">Find out what films are coming to theaters and Prime Video, including ‘After the Hunt’ with Julia Roberts and ‘Culpa Nuestra.’</summary>
+    <updated>Fri, 08 Aug 2025 18:03:25 +0000</updated>
+  </entry>
+  <entry>
+    <title>Check out the brand-new trailer for ‘Maxton Hall’ Season 2, coming exclusively to Prime Video</title>
+    <link href="https://www.aboutamazon.com/news/entertainment/maxton-hall-prime-video"/>
+    <id>https://www.aboutamazon.com/news/entertainment/maxton-hall-prime-video</id>
+    <summary type="text">The second season of ‘Maxton Hall,’ based on the best-selling book series from Mona Kasten, will be available to stream this fall.</summary>
+    <updated>Tue, 17 Jun 2025 22:07:37 +0000</updated>
   </entry>
   <entry>
     <title>Project Kuiper mission updates: The latest launch news as we deploy our satellite internet constellation</title>
@@ -25,20 +39,6 @@
     <id>https://www.aboutamazon.com/news/innovation-at-amazon/project-kuiper-satellite-rocket-launch-progress-updates</id>
     <summary type="text">Follow along for updates as Project Kuiper launches more than 80 missions to deploy our initial low Earth orbit satellite internet constellation.</summary>
     <updated>Tue, 10 Jun 2025 19:30:15 +0000</updated>
-  </entry>
-  <entry>
-    <title>‘Sinners,’ starring Michael B. Jordan, is available on Prime Video</title>
-    <link href="https://www.aboutamazon.com/news/entertainment/sinners-michael-b-jordan-ryan-coogler-prime-video"/>
-    <id>https://www.aboutamazon.com/news/entertainment/sinners-michael-b-jordan-ryan-coogler-prime-video</id>
-    <summary type="text">Find out how to watch Ryan Coogler’s supernatural blockbuster ‘Sinners,’ which is available for purchase.</summary>
-    <updated>Wed, 04 Jun 2025 19:17:45 +0000</updated>
-  </entry>
-  <entry>
-    <title>How to watch Kraken games on Prime Video</title>
-    <link href="https://www.aboutamazon.com/news/entertainment/seattle-kraken-games-prime-video-watch-stream"/>
-    <id>https://www.aboutamazon.com/news/entertainment/seattle-kraken-games-prime-video-watch-stream</id>
-    <summary type="text">Select Seattle Kraken games will be available for local Prime members to stream during the 2025 NHL season.</summary>
-    <updated>Thu, 25 Apr 2024 13:44:47 +0000</updated>
   </entry>
   <entry>
     <title>Submit a Media Inquiry | Blue Origin</title>
@@ -89,10 +89,10 @@
     <summary type="text">188 results - showing results 1 - 12</summary>
   </entry>
   <entry>
-    <title>Innovation at Amazon</title>
-    <link href="https://www.aboutamazon.com/news/innovation-at-amazon"/>
-    <id>https://www.aboutamazon.com/news/innovation-at-amazon</id>
-    <summary type="text">Amazon is a company of builders. It&#x27;s our job to make bold bets, and we get our energy from inventing on behalf of customers.</summary>
+    <title>Retail</title>
+    <link href="https://www.aboutamazon.com/news/retail"/>
+    <id>https://www.aboutamazon.com/news/retail</id>
+    <summary type="text">More information about shopping on Amazon and our selection of products and services.</summary>
   </entry>
   <entry>
     <title>Entertainment</title>
@@ -101,21 +101,15 @@
     <summary type="text">Stories about the latest apps and games, movies, TV shows, and music available from Amazon Prime Video, Amazon Music, and Kindle.</summary>
   </entry>
   <entry>
+    <title>Innovation at Amazon</title>
+    <link href="https://www.aboutamazon.com/news/innovation-at-amazon"/>
+    <id>https://www.aboutamazon.com/news/innovation-at-amazon</id>
+    <summary type="text">Amazon is a company of builders. It&#x27;s our job to make bold bets, and we get our energy from inventing on behalf of customers.</summary>
+  </entry>
+  <entry>
     <title>Community</title>
     <link href="https://www.aboutamazon.com/news/community"/>
     <id>https://www.aboutamazon.com/news/community</id>
     <summary type="text">We look for uniquely Amazonian and innovative ways to make positive, lasting impacts and encourage our employees to champion causes they care about.</summary>
-  </entry>
-  <entry>
-    <title>AWS</title>
-    <link href="https://www.aboutamazon.com/news/aws"/>
-    <id>https://www.aboutamazon.com/news/aws</id>
-    <summary type="text">If you&#x27;re an inventor, you&#x27;ll love being an Amazonian. From day one at Amazon, you&#x27;ll take ownership of projects that have a direct impact on our customers.</summary>
-  </entry>
-  <entry>
-    <title>Devices</title>
-    <link href="https://www.aboutamazon.com/news/devices"/>
-    <id>https://www.aboutamazon.com/news/devices</id>
-    <summary type="text">Stories and information about Amazon devices, such as Kindle e-readers, Fire tablets, Fire TV streaming media players, Echo devices, Dash Buttons, and more.</summary>
   </entry>
 </feed>

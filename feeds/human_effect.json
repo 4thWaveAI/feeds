@@ -5,6 +5,96 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/human_effect.json",
   "items": [
     {
+      "id": "https://spectrum.ieee.org/student-engineering-a-healthier-future",
+      "url": "https://spectrum.ieee.org/student-engineering-a-healthier-future",
+      "title": "Engineering Student Aims to Transform Health Care in Mexico",
+      "content_text": "Can AI and neuroengineering change how we prevent diseases? Meet the student aiming to transform health care in Mexico.",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/ximena-montserrat-ramirez-aguilar-posing-with-miniature-flags-for-ieee-and-mexico.jpg?id=61689438&width=1200&height=600&coordinates=0%2C643%2C0%2C644",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/nuclear-energy-taiwan-maanshan-plant",
+      "url": "https://spectrum.ieee.org/nuclear-energy-taiwan-maanshan-plant",
+      "title": "Taiwan's Energy Dilemma: Can Renewables Meet Demand?",
+      "content_text": "Taiwan's energy future hangs in the balance as it navigates the nuclear debate and rising power demands. Can it sustain growth without nuclear energy?",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=61689921&width=1200&height=600&coordinates=0%2C12%2C0%2C588",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/engineering-scale",
+      "url": "https://spectrum.ieee.org/engineering-scale",
+      "title": "Engineers Tackle the Challenges of Scale",
+      "content_text": "How do engineers measure the unmeasurable and build the unbuildable?",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/image.png?id=61617637&width=1200&height=600&coordinates=0%2C296%2C0%2C297",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/getting-value-skip-level-meeting",
+      "url": "https://spectrum.ieee.org/getting-value-skip-level-meeting",
+      "title": "How Skip-Level Meetings Can Accelerate Your Career",
+      "content_text": "What secrets do skip-level meetings hold for your career advancement? Dive into strategies that can elevate your professional journey.",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.jpg?id=59104110&width=1200&height=600&coordinates=0%2C310%2C0%2C310",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/11-oddball-technology-records-you-probably-didnt-know",
+      "url": "https://spectrum.ieee.org/11-oddball-technology-records-you-probably-didnt-know",
+      "title": "11 Oddball Technology Records You Probably Didn’t Know",
+      "content_text": "The strongest robotic arm, the fastest brain typist, and more",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/pixel-art-trophies-and-medals-on-a-blue-background-with-various-shapes-and-designs.png?id=61609765&width=1200&height=600&coordinates=0%2C67%2C0%2C67",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/whole-genome-sequencing",
+      "url": "https://spectrum.ieee.org/whole-genome-sequencing",
+      "title": "Mass-Scale Genome Sequencing Will Change Our Understanding of Life",
+      "content_text": "The Earth BioGenome Project aims to sequence 1.8 million species. It's one of the most ambitious science projects ever, and it will revolutionize biology",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=61692640&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://noetic.org/blog/eyesense-training/",
       "url": "https://noetic.org/blog/eyesense-training/",
       "title": "Eyesense Training – An App for Testing the Sense of Being Stared At | IONS",
@@ -65,21 +155,6 @@
       ]
     },
     {
-      "id": "https://spectrum.ieee.org/ai-powered-ip-innovation",
-      "url": "https://spectrum.ieee.org/ai-powered-ip-innovation",
-      "title": "AI-Powered Tools Enhance Global Innovation Strategies",
-      "content_text": "How is IP.com transforming the innovation landscape with AI-powered tools that enhance ideation and protect intellectual property?",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=61438616&width=1200&height=600&coordinates=0%2C250%2C0%2C251",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
       "id": "https://aiforgood.itu.int/early-warning-for-all-leveraging-ai-to-reach-the-unconnected/",
       "url": "https://aiforgood.itu.int/early-warning-for-all-leveraging-ai-to-reach-the-unconnected/",
       "title": "Early Warning for All: Leveraging AI to reach the unconnected",
@@ -110,21 +185,6 @@
       ]
     },
     {
-      "id": "https://spectrum.ieee.org/ieee-collabratec-milestone",
-      "url": "https://spectrum.ieee.org/ieee-collabratec-milestone",
-      "title": "IEEE Collabratec Celebrates 100,000 Members With New Badge",
-      "content_text": "What makes IEEE Collabratec a unique platform for tech networking and mentorship? Discover the features that set it apart.",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/a-woman-using-her-personal-laptop-to-browse-ieee-collabratecs-website.jpg?id=61673628&width=1200&height=600&coordinates=0%2C438%2C0%2C438",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
       "id": "https://montrealethics.ai/all-in-conference-2025-four-key-takeaways-from-montreal/",
       "url": "https://montrealethics.ai/all-in-conference-2025-four-key-takeaways-from-montreal/",
       "title": "ALL IN Conference 2025: Four Key Takeaways from Montreal | Montreal AI Ethics Institute",
@@ -132,51 +192,6 @@
       "attachments": [
         {
           "url": "https://montrealethics.ai/wp-content/uploads/2025/09/ALL-IN-@ISED_CA.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/fraunhofer-hearing-car-microphone",
-      "url": "https://spectrum.ieee.org/fraunhofer-hearing-car-microphone",
-      "title": "AI-Powered Microphones Boost Vehicle Safety",
-      "content_text": "What happens when a car can hear as well as see? Dive into the world of multisensory vehicles with Fraunhofer's latest innovation.",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=61640996&width=1200&height=600&coordinates=0%2C1256%2C0%2C244",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/kessler-syndrome-space-debris",
-      "url": "https://spectrum.ieee.org/kessler-syndrome-space-debris",
-      "title": "Is Space Becoming Too Dangerous for Satellites?",
-      "content_text": "The Kessler syndrome is turning space into a hazardous zone. Learn about the innovative tech and international efforts to manage this growing problem.",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/image.png?id=61619749&width=1200&height=600&coordinates=0%2C440%2C0%2C440",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/ironcub-jet-powered-flying-robot",
-      "url": "https://spectrum.ieee.org/ironcub-jet-powered-flying-robot",
-      "title": "This Robot Is Designed to Fly Like Iron Man",
-      "content_text": "Can a flying robot child be the future of disaster response? Meet iRonCub, the humanoid robot with jet engines.",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=61668516&width=1200&height=600&coordinates=0%2C150%2C0%2C150",
           "mime_type": "image/jpeg"
         }
       ],
@@ -200,36 +215,6 @@
       ]
     },
     {
-      "id": "https://spectrum.ieee.org/steve-searcy-october-2025-poem",
-      "url": "https://spectrum.ieee.org/steve-searcy-october-2025-poem",
-      "title": "No Vacancy",
-      "content_text": "Read Steven Searcy’s poem from our October 2025 issue",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/glowing-stars-fill-a-pink-lined-cube-against-a-black-background-stars-spill-outside-the-cube.jpg?id=61623182&width=1200&height=600&coordinates=0%2C595%2C0%2C596",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/electric-boats-aquaculture",
-      "url": "https://spectrum.ieee.org/electric-boats-aquaculture",
-      "title": "Maine’s Oyster Farmers Embrace Electric Workboats",
-      "content_text": "Can electric boats handle Maine's cold winters? Learn how oyster farmers are testing the limits of battery-powered vessels in challenging conditions.",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/two-people-are-seen-inside-the-cockpit-of-an-electric-oyster-farming-boat-named-heron-as-it-moves-on-the-water.jpg?id=61664824&width=1200&height=600&coordinates=0%2C325%2C0%2C326",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
       "id": "https://aiforgood.itu.int/whats-next-for-quantum-tiis-roadmap-from-research-to-impact/",
       "url": "https://aiforgood.itu.int/whats-next-for-quantum-tiis-roadmap-from-research-to-impact/",
       "title": "What’s next for quantum? TII’s roadmap from research to impact",
@@ -237,21 +222,6 @@
       "attachments": [
         {
           "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/TII_Quantum-for-Good_Article-1024x576.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://aiforgood.itu.int/ai-for-healthcare-ai-for-humanity-ztes-vision-for-real-world-impact/",
-      "url": "https://aiforgood.itu.int/ai-for-healthcare-ai-for-humanity-ztes-vision-for-real-world-impact/",
-      "title": "AI for healthcare, AI for humanity: ZTE’s vision for real-world impact",
-      "content_text": "Connect with 51K enthusiasts from all over the world.",
-      "attachments": [
-        {
-          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/AI-for-healthcare-AI-for-humanity-1024x576.png",
           "mime_type": "image/png"
         }
       ],
@@ -268,6 +238,21 @@
         {
           "url": "https://noetic.org/wp-content/uploads/2025/09/AdobeStock_336577742-scaled.jpeg",
           "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://aiforgood.itu.int/ai-for-healthcare-ai-for-humanity-ztes-vision-for-real-world-impact/",
+      "url": "https://aiforgood.itu.int/ai-for-healthcare-ai-for-humanity-ztes-vision-for-real-world-impact/",
+      "title": "AI for healthcare, AI for humanity: ZTE’s vision for real-world impact",
+      "content_text": "Connect with 51K enthusiasts from all over the world.",
+      "attachments": [
+        {
+          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/AI-for-healthcare-AI-for-humanity-1024x576.png",
+          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -725,6 +710,66 @@
       ]
     },
     {
+      "id": "https://www.technologyreview.com/2025/10/02/1124767/microsoft-says-ai-can-create-zero-day-threats-in-biology/",
+      "url": "https://www.technologyreview.com/2025/10/02/1124767/microsoft-says-ai-can-create-zero-day-threats-in-biology/",
+      "title": "Microsoft says AI can create “zero day” threats in biology",
+      "content_text": "Artificial intelligence can design toxins that evade security controls.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/ai-dna-hack.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2025/10/02/1124684/the-download-rip-ev-tax-credits-and-openais-new-valuation/",
+      "url": "https://www.technologyreview.com/2025/10/02/1124684/the-download-rip-ev-tax-credits-and-openais-new-valuation/",
+      "title": "The Download: RIP EV tax credits, and OpenAI’s new valuation",
+      "content_text": "Plus: major music labels are preparing to make deals with AI firms",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/AP22293793988224.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2025/10/02/1124603/ev-tax-credits-end-us/",
+      "url": "https://www.technologyreview.com/2025/10/02/1124603/ev-tax-credits-end-us/",
+      "title": "EV tax credits are dead in the US. Now what?",
+      "content_text": "Federal support can’t last forever, but things aren’t looking great for electric vehicles in the US.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/AP22293793988224.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2025/10/02/1124570/turning-migration-into-modernization/",
+      "url": "https://www.technologyreview.com/2025/10/02/1124570/turning-migration-into-modernization/",
+      "title": "Turning migration into modernization",
+      "content_text": "The VMware shake‑up has led to an IT inflection point. Leaders are now weighing whether to renew, migrate, or redesign entirely for the cloud era.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/Effectual-Landing-Page-Card.png?resize=1200%2C600",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://www.technologyreview.com/2025/10/01/1124062/roundtables-trumps-impact-on-the-next-generation-of-innovators/",
       "url": "https://www.technologyreview.com/2025/10/01/1124062/roundtables-trumps-impact-on-the-next-generation-of-innovators/",
       "title": "Roundtables: Trump’s Impact on the Next Generation of Innovators",
@@ -815,70 +860,6 @@
       ]
     },
     {
-      "id": "https://www.technologyreview.com/2025/09/30/1124579/the-download-our-thawing-permafrost-and-a-drone-filled-future/",
-      "url": "https://www.technologyreview.com/2025/09/30/1124579/the-download-our-thawing-permafrost-and-a-drone-filled-future/",
-      "title": "The Download: our thawing permafrost, and a drone-filled future",
-      "content_text": "Plus: America's first AI law is here",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/Paul_Andrew_Lawrence_104179_SuperRes.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/09/30/1124470/the-us-may-be-heading-toward-a-drone-filled-future/",
-      "url": "https://www.technologyreview.com/2025/09/30/1124470/the-us-may-be-heading-toward-a-drone-filled-future/",
-      "title": "The US may be heading toward a drone-filled future",
-      "content_text": "The FAA is set to loosen rules to let people fly drones beyond their “line of sight.\"",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/drones-everywhere-g.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/09/30/1124548/scientists-see-permafrost-thawing-from-space/",
-      "url": "https://www.technologyreview.com/2025/09/30/1124548/scientists-see-permafrost-thawing-from-space/",
-      "title": "Scientists can see Earth’s permafrost thawing from space",
-      "content_text": "New ways to measure thawing permafrost could help us understand its potential impacts on infrastructure, military outposts, and communities.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/Paul_Andrew_Lawrence_104179_SuperRes.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/09/30/1124259/delivering-a-digital-sixth-sense-with-next-generation-networks/",
-      "url": "https://www.technologyreview.com/2025/09/30/1124259/delivering-a-digital-sixth-sense-with-next-generation-networks/",
-      "title": "Delivering a digital sixth sense with next-generation networks",
-      "content_text": "Networks today are far more powerful than they’re given credit for, with sensing capabilities that could detect risk thousands of meters below sea level, monitor vital signs across an emergency room, and detect natural phenomena at a quantum level.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/Nokia-sensing-stock-art.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/custom-story/1124259/images/sensing-video.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
       "id": "https://montrealethics.ai/the-ai-ethics-brief-172-the-state-of-ai-ethics-in-2025-whats-actually-working/",
       "url": "https://montrealethics.ai/the-ai-ethics-brief-172-the-state-of-ai-ethics-in-2025-whats-actually-working/",
       "title": "The AI Ethics Brief #172: The State of AI Ethics in 2025: What's Actually Working",
@@ -887,6 +868,21 @@
         {
           "url": "https://substackcdn.com/image/fetch/$s_!r4uJ!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa10ac77a-6e9b-4f43-bca2-6d78417d0326_2000x1335.png",
           "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://content.knowledgehub.wiley.com/electrify-faster-spend-less-why-fleet-managers-are-turning-to-automated-load-management/",
+      "url": "https://content.knowledgehub.wiley.com/electrify-faster-spend-less-why-fleet-managers-are-turning-to-automated-load-management/",
+      "title": "Electrify Faster. Spend Less: Why Fleet Managers Are Turning to Automated Load Management - Wiley Science and Engineering Content Hub",
+      "content_text": "Register now free-of-charge to explore this white paper  Overcome the Biggest Barriers to Fleet Electrification This whitepaper demonstrates how Automated Load Management (ALM) enables you to install charging stations that exceed your site's grid capacity - legally and safely. No waiting. No massive utility bills. Just smart power distribution that works with your existing infrastructure.  What You'll Learn:   How to install more chargers than your grid allows: One transit agency installed 1.8MW of chargers on a 1.1MW connection  Exactly how ALM works: Real-time power distribution explained in plain terms  NEC code requirements: Specific sections and compliance steps you need  Your approval roadmap: Proven process for working with local authorities  Cost comparison: ALM vs. grid upgrades v",
+      "attachments": [
+        {
+          "url": "https://content.knowledgehub.wiley.com/wp-content/uploads/2025/09/ALM_Header_1500_400_background-500x133.jpg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [

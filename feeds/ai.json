@@ -5,13 +5,13 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.json",
   "items": [
     {
-      "id": "https://developer.nvidia.com/blog/advancing-anomaly-detection-for-industry-applications-with-nvidia-nv-tesseract-ad/",
-      "url": "https://developer.nvidia.com/blog/advancing-anomaly-detection-for-industry-applications-with-nvidia-nv-tesseract-ad/",
-      "title": "Advancing Anomaly Detection for Industry Applications with NVIDIA NV-Tesseract-AD | NVIDIA Technical Blog",
-      "content_text": "In a recent blog post, we introduced NVIDIA NV-Tesseract, a family of models designed to unify anomaly detection, classification, and forecasting within a single framework. That work demonstrated the…",
+      "id": "https://developer.nvidia.com/blog/practical-llm-security-advice-from-the-nvidia-ai-red-team/",
+      "url": "https://developer.nvidia.com/blog/practical-llm-security-advice-from-the-nvidia-ai-red-team/",
+      "title": "Practical LLM Security Advice from the NVIDIA AI Red Team | NVIDIA Technical Blog",
+      "content_text": "Over the last several years, the NVIDIA AI Red Team (AIRT) has evaluated numerous and diverse AI-enabled systems for potential vulnerabilities and security weaknesses before they reach production.",
       "attachments": [
         {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/Industrial-NV-Tasseract-AD-e1758906541355.jpg",
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/10/Red-Team-LLM-Security-e1759353765401.jpg",
           "mime_type": "image/jpeg"
         }
       ],

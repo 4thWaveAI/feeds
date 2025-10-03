@@ -5,13 +5,32 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/jeff-bezos.json",
   "items": [
     {
-      "id": "https://www.aboutamazon.com/news/entertainment/prime-video-movies-tv-shows-originals-sports-october-2025",
-      "url": "https://www.aboutamazon.com/news/entertainment/prime-video-movies-tv-shows-originals-sports-october-2025",
-      "title": "What’s new on Prime Video in October, including ‘Play Dirty,’ ‘Hazbin Hotel,’ and more",
-      "content_text": "Check out what films, series, sports, and fresh episodes are premiering this month on the streaming service.",
+      "id": "https://www.aboutamazon.com/news/retail/amazon-shopping-prime-members-add-to-delivery",
+      "url": "https://www.aboutamazon.com/news/retail/amazon-shopping-prime-members-add-to-delivery",
+      "title": "Game-changing new shopping feature lets you add items to upcoming Amazon deliveries with just one tap",
+      "content_text": "Add to Delivery, our latest feature for Prime members, makes it easier than ever to add what you need, when you remember you need it.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/a6d87af/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fc5%2Fec%2Fa3c1258f455ba38221d9b71c6b7a%2Fabout-amazon-inline-mateo-gabriel-alvarado-grofield-lakeith-stanfield-zen-rosa-salazar-colonel-ortiz-hemky-madera-and-parker-mark-wahlberg-in-play-dirty-photo-credit-jasin-boland-prime-amazon-content-services-llc-3000.jpg",
+          "url": "https://assets.aboutamazon.com/dims4/default/d60d2b0/2147483647/strip/true/crop/2000x1000+0+125/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F47%2F9d%2F3861035e4d02b06f9557a65c0479%2Fadd-phonehero-2000x1125.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/phieeG3tqZs",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/play-dirty-mark-wahlberg-lakeith-stanfield-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/play-dirty-mark-wahlberg-lakeith-stanfield-prime-video",
+      "title": "How to watch the heist film ‘Play Dirty,’ streaming now on Prime Video",
+      "content_text": "The action thriller, starring Mark Wahlberg and LaKeith Stanfield, follows a ruthless thief and his expert crew in New York City.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/c04f066/2147483647/strip/true/crop/3000x1500+0+94/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff7%2Fda%2Ffcd437bd4f899b8409a81fb33735%2Fparker-mark-wahlberg-and-grofield-lakeith-stanfield-in-play-dirty-photo-credit-jasin-boland-prime-video-3000.jpg",
           "mime_type": "image/jpeg"
         },
         {
@@ -24,17 +43,32 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video",
-      "url": "https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video",
-      "title": "How to watch ‘Hazbin Hotel’ Season 2 on Prime Video",
-      "content_text": "Fall Out Boy's Patrick Stump joins as one of the newest cast members for Season 2 of hit adult animated series.",
+      "id": "https://www.aboutamazon.com/news/entertainment/prime-video-amazon-mgm-studios-fall-2025-movies",
+      "url": "https://www.aboutamazon.com/news/entertainment/prime-video-amazon-mgm-studios-fall-2025-movies",
+      "title": "10 movies from Prime Video and Amazon MGM Studios coming soon in fall 2025",
+      "content_text": "Find out what films are coming to theaters and Prime Video, including ‘After the Hunt’ with Julia Roberts and ‘Culpa Nuestra.’",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/8269df6/2147483647/strip/true/crop/480x240+0+60/resize/1200x600!/quality/90/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FRo311cUw5b0%2Fhqdefault.jpg",
+          "url": "https://assets.aboutamazon.com/dims4/default/05d0110/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F87%2F84%2Fd74c9ca7423e9e8f84c1d2c6ba79%2Fabout-amazon-hero-dia17-231010-cunu-7690-1125.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/maxton-hall-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/maxton-hall-prime-video",
+      "title": "Check out the brand-new trailer for ‘Maxton Hall’ Season 2, coming exclusively to Prime Video",
+      "content_text": "The second season of ‘Maxton Hall,’ based on the best-selling book series from Mona Kasten, will be available to stream this fall.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/d827f62/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fa0%2F0c%2F7220ba8549928cea1875f5a00189%2Fabout-amazon-inline-prime-video-stephan-raboldsymu-s2-00451-3000.jpg",
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://www.youtube.com/embed/Ro311cUw5b0",
+          "url": "https://www.youtube.com/embed/HJzSlErp1vw",
           "mime_type": "video/mp4"
         }
       ],
@@ -50,36 +84,6 @@
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/65e47f3/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F12%2Ff8%2Ffc8be3994e2e9da5f510adf93f54%2Fabout-amazon-hero-inline010-aa-kuiper-amazon-liftoff-atlas-v-kuiper-1-54484120534-o-copy-3257x1833-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/entertainment/sinners-michael-b-jordan-ryan-coogler-prime-video",
-      "url": "https://www.aboutamazon.com/news/entertainment/sinners-michael-b-jordan-ryan-coogler-prime-video",
-      "title": "‘Sinners,’ starring Michael B. Jordan, is available on Prime Video",
-      "content_text": "Find out how to watch Ryan Coogler’s supernatural blockbuster ‘Sinners,’ which is available for purchase.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/7519746/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fb8%2F3c%2Fa792efce47e2addbf3b7a27cdabc%2Faa-june2025-sinners-standard-hero-v2-600kb-2000x1125.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/entertainment/seattle-kraken-games-prime-video-watch-stream",
-      "url": "https://www.aboutamazon.com/news/entertainment/seattle-kraken-games-prime-video-watch-stream",
-      "title": "How to watch Kraken games on Prime Video",
-      "content_text": "Select Seattle Kraken games will be available for local Prime members to stream during the 2025 NHL season.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/bf85e79/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fa2%2Fc1%2F3cbb5c714804a275d1514b7d6a51%2Fabout-amazon-hero-hero01-gettyimages-2087341028.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -208,13 +212,13 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/innovation-at-amazon",
-      "url": "https://www.aboutamazon.com/news/innovation-at-amazon",
-      "title": "Innovation at Amazon",
-      "content_text": "Amazon is a company of builders. It's our job to make bold bets, and we get our energy from inventing on behalf of customers.",
+      "id": "https://www.aboutamazon.com/news/retail",
+      "url": "https://www.aboutamazon.com/news/retail",
+      "title": "Retail",
+      "content_text": "More information about shopping on Amazon and our selection of products and services.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/4452c77/2147483647/strip/true/crop/2000x1000+0+167/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F38%2Fb6%2F949fea4a4420b67b004314a888de%2Finnovation.jpg",
+          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -238,40 +242,25 @@
       ]
     },
     {
+      "id": "https://www.aboutamazon.com/news/innovation-at-amazon",
+      "url": "https://www.aboutamazon.com/news/innovation-at-amazon",
+      "title": "Innovation at Amazon",
+      "content_text": "Amazon is a company of builders. It's our job to make bold bets, and we get our energy from inventing on behalf of customers.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/4452c77/2147483647/strip/true/crop/2000x1000+0+167/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F38%2Fb6%2F949fea4a4420b67b004314a888de%2Finnovation.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/community",
       "url": "https://www.aboutamazon.com/news/community",
       "title": "Community",
       "content_text": "We look for uniquely Amazonian and innovative ways to make positive, lasting impacts and encourage our employees to champion causes they care about.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/aws",
-      "url": "https://www.aboutamazon.com/news/aws",
-      "title": "AWS",
-      "content_text": "If you're an inventor, you'll love being an Amazonian. From day one at Amazon, you'll take ownership of projects that have a direct impact on our customers.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/devices",
-      "url": "https://www.aboutamazon.com/news/devices",
-      "title": "Devices",
-      "content_text": "Stories and information about Amazon devices, such as Kindle e-readers, Fire tablets, Fire TV streaming media players, Echo devices, Dash Buttons, and more.",
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",

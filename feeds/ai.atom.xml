@@ -4,13 +4,13 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai</id>
-  <updated>Thu, 02 Oct 2025 05:39:11 +0000</updated>
+  <updated>Fri, 03 Oct 2025 05:40:14 +0000</updated>
   <entry>
-    <title>Advancing Anomaly Detection for Industry Applications with NVIDIA NV-Tesseract-AD | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/advancing-anomaly-detection-for-industry-applications-with-nvidia-nv-tesseract-ad/"/>
-    <id>https://developer.nvidia.com/blog/advancing-anomaly-detection-for-industry-applications-with-nvidia-nv-tesseract-ad/</id>
-    <summary type="text">In a recent blog post, we introduced NVIDIA NV-Tesseract, a family of models designed to unify anomaly detection, classification, and forecasting within a single framework. That work demonstrated the…</summary>
-    <updated>Tue, 30 Sep 2025 15:00:00 +0000</updated>
+    <title>Practical LLM Security Advice from the NVIDIA AI Red Team | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/practical-llm-security-advice-from-the-nvidia-ai-red-team/"/>
+    <id>https://developer.nvidia.com/blog/practical-llm-security-advice-from-the-nvidia-ai-red-team/</id>
+    <summary type="text">Over the last several years, the NVIDIA AI Red Team (AIRT) has evaluated numerous and diverse AI-enabled systems for potential vulnerabilities and security weaknesses before they reach production.</summary>
+    <updated>Thu, 02 Oct 2025 16:52:26 +0000</updated>
   </entry>
   <entry>
     <title>Streamline Robot Learning with Whole-Body Control and Enhanced Teleoperation in NVIDIA Isaac Lab 2.3 | NVIDIA Technical Blog</title>

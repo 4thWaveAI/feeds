@@ -5,6 +5,36 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/young-talons-edu-tech.json",
   "items": [
     {
+      "id": "https://www.edsurge.com/news/2025-10-02-career-readiness-in-the-real-world",
+      "url": "https://www.edsurge.com/news/2025-10-02-career-readiness-in-the-real-world",
+      "title": "Career Readiness in the Real World [Podcast] - EdSurge News",
+      "content_text": "As industries evolve and the skills gap widens, the question remains: How can we better connect education to employment? In this episode of The Idea ...",
+      "attachments": [
+        {
+          "url": "https://edsurge.imgix.net/uploads/post/image/16459/Shutterstock_1609512961-1759344755.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "young-talons-edu-tech"
+      ]
+    },
+    {
+      "id": "https://www.edsurge.com/news/2025-10-02-who-supervises-students-in-virtual-schools",
+      "url": "https://www.edsurge.com/news/2025-10-02-who-supervises-students-in-virtual-schools",
+      "title": "Who Supervises Students in Virtual Schools? - EdSurge News",
+      "content_text": "While school drop-offs may not be at play, parents find a new host of rules to abide by with virtual schooling.",
+      "attachments": [
+        {
+          "url": "https://edsurge.imgix.net/uploads/post/image/16458/shutterstock_1901815300-1759267489.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "young-talons-edu-tech"
+      ]
+    },
+    {
       "id": "https://www.edsurge.com/news/2025-10-01-the-end-of-either-or-preparing-students-for-college-and-career",
       "url": "https://www.edsurge.com/news/2025-10-01-the-end-of-either-or-preparing-students-for-college-and-career",
       "title": "The End of Either/Or: Preparing Students for College — and Career - EdSurge News",
@@ -57,36 +87,6 @@
       "attachments": [
         {
           "url": "https://edsurge.imgix.net/uploads/post/image/16453/shutterstock_2109212408-1759120185.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "young-talons-edu-tech"
-      ]
-    },
-    {
-      "id": "https://www.edsurge.com/news/2025-09-25-the-world-s-classrooms-are-short-44-million-teachers",
-      "url": "https://www.edsurge.com/news/2025-09-25-the-world-s-classrooms-are-short-44-million-teachers",
-      "title": "The World's Classrooms Are Short 44 Million Teachers - EdSurge News",
-      "content_text": "“(Data) suggests there's something unique about the context of teaching or the working conditions teachers experience that are affecting these ...",
-      "attachments": [
-        {
-          "url": "https://edsurge.imgix.net/uploads/post/image/16452/Shutterstock_2296870297-1758754735.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "young-talons-edu-tech"
-      ]
-    },
-    {
-      "id": "https://www.edsurge.com/news/2025-09-24-how-i-m-rewriting-the-narrative-for-latino-students-in-our-schools",
-      "url": "https://www.edsurge.com/news/2025-09-24-how-i-m-rewriting-the-narrative-for-latino-students-in-our-schools",
-      "title": "How I’m Rewriting the Narrative for Latino Students in Our Schools - EdSurge News",
-      "content_text": "BREAKING THE NARRATIVE: Latino students are too often reduced to a single story — whether through labels like “no sabo kid” or assumptions about ...",
-      "attachments": [
-        {
-          "url": "https://edsurge.imgix.net/uploads/post/image/16443/shutterstock_2572050171-1757952340.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
           "mime_type": "image/jpeg"
         }
       ],
@@ -209,7 +209,7 @@
       "id": "https://news.mit.edu/topic/startups",
       "url": "https://news.mit.edu/topic/startups",
       "title": "Startups | MIT News | Massachusetts Institute of Technology",
-      "content_text": "This year’s delta v summer accelerator offered an up-close look at how AI is changing the process of building a startup.",
+      "content_text": "Bakshi will help shape and scale entrepreneurship education and platform at MIT.",
       "tags": [
         "young-talons-edu-tech"
       ]
