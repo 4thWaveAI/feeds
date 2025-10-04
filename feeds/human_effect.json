@@ -5,6 +5,36 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/human_effect.json",
   "items": [
     {
+      "id": "https://spectrum.ieee.org/video-friday-speedy-drone-landing",
+      "url": "https://spectrum.ieee.org/video-friday-speedy-drone-landing",
+      "title": "Drones Land on Vehicles Moving at 110 km/h",
+      "content_text": "How does a robot hand moonwalk? See the playful experiment bringing robotic fingers to life. Plus a drone landing on a vehicle moving at 110 km/h.",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/image.png?id=61690208&width=1200&height=600&coordinates=0%2C120%2C0%2C120",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://aiforgood.itu.int/advancing-multi-disease-detection-with-ai-imaging-at-alibaba-damo-academy/",
+      "url": "https://aiforgood.itu.int/advancing-multi-disease-detection-with-ai-imaging-at-alibaba-damo-academy/",
+      "title": "Advancing multi-disease detection with AI imaging at Alibaba DAMO Academy",
+      "content_text": "Connect with 51K enthusiasts from all over the world.",
+      "attachments": [
+        {
+          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/Alibaba--1024x576.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://spectrum.ieee.org/student-engineering-a-healthier-future",
       "url": "https://spectrum.ieee.org/student-engineering-a-healthier-future",
       "title": "Engineering Student Aims to Transform Health Care in Mexico",
@@ -133,21 +163,6 @@
         {
           "url": "https://spectrum.ieee.org/media-library/image.jpg?id=61668014&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/ai-energy-use",
-      "url": "https://spectrum.ieee.org/ai-energy-use",
-      "title": "How Much Energy Does It Take to Power Billions of AI Queries?",
-      "content_text": "All generative AI queries could hit 329 billion per day by 2030. See the big picture on AI's energy use, and how it's reshaping our world.",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/image.png?id=61619508&width=1200&height=600&coordinates=0%2C28%2C0%2C183",
-          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -470,21 +485,6 @@
       ]
     },
     {
-      "id": "https://aiforgood.itu.int/how-microsoft-is-driving-global-change-through-ai-skills/",
-      "url": "https://aiforgood.itu.int/how-microsoft-is-driving-global-change-through-ai-skills/",
-      "title": "How Microsoft is driving global change through AI skills",
-      "content_text": "Connect with 51K enthusiasts from all over the world.",
-      "attachments": [
-        {
-          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/How-Microsoft-is-driving-global-change-through-AI-skills-1024x576.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
       "id": "https://montrealethics.ai/beyond-consultation-building-inclusive-ai-governance-for-canadas-democratic-future/",
       "url": "https://montrealethics.ai/beyond-consultation-building-inclusive-ai-governance-for-canadas-democratic-future/",
       "title": "Beyond Consultation: Building Inclusive AI Governance for Canada’s Democratic Future | Montreal AI Ethics Institute",
@@ -710,6 +710,21 @@
       ]
     },
     {
+      "id": "https://www.technologyreview.com/2025/10/03/1124782/the-download-using-ai-to-discover-zero-day-vulnerabilities-and-apples-ice-app-removal/",
+      "url": "https://www.technologyreview.com/2025/10/03/1124782/the-download-using-ai-to-discover-zero-day-vulnerabilities-and-apples-ice-app-removal/",
+      "title": "The Download: using AI to discover “zero day” vulnerabilities, and Apple’s ICE app removal",
+      "content_text": "Plus: OpenAI's parental controls aren't exactly robust",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/ai-dna-hack.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://www.technologyreview.com/2025/10/02/1124767/microsoft-says-ai-can-create-zero-day-threats-in-biology/",
       "url": "https://www.technologyreview.com/2025/10/02/1124767/microsoft-says-ai-can-create-zero-day-threats-in-biology/",
       "title": "Microsoft says AI can create “zero day” threats in biology",
@@ -837,21 +852,6 @@
       "attachments": [
         {
           "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/MITTR2024_V1_microamdSocials.png?resize=1200%2C600",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/09/30/1124493/powering-hpc-with-next-generation-cpus/",
-      "url": "https://www.technologyreview.com/2025/09/30/1124493/powering-hpc-with-next-generation-cpus/",
-      "title": "Powering HPC with next-generation CPUs",
-      "content_text": "From genomics to AI, CPUs continue to lead high-performance computing by offering unmatched flexibility, reliability, and scale, says Microsoft Azure’s Evan Burness and Intersect360 Research’s Addison Snell.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/MITTRIMS_AMD-social-1200px.png?resize=1200%2C600",
           "mime_type": "image/png"
         }
       ],

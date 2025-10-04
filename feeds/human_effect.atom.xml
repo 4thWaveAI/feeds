@@ -4,7 +4,21 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/human_effect.atom.xml"/>
   <id>urn:4thwaveai-feeds:human_effect</id>
-  <updated>Fri, 03 Oct 2025 05:44:13 +0000</updated>
+  <updated>Sat, 04 Oct 2025 05:42:04 +0000</updated>
+  <entry>
+    <title>Drones Land on Vehicles Moving at 110 km/h</title>
+    <link href="https://spectrum.ieee.org/video-friday-speedy-drone-landing"/>
+    <id>https://spectrum.ieee.org/video-friday-speedy-drone-landing</id>
+    <summary type="text">How does a robot hand moonwalk? See the playful experiment bringing robotic fingers to life. Plus a drone landing on a vehicle moving at 110 km/h.</summary>
+    <updated>Fri, 03 Oct 2025 16:00:03 +0000</updated>
+  </entry>
+  <entry>
+    <title>Advancing multi-disease detection with AI imaging at Alibaba DAMO Academy</title>
+    <link href="https://aiforgood.itu.int/advancing-multi-disease-detection-with-ai-imaging-at-alibaba-damo-academy/"/>
+    <id>https://aiforgood.itu.int/advancing-multi-disease-detection-with-ai-imaging-at-alibaba-damo-academy/</id>
+    <summary type="text">Connect with 51K enthusiasts from all over the world.</summary>
+    <updated>Fri, 03 Oct 2025 05:30:54 +0000</updated>
+  </entry>
   <entry>
     <title>Engineering Student Aims to Transform Health Care in Mexico</title>
     <link href="https://spectrum.ieee.org/student-engineering-a-healthier-future"/>
@@ -67,13 +81,6 @@
     <id>https://spectrum.ieee.org/ai-battery-material</id>
     <summary type="text">What if AI could find the perfect battery material in hours, not years? Discover the latest advancements.</summary>
     <updated>Wed, 01 Oct 2025 14:00:04 +0000</updated>
-  </entry>
-  <entry>
-    <title>How Much Energy Does It Take to Power Billions of AI Queries?</title>
-    <link href="https://spectrum.ieee.org/ai-energy-use"/>
-    <id>https://spectrum.ieee.org/ai-energy-use</id>
-    <summary type="text">All generative AI queries could hit 329 billion per day by 2030. See the big picture on AI&#x27;s energy use, and how it&#x27;s reshaping our world.</summary>
-    <updated>Wed, 01 Oct 2025 13:00:03 +0000</updated>
   </entry>
   <entry>
     <title>Early Warning for All: Leveraging AI to reach the unconnected</title>
@@ -223,13 +230,6 @@
     <updated>Wed, 03 Sep 2025 20:03:19 +0000</updated>
   </entry>
   <entry>
-    <title>How Microsoft is driving global change through AI skills</title>
-    <link href="https://aiforgood.itu.int/how-microsoft-is-driving-global-change-through-ai-skills/"/>
-    <id>https://aiforgood.itu.int/how-microsoft-is-driving-global-change-through-ai-skills/</id>
-    <summary type="text">Connect with 51K enthusiasts from all over the world.</summary>
-    <updated>Wed, 03 Sep 2025 05:30:12 +0000</updated>
-  </entry>
-  <entry>
     <title>Beyond Consultation: Building Inclusive AI Governance for Canada’s Democratic Future | Montreal AI Ethics Institute</title>
     <link href="https://montrealethics.ai/beyond-consultation-building-inclusive-ai-governance-for-canadas-democratic-future/"/>
     <id>https://montrealethics.ai/beyond-consultation-building-inclusive-ai-governance-for-canadas-democratic-future/</id>
@@ -325,6 +325,12 @@
     <summary type="text">From unique findings in niche research topics, commonly misunderstood concepts in AI and technology, and what it’s like to be a theologian in an department, OII students share all.</summary>
   </entry>
   <entry>
+    <title>The Download: using AI to discover “zero day” vulnerabilities, and Apple’s ICE app removal</title>
+    <link href="https://www.technologyreview.com/2025/10/03/1124782/the-download-using-ai-to-discover-zero-day-vulnerabilities-and-apples-ice-app-removal/"/>
+    <id>https://www.technologyreview.com/2025/10/03/1124782/the-download-using-ai-to-discover-zero-day-vulnerabilities-and-apples-ice-app-removal/</id>
+    <summary type="text">Plus: OpenAI&#x27;s parental controls aren&#x27;t exactly robust</summary>
+  </entry>
+  <entry>
     <title>Microsoft says AI can create “zero day” threats in biology</title>
     <link href="https://www.technologyreview.com/2025/10/02/1124767/microsoft-says-ai-can-create-zero-day-threats-in-biology/"/>
     <id>https://www.technologyreview.com/2025/10/02/1124767/microsoft-says-ai-can-create-zero-day-threats-in-biology/</id>
@@ -377,12 +383,6 @@
     <link href="https://www.technologyreview.com/2025/09/30/1124505/designing-cpus-for-next-generation-supercomputing/"/>
     <id>https://www.technologyreview.com/2025/09/30/1124505/designing-cpus-for-next-generation-supercomputing/</id>
     <summary type="text">While GPU-accelerated AI dominates headlines, CPUs remain an optimal choice for many scientific and engineering workloads.</summary>
-  </entry>
-  <entry>
-    <title>Powering HPC with next-generation CPUs</title>
-    <link href="https://www.technologyreview.com/2025/09/30/1124493/powering-hpc-with-next-generation-cpus/"/>
-    <id>https://www.technologyreview.com/2025/09/30/1124493/powering-hpc-with-next-generation-cpus/</id>
-    <summary type="text">From genomics to AI, CPUs continue to lead high-performance computing by offering unmatched flexibility, reliability, and scale, says Microsoft Azure’s Evan Burness and Intersect360 Research’s Addison Snell.</summary>
   </entry>
   <entry>
     <title>The AI Ethics Brief #172: The State of AI Ethics in 2025: What&#x27;s Actually Working</title>

@@ -5,6 +5,96 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sciencedaily-top.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2025/10/251003033921.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251003033921.htm",
+      "title": "Doctors stunned by a cheap drug’s power against colon cancer",
+      "content_text": "A Scandinavian clinical trial has revealed that low-dose aspirin can halve the risk of colon and rectal cancer recurrence in patients with specific genetic mutations. The research, involving over 3,500 patients, is the first randomized study to confirm aspirin’s powerful effect in this context. The findings suggest aspirin could become a widely available, inexpensive precision medicine, reshaping cancer treatment strategies globally.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/holding-round-white-aspirin-pill.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/10/251003033920.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251003033920.htm",
+      "title": "A tiny detector could unveil gravitational waves we’ve never seen before",
+      "content_text": "Researchers have designed a new type of gravitational wave detector that operates in the milli-Hertz range, a region untouched by current observatories. Built with optical resonators and atomic clocks, the compact detectors can fit on a lab table yet probe signals from exotic binaries and ancient cosmic events. Unlike LIGO, they’re relatively immune to seismic noise and could start working long before space missions like LISA launch.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/gravitational-waves-binary-system.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/10/251003033917.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251003033917.htm",
+      "title": "Rogue planet spotted devouring 6 billion tons every second",
+      "content_text": "Astronomers have uncovered a runaway feeding frenzy in a rogue planet drifting freely through space, devouring six billion tonnes of gas and dust every second. Located 620 light-years away in the Chamaeleon constellation, the object, Cha 1107-7626, is growing at the fastest rate ever seen in any planet. The dramatic surge in mass revealed evidence of strong magnetic fields and changing chemistry, including water vapor, previously only observed in young stars.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/rogue-planet-cha-1107-7626.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/10/251003033915.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251003033915.htm",
+      "title": "Fat may secretly fuel Alzheimer’s, new research finds",
+      "content_text": "New research from Houston Methodist reveals how obesity may directly drive Alzheimer’s disease. Scientists discovered that tiny messengers released by fat tissue, called extracellular vesicles, can carry harmful signals that accelerate the buildup of amyloid-β plaques in the brain. These vesicles even cross the blood–brain barrier, making them powerful but dangerous connectors between body fat and brain health.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/dementia-brain-degeneration-memory-lapse.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/10/251003033913.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251003033913.htm",
+      "title": "The invisible chemical in the air that could be raising Parkinson’s risk",
+      "content_text": "A massive nationwide study has linked long-term exposure to the industrial chemical trichloroethylene (TCE) with a higher risk of Parkinson’s disease in older adults. Researchers examined over 1.1 million people, finding that those living in areas with the highest outdoor TCE levels faced a 10% greater risk of developing Parkinson’s.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/industrial-pollution-woman-children-future.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/10/251003033909.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251003033909.htm",
+      "title": "Scientists just cracked the mystery of why cancer immunotherapy fails",
+      "content_text": "Ohio State researchers have discovered that exhausted T cells collapse under the weight of misfolded proteins, activating a destructive stress response called TexPSR. Unlike normal stress systems, TexPSR accelerates protein production, flooding the cells with toxic buildup. Blocking it restored T-cell function and improved cancer immunotherapy.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/cancer-cell-self-destructing.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/10/251002074014.htm",
       "url": "https://www.sciencedaily.com/releases/2025/10/251002074014.htm",
       "title": "Poor sleep speeds brain aging and may raise dementia risk",
@@ -12,6 +102,96 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/doctor-pointing-to-brain-ct-scan.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/10/251002074013.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251002074013.htm",
+      "title": "Scientists uncover a mysterious Jurassic lizard with snake-like jaws",
+      "content_text": "A strange Jurassic lizard discovered on Scotland’s Isle of Skye is shaking up what we know about snake evolution. Named Breugnathair elgolensis, the “false snake of Elgol” combined hook-like, python-style teeth and jaws with the short body and limbs of a lizard. Researchers spent nearly a decade studying the 167-million-year-old fossil, revealing that it belonged to a newly defined group of squamates and carried features of both snakes and geckos.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/breugnathair-illustration.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/10/251002074011.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251002074011.htm",
+      "title": "A flu test you can chew",
+      "content_text": "Flu detection could soon be as simple as chewing gum. Scientists have created a molecular sensor that releases a thyme-like flavor when it encounters influenza, offering a low-tech, taste-based alternative to nasal swabs. Unlike current tests that are slow, costly, or miss early infections, this method could catch the flu before symptoms appear.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/asian-woman-chewing-gum.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/10/251002074009.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251002074009.htm",
+      "title": "Japan’s hot springs hold clues to the origins of life on Earth",
+      "content_text": "Billions of years ago, Earth’s atmosphere was hostile, with barely any oxygen and toxic conditions for life. Researchers from the Earth-Life Science Institute studied Japan’s iron-rich hot springs, which mimic the ancient oceans, to uncover how early microbes survived. They discovered communities of bacteria that thrived on iron and tiny amounts of oxygen, forming ecosystems that recycled elements like carbon, nitrogen, and sulfur.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/geothermal-hot-spring-with-vivid-colors.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/10/251002074007.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251002074007.htm",
+      "title": "Millions could be living with hidden smell loss after COVID without knowing",
+      "content_text": "A massive NIH-backed study reveals that COVID-19’s toll on smell may be more widespread and lasting than most realize. Even patients without noticeable symptoms often performed poorly on scent tests, raising safety and health concerns. Because smell loss can signal deeper neurological issues, experts are calling for routine testing and exploring new treatments.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/lemon-smell-blindness-test.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/10/251002074005.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251002074005.htm",
+      "title": "Scientists just found the shocking reason Chile’s quake shook so hard",
+      "content_text": "A massive quake struck Calama, Chile, in 2024, surprising scientists with its unusual depth and destructive power. Unlike typical deep quakes, it broke past thermal limits and triggered an intense “thermal runaway” rupture. Researchers say the event challenges long-held theories and highlights the need for improved monitoring and preparedness. Their findings could shape how we predict and respond to future seismic threats worldwide.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/earthquake-seismograph-red-concentric-circles.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/10/251002074004.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251002074004.htm",
+      "title": "The Moon’s far side is hiding a chilling secret",
+      "content_text": "New lunar samples from the far side reveal it formed from cooler magma than the near side, confirming the Moon’s interior is not uniform. Researchers suggest fewer heat-producing elements on the far side explain the difference. Theories range from ancient cosmic collisions to Earth’s gravitational pull. These discoveries bring us closer to solving the Moon’s long-standing “two-faced” mystery.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/planet-earth-behind-moon-far-side.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -117,186 +297,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/cancer-target-detection.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/10/251001092213.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251001092213.htm",
-      "title": "Before they sucked blood, leeches were ocean hunters",
-      "content_text": "A 430-million-year-old fossil has rewritten leech history, showing they are at least 200 million years older than previously believed. Unlike today’s bloodsucking leeches, their ancient ancestors likely hunted small marine animals using a tail sucker rather than piercing skin.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/medicinal-leech-blood-sucking.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/10/251001092211.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251001092211.htm",
-      "title": "1,000 Swiss glaciers already gone, and the melting is speeding up",
-      "content_text": "Swiss glaciers lost nearly 3% of their volume in 2025, following a snow-poor winter and scorching summer heatwaves. The melt has been so extreme that some glaciers lost more than two meters of ice thickness in a single season. Scientists caution that the decline is destabilizing mountains, raising risks of rock and ice avalanches. Long-term monitoring efforts are now more critical than ever.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/rhone-glacier-canton-valais-in-switzerland.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/10/251001092210.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251001092210.htm",
-      "title": "Saturn’s icy moon Enceladus just revealed stunning new clues to life",
-      "content_text": "Fresh analysis of Cassini data has revealed new complex organic molecules inside ice grains spewing from Enceladus. These discoveries strengthen the case that the moon’s underground ocean hosts chemistry similar to life’s building blocks on Earth. Scientists now believe Enceladus could be habitable, and plans are underway for a European mission to sample its surface and jets.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/titan-moon-atmosphere.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/10/251001092208.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251001092208.htm",
-      "title": "The billion-year reign of fungi that predated plants and made Earth livable",
-      "content_text": "Fungi may have shaped Earth’s landscapes long before plants appeared. By combining rare gene transfers with fossil evidence, researchers have traced fungal origins back nearly a billion years earlier than expected. These ancient fungi may have partnered with algae, recycling nutrients, breaking down rock, and creating primitive soils. Far from being silent background players, fungi were ecosystem engineers that prepared Earth’s surface for plants, fundamentally altering the course of life’s history.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/pink-oyster-mushrooms.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/10/251001092206.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251001092206.htm",
-      "title": "DOLPHIN AI uncovers hundreds of invisible cancer markers",
-      "content_text": "A new AI tool called DOLPHIN exposes hidden genetic markers inside single cells, enabling earlier detection and more precise treatment choices. It also sets the stage for building virtual models of cells to simulate disease and drug responses.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/human-cell-structure.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/10/251001092204.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251001092204.htm",
-      "title": "Princeton’s AI reveals what fusion sensors can’t see",
-      "content_text": "A powerful new AI tool called Diag2Diag is revolutionizing fusion research by filling in missing plasma data with synthetic yet highly detailed information. Developed by Princeton scientists and international collaborators, this system uses sensor input to predict readings other diagnostics can’t capture, especially in the crucial plasma edge region where stability determines performance. By reducing reliance on bulky hardware, it promises to make future fusion reactors more compact, affordable, and reliable.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/diag2diag-illustration.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250930034246.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250930034246.htm",
-      "title": "Scientists just solved Uranus’ coldest mystery",
-      "content_text": "For decades, Uranus baffled scientists because it seemed to have no internal heat. Now, new computer modeling shows the planet actually emits more energy than it receives from the Sun. This subtle warmth suggests Uranus’ story is more complex than previously thought, offering fresh clues about its violent past and about exoplanets similar in size.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/uranus-planet-illustration.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250930034243.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250930034243.htm",
-      "title": "Blocking one protein supercharges the immune system against cancer",
-      "content_text": "Scientists have found a way to supercharge the immune system’s T cells by blocking a protein called Ant2, essentially rewiring how these cells generate energy. This metabolic reprogramming makes them more resilient, faster, and deadlier against tumors.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/t-cells-cancer-cells.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250930034240.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250930034240.htm",
-      "title": "Yoga isn’t as heart-healthy as you think, new study reveals",
-      "content_text": "A comprehensive review shows that yoga doesn’t match up to traditional exercise for improving vascular health. Activities like Pilates, Tai Chi, and interval training prove more effective in keeping arteries resilient, especially in sedentary adults. While yoga remains valuable for accessibility and cultural significance, experts say it should be supplemented with more vigorous activity to fully protect heart health.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/young-female-athlete-stretching-yoga.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250930034237.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250930034237.htm",
-      "title": "Webb spots first hints of atmosphere on a potentially habitable world",
-      "content_text": "Astronomers using the James Webb Space Telescope are unraveling the mysteries of TRAPPIST-1e, an Earth-sized exoplanet 40 light years away that could harbor liquid water. Early data suggests hints of an atmosphere, but much remains uncertain. Researchers have already ruled out a hydrogen-rich primordial atmosphere, pointing instead to the possibility of a secondary atmosphere that could sustain oceans or ice.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/exoplanet-trappist-1-e.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250930034211.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250930034211.htm",
-      "title": "A plant compound might be the secret weapon against gum disease",
-      "content_text": "A team of researchers tested morin, a plant compound, against gum disease bacteria and found strong antimicrobial benefits. By encapsulating it in polymers, they created a powdered form for oral hygiene products. This could replace antibiotics, avoid side effects from existing treatments, and help vulnerable patients maintain oral health.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/gum-disease-mouth-ulcer.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250930034209.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250930034209.htm",
-      "title": "Scientists may be closing in on dark matter’s true identity",
-      "content_text": "The LUX-ZEPLIN detector is breaking new ground in the hunt for dark matter, setting unprecedented limits on WIMP particles. Its results not only narrow the possibilities for dark matter but also open exciting paths toward other rare physics discoveries.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/astrophysics-dark-matter-particle-detection.webp",
           "mime_type": "image/webp"
         }
       ],

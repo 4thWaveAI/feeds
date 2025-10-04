@@ -5,17 +5,32 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.json",
   "items": [
     {
-      "id": "https://www.aboutamazon.com/news/retail/amazon-shopping-prime-members-add-to-delivery",
-      "url": "https://www.aboutamazon.com/news/retail/amazon-shopping-prime-members-add-to-delivery",
-      "title": "Game-changing new shopping feature lets you add items to upcoming Amazon deliveries with just one tap",
-      "content_text": "Add to Delivery, our latest feature for Prime members, makes it easier than ever to add what you need, when you remember you need it.",
+      "id": "https://www.aboutamazon.com/news/community/amazon-disaster-relief-technology-kits-recovery",
+      "url": "https://www.aboutamazon.com/news/community/amazon-disaster-relief-technology-kits-recovery",
+      "title": "How Amazon’s disaster technology kits help communities recover faster",
+      "content_text": "The kits are produced for local first responders to use in the aftermath of disasters, designed to be as simple as flipping a light switch.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/d60d2b0/2147483647/strip/true/crop/2000x1000+0+125/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F47%2F9d%2F3861035e4d02b06f9557a65c0479%2Fadd-phonehero-2000x1125.jpg",
+          "url": "https://assets.aboutamazon.com/dims4/default/8e85e6c/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F61%2F59%2Fbd70de23405d87ee12f07f7e9966%2Fabout-amazon-hero-hero001-aa-disasterrelieftraining-amazon-tight-pgk-09.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news",
+      "url": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news",
+      "title": "Amazon data center communities: Here’s what’s happening near data centers across the US",
+      "content_text": "Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/182bf18/2147483647/strip/true/crop/5272x2636+0+163/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fa3%2Ff6%2F0abb1c1a4734ba2e727893e6eae2%2Faws-data-center-exterior-1.jpg",
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://www.youtube.com/embed/phieeG3tqZs",
+          "url": "https://www.youtube.com/embed/FylIotVFrzE",
           "mime_type": "video/mp4"
         }
       ],
@@ -126,74 +141,6 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/entertainment/play-dirty-mark-wahlberg-lakeith-stanfield-prime-video",
-      "url": "https://www.aboutamazon.com/news/entertainment/play-dirty-mark-wahlberg-lakeith-stanfield-prime-video",
-      "title": "How to watch the heist film ‘Play Dirty,’ streaming now on Prime Video",
-      "content_text": "The action thriller, starring Mark Wahlberg and LaKeith Stanfield, follows a ruthless thief and his expert crew in New York City.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/c04f066/2147483647/strip/true/crop/3000x1500+0+94/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff7%2Fda%2Ffcd437bd4f899b8409a81fb33735%2Fparker-mark-wahlberg-and-grofield-lakeith-stanfield-in-play-dirty-photo-credit-jasin-boland-prime-video-3000.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/6paP2-ry-QY",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/entertainment/prime-video-amazon-mgm-studios-fall-2025-movies",
-      "url": "https://www.aboutamazon.com/news/entertainment/prime-video-amazon-mgm-studios-fall-2025-movies",
-      "title": "10 movies from Prime Video and Amazon MGM Studios coming soon in fall 2025",
-      "content_text": "Find out what films are coming to theaters and Prime Video, including ‘After the Hunt’ with Julia Roberts and ‘Culpa Nuestra.’",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/05d0110/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F87%2F84%2Fd74c9ca7423e9e8f84c1d2c6ba79%2Fabout-amazon-hero-dia17-231010-cunu-7690-1125.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/entertainment/maxton-hall-prime-video",
-      "url": "https://www.aboutamazon.com/news/entertainment/maxton-hall-prime-video",
-      "title": "Check out the brand-new trailer for ‘Maxton Hall’ Season 2, coming exclusively to Prime Video",
-      "content_text": "The second season of ‘Maxton Hall,’ based on the best-selling book series from Mona Kasten, will be available to stream this fall.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/d827f62/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fa0%2F0c%2F7220ba8549928cea1875f5a00189%2Fabout-amazon-inline-prime-video-stephan-raboldsymu-s2-00451-3000.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/HJzSlErp1vw",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/innovation-at-amazon/project-kuiper-satellite-rocket-launch-progress-updates",
-      "url": "https://www.aboutamazon.com/news/innovation-at-amazon/project-kuiper-satellite-rocket-launch-progress-updates",
-      "title": "Project Kuiper mission updates: The latest launch news as we deploy our satellite internet constellation",
-      "content_text": "Follow along for updates as Project Kuiper launches more than 80 missions to deploy our initial low Earth orbit satellite internet constellation.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/65e47f3/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F12%2Ff8%2Ffc8be3994e2e9da5f510adf93f54%2Fabout-amazon-hero-inline010-aa-kuiper-amazon-liftoff-atlas-v-kuiper-1-54484120534-o-copy-3257x1833-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
       "id": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
       "url": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
       "title": "AlphaQubit tackles one of quantum computing’s biggest challenges",
@@ -206,6 +153,55 @@
       ],
       "tags": [
         "demis-hassabis"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/operations/how-amazon-prepares-for-prime-day",
+      "url": "https://www.aboutamazon.com/news/operations/how-amazon-prepares-for-prime-day",
+      "title": "A behind-the-scenes look at how Amazon prepares for its biggest shopping events of the year",
+      "content_text": "Here’s how Amazon fulfillment centers and delivery stations prepare for big shopping events like Prime Day and Prime Big Deal Days.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/41acc51/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fd9%2F4a%2F166566e246e39778d588d8913744%2Fabout-amazon-inline-share001-amazon-primedayprep-archive044-amazon-primedayprep-amazon-selects-144-4630x3087-copy-3343x2682.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/retail/amazon-prime-big-deal-days-faq",
+      "url": "https://www.aboutamazon.com/news/retail/amazon-prime-big-deal-days-faq",
+      "title": "Amazon Prime Big Deal Days 2025: Everything you need to know to get deals",
+      "content_text": "Everything you need to know about Amazon Prime Big Deal Days 2025, including when it starts, when it ends, and how to find the best deals.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/8756161/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F0b%2Feb%2F35485c2f4c629fcc3568ec79102e%2Fabout-amazon-inline-aa-pbdd25-everythingtoknow-standard-hero-v5-2000x1125.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/aws/how-aws-wickrs-encryption-service-is-helping-at-risk-afghan-citizens",
+      "url": "https://www.aboutamazon.com/news/aws/how-aws-wickrs-encryption-service-is-helping-at-risk-afghan-citizens",
+      "title": "How AWS Wickr is helping save lives in crisis situations",
+      "content_text": "From Afghanistan evacuations to Hurricane Helene relief efforts, AWS Wickr supports nonprofit and U.S. Army operations, enabling secure combat zone communications.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/fefcd17/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F35%2F8f%2Feb73aef54345abdd3d1f8ed4dee8%2Finline-001-awsxoperationrecovery-thumbnail-copy-1.JPG",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/CvY0O9afxnE",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
       ]
     },
     {
@@ -291,7 +287,7 @@
       "id": "https://blogs.nvidia.com/blog/category/gaming/",
       "url": "https://blogs.nvidia.com/blog/category/gaming/",
       "title": "Gaming Archives",
-      "content_text": "Suit up and head for the cloud. Mecha BREAK, the popular third-person shooter, is now available to stream… Read Article",
+      "content_text": "Editor’s note: This blog has been updated to include an additional game for October, The Outer Worlds 2. October… Read Article",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2018/05/nvidia-logo.jpg",
@@ -625,7 +621,7 @@
       "content_text": "How Geoff Richman, lead editor on the Apple Original, “Severance,” created the frenetic world of the hit show’s season two finale.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/Apple-TV-plus-Mac-editing-Severance-Geoffrey-Richman-and-Ben-Stiller-lp.jpg.og.jpg?202508281642=",
+          "url": "https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/Apple-TV-plus-Mac-editing-Severance-Geoffrey-Richman-and-Ben-Stiller-lp.jpg.og.jpg?202508281640=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -640,7 +636,7 @@
       "content_text": "Meet Taiki Hamamoto, Marina Lee, Luciana Ortiz Nolasco, and Nahom Worku, four winners of Apple’s 2025 Swift Student Challenge.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281642=",
+          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281742=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -655,7 +651,7 @@
       "content_text": "From a horror-comedy in Tamil to a magical romance in Malayalam, MAMI Select filmmakers are redefining cinema with iPhone 16 Pro Max.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/tile/Apple-MAMI-Select-iPhone-16-Pro-Max-hero-lp.jpg.og.jpg?202508281729=",
+          "url": "https://www.apple.com/newsroom/images/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/tile/Apple-MAMI-Select-iPhone-16-Pro-Max-hero-lp.jpg.og.jpg?202508281639=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -700,7 +696,7 @@
       "content_text": "The source for news about Apple Services. Get updates on the latest Apple Arcade games, Apple Originals on TV+, Podcasts, Books, and more from Apple Newsroom.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1759260173404=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1759260071068=",
           "mime_type": "image/jpeg"
         }
       ],

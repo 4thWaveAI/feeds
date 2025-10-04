@@ -4,13 +4,20 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.atom.xml"/>
   <id>urn:4thwaveai-feeds:tech-leaders</id>
-  <updated>Fri, 03 Oct 2025 05:44:13 +0000</updated>
+  <updated>Sat, 04 Oct 2025 05:42:04 +0000</updated>
   <entry>
-    <title>Game-changing new shopping feature lets you add items to upcoming Amazon deliveries with just one tap</title>
-    <link href="https://www.aboutamazon.com/news/retail/amazon-shopping-prime-members-add-to-delivery"/>
-    <id>https://www.aboutamazon.com/news/retail/amazon-shopping-prime-members-add-to-delivery</id>
-    <summary type="text">Add to Delivery, our latest feature for Prime members, makes it easier than ever to add what you need, when you remember you need it.</summary>
-    <updated>Thu, 02 Oct 2025 14:30:05 +0000</updated>
+    <title>How Amazon’s disaster technology kits help communities recover faster</title>
+    <link href="https://www.aboutamazon.com/news/community/amazon-disaster-relief-technology-kits-recovery"/>
+    <id>https://www.aboutamazon.com/news/community/amazon-disaster-relief-technology-kits-recovery</id>
+    <summary type="text">The kits are produced for local first responders to use in the aftermath of disasters, designed to be as simple as flipping a light switch.</summary>
+    <updated>Fri, 03 Oct 2025 19:42:54 +0000</updated>
+  </entry>
+  <entry>
+    <title>Amazon data center communities: Here’s what’s happening near data centers across the US</title>
+    <link href="https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news"/>
+    <id>https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news</id>
+    <summary type="text">Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers.</summary>
+    <updated>Fri, 03 Oct 2025 18:00:00 +0000</updated>
   </entry>
   <entry>
     <title>Accelerating our commercial growth - The Official Microsoft Blog</title>
@@ -55,39 +62,32 @@
     <updated>Thu, 18 Sep 2025 14:00:02 +0000</updated>
   </entry>
   <entry>
-    <title>How to watch the heist film ‘Play Dirty,’ streaming now on Prime Video</title>
-    <link href="https://www.aboutamazon.com/news/entertainment/play-dirty-mark-wahlberg-lakeith-stanfield-prime-video"/>
-    <id>https://www.aboutamazon.com/news/entertainment/play-dirty-mark-wahlberg-lakeith-stanfield-prime-video</id>
-    <summary type="text">The action thriller, starring Mark Wahlberg and LaKeith Stanfield, follows a ruthless thief and his expert crew in New York City.</summary>
-    <updated>Mon, 15 Sep 2025 20:46:13 +0000</updated>
-  </entry>
-  <entry>
-    <title>10 movies from Prime Video and Amazon MGM Studios coming soon in fall 2025</title>
-    <link href="https://www.aboutamazon.com/news/entertainment/prime-video-amazon-mgm-studios-fall-2025-movies"/>
-    <id>https://www.aboutamazon.com/news/entertainment/prime-video-amazon-mgm-studios-fall-2025-movies</id>
-    <summary type="text">Find out what films are coming to theaters and Prime Video, including ‘After the Hunt’ with Julia Roberts and ‘Culpa Nuestra.’</summary>
-    <updated>Fri, 08 Aug 2025 18:03:25 +0000</updated>
-  </entry>
-  <entry>
-    <title>Check out the brand-new trailer for ‘Maxton Hall’ Season 2, coming exclusively to Prime Video</title>
-    <link href="https://www.aboutamazon.com/news/entertainment/maxton-hall-prime-video"/>
-    <id>https://www.aboutamazon.com/news/entertainment/maxton-hall-prime-video</id>
-    <summary type="text">The second season of ‘Maxton Hall,’ based on the best-selling book series from Mona Kasten, will be available to stream this fall.</summary>
-    <updated>Tue, 17 Jun 2025 22:07:37 +0000</updated>
-  </entry>
-  <entry>
-    <title>Project Kuiper mission updates: The latest launch news as we deploy our satellite internet constellation</title>
-    <link href="https://www.aboutamazon.com/news/innovation-at-amazon/project-kuiper-satellite-rocket-launch-progress-updates"/>
-    <id>https://www.aboutamazon.com/news/innovation-at-amazon/project-kuiper-satellite-rocket-launch-progress-updates</id>
-    <summary type="text">Follow along for updates as Project Kuiper launches more than 80 missions to deploy our initial low Earth orbit satellite internet constellation.</summary>
-    <updated>Tue, 10 Jun 2025 19:30:15 +0000</updated>
-  </entry>
-  <entry>
     <title>AlphaQubit tackles one of quantum computing’s biggest challenges</title>
     <link href="https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/"/>
     <id>https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/</id>
     <summary type="text">AlphaQubit is an AI-based decoder that identifies quantum computing errors with state-of-the-art accuracy.</summary>
     <updated>Wed, 20 Nov 2024 00:00:00 -0000</updated>
+  </entry>
+  <entry>
+    <title>A behind-the-scenes look at how Amazon prepares for its biggest shopping events of the year</title>
+    <link href="https://www.aboutamazon.com/news/operations/how-amazon-prepares-for-prime-day"/>
+    <id>https://www.aboutamazon.com/news/operations/how-amazon-prepares-for-prime-day</id>
+    <summary type="text">Here’s how Amazon fulfillment centers and delivery stations prepare for big shopping events like Prime Day and Prime Big Deal Days.</summary>
+    <updated>Tue, 16 Jul 2024 11:34:38 +0000</updated>
+  </entry>
+  <entry>
+    <title>Amazon Prime Big Deal Days 2025: Everything you need to know to get deals</title>
+    <link href="https://www.aboutamazon.com/news/retail/amazon-prime-big-deal-days-faq"/>
+    <id>https://www.aboutamazon.com/news/retail/amazon-prime-big-deal-days-faq</id>
+    <summary type="text">Everything you need to know about Amazon Prime Big Deal Days 2025, including when it starts, when it ends, and how to find the best deals.</summary>
+    <updated>Mon, 18 Sep 2023 04:30:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>How AWS Wickr is helping save lives in crisis situations</title>
+    <link href="https://www.aboutamazon.com/news/aws/how-aws-wickrs-encryption-service-is-helping-at-risk-afghan-citizens"/>
+    <id>https://www.aboutamazon.com/news/aws/how-aws-wickrs-encryption-service-is-helping-at-risk-afghan-citizens</id>
+    <summary type="text">From Afghanistan evacuations to Hurricane Helene relief efforts, AWS Wickr supports nonprofit and U.S. Army operations, enabling secure combat zone communications.</summary>
+    <updated>Fri, 31 Mar 2023 18:00:57 +0000</updated>
   </entry>
   <entry>
     <title>NVIDIA Accelerates Robotics Research and Development With New Open Models and Simulation Libraries</title>
@@ -123,7 +123,7 @@
     <title>Gaming Archives</title>
     <link href="https://blogs.nvidia.com/blog/category/gaming/"/>
     <id>https://blogs.nvidia.com/blog/category/gaming/</id>
-    <summary type="text">Suit up and head for the cloud. Mecha BREAK, the popular third-person shooter, is now available to stream… Read Article</summary>
+    <summary type="text">Editor’s note: This blog has been updated to include an additional game for October, The Outer Worlds 2. October… Read Article</summary>
   </entry>
   <entry>
     <title>Pro Graphics Archives</title>

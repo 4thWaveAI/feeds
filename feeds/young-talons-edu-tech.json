@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/young-talons-edu-tech.json",
   "items": [
     {
+      "id": "https://www.edsurge.com/news/2025-10-03-in-the-land-of-hollywood-filmmaking-is-a-natural-teaching-tool",
+      "url": "https://www.edsurge.com/news/2025-10-03-in-the-land-of-hollywood-filmmaking-is-a-natural-teaching-tool",
+      "title": "In the Land of Hollywood, Filmmaking Is a Natural Teaching Tool - EdSurge News",
+      "content_text": "“It sparks their creativity, it allows them to work collaboratively with their peers, it really unites our group.",
+      "attachments": [
+        {
+          "url": "https://edsurge.imgix.net/uploads/post/image/16460/youthcinema-1759444665.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "young-talons-edu-tech"
+      ]
+    },
+    {
       "id": "https://www.edsurge.com/news/2025-10-02-career-readiness-in-the-real-world",
       "url": "https://www.edsurge.com/news/2025-10-02-career-readiness-in-the-real-world",
       "title": "Career Readiness in the Real World [Podcast] - EdSurge News",
@@ -72,21 +87,6 @@
       "attachments": [
         {
           "url": "https://edsurge.imgix.net/uploads/post/image/16451/shutterstock_1996823285-1758653671.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "young-talons-edu-tech"
-      ]
-    },
-    {
-      "id": "https://www.edsurge.com/news/2025-09-29-how-the-supreme-court-is-remolding-education-in-2025",
-      "url": "https://www.edsurge.com/news/2025-09-29-how-the-supreme-court-is-remolding-education-in-2025",
-      "title": "How the Supreme Court Is Remolding Education in 2025 - EdSurge News",
-      "content_text": "It isn’t just the executive branch changing education for American K-12 students. The Supreme Court has leapt in.",
-      "attachments": [
-        {
-          "url": "https://edsurge.imgix.net/uploads/post/image/16453/shutterstock_2109212408-1759120185.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
           "mime_type": "image/jpeg"
         }
       ],
@@ -191,7 +191,7 @@
       "id": "https://news.mit.edu/topic/machine-learning",
       "url": "https://news.mit.edu/topic/machine-learning",
       "title": "Machine learning | MIT News | Massachusetts Institute of Technology",
-      "content_text": "Explosive growth of AI data centers is expected to increase greenhouse gas emissions. Researchers are now seeking solutions to reduce these environmental harms.",
+      "content_text": "MIT CSAIL and McMaster researchers used a generative AI model to reveal how a narrow-spectrum antibiotic attacks disease-causing bacteria, speeding up a process that normally takes years.",
       "tags": [
         "young-talons-edu-tech"
       ]
