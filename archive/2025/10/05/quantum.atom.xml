@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>4thWave AI — Quantum (Aggregated)</title>
+  <link href="https://www.4thwaveai.com"/>
+  <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/quantum.atom.xml"/>
+  <id>urn:4thwaveai-feeds:quantum</id>
+  <updated>Sun, 05 Oct 2025 05:35:42 +0000</updated>
+  <entry>
+    <title>IBM’s time-series foundation model reaches #2 on GIFT-Eval</title>
+    <link href="https://research.ibm.com/blog/SSM-time-series-model"/>
+    <id>https://research.ibm.com/blog/SSM-time-series-model</id>
+    <summary type="text">The model uses a state space architecture to outperform time-series models at least 20 times bigger.</summary>
+  </entry>
+  <entry>
+    <title>New AI model finds railroad defects before they’re critical</title>
+    <link href="https://research.ibm.com/blog/ai-model-discovers-railroad-defects-before-theyre-critical"/>
+    <id>https://research.ibm.com/blog/ai-model-discovers-railroad-defects-before-theyre-critical</id>
+    <summary type="text">A new AI model detects and tracks rail maintenance issues before they can cause problems, freeing up skilled workers from tedious inspections.</summary>
+  </entry>
+  <entry>
+    <title>IBM and Vanguard explore quantum optimization for finance | IBM Quantum Computing Blog</title>
+    <link href="https://research.ibm.com/blog/vanguard-portfolio-optimization"/>
+    <id>https://research.ibm.com/blog/vanguard-portfolio-optimization</id>
+    <summary type="text">Variational quantum algorithms for portfolio optimization.</summary>
+  </entry>
+  <entry>
+    <title>How AI alignment differs from AI steering</title>
+    <link href="https://research.ibm.com/blog/map-measure-manage-gen-ai"/>
+    <id>https://research.ibm.com/blog/map-measure-manage-gen-ai</id>
+    <summary type="text">IBM Fellow Kush Varshney explains the difference, and provides an update on IBM’s latest work to mitigate the safety risks around generative AI.</summary>
+  </entry>
+  <entry>
+    <title>HSBC explores algorithmic trading with IBM quantum computers | IBM Quantum Computing Blog</title>
+    <link href="https://research.ibm.com/blog/hsbc-algorithmic-bond-trading"/>
+    <id>https://research.ibm.com/blog/hsbc-algorithmic-bond-trading</id>
+    <summary type="text">Researchers deliver first-known empirical evidence that quantum computers could soon solve valuable problems in algorithmic bond trading.</summary>
+  </entry>
+  <entry>
+    <title>IBM and BharatGen collaborate for India’s AI needs</title>
+    <link href="https://research.ibm.com/blog/bharatgen-ai-india"/>
+    <id>https://research.ibm.com/blog/bharatgen-ai-india</id>
+    <summary type="text">Using the multimodal AI and LLMs BharatGen is working on, it will work with IBM to build the unique tools needed to best serve Indian language speakers.</summary>
+  </entry>
+  <entry>
+    <title>Building software for quantum-centric supercomputing | IBM Quantum Computing Blog</title>
+    <link href="https://research.ibm.com/blog/qcsc-software"/>
+    <id>https://research.ibm.com/blog/qcsc-software</id>
+    <summary type="text">Explore open-source tools that IBM and its partners are creating to enable seamless integrations of quantum and classical high-performance computing resources.</summary>
+  </entry>
+  <entry>
+    <title>Improving AI agent reliability with BeeAI</title>
+    <link href="https://research.ibm.com/blog/ai-agent-reliability-beeai"/>
+    <id>https://research.ibm.com/blog/ai-agent-reliability-beeai</id>
+    <summary type="text">The RequirementAgent from the BeeAI Framework is an innovative approach that provides the reliability needed for production scenarios made simple.</summary>
+  </entry>
+  <entry>
+    <title>Register for the new Qiskit v2.X developer certification | IBM Quantum Computing Blog</title>
+    <link href="https://research.ibm.com/blog/qiskit-v2x-developer-certification"/>
+    <id>https://research.ibm.com/blog/qiskit-v2x-developer-certification</id>
+    <summary type="text">Updated Qiskit developer certification exam tests your ability to perform essential quantum computing tasks with the latest version of Qiskit.</summary>
+  </entry>
+  <entry>
+    <title>IBM researchers win prestigious European grants</title>
+    <link href="https://research.ibm.com/blog/ibm-researchers-win-prestigious-european-grants"/>
+    <id>https://research.ibm.com/blog/ibm-researchers-win-prestigious-european-grants</id>
+    <summary type="text">Ghazi Sarwat Syed and Gregor Seiler add to IBM Research’s strong history with European Research Council grants.</summary>
+  </entry>
+</feed>
