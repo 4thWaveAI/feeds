@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/human_effect.json",
   "items": [
     {
+      "id": "https://spectrum.ieee.org/5-ways-volunteering-professional-growth",
+      "url": "https://spectrum.ieee.org/5-ways-volunteering-professional-growth",
+      "title": "How Volunteering Can Boost Your Career Skills",
+      "content_text": "Volunteering isn't just giving back; it's a powerful tool for personal and professional growth.",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/ieee-women-in-engineering-committee-and-staff-posing-for-a-group-portrait.jpg?id=61686916&width=1200&height=600&coordinates=0%2C240%2C0%2C240",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://spectrum.ieee.org/video-friday-speedy-drone-landing",
       "url": "https://spectrum.ieee.org/video-friday-speedy-drone-landing",
       "title": "Drones Land on Vehicles Moving at 110 km/h",
@@ -147,21 +162,6 @@
       "attachments": [
         {
           "url": "https://spectrum.ieee.org/media-library/image.jpg?id=61680510&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/ai-battery-material",
-      "url": "https://spectrum.ieee.org/ai-battery-material",
-      "title": "AI's Speedy Search for Better Battery Materials",
-      "content_text": "What if AI could find the perfect battery material in hours, not years? Discover the latest advancements.",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=61668014&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
           "mime_type": "image/jpeg"
         }
       ],

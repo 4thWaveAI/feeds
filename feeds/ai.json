@@ -58,21 +58,6 @@
       ]
     },
     {
-      "id": "https://developer.nvidia.com/blog/smart-multi-node-scheduling-for-fast-and-efficient-llm-inference-with-nvidia-runai-and-nvidia-dynamo/",
-      "url": "https://developer.nvidia.com/blog/smart-multi-node-scheduling-for-fast-and-efficient-llm-inference-with-nvidia-runai-and-nvidia-dynamo/",
-      "title": "Smart Multi-Node Scheduling for Fast and Efficient LLM Inference with NVIDIA Run:ai and NVIDIA Dynamo | NVIDIA Technical Blog",
-      "content_text": "The exponential growth in large language model complexity has created challenges, such as models too large for single GPUs, workloads that demand high throughput and low latency…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/inference-nvidia-dynamo-blog-1280x680-1-e1758728822171.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "https://developer.nvidia.com/blog/3-easy-ways-to-supercharge-your-robotics-development-using-openusd/",
       "url": "https://developer.nvidia.com/blog/3-easy-ways-to-supercharge-your-robotics-development-using-openusd/",
       "title": "3 Easy Ways to Supercharge Your Robotics Development Using OpenUSD | NVIDIA Technical Blog",
@@ -96,6 +81,21 @@
         {
           "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/NeRD-500x282.gif",
           "mime_type": "image/gif"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/smart-multi-node-scheduling-for-fast-and-efficient-llm-inference-with-nvidia-runai-and-nvidia-dynamo/",
+      "url": "https://developer.nvidia.com/blog/smart-multi-node-scheduling-for-fast-and-efficient-llm-inference-with-nvidia-runai-and-nvidia-dynamo/",
+      "title": "Smart Multi-Node Scheduling for Fast and Efficient LLM Inference with NVIDIA Run:ai and NVIDIA Dynamo | NVIDIA Technical Blog",
+      "content_text": "The exponential growth in large language model complexity has created challenges, such as models too large for single GPUs, workloads that demand high throughput and low latency…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/inference-nvidia-dynamo-blog-1280x680-1-e1758728822171.jpg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -739,10 +739,10 @@
       ]
     },
     {
-      "id": "https://developer.nvidia.com/blog/category/data-center-cloud/",
-      "url": "https://developer.nvidia.com/blog/category/data-center-cloud/",
-      "title": "Category: Data Center / Cloud | NVIDIA Technical Blog",
-      "content_text": "Category: Data Center / Cloud | NVIDIA Technical Blog",
+      "id": "https://developer.nvidia.com/blog/category/simulation-modeling-design/",
+      "url": "https://developer.nvidia.com/blog/category/simulation-modeling-design/",
+      "title": "Category: Simulation / Modeling / Design | NVIDIA Technical Blog",
+      "content_text": "Category: Simulation / Modeling / Design | NVIDIA Technical Blog",
       "attachments": [
         {
           "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2024/09/techblog-og.jpg",
@@ -754,10 +754,10 @@
       ]
     },
     {
-      "id": "https://developer.nvidia.com/blog/category/simulation-modeling-design/",
-      "url": "https://developer.nvidia.com/blog/category/simulation-modeling-design/",
-      "title": "Category: Simulation / Modeling / Design | NVIDIA Technical Blog",
-      "content_text": "Category: Simulation / Modeling / Design | NVIDIA Technical Blog",
+      "id": "https://developer.nvidia.com/blog/category/data-center-cloud/",
+      "url": "https://developer.nvidia.com/blog/category/data-center-cloud/",
+      "title": "Category: Data Center / Cloud | NVIDIA Technical Blog",
+      "content_text": "Category: Data Center / Cloud | NVIDIA Technical Blog",
       "attachments": [
         {
           "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2024/09/techblog-og.jpg",

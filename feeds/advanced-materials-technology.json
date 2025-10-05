@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/advanced-materials-technology.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2025/10/251003033928.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251003033928.htm",
+      "title": "Scientists finally found the “dark matter” of electronics",
+      "content_text": "Scientists at OIST have, for the first time, directly tracked the elusive “dark excitons” inside atomically thin materials. These quantum particles could revolutionize information technology, as they are more stable and resistant to environmental interference than current qubits.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/tr-arpes-setup-dark-exciton-research.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "advanced-materials-technology"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/10/251001092204.htm",
       "url": "https://www.sciencedaily.com/releases/2025/10/251001092204.htm",
       "title": "Princeton’s AI reveals what fusion sensors can’t see",
@@ -162,21 +177,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/lasers-atomic-motion.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "advanced-materials-technology"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250917221212.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250917221212.htm",
-      "title": "America is throwing away the minerals that could power its future",
-      "content_text": "America already mines all the critical minerals it needs for energy, defense, and technology, but most are being wasted as mine tailings. Researchers discovered that minerals like cobalt, germanium, and rare earths are discarded in massive amounts, even though recovering just a fraction could eliminate U.S. dependence on imports.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/colorado-climax-mine.webp",
           "mime_type": "image/webp"
         }
       ],
