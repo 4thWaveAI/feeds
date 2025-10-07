@@ -1,0 +1,10 @@
+name: run-feeds
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 minutes
+jobs:
+  feeds:
+    uses: 4thWaveAI/.github/.github/workflows/feed-runner.yml@main
+    with:
+      script: scripts/update_feeds.py
