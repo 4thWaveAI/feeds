@@ -1,0 +1,20 @@
+name: ci
+on:
+  pull_request:
+  push:
+    branches: [ main ]
+
+jobs:
+  syntax:
+    name: syntax
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install deps (best-effort)
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt || true; fi
+      - name: Compile all Python (syntax check)
+        run: python -m compileall -q .
