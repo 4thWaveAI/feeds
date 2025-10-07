@@ -4,7 +4,28 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/human_effect.atom.xml"/>
   <id>urn:4thwaveai-feeds:human_effect</id>
-  <updated>Mon, 06 Oct 2025 05:43:44 +0000</updated>
+  <updated>Tue, 07 Oct 2025 05:44:17 +0000</updated>
+  <entry>
+    <title>Natron Energy&#x27;s Closure Sparks Industry Reflection</title>
+    <link href="https://spectrum.ieee.org/natron-sodium-ion-battery-failure"/>
+    <id>https://spectrum.ieee.org/natron-sodium-ion-battery-failure</id>
+    <summary type="text">Natron Energy&#x27;s closure raises questions about the future of sodium-ion batteries in the U.S. Can the industry catch up with China?</summary>
+    <updated>Mon, 06 Oct 2025 17:56:02 +0000</updated>
+  </entry>
+  <entry>
+    <title>The Future of the Grid: Simulation-Driven Optimization</title>
+    <link href="https://spectrum.ieee.org/multiphysics-simulation-power-grid"/>
+    <id>https://spectrum.ieee.org/multiphysics-simulation-power-grid</id>
+    <summary type="text">Multiphysics simulation provides critical insight into complex power grid components</summary>
+    <updated>Mon, 06 Oct 2025 10:00:05 +0000</updated>
+  </entry>
+  <entry>
+    <title>Building AI skills and governance for a connected future</title>
+    <link href="https://aiforgood.itu.int/building-ai-skills-and-governance-for-a-connected-future/"/>
+    <id>https://aiforgood.itu.int/building-ai-skills-and-governance-for-a-connected-future/</id>
+    <summary type="text">Connect with 51K enthusiasts from all over the world.</summary>
+    <updated>Mon, 06 Oct 2025 07:48:03 +0000</updated>
+  </entry>
   <entry>
     <title>How Volunteering Can Boost Your Career Skills</title>
     <link href="https://spectrum.ieee.org/5-ways-volunteering-professional-growth"/>
@@ -74,13 +95,6 @@
     <id>https://noetic.org/blog/eyesense-training/</id>
     <summary type="text">Test your ability to detect when someone is staring at you with Rupert Sheldrake’s new app</summary>
     <updated>Wed, 01 Oct 2025 16:03:33 +0000</updated>
-  </entry>
-  <entry>
-    <title>Omnitron Sensors’ New Chip Tackles Lidar’s Biggest Weakness</title>
-    <link href="https://spectrum.ieee.org/mems-lidar"/>
-    <id>https://spectrum.ieee.org/mems-lidar</id>
-    <summary type="text">This startup says it&#x27;s invented the most powerful MEMS micromirrors yet.</summary>
-    <updated>Wed, 01 Oct 2025 15:00:03 +0000</updated>
   </entry>
   <entry>
     <title>Early Warning for All: Leveraging AI to reach the unconnected</title>
@@ -216,13 +230,6 @@
     <updated>Tue, 09 Sep 2025 17:14:25 +0000</updated>
   </entry>
   <entry>
-    <title>Making AI ethical, inclusive, and effective across the UN</title>
-    <link href="https://aiforgood.itu.int/making-ai-ethical-inclusive-and-effective-across-the-un/"/>
-    <id>https://aiforgood.itu.int/making-ai-ethical-inclusive-and-effective-across-the-un/</id>
-    <summary type="text">Connect with 51K enthusiasts from all over the world.</summary>
-    <updated>Fri, 05 Sep 2025 10:55:39 +0000</updated>
-  </entry>
-  <entry>
     <title>Beyond the Veil: Encounters with Non-Physical Beings in Reiki | IONS</title>
     <link href="https://noetic.org/blog/non-physical-beings-in-reiki/"/>
     <id>https://noetic.org/blog/non-physical-beings-in-reiki/</id>
@@ -325,76 +332,70 @@
     <summary type="text">From unique findings in niche research topics, commonly misunderstood concepts in AI and technology, and what it’s like to be a theologian in an department, OII students share all.</summary>
   </entry>
   <entry>
-    <title>The Download: using AI to discover “zero day” vulnerabilities, and Apple’s ICE app removal</title>
-    <link href="https://www.technologyreview.com/2025/10/03/1124782/the-download-using-ai-to-discover-zero-day-vulnerabilities-and-apples-ice-app-removal/"/>
-    <id>https://www.technologyreview.com/2025/10/03/1124782/the-download-using-ai-to-discover-zero-day-vulnerabilities-and-apples-ice-app-removal/</id>
-    <summary type="text">Plus: OpenAI&#x27;s parental controls aren&#x27;t exactly robust</summary>
+    <title>The Download: introducing the 10 climate tech companies to watch for 2025</title>
+    <link href="https://www.technologyreview.com/2025/10/06/1124939/the-download-introducing-the-10-climate-tech-companies-to-watch-for-2025/"/>
+    <id>https://www.technologyreview.com/2025/10/06/1124939/the-download-introducing-the-10-climate-tech-companies-to-watch-for-2025/</id>
+    <summary type="text">Plus: ICE is planning a social media surveillance team</summary>
   </entry>
   <entry>
-    <title>Microsoft says AI can create “zero day” threats in biology</title>
-    <link href="https://www.technologyreview.com/2025/10/02/1124767/microsoft-says-ai-can-create-zero-day-threats-in-biology/"/>
-    <id>https://www.technologyreview.com/2025/10/02/1124767/microsoft-says-ai-can-create-zero-day-threats-in-biology/</id>
-    <summary type="text">Artificial intelligence can design toxins that evade security controls.</summary>
+    <title>2025 Climate Tech Companies to Watch</title>
+    <link href="https://www.technologyreview.com/2025/10/06/1124257/2025-climate-tech-companies-to-watch/"/>
+    <id>https://www.technologyreview.com/2025/10/06/1124257/2025-climate-tech-companies-to-watch/</id>
+    <summary type="text">MIT Technology Review&#x27;s annual list of companies that are taking meaningful steps to reduce emissions and mitigate the impacts of climate change.</summary>
   </entry>
   <entry>
-    <title>The Download: RIP EV tax credits, and OpenAI’s new valuation</title>
-    <link href="https://www.technologyreview.com/2025/10/02/1124684/the-download-rip-ev-tax-credits-and-openais-new-valuation/"/>
-    <id>https://www.technologyreview.com/2025/10/02/1124684/the-download-rip-ev-tax-credits-and-openais-new-valuation/</id>
-    <summary type="text">Plus: major music labels are preparing to make deals with AI firms</summary>
+    <title>Bill Gates: Our best weapon against climate change is ingenuity</title>
+    <link href="https://www.technologyreview.com/2025/10/06/1124265/bill-gates-ingenuity-climate-change-tech-investment/"/>
+    <id>https://www.technologyreview.com/2025/10/06/1124265/bill-gates-ingenuity-climate-change-tech-investment/</id>
+    <summary type="text">A measure I call the Green Premium reveals where we can invest in climate progress for maximum impact.</summary>
   </entry>
   <entry>
-    <title>EV tax credits are dead in the US. Now what?</title>
-    <link href="https://www.technologyreview.com/2025/10/02/1124603/ev-tax-credits-end-us/"/>
-    <id>https://www.technologyreview.com/2025/10/02/1124603/ev-tax-credits-end-us/</id>
-    <summary type="text">Federal support can’t last forever, but things aren’t looking great for electric vehicles in the US.</summary>
+    <title>2025 Climate Tech Companies to Watch: HiNa Battery Technology and its effort to commercialize salt cells</title>
+    <link href="https://www.technologyreview.com/2025/10/06/1124270/2025-climate-tech-companies-to-watch-hina-battery-salt-cells/"/>
+    <id>https://www.technologyreview.com/2025/10/06/1124270/2025-climate-tech-companies-to-watch-hina-battery-salt-cells/</id>
+    <summary type="text">The Chinese startup has begun mass-producing two types of sodium-ion batteries and plans to launch a third this month.</summary>
   </entry>
   <entry>
-    <title>Turning migration into modernization</title>
-    <link href="https://www.technologyreview.com/2025/10/02/1124570/turning-migration-into-modernization/"/>
-    <id>https://www.technologyreview.com/2025/10/02/1124570/turning-migration-into-modernization/</id>
-    <summary type="text">The VMware shake‑up has led to an IT inflection point. Leaders are now weighing whether to renew, migrate, or redesign entirely for the cloud era.</summary>
+    <title>How we picked promising climate tech companies in an especially unsettling year</title>
+    <link href="https://www.technologyreview.com/2025/10/06/1124275/2025-climate-tech-companies-to-watch-methodology/"/>
+    <id>https://www.technologyreview.com/2025/10/06/1124275/2025-climate-tech-companies-to-watch-methodology/</id>
+    <summary type="text">And what distinguishes the firms that made the 2025 edition of our annual list of Climate Tech Companies to Watch.</summary>
   </entry>
   <entry>
-    <title>Roundtables: Trump’s Impact on the Next Generation of Innovators</title>
-    <link href="https://www.technologyreview.com/2025/10/01/1124062/roundtables-trumps-impact-on-the-next-generation-of-innovators/"/>
-    <id>https://www.technologyreview.com/2025/10/01/1124062/roundtables-trumps-impact-on-the-next-generation-of-innovators/</id>
-    <summary type="text">Watch a subscriber-only conversation on how researchers and entrepreneurs are faring under the new administration.</summary>
+    <title>2025 Climate Tech Companies to Watch: Pairwise and its climate-adapted crops</title>
+    <link href="https://www.technologyreview.com/2025/10/06/1124278/2025-climate-tech-companies-to-watch-pairwise-gene-edited-crops/"/>
+    <id>https://www.technologyreview.com/2025/10/06/1124278/2025-climate-tech-companies-to-watch-pairwise-gene-edited-crops/</id>
+    <summary type="text">The company is gene editing crops to make our food supply more resilient to climate change.</summary>
   </entry>
   <entry>
-    <title>Unlocking AI’s full potential requires operational excellence</title>
-    <link href="https://www.technologyreview.com/2025/10/01/1124593/unlocking-ais-full-potential-requires-operational-excellence/"/>
-    <id>https://www.technologyreview.com/2025/10/01/1124593/unlocking-ais-full-potential-requires-operational-excellence/</id>
-    <summary type="text">For successful AI adoption, leaders need to focus on structure rather than speed.</summary>
+    <title>2025 Climate Tech Companies to Watch: Cemvision and its low-emissions cement</title>
+    <link href="https://www.technologyreview.com/2025/10/06/1124280/2025-climate-tech-companies-to-watch-cemvision-low-emissions-cement/"/>
+    <id>https://www.technologyreview.com/2025/10/06/1124280/2025-climate-tech-companies-to-watch-cemvision-low-emissions-cement/</id>
+    <summary type="text">The startup is using waste materials and alternative fuels to make cement, slashing greenhouse gas emissions in a polluting industry.</summary>
   </entry>
   <entry>
-    <title>The Download: OpenAI’s caste bias problem, and how AI videos are made</title>
-    <link href="https://www.technologyreview.com/2025/10/01/1124630/the-download-openais-caste-bias-problem-and-how-ai-videos-are-made/"/>
-    <id>https://www.technologyreview.com/2025/10/01/1124630/the-download-openais-caste-bias-problem-and-how-ai-videos-are-made/</id>
-    <summary type="text">Plus: Taiwan has pushed back against America&#x27;s chip request</summary>
+    <title>2025 Climate Tech Companies to Watch: Traton and its electric trucks</title>
+    <link href="https://www.technologyreview.com/2025/10/06/1124282/2025-climate-tech-companies-to-watch-traton-electric-trucks/"/>
+    <id>https://www.technologyreview.com/2025/10/06/1124282/2025-climate-tech-companies-to-watch-traton-electric-trucks/</id>
+    <summary type="text">The company is boosting production to meet rising demand for its zero-emission rigs.</summary>
   </entry>
   <entry>
-    <title>OpenAI is huge in India. Its models are steeped in caste bias.</title>
-    <link href="https://www.technologyreview.com/2025/10/01/1124621/openai-india-caste-bias/"/>
-    <id>https://www.technologyreview.com/2025/10/01/1124621/openai-india-caste-bias/</id>
-    <summary type="text">India is OpenAI’s second-largest market, but ChatGPT and Sora reproduce caste stereotypes that harm millions of people.</summary>
+    <title>2025 Climate Tech Companies to Watch: Ather Energy and its premium e-scooters</title>
+    <link href="https://www.technologyreview.com/2025/10/06/1124284/2025-climate-tech-companies-to-watch-ather-energy-premium-escooters/"/>
+    <id>https://www.technologyreview.com/2025/10/06/1124284/2025-climate-tech-companies-to-watch-ather-energy-premium-escooters/</id>
+    <summary type="text">A few EV makers in India went belly up after the government abruptly scaled back incentives and cracked down on the misuse of subsidies. Ather survived the storm and sales are increasing.</summary>
   </entry>
   <entry>
-    <title>Designing CPUs for next-generation supercomputing</title>
-    <link href="https://www.technologyreview.com/2025/09/30/1124505/designing-cpus-for-next-generation-supercomputing/"/>
-    <id>https://www.technologyreview.com/2025/09/30/1124505/designing-cpus-for-next-generation-supercomputing/</id>
-    <summary type="text">While GPU-accelerated AI dominates headlines, CPUs remain an optimal choice for many scientific and engineering workloads.</summary>
+    <title>2025 Climate Tech Companies to Watch: Cyclic Materials and its rare earth recycling tech</title>
+    <link href="https://www.technologyreview.com/2025/10/06/1124287/2025-climate-tech-companies-to-watch-cyclic-materials-rare-earth-recycling/"/>
+    <id>https://www.technologyreview.com/2025/10/06/1124287/2025-climate-tech-companies-to-watch-cyclic-materials-rare-earth-recycling/</id>
+    <summary type="text">The startup is poised to become a global leader in recycling rare earth magnets from old EVs, wind turbines, and more.</summary>
   </entry>
   <entry>
     <title>The AI Ethics Brief #172: The State of AI Ethics in 2025: What&#x27;s Actually Working</title>
     <link href="https://montrealethics.ai/the-ai-ethics-brief-172-the-state-of-ai-ethics-in-2025-whats-actually-working/"/>
     <id>https://montrealethics.ai/the-ai-ethics-brief-172-the-state-of-ai-ethics-in-2025-whats-actually-working/</id>
     <summary type="text">SAIER Volume 7 Returns in November 2025 with Practical Solutions from Communities Leading the Way</summary>
-  </entry>
-  <entry>
-    <title>Electrify Faster. Spend Less: Why Fleet Managers Are Turning to Automated Load Management - Wiley Science and Engineering Content Hub</title>
-    <link href="https://content.knowledgehub.wiley.com/electrify-faster-spend-less-why-fleet-managers-are-turning-to-automated-load-management/"/>
-    <id>https://content.knowledgehub.wiley.com/electrify-faster-spend-less-why-fleet-managers-are-turning-to-automated-load-management/</id>
-    <summary type="text">Register now free-of-charge to explore this white paper  Overcome the Biggest Barriers to Fleet Electrification This whitepaper demonstrates how Automated Load Management (ALM) enables you to install charging stations that exceed your site&#x27;s grid capacity - legally and safely. No waiting. No massive utility bills. Just smart power distribution that works with your existing infrastructure.  What You&#x27;ll Learn:   How to install more chargers than your grid allows: One transit agency installed 1.8MW of chargers on a 1.1MW connection  Exactly how ALM works: Real-time power distribution explained in plain terms  NEC code requirements: Specific sections and compliance steps you need  Your approval roadmap: Proven process for working with local authorities  Cost comparison: ALM vs. grid upgrades v</summary>
   </entry>
   <entry>
     <title>Global Resources Outlook 2024</title>

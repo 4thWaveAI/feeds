@@ -4,13 +4,13 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai</id>
-  <updated>Mon, 06 Oct 2025 05:40:25 +0000</updated>
+  <updated>Tue, 07 Oct 2025 05:40:38 +0000</updated>
   <entry>
-    <title>Smarter Anomaly Detection in Semiconductor Manufacturing with NVIDIA NV-Tesseract and NVIDIA NIM | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/smarter-anomaly-detection-in-semiconductor-manufacturing-with-nvidia-nv-tesseract-and-nvidia-nim/"/>
-    <id>https://developer.nvidia.com/blog/smarter-anomaly-detection-in-semiconductor-manufacturing-with-nvidia-nv-tesseract-and-nvidia-nim/</id>
-    <summary type="text">In an earlier blog post, we introduced NVIDIA NV-Tesseract, a family of models designed to tackle diverse time-series tasks—such as anomaly detection, classification, and forecasting—within a single…</summary>
-    <updated>Fri, 03 Oct 2025 15:29:00 +0000</updated>
+    <title>Speeding Up Data Decompression with nvCOMP and the NVIDIA Blackwell Decompression Engine | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/speeding-up-data-decompression-with-nvcomp-and-the-nvidia-blackwell-decompression-engine/"/>
+    <id>https://developer.nvidia.com/blog/speeding-up-data-decompression-with-nvcomp-and-the-nvidia-blackwell-decompression-engine/</id>
+    <summary type="text">Compression is a common technique to reduce storage costs and accelerate input/output transfer times across databases, data-center communications, high-performance computing, deep learning, and more.</summary>
+    <updated>Mon, 06 Oct 2025 16:00:00 +0000</updated>
   </entry>
   <entry>
     <title>Streamline Robot Learning with Whole-Body Control and Enhanced Teleoperation in NVIDIA Isaac Lab 2.3 | NVIDIA Technical Blog</title>
@@ -27,6 +27,13 @@
     <updated>Mon, 29 Sep 2025 15:11:31 +0000</updated>
   </entry>
   <entry>
+    <title>Smart Multi-Node Scheduling for Fast and Efficient LLM Inference with NVIDIA Run:ai and NVIDIA Dynamo | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/smart-multi-node-scheduling-for-fast-and-efficient-llm-inference-with-nvidia-runai-and-nvidia-dynamo/"/>
+    <id>https://developer.nvidia.com/blog/smart-multi-node-scheduling-for-fast-and-efficient-llm-inference-with-nvidia-runai-and-nvidia-dynamo/</id>
+    <summary type="text">The exponential growth in large language model complexity has created challenges, such as models too large for single GPUs, workloads that demand high throughput and low latency…</summary>
+    <updated>Mon, 29 Sep 2025 15:00:00 +0000</updated>
+  </entry>
+  <entry>
     <title>3 Easy Ways to Supercharge Your Robotics Development Using OpenUSD | NVIDIA Technical Blog</title>
     <link href="https://developer.nvidia.com/blog/3-easy-ways-to-supercharge-your-robotics-development-using-openusd/"/>
     <id>https://developer.nvidia.com/blog/3-easy-ways-to-supercharge-your-robotics-development-using-openusd/</id>
@@ -38,13 +45,6 @@
     <link href="https://developer.nvidia.com/blog/advancing-robotics-development-with-neural-dynamics-in-newton/"/>
     <id>https://developer.nvidia.com/blog/advancing-robotics-development-with-neural-dynamics-in-newton/</id>
     <summary type="text">Modern robotics requires more than what classical analytic dynamics provides because of simplified contacts, omitted kinematic loops, and non-differentiable models. Neural Robot Dynamics (NeRD)…</summary>
-    <updated>Mon, 29 Sep 2025 15:00:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>Smart Multi-Node Scheduling for Fast and Efficient LLM Inference with NVIDIA Run:ai and NVIDIA Dynamo | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/smart-multi-node-scheduling-for-fast-and-efficient-llm-inference-with-nvidia-runai-and-nvidia-dynamo/"/>
-    <id>https://developer.nvidia.com/blog/smart-multi-node-scheduling-for-fast-and-efficient-llm-inference-with-nvidia-runai-and-nvidia-dynamo/</id>
-    <summary type="text">The exponential growth in large language model complexity has created challenges, such as models too large for single GPUs, workloads that demand high throughput and low latency…</summary>
     <updated>Mon, 29 Sep 2025 15:00:00 +0000</updated>
   </entry>
   <entry>
@@ -219,6 +219,12 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <summary type="text">Anthropic has completed a Series F fundraising of $13 billion led by ICONIQ. This financing values Anthropic at $183 billion post-money. Along with ICONIQ, the round was co-led by Fidelity Management &amp; Research Company and Lightspeed Venture Partners. The investment reflects Anthropic’s continued momentum and reinforces our position as the leading intelligence platform for enterprises, developers, and power users.</summary>
   </entry>
   <entry>
+    <title>Anthropic Deloitte Partnership</title>
+    <link href="https://www.anthropic.com/news/deloitte-anthropic-partnership"/>
+    <id>https://www.anthropic.com/news/deloitte-anthropic-partnership</id>
+    <summary type="text">Deloitte will make Claude available to 470,000 people across its global network. Anthropic&#x27;s largest enterprise AI deployment to date. Partner with Anthropic because Claude is built for the compliance and control that enterprises demand.</summary>
+  </entry>
+  <entry>
     <title>How enterprises are driving AI transformation with Claude</title>
     <link href="https://www.anthropic.com/news/driving-ai-transformation-with-claude"/>
     <id>https://www.anthropic.com/news/driving-ai-transformation-with-claude</id>
@@ -229,12 +235,6 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <link href="https://www.anthropic.com/news/claude-and-slack"/>
     <id>https://www.anthropic.com/news/claude-and-slack</id>
     <summary type="text">We&#x27;re introducing two ways to use Claude with Slack. Add Claude directly to your Slack workspace, or connect Slack to the Claude apps so Claude can search and reference relevant Slack messages during conversations.</summary>
-  </entry>
-  <entry>
-    <title>Enabling Claude Code to work more autonomously</title>
-    <link href="https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously"/>
-    <id>https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously</id>
-    <summary type="text">Introducing Claude Code upgrades: native VS Code extension, terminal UX updates, and checkpoints for autonomous development. Handle complex tasks with confidence.</summary>
   </entry>
   <entry>
     <title>Latest News from Google Research Blog - Google Research</title>
@@ -303,16 +303,16 @@ Uncovering the root causes of disease is one of the greatest challenges in human
     <summary type="text">Category: Robotics | NVIDIA Technical Blog</summary>
   </entry>
   <entry>
-    <title>Category: Simulation / Modeling / Design | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/category/simulation-modeling-design/"/>
-    <id>https://developer.nvidia.com/blog/category/simulation-modeling-design/</id>
-    <summary type="text">Category: Simulation / Modeling / Design | NVIDIA Technical Blog</summary>
-  </entry>
-  <entry>
     <title>Category: Data Center / Cloud | NVIDIA Technical Blog</title>
     <link href="https://developer.nvidia.com/blog/category/data-center-cloud/"/>
     <id>https://developer.nvidia.com/blog/category/data-center-cloud/</id>
     <summary type="text">Category: Data Center / Cloud | NVIDIA Technical Blog</summary>
+  </entry>
+  <entry>
+    <title>Category: Simulation / Modeling / Design | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/category/simulation-modeling-design/"/>
+    <id>https://developer.nvidia.com/blog/category/simulation-modeling-design/</id>
+    <summary type="text">Category: Simulation / Modeling / Design | NVIDIA Technical Blog</summary>
   </entry>
   <entry>
     <title>Recent posts</title>

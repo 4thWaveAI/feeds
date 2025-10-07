@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/young-talons-edu-tech.json",
   "items": [
     {
+      "id": "https://www.edsurge.com/news/2025-10-06-civil-rights-data-collection-for-schools-resumes-with-changes-on-gender-and-discipline",
+      "url": "https://www.edsurge.com/news/2025-10-06-civil-rights-data-collection-for-schools-resumes-with-changes-on-gender-and-discipline",
+      "title": "Civil Rights Data Collection for Schools Resumes, With Changes on Gender and Discipline   - EdSurge News",
+      "content_text": "In a year so far characterized by massive federal funding and staff cuts, education data groups breathed a sigh of relief this summer when the Department of Education announced it was moving forward with the process of collecting civil rights data from K-12 schools.",
+      "attachments": [
+        {
+          "url": "https://edsurge.imgix.net/uploads/post/image/16461/Shutterstock_2659841491-1759764982.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "young-talons-edu-tech"
+      ]
+    },
+    {
       "id": "https://www.edsurge.com/news/2025-10-03-in-the-land-of-hollywood-filmmaking-is-a-natural-teaching-tool",
       "url": "https://www.edsurge.com/news/2025-10-03-in-the-land-of-hollywood-filmmaking-is-a-natural-teaching-tool",
       "title": "In the Land of Hollywood, Filmmaking Is a Natural Teaching Tool - EdSurge News",
@@ -72,21 +87,6 @@
       "attachments": [
         {
           "url": "https://edsurge.imgix.net/uploads/post/image/16456/shutterstock_2397290107-1759178508.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "young-talons-edu-tech"
-      ]
-    },
-    {
-      "id": "https://www.edsurge.com/news/2025-09-30-from-defense-to-resilience-where-school-cybersecurity-goes-next",
-      "url": "https://www.edsurge.com/news/2025-09-30-from-defense-to-resilience-where-school-cybersecurity-goes-next",
-      "title": "From Defense to Resilience: Where School Cybersecurity Goes Next - EdSurge News",
-      "content_text": "The future of cybersecurity in schools is to build resilience. As one district IT director puts it, “we’re asking how we can get in front of this and ...",
-      "attachments": [
-        {
-          "url": "https://edsurge.imgix.net/uploads/post/image/16451/shutterstock_1996823285-1758653671.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
           "mime_type": "image/jpeg"
         }
       ],
@@ -191,7 +191,7 @@
       "id": "https://news.mit.edu/topic/machine-learning",
       "url": "https://news.mit.edu/topic/machine-learning",
       "title": "Machine learning | MIT News | Massachusetts Institute of Technology",
-      "content_text": "MIT CSAIL and McMaster researchers used a generative AI model to reveal how a narrow-spectrum antibiotic attacks disease-causing bacteria, speeding up a process that normally takes years.",
+      "content_text": "The approach combines physics and machine learning to avoid damaging disruptions when powering down tokamak fusion machines.",
       "tags": [
         "young-talons-edu-tech"
       ]
@@ -200,7 +200,7 @@
       "id": "https://news.mit.edu/topic/sustainability",
       "url": "https://news.mit.edu/topic/sustainability",
       "title": "Sustainability | MIT News | Massachusetts Institute of Technology",
-      "content_text": "For physicist Mostafa Fawzy, MIT Open Learning’s OpenCourseWare was a steadfast companion through countless study sessions.",
+      "content_text": "The approach combines physics and machine learning to avoid damaging disruptions when powering down tokamak fusion machines.",
       "tags": [
         "young-talons-edu-tech"
       ]

@@ -5,6 +5,51 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
+      "id": "https://phys.org/news/2025-10-bacteria-accumulation-gold-nanoparticles-spruce.html",
+      "url": "https://phys.org/news/2025-10-bacteria-accumulation-gold-nanoparticles-spruce.html",
+      "title": "Bacteria may influence accumulation of gold nanoparticles in spruce tree needles",
+      "content_text": "A new study has, for the first time, uncovered a connection between bacteria living in Norway spruce needles and gold nanoparticles. This discovery could pave the way for environmentally friendly gold exploration methods, while examining similar processes in mosses may also help remove metals from mining-impacted waters.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/golden-spruce-trees-go.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-10-molecular-motors-invasive-cancer-therapies.html",
+      "url": "https://phys.org/news/2025-10-molecular-motors-invasive-cancer-therapies.html",
+      "title": "Molecular motors drive new non-invasive cancer therapies",
+      "content_text": "Imagine tiny machines, smaller than a virus, spinning inside cancer cells and rewiring their behavior from within. No surgery, no harsh chemicals, just precision at the molecular level.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/molecular-motors-drive.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2025-10-mxenes-technique-gen-nanomaterials.html",
+      "url": "https://phys.org/news/2025-10-mxenes-technique-gen-nanomaterials.html",
+      "title": "How MXenes truly work: Novel technique shines light on next-gen nanomaterials",
+      "content_text": "Researchers have for the first time measured the true properties of individual MXene flakes—an exciting new nanomaterial with potential for better batteries, flexible electronics, and clean energy devices.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/novel-technique-shines.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://phys.org/news/2025-10-ultra-thin-sodium-alternative-gold.html",
       "url": "https://phys.org/news/2025-10-ultra-thin-sodium-alternative-gold.html",
       "title": "Ultra-thin sodium films offer low-cost alternative to gold and silver in optical technologies",
@@ -136,51 +181,6 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/heat-rechargeable-desi.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-10-laser-pulses-graphene-electrons-lightning.html",
-      "url": "https://phys.org/news/2025-10-laser-pulses-graphene-electrons-lightning.html",
-      "title": "Laser pulses in graphene control electrons with lightning speed and nanometer precision",
-      "content_text": "A research team in Kiel has demonstrated a previously unknown effect in graphene—a single layer of carbon atoms whose discovery earned the 2010 Nobel Prize. For years, graphene has been seen as a promising material for nanoelectronics, thanks to its exceptional conductivity, flexibility, and stability. Now, researchers from the Institute of Theoretical Physics and Astrophysics at Kiel University have taken this promise a step further.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/graphene-steers-electr.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-10-scientists-memory-smart-plastic.html",
-      "url": "https://phys.org/news/2025-10-scientists-memory-smart-plastic.html",
-      "title": "Scientists see shape memory activation in 'smart' plastic",
-      "content_text": "Researchers from the Skoltech Engineering Center's Hierarchically Structured Materials Laboratory, in collaboration with colleagues from MISIS University and the Joint Institute for Nuclear Research, have for the first time observed nanoscale transformations in ultra-high molecular weight polyethylene—a material possessing a shape memory effect—in real time.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/scientists-see-shape-m.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-09-tiny-nanoparticles-conquer-big-polymer.html",
-      "url": "https://phys.org/news/2025-09-tiny-nanoparticles-conquer-big-polymer.html",
-      "title": "Tiny nanoparticles conquer the big three in polymer glasses: Strength, toughness and processability",
-      "content_text": "Scientists have found a nanoparticle-inspired solution to the age-old strength issue of polymer glasses. Seasoning the polymer glass recipe with single-chain nanoparticles, which are tiny, folded-up polymer strands, can make the glass stronger, tougher, and easier to process by acting as reinforcements.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/tiny-nanoparticles-con-1.jpg",
           "mime_type": "image/jpeg"
         }
       ],

@@ -5,6 +5,96 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sciencedaily-top.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2025/10/251006051131.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251006051131.htm",
+      "title": "New research reveals what’s really hiding in bottled water",
+      "content_text": "A chance encounter with plastic waste on a tropical beach sparked a deep investigation into what those fragments mean for human health. The research reveals that bottled water isn’t as pure as it seems—each sip may contain invisible microplastics that can slip through the body’s defenses and lodge in vital organs. These tiny pollutants are linked to inflammation, hormonal disruption, and even neurological damage, yet remain dangerously understudied.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/microplastic-pollution-water-sample.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/10/251006051117.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251006051117.htm",
+      "title": "You don’t have to lose weight to lower your diabetes risk, scientists say",
+      "content_text": "A major study from Tübingen found that prediabetic individuals who normalized their blood sugar through healthy habits — even without shedding pounds — cut their risk of type 2 diabetes by 71%. Researchers discovered that improved fat distribution, particularly less abdominal fat, was key. The findings suggest that focusing solely on weight loss may overlook the true drivers of diabetes prevention.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/happy-overweight-woman-doctor-weight-loss-measurement.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/10/251006051113.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251006051113.htm",
+      "title": "Birds around the world share a mysterious warning cry",
+      "content_text": "Birds across the globe independently evolved a shared warning call against parasites, blending instinct and learning in a remarkable evolutionary pattern. The finding offers a rare glimpse into how cooperation and communication systems evolve across species.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/bar-winged-prinia-birds-singing.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/10/251006051111.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251006051111.htm",
+      "title": "Astronomers discover the most powerful and distant cosmic ring ever seen",
+      "content_text": "Astronomers have found the most distant and energetic “odd radio circle” ever detected — a massive double-ringed radio structure nearly 10 billion years old. The discovery, made with the help of citizen scientists using LOFAR, challenges theories that these cosmic rings are caused by black hole mergers. Instead, researchers suggest galactic superwinds may be to blame.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/orc-rad-j1313469500320.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/10/251006051109.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251006051109.htm",
+      "title": "ESA’s chilling new “super antenna” in Australia reaches spacecraft billions of miles away",
+      "content_text": "ESA has inaugurated a powerful new 35-meter deep space antenna at its New Norcia site in Western Australia, marking a major boost to Europe’s ability to communicate with spacecraft exploring the Solar System. This ultra-sensitive antenna, featuring cryogenically cooled technology and high-power transmission systems, will support missions like Juice, BepiColombo, and Solar Orbiter.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/esa-fourth-deep-space-antenna.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/10/251006051107.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251006051107.htm",
+      "title": "3,000 years of secrets hidden beneath Egypt’s greatest temple",
+      "content_text": "A sweeping new geoarchaeological study has revealed how Egypt’s famed Karnak Temple complex rose from an island amid Nile floods to become one of the ancient world’s most enduring sacred centers. By analyzing sediments and pottery fragments, researchers traced its transformation across three millennia and uncovered evidence that its placement may have mirrored the ancient Egyptian creation myth—where the first land emerged from primeval waters.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/ancient-egyptian-ruins-of-obelisk-of-thutmosis-i-in-karnak-temple.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/10/251005085754.htm",
       "url": "https://www.sciencedaily.com/releases/2025/10/251005085754.htm",
       "title": "October’s sky comes alive with a supermoon and shooting stars",
@@ -20,6 +110,81 @@
       ]
     },
     {
+      "id": "https://www.sciencedaily.com/releases/2025/10/251005085645.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251005085645.htm",
+      "title": "Thousands of sparkling newborn stars ignite in Webb’s Lobster Nebula view",
+      "content_text": "NASA’s James Webb Space Telescope has unveiled a breathtaking cosmic landscape that looks more like a scene from fantasy than reality. What appears to be a glowing mountain peak shrouded in mist is actually a massive field of dust and gas, sculpted by intense radiation and fierce stellar winds from newly formed stars. This region, called Pismis 24, sits within the Lobster Nebula about 5,500 light-years away in the constellation Scorpius.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/pismis-24.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/10/251005085639.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251005085639.htm",
+      "title": "Black holes might hold the key to a 60-year cosmic mystery",
+      "content_text": "Scientists may have finally uncovered the mystery behind ultra-high-energy cosmic rays — the most powerful particles known in the universe. A team from NTNU suggests that colossal winds from supermassive black holes could be accelerating these particles to unimaginable speeds. These winds, moving at half the speed of light, might not only shape entire galaxies but also fling atomic nuclei across the cosmos with incredible energy.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/how-black-hole-winds-blow.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/10/251005085637.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251005085637.htm",
+      "title": "Scientists find hidden brain damage behind dementia",
+      "content_text": "A University of New Mexico scientist is revealing what might be one of the most overlooked causes of dementia — damage in the brain’s tiny blood vessels. Dr. Elaine Bearer has created a new way to classify these changes, showing that many people diagnosed with Alzheimer’s also suffer from vascular damage that quietly destroys brain tissue. Even more surprising, she’s finding microplastics inside the brain that appear linked to inflammation and memory loss.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/mri-brain-cerebral-arteries.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/10/251005085635.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251005085635.htm",
+      "title": "For 170 years, U.S. Cities have followed a hidden law of growth and decline",
+      "content_text": "Despite massive technological and industrial changes, American cities have stayed remarkably coherent in how their economies fit together. This hidden order governs how cities diversify, grow, and reinvent themselves without losing their economic identity.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/downtown-manhattan-new-york-city-at-dusk.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/10/251005085628.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251005085628.htm",
+      "title": "It’s not just genes — parents can pass down longevity another way",
+      "content_text": "Scientists studying tiny roundworms have uncovered how the secrets of a long life can be passed from parents to their offspring — without changing DNA. The discovery shows that when certain cellular structures called lysosomes change in ways that promote longevity, those benefits can travel from body cells to reproductive cells. This information is carried by histones, special proteins that help organize DNA, allowing the “memory” of those changes to be inherited.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/four-generations-of-women.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2025/10/251005085625.htm",
       "url": "https://www.sciencedaily.com/releases/2025/10/251005085625.htm",
       "title": "Why ultra-processed foods aren’t the real villain behind overeating",
@@ -27,6 +192,21 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/towering-triple-decker-burger-chicken-wings-and-french-fries.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/10/251005085623.htm",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251005085623.htm",
+      "title": "Would you eat yogurt made with ants? Scientists did",
+      "content_text": "In a remarkable blend of science and tradition, researchers have revived an old Balkan and Turkish yogurt-making technique that uses ants as natural fermenters. The ants’ bacteria, acids, and enzymes transform milk into a rich, tangy yogurt while showcasing the diversity and complexity lost in modern, industrialized yogurt strains.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/live-forest-ants-in-warm-jar-of-milk.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -117,186 +297,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/diverse-friends-together-happy.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/10/251004092915.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251004092915.htm",
-      "title": "Scientists just found cancer cells’ hidden power source",
-      "content_text": "When cancer cells are physically squeezed, they mount an instant, high-energy defense by rushing mitochondria to the cell nucleus, unleashing a surge of ATP that fuels DNA repair and survival. This newly discovered mechanism, visualized in real time with advanced microscopy, shows mitochondria acting like emergency first responders rather than static power plants. The structures, called NAMs, were also identified in patient tumor biopsies, suggesting real-world relevance to cancer’s spread.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/confined-cancer-cells.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/10/251004092913.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251004092913.htm",
-      "title": "This new semaglutide dose helped nearly half of patients lose 20% body weight",
-      "content_text": "The STEP UP trials revealed that a 7.2 mg dose of semaglutide led to greater weight loss than the currently approved 2.4 mg dose. Nearly half of participants lost 20% or more of their body weight, while also improving metabolic health. Side effects were mostly mild and temporary. Researchers say this could reshape obesity treatment if confirmed in longer-term studies.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/smiling-woman-holding-jeans-weight-loss.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/10/251004092911.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251004092911.htm",
-      "title": "The vitamin D mistake weakening your immunity",
-      "content_text": "Scientists discovered that vitamin D2 supplements can lower levels of vitamin D3, the form the body uses most effectively. Unlike D2, vitamin D3 enhances the immune system’s first line of defense against infections. This raises questions about which type of supplement should be prioritized.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/vitamin-d-blocks.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/10/251004092909.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251004092909.htm",
-      "title": "From gentle giants to ghostly hunters, sharks face an unseen peril",
-      "content_text": "New research reveals that deep-sea mining could dramatically threaten 30 species of sharks, rays, and ghost sharks whose habitats overlap with proposed mining zones. Many of these species, already at risk of extinction, could face increased dangers from seafloor disruptions and sediment plumes caused by mining activity.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/pygmy-shark-euprotomicrus-bispinatus.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/10/251004092907.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251004092907.htm",
-      "title": "Hidden for 70 million years, a tiny fossil fish is rewriting freshwater evolution",
-      "content_text": "Researchers in Alberta uncovered a fossil fish that rewrites the evolutionary history of otophysans, which today dominate freshwater ecosystems. The new species, Acronichthys maccognoi, shows early adaptations for its unusual hearing system. Evidence suggests otophysans moved from oceans to rivers more than once, leaving scientists puzzled about their ancient global journeys.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/acronichthys-maccagnoi-fossil.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/10/251004092905.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251004092905.htm",
-      "title": "Scientists discover hidden protein that switches off hunger",
-      "content_text": "Researchers have uncovered how a protein called MRAP2 acts as a key regulator of hunger. It helps move the appetite receptor MC4R to the cell’s surface, allowing it to send stronger “stop eating” signals. The discovery offers new hope for tackling obesity by targeting this natural hunger switch.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/brain-switch.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/10/251004092903.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251004092903.htm",
-      "title": "Hidden cellular “power switch” could transform Parkinson’s treatment",
-      "content_text": "Researchers uncovered a key cellular regulator, PP2A-B55alpha, that controls both the cleanup of damaged mitochondria and the creation of new ones. In Parkinson’s disease models, reducing this regulator improved symptoms and mitochondrial health. The findings could inspire new drugs for Parkinson’s, mitochondrial disorders, and even cancer.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/brain-neuron-cell-close-up.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/10/251004092858.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251004092858.htm",
-      "title": "This “chaos enzyme” may hold the key to stopping cancer spread",
-      "content_text": "A Weill Cornell Medicine team has found that triple-negative breast cancer depends on the enzyme EZH2 to spread. By silencing key genes, EZH2 drives chaotic cell divisions and fuels metastasis. Blocking EZH2 restored stability and prevented cancer cells from traveling to distant organs. This discovery opens the door to new therapies that may finally tame this aggressive disease.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/restoring-order-to-dividing-cancer-cells-may-prevent-metastasis.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/10/251003033930.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251003033930.htm",
-      "title": "These little robots literally walk on water",
-      "content_text": "HydroSpread, a breakthrough fabrication method, lets scientists build ultrathin soft robots directly on water. These tiny, insect-inspired machines could transform robotics, healthcare, and environmental monitoring.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/hydrobuckler-prototype.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/10/251003033928.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251003033928.htm",
-      "title": "Scientists finally found the “dark matter” of electronics",
-      "content_text": "Scientists at OIST have, for the first time, directly tracked the elusive “dark excitons” inside atomically thin materials. These quantum particles could revolutionize information technology, as they are more stable and resistant to environmental interference than current qubits.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/tr-arpes-setup-dark-exciton-research.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/10/251003033926.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251003033926.htm",
-      "title": "What looks like dancing is actually a bug’s survival trick",
-      "content_text": "The matador bug’s flamboyant leg-waving puzzled scientists for years, with early guesses pointing to courtship. But experiments revealed the waving is a defense tactic against predators. Related species also share the behavior, possibly signaling toxicity or creating visual confusion. The discovery raises fresh questions about insect evolution and survival strategies.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/matador-bug-bitta-alipes.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/10/251003033924.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251003033924.htm",
-      "title": "Surprising study reveals what really kills fatty liver disease patients",
-      "content_text": "Metabolic dysfunction-associated steatotic liver disease (MASLD) affects over a third of the global population and is linked to serious health problems. A new study has revealed that high blood pressure, diabetes, and low HDL cholesterol are the deadliest cardiometabolic risk factors for patients with MASLD, with high blood pressure proving to be even riskier than diabetes. The findings also show that obesity and body mass index significantly influence mortality, and that each additional risk factor compounds the danger.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/magnifying-glass-diseased-liver.webp",
           "mime_type": "image/webp"
         }
       ],

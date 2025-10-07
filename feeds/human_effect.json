@@ -5,6 +5,51 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/human_effect.json",
   "items": [
     {
+      "id": "https://spectrum.ieee.org/natron-sodium-ion-battery-failure",
+      "url": "https://spectrum.ieee.org/natron-sodium-ion-battery-failure",
+      "title": "Natron Energy's Closure Sparks Industry Reflection",
+      "content_text": "Natron Energy's closure raises questions about the future of sodium-ion batteries in the U.S. Can the industry catch up with China?",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=61715697&width=1200&height=600&coordinates=0%2C22%2C0%2C8",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/multiphysics-simulation-power-grid",
+      "url": "https://spectrum.ieee.org/multiphysics-simulation-power-grid",
+      "title": "The Future of the Grid: Simulation-Driven Optimization",
+      "content_text": "Multiphysics simulation provides critical insight into complex power grid components",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://aiforgood.itu.int/building-ai-skills-and-governance-for-a-connected-future/",
+      "url": "https://aiforgood.itu.int/building-ai-skills-and-governance-for-a-connected-future/",
+      "title": "Building AI skills and governance for a connected future",
+      "content_text": "Connect with 51K enthusiasts from all over the world.",
+      "attachments": [
+        {
+          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/10/Featured-image-1024x576.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://spectrum.ieee.org/5-ways-volunteering-professional-growth",
       "url": "https://spectrum.ieee.org/5-ways-volunteering-professional-growth",
       "title": "How Volunteering Can Boost Your Career Skills",
@@ -147,21 +192,6 @@
       "attachments": [
         {
           "url": "https://noetic.org/wp-content/uploads/2025/10/AdobeStock_456579777-scaled.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/mems-lidar",
-      "url": "https://spectrum.ieee.org/mems-lidar",
-      "title": "Omnitron Sensors’ New Chip Tackles Lidar’s Biggest Weakness",
-      "content_text": "This startup says it's invented the most powerful MEMS micromirrors yet.",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=61680510&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
           "mime_type": "image/jpeg"
         }
       ],
@@ -455,21 +485,6 @@
       ]
     },
     {
-      "id": "https://aiforgood.itu.int/making-ai-ethical-inclusive-and-effective-across-the-un/",
-      "url": "https://aiforgood.itu.int/making-ai-ethical-inclusive-and-effective-across-the-un/",
-      "title": "Making AI ethical, inclusive, and effective across the UN",
-      "content_text": "Connect with 51K enthusiasts from all over the world.",
-      "attachments": [
-        {
-          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/Scaling-AI-responsibly-across-the-UN-system-1024x576.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
       "id": "https://noetic.org/blog/non-physical-beings-in-reiki/",
       "url": "https://noetic.org/blog/non-physical-beings-in-reiki/",
       "title": "Beyond the Veil: Encounters with Non-Physical Beings in Reiki | IONS",
@@ -710,73 +725,13 @@
       ]
     },
     {
-      "id": "https://www.technologyreview.com/2025/10/03/1124782/the-download-using-ai-to-discover-zero-day-vulnerabilities-and-apples-ice-app-removal/",
-      "url": "https://www.technologyreview.com/2025/10/03/1124782/the-download-using-ai-to-discover-zero-day-vulnerabilities-and-apples-ice-app-removal/",
-      "title": "The Download: using AI to discover “zero day” vulnerabilities, and Apple’s ICE app removal",
-      "content_text": "Plus: OpenAI's parental controls aren't exactly robust",
+      "id": "https://www.technologyreview.com/2025/10/06/1124939/the-download-introducing-the-10-climate-tech-companies-to-watch-for-2025/",
+      "url": "https://www.technologyreview.com/2025/10/06/1124939/the-download-introducing-the-10-climate-tech-companies-to-watch-for-2025/",
+      "title": "The Download: introducing the 10 climate tech companies to watch for 2025",
+      "content_text": "Plus: ICE is planning a social media surveillance team",
       "attachments": [
         {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/ai-dna-hack.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/10/02/1124767/microsoft-says-ai-can-create-zero-day-threats-in-biology/",
-      "url": "https://www.technologyreview.com/2025/10/02/1124767/microsoft-says-ai-can-create-zero-day-threats-in-biology/",
-      "title": "Microsoft says AI can create “zero day” threats in biology",
-      "content_text": "Artificial intelligence can design toxins that evade security controls.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/ai-dna-hack.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/10/02/1124684/the-download-rip-ev-tax-credits-and-openais-new-valuation/",
-      "url": "https://www.technologyreview.com/2025/10/02/1124684/the-download-rip-ev-tax-credits-and-openais-new-valuation/",
-      "title": "The Download: RIP EV tax credits, and OpenAI’s new valuation",
-      "content_text": "Plus: major music labels are preparing to make deals with AI firms",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/AP22293793988224.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/10/02/1124603/ev-tax-credits-end-us/",
-      "url": "https://www.technologyreview.com/2025/10/02/1124603/ev-tax-credits-end-us/",
-      "title": "EV tax credits are dead in the US. Now what?",
-      "content_text": "Federal support can’t last forever, but things aren’t looking great for electric vehicles in the US.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/AP22293793988224.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/10/02/1124570/turning-migration-into-modernization/",
-      "url": "https://www.technologyreview.com/2025/10/02/1124570/turning-migration-into-modernization/",
-      "title": "Turning migration into modernization",
-      "content_text": "The VMware shake‑up has led to an IT inflection point. Leaders are now weighing whether to renew, migrate, or redesign entirely for the cloud era.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/Effectual-Landing-Page-Card.png?resize=1200%2C600",
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/MITTR-CT1025-Social-1.png?resize=1200%2C600",
           "mime_type": "image/png"
         }
       ],
@@ -785,13 +740,13 @@
       ]
     },
     {
-      "id": "https://www.technologyreview.com/2025/10/01/1124062/roundtables-trumps-impact-on-the-next-generation-of-innovators/",
-      "url": "https://www.technologyreview.com/2025/10/01/1124062/roundtables-trumps-impact-on-the-next-generation-of-innovators/",
-      "title": "Roundtables: Trump’s Impact on the Next Generation of Innovators",
-      "content_text": "Watch a subscriber-only conversation on how researchers and entrepreneurs are faring under the new administration.",
+      "id": "https://www.technologyreview.com/2025/10/06/1124257/2025-climate-tech-companies-to-watch/",
+      "url": "https://www.technologyreview.com/2025/10/06/1124257/2025-climate-tech-companies-to-watch/",
+      "title": "2025 Climate Tech Companies to Watch",
+      "content_text": "MIT Technology Review's annual list of companies that are taking meaningful steps to reduce emissions and mitigate the impacts of climate change.",
       "attachments": [
         {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/MITTR-Roundtables-3-Zoom-Opening-Overlay.png?resize=1200%2C600",
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/MITTR-CT1025-Social-1.png?resize=1200%2C600",
           "mime_type": "image/png"
         }
       ],
@@ -800,28 +755,13 @@
       ]
     },
     {
-      "id": "https://www.technologyreview.com/2025/10/01/1124593/unlocking-ais-full-potential-requires-operational-excellence/",
-      "url": "https://www.technologyreview.com/2025/10/01/1124593/unlocking-ais-full-potential-requires-operational-excellence/",
-      "title": "Unlocking AI’s full potential requires operational excellence",
-      "content_text": "For successful AI adoption, leaders need to focus on structure rather than speed.",
+      "id": "https://www.technologyreview.com/2025/10/06/1124265/bill-gates-ingenuity-climate-change-tech-investment/",
+      "url": "https://www.technologyreview.com/2025/10/06/1124265/bill-gates-ingenuity-climate-change-tech-investment/",
+      "title": "Bill Gates: Our best weapon against climate change is ingenuity",
+      "content_text": "A measure I call the Green Premium reveals where we can invest in climate progress for maximum impact.",
       "attachments": [
         {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/Untitled-design-2-1.png?resize=1200%2C600",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/10/01/1124630/the-download-openais-caste-bias-problem-and-how-ai-videos-are-made/",
-      "url": "https://www.technologyreview.com/2025/10/01/1124630/the-download-openais-caste-bias-problem-and-how-ai-videos-are-made/",
-      "title": "The Download: OpenAI’s caste bias problem, and how AI videos are made",
-      "content_text": "Plus: Taiwan has pushed back against America's chip request",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/08/250825_india-openai.jpg?resize=1200%2C600",
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/Bill-Gates_Headshot_social.jpg?resize=1200%2C600",
           "mime_type": "image/jpeg"
         }
       ],
@@ -830,13 +770,13 @@
       ]
     },
     {
-      "id": "https://www.technologyreview.com/2025/10/01/1124621/openai-india-caste-bias/",
-      "url": "https://www.technologyreview.com/2025/10/01/1124621/openai-india-caste-bias/",
-      "title": "OpenAI is huge in India. Its models are steeped in caste bias.",
-      "content_text": "India is OpenAI’s second-largest market, but ChatGPT and Sora reproduce caste stereotypes that harm millions of people.",
+      "id": "https://www.technologyreview.com/2025/10/06/1124270/2025-climate-tech-companies-to-watch-hina-battery-salt-cells/",
+      "url": "https://www.technologyreview.com/2025/10/06/1124270/2025-climate-tech-companies-to-watch-hina-battery-salt-cells/",
+      "title": "2025 Climate Tech Companies to Watch: HiNa Battery Technology and its effort to commercialize salt cells",
+      "content_text": "The Chinese startup has begun mass-producing two types of sodium-ion batteries and plans to launch a third this month.",
       "attachments": [
         {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/08/250825_india-openai.jpg?resize=1200%2C600",
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/100-MWh-level-sodium-ion-battery-energy-storage-power-station-2.jpg?resize=1200%2C600",
           "mime_type": "image/jpeg"
         }
       ],
@@ -845,14 +785,89 @@
       ]
     },
     {
-      "id": "https://www.technologyreview.com/2025/09/30/1124505/designing-cpus-for-next-generation-supercomputing/",
-      "url": "https://www.technologyreview.com/2025/09/30/1124505/designing-cpus-for-next-generation-supercomputing/",
-      "title": "Designing CPUs for next-generation supercomputing",
-      "content_text": "While GPU-accelerated AI dominates headlines, CPUs remain an optimal choice for many scientific and engineering workloads.",
+      "id": "https://www.technologyreview.com/2025/10/06/1124275/2025-climate-tech-companies-to-watch-methodology/",
+      "url": "https://www.technologyreview.com/2025/10/06/1124275/2025-climate-tech-companies-to-watch-methodology/",
+      "title": "How we picked promising climate tech companies in an especially unsettling year",
+      "content_text": "And what distinguishes the firms that made the 2025 edition of our annual list of Climate Tech Companies to Watch.",
       "attachments": [
         {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/09/MITTR2024_V1_microamdSocials.png?resize=1200%2C600",
-          "mime_type": "image/png"
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/GettyImages-1446158491.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2025/10/06/1124278/2025-climate-tech-companies-to-watch-pairwise-gene-edited-crops/",
+      "url": "https://www.technologyreview.com/2025/10/06/1124278/2025-climate-tech-companies-to-watch-pairwise-gene-edited-crops/",
+      "title": "2025 Climate Tech Companies to Watch: Pairwise and its climate-adapted crops",
+      "content_text": "The company is gene editing crops to make our food supply more resilient to climate change.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/244A0057.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2025/10/06/1124280/2025-climate-tech-companies-to-watch-cemvision-low-emissions-cement/",
+      "url": "https://www.technologyreview.com/2025/10/06/1124280/2025-climate-tech-companies-to-watch-cemvision-low-emissions-cement/",
+      "title": "2025 Climate Tech Companies to Watch: Cemvision and its low-emissions cement",
+      "content_text": "The startup is using waste materials and alternative fuels to make cement, slashing greenhouse gas emissions in a polluting industry.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/Cemvision_StEriksDJI_0819_1.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2025/10/06/1124282/2025-climate-tech-companies-to-watch-traton-electric-trucks/",
+      "url": "https://www.technologyreview.com/2025/10/06/1124282/2025-climate-tech-companies-to-watch-traton-electric-trucks/",
+      "title": "2025 Climate Tech Companies to Watch: Traton and its electric trucks",
+      "content_text": "The company is boosting production to meet rising demand for its zero-emission rigs.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/P_Bus_CDE_NEO_Tourliner.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2025/10/06/1124284/2025-climate-tech-companies-to-watch-ather-energy-premium-escooters/",
+      "url": "https://www.technologyreview.com/2025/10/06/1124284/2025-climate-tech-companies-to-watch-ather-energy-premium-escooters/",
+      "title": "2025 Climate Tech Companies to Watch: Ather Energy and its premium e-scooters",
+      "content_text": "A few EV makers in India went belly up after the government abruptly scaled back incentives and cracked down on the misuse of subsidies. Ather survived the storm and sales are increasing.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/Ather-rizta-charging.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2025/10/06/1124287/2025-climate-tech-companies-to-watch-cyclic-materials-rare-earth-recycling/",
+      "url": "https://www.technologyreview.com/2025/10/06/1124287/2025-climate-tech-companies-to-watch-cyclic-materials-rare-earth-recycling/",
+      "title": "2025 Climate Tech Companies to Watch: Cyclic Materials and its rare earth recycling tech",
+      "content_text": "The startup is poised to become a global leader in recycling rare earth magnets from old EVs, wind turbines, and more.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/LIBRARY-3.00_07_20_22.Still006.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -868,21 +883,6 @@
         {
           "url": "https://substackcdn.com/image/fetch/$s_!r4uJ!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa10ac77a-6e9b-4f43-bca2-6d78417d0326_2000x1335.png",
           "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://content.knowledgehub.wiley.com/electrify-faster-spend-less-why-fleet-managers-are-turning-to-automated-load-management/",
-      "url": "https://content.knowledgehub.wiley.com/electrify-faster-spend-less-why-fleet-managers-are-turning-to-automated-load-management/",
-      "title": "Electrify Faster. Spend Less: Why Fleet Managers Are Turning to Automated Load Management - Wiley Science and Engineering Content Hub",
-      "content_text": "Register now free-of-charge to explore this white paper  Overcome the Biggest Barriers to Fleet Electrification This whitepaper demonstrates how Automated Load Management (ALM) enables you to install charging stations that exceed your site's grid capacity - legally and safely. No waiting. No massive utility bills. Just smart power distribution that works with your existing infrastructure.  What You'll Learn:   How to install more chargers than your grid allows: One transit agency installed 1.8MW of chargers on a 1.1MW connection  Exactly how ALM works: Real-time power distribution explained in plain terms  NEC code requirements: Specific sections and compliance steps you need  Your approval roadmap: Proven process for working with local authorities  Cost comparison: ALM vs. grid upgrades v",
-      "attachments": [
-        {
-          "url": "https://content.knowledgehub.wiley.com/wp-content/uploads/2025/09/ALM_Header_1500_400_background-500x133.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [

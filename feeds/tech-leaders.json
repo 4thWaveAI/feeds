@@ -5,14 +5,14 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.json",
   "items": [
     {
-      "id": "https://www.aboutamazon.com/news/community/amazon-disaster-relief-technology-kits-recovery",
-      "url": "https://www.aboutamazon.com/news/community/amazon-disaster-relief-technology-kits-recovery",
-      "title": "How Amazon’s disaster technology kits help communities recover faster",
-      "content_text": "The kits are produced for local first responders to use in the aftermath of disasters, designed to be as simple as flipping a light switch.",
+      "id": "https://www.aboutamazon.com/news/entertainment/playdate-movie-kevin-james-alan-ritchson-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/playdate-movie-kevin-james-alan-ritchson-prime-video",
+      "title": "How to watch the action comedy ‘Playdate,’ coming soon to Prime Video",
+      "content_text": "Find out everything you need to know about the upcoming film starring Alan Ritchson, Kevin James, Sarah Chalke, and more.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/8e85e6c/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F61%2F59%2Fbd70de23405d87ee12f07f7e9966%2Fabout-amazon-hero-hero001-aa-disasterrelieftraining-amazon-tight-pgk-09.jpg",
-          "mime_type": "image/jpeg"
+          "url": "https://assets.aboutamazon.com/dims4/default/b207c35/2147483647/strip/true/crop/1332x666+0+42/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F0b%2F86%2Fcd986b0d467fb6742909b14726ee%2Fplaydate1.png",
+          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -20,18 +20,33 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news",
-      "url": "https://www.aboutamazon.com/news/aws/amazon-data-centers-locations-news",
-      "title": "Amazon data center communities: Here’s what’s happening near data centers across the US",
-      "content_text": "Get the latest updates on how Amazon supports small businesses, creates jobs, sets up sustainability initiatives, and develops educational programs near AWS data centers.",
+      "id": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability",
+      "url": "https://www.aboutamazon.com/news/sustainability/amazon-water-conservation-replenishment-sustainability",
+      "title": "Amazon's water conservation and replenishment efforts around the world",
+      "content_text": "Get the latest updates on how we’re reducing our water footprint and investing in innovations to address water scarcity.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/182bf18/2147483647/strip/true/crop/5272x2636+0+163/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fa3%2Ff6%2F0abb1c1a4734ba2e727893e6eae2%2Faws-data-center-exterior-1.jpg",
+          "url": "https://assets.aboutamazon.com/dims4/default/f097732/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fd0%2F9e%2F033558d14b628d846cd0b6156f0e%2Fabout-amazon-hero-aa-mar2025-waterblog-standard-hero-v2-600kb-2000x1125-1.jpg",
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://www.youtube.com/embed/FylIotVFrzE",
+          "url": "https://www.youtube.com/embed/saV6YkQO5MY",
           "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/ballard-season-2-renewed-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/ballard-season-2-renewed-prime-video",
+      "title": "‘Ballard’ renewed for Season 2 on Prime Video",
+      "content_text": "Maggie Q will return as the titular Los Angeles Police Department detective Renée Ballard in the forthcoming season.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/874d723/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fc9%2Fc0%2Fe8dc9b8045e8aaae19b41c450069%2Fabout-amazon-hero-rbcs-s1-ut-102-240725-gaygre-00257rc.jpg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -51,6 +66,25 @@
       ],
       "tags": [
         "satya-nadella"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/faceoff-inside-nhl-prime-video-sidney-crosby",
+      "url": "https://www.aboutamazon.com/news/entertainment/faceoff-inside-nhl-prime-video-sidney-crosby",
+      "title": "How to watch 'Faceoff: Inside the NHL' on Prime Video",
+      "content_text": "See unprecedented behind-the-scenes access with NHL stars like Sidney Crosby and the Tkachuk brothers in Season 2.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/a0db97b/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fbe%2F5d%2Fbc57656044f0aab50082e14cbc27%2Fabout-amazon-inline-nhl1-s2-episodicstill-1920x1080-203-en-ca.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/OTJfeBxGDwk",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
       ]
     },
     {
@@ -141,6 +175,25 @@
       ]
     },
     {
+      "id": "https://www.aboutamazon.com/news/retail/wicked-2-movie-tickets-prime",
+      "url": "https://www.aboutamazon.com/news/retail/wicked-2-movie-tickets-prime",
+      "title": "How Prime members can get early tickets for 'Wicked: For Good’ only on Fandango",
+      "content_text": "Prime members will be able to buy tickets to the early screening of ‘Wicked: For Good’ and see it four days before its theatrical release.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/ff676fc/2147483647/strip/true/crop/1280x640+0+40/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff6%2Fe3%2Fbae94e6a4547b8cd345ee4c73fd2%2Fwickedforgood-videostill-1280x720-v2.png",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/Aiorau16tVk",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
       "url": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
       "title": "AlphaQubit tackles one of quantum computing’s biggest challenges",
@@ -153,55 +206,6 @@
       ],
       "tags": [
         "demis-hassabis"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/operations/how-amazon-prepares-for-prime-day",
-      "url": "https://www.aboutamazon.com/news/operations/how-amazon-prepares-for-prime-day",
-      "title": "A behind-the-scenes look at how Amazon prepares for its biggest shopping events of the year",
-      "content_text": "Here’s how Amazon fulfillment centers and delivery stations prepare for big shopping events like Prime Day and Prime Big Deal Days.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/41acc51/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fd9%2F4a%2F166566e246e39778d588d8913744%2Fabout-amazon-inline-share001-amazon-primedayprep-archive044-amazon-primedayprep-amazon-selects-144-4630x3087-copy-3343x2682.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/retail/amazon-prime-big-deal-days-faq",
-      "url": "https://www.aboutamazon.com/news/retail/amazon-prime-big-deal-days-faq",
-      "title": "Amazon Prime Big Deal Days 2025: Everything you need to know to get deals",
-      "content_text": "Everything you need to know about Amazon Prime Big Deal Days 2025, including when it starts, when it ends, and how to find the best deals.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/8756161/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F0b%2Feb%2F35485c2f4c629fcc3568ec79102e%2Fabout-amazon-inline-aa-pbdd25-everythingtoknow-standard-hero-v5-2000x1125.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/aws/how-aws-wickrs-encryption-service-is-helping-at-risk-afghan-citizens",
-      "url": "https://www.aboutamazon.com/news/aws/how-aws-wickrs-encryption-service-is-helping-at-risk-afghan-citizens",
-      "title": "How AWS Wickr is helping save lives in crisis situations",
-      "content_text": "From Afghanistan evacuations to Hurricane Helene relief efforts, AWS Wickr supports nonprofit and U.S. Army operations, enabling secure combat zone communications.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/fefcd17/2147483647/strip/true/crop/1600x800+0+50/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F35%2F8f%2Feb73aef54345abdd3d1f8ed4dee8%2Finline-001-awsxoperationrecovery-thumbnail-copy-1.JPG",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/CvY0O9afxnE",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
       ]
     },
     {
@@ -621,7 +625,7 @@
       "content_text": "How Geoff Richman, lead editor on the Apple Original, “Severance,” created the frenetic world of the hit show’s season two finale.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/Apple-TV-plus-Mac-editing-Severance-Geoffrey-Richman-and-Ben-Stiller-lp.jpg.og.jpg?202508281640=",
+          "url": "https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/Apple-TV-plus-Mac-editing-Severance-Geoffrey-Richman-and-Ben-Stiller-lp.jpg.og.jpg?202508281642=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -636,7 +640,7 @@
       "content_text": "Meet Taiki Hamamoto, Marina Lee, Luciana Ortiz Nolasco, and Nahom Worku, four winners of Apple’s 2025 Swift Student Challenge.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281636=",
+          "url": "https://www.apple.com/newsroom/images/2025/05/meet-four-of-this-years-swift-student-challenge-winners/tile/Apple-Swift-Student-Challenge-winners-group-shot-lp.jpg.og.jpg?202508281742=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -666,7 +670,7 @@
       "content_text": "Captured on iPhone 16 Pro Max, a recent shoot by photographer Karston Tannis showcased the vibrancy of the African diaspora.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2025/02/capturing-paradise-karston-tannis-re-creates-island-vibes-with-iphone-16-pro-max/tile/Apple-Tannis-shot-on-iPhone-16-Pro-Max-group-shot-lp.jpg.og.jpg?202508281642=",
+          "url": "https://www.apple.com/newsroom/images/2025/02/capturing-paradise-karston-tannis-re-creates-island-vibes-with-iphone-16-pro-max/tile/Apple-Tannis-shot-on-iPhone-16-Pro-Max-group-shot-lp.jpg.og.jpg?202508281648=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -696,7 +700,7 @@
       "content_text": "The source for news about Apple Services. Get updates on the latest Apple Arcade games, Apple Originals on TV+, Podcasts, Books, and more from Apple Newsroom.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1759260324228=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1759260071068=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -711,7 +715,7 @@
       "content_text": "Discover more stories from Apple Newsroom that showcase the creators, developers, and innovators leaving the world better than they found it.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1759260071157=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1759260691634=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -873,7 +877,7 @@
       "id": "https://www.blueorigin.com/news/new-shepard-ns-36-mission",
       "url": "https://www.blueorigin.com/news/new-shepard-ns-36-mission",
       "title": "New Shepard’s Crewed NS-36 Mission Targets Liftoff on October 8 | Blue Origin",
-      "content_text": "Blue Origin announced its next New Shepard crewed flight, NS-36, will lift off from Launch Site One in West Texas on Wednesday, October 8. The crew includes: Jeff Elgin, Danna Karagussova, Dr. Clint Kelly III, Aaron Newman, Vitalii Ostrovsky, and an undisclosed sixth crew member.",
+      "content_text": "Blue Origin announced its next New Shepard crewed flight, NS-36, will lift off from Launch Site One in West Texas on Wednesday, October 8.",
       "attachments": [
         {
           "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/NS-34_SunriseLaunch.jpg",
