@@ -57,7 +57,7 @@ jobs:
 
       - name: Build area feeds
         run: |
-          python scripts/build_area_feeds.py
+          python scripts/update_feeds.py
 
       - name: Ensure feeds directory exists (no-op if present)
         run: |
