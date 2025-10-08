@@ -28,18 +28,19 @@ jobs:
       - name: Install Python deps
         run: |
           python -m pip install --upgrade pip
-          pip install -r scripts/requirements.txt
+          if [ -f scripts/requirements.txt ]; then pip install -r scripts/requirements.txt; \
+          elif [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: Install yq (YAML CLI)
         run: |
-          sudo wget -q https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_amd64 -O /usr/local/bin/yq
+          sudo curl -L -o /usr/local/bin/yq https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_amd64
           sudo chmod +x /usr/local/bin/yq
           yq --version
 
       - name: Backup original feeds.yaml
         run: cp feeds.yaml feeds.yaml.bak
 
-      # ✅ simple, reliable filter: keep only the two areas
+      # Keep only the two areas we want to build
       - name: Filter feeds.yaml to only space-tech & space-force
         run: |
           echo "Before filter:"; yq '.areas | keys' feeds.yaml
@@ -52,16 +53,17 @@ jobs:
 
       - name: Build area feeds (filtered)
         run: |
-          python scripts/build_area_feeds.py
+          python scripts/update_feeds.py
 
       - name: Restore original feeds.yaml
         if: always()
-        run: mv feeds.yaml.bak feeds.yaml
+        run: mv -f feeds.yaml.bak feeds.yaml
 
       - name: Commit generated files
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name  "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
           git add -A
           git diff --cached --quiet || git commit -m "chore: update space & defense feeds [skip ci]"
           git push
