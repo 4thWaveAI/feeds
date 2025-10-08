@@ -1,0 +1,63 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>4thWaveAI Feed Cards</title>
+<style>
+  :root { color-scheme: dark light }
+  body{margin:0;font:16px/1.5 system-ui,Segoe UI,Arial}
+  .wrap{max-width:1200px;margin:0 auto;padding:16px}
+  h2{margin:.5rem 0 1rem}
+  .grid{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
+  article{border:1px solid #0002;border-radius:14px;padding:14px;background:#fff0}
+  .thumb{aspect-ratio:16/9;overflow:hidden;border-radius:10px;margin-bottom:10px}
+  .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+  .muted{opacity:.75}
+</style>
+<div class="wrap">
+  <h2 id="title">Latest</h2>
+  <div class="grid" id="grid"></div>
+  <p class="muted" id="err" style="display:none">Couldn’t load feed.</p>
+</div>
+<script>
+(async () => {
+  const params = new URLSearchParams(location.search);
+  const area = params.get('area') || 'ai';          // ?area=ai (default)
+  const limit = +(params.get('limit') || 12);
+  const title = params.get('title') || `${area.replace(/-/g,' ').replace(/\b\w/g,m=>m.toUpperCase())} — Latest`;
+  document.getElementById('title').textContent = title;
+
+  const FEED_URL = `https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/${area}.json`;
+  const grid = document.getElementById('grid');
+  const err  = document.getElementById('err');
+
+  try {
+    const res = await fetch(FEED_URL, {cache:'no-store'});
+    if (!res.ok) throw new Error(res.status);
+    const feed = await res.json();
+    const items = (feed.items || []).slice(0, limit);
+    if (!items.length) throw new Error('No items');
+
+    for (const it of items) {
+      const img = (it.attachments||[]).find(a => (a.mime_type||'').startsWith('image/'));
+      const art = document.createElement('article');
+      art.innerHTML = `
+        ${img ? `<div class="thumb"><img src="${img.url}" alt=""></div>` : ``}
+        <h3 style="margin:0 0 8px;font:600 1rem/1.3 system-ui">
+          <a href="${it.url}" target="_blank" rel="noopener" style="text-decoration:none">
+            ${escapeHtml(it.title || 'Untitled')}
+          </a>
+        </h3>
+        <p class="muted" style="margin:0">${escapeHtml((it.content_text||'').slice(0,180))}${(it.content_text||'').length>180?'…':''}</p>
+      `;
+      grid.appendChild(art);
+    }
+    // Inform parent (Hostinger) to resize iframe to content height
+    requestAnimationFrame(() => {
+      const h = document.documentElement.scrollHeight || document.body.scrollHeight;
+      parent.postMessage({type:'cards-resize', height:h}, '*');
+    });
+  } catch(e){ err.style.display='block'; }
+
+  function escapeHtml(s){return (s||'').replace(/[&<>"]/g,c=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;' }[c]))}
+})();
+</script>
