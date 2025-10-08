@@ -2,7 +2,7 @@
   "version": "https://jsonfeed.org/version/1",
   "title": "4thWave AI — Space Tech (Aggregated)",
   "home_page_url": "https://www.4thwaveai.com",
-  "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.json",
+  "feed_url": "https://www.4thwave.io/feeds/space-tech.json",
   "items": [
     {
       "id": "https://www.nasa.gov/news/recently-published/",
@@ -429,7 +429,7 @@
       "content_text": "Blue Origin successfully completed the 36th flight for the New Shepard program. New Shepard has now flown 86 humans (80 individuals) into space.",
       "attachments": [
         {
-          "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/NS-34_SunriseLaunch.jpg",
+          "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/news_NS36-capsule-descent.jpg",
           "mime_type": "image/jpeg"
         }
       ],
