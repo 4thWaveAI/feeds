@@ -1,7 +1,7 @@
-site_base: "https://4thwaveai-feeds.github.io/4thwaveai-feeds/"
+site_base: "https://www.4thwave.io/"
 home_url: "https://www.4thwaveai.com"
 max_items_per_area: 60
-
+# …areas unchanged…
 areas:
   ai:
     - name: DeepMind
