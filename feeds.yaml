@@ -21,111 +21,61 @@ areas:
       prefix: "/"
       limit: 6
 
-    - name: Tesla AI & Robotics (abs)
-      index: "https://www.tesla.com/AI"
-      base:  "https://www.tesla.com"
-      prefix: "https://www.tesla.com/AI"
-      limit: 6
-    - name: Tesla AI & Robotics (rel)
+    - name: Tesla AI & Robotics
       index: "https://www.tesla.com/AI"
       base:  "https://www.tesla.com"
       prefix: "/AI"
       limit: 6
 
-    - name: NVIDIA Newsroom (abs)
-      index: "https://nvidianews.nvidia.com/"
-      base:  "https://nvidianews.nvidia.com"
-      prefix: "https://nvidianews.nvidia.com/news/"
-      limit: 8
-    - name: NVIDIA Newsroom (rel)
+    - name: NVIDIA Newsroom
       index: "https://nvidianews.nvidia.com/"
       base:  "https://nvidianews.nvidia.com"
       prefix: "/news/"
       limit: 8
 
-    - name: NVIDIA Blog (abs)
-      index: "https://blogs.nvidia.com/"
-      base:  "https://blogs.nvidia.com"
-      prefix: "https://blogs.nvidia.com/blog/"
-      limit: 10
-    - name: NVIDIA Blog (rel)
+    - name: NVIDIA Blog
       index: "https://blogs.nvidia.com/"
       base:  "https://blogs.nvidia.com"
       prefix: "/blog/"
       limit: 10
 
-    - name: NVIDIA Developer Blog (abs)
-      index: "https://developer.nvidia.com/blog/"
-      base:  "https://developer.nvidia.com"
-      prefix: "https://developer.nvidia.com/blog/"
-      limit: 10
-    - name: NVIDIA Developer Blog (rel)
+    - name: NVIDIA Developer Blog
       index: "https://developer.nvidia.com/blog/"
       base:  "https://developer.nvidia.com"
       prefix: "/blog/"
       limit: 10
 
-    - name: Palladyne AI Blog (abs)
-      index: "https://www.palladyneai.com/blog/"
-      base:  "https://www.palladyneai.com"
-      prefix: "https://www.palladyneai.com/blog/"
-      limit: 10
-    - name: Palladyne AI Blog (rel)
+    - name: Palladyne AI Blog
       index: "https://www.palladyneai.com/blog/"
       base:  "https://www.palladyneai.com"
       prefix: "/blog/"
       limit: 10
 
-    - name: OpenAI News (abs)
-      index: "https://openai.com/news/"
-      base:  "https://openai.com"
-      prefix: "https://openai.com/news/"
-      limit: 10
-    - name: OpenAI News (rel)
+    - name: OpenAI News
       index: "https://openai.com/news/"
       base:  "https://openai.com"
       prefix: "/news/"
       limit: 10
 
-    - name: Microsoft Industry — Manufacturing & Mobility (abs)
-      index: "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/"
-      base:  "https://www.microsoft.com"
-      prefix: "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/"
-      limit: 10
-    - name: Microsoft Industry — Manufacturing & Mobility (rel)
+    - name: Microsoft Industry — Manufacturing & Mobility
       index: "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/"
       base:  "https://www.microsoft.com"
       prefix: "/en-us/industry/blog/manufacturing-and-mobility/"
       limit: 10
 
-    - name: IBM Think — AI in Manufacturing (abs)
-      index: "https://www.ibm.com/think/topics/ai-in-manufacturing"
-      base:  "https://www.ibm.com"
-      prefix: "https://www.ibm.com/think/"
-      limit: 10
-    - name: IBM Think — AI in Manufacturing (rel)
+    - name: IBM Think — AI in Manufacturing
       index: "https://www.ibm.com/think/topics/ai-in-manufacturing"
       base:  "https://www.ibm.com"
       prefix: "/think/"
       limit: 10
 
-    - name: Siemens — Industrial AI (abs)
-      index: "https://www.siemens.com/us/en/company/topic-areas/industrial-ai.html"
-      base:  "https://www.siemens.com"
-      prefix: "https://www.siemens.com/us/en/company/topic-areas/industrial-ai"
-      limit: 10
-    - name: Siemens — Industrial AI (rel)
+    - name: Siemens — Industrial AI
       index: "https://www.siemens.com/us/en/company/topic-areas/industrial-ai.html"
       base:  "https://www.siemens.com"
       prefix: "/us/en/company/topic-areas/industrial-ai"
       limit: 10
 
-    - name: C3.ai News (abs)
-      index: "https://c3.ai/news/"
-      base:  "https://c3.ai"
-      prefix: "https://c3.ai/news/"
-      limit: 10
-    - name: C3.ai News (rel)
+    - name: C3.ai News
       index: "https://c3.ai/news/"
       base:  "https://c3.ai"
       prefix: "/news/"
@@ -144,67 +94,37 @@ areas:
       prefix: "/blog/"
       limit: 10
 
-    - name: Anduril Newsroom (abs)
-      index: "https://www.anduril.com/newsroom/"
-      base:  "https://www.anduril.com"
-      prefix: "https://www.anduril.com/newsroom/"
-      limit: 8
-    - name: Anduril Newsroom (rel)
+    - name: Anduril Newsroom
       index: "https://www.anduril.com/newsroom/"
       base:  "https://www.anduril.com"
       prefix: "/newsroom/"
       limit: 8
 
-    - name: Figure AI News (abs)
-      index: "https://www.figure.ai/news"
-      base:  "https://www.figure.ai"
-      prefix: "https://www.figure.ai/news"
-      limit: 8
-    - name: Figure AI News (rel)
+    - name: Figure AI News
       index: "https://www.figure.ai/news"
       base:  "https://www.figure.ai"
       prefix: "/news"
       limit: 8
 
-    - name: Agility Robotics Press (abs)
-      index: "https://www.agilityrobotics.com/about/press"
-      base:  "https://www.agilityrobotics.com"
-      prefix: "https://www.agilityrobotics.com/about/press"
-      limit: 8
-    - name: Agility Robotics Press (rel)
+    - name: Agility Robotics Press
       index: "https://www.agilityrobotics.com/about/press"
       base:  "https://www.agilityrobotics.com"
       prefix: "/about/press"
       limit: 8
 
-    - name: Milrem Robotics News (abs)
-      index: "https://milremrobotics.com/news/"
-      base:  "https://milremrobotics.com"
-      prefix: "https://milremrobotics.com/news/"
-      limit: 10
-    - name: Milrem Robotics News (rel)
+    - name: Milrem Robotics News
       index: "https://milremrobotics.com/news/"
       base:  "https://milremrobotics.com"
       prefix: "/news/"
       limit: 10
 
-    - name: Unitree Open Source (abs)
-      index: "https://www.unitree.com/opensource"
-      base:  "https://www.unitree.com"
-      prefix: "https://www.unitree.com/opensource"
-      limit: 6
-    - name: Unitree Open Source (rel)
+    - name: Unitree Open Source
       index: "https://www.unitree.com/opensource"
       base:  "https://www.unitree.com"
       prefix: "/opensource"
       limit: 6
 
-    - name: Unitree News (abs)
-      index: "https://www.unitree.com/news"
-      base:  "https://www.unitree.com"
-      prefix: "https://www.unitree.com/news"
-      limit: 10
-    - name: Unitree News (rel)
+    - name: Unitree News
       index: "https://www.unitree.com/news"
       base:  "https://www.unitree.com"
       prefix: "/news"
@@ -262,82 +182,42 @@ areas:
       limit: 10
 
   space-tech:
-    - name: NASA News — Releases (abs)
-      index: "https://www.nasa.gov/news/"
-      base:  "https://www.nasa.gov"
-      prefix: "https://www.nasa.gov/news-release/"
-      limit: 6
-    - name: NASA News — Releases (rel)
+    - name: NASA News — Releases
       index: "https://www.nasa.gov/news/"
       base:  "https://www.nasa.gov"
       prefix: "/news-release/"
       limit: 6
-    - name: NASA News — Features (abs)
-      index: "https://www.nasa.gov/news/"
-      base:  "https://www.nasa.gov"
-      prefix: "https://www.nasa.gov/feature/"
-      limit: 6
-    - name: NASA News — Features (rel)
+    - name: NASA News — Features
       index: "https://www.nasa.gov/news/"
       base:  "https://www.nasa.gov"
       prefix: "/feature/"
       limit: 6
-    - name: NASA JPL — News (abs)
-      index: "https://www.jpl.nasa.gov/news"
-      base:  "https://www.jpl.nasa.gov"
-      prefix: "https://www.jpl.nasa.gov/news/"
-      limit: 8
-    - name: NASA JPL — News (rel)
+    - name: NASA JPL — News
       index: "https://www.jpl.nasa.gov/news"
       base:  "https://www.jpl.nasa.gov"
       prefix: "/news/"
       limit: 8
-    - name: ESA — Press Releases (abs)
-      index: "https://www.esa.int/Newsroom/Press_Releases"
-      base:  "https://www.esa.int"
-      prefix: "https://www.esa.int/Newsroom/Press_Releases/"
-      limit: 6
-    - name: ESA — Press Releases (rel)
+    - name: ESA — Press Releases
       index: "https://www.esa.int/Newsroom/Press_Releases"
       base:  "https://www.esa.int"
       prefix: "/Newsroom/Press_Releases/"
       limit: 6
-    - name: SpaceX — Updates (abs)
-      index: "https://www.spacex.com/updates/"
-      base:  "https://www.spacex.com"
-      prefix: "https://www.spacex.com/updates/"
-      limit: 6
-    - name: SpaceX — Updates (rel)
+    - name: SpaceX — Updates
       index: "https://www.spacex.com/updates/"
       base:  "https://www.spacex.com"
       prefix: "/updates/"
       limit: 6
-    - name: Blue Origin — News (abs)
-      index: "https://www.blueorigin.com/news"
-      base:  "https://www.blueorigin.com"
-      prefix: "https://www.blueorigin.com/news"
-      limit: 6
-    - name: Blue Origin — News (rel)
+    - name: Blue Origin — News
       index: "https://www.blueorigin.com/news"
       base:  "https://www.blueorigin.com"
       prefix: "/news"
       limit: 6
-    - name: Rocket Lab — Updates (abs)
-      index: "https://www.rocketlabusa.com/updates/"
-      base:  "https://www.rocketlabusa.com"
-      prefix: "https://www.rocketlabusa.com/updates/"
-      limit: 6
-    - name: Rocket Lab — Updates (rel)
+    - name: Rocket Lab — Updates
       index: "https://www.rocketlabusa.com/updates/"
       base:  "https://www.rocketlabusa.com"
       prefix: "/updates/"
       limit: 6
-    - name: Relativity Space — News (abs)
-      index: "https://www.relativityspace.com/news"
-      base:  "https://www.relativityspace.com"
-      prefix: "https://www.relativityspace.com/news"
-      limit: 6
-    - name: Relativity Space — News (rel)
+    - name: Relativity Space — News
       index: "https://www.relativityspace.com/news"
       base:  "https://www.relativityspace.com"
       prefix: "/news"
@@ -382,12 +262,7 @@ areas:
         - "/Tag/"
 
   digital-twins:
-    - name: World Economic Forum — Publications (abs)
-      index: "https://www.weforum.org/publications/"
-      base:  "https://www.weforum.org"
-      prefix: "https://www.weforum.org/publications/"
-      limit: 8
-    - name: World Economic Forum — Publications (rel)
+    - name: World Economic Forum — Publications
       index: "https://www.weforum.org/publications/"
       base:  "https://www.weforum.org"
       prefix: "/publications/"
@@ -399,12 +274,7 @@ areas:
       limit: 8
 
   quantum-security:
-    - name: World Economic Forum — Publications (abs)
-      index: "https://www.weforum.org/publications/"
-      base:  "https://www.weforum.org"
-      prefix: "https://www.weforum.org/publications/"
-      limit: 8
-    - name: World Economic Forum — Publications (rel)
+    - name: World Economic Forum — Publications
       index: "https://www.weforum.org/publications/"
       base:  "https://www.weforum.org"
       prefix: "/publications/"
@@ -416,12 +286,7 @@ areas:
       limit: 8
 
   generative-ai:
-    - name: World Economic Forum — Publications (abs)
-      index: "https://www.weforum.org/publications/"
-      base:  "https://www.weforum.org"
-      prefix: "https://www.weforum.org/publications/"
-      limit: 8
-    - name: World Economic Forum — Publications (rel)
+    - name: World Economic Forum — Publications
       index: "https://www.weforum.org/publications/"
       base:  "https://www.weforum.org"
       prefix: "/publications/"
@@ -433,12 +298,7 @@ areas:
       limit: 10
 
   agentic-ai:
-    - name: World Economic Forum — Publications (abs)
-      index: "https://www.weforum.org/publications/"
-      base:  "https://www.weforum.org"
-      prefix: "https://www.weforum.org/publications/"
-      limit: 6
-    - name: World Economic Forum — Publications (rel)
+    - name: World Economic Forum — Publications
       index: "https://www.weforum.org/publications/"
       base:  "https://www.weforum.org"
       prefix: "/publications/"
@@ -450,12 +310,7 @@ areas:
       base:  "https://spectrum.ieee.org"
       prefix: "/"
       limit: 10
-    - name: World Economic Forum — Publications (abs)
-      index: "https://www.weforum.org/publications/"
-      base:  "https://www.weforum.org"
-      prefix: "https://www.weforum.org/publications/"
-      limit: 6
-    - name: World Economic Forum — Publications (rel)
+    - name: World Economic Forum — Publications
       index: "https://www.weforum.org/publications/"
       base:  "https://www.weforum.org"
       prefix: "/publications/"
@@ -503,12 +358,7 @@ areas:
       base:  "https://www.sciencedaily.com"
       prefix: "/releases/"
       limit: 10
-    - name: World Economic Forum — Publications (abs)
-      index: "https://www.weforum.org/publications/"
-      base:  "https://www.weforum.org"
-      prefix: "https://www.weforum.org/publications/"
-      limit: 6
-    - name: World Economic Forum — Publications (rel)
+    - name: World Economic Forum — Publications
       index: "https://www.weforum.org/publications/"
       base:  "https://www.weforum.org"
       prefix: "/publications/"
@@ -551,56 +401,31 @@ areas:
       limit: 10
 
   elon-musk:
-    - name: SpaceX — Updates (abs)
-      index: "https://www.spacex.com/updates/"
-      base:  "https://www.spacex.com"
-      prefix: "https://www.spacex.com/updates/"
-      limit: 6
-    - name: SpaceX — Updates (rel)
+    - name: SpaceX — Updates
       index: "https://www.spacex.com/updates/"
       base:  "https://www.spacex.com"
       prefix: "/updates/"
       limit: 6
-    - name: Tesla AI & Robotics (abs)
-      index: "https://www.tesla.com/AI"
-      base:  "https://www.tesla.com"
-      prefix: "https://www.tesla.com/AI"
-      limit: 6
-    - name: Tesla AI & Robotics (rel)
+    - name: Tesla AI & Robotics
       index: "https://www.tesla.com/AI"
       base:  "https://www.tesla.com"
       prefix: "/AI"
       limit: 6
 
   jensen-huang:
-    - name: NVIDIA Newsroom (abs)
-      index: "https://nvidianews.nvidia.com/"
-      base:  "https://nvidianews.nvidia.com"
-      prefix: "https://nvidianews.nvidia.com/news/"
-      limit: 8
-    - name: NVIDIA Newsroom (rel)
+    - name: NVIDIA Newsroom
       index: "https://nvidianews.nvidia.com/"
       base:  "https://nvidianews.nvidia.com"
       prefix: "/news/"
       limit: 8
-    - name: NVIDIA Blog (abs)
-      index: "https://blogs.nvidia.com/"
-      base:  "https://blogs.nvidia.com"
-      prefix: "https://blogs.nvidia.com/blog/"
-      limit: 8
-    - name: NVIDIA Blog (rel)
+    - name: NVIDIA Blog
       index: "https://blogs.nvidia.com/"
       base:  "https://blogs.nvidia.com"
       prefix: "/blog/"
       limit: 8
 
   sam-altman:
-    - name: OpenAI News (abs)
-      index: "https://openai.com/news/"
-      base:  "https://openai.com"
-      prefix: "https://openai.com/news/"
-      limit: 10
-    - name: OpenAI News (rel)
+    - name: OpenAI News
       index: "https://openai.com/news/"
       base:  "https://openai.com"
       prefix: "/news/"
@@ -633,12 +458,7 @@ areas:
       limit: 6
 
   tim-cook:
-    - name: Apple Newsroom (abs)
-      index: "https://www.apple.com/newsroom/"
-      base:  "https://www.apple.com"
-      prefix: "https://www.apple.com/newsroom/"
-      limit: 8
-    - name: Apple Newsroom (rel)
+    - name: Apple Newsroom
       index: "https://www.apple.com/newsroom/"
       base:  "https://www.apple.com"
       prefix: "/newsroom/"
@@ -652,34 +472,19 @@ areas:
       limit: 8
 
   jeff-bezos:
-    - name: Blue Origin — News (abs)
-      index: "https://www.blueorigin.com/news"
-      base:  "https://www.blueorigin.com"
-      prefix: "https://www.blueorigin.com/news"
-      limit: 6
-    - name: Blue Origin — News (rel)
+    - name: Blue Origin — News
       index: "https://www.blueorigin.com/news"
       base:  "https://www.blueorigin.com"
       prefix: "/news"
       limit: 6
-    - name: About Amazon — News (abs)
-      index: "https://www.aboutamazon.com/news"
-      base:  "https://www.aboutamazon.com"
-      prefix: "https://www.aboutamazon.com/news"
-      limit: 6
-    - name: About Amazon — News (rel)
+    - name: About Amazon — News
       index: "https://www.aboutamazon.com/news"
       base:  "https://www.aboutamazon.com"
       prefix: "/news"
       limit: 6
 
   young-talons-edu-tech:
-    - name: EdSurge — News (abs)
-      index: "https://www.edsurge.com/news"
-      base:  "https://www.edsurge.com"
-      prefix: "https://www.edsurge.com/news/"
-      limit: 10
-    - name: EdSurge — News (rel)
+    - name: EdSurge — News
       index: "https://www.edsurge.com/news"
       base:  "https://www.edsurge.com"
       prefix: "/news/"
