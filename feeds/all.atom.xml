@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Fri, 10 Oct 2025 10:39:44 +0000</updated>
+  <updated>Fri, 10 Oct 2025 11:27:25 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -75,6 +75,12 @@
     <summary type="text">The project has exceeded all of its technical goals after two years, setting up the foundations of high-speed communications for NASA’s future human missions to Mars.</summary>
   </entry>
   <entry>
+    <title>NASA’s Tally of Planets Outside Our Solar System Reaches 6,000</title>
+    <link href="https://www.jpl.nasa.gov/news/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/"/>
+    <id>https://www.jpl.nasa.gov/news/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/</id>
+    <summary type="text">The milestone highlights the accelerating rate of discoveries, just over three decades since the first exoplanets were found.</summary>
+  </entry>
+  <entry>
     <title>NASA Analysis Shows Sun’s Activity Ramping Up</title>
     <link href="https://www.jpl.nasa.gov/news/nasa-analysis-shows-suns-activity-ramping-up/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-analysis-shows-suns-activity-ramping-up/</id>
@@ -109,12 +115,6 @@
     <link href="https://www.jpl.nasa.gov/news/"/>
     <id>https://www.jpl.nasa.gov/news/</id>
     <summary type="text">NASA&#x27;s Jet Propulsion Laboratory, the leading center for robotic exploration of the solar system.</summary>
-  </entry>
-  <entry>
-    <title>NASA’s Tally of Planets Outside Our Solar System Reaches 6,000</title>
-    <link href="https://www.jpl.nasa.gov/news/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/"/>
-    <id>https://www.jpl.nasa.gov/news/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/</id>
-    <summary type="text">The milestone highlights the accelerating rate of discoveries, just over three decades since the first exoplanets were found.</summary>
   </entry>
   <entry>
     <title>Press Releases</title>
