@@ -1,0 +1,641 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "4thWave AI — All Areas (Aggregated)",
+  "home_page_url": "https://www.4thwaveai.com",
+  "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
+  "items": [
+    {
+      "id": "https://www.nasa.gov/news/recently-published/",
+      "url": "https://www.nasa.gov/news/recently-published/",
+      "title": "All NASA News - NASA",
+      "content_text": "Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news/media-contacts/",
+      "url": "https://www.nasa.gov/news/media-contacts/",
+      "title": "NASA Media Contacts - NASA",
+      "content_text": "Media Contacts Gerelle Dodson NASA Workforce, STEM Engagement 202-358-1600 Jennifer Dooren Deputy News Chief, Cybersecurity 202-358-1600 Tiernan Doyle",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news/",
+      "url": "https://www.nasa.gov/news/",
+      "title": "NASA News",
+      "content_text": "Resources for news media, including NASA news contacts and archived news material",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/05/54492396655-c6ba83df1d-o-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-blue-origin-invite-media-to-attend-mars-mission-launch/",
+      "url": "https://www.nasa.gov/news-release/nasa-blue-origin-invite-media-to-attend-mars-mission-launch/",
+      "title": "NASA, Blue Origin Invite Media to Attend Mars Mission Launch - NASA",
+      "content_text": "NASA and Blue Origin are reopening media accreditation for the launch of the agency’s ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers)",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/09/escapade1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-international-partners-deepen-commitment-to-artemis-accords/",
+      "url": "https://www.nasa.gov/news-release/nasa-international-partners-deepen-commitment-to-artemis-accords/",
+      "title": "NASA, International Partners Deepen Commitment to Artemis Accords - NASA",
+      "content_text": "NASA, along with leaders from global space agencies and government representatives worldwide, convened on Monday to further the implementation of the Artemis",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/09/iac3.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/2025-news-releases/",
+      "url": "https://www.nasa.gov/2025-news-releases/",
+      "title": "2025 News Releases - NASA",
+      "content_text": "Sign up to receive NASA news releases and other information.",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2024/12/54200119914-6ac915b145-o.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2025/09/30/crew-works-advanced-science-hardware-and-conducts-lab-inspections/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2025/09/30/crew-works-advanced-science-hardware-and-conducts-lab-inspections/",
+      "title": "Crew Works Advanced Science Hardware and Conducts Lab Inspections - NASA",
+      "content_text": "Space science hardware once again topped the schedule for the Expedition 73 crew aboard the International Space Station on Tuesday. Life support and electronics maintenance to keep the orbital outpost in tip-top shape filled the rest of the day for the space lab residents.",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/iss073e0813519/iss073e0813519~large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2025/09/29/crew-begins-week-configuring-advanced-physics-space-tech-demo-hardware/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2025/09/29/crew-begins-week-configuring-advanced-physics-space-tech-demo-hardware/",
+      "title": "Crew Begins Week Configuring Advanced Physics, Space Tech Demo Hardware - NASA",
+      "content_text": "Science hardware was the focus on Monday as the Expedition 73 crew configured foam and material physics research gear and installed a space technology demonstration. Meanwhile, blood circulation studies and cargo operations rounded out the day aboard the International Space Station.",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/iss073e0704084/iss073e0704084~large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasa-isro-satellite-sends-first-radar-images-of-earths-surface/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-isro-satellite-sends-first-radar-images-of-earths-surface/",
+      "title": "NASA-ISRO Satellite Sends First Radar Images of Earth’s Surface",
+      "content_text": "Preliminary images from the most powerful Earth radar satellite ever launched offer a tantalizing glimpse of the science the mission will be able to deliver.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26616_Maine_4K_Annotated.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/",
+      "title": "NASA’s Webb Explores Largest Star-Forming Cloud in Milky Way",
+      "content_text": "Webb’s MIRI, managed by NASA’s Jet Propulsion Laboratory through launch, helped reveal the star-studded Sagittarius B2 molecular cloud in unprecedented detail.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/STScI-01K4T8XYNBJ9A93DJ9KYQJE2WF.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasas-deep-space-communications-demo-exceeds-project-expectations/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-deep-space-communications-demo-exceeds-project-expectations/",
+      "title": "NASA’s Deep Space Communications Demo Exceeds Project Expectations",
+      "content_text": "The project has exceeded all of its technical goals after two years, setting up the foundations of high-speed communications for NASA’s future human missions to Mars.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/contentdamsciencepsdphotojournalpiapia26pia26661PIA26661.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/PDLSM97vmKw?list=PLTiv_XWHnOZoPT2VCxZJOF7Vg1VTNuGj4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/",
+      "title": "NASA’s Tally of Planets Outside Our Solar System Reaches 6,000",
+      "content_text": "The milestone highlights the accelerating rate of discoveries, just over three decades since the first exoplanets were found.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/e1-6000-exoplanets-artists-concept-web.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/vAna9jBZRd8?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasa-analysis-shows-suns-activity-ramping-up/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-analysis-shows-suns-activity-ramping-up/",
+      "title": "NASA Analysis Shows Sun’s Activity Ramping Up",
+      "content_text": "It looked like the Sun was heading toward a historic lull in activity. That trend flipped in 2008, according to new research.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26681_new_-_Sun_image.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/",
+      "title": "NASA’s GUARDIAN Tsunami Detection Tech Catches Wave in Real Time",
+      "content_text": "A massive earthquake and subsequent tsunami off Russia in late July tested an experimental detection system that had deployed a critical component just the day before.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-Honolulu-skyline-16.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/new-us-european-sea-level-satellite-will-help-safeguard-ships-at-sea/",
+      "url": "https://www.jpl.nasa.gov/news/new-us-european-sea-level-satellite-will-help-safeguard-ships-at-sea/",
+      "title": "New U.S.-European Sea Level Satellite Will Help Safeguard Ships at Sea",
+      "content_text": "Sea surface height data from the Sentinel-6B satellite, led by NASA and ESA, will help with the development of marine weather forecasts, alerting ships to possible dangers.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/Ship_waves_Bering_sea_NOAA.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasa-says-mars-rover-discovered-potential-biosignature-last-year/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-says-mars-rover-discovered-potential-biosignature-last-year/",
+      "title": "NASA Says Mars Rover Discovered Potential Biosignature Last Year",
+      "content_text": "After a year’s worth of scientific scrutiny, the ‘Sapphire Canyon’ rock sample remains the mission’s best candidate for containing signs of ancient microbial life processes.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-Cheyava_Falls_Leopard_Spots_PIA26368orig.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/ieJKWW8sp2A?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasa-isro-satellite-lifts-off-to-track-earths-changing-surfaces/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-isro-satellite-lifts-off-to-track-earths-changing-surfaces/",
+      "title": "NASA-ISRO Satellite Lifts Off to Track Earth’s Changing Surfaces",
+      "content_text": "The first-of-its kind satellite will provide actionable information in a range of areas, including disaster response, infrastructure monitoring, and agricultural management.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/nisar-launch-image.png",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/zM_0aXxGN6g?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/",
+      "url": "https://www.jpl.nasa.gov/news/",
+      "title": "News",
+      "content_text": "NASA's Jet Propulsion Laboratory, the leading center for robotic exploration of the solar system.",
+      "attachments": [
+        {
+          "url": "https://www.jpl.nasa.gov/img/og.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Uniquement les demandes de la presse)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.blueorigin.com/news/media-inquiries",
+      "url": "https://www.blueorigin.com/news/media-inquiries",
+      "title": "Submit a Media Inquiry | Blue Origin",
+      "content_text": "If you’re a member of the press, please contact us at media@blueorigin.com with your inquiry and deadline.",
+      "attachments": [
+        {
+          "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/BlueOrigin_EarthAtNight.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.blueorigin.com/news/gallery",
+      "url": "https://www.blueorigin.com/news/gallery",
+      "title": "Gallery | Blue Origin",
+      "content_text": "Images available for download. Please credit Blue Origin.",
+      "attachments": [
+        {
+          "url": "https://d3ezn0y6hdgq62.cloudfront.net/assets/og_feather_logo.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.blueorigin.com/news/new-shepard-ns-36-mission",
+      "url": "https://www.blueorigin.com/news/new-shepard-ns-36-mission",
+      "title": "Blue Origin Completes 36th New Shepard Flight to Space | Blue Origin",
+      "content_text": "Blue Origin successfully completed the 36th flight for the New Shepard program. New Shepard has now flown 86 humans (80 individuals) into space.",
+      "attachments": [
+        {
+          "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/news_NS36-capsule-descent.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.blueorigin.com/news/blue-origin-luxembourg-partner-on-oasis-1-mission",
+      "url": "https://www.blueorigin.com/news/blue-origin-luxembourg-partner-on-oasis-1-mission",
+      "title": "Blue Origin and Luxembourg Partner on Oasis-1 Mission to Map Lunar Resources | Blue Origin",
+      "content_text": "Blue Origin today announced Project Oasis, a multi-phase initiative to identify key lunar resources from orbit, assess them on the ground, and harness them in situ.",
+      "attachments": [
+        {
+          "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/News_Oasis-1-Small-Sat.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.blueorigin.com/news/florida-investment-matches-ambitious-growth-plans",
+      "url": "https://www.blueorigin.com/news/florida-investment-matches-ambitious-growth-plans",
+      "title": "Florida Investment Matches Our Ambitious Growth Plans | Blue Origin",
+      "content_text": "Blue Origin employs nearly 4,000 people in Brevard County and has invested over $2.3 billion with 500 suppliers in Florida, generating significant economic growth and employment in the region.",
+      "attachments": [
+        {
+          "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/News_Florida-RocketPark.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.blueorigin.com/news/new-shepard-ns-35-mission",
+      "url": "https://www.blueorigin.com/news/new-shepard-ns-35-mission",
+      "title": "Blue Origin Completes 35th New Shepard Mission | Blue Origin",
+      "content_text": "Blue Origin successfully completed its 35th New Shepard flight and 15th payload mission today from Launch Site One in West Texas.",
+      "attachments": [
+        {
+          "url": "https://d1o72l87sylvqg.cloudfront.net/redstone/NS35_CapsuleDescent.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.blueorigin.com/news",
+      "url": "https://www.blueorigin.com/news",
+      "title": "News | Blue Origin",
+      "content_text": "The Latest from Blue",
+      "attachments": [
+        {
+          "url": "https://d1o72l87sylvqg.cloudfront.net/blue-origin/latest-news_hero.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2025/9/8/august-2025-company-update",
+      "url": "https://www.relativityspace.com/press-release/2025/9/8/august-2025-company-update",
+      "title": "August 2025 Company Update",
+      "content_text": "Throughout August, the Terran R program continued to make measurable progress toward first launch, delivering on critical program milestones.   Design  This month, the team completed 18 component-level Critical Design Reviews (CDRs), most of which focused on the second stage engine and fluids system",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/kkCaq3kv4CY",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2025/8/7/july-2025-company-update",
+      "url": "https://www.relativityspace.com/press-release/2025/8/7/july-2025-company-update",
+      "title": "July 2025 Company Update",
+      "content_text": "As development of Terran R continues to accelerate, July marked another month of meaningful progress across design, manufacturing, testing, and launch operations.   Design  In July, the team successfully completed 28 additional component-level Critical Design Reviews (CDRs). Notably, 351 thrust stru",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/yoRViVhVz4s",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2025/7/8/june-2025-company-update",
+      "url": "https://www.relativityspace.com/press-release/2025/7/8/june-2025-company-update",
+      "title": "June 2025 Company Update",
+      "content_text": "As the Terran R program continues to advance, we’re highlighting some of the latest milestones across design, build, test, and launch.   Design&nbsp;  Throughout June, the team completed 12 additional component-level critical design reviews (CDRs), covering a range of hardware from trays and flu",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/F14uXmzVp08",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2025/6/6/may-2025-company-update",
+      "url": "https://www.relativityspace.com/press-release/2025/6/6/may-2025-company-update",
+      "title": "May 2025 Company Update",
+      "content_text": "As we close out another month of Terran R development, we’re sharing a look at recent progress across design, build, test, and launch.&nbsp;&nbsp;   Design &nbsp; In May, we completed an additional 17 component-level critical design reviews (CDR). At this stage of the program, many of th",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/2jlhxFZkw9E",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/news",
+      "url": "https://www.relativityspace.com/news",
+      "title": "Updates",
+      "content_text": "Learn about Terran R’s progress towards reusability.",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/kkCaq3kv4CY",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.sda.mil/home/news/",
+      "url": "https://www.sda.mil/home/news/",
+      "title": "NEWS – Space Development Agency",
+      "content_text": "NEWS – Space Development Agency",
+      "tags": [
+        "space-force"
+      ]
+    },
+    {
+      "id": "https://www.sda.mil/home/news/news-releases/",
+      "url": "https://www.sda.mil/home/news/news-releases/",
+      "title": "News Releases – Space Development Agency",
+      "content_text": "News Releases – Space Development Agency",
+      "tags": [
+        "space-force"
+      ]
+    },
+    {
+      "id": "https://www.sda.mil/home/news/page/2/",
+      "url": "https://www.sda.mil/home/news/page/2/",
+      "title": "NEWS – Page 2 – Space Development Agency",
+      "content_text": "NEWS – Page 2 – Space Development Agency",
+      "tags": [
+        "space-force"
+      ]
+    },
+    {
+      "id": "https://www.sda.mil/home/news/page/3/",
+      "url": "https://www.sda.mil/home/news/page/3/",
+      "title": "NEWS – Page 3 – Space Development Agency",
+      "content_text": "NEWS – Page 3 – Space Development Agency",
+      "tags": [
+        "space-force"
+      ]
+    },
+    {
+      "id": "https://www.sda.mil/home/news/page/5/",
+      "url": "https://www.sda.mil/home/news/page/5/",
+      "title": "NEWS – Page 5 – Space Development Agency",
+      "content_text": "NEWS – Page 5 – Space Development Agency",
+      "tags": [
+        "space-force"
+      ]
+    }
+  ]
+}
