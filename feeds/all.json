@@ -119,6 +119,21 @@
       ]
     },
     {
+      "id": "https://www.jpl.nasa.gov/news/jpl-workforce--update/",
+      "url": "https://www.jpl.nasa.gov/news/jpl-workforce--update/",
+      "title": "JPL Workforce Update",
+      "content_text": "A message from JPL Director Dave Gallagher",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/imagesjpl202011163-Meatball-JPL-angled-16.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasa-isro-satellite-sends-first-radar-images-of-earths-surface/",
       "url": "https://www.jpl.nasa.gov/news/nasa-isro-satellite-sends-first-radar-images-of-earths-surface/",
       "title": "NASA-ISRO Satellite Sends First Radar Images of Earth’s Surface",
@@ -225,25 +240,6 @@
         {
           "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/Ship_waves_Bering_sea_NOAA.jpg",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/nasa-says-mars-rover-discovered-potential-biosignature-last-year/",
-      "url": "https://www.jpl.nasa.gov/news/nasa-says-mars-rover-discovered-potential-biosignature-last-year/",
-      "title": "NASA Says Mars Rover Discovered Potential Biosignature Last Year",
-      "content_text": "After a year’s worth of scientific scrutiny, the ‘Sapphire Canyon’ rock sample remains the mission’s best candidate for containing signs of ancient microbial life processes.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-Cheyava_Falls_Leopard_Spots_PIA26368orig.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/ieJKWW8sp2A?feature=oembed",
-          "mime_type": "video/mp4"
         }
       ],
       "tags": [

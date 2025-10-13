@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Mon, 13 Oct 2025 17:14:42 +0000</updated>
+  <updated>Mon, 13 Oct 2025 18:23:05 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -57,6 +57,12 @@
     <summary type="text">Science hardware was the focus on Monday as the Expedition 73 crew configured foam and material physics research gear and installed a space technology demonstration. Meanwhile, blood circulation studies and cargo operations rounded out the day aboard the International Space Station.</summary>
   </entry>
   <entry>
+    <title>JPL Workforce Update</title>
+    <link href="https://www.jpl.nasa.gov/news/jpl-workforce--update/"/>
+    <id>https://www.jpl.nasa.gov/news/jpl-workforce--update/</id>
+    <summary type="text">A message from JPL Director Dave Gallagher</summary>
+  </entry>
+  <entry>
     <title>NASA-ISRO Satellite Sends First Radar Images of Earth’s Surface</title>
     <link href="https://www.jpl.nasa.gov/news/nasa-isro-satellite-sends-first-radar-images-of-earths-surface/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-isro-satellite-sends-first-radar-images-of-earths-surface/</id>
@@ -97,12 +103,6 @@
     <link href="https://www.jpl.nasa.gov/news/new-us-european-sea-level-satellite-will-help-safeguard-ships-at-sea/"/>
     <id>https://www.jpl.nasa.gov/news/new-us-european-sea-level-satellite-will-help-safeguard-ships-at-sea/</id>
     <summary type="text">Sea surface height data from the Sentinel-6B satellite, led by NASA and ESA, will help with the development of marine weather forecasts, alerting ships to possible dangers.</summary>
-  </entry>
-  <entry>
-    <title>NASA Says Mars Rover Discovered Potential Biosignature Last Year</title>
-    <link href="https://www.jpl.nasa.gov/news/nasa-says-mars-rover-discovered-potential-biosignature-last-year/"/>
-    <id>https://www.jpl.nasa.gov/news/nasa-says-mars-rover-discovered-potential-biosignature-last-year/</id>
-    <summary type="text">After a year’s worth of scientific scrutiny, the ‘Sapphire Canyon’ rock sample remains the mission’s best candidate for containing signs of ancient microbial life processes.</summary>
   </entry>
   <entry>
     <title>NASA-ISRO Satellite Lifts Off to Track Earth’s Changing Surfaces</title>
