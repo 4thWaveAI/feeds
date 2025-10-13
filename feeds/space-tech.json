@@ -29,21 +29,6 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news/",
-      "url": "https://www.nasa.gov/news/",
-      "title": "NASA News",
-      "content_text": "Resources for news media, including NASA news contacts and archived news material",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2025/05/54492396655-c6ba83df1d-o-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.nasa.gov/news-release/nasa-blue-origin-invite-media-to-attend-mars-mission-launch/",
       "url": "https://www.nasa.gov/news-release/nasa-blue-origin-invite-media-to-attend-mars-mission-launch/",
       "title": "NASA, Blue Origin Invite Media to Attend Mars Mission Launch - NASA",
@@ -81,36 +66,6 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2024/12/54200119914-6ac915b145-o.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2025/09/30/crew-works-advanced-science-hardware-and-conducts-lab-inspections/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2025/09/30/crew-works-advanced-science-hardware-and-conducts-lab-inspections/",
-      "title": "Crew Works Advanced Science Hardware and Conducts Lab Inspections - NASA",
-      "content_text": "Space science hardware once again topped the schedule for the Expedition 73 crew aboard the International Space Station on Tuesday. Life support and electronics maintenance to keep the orbital outpost in tip-top shape filled the rest of the day for the space lab residents.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/iss073e0813519/iss073e0813519~large.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2025/09/29/crew-begins-week-configuring-advanced-physics-space-tech-demo-hardware/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2025/09/29/crew-begins-week-configuring-advanced-physics-space-tech-demo-hardware/",
-      "title": "Crew Begins Week Configuring Advanced Physics, Space Tech Demo Hardware - NASA",
-      "content_text": "Science hardware was the focus on Monday as the Expedition 73 crew configured foam and material physics research gear and installed a space technology demonstration. Meanwhile, blood circulation studies and cargo operations rounded out the day aboard the International Space Station.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/iss073e0704084/iss073e0704084~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -280,6 +235,105 @@
           "mime_type": "image/png"
         }
       ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
       "tags": [
         "space-tech"
       ]
