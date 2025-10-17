@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Fri, 17 Oct 2025 06:24:26 +0000</updated>
+  <updated>Fri, 17 Oct 2025 07:16:25 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -118,9 +118,9 @@
   </entry>
   <entry>
     <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/fr"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/fr</id>
-    <summary type="text">email: media @ esa.int (Uniquement les demandes de la presse)</summary>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
   </entry>
   <entry>
     <title>Submit a Media Inquiry | Blue Origin</title>
