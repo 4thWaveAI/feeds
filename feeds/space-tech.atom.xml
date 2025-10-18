@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Sat, 18 Oct 2025 18:20:46 +0000</updated>
+  <updated>Sat, 18 Oct 2025 19:12:08 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -115,6 +115,48 @@
     <link href="https://www.jpl.nasa.gov/news/"/>
     <id>https://www.jpl.nasa.gov/news/</id>
     <summary type="text">NASA&#x27;s Jet Propulsion Laboratory, the leading center for robotic exploration of the solar system.</summary>
+  </entry>
+  <entry>
+    <title>Submit a Media Inquiry | Blue Origin</title>
+    <link href="https://www.blueorigin.com/news/media-inquiries"/>
+    <id>https://www.blueorigin.com/news/media-inquiries</id>
+    <summary type="text">If you’re a member of the press, please contact us at media@blueorigin.com with your inquiry and deadline.</summary>
+  </entry>
+  <entry>
+    <title>Gallery | Blue Origin</title>
+    <link href="https://www.blueorigin.com/news/gallery"/>
+    <id>https://www.blueorigin.com/news/gallery</id>
+    <summary type="text">Images available for download. Please credit Blue Origin.</summary>
+  </entry>
+  <entry>
+    <title>Blue Origin Completes 36th New Shepard Flight to Space | Blue Origin</title>
+    <link href="https://www.blueorigin.com/news/new-shepard-ns-36-mission"/>
+    <id>https://www.blueorigin.com/news/new-shepard-ns-36-mission</id>
+    <summary type="text">Blue Origin successfully completed the 36th flight for the New Shepard program. New Shepard has now flown 86 humans (80 individuals) into space.</summary>
+  </entry>
+  <entry>
+    <title>Blue Origin and Luxembourg Partner on Oasis-1 Mission to Map Lunar Resources | Blue Origin</title>
+    <link href="https://www.blueorigin.com/news/blue-origin-luxembourg-partner-on-oasis-1-mission"/>
+    <id>https://www.blueorigin.com/news/blue-origin-luxembourg-partner-on-oasis-1-mission</id>
+    <summary type="text">Blue Origin today announced Project Oasis, a multi-phase initiative to identify key lunar resources from orbit, assess them on the ground, and harness them in situ.</summary>
+  </entry>
+  <entry>
+    <title>Florida Investment Matches Our Ambitious Growth Plans | Blue Origin</title>
+    <link href="https://www.blueorigin.com/news/florida-investment-matches-ambitious-growth-plans"/>
+    <id>https://www.blueorigin.com/news/florida-investment-matches-ambitious-growth-plans</id>
+    <summary type="text">Blue Origin employs nearly 4,000 people in Brevard County and has invested over $2.3 billion with 500 suppliers in Florida, generating significant economic growth and employment in the region.</summary>
+  </entry>
+  <entry>
+    <title>Blue Origin Completes 35th New Shepard Mission | Blue Origin</title>
+    <link href="https://www.blueorigin.com/news/new-shepard-ns-35-mission"/>
+    <id>https://www.blueorigin.com/news/new-shepard-ns-35-mission</id>
+    <summary type="text">Blue Origin successfully completed its 35th New Shepard flight and 15th payload mission today from Launch Site One in West Texas.</summary>
+  </entry>
+  <entry>
+    <title>News | Blue Origin</title>
+    <link href="https://www.blueorigin.com/news"/>
+    <id>https://www.blueorigin.com/news</id>
+    <summary type="text">The Latest from Blue</summary>
   </entry>
   <entry>
     <title>September 2025 Company Update</title>
