@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Mon, 20 Oct 2025 07:17:26 +0000</updated>
+  <updated>Mon, 20 Oct 2025 08:23:08 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -69,12 +69,6 @@
     <summary type="text">Preliminary images from the most powerful Earth radar satellite ever launched offer a tantalizing glimpse of the science the mission will be able to deliver.</summary>
   </entry>
   <entry>
-    <title>NASA’s Webb Explores Largest Star-Forming Cloud in Milky Way</title>
-    <link href="https://www.jpl.nasa.gov/news/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/"/>
-    <id>https://www.jpl.nasa.gov/news/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/</id>
-    <summary type="text">Webb’s MIRI, managed by NASA’s Jet Propulsion Laboratory through launch, helped reveal the star-studded Sagittarius B2 molecular cloud in unprecedented detail.</summary>
-  </entry>
-  <entry>
     <title>NASA’s Deep Space Communications Demo Exceeds Project Expectations</title>
     <link href="https://www.jpl.nasa.gov/news/nasas-deep-space-communications-demo-exceeds-project-expectations/"/>
     <id>https://www.jpl.nasa.gov/news/nasas-deep-space-communications-demo-exceeds-project-expectations/</id>
@@ -115,6 +109,12 @@
     <link href="https://www.jpl.nasa.gov/news/"/>
     <id>https://www.jpl.nasa.gov/news/</id>
     <summary type="text">NASA&#x27;s Jet Propulsion Laboratory, the leading center for robotic exploration of the solar system.</summary>
+  </entry>
+  <entry>
+    <title>NASA’s Webb Explores Largest Star-Forming Cloud in Milky Way</title>
+    <link href="https://www.jpl.nasa.gov/news/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/"/>
+    <id>https://www.jpl.nasa.gov/news/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/</id>
+    <summary type="text">Webb’s MIRI, managed by NASA’s Jet Propulsion Laboratory through launch, helped reveal the star-studded Sagittarius B2 molecular cloud in unprecedented detail.</summary>
   </entry>
   <entry>
     <title>Press Releases</title>

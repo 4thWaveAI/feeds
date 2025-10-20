@@ -149,21 +149,6 @@
       ]
     },
     {
-      "id": "https://www.jpl.nasa.gov/news/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/",
-      "url": "https://www.jpl.nasa.gov/news/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/",
-      "title": "NASA’s Webb Explores Largest Star-Forming Cloud in Milky Way",
-      "content_text": "Webb’s MIRI, managed by NASA’s Jet Propulsion Laboratory through launch, helped reveal the star-studded Sagittarius B2 molecular cloud in unprecedented detail.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/STScI-01K4T8XYNBJ9A93DJ9KYQJE2WF.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.jpl.nasa.gov/news/nasas-deep-space-communications-demo-exceeds-project-expectations/",
       "url": "https://www.jpl.nasa.gov/news/nasas-deep-space-communications-demo-exceeds-project-expectations/",
       "title": "NASA’s Deep Space Communications Demo Exceeds Project Expectations",
@@ -274,6 +259,21 @@
         {
           "url": "https://www.jpl.nasa.gov/img/og.png",
           "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/",
+      "title": "NASA’s Webb Explores Largest Star-Forming Cloud in Milky Way",
+      "content_text": "Webb’s MIRI, managed by NASA’s Jet Propulsion Laboratory through launch, helped reveal the star-studded Sagittarius B2 molecular cloud in unprecedented detail.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/STScI-01K4T8XYNBJ9A93DJ9KYQJE2WF.jpg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
