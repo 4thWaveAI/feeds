@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>4thWave AI — Space Force (Aggregated)</title>
+  <link href="https://www.4thwaveai.com"/>
+  <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-force.atom.xml"/>
+  <id>urn:4thwaveai-feeds:space-force</id>
+  <updated>Sun, 02 Nov 2025 06:24:01 +0000</updated>
+  <entry>
+    <title>NEWS – Space Development Agency</title>
+    <link href="https://www.sda.mil/home/news/"/>
+    <id>https://www.sda.mil/home/news/</id>
+    <summary type="text">NEWS – Space Development Agency</summary>
+  </entry>
+  <entry>
+    <title>News Releases – Space Development Agency</title>
+    <link href="https://www.sda.mil/home/news/news-releases/"/>
+    <id>https://www.sda.mil/home/news/news-releases/</id>
+    <summary type="text">News Releases – Space Development Agency</summary>
+  </entry>
+  <entry>
+    <title>NEWS – Page 2 – Space Development Agency</title>
+    <link href="https://www.sda.mil/home/news/page/2/"/>
+    <id>https://www.sda.mil/home/news/page/2/</id>
+    <summary type="text">NEWS – Page 2 – Space Development Agency</summary>
+  </entry>
+  <entry>
+    <title>NEWS – Page 3 – Space Development Agency</title>
+    <link href="https://www.sda.mil/home/news/page/3/"/>
+    <id>https://www.sda.mil/home/news/page/3/</id>
+    <summary type="text">NEWS – Page 3 – Space Development Agency</summary>
+  </entry>
+  <entry>
+    <title>NEWS – Page 5 – Space Development Agency</title>
+    <link href="https://www.sda.mil/home/news/page/5/"/>
+    <id>https://www.sda.mil/home/news/page/5/</id>
+    <summary type="text">NEWS – Page 5 – Space Development Agency</summary>
+  </entry>
+</feed>
