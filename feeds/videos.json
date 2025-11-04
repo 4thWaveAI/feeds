@@ -136,25 +136,6 @@
       "tags": [
         "space-tech"
       ]
-    },
-    {
-      "id": "https://www.relativityspace.com/news",
-      "url": "https://www.relativityspace.com/news",
-      "title": "Updates",
-      "content_text": "Learn about Terran R’s progress towards reusability.",
-      "attachments": [
-        {
-          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
-          "mime_type": "image/png"
-        },
-        {
-          "url": "https://www.youtube.com/embed/Pz450zznvLU",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
     }
   ]
 }
