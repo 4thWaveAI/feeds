@@ -119,51 +119,6 @@
       ]
     },
     {
-      "id": "https://www.jpl.nasa.gov/news/jpl-workforce--update/",
-      "url": "https://www.jpl.nasa.gov/news/jpl-workforce--update/",
-      "title": "JPL Workforce Update",
-      "content_text": "A message from JPL Director Dave Gallagher",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/imagesjpl202011163-Meatball-JPL-angled-16.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/nasa-isro-satellite-sends-first-radar-images-of-earths-surface/",
-      "url": "https://www.jpl.nasa.gov/news/nasa-isro-satellite-sends-first-radar-images-of-earths-surface/",
-      "title": "NASA-ISRO Satellite Sends First Radar Images of Earth’s Surface",
-      "content_text": "Preliminary images from the most powerful Earth radar satellite ever launched offer a tantalizing glimpse of the science the mission will be able to deliver.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26616_Maine_4K_Annotated.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/",
-      "url": "https://www.jpl.nasa.gov/news/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/",
-      "title": "NASA’s Webb Explores Largest Star-Forming Cloud in Milky Way",
-      "content_text": "Webb’s MIRI, managed by NASA’s Jet Propulsion Laboratory through launch, helped reveal the star-studded Sagittarius B2 molecular cloud in unprecedented detail.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/STScI-01K4T8XYNBJ9A93DJ9KYQJE2WF.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.jpl.nasa.gov/news/nasas-deep-space-communications-demo-exceeds-project-expectations/",
       "url": "https://www.jpl.nasa.gov/news/nasas-deep-space-communications-demo-exceeds-project-expectations/",
       "title": "NASA’s Deep Space Communications Demo Exceeds Project Expectations",
@@ -210,70 +165,6 @@
         {
           "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26681_new_-_Sun_image.jpg",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/",
-      "url": "https://www.jpl.nasa.gov/news/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/",
-      "title": "NASA’s GUARDIAN Tsunami Detection Tech Catches Wave in Real Time",
-      "content_text": "A massive earthquake and subsequent tsunami off Russia in late July tested an experimental detection system that had deployed a critical component just the day before.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-Honolulu-skyline-16.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/new-us-european-sea-level-satellite-will-help-safeguard-ships-at-sea/",
-      "url": "https://www.jpl.nasa.gov/news/new-us-european-sea-level-satellite-will-help-safeguard-ships-at-sea/",
-      "title": "New US-European Sea Level Satellite Will Help Safeguard Ships at Sea",
-      "content_text": "Sea surface height data from the Sentinel-6B satellite, led by NASA and ESA, will help with the development of marine weather forecasts, alerting ships to possible dangers.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/Ship_waves_Bering_sea_NOAA.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/nasa-isro-satellite-lifts-off-to-track-earths-changing-surfaces/",
-      "url": "https://www.jpl.nasa.gov/news/nasa-isro-satellite-lifts-off-to-track-earths-changing-surfaces/",
-      "title": "NASA-ISRO Satellite Lifts Off to Track Earth’s Changing Surfaces",
-      "content_text": "The first-of-its kind satellite will provide actionable information in a range of areas, including disaster response, infrastructure monitoring, and agricultural management.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/nisar-launch-image.png",
-          "mime_type": "image/png"
-        },
-        {
-          "url": "https://www.youtube.com/embed/zM_0aXxGN6g?feature=oembed",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/",
-      "url": "https://www.jpl.nasa.gov/news/",
-      "title": "News",
-      "content_text": "NASA's Jet Propulsion Laboratory, the leading center for robotic exploration of the solar system.",
-      "attachments": [
-        {
-          "url": "https://www.jpl.nasa.gov/img/og.png",
-          "mime_type": "image/png"
         }
       ],
       "tags": [
