@@ -5,6 +5,25 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.json",
   "items": [
     {
+      "id": "https://www.nasa.gov/news-release/nasa-blue-origin-launch-two-spacecraft-to-study-mars-solar-wind/",
+      "url": "https://www.nasa.gov/news-release/nasa-blue-origin-launch-two-spacecraft-to-study-mars-solar-wind/",
+      "title": "NASA, Blue Origin Launch Two Spacecraft to Study Mars, Solar Wind - NASA",
+      "content_text": "A pair of NASA spacecraft ultimately destined for Mars will study how its magnetic environment is impacted by the Sun. The mission also will help the agency",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/11/ng-2-ascent-2.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/iSrMOB2oxX4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasas-deep-space-communications-demo-exceeds-project-expectations/",
       "url": "https://www.jpl.nasa.gov/news/nasas-deep-space-communications-demo-exceeds-project-expectations/",
       "title": "NASA’s Deep Space Communications Demo Exceeds Project Expectations",

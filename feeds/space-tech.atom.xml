@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Fri, 14 Nov 2025 04:21:02 +0000</updated>
+  <updated>Fri, 14 Nov 2025 05:17:17 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -32,6 +32,12 @@
     <id>https://www.nasa.gov/news/</id>
     <summary type="text">Resources for news media, including NASA news contacts and archived news material</summary>
     <updated>Wed, 07 Dec 2022 13:25:24 -0500</updated>
+  </entry>
+  <entry>
+    <title>NASA, Blue Origin Launch Two Spacecraft to Study Mars, Solar Wind - NASA</title>
+    <link href="https://www.nasa.gov/news-release/nasa-blue-origin-launch-two-spacecraft-to-study-mars-solar-wind/"/>
+    <id>https://www.nasa.gov/news-release/nasa-blue-origin-launch-two-spacecraft-to-study-mars-solar-wind/</id>
+    <summary type="text">A pair of NASA spacecraft ultimately destined for Mars will study how its magnetic environment is impacted by the Sun. The mission also will help the agency</summary>
   </entry>
   <entry>
     <title>NASA, Blue Origin Invite Media to Attend Mars Mission Launch - NASA</title>
