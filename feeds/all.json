@@ -123,6 +123,25 @@
       ]
     },
     {
+      "id": "https://www.jpl.nasa.gov/news/6-things-to-know-from-nasa-about-new-us-european-sea-satellite/",
+      "url": "https://www.jpl.nasa.gov/news/6-things-to-know-from-nasa-about-new-us-european-sea-satellite/",
+      "title": "6 Things to Know From NASA About New US, European Sea Satellite",
+      "content_text": "Data from Sentinel-6B will continue a decades-long record of sea surface height, helping to improve coastal planning, protect critical infrastructure, and advance weather forecasts.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-S6B_triptik_1024.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/fTmIUypawcs?list=PLTiv_XWHnOZoqh2EkAsW0l3lx0RpDfxiI",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasa-sets-launch-coverage-for-international-ocean-tracking-mission/",
       "url": "https://www.jpl.nasa.gov/news/nasa-sets-launch-coverage-for-international-ocean-tracking-mission/",
       "title": "NASA Sets Launch Coverage for International Ocean Tracking Mission",
@@ -228,21 +247,6 @@
       "attachments": [
         {
           "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26681_new_-_Sun_image.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/",
-      "url": "https://www.jpl.nasa.gov/news/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/",
-      "title": "NASA’s GUARDIAN Tsunami Detection Tech Catches Wave in Real Time",
-      "content_text": "A massive earthquake and subsequent tsunami off Russia in late July tested an experimental detection system that had deployed a critical component just the day before.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-Honolulu-skyline-16.jpg",
           "mime_type": "image/jpeg"
         }
       ],
