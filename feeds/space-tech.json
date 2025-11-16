@@ -123,6 +123,25 @@
       ]
     },
     {
+      "id": "https://www.jpl.nasa.gov/news/nasa-european-partners-set-to-launch-sentinel-6b-earth-satellite/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-european-partners-set-to-launch-sentinel-6b-earth-satellite/",
+      "title": "NASA, European Partners Set to Launch Sentinel-6B Earth Satellite",
+      "content_text": "Set to track sea levels across more than 90% of Earth’s ocean, the mission must first get into orbit. Here’s what to expect.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-S6_MF_on_pad.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/fTmIUypawcs?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/6-things-to-know-from-nasa-about-new-us-european-sea-satellite/",
       "url": "https://www.jpl.nasa.gov/news/6-things-to-know-from-nasa-about-new-us-european-sea-satellite/",
       "title": "6 Things to Know From NASA About New US, European Sea Satellite",
@@ -233,21 +252,6 @@
         {
           "url": "https://www.youtube.com/embed/vAna9jBZRd8?feature=oembed",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/nasa-analysis-shows-suns-activity-ramping-up/",
-      "url": "https://www.jpl.nasa.gov/news/nasa-analysis-shows-suns-activity-ramping-up/",
-      "title": "NASA Analysis Shows Sun’s Activity Ramping Up",
-      "content_text": "It looked like the Sun was heading toward a historic lull in activity. That trend flipped in 2008, according to new research.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26681_new_-_Sun_image.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
