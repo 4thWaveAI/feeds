@@ -29,6 +29,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "url": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "title": "NASA Media Contacts - NASA",
+      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Tiernan Doyle",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news/",
       "url": "https://www.nasa.gov/news/",
       "title": "NASA News",
@@ -44,13 +59,13 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news-release/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/",
-      "url": "https://www.nasa.gov/news-release/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/",
-      "title": "NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans - NASA",
-      "content_text": "The Sentinel-6B satellite lifted off aboard a SpaceX Falcon 9 rocket from Launch Complex 4 East at Vandenberg Space Force Base in central California at 9:21",
+      "id": "https://www.nasa.gov/news-release/la-nasa-compartira-imagenes-del-cometa-3i-atlas-tomadas-desde-naves-espaciales-y-telescopios/",
+      "url": "https://www.nasa.gov/news-release/la-nasa-compartira-imagenes-del-cometa-3i-atlas-tomadas-desde-naves-espaciales-y-telescopios/",
+      "title": "La NASA compartirá imágenes del cometa 3I/ATLAS tomadas desde naves espaciales y telescopios - NASA",
+      "content_text": "La NASA ofrecerá un evento en vivo (en inglés) a las 3 p.m. EST del miércoles 19 de noviembre para compartir imágenes del cometa interestelar 3I/ATLAS",
       "attachments": [
         {
-          "url": "https://www.nasa.gov/wp-content/uploads/2025/11/afrc2025-0170-03large.jpg",
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/11/3iatlas.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -59,13 +74,28 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-international-ocean-tracking-mission/",
-      "url": "https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-international-ocean-tracking-mission/",
-      "title": "NASA Sets Launch Coverage for International Ocean Tracking Mission - NASA",
-      "content_text": "NASA will provide live coverage of prelaunch and launch activities for Sentinel-6B, an international mission delivering critical sea level and ocean data to",
+      "id": "https://www.nasa.gov/news-release/nasa-to-share-comet-3i-atlas-images-from-spacecraft-telescopes/",
+      "url": "https://www.nasa.gov/news-release/nasa-to-share-comet-3i-atlas-images-from-spacecraft-telescopes/",
+      "title": "NASA to Share Comet 3I/ATLAS Images From Spacecraft, Telescopes - NASA",
+      "content_text": "NASA will host a live event at 3 p.m. EST, Wednesday, Nov. 19, to share imagery of the interstellar comet 3I/ATLAS collected by a number of the agency’s",
       "attachments": [
         {
-          "url": "https://www.nasa.gov/wp-content/uploads/2025/11/sentinal-6b-key-art-v2-16x9-final1.jpg",
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/11/3iatlas.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/",
+      "url": "https://www.nasa.gov/news-release/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/",
+      "title": "NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans - NASA",
+      "content_text": "The Sentinel-6B satellite lifted off aboard a SpaceX Falcon 9 rocket from Launch Complex 4 East at Vandenberg Space Force Base in central California at 9:21",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/11/afrc2025-0170-03large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -96,21 +126,6 @@
       "attachments": [
         {
           "url": "https://images-assets.nasa.gov/image/iss073e0814504/iss073e0814504~large.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2025/11/14/week-wraps-on-station-with-cardiac-research-stem-cells-and-eye-checks/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2025/11/14/week-wraps-on-station-with-cardiac-research-stem-cells-and-eye-checks/",
-      "title": "Week Wraps on Station With Cardiac Research, Stem Cells, and Eye Checks - NASA",
-      "content_text": "Cardiac research, stem cell observations, and eye checks to ensure astronaut health wrapped up the week for the Expedition 73 crew aboard the International Space Station. The orbital residents also continued working on spacesuits and unpacked a pair of resupply ships rounding out their work week.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/iss073e0982727/iss073e0982727~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
