@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Mon, 17 Nov 2025 19:13:38 +0000</updated>
+  <updated>Mon, 17 Nov 2025 20:20:20 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -16,13 +16,6 @@
     <title>NASA Media Contacts - NASA</title>
     <link href="https://www.nasa.gov/news/media-contacts/"/>
     <id>https://www.nasa.gov/news/media-contacts/</id>
-    <summary type="text">Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Tiernan Doyle</summary>
-    <updated>Thu, 29 Jun 2023 14:53:17 -0400</updated>
-  </entry>
-  <entry>
-    <title>NASA Media Contacts - NASA</title>
-    <link href="https://www.nasa.gov/news/nasa-media-contacts/"/>
-    <id>https://www.nasa.gov/news/nasa-media-contacts/</id>
     <summary type="text">Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Tiernan Doyle</summary>
     <updated>Thu, 29 Jun 2023 14:53:17 -0400</updated>
   </entry>
@@ -46,16 +39,16 @@
     <summary type="text">NASA will provide live coverage of prelaunch and launch activities for Sentinel-6B, an international mission delivering critical sea level and ocean data to</summary>
   </entry>
   <entry>
-    <title>NASA, Blue Origin Launch Two Spacecraft to Study Mars, Solar Wind - NASA</title>
-    <link href="https://www.nasa.gov/news-release/nasa-blue-origin-launch-two-spacecraft-to-study-mars-solar-wind/"/>
-    <id>https://www.nasa.gov/news-release/nasa-blue-origin-launch-two-spacecraft-to-study-mars-solar-wind/</id>
-    <summary type="text">A pair of NASA spacecraft ultimately destined for Mars will study how its magnetic environment is impacted by the Sun. The mission also will help the agency</summary>
-  </entry>
-  <entry>
     <title>2025 News Releases - NASA</title>
     <link href="https://www.nasa.gov/2025-news-releases/"/>
     <id>https://www.nasa.gov/2025-news-releases/</id>
     <summary type="text">Sign up to receive NASA news releases and other information.</summary>
+  </entry>
+  <entry>
+    <title>Monday’s Research Studies Ways to Protect Eyes and Lungs in Space - NASA</title>
+    <link href="https://www.nasa.gov/blogs/spacestation/2025/11/17/mondays-research-studies-ways-to-protect-eyes-and-lungs-in-space/"/>
+    <id>https://www.nasa.gov/blogs/spacestation/2025/11/17/mondays-research-studies-ways-to-protect-eyes-and-lungs-in-space/</id>
+    <summary type="text">Expedition 73 kicked off the week exploring how to prevent space-caused vision problems and what happens to the respiratory system in microgravity. The International Space Station residents also worked on combustion research and Earth observation gear, organized food and cargo inventory, and serviced life support systems.</summary>
   </entry>
   <entry>
     <title>Week Wraps on Station With Cardiac Research, Stem Cells, and Eye Checks - NASA</title>

@@ -29,21 +29,6 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news/nasa-media-contacts/",
-      "url": "https://www.nasa.gov/news/nasa-media-contacts/",
-      "title": "NASA Media Contacts - NASA",
-      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Tiernan Doyle",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.nasa.gov/news/",
       "url": "https://www.nasa.gov/news/",
       "title": "NASA News",
@@ -89,25 +74,6 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news-release/nasa-blue-origin-launch-two-spacecraft-to-study-mars-solar-wind/",
-      "url": "https://www.nasa.gov/news-release/nasa-blue-origin-launch-two-spacecraft-to-study-mars-solar-wind/",
-      "title": "NASA, Blue Origin Launch Two Spacecraft to Study Mars, Solar Wind - NASA",
-      "content_text": "A pair of NASA spacecraft ultimately destined for Mars will study how its magnetic environment is impacted by the Sun. The mission also will help the agency",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2025/11/ng-2-ascent-2.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/iSrMOB2oxX4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.nasa.gov/2025-news-releases/",
       "url": "https://www.nasa.gov/2025-news-releases/",
       "title": "2025 News Releases - NASA",
@@ -115,6 +81,21 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2024/12/54200119914-6ac915b145-o.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2025/11/17/mondays-research-studies-ways-to-protect-eyes-and-lungs-in-space/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2025/11/17/mondays-research-studies-ways-to-protect-eyes-and-lungs-in-space/",
+      "title": "Monday’s Research Studies Ways to Protect Eyes and Lungs in Space - NASA",
+      "content_text": "Expedition 73 kicked off the week exploring how to prevent space-caused vision problems and what happens to the respiratory system in microgravity. The International Space Station residents also worked on combustion research and Earth observation gear, organized food and cargo inventory, and serviced life support systems.",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/iss073e0814504/iss073e0814504~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
