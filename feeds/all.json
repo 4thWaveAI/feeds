@@ -29,6 +29,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "url": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "title": "NASA Media Contacts - NASA",
+      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Tiernan Doyle",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news/",
       "url": "https://www.nasa.gov/news/",
       "title": "NASA News",
@@ -36,6 +51,21 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2025/05/54492396655-c6ba83df1d-o-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/",
+      "url": "https://www.nasa.gov/news-release/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/",
+      "title": "NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans - NASA",
+      "content_text": "The Sentinel-6B satellite lifted off aboard a SpaceX Falcon 9 rocket from Launch Complex 4 East at Vandenberg Space Force Base in central California at 9:21",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/11/afrc2025-0170-03large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -108,13 +138,13 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/blogs/spacestation/2025/11/13/expedition-73-crew-works-cardiovascular-research-and-spacesuits-on-thursday/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2025/11/13/expedition-73-crew-works-cardiovascular-research-and-spacesuits-on-thursday/",
-      "title": "Expedition 73 Crew Works Cardiovascular Research and Spacesuits on Thursday - NASA",
-      "content_text": "Cardiovascular research and spacesuit maintenance topped the schedule for the Expedition 73 crew aboard the International Space Station on Thursday. The orbital residents studied how living in space affects blood circulation, swapped advanced gear on a spacesuit, and installed a new life support experiment.",
+      "id": "https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/",
+      "title": "NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans",
+      "content_text": "Sentinel-6B will extend a decades-long legacy of global sea level measurements that help forecast weather, protect coastal communities, and more.",
       "attachments": [
         {
-          "url": "https://www.nasa.gov/wp-content/uploads/2025/11/iss073e1046014.jpg",
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/748F9F2D-938C-4BBF-9CC6-F610BCA67154_1_201_a.jpeg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -232,25 +262,6 @@
         },
         {
           "url": "https://www.youtube.com/embed/PDLSM97vmKw?list=PLTiv_XWHnOZoPT2VCxZJOF7Vg1VTNuGj4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/",
-      "url": "https://www.jpl.nasa.gov/news/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/",
-      "title": "NASA’s Tally of Planets Outside Our Solar System Reaches 6,000",
-      "content_text": "The milestone highlights the accelerating rate of discoveries, just over three decades since the first exoplanets were found.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/e1-6000-exoplanets-artists-concept-web.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/vAna9jBZRd8?feature=oembed",
           "mime_type": "video/mp4"
         }
       ],
