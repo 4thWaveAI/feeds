@@ -59,6 +59,36 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-al-despegue-de-la-mision-lunar-artemis-ii/",
+      "url": "https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-al-despegue-de-la-mision-lunar-artemis-ii/",
+      "title": "La NASA invita a los medios al despegue de la misión lunar Artemis II - NASA",
+      "content_text": "Con un lanzamiento previsto para principios de 2026, el vuelo de prueba Artemis II enviará a los astronautas de la NASA Reid Wiseman, Victor Glover y",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/11/52148647216-95f46d2378-k.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-invites-media-to-attend-crewed-artemis-ii-moon-mission-launch/",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-attend-crewed-artemis-ii-moon-mission-launch/",
+      "title": "NASA Invites Media to Attend Crewed Artemis II Moon Mission Launch - NASA",
+      "content_text": "Targeted to launch in early 2026, the Artemis II test flight will send NASA astronauts Reid Wiseman, Victor Glover, Christina Koch, and CSA (Canadian Space",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/11/52148647216-95f46d2378-k.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news-release/la-nasa-compartira-imagenes-del-cometa-3i-atlas-tomadas-desde-naves-espaciales-y-telescopios/",
       "url": "https://www.nasa.gov/news-release/la-nasa-compartira-imagenes-del-cometa-3i-atlas-tomadas-desde-naves-espaciales-y-telescopios/",
       "title": "La NASA compartirá imágenes del cometa 3I/ATLAS tomadas desde naves espaciales y telescopios - NASA",
@@ -81,21 +111,6 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2025/11/3iatlas.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/news-release/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/",
-      "url": "https://www.nasa.gov/news-release/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/",
-      "title": "NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans - NASA",
-      "content_text": "The Sentinel-6B satellite lifted off aboard a SpaceX Falcon 9 rocket from Launch Complex 4 East at Vandenberg Space Force Base in central California at 9:21",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2025/11/afrc2025-0170-03large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
