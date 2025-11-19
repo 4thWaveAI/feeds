@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Wed, 19 Nov 2025 16:23:30 +0000</updated>
+  <updated>Wed, 19 Nov 2025 17:16:48 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -64,6 +64,12 @@
     <summary type="text">Life science and physics topped the research schedule aboard the International Space Station on Tuesday as the Expedition 73 crew studied heart health, stem cells, fluid physics, and spacecraft fire safety. The orbital residents also completed work on a spacesuit and inspected ventilation and electrical systems while continuing other scientific operations.</summary>
   </entry>
   <entry>
+    <title>NASA Cassini Study Finds Organics ‘Fresh’ From Ocean of Enceladus</title>
+    <link href="https://www.jpl.nasa.gov/news/nasa-cassini-study-finds-organics-fresh-from-ocean-of-enceladus/"/>
+    <id>https://www.jpl.nasa.gov/news/nasa-cassini-study-finds-organics-fresh-from-ocean-of-enceladus/</id>
+    <summary type="text">Researchers dove deep into information gathered from the ice grains that were collected during a close and super-fast flyby through a plume of Saturn’s icy moon.</summary>
+  </entry>
+  <entry>
     <title>NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans</title>
     <link href="https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/</id>
@@ -104,12 +110,6 @@
     <link href="https://www.jpl.nasa.gov/news/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/"/>
     <id>https://www.jpl.nasa.gov/news/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/</id>
     <summary type="text">Webb’s MIRI, managed by NASA’s Jet Propulsion Laboratory through launch, helped reveal the star-studded Sagittarius B2 molecular cloud in unprecedented detail.</summary>
-  </entry>
-  <entry>
-    <title>NASA’s Deep Space Communications Demo Exceeds Project Expectations</title>
-    <link href="https://www.jpl.nasa.gov/news/nasas-deep-space-communications-demo-exceeds-project-expectations/"/>
-    <id>https://www.jpl.nasa.gov/news/nasas-deep-space-communications-demo-exceeds-project-expectations/</id>
-    <summary type="text">The project has exceeded all of its technical goals after two years, setting up the foundations of high-speed communications for NASA’s future human missions to Mars.</summary>
   </entry>
   <entry>
     <title>NASA-ISRO Satellite Lifts Off to Track Earth’s Changing Surfaces</title>
