@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Wed, 19 Nov 2025 20:17:20 +0000</updated>
+  <updated>Wed, 19 Nov 2025 21:13:42 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -64,6 +64,12 @@
     <summary type="text">Life science and physics topped the research schedule aboard the International Space Station on Tuesday as the Expedition 73 crew studied heart health, stem cells, fluid physics, and spacecraft fire safety. The orbital residents also completed work on a spacesuit and inspected ventilation and electrical systems while continuing other scientific operations.</summary>
   </entry>
   <entry>
+    <title>NASA’s Mars Spacecraft Capture Images of Comet 3I/ATLAS</title>
+    <link href="https://www.jpl.nasa.gov/news/nasas-mars-spacecraft-capture-images-of-comet-3iatlas/"/>
+    <id>https://www.jpl.nasa.gov/news/nasas-mars-spacecraft-capture-images-of-comet-3iatlas/</id>
+    <summary type="text">Two orbiters and a rover captured images of the interstellar object — from the closest location any of the agency’s spacecraft may get — that could reveal new details.</summary>
+  </entry>
+  <entry>
     <title>NASA Cassini Study Finds Organics ‘Fresh’ From Ocean of Enceladus</title>
     <link href="https://www.jpl.nasa.gov/news/nasa-cassini-study-finds-organics-fresh-from-ocean-of-enceladus/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-cassini-study-finds-organics-fresh-from-ocean-of-enceladus/</id>
@@ -104,12 +110,6 @@
     <link href="https://www.jpl.nasa.gov/news/nasa-isro-satellite-sends-first-radar-images-of-earths-surface/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-isro-satellite-sends-first-radar-images-of-earths-surface/</id>
     <summary type="text">Preliminary images from the most powerful Earth radar satellite ever launched offer a tantalizing glimpse of the science the mission will be able to deliver.</summary>
-  </entry>
-  <entry>
-    <title>NASA’s Webb Explores Largest Star-Forming Cloud in Milky Way</title>
-    <link href="https://www.jpl.nasa.gov/news/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/"/>
-    <id>https://www.jpl.nasa.gov/news/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/</id>
-    <summary type="text">Webb’s MIRI, managed by NASA’s Jet Propulsion Laboratory through launch, helped reveal the star-studded Sagittarius B2 molecular cloud in unprecedented detail.</summary>
   </entry>
   <entry>
     <title>NASA-ISRO Satellite Lifts Off to Track Earth’s Changing Surfaces</title>
