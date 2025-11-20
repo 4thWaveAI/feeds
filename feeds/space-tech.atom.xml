@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Thu, 20 Nov 2025 17:14:33 +0000</updated>
+  <updated>Thu, 20 Nov 2025 18:26:15 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -57,6 +57,12 @@
     <summary type="text">Life science and physics topped the research schedule aboard the International Space Station on Tuesday as the Expedition 73 crew studied heart health, stem cells, fluid physics, and spacecraft fire safety. The orbital residents also completed work on a spacesuit and inspected ventilation and electrical systems while continuing other scientific operations.</summary>
   </entry>
   <entry>
+    <title>NASA, Aerospace Corporation Study Sharpens Focus on Ammonia Emissions</title>
+    <link href="https://www.jpl.nasa.gov/news/nasa-aerospace-corporation-study-sharpens-focus-on-ammonia-emissions/"/>
+    <id>https://www.jpl.nasa.gov/news/nasa-aerospace-corporation-study-sharpens-focus-on-ammonia-emissions/</id>
+    <summary type="text">The pungent gas contributes to fine airborne particulate pollution, which endangers human health when inhaled and absorbed in the bloodstream.</summary>
+  </entry>
+  <entry>
     <title>NASA’s Mars Spacecraft Capture Images of Comet 3I/ATLAS</title>
     <link href="https://www.jpl.nasa.gov/news/nasas-mars-spacecraft-capture-images-of-comet-3iatlas/"/>
     <id>https://www.jpl.nasa.gov/news/nasas-mars-spacecraft-capture-images-of-comet-3iatlas/</id>
@@ -97,12 +103,6 @@
     <link href="https://www.jpl.nasa.gov/news/jpl-workforce--update/"/>
     <id>https://www.jpl.nasa.gov/news/jpl-workforce--update/</id>
     <summary type="text">A message from JPL Director Dave Gallagher</summary>
-  </entry>
-  <entry>
-    <title>NASA-ISRO Satellite Sends First Radar Images of Earth’s Surface</title>
-    <link href="https://www.jpl.nasa.gov/news/nasa-isro-satellite-sends-first-radar-images-of-earths-surface/"/>
-    <id>https://www.jpl.nasa.gov/news/nasa-isro-satellite-sends-first-radar-images-of-earths-surface/</id>
-    <summary type="text">Preliminary images from the most powerful Earth radar satellite ever launched offer a tantalizing glimpse of the science the mission will be able to deliver.</summary>
   </entry>
   <entry>
     <title>NASA-ISRO Satellite Lifts Off to Track Earth’s Changing Surfaces</title>
