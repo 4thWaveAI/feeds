@@ -104,6 +104,21 @@
       ]
     },
     {
+      "id": "https://www.jpl.nasa.gov/news/nasa-orbiter-shines-new-light-on-long-running-martian-mystery/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-orbiter-shines-new-light-on-long-running-martian-mystery/",
+      "title": "NASA Orbiter Shines New Light on Long-Running Martian Mystery",
+      "content_text": "Results from an enhanced radar technique have demonstrated improvement to subsurface observations of Mars.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-Mars_South_Polar_Cap.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasa-aerospace-corporation-study-sharpens-focus-on-ammonia-emissions/",
       "url": "https://www.jpl.nasa.gov/news/nasa-aerospace-corporation-study-sharpens-focus-on-ammonia-emissions/",
       "title": "NASA, Aerospace Corporation Study Sharpens Focus on Ammonia Emissions",
@@ -213,21 +228,6 @@
       "attachments": [
         {
           "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/Sentinel_6b_Key_art_V2_16x9_Final1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/jpl-workforce--update/",
-      "url": "https://www.jpl.nasa.gov/news/jpl-workforce--update/",
-      "title": "JPL Workforce Update",
-      "content_text": "A message from JPL Director Dave Gallagher",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/imagesjpl202011163-Meatball-JPL-angled-16.jpg",
           "mime_type": "image/jpeg"
         }
       ],

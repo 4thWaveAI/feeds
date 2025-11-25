@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Tue, 25 Nov 2025 16:24:05 +0000</updated>
+  <updated>Tue, 25 Nov 2025 17:17:54 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -51,6 +51,12 @@
     <summary type="text">Expedition 73 wrapped up the work week continuing to study fluid physics and stem cells, preparing for next week’s new crew arrival, and unpacking a U.S. cargo spacecraft. The International Space Station residents also serviced exercise gear, performed life support system troubleshooting, and analyzed the orbital outpost’s microbial environment.</summary>
   </entry>
   <entry>
+    <title>NASA Orbiter Shines New Light on Long-Running Martian Mystery</title>
+    <link href="https://www.jpl.nasa.gov/news/nasa-orbiter-shines-new-light-on-long-running-martian-mystery/"/>
+    <id>https://www.jpl.nasa.gov/news/nasa-orbiter-shines-new-light-on-long-running-martian-mystery/</id>
+    <summary type="text">Results from an enhanced radar technique have demonstrated improvement to subsurface observations of Mars.</summary>
+  </entry>
+  <entry>
     <title>NASA, Aerospace Corporation Study Sharpens Focus on Ammonia Emissions</title>
     <link href="https://www.jpl.nasa.gov/news/nasa-aerospace-corporation-study-sharpens-focus-on-ammonia-emissions/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-aerospace-corporation-study-sharpens-focus-on-ammonia-emissions/</id>
@@ -91,12 +97,6 @@
     <link href="https://www.jpl.nasa.gov/news/nasa-sets-launch-coverage-for-international-ocean-tracking-mission/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-sets-launch-coverage-for-international-ocean-tracking-mission/</id>
     <summary type="text">The agency is preparing to launch Sentinel-6B, an international satellite that will measure sea surface height for 90% of the planet’s ocean.</summary>
-  </entry>
-  <entry>
-    <title>JPL Workforce Update</title>
-    <link href="https://www.jpl.nasa.gov/news/jpl-workforce--update/"/>
-    <id>https://www.jpl.nasa.gov/news/jpl-workforce--update/</id>
-    <summary type="text">A message from JPL Director Dave Gallagher</summary>
   </entry>
   <entry>
     <title>NASA-ISRO Satellite Lifts Off to Track Earth’s Changing Surfaces</title>
