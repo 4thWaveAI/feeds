@@ -44,6 +44,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-arrive-at-space-station/",
+      "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-arrive-at-space-station/",
+      "title": "NASA Astronaut Chris Williams, Crewmates Arrive at Space Station - NASA",
+      "content_text": "NASA astronaut Chris Williams, accompanied by Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev, safely arrived at the International Space Station",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/11/soyuz-original.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/2025-news-releases/",
       "url": "https://www.nasa.gov/2025-news-releases/",
       "title": "2025 News Releases - NASA",
@@ -59,36 +74,6 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/blogs/spacestation/2025/11/27/three-crewmates-aboard-soyuz-approaching-station-for-docking/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2025/11/27/three-crewmates-aboard-soyuz-approaching-station-for-docking/",
-      "title": "Three Crewmates Aboard Soyuz Approaching Station for Docking - NASA",
-      "content_text": "The Soyuz MS-28 spacecraft will automatically dock at approximately 7:38 a.m. EST today with the International Space Station's Rassvet module. It launched from the Baikonur Cosmodrome in Kazakhstan at 4:27 a.m. (2:27 p.m. Baikonur time) with NASA astronaut Chris Williams and Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev aboard.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/iss072e941652/iss072e941652~large.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2025/11/27/trio-aboard-soyuz-launches-to-station-for-docking-today/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2025/11/27/trio-aboard-soyuz-launches-to-station-for-docking-today/",
-      "title": "Trio Aboard Soyuz Launches to Station for Docking Today - NASA",
-      "content_text": "The crewed Soyuz MS-28 spacecraft is safely in orbit and headed for the International Space Station, following a launch at 4:27 a.m. EST (2:27 p.m. Baikonur time) from the Baikonur Cosmodrome in Kazakhstan, with NASA astronaut Chris Williams and Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev aboard.",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2025/11/blog-soyuzms28-launch-112725b.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.nasa.gov/blogs/spacestation/2025/11/27/three-new-crew-members-aboard-soyuz-dock-to-station/",
       "url": "https://www.nasa.gov/blogs/spacestation/2025/11/27/three-new-crew-members-aboard-soyuz-dock-to-station/",
       "title": "Three New Crew Members Aboard Soyuz Dock to Station - NASA",
@@ -96,6 +81,21 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2025/11/blog-soyuzms28-approach-112725b.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2025/11/27/three-crewmates-aboard-soyuz-approaching-station-for-docking/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2025/11/27/three-crewmates-aboard-soyuz-approaching-station-for-docking/",
+      "title": "Three Crewmates Aboard Soyuz Approaching Station for Docking - NASA",
+      "content_text": "The Soyuz MS-28 spacecraft will automatically dock at approximately 7:38 a.m. EST today with the International Space Station's Rassvet module. It launched from the Baikonur Cosmodrome in Kazakhstan at 4:27 a.m. (2:27 p.m. Baikonur time) with NASA astronaut Chris Williams and Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev aboard.",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/iss072e941652/iss072e941652~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
