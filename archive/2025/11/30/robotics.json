@@ -1,0 +1,524 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "4thWave AI — Robotics (Aggregated)",
+  "home_page_url": "https://www.4thwaveai.com",
+  "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/robotics.json",
+  "items": [
+    {
+      "id": "https://bostondynamics.com/blog/ask-a-roboticist-qa-with-josh-a-mechanical-engineer-at-boston-dynamics/",
+      "url": "https://bostondynamics.com/blog/ask-a-roboticist-qa-with-josh-a-mechanical-engineer-at-boston-dynamics/",
+      "title": "Ask a Roboticist: Q&A with Josh | Boston Dynamics",
+      "content_text": "A mechanical engineer on the Atlas team, answers your questions about building and testing robots.",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/uploads/2023/04/josh-thumbnail.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://bostondynamics.com/news/",
+      "url": "https://bostondynamics.com/news/",
+      "title": "News | Boston Dynamics",
+      "content_text": "Discover the latest news about Boston Dynamics and stay up to date with what we’ve been working on. Explore product news, media coverage, and more.",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/uploads/2023/07/library-bd-hq.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://bostondynamics.com/blog/",
+      "url": "https://bostondynamics.com/blog/",
+      "title": "Blogs | Boston Dynamics",
+      "content_text": "Stay up to date on the latest trends in robotics and other industry insights from the Boston Dynamics blog.",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/themes/boston-dynamics/button-icons/search.svg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://bostondynamics.com/blog/large-behavior-models-atlas-find-new-footing/",
+      "url": "https://bostondynamics.com/blog/large-behavior-models-atlas-find-new-footing/",
+      "title": "Large Behavior Models and Atlas Find New Footing | Boston Dynamics",
+      "content_text": "Useful humanoid robots will require a long list of competencies. They will need the ability to manipulate a diverse range of objects (e.g. hard/soft, heavy/delicate, rigid/articulated, large/small), as well as to coordinate their entire bodies to reconfigure themselves, their environments, avoid obstacles, and maintain balance while responding to surprises. We believe that building AI generalist […]",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/uploads/2025/08/atlas-tri-blog.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://bostondynamics.com/blog/boston-dynamics-awarded-contract-to-supply-spot-to-the-dutch-ministry-of-defence/",
+      "url": "https://bostondynamics.com/blog/boston-dynamics-awarded-contract-to-supply-spot-to-the-dutch-ministry-of-defence/",
+      "title": "Boston Dynamics Awarded Contract withthe Dutch Ministry of Defence | Boston Dynamics",
+      "content_text": "Boston Dynamics is proud to announce it has been awarded a multi-year contract by the Ministry of Defence for Spot for use by the Explosive Ordnance Disposal Teams.",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/uploads/2025/10/dutch-mod-signing.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://bostondynamics.com/blog/spot-takes-the-stage/",
+      "url": "https://bostondynamics.com/blog/spot-takes-the-stage/",
+      "title": "Spot Takes the Stage | Boston Dynamics",
+      "content_text": "Learn how engineers program and animate complex dance performances for the agile, mobile Spot on some of the world's biggest stages.",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/uploads/2025/08/spot-agt-dance-1530.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://bostondynamics.com/blog/3-ways-robots-see-the-world/",
+      "url": "https://bostondynamics.com/blog/3-ways-robots-see-the-world/",
+      "title": "Robot Vision Systems: 3 Ways Robots See the World | Boston Dynamics",
+      "content_text": "Modern robot vision systems use visual cameras, 3D lidar scans, and other sensors to interpret, navigate, and interact with their environment.",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/uploads/2022/04/vision-system-sensors.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://bostondynamics.com/blog/life-outside-the-box-for-the-warehouse-worker/",
+      "url": "https://bostondynamics.com/blog/life-outside-the-box-for-the-warehouse-worker/",
+      "title": "Life Outside the Box for the Warehouse Worker | Boston Dynamics",
+      "content_text": "Automated unloading tackles backbreaking labor and brings people out of hot containers in the summer, improving safety and quality of life.",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/uploads/2025/07/DSC09621-scaled.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://bostondynamics.com/blog/making-atlas-see-the-world/",
+      "url": "https://bostondynamics.com/blog/making-atlas-see-the-world/",
+      "title": "Making Atlas See the World | Boston Dynamics",
+      "content_text": "The Atlas perception team at Boston Dynamics shares their insights on building agile and adaptable humanoid robotics.",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/uploads/2025/05/atlas-perception-cameras.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://bostondynamics.com/blog/see-your-facility/",
+      "url": "https://bostondynamics.com/blog/see-your-facility/",
+      "title": "See Your Facility Like Never Before | Boston Dynamics",
+      "content_text": "See what's new in the 5.0 release of Spot & Orbit from Boston Dynamics",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/uploads/2025/05/JC026130-Enhanced-NR-6240x4160-c9ca52c.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://bostondynamics.com/blog/understanding-the-data-behind-asset-reliability/",
+      "url": "https://bostondynamics.com/blog/understanding-the-data-behind-asset-reliability/",
+      "title": "The Data Driving Asset Reliability | Boston Dynamics",
+      "content_text": "Explore how automation and real-time data collection are transforming asset reliability, reducing unplanned downtime, and improving operational efficiency",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/uploads/2023/10/asset-reliability-gauges.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://bostondynamics.com/blog/getting-real-with-humanoids/",
+      "url": "https://bostondynamics.com/blog/getting-real-with-humanoids/",
+      "title": "Getting Real with Humanoids | Boston Dynamics",
+      "content_text": "Almost a year ago, we announced our new Atlas® robot—faster, stronger, more compact, and less messy. We’re designing the world’s most dynamic humanoid robot to do anything and everything, maybe even change work as we know it. How do we get there? One step at a time. At Boston Dynamics, we’ve learned a few things […]",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/uploads/2025/03/atlas-sequencing-blog.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.anduril.com/newsroom/",
+      "url": "https://www.anduril.com/newsroom/",
+      "title": "Anduril",
+      "content_text": "Transforming US & allied military capabilities with advanced technology.",
+      "attachments": [
+        {
+          "url": "https://www.anduril.com/images/anduril-logo-white-on-black.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/helix-loads-the-dishwasher",
+      "url": "https://www.figure.ai/news/helix-loads-the-dishwasher",
+      "title": "Helix Loads the Dishwasher",
+      "content_text": "Helix Loads the Dishwasher",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/2wRk1FxvA5mPvUStmShycO/ce2db2efd18b9e90005dc8b7684cd936/DISHES_1200x630__1.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/44vnbEhANLcpntMoHQDP3a/e7e8d3a6f25137eb88ac58a0d72a57d1/Video_Cover_-_Mobile_934_x_1434px_.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/scaling-helix-logistics",
+      "url": "https://www.figure.ai/news/scaling-helix-logistics",
+      "title": "Scaling Helix: a New State of the Art in Humanoid Logistics",
+      "content_text": "Scaling Helix: a New State of the Art in Humanoid Logistics",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/54nYwolcdAQ8z67JvXuo48/3642c3c4def2e21de60a4c683fb40775/OPEN_GRAPH_IMAGE__1_.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/sS8EiNPG9h2gPtTpanjKk/bff5eb609aeebe6c385c931cb5395002/VIDEO_COVER_MOBILE.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/botq",
+      "url": "https://www.figure.ai/news/botq",
+      "title": "BotQ: A High-Volume Manufacturing Facility for Humanoid Robots",
+      "content_text": "Introducing BotQ, Figure’s new high-volume manufacturing facility for humanoid robots.",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/8vwfX4g74TIKRyadRPuCX/eeca11446869aed120bf553664fc813d/Open_Graph_Image.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/1YIcaNVYQHJiikmAtwTX5V/e65166e0bfcb21031c4c99e30f9bd5ac/Video_Cover_-_Mobile.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/project-go-big",
+      "url": "https://www.figure.ai/news/project-go-big",
+      "title": "Project Go-Big: Internet-Scale Humanoid Pretraining and Direct Human-to-Robot Transfer",
+      "content_text": "Project Go-Big: Internet-Scale Humanoid Pretraining and Direct Human-to-Robot Transfer",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/7p8BmuMQwpfQ0O9aHdhlzP/52f749276d2c74e9e7390962bad17253/Open_Graph_1.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/4qZ4UtLo7Q3CuEAo38J3SY/a645cf1b7ce75cd65615b801678148a9/Video_Cover_-_Mobile_01.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/figure-announces-strategic-partnership-with-brookfield",
+      "url": "https://www.figure.ai/news/figure-announces-strategic-partnership-with-brookfield",
+      "title": "Figure Announces Strategic Partnership with Brookfield",
+      "content_text": "Figure Announces Strategic Partnership with Brookfield",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/2NZHe54DbeILkjFYVfAYqb/0afbcdf9671c45a152c82c8d40124f7d/BROOKFIELD_OPEN_GRAPH_IMAGE.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/3qehO6MwLhIjNWgr47NqsD/c3feecec797575f83942435c0a945a75/Brookfield_VIDEO_COVER_MOBILE.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/series-c",
+      "url": "https://www.figure.ai/news/series-c",
+      "title": "Figure Exceeds $1B in Series C Funding at $39B Post-Money Valuation",
+      "content_text": "Figure Exceeds $1B in Series C Funding at $39B Post-Money Valuation",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/2uhpHCaRAaKhZHToZMGYG/3a673f8cccb78ac8675968d8e6c3da65/Open_Graph_image__3_.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/72AaYjGofNKS4yhSkSzMRQ/0daaa5430cc21b9bc139a860345ccf5e/vidoe_cover_mobile_V2.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/helix-learns-to-fold-laundry",
+      "url": "https://www.figure.ai/news/helix-learns-to-fold-laundry",
+      "title": "Helix Learns to Fold Laundry",
+      "content_text": "Helix Learns to Fold Laundry",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/2VxPzhq7dxDzEseyMqZFmF/a73064bbe899f6c614dd4ca27acebc40/Laundry_Open_Graph_Image.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/4k5kS2gknNxU59RlakrOem/a92eb8e9f9cb1bd4e269fff95e28d216/Video_Cover_-_Mobile_934x1434.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/f-03-battery-development",
+      "url": "https://www.figure.ai/news/f-03-battery-development",
+      "title": "F.03 Battery Development",
+      "content_text": "F.03 Battery Development",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/1G5l3Bq2481A51kixdiJDN/ca0dd4e964b91032c85105c8846d0158/1200x630__1_.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/VBHSFh040nu5QhPfnJjmj/5bcbb27856a4370cc185a1eda14627cb/934x1434.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news",
+      "url": "https://www.figure.ai/news",
+      "title": "News | Figure",
+      "content_text": "We’re bringing the humanoid to life. Join us.",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/56I3mHKEdLZdrsONwOm3sc/63b1569bb855cc334c2dda67ce40ba4a/generic-page-image.jpeg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/35FiJ5CUehHheBZvM5iQTT/7ecb4c5803e1e06c292d6e6126ec53f8/Thumbnail_1024_x_820.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.agilityrobotics.com/about/press",
+      "url": "https://www.agilityrobotics.com/about/press",
+      "title": "Agility Robotics - News & Media",
+      "content_text": "Improved Navigation on the Job",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://milremrobotics.com/news/",
+      "url": "https://milremrobotics.com/news/",
+      "title": "News - Milrem",
+      "content_text": "06/10/2025",
+      "attachments": [
+        {
+          "url": "https://milremrobotics.com/wp-content/uploads/2025/01/milrem-og-image.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://milremrobotics.com/news/page/2/",
+      "url": "https://milremrobotics.com/news/page/2/",
+      "title": "News - Page 2 of 20 - Milrem",
+      "content_text": "08/05/2025",
+      "attachments": [
+        {
+          "url": "https://milremrobotics.com/wp-content/uploads/2025/01/milrem-og-image.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://milremrobotics.com/news/page/3/",
+      "url": "https://milremrobotics.com/news/page/3/",
+      "title": "News - Page 3 of 20 - Milrem",
+      "content_text": "17/02/2025",
+      "attachments": [
+        {
+          "url": "https://milremrobotics.com/wp-content/uploads/2025/01/milrem-og-image.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://milremrobotics.com/news/page/20/",
+      "url": "https://milremrobotics.com/news/page/20/",
+      "title": "News - Page 20 of 20 - Milrem",
+      "content_text": "23/03/2017",
+      "attachments": [
+        {
+          "url": "https://milremrobotics.com/wp-content/uploads/2025/01/milrem-og-image.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.unitree.com/opensource",
+      "url": "https://www.unitree.com/opensource",
+      "title": "Official Open Source - Unitree Robotics",
+      "content_text": "Robots",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.unitree.com/news/31",
+      "url": "https://www.unitree.com/news/31",
+      "title": "https://www.unitree.com/news/31",
+      "content_text": "Robots",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.unitree.com/news/33",
+      "url": "https://www.unitree.com/news/33",
+      "title": "https://www.unitree.com/news/33",
+      "content_text": "Robots",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.unitree.com/news/29",
+      "url": "https://www.unitree.com/news/29",
+      "title": "https://www.unitree.com/news/29",
+      "content_text": "Robots",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.unitree.com/news/27",
+      "url": "https://www.unitree.com/news/27",
+      "title": "https://www.unitree.com/news/27",
+      "content_text": "Robots",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.unitree.com/news/26",
+      "url": "https://www.unitree.com/news/26",
+      "title": "https://www.unitree.com/news/26",
+      "content_text": "Robots",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.unitree.com/news/25",
+      "url": "https://www.unitree.com/news/25",
+      "title": "https://www.unitree.com/news/25",
+      "content_text": "Robots",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.unitree.com/news/24",
+      "url": "https://www.unitree.com/news/24",
+      "title": "https://www.unitree.com/news/24",
+      "content_text": "Robots",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.unitree.com/news",
+      "url": "https://www.unitree.com/news",
+      "title": "News Center - Unitree Robotics",
+      "content_text": "Robots",
+      "tags": [
+        "robotics"
+      ]
+    }
+  ]
+}
