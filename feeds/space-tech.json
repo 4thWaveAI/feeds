@@ -104,6 +104,21 @@
       ]
     },
     {
+      "id": "https://www.jpl.nasa.gov/news/nasa-tests-drones-in-death-valley-preps-for-martian-sands-and-skies/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-tests-drones-in-death-valley-preps-for-martian-sands-and-skies/",
+      "title": "NASA Tests Drones in Death Valley, Preps for Martian Sands and Skies",
+      "content_text": "Next-generation drone flight software is just one of 25 technologies for the Red Planet that the space agency funded for development this year.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26674-Researchers-Test-Mars-Drone-Software-in-Death-Valley-web.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasa-orbiter-shines-new-light-on-long-running-martian-mystery/",
       "url": "https://www.jpl.nasa.gov/news/nasa-orbiter-shines-new-light-on-long-running-martian-mystery/",
       "title": "NASA Orbiter Shines New Light on Long-Running Martian Mystery",
@@ -214,21 +229,6 @@
         {
           "url": "https://www.youtube.com/embed/fTmIUypawcs?list=PLTiv_XWHnOZoqh2EkAsW0l3lx0RpDfxiI",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/nasa-sets-launch-coverage-for-international-ocean-tracking-mission/",
-      "url": "https://www.jpl.nasa.gov/news/nasa-sets-launch-coverage-for-international-ocean-tracking-mission/",
-      "title": "NASA Sets Launch Coverage for International Ocean Tracking Mission",
-      "content_text": "The agency is preparing to launch Sentinel-6B, an international satellite that will measure sea surface height for 90% of the planet’s ocean.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/Sentinel_6b_Key_art_V2_16x9_Final1.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
