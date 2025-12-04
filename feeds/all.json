@@ -119,6 +119,25 @@
       ]
     },
     {
+      "id": "https://www.jpl.nasa.gov/news/nasa-completes-nancy-grace-roman-space-telescope-construction/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-completes-nancy-grace-roman-space-telescope-construction/",
+      "title": "NASA Completes Nancy Grace Roman Space Telescope Construction",
+      "content_text": "Set to launch by May 2027, the spacecraft will study mysteries of the cosmos while also testing the Coronagraph Instrument, a new technology designed and built by JPL.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/complete.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/Vertical_-_1080_-_Roman_Integration-web.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasa-rover-detects-electric-sparks-in-mars-dust-devils-storms/",
       "url": "https://www.jpl.nasa.gov/news/nasa-rover-detects-electric-sparks-in-mars-dust-devils-storms/",
       "title": "NASA Rover Detects Electric Sparks in Mars Dust Devils, Storms",
@@ -232,25 +251,6 @@
       ]
     },
     {
-      "id": "https://www.jpl.nasa.gov/news/nasa-european-partners-set-to-launch-sentinel-6b-earth-satellite/",
-      "url": "https://www.jpl.nasa.gov/news/nasa-european-partners-set-to-launch-sentinel-6b-earth-satellite/",
-      "title": "NASA, European Partners Set to Launch Sentinel-6B Earth Satellite",
-      "content_text": "Set to track sea levels across more than 90% of Earth’s ocean, the mission must first get into orbit. Here’s what to expect.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-S6_MF_on_pad.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/fTmIUypawcs?feature=oembed",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.jpl.nasa.gov/news/nasa-isro-satellite-lifts-off-to-track-earths-changing-surfaces/",
       "url": "https://www.jpl.nasa.gov/news/nasa-isro-satellite-lifts-off-to-track-earths-changing-surfaces/",
       "title": "NASA-ISRO Satellite Lifts Off to Track Earth’s Changing Surfaces",
@@ -280,114 +280,6 @@
           "mime_type": "image/png"
         }
       ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Uniquement les demandes de la presse)",
       "tags": [
         "space-tech"
       ]

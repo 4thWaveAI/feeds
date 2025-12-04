@@ -5,6 +5,25 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.json",
   "items": [
     {
+      "id": "https://www.jpl.nasa.gov/news/nasa-completes-nancy-grace-roman-space-telescope-construction/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-completes-nancy-grace-roman-space-telescope-construction/",
+      "title": "NASA Completes Nancy Grace Roman Space Telescope Construction",
+      "content_text": "Set to launch by May 2027, the spacecraft will study mysteries of the cosmos while also testing the Coronagraph Instrument, a new technology designed and built by JPL.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/complete.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/Vertical_-_1080_-_Roman_Integration-web.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasa-rover-detects-electric-sparks-in-mars-dust-devils-storms/",
       "url": "https://www.jpl.nasa.gov/news/nasa-rover-detects-electric-sparks-in-mars-dust-devils-storms/",
       "title": "NASA Rover Detects Electric Sparks in Mars Dust Devils, Storms",
@@ -35,25 +54,6 @@
         },
         {
           "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/e2-M2020_3IATLAS_clean.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/nasa-european-partners-set-to-launch-sentinel-6b-earth-satellite/",
-      "url": "https://www.jpl.nasa.gov/news/nasa-european-partners-set-to-launch-sentinel-6b-earth-satellite/",
-      "title": "NASA, European Partners Set to Launch Sentinel-6B Earth Satellite",
-      "content_text": "Set to track sea levels across more than 90% of Earth’s ocean, the mission must first get into orbit. Here’s what to expect.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-S6_MF_on_pad.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/fTmIUypawcs?feature=oembed",
           "mime_type": "video/mp4"
         }
       ],
