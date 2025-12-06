@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Sat, 06 Dec 2025 01:17:04 +0000</updated>
+  <updated>Sat, 06 Dec 2025 03:07:31 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -51,6 +51,12 @@
     <summary type="text">Three Expedition 73 crewmates will end their stay aboard the International Space Station when they undock Dec. 8 and return to Earth a few hours later. In the meantime, blood research took precedence on Thursday ensuring astronauts stay healthy while living long-term in weightlessness.</summary>
   </entry>
   <entry>
+    <title>Invention Challenge Brings Student Engineers to NASA JPL</title>
+    <link href="https://www.jpl.nasa.gov/news/invention-challenge-brings-student-engineers-to-nasa-jpl/"/>
+    <id>https://www.jpl.nasa.gov/news/invention-challenge-brings-student-engineers-to-nasa-jpl/</id>
+    <summary type="text">Now in its 26th year, the event brings teams of middle and high school students to the lab to compete with home-built contraptions.</summary>
+  </entry>
+  <entry>
     <title>NASA Selects 2 Instruments for Artemis IV Lunar Surface Science</title>
     <link href="https://www.jpl.nasa.gov/news/nasa-selects-2-instruments-for-artemis-iv-lunar-surface-science/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-selects-2-instruments-for-artemis-iv-lunar-surface-science/</id>
@@ -91,12 +97,6 @@
     <link href="https://www.jpl.nasa.gov/news/nasas-mars-spacecraft-capture-images-of-comet-3iatlas/"/>
     <id>https://www.jpl.nasa.gov/news/nasas-mars-spacecraft-capture-images-of-comet-3iatlas/</id>
     <summary type="text">Two orbiters and a rover captured images of the interstellar object — from the closest location any of the agency’s spacecraft may get — that could reveal new details.</summary>
-  </entry>
-  <entry>
-    <title>NASA Cassini Study Finds Organics ‘Fresh’ From Ocean of Enceladus</title>
-    <link href="https://www.jpl.nasa.gov/news/nasa-cassini-study-finds-organics-fresh-from-ocean-of-enceladus/"/>
-    <id>https://www.jpl.nasa.gov/news/nasa-cassini-study-finds-organics-fresh-from-ocean-of-enceladus/</id>
-    <summary type="text">Researchers dove deep into information gathered from the ice grains that were collected during a close and super-fast flyby through a plume of Saturn’s icy moon.</summary>
   </entry>
   <entry>
     <title>NASA-ISRO Satellite Lifts Off to Track Earth’s Changing Surfaces</title>

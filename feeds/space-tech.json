@@ -104,6 +104,21 @@
       ]
     },
     {
+      "id": "https://www.jpl.nasa.gov/news/invention-challenge-brings-student-engineers-to-nasa-jpl/",
+      "url": "https://www.jpl.nasa.gov/news/invention-challenge-brings-student-engineers-to-nasa-jpl/",
+      "title": "Invention Challenge Brings Student Engineers to NASA JPL",
+      "content_text": "Now in its 26th year, the event brings teams of middle and high school students to the lab to compete with home-built contraptions.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-IC.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasa-selects-2-instruments-for-artemis-iv-lunar-surface-science/",
       "url": "https://www.jpl.nasa.gov/news/nasa-selects-2-instruments-for-artemis-iv-lunar-surface-science/",
       "title": "NASA Selects 2 Instruments for Artemis IV Lunar Surface Science",
@@ -214,21 +229,6 @@
         {
           "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/e2-M2020_3IATLAS_clean.mp4",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/nasa-cassini-study-finds-organics-fresh-from-ocean-of-enceladus/",
-      "url": "https://www.jpl.nasa.gov/news/nasa-cassini-study-finds-organics-fresh-from-ocean-of-enceladus/",
-      "title": "NASA Cassini Study Finds Organics ‘Fresh’ From Ocean of Enceladus",
-      "content_text": "Researchers dove deep into information gathered from the ice grains that were collected during a close and super-fast flyby through a plume of Saturn’s icy moon.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA11688.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
