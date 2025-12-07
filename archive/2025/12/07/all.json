@@ -1,0 +1,498 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "4thWave AI — All Areas (Aggregated)",
+  "home_page_url": "https://www.4thwaveai.com",
+  "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
+  "items": [
+    {
+      "id": "https://www.nasa.gov/news/recently-published/",
+      "url": "https://www.nasa.gov/news/recently-published/",
+      "title": "All NASA News - NASA",
+      "content_text": "Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news/media-contacts/",
+      "url": "https://www.nasa.gov/news/media-contacts/",
+      "title": "NASA Media Contacts - NASA",
+      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Tiernan Doyle",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news/",
+      "url": "https://www.nasa.gov/news/",
+      "title": "NASA News",
+      "content_text": "Resources for news media, including NASA news contacts and archived news material",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/05/54492396655-c6ba83df1d-o-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-jonny-kim-crewmates-return/",
+      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-jonny-kim-crewmates-return/",
+      "title": "NASA Sets Coverage for Astronaut Jonny Kim, Crewmates Return - NASA",
+      "content_text": "NASA astronaut Jonny Kim, accompanied by Roscosmos cosmonauts Sergey Ryzhikov and Alexey Zubritsky, is preparing to depart the International Space Station",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/12/nhq202504200008large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/2025-news-releases/",
+      "url": "https://www.nasa.gov/2025-news-releases/",
+      "title": "2025 News Releases - NASA",
+      "content_text": "Sign up to receive NASA news releases and other information.",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2024/12/54200119914-6ac915b145-o.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2025/12/05/crew-swaps-commanders-on-sunday-as-trio-packs-for-departure/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2025/12/05/crew-swaps-commanders-on-sunday-as-trio-packs-for-departure/",
+      "title": "Crew Swaps Commanders on Sunday as Trio Packs for Departure - NASA",
+      "content_text": "Expedition 73 will swap commanders this weekend before three crew members return to Earth on Monday. Expedition 74 officially begins once the home bound trio undocks from the Rassvet module inside the Soyuz MS-27 spacecraft the following day.",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/iss073e0775529/iss073e0775529~large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2025/12/04/station-trio-nears-departure-during-busy-day-of-blood-research/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2025/12/04/station-trio-nears-departure-during-busy-day-of-blood-research/",
+      "title": "Station Trio Nears Departure During Busy Day of Blood Research - NASA",
+      "content_text": "Three Expedition 73 crewmates will end their stay aboard the International Space Station when they undock Dec. 8 and return to Earth a few hours later. In the meantime, blood research took precedence on Thursday ensuring astronauts stay healthy while living long-term in weightlessness.",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/iss073e1198029/iss073e1198029~large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/invention-challenge-brings-student-engineers-to-nasa-jpl/",
+      "url": "https://www.jpl.nasa.gov/news/invention-challenge-brings-student-engineers-to-nasa-jpl/",
+      "title": "Invention Challenge Brings Student Engineers to NASA JPL",
+      "content_text": "Now in its 26th year, the event brings teams of middle and high school students to the lab to compete with home-built contraptions.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-IC.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasa-selects-2-instruments-for-artemis-iv-lunar-surface-science/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-selects-2-instruments-for-artemis-iv-lunar-surface-science/",
+      "title": "NASA Selects 2 Instruments for Artemis IV Lunar Surface Science",
+      "content_text": "The JPL-led South Pole Seismic Station will enable scientists to characterize the lunar interior structure to better understand geologic processes that affect planetary bodies.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/LunarSouthPoleHeader.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasa-completes-nancy-grace-roman-space-telescope-construction/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-completes-nancy-grace-roman-space-telescope-construction/",
+      "title": "NASA Completes Nancy Grace Roman Space Telescope Construction",
+      "content_text": "Set to launch by May 2027, the spacecraft will study mysteries of the cosmos while also testing the Coronagraph Instrument, a new technology designed and built by JPL.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/complete.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/Vertical_-_1080_-_Roman_Integration-web.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasa-rover-detects-electric-sparks-in-mars-dust-devils-storms/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-rover-detects-electric-sparks-in-mars-dust-devils-storms/",
+      "title": "NASA Rover Detects Electric Sparks in Mars Dust Devils, Storms",
+      "content_text": "Perseverance confirmed a long-suspected phenomenon in which electrical discharges and their associated shock waves can be born within Red Planet mini-twisters.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/Sol1617-thumbnail-web.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/1_-_dust_devil_video_-_Sol1617.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasa-tests-drones-in-death-valley-preps-for-martian-sands-and-skies/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-tests-drones-in-death-valley-preps-for-martian-sands-and-skies/",
+      "title": "NASA Tests Drones in Death Valley, Preps for Martian Sands and Skies",
+      "content_text": "Next-generation drone flight software is just one of 25 technologies for the Red Planet that the space agency funded for development this year.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26674-Researchers-Test-Mars-Drone-Software-in-Death-Valley-web.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasa-orbiter-shines-new-light-on-long-running-martian-mystery/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-orbiter-shines-new-light-on-long-running-martian-mystery/",
+      "title": "NASA Orbiter Shines New Light on Long-Running Martian Mystery",
+      "content_text": "Results from an enhanced radar technique have demonstrated improvement to subsurface observations of Mars.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-Mars_South_Polar_Cap.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasa-aerospace-corporation-study-sharpens-focus-on-ammonia-emissions/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-aerospace-corporation-study-sharpens-focus-on-ammonia-emissions/",
+      "title": "NASA, Aerospace Corporation Study Sharpens Focus on Ammonia Emissions",
+      "content_text": "The pungent gas contributes to fine airborne particulate pollution, which endangers human health when inhaled and absorbed in the bloodstream.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26617-Ammonia-web.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasas-mars-spacecraft-capture-images-of-comet-3iatlas/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-mars-spacecraft-capture-images-of-comet-3iatlas/",
+      "title": "NASA’s Mars Spacecraft Capture Images of Comet 3I/ATLAS",
+      "content_text": "Two orbiters and a rover captured images of the interstellar object — from the closest location any of the agency’s spacecraft may get — that could reveal new details.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-HiRISE-CLEAN.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/e2-M2020_3IATLAS_clean.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasa-isro-satellite-lifts-off-to-track-earths-changing-surfaces/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-isro-satellite-lifts-off-to-track-earths-changing-surfaces/",
+      "title": "NASA-ISRO Satellite Lifts Off to Track Earth’s Changing Surfaces",
+      "content_text": "The first-of-its kind satellite will provide actionable information in a range of areas, including disaster response, infrastructure monitoring, and agricultural management.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/nisar-launch-image.png",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/zM_0aXxGN6g?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/",
+      "url": "https://www.jpl.nasa.gov/news/",
+      "title": "News",
+      "content_text": "NASA's Jet Propulsion Laboratory, the leading center for robotic exploration of the solar system.",
+      "attachments": [
+        {
+          "url": "https://www.jpl.nasa.gov/img/og.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Uniquement les demandes de la presse)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2025/11/6/ses-relativity-space-expand-multi-launch-agreement-for-terran-rnbsp",
+      "url": "https://www.relativityspace.com/press-release/2025/11/6/ses-relativity-space-expand-multi-launch-agreement-for-terran-rnbsp",
+      "title": "SES, Relativity Space Expand Multi-Launch Agreement for Terran R",
+      "content_text": "New contract adds launch services for SES’s GEO or MEO satellites&nbsp;",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/5cf1a83979ebbe0001a69fc7/690d29228a68ad1fa2014d10/1762960656531/Square+RSxSES.png?format=1500w",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2025/11/10/october-2025-company-update",
+      "url": "https://www.relativityspace.com/press-release/2025/11/10/october-2025-company-update",
+      "title": "October 2025 Company Update",
+      "content_text": "As Terran R development continues to advance, we’re excited to share updates from October across design, build, test, and launch.   Design  This month, the team completed 11 component-level critical design reviews. Significant focus was placed on second stage fluids components, and the team successf",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/-Le6qYQBEBM",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2025/10/13/september-2025-company-update",
+      "url": "https://www.relativityspace.com/press-release/2025/10/13/september-2025-company-update",
+      "title": "September 2025 Company Update",
+      "content_text": "The Terran R program continues to build momentum, and September delivered meaningful progress across design, manufacturing, testing, and launch.   Design  September marked steady progress in design maturity, with the completion of 19 component-level critical design reviews, largely focused on the se",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/Pz450zznvLU",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2025/9/8/august-2025-company-update",
+      "url": "https://www.relativityspace.com/press-release/2025/9/8/august-2025-company-update",
+      "title": "August 2025 Company Update",
+      "content_text": "Throughout August, the Terran R program continued to make measurable progress toward first launch, delivering on critical program milestones.   Design  This month, the team completed 18 component-level Critical Design Reviews (CDRs), most of which focused on the second stage engine and fluids system",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/kkCaq3kv4CY",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.sda.mil/home/news/",
+      "url": "https://www.sda.mil/home/news/",
+      "title": "NEWS – Space Development Agency",
+      "content_text": "NEWS – Space Development Agency",
+      "tags": [
+        "space-force"
+      ]
+    },
+    {
+      "id": "https://www.sda.mil/home/news/news-releases/",
+      "url": "https://www.sda.mil/home/news/news-releases/",
+      "title": "News Releases – Space Development Agency",
+      "content_text": "News Releases – Space Development Agency",
+      "tags": [
+        "space-force"
+      ]
+    },
+    {
+      "id": "https://www.sda.mil/home/news/page/2/",
+      "url": "https://www.sda.mil/home/news/page/2/",
+      "title": "NEWS – Page 2 – Space Development Agency",
+      "content_text": "NEWS – Page 2 – Space Development Agency",
+      "tags": [
+        "space-force"
+      ]
+    },
+    {
+      "id": "https://www.sda.mil/home/news/page/3/",
+      "url": "https://www.sda.mil/home/news/page/3/",
+      "title": "NEWS – Page 3 – Space Development Agency",
+      "content_text": "NEWS – Page 3 – Space Development Agency",
+      "tags": [
+        "space-force"
+      ]
+    },
+    {
+      "id": "https://www.sda.mil/home/news/page/5/",
+      "url": "https://www.sda.mil/home/news/page/5/",
+      "title": "NEWS – Page 5 – Space Development Agency",
+      "content_text": "NEWS – Page 5 – Space Development Agency",
+      "tags": [
+        "space-force"
+      ]
+    }
+  ]
+}
