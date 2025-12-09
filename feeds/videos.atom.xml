@@ -4,7 +4,13 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.atom.xml"/>
   <id>urn:4thwaveai-feeds:videos</id>
-  <updated>Tue, 09 Dec 2025 16:24:17 +0000</updated>
+  <updated>Tue, 09 Dec 2025 17:18:40 +0000</updated>
+  <entry>
+    <title>New NASA Sensor Goes Hunting for Critical Minerals</title>
+    <link href="https://www.jpl.nasa.gov/news/new-nasa-sensor-goes-hunting-for-critical-minerals/"/>
+    <id>https://www.jpl.nasa.gov/news/new-nasa-sensor-goes-hunting-for-critical-minerals/</id>
+    <summary type="text">Called AVIRIS-5, it’s the latest in a long line of sensors pioneered by NASA JPL to survey Earth, the Moon, and other worlds.</summary>
+  </entry>
   <entry>
     <title>NASA Completes Nancy Grace Roman Space Telescope Construction</title>
     <link href="https://www.jpl.nasa.gov/news/nasa-completes-nancy-grace-roman-space-telescope-construction/"/>
@@ -16,12 +22,6 @@
     <link href="https://www.jpl.nasa.gov/news/nasa-rover-detects-electric-sparks-in-mars-dust-devils-storms/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-rover-detects-electric-sparks-in-mars-dust-devils-storms/</id>
     <summary type="text">Perseverance confirmed a long-suspected phenomenon in which electrical discharges and their associated shock waves can be born within Red Planet mini-twisters.</summary>
-  </entry>
-  <entry>
-    <title>NASA’s Mars Spacecraft Capture Images of Comet 3I/ATLAS</title>
-    <link href="https://www.jpl.nasa.gov/news/nasas-mars-spacecraft-capture-images-of-comet-3iatlas/"/>
-    <id>https://www.jpl.nasa.gov/news/nasas-mars-spacecraft-capture-images-of-comet-3iatlas/</id>
-    <summary type="text">Two orbiters and a rover captured images of the interstellar object — from the closest location any of the agency’s spacecraft may get — that could reveal new details.</summary>
   </entry>
   <entry>
     <title>NASA-ISRO Satellite Lifts Off to Track Earth’s Changing Surfaces</title>

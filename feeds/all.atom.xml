@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Tue, 09 Dec 2025 16:24:17 +0000</updated>
+  <updated>Tue, 09 Dec 2025 17:18:40 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -51,6 +51,12 @@
     <summary type="text">The Soyuz spacecraft, with NASA astronaut Jonny Kim and Roscosmos cosmonauts Sergey Ryzhikov and Alexey Zubritsky aboard, will make a parachute-assisted landing at 12:03 a.m. EST on Tuesday, Dec. 9 (10:03 a.m. local time in Kazakhstan), on the steppe of Kazakhstan</summary>
   </entry>
   <entry>
+    <title>New NASA Sensor Goes Hunting for Critical Minerals</title>
+    <link href="https://www.jpl.nasa.gov/news/new-nasa-sensor-goes-hunting-for-critical-minerals/"/>
+    <id>https://www.jpl.nasa.gov/news/new-nasa-sensor-goes-hunting-for-critical-minerals/</id>
+    <summary type="text">Called AVIRIS-5, it’s the latest in a long line of sensors pioneered by NASA JPL to survey Earth, the Moon, and other worlds.</summary>
+  </entry>
+  <entry>
     <title>Invention Challenge Brings Student Engineers to NASA JPL</title>
     <link href="https://www.jpl.nasa.gov/news/invention-challenge-brings-student-engineers-to-nasa-jpl/"/>
     <id>https://www.jpl.nasa.gov/news/invention-challenge-brings-student-engineers-to-nasa-jpl/</id>
@@ -91,12 +97,6 @@
     <link href="https://www.jpl.nasa.gov/news/nasa-aerospace-corporation-study-sharpens-focus-on-ammonia-emissions/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-aerospace-corporation-study-sharpens-focus-on-ammonia-emissions/</id>
     <summary type="text">The pungent gas contributes to fine airborne particulate pollution, which endangers human health when inhaled and absorbed in the bloodstream.</summary>
-  </entry>
-  <entry>
-    <title>NASA’s Mars Spacecraft Capture Images of Comet 3I/ATLAS</title>
-    <link href="https://www.jpl.nasa.gov/news/nasas-mars-spacecraft-capture-images-of-comet-3iatlas/"/>
-    <id>https://www.jpl.nasa.gov/news/nasas-mars-spacecraft-capture-images-of-comet-3iatlas/</id>
-    <summary type="text">Two orbiters and a rover captured images of the interstellar object — from the closest location any of the agency’s spacecraft may get — that could reveal new details.</summary>
   </entry>
   <entry>
     <title>NASA-ISRO Satellite Lifts Off to Track Earth’s Changing Surfaces</title>

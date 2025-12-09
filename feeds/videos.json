@@ -5,6 +5,25 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.json",
   "items": [
     {
+      "id": "https://www.jpl.nasa.gov/news/new-nasa-sensor-goes-hunting-for-critical-minerals/",
+      "url": "https://www.jpl.nasa.gov/news/new-nasa-sensor-goes-hunting-for-critical-minerals/",
+      "title": "New NASA Sensor Goes Hunting for Critical Minerals",
+      "content_text": "Called AVIRIS-5, it’s the latest in a long line of sensors pioneered by NASA JPL to survey Earth, the Moon, and other worlds.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-pilot_waving.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/sQiE0u8qau0?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasa-completes-nancy-grace-roman-space-telescope-construction/",
       "url": "https://www.jpl.nasa.gov/news/nasa-completes-nancy-grace-roman-space-telescope-construction/",
       "title": "NASA Completes Nancy Grace Roman Space Telescope Construction",
@@ -35,25 +54,6 @@
         },
         {
           "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/1_-_dust_devil_video_-_Sol1617.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/nasas-mars-spacecraft-capture-images-of-comet-3iatlas/",
-      "url": "https://www.jpl.nasa.gov/news/nasas-mars-spacecraft-capture-images-of-comet-3iatlas/",
-      "title": "NASA’s Mars Spacecraft Capture Images of Comet 3I/ATLAS",
-      "content_text": "Two orbiters and a rover captured images of the interstellar object — from the closest location any of the agency’s spacecraft may get — that could reveal new details.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-HiRISE-CLEAN.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/e2-M2020_3IATLAS_clean.mp4",
           "mime_type": "video/mp4"
         }
       ],
