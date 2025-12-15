@@ -119,6 +119,21 @@
       ]
     },
     {
+      "id": "https://www.jpl.nasa.gov/news/nasas-webb-curiosity-named-in-times-best-inventions-hall-of-fame/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-webb-curiosity-named-in-times-best-inventions-hall-of-fame/",
+      "title": "NASA’s Webb, Curiosity Named in TIME’s Best Inventions Hall of Fame",
+      "content_text": "The most powerful space telescope ever built and the car-size roving science lab on Mars are among 25 of the most iconic inventions the magazine has covered in the past quarter century.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/Time2025WebbCuriosityAward-1.11-crop.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasa-jpl-unveils-rover-operations-center-for-moon-mars-missions/",
       "url": "https://www.jpl.nasa.gov/news/nasa-jpl-unveils-rover-operations-center-for-moon-mars-missions/",
       "title": "NASA JPL Unveils Rover Operations Center for Moon, Mars Missions",
@@ -240,21 +255,6 @@
       ]
     },
     {
-      "id": "https://www.jpl.nasa.gov/news/nasa-orbiter-shines-new-light-on-long-running-martian-mystery/",
-      "url": "https://www.jpl.nasa.gov/news/nasa-orbiter-shines-new-light-on-long-running-martian-mystery/",
-      "title": "NASA Orbiter Shines New Light on Long-Running Martian Mystery",
-      "content_text": "Results from an enhanced radar technique have demonstrated improvement to subsurface observations of Mars.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-Mars_South_Polar_Cap.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/",
       "url": "https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/",
       "title": "NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans",
@@ -280,6 +280,24 @@
           "mime_type": "image/png"
         }
       ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
       "tags": [
         "space-tech"
       ]
@@ -332,6 +350,33 @@
     {
       "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
       "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
       "title": "Press Releases",
       "content_text": "email: media @ esa.int (Media inquiries only)",
       "tags": [
