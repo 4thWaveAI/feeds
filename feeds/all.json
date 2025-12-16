@@ -119,6 +119,25 @@
       ]
     },
     {
+      "id": "https://www.jpl.nasa.gov/news/one-of-nasas-key-cameras-orbiting-mars-takes-100000th-image/",
+      "url": "https://www.jpl.nasa.gov/news/one-of-nasas-key-cameras-orbiting-mars-takes-100000th-image/",
+      "title": "One of NASA’s Key Cameras Orbiting Mars Takes 100,000th Image",
+      "content_text": "Mesas and dunes stand out in the view snapped by HiRISE, one of the imagers aboard the agency’s Mars Reconnaissance Orbiter.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26691-MROs_HiRISE_Takes_its_100000th_Image_of_the_Martian_surface-Fig.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/e1-Video_HiRISE_100Kth_OA28UgT.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasa-partners-share-first-data-from-new-us-european-sea-satellite/",
       "url": "https://www.jpl.nasa.gov/news/nasa-partners-share-first-data-from-new-us-european-sea-satellite/",
       "title": "NASA, Partners Share First Data From New US-European Sea Satellite",
@@ -228,25 +247,6 @@
         },
         {
           "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/Vertical_-_1080_-_Roman_Integration-web.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/nasa-rover-detects-electric-sparks-in-mars-dust-devils-storms/",
-      "url": "https://www.jpl.nasa.gov/news/nasa-rover-detects-electric-sparks-in-mars-dust-devils-storms/",
-      "title": "NASA Rover Detects Electric Sparks in Mars Dust Devils, Storms",
-      "content_text": "Perseverance confirmed a long-suspected phenomenon in which electrical discharges and their associated shock waves can be born within Red Planet mini-twisters.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/Sol1617-thumbnail-web.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/1_-_dust_devil_video_-_Sol1617.mp4",
           "mime_type": "video/mp4"
         }
       ],
