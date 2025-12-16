@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Tue, 16 Dec 2025 19:18:18 +0000</updated>
+  <updated>Tue, 16 Dec 2025 20:21:23 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -27,16 +27,16 @@
     <updated>Wed, 07 Dec 2022 13:25:24 -0500</updated>
   </entry>
   <entry>
+    <title>NASA Ignites New Golden Age of Exploration, Innovation in 2025 - NASA</title>
+    <link href="https://www.nasa.gov/news-release/nasa-ignites-new-golden-age-of-exploration-innovation-in-2025/"/>
+    <id>https://www.nasa.gov/news-release/nasa-ignites-new-golden-age-of-exploration-innovation-in-2025/</id>
+    <summary type="text">With a second Trump Administration at the helm in 2025, NASA marked significant progress toward the Artemis II test flight early next year, which is the first</summary>
+  </entry>
+  <entry>
     <title>NASA Astronaut Jonny Kim to Discuss Eight-Month Space Station Mission - NASA</title>
     <link href="https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-to-discuss-eight-month-space-station-mission/"/>
     <id>https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-to-discuss-eight-month-space-station-mission/</id>
     <summary type="text">NASA astronaut Jonny Kim will recap his recent mission aboard the International Space Station during a news conference at 3:30 p.m. EST Friday, Dec. 19, from</summary>
-  </entry>
-  <entry>
-    <title>NASA Selects Two Heliophysics Missions for Continued Development - NASA</title>
-    <link href="https://www.nasa.gov/news-release/nasa-selects-two-heliophysics-missions-for-continued-development/"/>
-    <id>https://www.nasa.gov/news-release/nasa-selects-two-heliophysics-missions-for-continued-development/</id>
-    <summary type="text">NASA has selected one small explorer mission concept to advance toward flight design and another for an extended period of concept development.</summary>
   </entry>
   <entry>
     <title>2025 News Releases - NASA</title>
@@ -55,6 +55,12 @@
     <link href="https://www.nasa.gov/blogs/spacestation/2025/12/12/space-balance-and-stem-cell-research-wrap-up-week-on-station/"/>
     <id>https://www.nasa.gov/blogs/spacestation/2025/12/12/space-balance-and-stem-cell-research-wrap-up-week-on-station/</id>
     <summary type="text">The Expedition 74 crew wrapped up the week exploring how the body balances itself in space and growing stem cells to improve health. Meanwhile, ongoing cargo operations and lab maintenance rounded out the schedule aboard the International Space Station.</summary>
+  </entry>
+  <entry>
+    <title>NASA JPL Shakes Things Up Testing Future Commercial Lunar Spacecraft</title>
+    <link href="https://www.jpl.nasa.gov/news/nasa-jpl-shakes-things-up-testing-future-commercial-lunar-spacecraft/"/>
+    <id>https://www.jpl.nasa.gov/news/nasa-jpl-shakes-things-up-testing-future-commercial-lunar-spacecraft/</id>
+    <summary type="text">As Firefly Aerospace prepares to follow its successful soft landing on the Moon, an engineering model for its next lander is being put through its paces.</summary>
   </entry>
   <entry>
     <title>One of NASA’s Key Cameras Orbiting Mars Takes 100,000th Image</title>
@@ -99,12 +105,6 @@
     <summary type="text">The JPL-led South Pole Seismic Station will enable scientists to characterize the lunar interior structure to better understand geologic processes that affect planetary bodies.</summary>
   </entry>
   <entry>
-    <title>NASA Completes Nancy Grace Roman Space Telescope Construction</title>
-    <link href="https://www.jpl.nasa.gov/news/nasa-completes-nancy-grace-roman-space-telescope-construction/"/>
-    <id>https://www.jpl.nasa.gov/news/nasa-completes-nancy-grace-roman-space-telescope-construction/</id>
-    <summary type="text">Set to launch by May 2027, the spacecraft will study mysteries of the cosmos while also testing the Coronagraph Instrument, a new technology designed and built by JPL.</summary>
-  </entry>
-  <entry>
     <title>NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans</title>
     <link href="https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/</id>
@@ -115,78 +115,6 @@
     <link href="https://www.jpl.nasa.gov/news/"/>
     <id>https://www.jpl.nasa.gov/news/</id>
     <summary type="text">NASA&#x27;s Jet Propulsion Laboratory, the leading center for robotic exploration of the solar system.</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/cz"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/cz</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/dk"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/dk</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/nl"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/nl</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/ee"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/ee</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/fi"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/fi</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/fr"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/fr</id>
-    <summary type="text">email: media @ esa.int (Uniquement les demandes de la presse)</summary>
   </entry>
   <entry>
     <title>November 2025 Company Update</title>
