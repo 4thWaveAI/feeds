@@ -119,6 +119,25 @@
       ]
     },
     {
+      "id": "https://www.jpl.nasa.gov/news/nasas-perseverance-mars-rover-ready-to-roll-for-miles-in-years-ahead/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-perseverance-mars-rover-ready-to-roll-for-miles-in-years-ahead/",
+      "title": "NASA’s Perseverance Mars Rover Ready to Roll for Miles in Years Ahead",
+      "content_text": "The rover has been acing a long-term series of durability tests, making the most of its enhanced navigation capabilities, and ferreting out new findings about Mars’ geologic past.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26694-Perseverance_Looks_Out_Toward_Lac_de_Charmes.png",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/nNAaYlKVDtk?list=PLTiv_XWHnOZqCrMU2ppcLjRn1zlDkNx3q",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean/",
       "url": "https://www.jpl.nasa.gov/news/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean/",
       "title": "NASA Study Suggests Saturn’s Moon Titan May Not Have Global Ocean",
@@ -240,21 +259,6 @@
       ]
     },
     {
-      "id": "https://www.jpl.nasa.gov/news/invention-challenge-brings-student-engineers-to-nasa-jpl/",
-      "url": "https://www.jpl.nasa.gov/news/invention-challenge-brings-student-engineers-to-nasa-jpl/",
-      "title": "Invention Challenge Brings Student Engineers to NASA JPL",
-      "content_text": "Now in its 26th year, the event brings teams of middle and high school students to the lab to compete with home-built contraptions.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-IC.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/",
       "url": "https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/",
       "title": "NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans",
@@ -285,10 +289,10 @@
       ]
     },
     {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
       "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Uniquement les demandes de la presse)",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
       "tags": [
         "space-tech"
       ]

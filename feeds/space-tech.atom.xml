@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Wed, 17 Dec 2025 18:28:39 +0000</updated>
+  <updated>Wed, 17 Dec 2025 19:18:16 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -57,6 +57,12 @@
     <summary type="text">Expedition 74 kicked off the week exploring robotics, physics, and heart health aboard the International Space Station. The orbital residents also continued packing a Japanese cargo craft while servicing and inspecting lab hardware.</summary>
   </entry>
   <entry>
+    <title>NASA’s Perseverance Mars Rover Ready to Roll for Miles in Years Ahead</title>
+    <link href="https://www.jpl.nasa.gov/news/nasas-perseverance-mars-rover-ready-to-roll-for-miles-in-years-ahead/"/>
+    <id>https://www.jpl.nasa.gov/news/nasas-perseverance-mars-rover-ready-to-roll-for-miles-in-years-ahead/</id>
+    <summary type="text">The rover has been acing a long-term series of durability tests, making the most of its enhanced navigation capabilities, and ferreting out new findings about Mars’ geologic past.</summary>
+  </entry>
+  <entry>
     <title>NASA Study Suggests Saturn’s Moon Titan May Not Have Global Ocean</title>
     <link href="https://www.jpl.nasa.gov/news/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean/</id>
@@ -99,12 +105,6 @@
     <summary type="text">Called AVIRIS-5, it’s the latest in a long line of sensors pioneered by NASA JPL to survey Earth, the Moon, and other worlds.</summary>
   </entry>
   <entry>
-    <title>Invention Challenge Brings Student Engineers to NASA JPL</title>
-    <link href="https://www.jpl.nasa.gov/news/invention-challenge-brings-student-engineers-to-nasa-jpl/"/>
-    <id>https://www.jpl.nasa.gov/news/invention-challenge-brings-student-engineers-to-nasa-jpl/</id>
-    <summary type="text">Now in its 26th year, the event brings teams of middle and high school students to the lab to compete with home-built contraptions.</summary>
-  </entry>
-  <entry>
     <title>NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans</title>
     <link href="https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/</id>
@@ -118,9 +118,9 @@
   </entry>
   <entry>
     <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/fr"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/fr</id>
-    <summary type="text">email: media @ esa.int (Uniquement les demandes de la presse)</summary>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/dk"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/dk</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
   </entry>
   <entry>
     <title>November 2025 Company Update</title>
