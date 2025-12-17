@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Wed, 17 Dec 2025 10:22:07 +0000</updated>
+  <updated>Wed, 17 Dec 2025 11:17:51 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -117,78 +117,6 @@
     <summary type="text">NASA&#x27;s Jet Propulsion Laboratory, the leading center for robotic exploration of the solar system.</summary>
   </entry>
   <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/cz"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/cz</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/dk"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/dk</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/nl"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/nl</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/ee"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/ee</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/fi"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/fi</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/fr"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/fr</id>
-    <summary type="text">email: media @ esa.int (Uniquement les demandes de la presse)</summary>
-  </entry>
-  <entry>
     <title>November 2025 Company Update</title>
     <link href="https://www.relativityspace.com/press-release/2025/12/5/november-2025-company-update"/>
     <id>https://www.relativityspace.com/press-release/2025/12/5/november-2025-company-update</id>
@@ -211,5 +139,35 @@
     <link href="https://www.relativityspace.com/press-release/2025/10/13/september-2025-company-update"/>
     <id>https://www.relativityspace.com/press-release/2025/10/13/september-2025-company-update</id>
     <summary type="text">The Terran R program continues to build momentum, and September delivered meaningful progress across design, manufacturing, testing, and launch.   Design  September marked steady progress in design maturity, with the completion of 19 component-level critical design reviews, largely focused on the se</summary>
+  </entry>
+  <entry>
+    <title>NEWS – Space Development Agency</title>
+    <link href="https://www.sda.mil/home/news/"/>
+    <id>https://www.sda.mil/home/news/</id>
+    <summary type="text">NEWS – Space Development Agency</summary>
+  </entry>
+  <entry>
+    <title>News Releases – Space Development Agency</title>
+    <link href="https://www.sda.mil/home/news/news-releases/"/>
+    <id>https://www.sda.mil/home/news/news-releases/</id>
+    <summary type="text">News Releases – Space Development Agency</summary>
+  </entry>
+  <entry>
+    <title>NEWS – Page 2 – Space Development Agency</title>
+    <link href="https://www.sda.mil/home/news/page/2/"/>
+    <id>https://www.sda.mil/home/news/page/2/</id>
+    <summary type="text">NEWS – Page 2 – Space Development Agency</summary>
+  </entry>
+  <entry>
+    <title>NEWS – Page 3 – Space Development Agency</title>
+    <link href="https://www.sda.mil/home/news/page/3/"/>
+    <id>https://www.sda.mil/home/news/page/3/</id>
+    <summary type="text">NEWS – Page 3 – Space Development Agency</summary>
+  </entry>
+  <entry>
+    <title>NEWS – Page 5 – Space Development Agency</title>
+    <link href="https://www.sda.mil/home/news/page/5/"/>
+    <id>https://www.sda.mil/home/news/page/5/</id>
+    <summary type="text">NEWS – Page 5 – Space Development Agency</summary>
   </entry>
 </feed>
