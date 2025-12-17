@@ -119,6 +119,21 @@
       ]
     },
     {
+      "id": "https://www.jpl.nasa.gov/news/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean/",
+      "title": "NASA Study Suggests Saturn’s Moon Titan May Not Have Global Ocean",
+      "content_text": "Reanalysis of data from NASA’s Cassini mission has revealed Saturn’s moon may instead have layers of slush with isolated pockets of liquid water.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA18410-cassini-titan-crop.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasa-jpl-shakes-things-up-testing-future-commercial-lunar-spacecraft/",
       "url": "https://www.jpl.nasa.gov/news/nasa-jpl-shakes-things-up-testing-future-commercial-lunar-spacecraft/",
       "title": "NASA JPL Shakes Things Up Testing Future Commercial Lunar Spacecraft",
@@ -233,21 +248,6 @@
         {
           "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-IC.jpg",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/nasa-selects-2-instruments-for-artemis-iv-lunar-surface-science/",
-      "url": "https://www.jpl.nasa.gov/news/nasa-selects-2-instruments-for-artemis-iv-lunar-surface-science/",
-      "title": "NASA Selects 2 Instruments for Artemis IV Lunar Surface Science",
-      "content_text": "The JPL-led South Pole Seismic Station will enable scientists to characterize the lunar interior structure to better understand geologic processes that affect planetary bodies.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/LunarSouthPoleHeader.png",
-          "mime_type": "image/png"
         }
       ],
       "tags": [
