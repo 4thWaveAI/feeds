@@ -5,6 +5,25 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.json",
   "items": [
     {
+      "id": "https://www.nasa.gov/centers-and-facilities/ames/2025-in-review-highlights-from-nasa-in-silicon-valley/",
+      "url": "https://www.nasa.gov/centers-and-facilities/ames/2025-in-review-highlights-from-nasa-in-silicon-valley/",
+      "title": "2025 in Review: Highlights from NASA in Silicon Valley  - NASA",
+      "content_text": "NASA’s Ames Research Center in California’s Silicon Valley continued to make strides in research, technology, engineering, science, and innovation this past",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/12/orex-022.webp",
+          "mime_type": "image/webp"
+        },
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/09/strakebeforeandafter.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasas-perseverance-mars-rover-ready-to-roll-for-miles-in-years-ahead/",
       "url": "https://www.jpl.nasa.gov/news/nasas-perseverance-mars-rover-ready-to-roll-for-miles-in-years-ahead/",
       "title": "NASA’s Perseverance Mars Rover Ready to Roll for Miles in Years Ahead",
