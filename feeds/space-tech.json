@@ -63,13 +63,28 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news-release/nasa-ignites-new-golden-age-of-exploration-innovation-in-2025/",
-      "url": "https://www.nasa.gov/news-release/nasa-ignites-new-golden-age-of-exploration-innovation-in-2025/",
-      "title": "NASA Ignites New Golden Age of Exploration, Innovation in 2025 - NASA",
-      "content_text": "With a second Trump Administration at the helm in 2025, NASA marked significant progress toward the Artemis II test flight early next year, which is the first",
+      "id": "https://www.nasa.gov/news-release/nasa-welcomes-15th-administrator-jared-isaacman/",
+      "url": "https://www.nasa.gov/news-release/nasa-welcomes-15th-administrator-jared-isaacman/",
+      "title": "NASA Welcomes 15th Administrator Jared Isaacman - NASA",
+      "content_text": "Jared Isaacman was sworn in Thursday as NASA's 15th administrator by District Judge Timothy J. Kelly. The oath was taken during a ceremony held at the",
       "attachments": [
         {
-          "url": "https://www.nasa.gov/wp-content/uploads/2025/12/53206112789-e5e932c583-o-111e37.jpg",
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/12/54991408427-3ba642e1fd-k.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-astronaut-lee-morin-to-retire-after-30-years-of-innovation/",
+      "url": "https://www.nasa.gov/news-release/nasa-astronaut-lee-morin-to-retire-after-30-years-of-innovation/",
+      "title": "NASA Astronaut Lee Morin to Retire After 30 Years of Innovation - NASA",
+      "content_text": "NASA astronaut and retired United States Navy Capt. Lee Morin has retired from the agency after 30 years of service. He served as a mission specialist on",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/12/lee-morin-pr-pic.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -85,21 +100,6 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2024/12/54200119914-6ac915b145-o.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2025/12/17/todays-advanced-exercise-physics-research-benefits-earth-and-space-industries/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2025/12/17/todays-advanced-exercise-physics-research-benefits-earth-and-space-industries/",
-      "title": "Today’s Advanced Exercise, Physics Research Benefits Earth and Space Industries - NASA",
-      "content_text": "Exercise and physics research were the top scientific duties aboard the International Space Station on Wednesday advancing human health and industries both on the ground and in space. The Expedition 74 crew members also continued working on spacesuits and practiced an emergency drill.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/iss073e1198911/iss073e1198911~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -288,6 +288,114 @@
           "mime_type": "image/png"
         }
       ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Uniquement les demandes de la presse)",
       "tags": [
         "space-tech"
       ]
