@@ -78,6 +78,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalks-94-95-at-international-space-station/",
+      "url": "https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalks-94-95-at-international-space-station/",
+      "title": "NASA to Cover US Spacewalks 94, 95 at International Space Station - NASA",
+      "content_text": "NASA astronauts will conduct two spacewalks Thursday, Jan. 8, and Thursday, Jan. 15, outside the International Space Station, and the agency will provide",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/01/54492396655-8b425c4045-k-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news-release/nasa-to-preview-us-spacewalks-at-space-station-in-january/",
       "url": "https://www.nasa.gov/news-release/nasa-to-preview-us-spacewalks-at-space-station-in-january/",
       "title": "NASA to Preview US Spacewalks at Space Station in January - NASA",
@@ -115,21 +130,6 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2025/12/crew-12-compile.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/news-release/nasa-welcomes-15th-administrator-jared-isaacman/",
-      "url": "https://www.nasa.gov/news-release/nasa-welcomes-15th-administrator-jared-isaacman/",
-      "title": "NASA Welcomes 15th Administrator Jared Isaacman - NASA",
-      "content_text": "Jared Isaacman was sworn in Thursday as NASA's 15th administrator by District Judge Timothy J. Kelly. The oath was taken during a ceremony held at the",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2025/12/54991408427-3ba642e1fd-k.jpg",
           "mime_type": "image/jpeg"
         }
       ],
