@@ -229,6 +229,25 @@
       ]
     },
     {
+      "id": "https://www.jpl.nasa.gov/news/nasa-jpl-unveils-rover-operations-center-for-moon-mars-missions/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-jpl-unveils-rover-operations-center-for-moon-mars-missions/",
+      "title": "NASA JPL Unveils Rover Operations Center for Moon, Mars Missions",
+      "content_text": "The center leverages AI along with JPL’s unique infrastructure, unrivaled tools, and years of operations expertise to support industry partners developing future planetary surface missions.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/E1-ROC-D2025_1210_RL0028128-web.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/ZIg_XgsnfJk?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/",
       "url": "https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/",
       "title": "NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans",
@@ -254,15 +273,6 @@
           "mime_type": "image/png"
         }
       ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Uniquement les demandes de la presse)",
       "tags": [
         "space-tech"
       ]
