@@ -63,6 +63,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news-release/nasa-to-provide-live-coverage-of-crew-11-return-splashdown/",
+      "url": "https://www.nasa.gov/news-release/nasa-to-provide-live-coverage-of-crew-11-return-splashdown/",
+      "title": "NASA to Provide Live Coverage of Crew-11 Return, Splashdown - NASA",
+      "content_text": "NASA and SpaceX are targeting no earlier than 5:05 p.m. EST, Wednesday, Jan. 14, for the undocking of the agency’s SpaceX Crew-11 mission from the",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/01/crew11.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news-release/nasa-department-of-energy-to-develop-lunar-surface-reactor-by-2030/",
       "url": "https://www.nasa.gov/news-release/nasa-department-of-energy-to-develop-lunar-surface-reactor-by-2030/",
       "title": "NASA, Department of Energy to Develop Lunar Surface Reactor by 2030 - NASA",
@@ -85,21 +100,6 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2025/12/crew-12-compile.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/news-release/nasa-invites-media-to-cover-artemis-mission-from-johnson-space-center/",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-cover-artemis-mission-from-johnson-space-center/",
-      "title": "NASA Invites Media to Cover Artemis Mission from Johnson Space Center - NASA",
-      "content_text": "Media accreditation is open to attend Artemis II mission activities at NASA’s Johnson Space Center in Houston. Johnson is where flight controllers in mission",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/01/artemis-ii-briefing.jpg",
           "mime_type": "image/jpeg"
         }
       ],
