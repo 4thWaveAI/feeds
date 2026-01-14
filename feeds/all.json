@@ -63,6 +63,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news-release/la-nasa-transmitira-en-directo-el-regreso-y-el-amerizaje-de-crew-11/",
+      "url": "https://www.nasa.gov/news-release/la-nasa-transmitira-en-directo-el-regreso-y-el-amerizaje-de-crew-11/",
+      "title": "La NASA transmitirá en directo el regreso y el amerizaje de Crew 11 - NASA",
+      "content_text": "La NASA y SpaceX prevén que, si las condiciones meteorológicas lo permiten, el desacoplamiento de la misión SpaceX Crew 11 de la agencia espacial",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/01/crew11.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news-release/nasa-to-provide-live-coverage-of-crew-11-return-splashdown/",
       "url": "https://www.nasa.gov/news-release/nasa-to-provide-live-coverage-of-crew-11-return-splashdown/",
       "title": "NASA to Provide Live Coverage of Crew-11 Return, Splashdown - NASA",
@@ -85,21 +100,6 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2026/01/fspadministrator.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-watch-crew-12-launch-to-space-station/",
-      "url": "https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-watch-crew-12-launch-to-space-station/",
-      "title": "NASA, SpaceX Invite Media to Watch Crew-12 Launch to Space Station - NASA",
-      "content_text": "Media accreditation is open for the launch of NASA’s 12th rotational mission of a SpaceX Falcon 9 rocket and Dragon spacecraft carrying astronauts to the",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2025/12/crew-12-compile.jpg",
           "mime_type": "image/jpeg"
         }
       ],
