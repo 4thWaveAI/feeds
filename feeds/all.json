@@ -78,6 +78,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news-release/la-nasa-publica-datos-de-la-temperatura-global/",
+      "url": "https://www.nasa.gov/news-release/la-nasa-publica-datos-de-la-temperatura-global/",
+      "title": "La NASA publica datos de la temperatura global - NASA",
+      "content_text": "La temperatura global de la superficie terrestre en 2025 fue un poco más cálida que en 2023 pero, dentro de los márgenes de error, ambos años está",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/09/nasa-meatball-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news-release/nasa-releases-global-temperature-data/",
       "url": "https://www.nasa.gov/news-release/nasa-releases-global-temperature-data/",
       "title": "NASA Releases Global Temperature Data - NASA",
@@ -115,21 +130,6 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2026/01/crew11.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/news-release/nasa-department-of-energy-to-develop-lunar-surface-reactor-by-2030/",
-      "url": "https://www.nasa.gov/news-release/nasa-department-of-energy-to-develop-lunar-surface-reactor-by-2030/",
-      "title": "NASA, Department of Energy to Develop Lunar Surface Reactor by 2030 - NASA",
-      "content_text": "NASA, along with the U.S. Department of Energy (DOE), announced Tuesday a renewed commitment to their longstanding partnership to support the research and",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/01/fspadministrator.jpg",
           "mime_type": "image/jpeg"
         }
       ],
