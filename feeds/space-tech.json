@@ -48,6 +48,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "url": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "title": "NASA Media Contacts - NASA",
+      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Tiernan Doyle",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news/",
       "url": "https://www.nasa.gov/news/",
       "title": "NASA News",
@@ -55,6 +70,21 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2025/05/54492396655-c6ba83df1d-o-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-releases-global-temperature-data/",
+      "url": "https://www.nasa.gov/news-release/nasa-releases-global-temperature-data/",
+      "title": "NASA Releases Global Temperature Data - NASA",
+      "content_text": "Global temperatures in 2025 were cooler than 2024, with average temperatures of 2.14 degrees Fahrenheit (1.19 degrees Celsius) above the 1951 to 1980 average.",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/09/nasa-meatball-1.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -115,21 +145,6 @@
       "attachments": [
         {
           "url": "https://images-assets.nasa.gov/image/NHQ202512200038/NHQ202512200038~large.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/commercialcrew/2026/01/13/nasas-spacex-crew-11-go-for-undocking-on-wednesday/",
-      "url": "https://www.nasa.gov/blogs/commercialcrew/2026/01/13/nasas-spacex-crew-11-go-for-undocking-on-wednesday/",
-      "title": "NASA’s SpaceX Crew-11 Go for Undocking on Wednesday - NASA",
-      "content_text": "Expedition 74 is preparing to split up as four crew members turn their attention to Wednesday’s departure. The homebound quartet—representing NASA’s SpaceX Crew-11 mission—spent Tuesday packing cargo, reviewing return to Earth procedures, and transferring hardware aboard the International Space Station.",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2025/05/jsc2025e011960-altlarge-e1751911743849.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -303,6 +318,114 @@
           "mime_type": "image/png"
         }
       ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Uniquement les demandes de la presse)",
       "tags": [
         "space-tech"
       ]
