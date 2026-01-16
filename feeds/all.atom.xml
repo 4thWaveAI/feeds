@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Fri, 16 Jan 2026 21:18:58 +0000</updated>
+  <updated>Fri, 16 Jan 2026 22:19:11 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -20,6 +20,13 @@
     <updated>Thu, 29 Jun 2023 14:53:17 -0400</updated>
   </entry>
   <entry>
+    <title>NASA Media Contacts - NASA</title>
+    <link href="https://www.nasa.gov/news/nasa-media-contacts/"/>
+    <id>https://www.nasa.gov/news/nasa-media-contacts/</id>
+    <summary type="text">Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Tiernan Doyle</summary>
+    <updated>Thu, 29 Jun 2023 14:53:17 -0400</updated>
+  </entry>
+  <entry>
     <title>NASA News</title>
     <link href="https://www.nasa.gov/news/"/>
     <id>https://www.nasa.gov/news/</id>
@@ -27,16 +34,22 @@
     <updated>Wed, 07 Dec 2022 13:25:24 -0500</updated>
   </entry>
   <entry>
+    <title>NASA Receives 15th Consecutive ‘Clean’ Financial Audit Opinion - NASA</title>
+    <link href="https://www.nasa.gov/news-release/nasa-receives-15th-consecutive-clean-financial-audit-opinion/"/>
+    <id>https://www.nasa.gov/news-release/nasa-receives-15th-consecutive-clean-financial-audit-opinion/</id>
+    <summary type="text">For the 15th consecutive year, NASA received an unmodified, or “clean,” opinion from an external auditor on its fiscal year 2025 financial statements.</summary>
+  </entry>
+  <entry>
+    <title>What You Need to Know About NASA’s Artemis II Moon Mission - NASA</title>
+    <link href="https://www.nasa.gov/news-release/what-you-need-to-know-about-nasas-artemis-ii-moon-mission/"/>
+    <id>https://www.nasa.gov/news-release/what-you-need-to-know-about-nasas-artemis-ii-moon-mission/</id>
+    <summary type="text">NASA is weeks away from sending astronauts farther than any crew has traveled before, with the agency’s second mission in its Artemis campaign. The Artemis II</summary>
+  </entry>
+  <entry>
     <title>NASA&#x27;s SpaceX Crew-11 Mission Returns, Splashes Down off California - NASA</title>
     <link href="https://www.nasa.gov/news-release/nasas-spacex-crew-11-mission-returns-splashes-down-off-california/"/>
     <id>https://www.nasa.gov/news-release/nasas-spacex-crew-11-mission-returns-splashes-down-off-california/</id>
     <summary type="text">NASA’s SpaceX Crew-11 mission safely splashed down early Thursday morning in the Pacific Ocean off the coast of San Diego, concluding a more than five-month</summary>
-  </entry>
-  <entry>
-    <title>Coverage, Briefing Set for NASA’s Artemis II Moon Rocket Roll to Pad - NASA</title>
-    <link href="https://www.nasa.gov/news-release/coverage-briefing-set-for-nasas-artemis-ii-moon-rocket-roll-to-pad/"/>
-    <id>https://www.nasa.gov/news-release/coverage-briefing-set-for-nasas-artemis-ii-moon-rocket-roll-to-pad/</id>
-    <summary type="text">NASA’s integrated SLS (Space Launch System) rocket and Orion spacecraft for the Artemis II mission is inching closer to launch – literally.</summary>
   </entry>
   <entry>
     <title>2026 News Releases - NASA</title>
@@ -49,12 +62,6 @@
     <link href="https://www.nasa.gov/blogs/spacestation/2026/01/16/expedition-74-continues-after-crew-11-returns-to-earth/"/>
     <id>https://www.nasa.gov/blogs/spacestation/2026/01/16/expedition-74-continues-after-crew-11-returns-to-earth/</id>
     <summary type="text">Three Expedition 74 crew members continue to reside aboard the International Space Station now following the return to Earth of NASA’s SpaceX Crew-11 mission on Thursday. The orbiting trio will conduct research and maintenance while awaiting the arrival of four new crewmates planned in February.</summary>
-  </entry>
-  <entry>
-    <title>Dragon Undocks from Station, Heads for Splashdown - NASA</title>
-    <link href="https://www.nasa.gov/blogs/spacestation/2026/01/14/dragon-undocks-from-station-heads-for-splashdown/"/>
-    <id>https://www.nasa.gov/blogs/spacestation/2026/01/14/dragon-undocks-from-station-heads-for-splashdown/</id>
-    <summary type="text">At 5:20 p.m. EST, NASA’s SpaceX Crew-11 mission undocked from the International Space Station’s Harmony module aboard the SpaceX Dragon spacecraft.</summary>
   </entry>
   <entry>
     <title>NASA’s SPHEREx Observatory Completes First Cosmic Map Like No Other</title>
@@ -115,78 +122,6 @@
     <link href="https://www.jpl.nasa.gov/news/"/>
     <id>https://www.jpl.nasa.gov/news/</id>
     <summary type="text">NASA&#x27;s Jet Propulsion Laboratory, the leading center for robotic exploration of the solar system.</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/cz"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/cz</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/dk"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/dk</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/nl"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/nl</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/ee"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/ee</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/fi"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/fi</id>
-    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
-  </entry>
-  <entry>
-    <title>Press Releases</title>
-    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/fr"/>
-    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/fr</id>
-    <summary type="text">email: media @ esa.int (Uniquement les demandes de la presse)</summary>
   </entry>
   <entry>
     <title>December 2025 Company Update</title>
