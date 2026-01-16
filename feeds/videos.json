@@ -24,6 +24,25 @@
       ]
     },
     {
+      "id": "https://www.jpl.nasa.gov/news/nasas-spherex-observatory-completes-first-cosmic-map-like-no-other/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-spherex-observatory-completes-first-cosmic-map-like-no-other/",
+      "title": "NASA’s SPHEREx Observatory Completes First Cosmic Map Like No Other",
+      "content_text": "The telescope will help scientists answer big-picture questions about everything from water deposits in the Milky Way to what happened in the first second after the big bang.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/e1a-SPHEREx_all_sky_stars_and_gas-dust.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/kzTH_MXwRBs?list=PLTiv_XWHnOZrfLibq-Y1t8T0V3DnSYNph",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasas-perseverance-mars-rover-ready-to-roll-for-miles-in-years-ahead/",
       "url": "https://www.jpl.nasa.gov/news/nasas-perseverance-mars-rover-ready-to-roll-for-miles-in-years-ahead/",
       "title": "NASA’s Perseverance Mars Rover Ready to Roll for Miles in Years Ahead",
@@ -92,25 +111,6 @@
         },
         {
           "url": "https://www.youtube.com/embed/ZIg_XgsnfJk?feature=oembed",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/nasas-spherex-observatory-completes-first-cosmic-map-like-no-other/",
-      "url": "https://www.jpl.nasa.gov/news/nasas-spherex-observatory-completes-first-cosmic-map-like-no-other/",
-      "title": "NASA’s SPHEREx Observatory Completes First Cosmic Map Like No Other",
-      "content_text": "The telescope will help scientists answer big-picture questions about everything from water deposits in the Milky Way to what happened in the first second after the big bang.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/e1a-SPHEREx_all_sky_stars_and_gas-dust.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/kzTH_MXwRBs?list=PLTiv_XWHnOZrfLibq-Y1t8T0V3DnSYNph",
           "mime_type": "video/mp4"
         }
       ],
