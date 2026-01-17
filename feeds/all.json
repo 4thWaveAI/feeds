@@ -59,6 +59,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news-release/nasas-spacex-crew-11-to-discuss-space-station-science-mission/",
+      "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-11-to-discuss-space-station-science-mission/",
+      "title": "NASA’s SpaceX Crew-11 to Discuss Space Station Science Mission - NASA",
+      "content_text": "After 167 days in space, the crew members of NASA’s SpaceX Crew-11 mission will hold a news conference at 2:15 p.m. EST, Wednesday, Jan. 21, at the agency’s",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/01/crew-11-return-image-jan-16.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news-release/nasa-receives-15th-consecutive-clean-financial-audit-opinion/",
       "url": "https://www.nasa.gov/news-release/nasa-receives-15th-consecutive-clean-financial-audit-opinion/",
       "title": "NASA Receives 15th Consecutive ‘Clean’ Financial Audit Opinion - NASA",
@@ -81,21 +96,6 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2026/01/jsc2023e016432-alt2orig.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/news-release/nasas-spacex-crew-11-mission-returns-splashes-down-off-california/",
-      "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-11-mission-returns-splashes-down-off-california/",
-      "title": "NASA's SpaceX Crew-11 Mission Returns, Splashes Down off California - NASA",
-      "content_text": "NASA’s SpaceX Crew-11 mission safely splashed down early Thursday morning in the Pacific Ocean off the coast of San Diego, concluding a more than five-month",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/01/crew-11-in-dragon-jan-15.jpg",
           "mime_type": "image/jpeg"
         }
       ],
