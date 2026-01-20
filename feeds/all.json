@@ -134,6 +134,21 @@
       ]
     },
     {
+      "id": "https://www.jpl.nasa.gov/news/nasas-sunrise-smallsats-ace-tests-moving-closer-to-launch/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-sunrise-smallsats-ace-tests-moving-closer-to-launch/",
+      "title": "NASA’s SunRISE SmallSats Ace Tests, Moving Closer to Launch",
+      "content_text": "The small satellites passed a crucible of tests, ending with a simulation of the intense vibrations of launch.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/PIA26715_202509_SunRISE_Vibe_42.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasas-spherex-observatory-completes-first-cosmic-map-like-no-other/",
       "url": "https://www.jpl.nasa.gov/news/nasas-spherex-observatory-completes-first-cosmic-map-like-no-other/",
       "title": "NASA’s SPHEREx Observatory Completes First Cosmic Map Like No Other",
@@ -248,25 +263,6 @@
         {
           "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/Time2025WebbCuriosityAward-1.11-crop.jpg",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/nasa-jpl-unveils-rover-operations-center-for-moon-mars-missions/",
-      "url": "https://www.jpl.nasa.gov/news/nasa-jpl-unveils-rover-operations-center-for-moon-mars-missions/",
-      "title": "NASA JPL Unveils Rover Operations Center for Moon, Mars Missions",
-      "content_text": "The center leverages AI along with JPL’s unique infrastructure, unrivaled tools, and years of operations expertise to support industry partners developing future planetary surface missions.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/E1-ROC-D2025_1210_RL0028128-web.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/ZIg_XgsnfJk?feature=oembed",
-          "mime_type": "video/mp4"
         }
       ],
       "tags": [
