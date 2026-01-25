@@ -5,120 +5,6 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.json",
   "items": [
     {
-      "id": "https://www.nasa.gov/news/recently-published/",
-      "url": "https://www.nasa.gov/news/recently-published/",
-      "title": "All NASA News - NASA",
-      "content_text": "Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/news/media-contacts/",
-      "url": "https://www.nasa.gov/news/media-contacts/",
-      "title": "NASA Media Contacts - NASA",
-      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Tiernan Doyle",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/news/",
-      "url": "https://www.nasa.gov/news/",
-      "title": "NASA News",
-      "content_text": "Resources for news media, including NASA news contacts and archived news material",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2025/05/54492396655-c6ba83df1d-o-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-12-mission-to-space-station/",
-      "url": "https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-12-mission-to-space-station/",
-      "title": "NASA Sets Briefings for SpaceX Crew-12 Mission to Space Station - NASA",
-      "content_text": "Next, the crew of NASA’s SpaceX Crew-12 mission will participate in a virtual news conference from NASA Johnson crew quarters at 1 p.m., also on the agency’s",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/01/nasas-spacex-crew-12-spacex-suits-1.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/news-release/nasa-awards-global-modeling-assimilation-support-contract/",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-global-modeling-assimilation-support-contract/",
-      "title": "NASA Awards Global Modeling, Assimilation Support Contract - NASA",
-      "content_text": "NASA has selected ADNET Systems, Inc. of Bethesda, Maryland, to provide global modeling and data assimilation support at the agency’s Goddard Space Flight",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2024/08/meatball-w-black-background.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/2026-news-releases/",
-      "url": "https://www.nasa.gov/2026-news-releases/",
-      "title": "2026 News Releases - NASA",
-      "content_text": "Sign up to receive NASA news releases and other information.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/NHQ202512200038/NHQ202512200038~large.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/01/23/crew-studies-cardiac-research-artificial-intelligence-as-dragon-boosts-stations-orbit/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/01/23/crew-studies-cardiac-research-artificial-intelligence-as-dragon-boosts-stations-orbit/",
-      "title": "Crew Studies Cardiac Research, Artificial Intelligence as Dragon Boosts Station’s Orbit - NASA",
-      "content_text": "Cardiac research and artificial intelligence were the main science topics for the Expedition 74 crew on Friday. The International Space Station also received an orbital boost when the SpaceX Dragon spacecraft fired its engines at the end of the week.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/iss074e0000388/iss074e0000388~large.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/01/22/biomedical-science-and-hardware-top-thursdays-schedule/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/01/22/biomedical-science-and-hardware-top-thursdays-schedule/",
-      "title": "Biomedical Science and Hardware Top Thursday’s Schedule - NASA",
-      "content_text": "The Expedition 74 trio aboard the International Space Station checked out ultrasound gear, inspected advanced sample processing hardware, and tested muscle-stimulating electrodes on Thursday.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/iss073e1198126/iss073e1198126~large.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.jpl.nasa.gov/news/nasas-sunrise-smallsats-ace-tests-moving-closer-to-launch/",
       "url": "https://www.jpl.nasa.gov/news/nasas-sunrise-smallsats-ace-tests-moving-closer-to-launch/",
       "title": "NASA’s SunRISE SmallSats Ace Tests, Moving Closer to Launch",
@@ -280,6 +166,114 @@
           "mime_type": "image/png"
         }
       ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Uniquement les demandes de la presse)",
       "tags": [
         "space-tech"
       ]
