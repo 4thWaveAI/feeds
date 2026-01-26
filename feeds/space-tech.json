@@ -29,6 +29,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "url": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "title": "NASA Media Contacts - NASA",
+      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Tiernan Doyle",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news/",
       "url": "https://www.nasa.gov/news/",
       "title": "NASA News",
@@ -36,6 +51,21 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2025/05/54492396655-c6ba83df1d-o-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-technology-brings-golden-age-of-exploration-to-earth/",
+      "url": "https://www.nasa.gov/news-release/nasa-technology-brings-golden-age-of-exploration-to-earth/",
+      "title": "NASA Technology Brings Golden Age of Exploration to Earth - NASA",
+      "content_text": "As NASA fosters technologies needed to live and work farther away from home than ever before, the agency’s Technology Transfer program has the sole mission of",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/01/spinoff-cover.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -89,28 +119,13 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/01/23/crew-studies-cardiac-research-artificial-intelligence-as-dragon-boosts-stations-orbit/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/01/23/crew-studies-cardiac-research-artificial-intelligence-as-dragon-boosts-stations-orbit/",
-      "title": "Crew Studies Cardiac Research, Artificial Intelligence as Dragon Boosts Station’s Orbit - NASA",
-      "content_text": "Cardiac research and artificial intelligence were the main science topics for the Expedition 74 crew on Friday. The International Space Station also received an orbital boost when the SpaceX Dragon spacecraft fired its engines at the end of the week.",
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/01/26/space-physics-cardiac-research-kickoff-last-week-in-january/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/01/26/space-physics-cardiac-research-kickoff-last-week-in-january/",
+      "title": "Space Physics, Cardiac Research Kickoff Last Week in January - NASA",
+      "content_text": "Space physics and cardiac research kicked off the week aboard the International Space Station for the three-person Expedition 74 crew. The orbital residents explored storing cryogenic fluids in space and how their cardiovascular system is adapting to weightlessness.",
       "attachments": [
         {
-          "url": "https://images-assets.nasa.gov/image/iss074e0000388/iss074e0000388~large.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/01/22/biomedical-science-and-hardware-top-thursdays-schedule/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/01/22/biomedical-science-and-hardware-top-thursdays-schedule/",
-      "title": "Biomedical Science and Hardware Top Thursday’s Schedule - NASA",
-      "content_text": "The Expedition 74 trio aboard the International Space Station checked out ultrasound gear, inspected advanced sample processing hardware, and tested muscle-stimulating electrodes on Thursday.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/iss073e1198126/iss073e1198126~large.jpg",
+          "url": "https://images-assets.nasa.gov/image/iss074e0043595/iss074e0043595~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
