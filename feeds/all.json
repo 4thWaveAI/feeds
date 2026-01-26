@@ -119,6 +119,21 @@
       ]
     },
     {
+      "id": "https://www.jpl.nasa.gov/news/nasa-reveals-new-details-about-dark-matters-influence-on-universe/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-reveals-new-details-about-dark-matters-influence-on-universe/",
+      "title": "NASA Reveals New Details About Dark Matter’s Influence on Universe",
+      "content_text": "With the Webb telescope’s unprecedented sensitivity, scientists are learning more about dark matter’s influence on stars, galaxies, and even planets like Earth.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26702.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasas-sunrise-smallsats-ace-tests-moving-closer-to-launch/",
       "url": "https://www.jpl.nasa.gov/news/nasas-sunrise-smallsats-ace-tests-moving-closer-to-launch/",
       "title": "NASA’s SunRISE SmallSats Ace Tests, Moving Closer to Launch",
@@ -232,21 +247,6 @@
       "attachments": [
         {
           "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26618-s6b_first_image_level2_c_31YiWmh.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/nasas-webb-curiosity-named-in-times-best-inventions-hall-of-fame/",
-      "url": "https://www.jpl.nasa.gov/news/nasas-webb-curiosity-named-in-times-best-inventions-hall-of-fame/",
-      "title": "NASA’s Webb, Curiosity Named in TIME’s Best Inventions Hall of Fame",
-      "content_text": "The most powerful space telescope ever built and the car-size roving science lab on Mars are among 25 of the most iconic inventions the magazine has covered in the past quarter century.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/Time2025WebbCuriosityAward-1.11-crop.jpg",
           "mime_type": "image/jpeg"
         }
       ],
