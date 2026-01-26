@@ -59,6 +59,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news-release/nasa-welcomes-oman-as-newest-artemis-accords-signatory/",
+      "url": "https://www.nasa.gov/news-release/nasa-welcomes-oman-as-newest-artemis-accords-signatory/",
+      "title": "NASA Welcomes Oman as Newest Artemis Accords Signatory - NASA",
+      "content_text": "The Sultanate of Oman signed the Artemis Accords during a ceremony in Muscat attended by NASA on Monday, becoming the 61st nation to commit to responsible",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/01/artemis-accords-oman-61-012626.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news-release/nasa-technology-brings-golden-age-of-exploration-to-earth/",
       "url": "https://www.nasa.gov/news-release/nasa-technology-brings-golden-age-of-exploration-to-earth/",
       "title": "NASA Technology Brings Golden Age of Exploration to Earth - NASA",
@@ -82,21 +97,6 @@
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2026/01/nasas-spacex-crew-12-spacex-suits-1.png",
           "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/news-release/nasa-awards-global-modeling-assimilation-support-contract/",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-global-modeling-assimilation-support-contract/",
-      "title": "NASA Awards Global Modeling, Assimilation Support Contract - NASA",
-      "content_text": "NASA has selected ADNET Systems, Inc. of Bethesda, Maryland, to provide global modeling and data assimilation support at the agency’s Goddard Space Flight",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2024/08/meatball-w-black-background.webp",
-          "mime_type": "image/webp"
         }
       ],
       "tags": [
