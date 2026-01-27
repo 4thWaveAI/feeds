@@ -29,21 +29,6 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news/nasa-media-contacts/",
-      "url": "https://www.nasa.gov/news/nasa-media-contacts/",
-      "title": "NASA Media Contacts - NASA",
-      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Tiernan Doyle",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.nasa.gov/news/",
       "url": "https://www.nasa.gov/news/",
       "title": "NASA News",
@@ -89,21 +74,6 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-12-mission-to-space-station/",
-      "url": "https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-12-mission-to-space-station/",
-      "title": "NASA Sets Briefings for SpaceX Crew-12 Mission to Space Station - NASA",
-      "content_text": "Next, the crew of NASA’s SpaceX Crew-12 mission will participate in a virtual news conference from NASA Johnson crew quarters at 1 p.m., also on the agency’s",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/01/nasas-spacex-crew-12-spacex-suits-1.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.nasa.gov/2026-news-releases/",
       "url": "https://www.nasa.gov/2026-news-releases/",
       "title": "2026 News Releases - NASA",
@@ -111,6 +81,21 @@
       "attachments": [
         {
           "url": "https://images-assets.nasa.gov/image/NHQ202512200038/NHQ202512200038~large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/01/27/crew-studies-robotics-and-virtual-reality-advancing-space-tech/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/01/27/crew-studies-robotics-and-virtual-reality-advancing-space-tech/",
+      "title": "Crew Studies Robotics and Virtual Reality Advancing Space Tech - NASA",
+      "content_text": "Robotics and virtual reality filled the science schedule aboard the International Space Station on Tuesday as the Expedition 74 crew promoted education and explored human research. The orbital trio also inspected safety equipment, worked on cargo swaps, and conducted Earth observations.",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/12/53412633146-8dc3de6cda-o.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -127,6 +112,21 @@
         {
           "url": "https://images-assets.nasa.gov/image/iss074e0043595/iss074e0043595~large.jpg",
           "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasas-juno-measures-thickness-of-europas-ice-shell/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-juno-measures-thickness-of-europas-ice-shell/",
+      "title": "NASA’s Juno Measures Thickness of Europa’s Ice Shell",
+      "content_text": "Results from the solar-powered spacecraft provide a new measurement of the thickness of the ice shell encasing the Jovian moon’s ocean.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1_-_PIA26331_-_Europa_JunoCam_6solgdm.png",
+          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -251,25 +251,6 @@
       ]
     },
     {
-      "id": "https://www.jpl.nasa.gov/news/one-of-nasas-key-cameras-orbiting-mars-takes-100000th-image/",
-      "url": "https://www.jpl.nasa.gov/news/one-of-nasas-key-cameras-orbiting-mars-takes-100000th-image/",
-      "title": "One of NASA’s Key Cameras Orbiting Mars Takes 100,000th Image",
-      "content_text": "Mesas and dunes stand out in the view snapped by HiRISE, one of the imagers aboard the agency’s Mars Reconnaissance Orbiter.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26691-MROs_HiRISE_Takes_its_100000th_Image_of_the_Martian_surface-Fig.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/e1-Video_HiRISE_100Kth_OA28UgT.webm",
-          "mime_type": "video/webm"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/",
       "url": "https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/",
       "title": "NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans",
@@ -295,6 +276,114 @@
           "mime_type": "image/png"
         }
       ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Uniquement les demandes de la presse)",
       "tags": [
         "space-tech"
       ]

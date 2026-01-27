@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Tue, 27 Jan 2026 19:24:09 +0000</updated>
+  <updated>Tue, 27 Jan 2026 20:20:36 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -16,13 +16,6 @@
     <title>NASA Media Contacts - NASA</title>
     <link href="https://www.nasa.gov/news/media-contacts/"/>
     <id>https://www.nasa.gov/news/media-contacts/</id>
-    <summary type="text">Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Tiernan Doyle</summary>
-    <updated>Thu, 29 Jun 2023 14:53:17 -0400</updated>
-  </entry>
-  <entry>
-    <title>NASA Media Contacts - NASA</title>
-    <link href="https://www.nasa.gov/news/nasa-media-contacts/"/>
-    <id>https://www.nasa.gov/news/nasa-media-contacts/</id>
     <summary type="text">Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Tiernan Doyle</summary>
     <updated>Thu, 29 Jun 2023 14:53:17 -0400</updated>
   </entry>
@@ -46,22 +39,28 @@
     <summary type="text">As NASA fosters technologies needed to live and work farther away from home than ever before, the agency’s Technology Transfer program has the sole mission of</summary>
   </entry>
   <entry>
-    <title>NASA Sets Briefings for SpaceX Crew-12 Mission to Space Station - NASA</title>
-    <link href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-12-mission-to-space-station/"/>
-    <id>https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-12-mission-to-space-station/</id>
-    <summary type="text">Next, the crew of NASA’s SpaceX Crew-12 mission will participate in a virtual news conference from NASA Johnson crew quarters at 1 p.m., also on the agency’s</summary>
-  </entry>
-  <entry>
     <title>2026 News Releases - NASA</title>
     <link href="https://www.nasa.gov/2026-news-releases/"/>
     <id>https://www.nasa.gov/2026-news-releases/</id>
     <summary type="text">Sign up to receive NASA news releases and other information.</summary>
   </entry>
   <entry>
+    <title>Crew Studies Robotics and Virtual Reality Advancing Space Tech - NASA</title>
+    <link href="https://www.nasa.gov/blogs/spacestation/2026/01/27/crew-studies-robotics-and-virtual-reality-advancing-space-tech/"/>
+    <id>https://www.nasa.gov/blogs/spacestation/2026/01/27/crew-studies-robotics-and-virtual-reality-advancing-space-tech/</id>
+    <summary type="text">Robotics and virtual reality filled the science schedule aboard the International Space Station on Tuesday as the Expedition 74 crew promoted education and explored human research. The orbital trio also inspected safety equipment, worked on cargo swaps, and conducted Earth observations.</summary>
+  </entry>
+  <entry>
     <title>Space Physics, Cardiac Research Kickoff Last Week in January - NASA</title>
     <link href="https://www.nasa.gov/blogs/spacestation/2026/01/26/space-physics-cardiac-research-kickoff-last-week-in-january/"/>
     <id>https://www.nasa.gov/blogs/spacestation/2026/01/26/space-physics-cardiac-research-kickoff-last-week-in-january/</id>
     <summary type="text">Space physics and cardiac research kicked off the week aboard the International Space Station for the three-person Expedition 74 crew. The orbital residents explored storing cryogenic fluids in space and how their cardiovascular system is adapting to weightlessness.</summary>
+  </entry>
+  <entry>
+    <title>NASA’s Juno Measures Thickness of Europa’s Ice Shell</title>
+    <link href="https://www.jpl.nasa.gov/news/nasas-juno-measures-thickness-of-europas-ice-shell/"/>
+    <id>https://www.jpl.nasa.gov/news/nasas-juno-measures-thickness-of-europas-ice-shell/</id>
+    <summary type="text">Results from the solar-powered spacecraft provide a new measurement of the thickness of the ice shell encasing the Jovian moon’s ocean.</summary>
   </entry>
   <entry>
     <title>How NASA Is Homing in From Space on Ocean Debris</title>
@@ -106,12 +105,6 @@
     <summary type="text">As Firefly Aerospace prepares to follow its successful soft landing on the Moon, an engineering model for its next lander is being put through its paces.</summary>
   </entry>
   <entry>
-    <title>One of NASA’s Key Cameras Orbiting Mars Takes 100,000th Image</title>
-    <link href="https://www.jpl.nasa.gov/news/one-of-nasas-key-cameras-orbiting-mars-takes-100000th-image/"/>
-    <id>https://www.jpl.nasa.gov/news/one-of-nasas-key-cameras-orbiting-mars-takes-100000th-image/</id>
-    <summary type="text">Mesas and dunes stand out in the view snapped by HiRISE, one of the imagers aboard the agency’s Mars Reconnaissance Orbiter.</summary>
-  </entry>
-  <entry>
     <title>NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans</title>
     <link href="https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/</id>
@@ -122,6 +115,78 @@
     <link href="https://www.jpl.nasa.gov/news/"/>
     <id>https://www.jpl.nasa.gov/news/</id>
     <summary type="text">NASA&#x27;s Jet Propulsion Laboratory, the leading center for robotic exploration of the solar system.</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/cz"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/cz</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/dk"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/dk</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/nl"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/nl</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/ee"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/ee</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/fi"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/fi</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/fr"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/fr</id>
+    <summary type="text">email: media @ esa.int (Uniquement les demandes de la presse)</summary>
   </entry>
   <entry>
     <title>December 2025 Company Update</title>
