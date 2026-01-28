@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Wed, 28 Jan 2026 19:25:47 +0000</updated>
+  <updated>Wed, 28 Jan 2026 20:27:31 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -57,6 +57,12 @@
     <summary type="text">Space physics and cardiac research kicked off the week aboard the International Space Station for the three-person Expedition 74 crew. The orbital residents explored storing cryogenic fluids in space and how their cardiovascular system is adapting to weightlessness.</summary>
   </entry>
   <entry>
+    <title>Networks Keeping NASA’s Artemis II Mission Connected</title>
+    <link href="https://www.jpl.nasa.gov/news/networks-keeping-nasas-artemis-ii-mission-connected/"/>
+    <id>https://www.jpl.nasa.gov/news/networks-keeping-nasas-artemis-ii-mission-connected/</id>
+    <summary type="text">Artemis missions rely on both the Near Space Network, managed by NASA Goddard, and the Deep Space Network, managed by the Jet Propulsion Laboratory.</summary>
+  </entry>
+  <entry>
     <title>NASA’s Juno Measures Thickness of Europa’s Ice Shell</title>
     <link href="https://www.jpl.nasa.gov/news/nasas-juno-measures-thickness-of-europas-ice-shell/"/>
     <id>https://www.jpl.nasa.gov/news/nasas-juno-measures-thickness-of-europas-ice-shell/</id>
@@ -97,12 +103,6 @@
     <link href="https://www.jpl.nasa.gov/news/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean/</id>
     <summary type="text">Reanalysis of data from NASA’s Cassini mission has revealed Saturn’s moon may instead have layers of slush with isolated pockets of liquid water.</summary>
-  </entry>
-  <entry>
-    <title>NASA JPL Shakes Things Up Testing Future Commercial Lunar Spacecraft</title>
-    <link href="https://www.jpl.nasa.gov/news/nasa-jpl-shakes-things-up-testing-future-commercial-lunar-spacecraft/"/>
-    <id>https://www.jpl.nasa.gov/news/nasa-jpl-shakes-things-up-testing-future-commercial-lunar-spacecraft/</id>
-    <summary type="text">As Firefly Aerospace prepares to follow its successful soft landing on the Moon, an engineering model for its next lander is being put through its paces.</summary>
   </entry>
   <entry>
     <title>NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans</title>
