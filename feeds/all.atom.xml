@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Thu, 29 Jan 2026 16:40:22 +0000</updated>
+  <updated>Thu, 29 Jan 2026 17:35:09 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -51,6 +51,12 @@
     <summary type="text">Robotics and virtual reality filled the science schedule aboard the International Space Station on Tuesday as the Expedition 74 crew promoted education and explored human research. The orbital trio also inspected safety equipment, worked on cargo swaps, and conducted Earth observations.</summary>
   </entry>
   <entry>
+    <title>NASA Analysis Shows La Niña Limited Sea Level Rise in 2025</title>
+    <link href="https://www.jpl.nasa.gov/news/nasa-analysis-shows-la-nina-limited-sea-level-rise-in-2025/"/>
+    <id>https://www.jpl.nasa.gov/news/nasa-analysis-shows-la-nina-limited-sea-level-rise-in-2025/</id>
+    <summary type="text">A mild La Niña caused greater rainfall over the Amazon basin, which offset rising sea levels due to record warming of Earth’s oceans.</summary>
+  </entry>
+  <entry>
     <title>Networks Keeping NASA’s Artemis II Mission Connected</title>
     <link href="https://www.jpl.nasa.gov/news/networks-keeping-nasas-artemis-ii-mission-connected/"/>
     <id>https://www.jpl.nasa.gov/news/networks-keeping-nasas-artemis-ii-mission-connected/</id>
@@ -91,12 +97,6 @@
     <link href="https://www.jpl.nasa.gov/news/nasas-perseverance-mars-rover-ready-to-roll-for-miles-in-years-ahead/"/>
     <id>https://www.jpl.nasa.gov/news/nasas-perseverance-mars-rover-ready-to-roll-for-miles-in-years-ahead/</id>
     <summary type="text">The rover has been acing a long-term series of durability tests, making the most of its enhanced navigation capabilities, and ferreting out new findings about Mars’ geologic past.</summary>
-  </entry>
-  <entry>
-    <title>NASA Study Suggests Saturn’s Moon Titan May Not Have Global Ocean</title>
-    <link href="https://www.jpl.nasa.gov/news/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean/"/>
-    <id>https://www.jpl.nasa.gov/news/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean/</id>
-    <summary type="text">Reanalysis of data from NASA’s Cassini mission has revealed Saturn’s moon may instead have layers of slush with isolated pockets of liquid water.</summary>
   </entry>
   <entry>
     <title>NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans</title>
