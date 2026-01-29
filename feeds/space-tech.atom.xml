@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Thu, 29 Jan 2026 20:27:11 +0000</updated>
+  <updated>Thu, 29 Jan 2026 21:24:34 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -51,6 +51,12 @@
     <summary type="text">Robotics and artificial intelligence were back on the research schedule Wednesday for the Expedition 74 crew to inspire college students and explore boosting crew efficiency. Earth observations and life support maintenance also rounded out the day for the orbital residents aboard the International Space Station.</summary>
   </entry>
   <entry>
+    <title>NASA-ISRO Radar Mission Peers Through Clouds to See Mississippi River Delta</title>
+    <link href="https://www.jpl.nasa.gov/news/nasa-isro-radar-mission-peers-through-clouds-to-see-mississippi-river-delta/"/>
+    <id>https://www.jpl.nasa.gov/news/nasa-isro-radar-mission-peers-through-clouds-to-see-mississippi-river-delta/</id>
+    <summary type="text">A new image from the NISAR mission shows off the satellite’s ability to reveal details of Earth’s surfaces. The science team also released new sample data.</summary>
+  </entry>
+  <entry>
     <title>NASA Analysis Shows La Niña Limited Sea Level Rise in 2025</title>
     <link href="https://www.jpl.nasa.gov/news/nasa-analysis-shows-la-nina-limited-sea-level-rise-in-2025/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-analysis-shows-la-nina-limited-sea-level-rise-in-2025/</id>
@@ -93,12 +99,6 @@
     <summary type="text">The telescope will help scientists answer big-picture questions about everything from water deposits in the Milky Way to what happened in the first second after the big bang.</summary>
   </entry>
   <entry>
-    <title>NASA’s Perseverance Mars Rover Ready to Roll for Miles in Years Ahead</title>
-    <link href="https://www.jpl.nasa.gov/news/nasas-perseverance-mars-rover-ready-to-roll-for-miles-in-years-ahead/"/>
-    <id>https://www.jpl.nasa.gov/news/nasas-perseverance-mars-rover-ready-to-roll-for-miles-in-years-ahead/</id>
-    <summary type="text">The rover has been acing a long-term series of durability tests, making the most of its enhanced navigation capabilities, and ferreting out new findings about Mars’ geologic past.</summary>
-  </entry>
-  <entry>
     <title>NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans</title>
     <link href="https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/</id>
@@ -109,6 +109,78 @@
     <link href="https://www.jpl.nasa.gov/news/"/>
     <id>https://www.jpl.nasa.gov/news/</id>
     <summary type="text">NASA&#x27;s Jet Propulsion Laboratory, the leading center for robotic exploration of the solar system.</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/cz"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/cz</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/dk"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/dk</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/nl"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/nl</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/ee"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/ee</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/fi"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/fi</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/fr"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/fr</id>
+    <summary type="text">email: media @ esa.int (Uniquement les demandes de la presse)</summary>
   </entry>
   <entry>
     <title>December 2025 Company Update</title>
