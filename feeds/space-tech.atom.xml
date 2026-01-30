@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Fri, 30 Jan 2026 18:37:52 +0000</updated>
+  <updated>Fri, 30 Jan 2026 19:29:42 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -39,16 +39,22 @@
     <summary type="text">Sign up to receive NASA news releases and other information.</summary>
   </entry>
   <entry>
+    <title>Week Wraps with Cargo Packing, Tech Research as Crew-12 Discusses Mission - NASA</title>
+    <link href="https://www.nasa.gov/blogs/spacestation/2026/01/30/week-wraps-with-cargo-packing-tech-research-as-crew-12-discusses-mission/"/>
+    <id>https://www.nasa.gov/blogs/spacestation/2026/01/30/week-wraps-with-cargo-packing-tech-research-as-crew-12-discusses-mission/</id>
+    <summary type="text">The Expedition 74 trio wrapped up the week packing cargo for return to Earth and exploring artificial intelligence to benefit crew operations. Earth observations and lab gear maintenance rounded out the shift aboard the International Space Station on Friday.</summary>
+  </entry>
+  <entry>
     <title>Expedition 74 Preps CubeSats and Photographs Earth for Research - NASA</title>
     <link href="https://www.nasa.gov/blogs/spacestation/2026/01/29/expedition-74-preps-cubesats-and-photographs-earth-for-research/"/>
     <id>https://www.nasa.gov/blogs/spacestation/2026/01/29/expedition-74-preps-cubesats-and-photographs-earth-for-research/</id>
     <summary type="text">Expedition 74 focused on installing CubeSats and observing Earth aboard the International Space Station on Thursday. The trio from NASA and Roscosmos kept up ongoing research operations along with standard orbital lab maintenance throughout the day.</summary>
   </entry>
   <entry>
-    <title>Advanced Tech Research on Station as Crew-12 Announces Launch Opportunities - NASA</title>
-    <link href="https://www.nasa.gov/blogs/spacestation/2026/01/28/advanced-tech-research-on-station-as-crew-12-announces-launch-opportunities/"/>
-    <id>https://www.nasa.gov/blogs/spacestation/2026/01/28/advanced-tech-research-on-station-as-crew-12-announces-launch-opportunities/</id>
-    <summary type="text">Robotics and artificial intelligence were back on the research schedule Wednesday for the Expedition 74 crew to inspire college students and explore boosting crew efficiency. Earth observations and life support maintenance also rounded out the day for the orbital residents aboard the International Space Station.</summary>
+    <title>NASA’s Perseverance Rover Completes First AI-Planned Drive on Mars</title>
+    <link href="https://www.jpl.nasa.gov/news/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/"/>
+    <id>https://www.jpl.nasa.gov/news/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/</id>
+    <summary type="text">The team for the six-wheeled scientist used a vision-capable AI to create a safe route over the Red Planet’s surface without the input of human route planners.</summary>
   </entry>
   <entry>
     <title>NASA-ISRO Radar Mission Peers Through Clouds to See Mississippi River Delta</title>
@@ -93,12 +99,6 @@
     <summary type="text">The small satellites passed a crucible of tests, ending with a simulation of the intense vibrations of launch.</summary>
   </entry>
   <entry>
-    <title>NASA’s SPHEREx Observatory Completes First Cosmic Map Like No Other</title>
-    <link href="https://www.jpl.nasa.gov/news/nasas-spherex-observatory-completes-first-cosmic-map-like-no-other/"/>
-    <id>https://www.jpl.nasa.gov/news/nasas-spherex-observatory-completes-first-cosmic-map-like-no-other/</id>
-    <summary type="text">The telescope will help scientists answer big-picture questions about everything from water deposits in the Milky Way to what happened in the first second after the big bang.</summary>
-  </entry>
-  <entry>
     <title>NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans</title>
     <link href="https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/</id>
@@ -109,6 +109,78 @@
     <link href="https://www.jpl.nasa.gov/news/"/>
     <id>https://www.jpl.nasa.gov/news/</id>
     <summary type="text">NASA&#x27;s Jet Propulsion Laboratory, the leading center for robotic exploration of the solar system.</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/cz"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/cz</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/dk"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/dk</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/nl"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/nl</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/ee"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/ee</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/fi"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/fi</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/fr"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/fr</id>
+    <summary type="text">email: media @ esa.int (Uniquement les demandes de la presse)</summary>
   </entry>
   <entry>
     <title>December 2025 Company Update</title>
