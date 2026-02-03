@@ -29,21 +29,6 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news/nasa-media-contacts/",
-      "url": "https://www.nasa.gov/news/nasa-media-contacts/",
-      "title": "NASA Media Contacts - NASA",
-      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Tiernan Doyle",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.nasa.gov/news/",
       "url": "https://www.nasa.gov/news/",
       "title": "NASA News",
@@ -89,13 +74,13 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news-release/nasa-selects-axiom-space-for-fifth-private-mission-to-space-station/",
-      "url": "https://www.nasa.gov/news-release/nasa-selects-axiom-space-for-fifth-private-mission-to-space-station/",
-      "title": "NASA Selects Axiom Space for Fifth Private Mission to Space Station - NASA",
-      "content_text": "NASA and Axiom Space have signed an order for the fifth private astronaut mission to the International Space Station, targeted to launch no earlier than",
+      "id": "https://www.nasa.gov/2026-news-releases/",
+      "url": "https://www.nasa.gov/2026-news-releases/",
+      "title": "2026 News Releases - NASA",
+      "content_text": "Sign up to receive NASA news releases and other information.",
       "attachments": [
         {
-          "url": "https://www.nasa.gov/wp-content/uploads/2025/09/nasa-meatball-1.jpg",
+          "url": "https://images-assets.nasa.gov/image/NHQ202512200038/NHQ202512200038~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -104,13 +89,13 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/2026-news-releases/",
-      "url": "https://www.nasa.gov/2026-news-releases/",
-      "title": "2026 News Releases - NASA",
-      "content_text": "Sign up to receive NASA news releases and other information.",
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/02/03/biomedical-research-cubesat-deployments-top-crew-schedule/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/02/03/biomedical-research-cubesat-deployments-top-crew-schedule/",
+      "title": "Biomedical Research, CubeSat Deployments Top Crew Schedule - NASA",
+      "content_text": "Biomedical research to keep crews healthy and CubeSat deployments for educational research topped the science schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also focused on cargo swaps and life support maintenance throughout the day.",
       "attachments": [
         {
-          "url": "https://images-assets.nasa.gov/image/NHQ202512200038/NHQ202512200038~large.jpg",
+          "url": "https://images-assets.nasa.gov/image/iss073e0868771/iss073e0868771~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
