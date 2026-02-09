@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Mon, 09 Feb 2026 17:50:29 +0000</updated>
+  <updated>Mon, 09 Feb 2026 20:01:48 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -30,7 +30,7 @@
     <title>NASA Sets Coverage for Agency’s SpaceX Crew-12 Launch, Docking - NASA</title>
     <link href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-12-launch-docking/"/>
     <id>https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-12-launch-docking/</id>
-    <summary type="text">NASA will stream live coverage of the upcoming prelaunch, launch, and docking activities for the agency’s SpaceX Crew-12 mission to the International Space</summary>
+    <summary type="text">Editor’s Note: This advisory was updated on Feb. 9, 2026, to reflect NASA’ s new launch coverage plans for the agency’s SpaceX Crew-12 mission. Teams now are</summary>
   </entry>
   <entry>
     <title>NASA Selects Two Earth System Explorers Missions - NASA</title>
@@ -45,16 +45,16 @@
     <summary type="text">Sign up to receive NASA news releases and other information.</summary>
   </entry>
   <entry>
+    <title>Expedition 74 Works Research Gear, Soyuz Training as NASA Adjusts Crew-12 Launch Date - NASA</title>
+    <link href="https://www.nasa.gov/blogs/spacestation/2026/02/09/expedition-74-works-research-gear-soyuz-training-as-nasa-adjusts-crew-12-launch-date/"/>
+    <id>https://www.nasa.gov/blogs/spacestation/2026/02/09/expedition-74-works-research-gear-soyuz-training-as-nasa-adjusts-crew-12-launch-date/</id>
+    <summary type="text">Expedition 74 began the week setting up pharmaceutical and exercise research hardware continuing ongoing studies to advance human health on and off the Earth. The orbital trio aboard the International Space Station also simulated a quick return to Earth scenario aboard the Soyuz spacecraft as NASA’s SpaceX Crew-12 mission targets a new launch date.</summary>
+  </entry>
+  <entry>
     <title>Week Ends with Dragon Preps, Space Physics, and Human Research - NASA</title>
     <link href="https://www.nasa.gov/blogs/spacestation/2026/02/06/week-ends-with-dragon-preps-space-physics-and-human-research/"/>
     <id>https://www.nasa.gov/blogs/spacestation/2026/02/06/week-ends-with-dragon-preps-space-physics-and-human-research/</id>
     <summary type="text">Expedition 74 wrapped up the week with more preparations for the upcoming launch and arrival of NASA’s SpaceX Crew-12 mission. The orbital trio also studied space physics and human research while resupplying and inventorying lab supplies and tools aboard the International Space Station.</summary>
-  </entry>
-  <entry>
-    <title>Dragon Preps, Artificial Intelligence, and Medical Gear Fill Crew’s Day - NASA</title>
-    <link href="https://www.nasa.gov/blogs/spacestation/2026/02/05/dragon-preps-artificial-intelligence-and-medical-gear-fill-crews-day/"/>
-    <id>https://www.nasa.gov/blogs/spacestation/2026/02/05/dragon-preps-artificial-intelligence-and-medical-gear-fill-crews-day/</id>
-    <summary type="text">SpaceX Dragon arrival preparations and artificial intelligence research to improve crew operations continued aboard the International Space Station on Thursday. The Expedition 74 crew also checked out new medical hardware and trained to use emergency gear while keeping up orbital lab maintenance.</summary>
   </entry>
   <entry>
     <title>NASA’s Perseverance Rover Completes First AI-Planned Drive on Mars</title>
@@ -189,6 +189,12 @@
     <summary type="text">email: media @ esa.int (Uniquement les demandes de la presse)</summary>
   </entry>
   <entry>
+    <title>January 2026 Company Update</title>
+    <link href="https://www.relativityspace.com/press-release/2026/2/6/january-2026-company-updatenbspnbsp"/>
+    <id>https://www.relativityspace.com/press-release/2026/2/6/january-2026-company-updatenbspnbsp</id>
+    <summary type="text">January marked a strong start to the year, with meaningful progress across design, build, test, and launch.   Design  This month, the team released 1,856 flight parts. At this stage of the program, part releases are primarily for secondary structures and integration hardware that will be installed l</summary>
+  </entry>
+  <entry>
     <title>December 2025 Company Update</title>
     <link href="https://www.relativityspace.com/press-release/2026/1/12/december-2025-company-update"/>
     <id>https://www.relativityspace.com/press-release/2026/1/12/december-2025-company-update</id>
@@ -205,11 +211,5 @@
     <link href="https://www.relativityspace.com/press-release/2025/11/6/ses-relativity-space-expand-multi-launch-agreement-for-terran-rnbsp"/>
     <id>https://www.relativityspace.com/press-release/2025/11/6/ses-relativity-space-expand-multi-launch-agreement-for-terran-rnbsp</id>
     <summary type="text">New contract adds launch services for SES’s GEO or MEO satellites&amp;nbsp;</summary>
-  </entry>
-  <entry>
-    <title>October 2025 Company Update</title>
-    <link href="https://www.relativityspace.com/press-release/2025/11/10/october-2025-company-update"/>
-    <id>https://www.relativityspace.com/press-release/2025/11/10/october-2025-company-update</id>
-    <summary type="text">As Terran R development continues to advance, we’re excited to share updates from October across design, build, test, and launch.   Design  This month, the team completed 11 component-level critical design reviews. Significant focus was placed on second stage fluids components, and the team successf</summary>
   </entry>
 </feed>

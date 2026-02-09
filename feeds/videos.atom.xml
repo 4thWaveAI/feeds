@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.atom.xml"/>
   <id>urn:4thwaveai-feeds:videos</id>
-  <updated>Mon, 09 Feb 2026 17:50:31 +0000</updated>
+  <updated>Mon, 09 Feb 2026 20:01:50 +0000</updated>
   <entry>
     <title>NASA’s Perseverance Rover Completes First AI-Planned Drive on Mars</title>
     <link href="https://www.jpl.nasa.gov/news/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/"/>
@@ -18,6 +18,12 @@
     <summary type="text">Artemis missions rely on both the Near Space Network, managed by NASA Goddard, and the Deep Space Network, managed by the Jet Propulsion Laboratory.</summary>
   </entry>
   <entry>
+    <title>January 2026 Company Update</title>
+    <link href="https://www.relativityspace.com/press-release/2026/2/6/january-2026-company-updatenbspnbsp"/>
+    <id>https://www.relativityspace.com/press-release/2026/2/6/january-2026-company-updatenbspnbsp</id>
+    <summary type="text">January marked a strong start to the year, with meaningful progress across design, build, test, and launch.   Design  This month, the team released 1,856 flight parts. At this stage of the program, part releases are primarily for secondary structures and integration hardware that will be installed l</summary>
+  </entry>
+  <entry>
     <title>December 2025 Company Update</title>
     <link href="https://www.relativityspace.com/press-release/2026/1/12/december-2025-company-update"/>
     <id>https://www.relativityspace.com/press-release/2026/1/12/december-2025-company-update</id>
@@ -28,11 +34,5 @@
     <link href="https://www.relativityspace.com/press-release/2025/12/5/november-2025-company-update"/>
     <id>https://www.relativityspace.com/press-release/2025/12/5/november-2025-company-update</id>
     <summary type="text">Throughout November, the Terran R program made key advancements across design, build, test, and launch operations.   Design  As the program continues to mature, we are releasing larger groups of parts through our design sprints. In November, we released 1,602 parts, unlocking downstream manufacturin</summary>
-  </entry>
-  <entry>
-    <title>October 2025 Company Update</title>
-    <link href="https://www.relativityspace.com/press-release/2025/11/10/october-2025-company-update"/>
-    <id>https://www.relativityspace.com/press-release/2025/11/10/october-2025-company-update</id>
-    <summary type="text">As Terran R development continues to advance, we’re excited to share updates from October across design, build, test, and launch.   Design  This month, the team completed 11 component-level critical design reviews. Significant focus was placed on second stage fluids components, and the team successf</summary>
   </entry>
 </feed>
