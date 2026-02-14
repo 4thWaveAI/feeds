@@ -5,6 +5,44 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.json",
   "items": [
     {
+      "id": "https://www.jpl.nasa.gov/news/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/",
+      "title": "NASA’s Perseverance Rover Completes First AI-Planned Drive on Mars",
+      "content_text": "The team for the six-wheeled scientist used a vision-capable AI to create a safe route over the Red Planet’s surface without the input of human route planners.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1_-_PIA26647_-_Navcam_Drive_Video_THUMB.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/LO2GluKu4C8?list=PLTiv_XWHnOZqCrMU2ppcLjRn1zlDkNx3q",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/networks-keeping-nasas-artemis-ii-mission-connected/",
+      "url": "https://www.jpl.nasa.gov/news/networks-keeping-nasas-artemis-ii-mission-connected/",
+      "title": "Networks Keeping NASA’s Artemis II Mission Connected",
+      "content_text": "Artemis missions rely on both the Near Space Network, managed by NASA Goddard, and the Deep Space Network, managed by the Jet Propulsion Laboratory.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/artemis-ii-cn-hero-widescreen-right-72ppi.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/keeping-nasas-artemis-ii-mission-connected-web.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.relativityspace.com/press-release/2026/2/6/january-2026-company-updatenbspnbsp",
       "url": "https://www.relativityspace.com/press-release/2026/2/6/january-2026-company-updatenbspnbsp",
       "title": "January 2026 Company Update",
