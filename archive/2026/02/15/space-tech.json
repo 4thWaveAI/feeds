@@ -1,0 +1,445 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "4thWave AI — Space Tech (Aggregated)",
+  "home_page_url": "https://www.4thwaveai.com",
+  "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.json",
+  "items": [
+    {
+      "id": "https://www.nasa.gov/news/recently-published/",
+      "url": "https://www.nasa.gov/news/recently-published/",
+      "title": "All NASA News - NASA",
+      "content_text": "Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news/media-contacts/",
+      "url": "https://www.nasa.gov/news/media-contacts/",
+      "title": "NASA Media Contacts - NASA",
+      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Tiernan Doyle",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news/",
+      "url": "https://www.nasa.gov/news/",
+      "title": "NASA News",
+      "content_text": "Resources for news media, including NASA news contacts and archived news material",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/05/54492396655-c6ba83df1d-o-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-launches-to-international-space-station/",
+      "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-launches-to-international-space-station/",
+      "title": "NASA’s SpaceX Crew-12 Launches to International Space Station - NASA",
+      "content_text": "Four crew members of NASA’s SpaceX Crew-12 mission launched at 5:15 a.m. EST Friday from Space Launch Complex 40 at Cape Canaveral Space Force Station in",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/02/nasa-spacex-crew-12-launch-2.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/2026-news-releases/",
+      "url": "https://www.nasa.gov/2026-news-releases/",
+      "title": "2026 News Releases - NASA",
+      "content_text": "Sign up to receive NASA news releases and other information.",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/NHQ202512200038/NHQ202512200038~large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/02/14/dragon-hatches-open-crew-12-enters-station-and-joins-expedition-74/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/02/14/dragon-hatches-open-crew-12-enters-station-and-joins-expedition-74/",
+      "title": "Dragon Hatches Open, Crew-12 Enters Station and Joins Expedition 74 - NASA",
+      "content_text": "NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev entered the International Space Station at 5 p.m. EST after opening the hatches between the space station and the SpaceX Dragon spacecraft.",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/02/exp74-crew-greeting-021426.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/02/14/spacex-crew-12-docks-to-station-beginning-long-duration-mission/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/02/14/spacex-crew-12-docks-to-station-beginning-long-duration-mission/",
+      "title": "SpaceX Crew-12 Docks to Station Beginning Long-Duration Mission - NASA",
+      "content_text": "NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev arrived at the International Space Station as the SpaceX Dragon spacecraft docked with the orbiting complex at 3:15 p.m. EST.",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/02/blog-spacex-dragon-dock-021426.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/archival-data-from-nasas-neowise-tracks-star-turning-into-black-hole/",
+      "url": "https://www.jpl.nasa.gov/news/archival-data-from-nasas-neowise-tracks-star-turning-into-black-hole/",
+      "title": "Archival Data From NASA’s NEOWISE Tracks Star Turning Into Black Hole",
+      "content_text": "Researchers used data from the now-retired spacecraft and other space and ground-based observatories helped to piece together the mystery of a ‘failed’ supernova.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/M31_BlackHole_Wide_MAIN.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/",
+      "title": "NASA’s Perseverance Rover Completes First AI-Planned Drive on Mars",
+      "content_text": "The team for the six-wheeled scientist used a vision-capable AI to create a safe route over the Red Planet’s surface without the input of human route planners.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1_-_PIA26647_-_Navcam_Drive_Video_THUMB.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/LO2GluKu4C8?list=PLTiv_XWHnOZqCrMU2ppcLjRn1zlDkNx3q",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasa-isro-radar-mission-peers-through-clouds-to-see-mississippi-river-delta/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-isro-radar-mission-peers-through-clouds-to-see-mississippi-river-delta/",
+      "title": "NASA-ISRO Radar Mission Peers Through Clouds to See Mississippi River Delta",
+      "content_text": "A new image from the NISAR mission shows off the satellite’s ability to reveal details of Earth’s surfaces. The science team also released new sample data.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26620-NISAR-NOLA-web.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasa-analysis-shows-la-nina-limited-sea-level-rise-in-2025/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-analysis-shows-la-nina-limited-sea-level-rise-in-2025/",
+      "title": "NASA Analysis Shows La Niña Limited Sea Level Rise in 2025",
+      "content_text": "A mild La Niña caused greater rainfall over the Amazon basin, which offset rising sea levels due to record warming of Earth’s oceans.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-ss071e449837large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/networks-keeping-nasas-artemis-ii-mission-connected/",
+      "url": "https://www.jpl.nasa.gov/news/networks-keeping-nasas-artemis-ii-mission-connected/",
+      "title": "Networks Keeping NASA’s Artemis II Mission Connected",
+      "content_text": "Artemis missions rely on both the Near Space Network, managed by NASA Goddard, and the Deep Space Network, managed by the Jet Propulsion Laboratory.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/artemis-ii-cn-hero-widescreen-right-72ppi.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/keeping-nasas-artemis-ii-mission-connected-web.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasas-juno-measures-thickness-of-europas-ice-shell/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-juno-measures-thickness-of-europas-ice-shell/",
+      "title": "NASA’s Juno Measures Thickness of Europa’s Ice Shell",
+      "content_text": "Results from the solar-powered spacecraft provide a new measurement of the thickness of the ice shell encasing the Jovian moon’s ocean.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1_-_PIA26331_-_Europa_JunoCam_6solgdm.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/how-nasa-is-homing-in-from-space-on-ocean-debris/",
+      "url": "https://www.jpl.nasa.gov/news/how-nasa-is-homing-in-from-space-on-ocean-debris/",
+      "title": "How NASA Is Homing in From Space on Ocean Debris",
+      "content_text": "Space-based technology could help track plastic and other flotsam by its ‘fingerprints.’",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-Hawaii_beach_litter.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasa-reveals-new-details-about-dark-matters-influence-on-universe/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-reveals-new-details-about-dark-matters-influence-on-universe/",
+      "title": "NASA Reveals New Details About Dark Matter’s Influence on Universe",
+      "content_text": "With the Webb telescope’s unprecedented sensitivity, scientists are learning more about dark matter’s influence on stars, galaxies, and even planets like Earth.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26702.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/",
+      "title": "NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans",
+      "content_text": "Sentinel-6B will extend a decades-long legacy of global sea level measurements that help forecast weather, protect coastal communities, and more.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/748F9F2D-938C-4BBF-9CC6-F610BCA67154_1_201_a.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/",
+      "url": "https://www.jpl.nasa.gov/news/",
+      "title": "News",
+      "content_text": "NASA's Jet Propulsion Laboratory, the leading center for robotic exploration of the solar system.",
+      "attachments": [
+        {
+          "url": "https://www.jpl.nasa.gov/img/og.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Uniquement les demandes de la presse)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2026/2/6/january-2026-company-updatenbspnbsp",
+      "url": "https://www.relativityspace.com/press-release/2026/2/6/january-2026-company-updatenbspnbsp",
+      "title": "January 2026 Company Update",
+      "content_text": "January marked a strong start to the year, with meaningful progress across design, build, test, and launch.   Design  This month, the team released 1,856 flight parts. At this stage of the program, part releases are primarily for secondary structures and integration hardware that will be installed l",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/GMmUCL79GRs",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2026/1/12/december-2025-company-update",
+      "url": "https://www.relativityspace.com/press-release/2026/1/12/december-2025-company-update",
+      "title": "December 2025 Company Update",
+      "content_text": "As we start the new year, here’s a look at key Terran R program milestones from December 2025.&nbsp;   Design  This month, the team released 1,526 flight parts and the integrated thrust structure fluids assembly, unlocking downstream manufacturing and keeping the integration schedule moving at p",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/NyQqJqE3OWM",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2025/12/5/november-2025-company-update",
+      "url": "https://www.relativityspace.com/press-release/2025/12/5/november-2025-company-update",
+      "title": "November 2025 Company Update",
+      "content_text": "Throughout November, the Terran R program made key advancements across design, build, test, and launch operations.   Design  As the program continues to mature, we are releasing larger groups of parts through our design sprints. In November, we released 1,602 parts, unlocking downstream manufacturin",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/tOkO-MrPGhg",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2025/11/6/ses-relativity-space-expand-multi-launch-agreement-for-terran-rnbsp",
+      "url": "https://www.relativityspace.com/press-release/2025/11/6/ses-relativity-space-expand-multi-launch-agreement-for-terran-rnbsp",
+      "title": "SES, Relativity Space Expand Multi-Launch Agreement for Terran R",
+      "content_text": "New contract adds launch services for SES’s GEO or MEO satellites&nbsp;",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/5cf1a83979ebbe0001a69fc7/690d29228a68ad1fa2014d10/1762960656531/Square+RSxSES.png?format=1500w",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    }
+  ]
+}
