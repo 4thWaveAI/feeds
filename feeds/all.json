@@ -44,6 +44,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-artemis-ii-wet-dress-rehearsal/",
+      "url": "https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-artemis-ii-wet-dress-rehearsal/",
+      "title": "NASA to Provide Coverage of Artemis II Wet Dress Rehearsal - NASA",
+      "content_text": "As NASA continues preparations for the Artemis II test flight, the agency will provide coverage Thursday, Feb. 19, of its next wet dress rehearsal, a fueling",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/02/55081705156-0055a0332d-k.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/2026-news-releases/",
       "url": "https://www.nasa.gov/2026-news-releases/",
       "title": "2026 News Releases - NASA",
@@ -51,6 +66,21 @@
       "attachments": [
         {
           "url": "https://images-assets.nasa.gov/image/NHQ202512200038/NHQ202512200038~large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/02/18/new-expedition-74-foursome-kicks-off-science-gets-used-to-space/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/02/18/new-expedition-74-foursome-kicks-off-science-gets-used-to-space/",
+      "title": "New Expedition 74 Foursome Kicks off Science, Gets Used to Space - NASA",
+      "content_text": "Vein scans and pharmaceutical research topped the science schedule aboard the International Space Station on Wednesday. The Expedition 74 crew rounded out the day with Dragon cargo transfers, lab familiarization activities, and life support maintenance duties.",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/iss074e0314160/iss074e0314160~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -74,24 +104,9 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/02/14/dragon-hatches-open-crew-12-enters-station-and-joins-expedition-74/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/02/14/dragon-hatches-open-crew-12-enters-station-and-joins-expedition-74/",
-      "title": "Dragon Hatches Open, Crew-12 Enters Station and Joins Expedition 74 - NASA",
-      "content_text": "NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev entered the International Space Station at 5 p.m. EST after opening the hatches between the space station and the SpaceX Dragon spacecraft.",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/02/exp74-crew-greeting-021426.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.jpl.nasa.gov/news/nasas-perseverance-now-autonomously-pinpoints-its-location-on-mars/",
       "url": "https://www.jpl.nasa.gov/news/nasas-perseverance-now-autonomously-pinpoints-its-location-on-mars/",
-      "title": "NASA Gives Perseverance Rover \"GPS\" for Autonomous Mars Driving",
+      "title": "NASA’s Perseverance Now Autonomously Pinpoints Its Location on Mars",
       "content_text": "Using the new Mars Global Localization algorithm, NASA’s Perseverance rover can now pinpoint its exact location without help from engineers on Earth.",
       "attachments": [
         {
