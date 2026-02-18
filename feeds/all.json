@@ -89,6 +89,25 @@
       ]
     },
     {
+      "id": "https://www.jpl.nasa.gov/news/nasas-perseverance-now-autonomously-pinpoints-its-location-on-mars/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-perseverance-now-autonomously-pinpoints-its-location-on-mars/",
+      "title": "NASA Gives Perseverance Rover \"GPS\" for Autonomous Mars Driving",
+      "content_text": "Using the new Mars Global Localization algorithm, NASA’s Perseverance rover can now pinpoint its exact location without help from engineers on Earth.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/e1-PIA26704-sol1762-nav-pano.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/e2-PIA26705_navcam_orthomosaic.webm",
+          "mime_type": "video/webm"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/archival-data-from-nasas-neowise-tracks-star-turning-into-black-hole/",
       "url": "https://www.jpl.nasa.gov/news/archival-data-from-nasas-neowise-tracks-star-turning-into-black-hole/",
       "title": "How Do Black Holes Form? NASA Finds Rare \"Failed\" Supernova",
@@ -202,21 +221,6 @@
       ]
     },
     {
-      "id": "https://www.jpl.nasa.gov/news/nasa-reveals-new-details-about-dark-matters-influence-on-universe/",
-      "url": "https://www.jpl.nasa.gov/news/nasa-reveals-new-details-about-dark-matters-influence-on-universe/",
-      "title": "NASA Reveals New Details About Dark Matter’s Influence on Universe",
-      "content_text": "With the Webb telescope’s unprecedented sensitivity, scientists are learning more about dark matter’s influence on stars, galaxies, and even planets like Earth.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26702.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/",
       "url": "https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/",
       "title": "NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans",
@@ -242,6 +246,114 @@
           "mime_type": "image/png"
         }
       ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Uniquement les demandes de la presse)",
       "tags": [
         "space-tech"
       ]

@@ -5,6 +5,25 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.json",
   "items": [
     {
+      "id": "https://www.jpl.nasa.gov/news/nasas-perseverance-now-autonomously-pinpoints-its-location-on-mars/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-perseverance-now-autonomously-pinpoints-its-location-on-mars/",
+      "title": "NASA Gives Perseverance Rover \"GPS\" for Autonomous Mars Driving",
+      "content_text": "Using the new Mars Global Localization algorithm, NASA’s Perseverance rover can now pinpoint its exact location without help from engineers on Earth.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/e1-PIA26704-sol1762-nav-pano.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/e2-PIA26705_navcam_orthomosaic.webm",
+          "mime_type": "video/webm"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/",
       "url": "https://www.jpl.nasa.gov/news/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/",
       "title": "NASA Uses Generative AI to Navigate Mars with Perseverance Rover",
