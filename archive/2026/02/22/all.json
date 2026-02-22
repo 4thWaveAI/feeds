@@ -1,0 +1,491 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "4thWave AI — All Areas (Aggregated)",
+  "home_page_url": "https://www.4thwaveai.com",
+  "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
+  "items": [
+    {
+      "id": "https://www.nasa.gov/news/recently-published/",
+      "url": "https://www.nasa.gov/news/recently-published/",
+      "title": "All NASA News - NASA",
+      "content_text": "Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news/media-contacts/",
+      "url": "https://www.nasa.gov/news/media-contacts/",
+      "title": "NASA Media Contacts - NASA",
+      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Tiernan Doyle",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news/",
+      "url": "https://www.nasa.gov/news/",
+      "title": "NASA News",
+      "content_text": "Resources for news media, including NASA news contacts and archived news material",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/05/54492396655-c6ba83df1d-o-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-releases-report-on-starliner-crewed-flight-test-investigation/",
+      "url": "https://www.nasa.gov/news-release/nasa-releases-report-on-starliner-crewed-flight-test-investigation/",
+      "title": "NASA Releases Report on Starliner Crewed Flight Test Investigation - NASA",
+      "content_text": "At a news conference on Thursday, NASA released a report of findings from the Program Investigation Team examining the Boeing CST-100",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2024/08/iss071e265103orig.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-to-provide-starliner-crew-flight-test-review-findings-today/",
+      "url": "https://www.nasa.gov/news-release/nasa-to-provide-starliner-crew-flight-test-review-findings-today/",
+      "title": "NASA to Provide Starliner Crew Flight Test Review Findings Today - NASA",
+      "content_text": "During a news conference at 2 p.m. EST on Thursday NASA will discuss the findings of investigations into the 2024 crewed test flight of Boeing Starliner to",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/09/nasa-meatball-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/2026-news-releases/",
+      "url": "https://www.nasa.gov/2026-news-releases/",
+      "title": "2026 News Releases - NASA",
+      "content_text": "Sign up to receive NASA news releases and other information.",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/NHQ202512200038/NHQ202512200038~large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/02/20/cardiac-respiratory-and-exercise-research-wrap-week-aboard-station/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/02/20/cardiac-respiratory-and-exercise-research-wrap-week-aboard-station/",
+      "title": "Cardiac, Respiratory, and Exercise Research Wrap Week Aboard Station - NASA",
+      "content_text": "The Expedition 74 crew wrapped up the week with cardiac and respiratory studies and conducting space exercise research to keep astronauts healthy off the Earth. The International Space Station residents also packed a SpaceX Dragon cargo spacecraft before its return to Earth and maintained science and life support hardware.",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/iss074e0315895/iss074e0315895~large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/02/19/thursday-packed-with-human-research-as-stations-orbit-is-boosted/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/02/19/thursday-packed-with-human-research-as-stations-orbit-is-boosted/",
+      "title": "Thursday Packed With Human Research as Station’s Orbit is Boosted - NASA",
+      "content_text": "Relaxation, exercise, and biomedical studies were the key research objectives for the Expedition 74 crew on Thursday as NASA and its partners investigate ways to keep astronauts healthy on long-term missions. The International Space Station is also orbiting higher after the docked Progress 93 cargo craft fired its thrusters on Wednesday.",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/iss074e0314139/iss074e0314139~large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasas-perseverance-now-autonomously-pinpoints-its-location-on-mars/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-perseverance-now-autonomously-pinpoints-its-location-on-mars/",
+      "title": "NASA’s Perseverance Now Autonomously Pinpoints Its Location on Mars",
+      "content_text": "Using the new Mars Global Localization algorithm, NASA’s Perseverance rover can now pinpoint its exact location without help from engineers on Earth.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/e1-PIA26704-sol1762-nav-pano.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/e2-PIA26705_navcam_orthomosaic.webm",
+          "mime_type": "video/webm"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/archival-data-from-nasas-neowise-tracks-star-turning-into-black-hole/",
+      "url": "https://www.jpl.nasa.gov/news/archival-data-from-nasas-neowise-tracks-star-turning-into-black-hole/",
+      "title": "How Do Black Holes Form? NASA Finds Rare \"Failed\" Supernova",
+      "content_text": "Using archival data from the NEOWISE mission, astronomers have captured the rare moment a massive star skipped the supernova phase and collapsed directly into a black hole.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/M31_BlackHole_Wide_MAIN.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/",
+      "title": "NASA Uses Generative AI to Navigate Mars with Perseverance Rover",
+      "content_text": "In a first for planetary exploration, NASA utilized generative AI to map routes for the Perseverance rover, cutting planning time and increasing science returns.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1_-_PIA26647_-_Navcam_Drive_Video_THUMB.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/LO2GluKu4C8?list=PLTiv_XWHnOZqCrMU2ppcLjRn1zlDkNx3q",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasa-isro-radar-mission-peers-through-clouds-to-see-mississippi-river-delta/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-isro-radar-mission-peers-through-clouds-to-see-mississippi-river-delta/",
+      "title": "NISAR Satellite: NASA & ISRO Radar Peers Through Clouds",
+      "content_text": "NASA’s NISAR mission reveals new details of the Mississippi River Delta’s forests and wetlands, proving radar’s power to monitor ecosystems regardless of weather.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26620-NISAR-NOLA-web.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasa-analysis-shows-la-nina-limited-sea-level-rise-in-2025/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-analysis-shows-la-nina-limited-sea-level-rise-in-2025/",
+      "title": "NASA Analysis Shows La Niña Limited Sea Level Rise in 2025",
+      "content_text": "A mild La Niña caused greater rainfall over the Amazon basin, which offset rising sea levels due to record warming of Earth’s oceans.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-ss071e449837large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/networks-keeping-nasas-artemis-ii-mission-connected/",
+      "url": "https://www.jpl.nasa.gov/news/networks-keeping-nasas-artemis-ii-mission-connected/",
+      "title": "Networks Keeping NASA’s Artemis II Mission Connected",
+      "content_text": "Artemis missions rely on both the Near Space Network, managed by NASA Goddard, and the Deep Space Network, managed by the Jet Propulsion Laboratory.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/artemis-ii-cn-hero-widescreen-right-72ppi.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/keeping-nasas-artemis-ii-mission-connected-web.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasas-juno-measures-thickness-of-europas-ice-shell/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-juno-measures-thickness-of-europas-ice-shell/",
+      "title": "NASA’s Juno Measures Thickness of Europa’s Ice Shell",
+      "content_text": "Results from the solar-powered spacecraft provide a new measurement of the thickness of the ice shell encasing the Jovian moon’s ocean.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1_-_PIA26331_-_Europa_JunoCam_6solgdm.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/how-nasa-is-homing-in-from-space-on-ocean-debris/",
+      "url": "https://www.jpl.nasa.gov/news/how-nasa-is-homing-in-from-space-on-ocean-debris/",
+      "title": "How NASA Is Homing in From Space on Ocean Debris",
+      "content_text": "Space-based technology could help track plastic and other flotsam by its ‘fingerprints.’",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-Hawaii_beach_litter.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/",
+      "title": "NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans",
+      "content_text": "Sentinel-6B will extend a decades-long legacy of global sea level measurements that help forecast weather, protect coastal communities, and more.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/748F9F2D-938C-4BBF-9CC6-F610BCA67154_1_201_a.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/",
+      "url": "https://www.jpl.nasa.gov/news/",
+      "title": "News",
+      "content_text": "NASA's Jet Propulsion Laboratory, the leading center for robotic exploration of the solar system.",
+      "attachments": [
+        {
+          "url": "https://www.jpl.nasa.gov/img/og.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.rocketlabusa.com/updates/",
+      "url": "https://www.rocketlabusa.com/updates/",
+      "title": "News | Rocket Lab",
+      "content_text": "Keep up with the latest from Rocket Lab.",
+      "attachments": [
+        {
+          "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.rocketlabusa.com/updates/6-reasons-a-mars-telecommunications-orbiter-matters-to-us-all/",
+      "url": "https://www.rocketlabusa.com/updates/6-reasons-a-mars-telecommunications-orbiter-matters-to-us-all/",
+      "title": "6 Reasons A Mars Telecommunications Orbiter Matters To Us All  | Rocket Lab",
+      "content_text": "6 Reasons A Mars Telecommunications Orbiter Matters To Us All",
+      "attachments": [
+        {
+          "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.rocketlabusa.com/updates/rocket-lab-prepares-to-launch-latest-hypersonic-test-mission-for-defense-innovation-unit/",
+      "url": "https://www.rocketlabusa.com/updates/rocket-lab-prepares-to-launch-latest-hypersonic-test-mission-for-defense-innovation-unit/",
+      "title": "Rocket Lab Prepares To Launch Latest Hypersonic Test Mission for Defense Innovation Unit | Rocket Lab",
+      "content_text": "Long Beach, Calif. February 12, 2026: Rocket Lab Corporation (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced its next launch is a dedicated mission on its HASTE rocket for the Department of War’s Defense Innovation Unit (DIU).",
+      "attachments": [
+        {
+          "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.rocketlabusa.com/updates/mission-success-rocket-lab-launches-korean-earth-imaging-satellite-completes-2nd-launch-in-8-days/",
+      "url": "https://www.rocketlabusa.com/updates/mission-success-rocket-lab-launches-korean-earth-imaging-satellite-completes-2nd-launch-in-8-days/",
+      "title": "Mission Success: Rocket Lab Launches Korean Earth-Imaging Satellite, Completes 2nd Launch in 8 Days | Rocket Lab",
+      "content_text": "Long Beach, Calif. January 30, 2026: Rocket Lab Corporation (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today successfully launched its 81st Electron rocket and second launch in eight days to deploy a satellite for an Earth-observation…",
+      "attachments": [
+        {
+          "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.rocketlabusa.com/updates/new-blog-post-27/",
+      "url": "https://www.rocketlabusa.com/updates/new-blog-post-27/",
+      "title": "Rocket Lab’s Hungry Hippo Fairing Arrives at Virginia Launch Site Ahead of First Neutron Flight  | Rocket Lab",
+      "content_text": "Long Beach, California. January 26, 2026 – Rocket Lab Corporation (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced the arrival of its “Hungry Hippo” captive fairing – a world-first for a commercial rocket – to Virginia for its…",
+      "attachments": [
+        {
+          "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.rocketlabusa.com/updates/rocket-lab-neutron-test-update/",
+      "url": "https://www.rocketlabusa.com/updates/rocket-lab-neutron-test-update/",
+      "title": "Rocket Lab Neutron Test Update | Rocket Lab",
+      "content_text": "Long Beach, Calif. January 21, 2026: Rocket Lab Corporation (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced an update relating to the development of its Neutron rocket.",
+      "attachments": [
+        {
+          "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2026/2/6/january-2026-company-updatenbspnbsp",
+      "url": "https://www.relativityspace.com/press-release/2026/2/6/january-2026-company-updatenbspnbsp",
+      "title": "January 2026 Company Update",
+      "content_text": "January marked a strong start to the year, with meaningful progress across design, build, test, and launch.   Design  This month, the team released 1,856 flight parts. At this stage of the program, part releases are primarily for secondary structures and integration hardware that will be installed l",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/GMmUCL79GRs",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2026/1/12/december-2025-company-update",
+      "url": "https://www.relativityspace.com/press-release/2026/1/12/december-2025-company-update",
+      "title": "December 2025 Company Update",
+      "content_text": "As we start the new year, here’s a look at key Terran R program milestones from December 2025.&nbsp;   Design  This month, the team released 1,526 flight parts and the integrated thrust structure fluids assembly, unlocking downstream manufacturing and keeping the integration schedule moving at p",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/NyQqJqE3OWM",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2025/12/5/november-2025-company-update",
+      "url": "https://www.relativityspace.com/press-release/2025/12/5/november-2025-company-update",
+      "title": "November 2025 Company Update",
+      "content_text": "Throughout November, the Terran R program made key advancements across design, build, test, and launch operations.   Design  As the program continues to mature, we are releasing larger groups of parts through our design sprints. In November, we released 1,602 parts, unlocking downstream manufacturin",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/tOkO-MrPGhg",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2025/11/6/ses-relativity-space-expand-multi-launch-agreement-for-terran-rnbsp",
+      "url": "https://www.relativityspace.com/press-release/2025/11/6/ses-relativity-space-expand-multi-launch-agreement-for-terran-rnbsp",
+      "title": "SES, Relativity Space Expand Multi-Launch Agreement for Terran R",
+      "content_text": "New contract adds launch services for SES’s GEO or MEO satellites&nbsp;",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/5cf1a83979ebbe0001a69fc7/690d29228a68ad1fa2014d10/1762960656531/Square+RSxSES.png?format=1500w",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.sda.mil/home/news/",
+      "url": "https://www.sda.mil/home/news/",
+      "title": "NEWS – Space Development Agency",
+      "content_text": "NEWS – Space Development Agency",
+      "tags": [
+        "space-force"
+      ]
+    },
+    {
+      "id": "https://www.sda.mil/home/news/news-releases/",
+      "url": "https://www.sda.mil/home/news/news-releases/",
+      "title": "News Releases – Space Development Agency",
+      "content_text": "News Releases – Space Development Agency",
+      "tags": [
+        "space-force"
+      ]
+    },
+    {
+      "id": "https://www.sda.mil/home/news/page/2/",
+      "url": "https://www.sda.mil/home/news/page/2/",
+      "title": "NEWS – Page 2 – Space Development Agency",
+      "content_text": "NEWS – Page 2 – Space Development Agency",
+      "tags": [
+        "space-force"
+      ]
+    },
+    {
+      "id": "https://www.sda.mil/home/news/page/3/",
+      "url": "https://www.sda.mil/home/news/page/3/",
+      "title": "NEWS – Page 3 – Space Development Agency",
+      "content_text": "NEWS – Page 3 – Space Development Agency",
+      "tags": [
+        "space-force"
+      ]
+    },
+    {
+      "id": "https://www.sda.mil/home/news/page/5/",
+      "url": "https://www.sda.mil/home/news/page/5/",
+      "title": "NEWS – Page 5 – Space Development Agency",
+      "content_text": "NEWS – Page 5 – Space Development Agency",
+      "tags": [
+        "space-force"
+      ]
+    }
+  ]
+}

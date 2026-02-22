@@ -1,0 +1,122 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "4thWave AI — Videos (Aggregated)",
+  "home_page_url": "https://www.4thwaveai.com",
+  "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.json",
+  "items": [
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasas-perseverance-now-autonomously-pinpoints-its-location-on-mars/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-perseverance-now-autonomously-pinpoints-its-location-on-mars/",
+      "title": "NASA’s Perseverance Now Autonomously Pinpoints Its Location on Mars",
+      "content_text": "Using the new Mars Global Localization algorithm, NASA’s Perseverance rover can now pinpoint its exact location without help from engineers on Earth.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/e1-PIA26704-sol1762-nav-pano.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/e2-PIA26705_navcam_orthomosaic.webm",
+          "mime_type": "video/webm"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/",
+      "title": "NASA Uses Generative AI to Navigate Mars with Perseverance Rover",
+      "content_text": "In a first for planetary exploration, NASA utilized generative AI to map routes for the Perseverance rover, cutting planning time and increasing science returns.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1_-_PIA26647_-_Navcam_Drive_Video_THUMB.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/LO2GluKu4C8?list=PLTiv_XWHnOZqCrMU2ppcLjRn1zlDkNx3q",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/networks-keeping-nasas-artemis-ii-mission-connected/",
+      "url": "https://www.jpl.nasa.gov/news/networks-keeping-nasas-artemis-ii-mission-connected/",
+      "title": "Networks Keeping NASA’s Artemis II Mission Connected",
+      "content_text": "Artemis missions rely on both the Near Space Network, managed by NASA Goddard, and the Deep Space Network, managed by the Jet Propulsion Laboratory.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/artemis-ii-cn-hero-widescreen-right-72ppi.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/keeping-nasas-artemis-ii-mission-connected-web.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2026/2/6/january-2026-company-updatenbspnbsp",
+      "url": "https://www.relativityspace.com/press-release/2026/2/6/january-2026-company-updatenbspnbsp",
+      "title": "January 2026 Company Update",
+      "content_text": "January marked a strong start to the year, with meaningful progress across design, build, test, and launch.   Design  This month, the team released 1,856 flight parts. At this stage of the program, part releases are primarily for secondary structures and integration hardware that will be installed l",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/GMmUCL79GRs",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2026/1/12/december-2025-company-update",
+      "url": "https://www.relativityspace.com/press-release/2026/1/12/december-2025-company-update",
+      "title": "December 2025 Company Update",
+      "content_text": "As we start the new year, here’s a look at key Terran R program milestones from December 2025.&nbsp;   Design  This month, the team released 1,526 flight parts and the integrated thrust structure fluids assembly, unlocking downstream manufacturing and keeping the integration schedule moving at p",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/NyQqJqE3OWM",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2025/12/5/november-2025-company-update",
+      "url": "https://www.relativityspace.com/press-release/2025/12/5/november-2025-company-update",
+      "title": "November 2025 Company Update",
+      "content_text": "Throughout November, the Terran R program made key advancements across design, build, test, and launch operations.   Design  As the program continues to mature, we are releasing larger groups of parts through our design sprints. In November, we released 1,602 parts, unlocking downstream manufacturin",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/tOkO-MrPGhg",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    }
+  ]
+}
