@@ -89,13 +89,13 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/02/26/science-packed-dragon-departs-station-heads-for-splashdown/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/02/26/science-packed-dragon-departs-station-heads-for-splashdown/",
-      "title": "Science-Packed Dragon Departs Station, Heads for Splashdown - NASA",
-      "content_text": "At 12:05 p.m. EST, the unpiloted SpaceX Dragon spacecraft undocked from the forward-facing port of the International Space Station’s Harmony module following a command from ground controllers at SpaceX.",
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/02/27/dragon-returns-to-earth-more-cargo-preps-advanced-research-underway/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/02/27/dragon-returns-to-earth-more-cargo-preps-advanced-research-underway/",
+      "title": "Dragon Returns to Earth, More Cargo Preps, Advanced Research Underway - NASA",
+      "content_text": "A SpaceX Dragon spacecraft has returned to Earth filled with several thousand pounds of science experiments and lab hardware for retrieval and analysis completing a six-month stay at the International Space Station. The Expedition 74 crew now turns its attention toward March when two more cargo spaceships depart the orbital outpost and complete their resupply missions. Meanwhile, advanced space biology and technology research wrapped up the week in space.",
       "attachments": [
         {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/02/spacex-dragon-crs33-undock-022626.jpg",
+          "url": "https://images-assets.nasa.gov/image/iss074e0333988/iss074e0333988~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -266,10 +266,109 @@
       ]
     },
     {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
       "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
       "title": "Press Releases",
       "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Uniquement les demandes de la presse)",
       "tags": [
         "space-tech"
       ]
