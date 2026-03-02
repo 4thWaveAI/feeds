@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Mon, 02 Mar 2026 16:41:53 +0000</updated>
+  <updated>Mon, 02 Mar 2026 17:42:56 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -27,6 +27,12 @@
     <updated>Wed, 07 Dec 2022 13:25:24 -0500</updated>
   </entry>
   <entry>
+    <title>NASA, JAXA to Cover HTV-X1 Spacecraft Departure from Space Station - NASA</title>
+    <link href="https://www.nasa.gov/news-release/nasa-jaxa-to-cover-htv-x1-spacecraft-departure-from-space-station/"/>
+    <id>https://www.nasa.gov/news-release/nasa-jaxa-to-cover-htv-x1-spacecraft-departure-from-space-station/</id>
+    <summary type="text">On Thursday, March 5, flight controllers will use the space station’s Canadarm2 robotic arm to detach HTV-X1 from the Harmony module’s Earth-facing port on</summary>
+  </entry>
+  <entry>
     <title>NASA Adds Mission to Artemis Lunar Program, Updates Architecture   - NASA</title>
     <link href="https://www.nasa.gov/news-release/nasa-adds-mission-to-artemis-lunar-program-updates-architecture/"/>
     <id>https://www.nasa.gov/news-release/nasa-adds-mission-to-artemis-lunar-program-updates-architecture/</id>
@@ -39,16 +45,16 @@
     <summary type="text">Sign up to receive NASA news releases and other information.</summary>
   </entry>
   <entry>
+    <title>Spacewalk and Japanese Cargo Craft Departure Preps Kick Off Week - NASA</title>
+    <link href="https://www.nasa.gov/blogs/spacestation/2026/03/02/spacewalk-and-japanese-cargo-craft-departure-preps-kick-off-week/"/>
+    <id>https://www.nasa.gov/blogs/spacestation/2026/03/02/spacewalk-and-japanese-cargo-craft-departure-preps-kick-off-week/</id>
+    <summary type="text">The Expedition 74 crew kicked off the work week readying a spacesuit and studying procedures for an upcoming spacewalk later this month. The International Space Station residents are also packing a Japanese cargo craft and preparing it for departure from the International Space Station at the end of the week.</summary>
+  </entry>
+  <entry>
     <title>Dragon Returns to Earth, More Cargo Preps, Advanced Research Underway - NASA</title>
     <link href="https://www.nasa.gov/blogs/spacestation/2026/02/27/dragon-returns-to-earth-more-cargo-preps-advanced-research-underway/"/>
     <id>https://www.nasa.gov/blogs/spacestation/2026/02/27/dragon-returns-to-earth-more-cargo-preps-advanced-research-underway/</id>
     <summary type="text">A SpaceX Dragon spacecraft has returned to Earth filled with several thousand pounds of science experiments and lab hardware for retrieval and analysis completing a six-month stay at the International Space Station. The Expedition 74 crew now turns its attention toward March when two more cargo spaceships depart the orbital outpost and complete their resupply missions. Meanwhile, advanced space biology and technology research wrapped up the week in space.</summary>
-  </entry>
-  <entry>
-    <title>Dragon Splashes Down and Returns Science, Cargo - NASA</title>
-    <link href="https://www.nasa.gov/blogs/spacestation/2026/02/27/dragon-splashes-down-and-returns-science-cargo/"/>
-    <id>https://www.nasa.gov/blogs/spacestation/2026/02/27/dragon-splashes-down-and-returns-science-cargo/</id>
-    <summary type="text">At 11:44 p.m. PST, the unpiloted SpaceX Dragon spacecraft splashed down off the coast of California, marking the return of the company’s 33rd Commercial Resupply Services mission to the International Space Station for NASA.</summary>
   </entry>
   <entry>
     <title>NASA’s Curiosity Rover Sees Martian ‘Spiderwebs’ Up Close</title>
