@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Wed, 04 Mar 2026 15:37:37 +0000</updated>
+  <updated>Wed, 04 Mar 2026 16:39:39 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -51,6 +51,12 @@
     <summary type="text">The Expedition 74 crew kicked off the work week readying a spacesuit and studying procedures for an upcoming spacewalk later this month. The International Space Station residents are also packing a Japanese cargo craft and preparing it for departure from the International Space Station at the end of the week.</summary>
   </entry>
   <entry>
+    <title>US-French Satellite Takes Stock of World’s River Water</title>
+    <link href="https://www.jpl.nasa.gov/news/us-french-satellite-takes-stock-of-worlds-river-water/"/>
+    <id>https://www.jpl.nasa.gov/news/us-french-satellite-takes-stock-of-worlds-river-water/</id>
+    <summary type="text">Rivers rise and fall throughout the year, but by how much? Perhaps less than previously thought, according to new data from the SWOT mission. Hidden riverbed contours are also emerging.</summary>
+  </entry>
+  <entry>
     <title>NASA’s Curiosity Rover Sees Martian ‘Spiderwebs’ Up Close</title>
     <link href="https://www.jpl.nasa.gov/news/nasas-curiosity-rover-sees-martian-spiderwebs-up-close/"/>
     <id>https://www.jpl.nasa.gov/news/nasas-curiosity-rover-sees-martian-spiderwebs-up-close/</id>
@@ -91,12 +97,6 @@
     <link href="https://www.jpl.nasa.gov/news/networks-keeping-nasas-artemis-ii-mission-connected/"/>
     <id>https://www.jpl.nasa.gov/news/networks-keeping-nasas-artemis-ii-mission-connected/</id>
     <summary type="text">Artemis missions rely on both the Near Space Network, managed by NASA Goddard, and the Deep Space Network, managed by the Jet Propulsion Laboratory.</summary>
-  </entry>
-  <entry>
-    <title>NASA’s Juno Measures Thickness of Europa’s Ice Shell</title>
-    <link href="https://www.jpl.nasa.gov/news/nasas-juno-measures-thickness-of-europas-ice-shell/"/>
-    <id>https://www.jpl.nasa.gov/news/nasas-juno-measures-thickness-of-europas-ice-shell/</id>
-    <summary type="text">Results from the solar-powered spacecraft provide a new measurement of the thickness of the ice shell encasing the Jovian moon’s ocean.</summary>
   </entry>
   <entry>
     <title>NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans</title>

@@ -104,6 +104,25 @@
       ]
     },
     {
+      "id": "https://www.jpl.nasa.gov/news/us-french-satellite-takes-stock-of-worlds-river-water/",
+      "url": "https://www.jpl.nasa.gov/news/us-french-satellite-takes-stock-of-worlds-river-water/",
+      "title": "US-French Satellite Takes Stock of World’s River Water",
+      "content_text": "Rivers rise and fall throughout the year, but by how much? Perhaps less than previously thought, according to new data from the SWOT mission. Hidden riverbed contours are also emerging.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA25595.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/R1KPYRNNMDU?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasas-curiosity-rover-sees-martian-spiderwebs-up-close/",
       "url": "https://www.jpl.nasa.gov/news/nasas-curiosity-rover-sees-martian-spiderwebs-up-close/",
       "title": "NASA’s Curiosity Rover Sees Martian ‘Spiderwebs’ Up Close",
@@ -214,21 +233,6 @@
         {
           "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/keeping-nasas-artemis-ii-mission-connected-web.mp4",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/nasas-juno-measures-thickness-of-europas-ice-shell/",
-      "url": "https://www.jpl.nasa.gov/news/nasas-juno-measures-thickness-of-europas-ice-shell/",
-      "title": "NASA’s Juno Measures Thickness of Europa’s Ice Shell",
-      "content_text": "Results from the solar-powered spacecraft provide a new measurement of the thickness of the ice shell encasing the Jovian moon’s ocean.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1_-_PIA26331_-_Europa_JunoCam_6solgdm.png",
-          "mime_type": "image/png"
         }
       ],
       "tags": [
