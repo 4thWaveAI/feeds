@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Fri, 06 Mar 2026 18:39:52 +0000</updated>
+  <updated>Fri, 06 Mar 2026 19:32:15 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -51,6 +51,12 @@
     <summary type="text">NASA’s live coverage of the departure of JAXA’s (Japan Aerospace Exploration Agency’s) uncrewed HTV-X1 cargo spacecraft from the International Space Station is underway on NASA+, Amazon Prime, and the agency’s YouTube channel.</summary>
   </entry>
   <entry>
+    <title>NASA’s DART Mission Changed Orbit of Asteroid Didymos Around Sun</title>
+    <link href="https://www.jpl.nasa.gov/news/nasas-dart-mission-changed-orbit-of-asteroid-didymos-around-sun/"/>
+    <id>https://www.jpl.nasa.gov/news/nasas-dart-mission-changed-orbit-of-asteroid-didymos-around-sun/</id>
+    <summary type="text">The spacecraft changed the binary system’s orbit, confirming that a kinetic impactor can be an effective planetary defense technique for deflecting a near-Earth object.</summary>
+  </entry>
+  <entry>
     <title>US-French Satellite Takes Stock of World’s River Water</title>
     <link href="https://www.jpl.nasa.gov/news/us-french-satellite-takes-stock-of-worlds-river-water/"/>
     <id>https://www.jpl.nasa.gov/news/us-french-satellite-takes-stock-of-worlds-river-water/</id>
@@ -93,12 +99,6 @@
     <summary type="text">A mild La Niña caused greater rainfall over the Amazon basin, which offset rising sea levels due to record warming of Earth’s oceans.</summary>
   </entry>
   <entry>
-    <title>Networks Keeping NASA’s Artemis II Mission Connected</title>
-    <link href="https://www.jpl.nasa.gov/news/networks-keeping-nasas-artemis-ii-mission-connected/"/>
-    <id>https://www.jpl.nasa.gov/news/networks-keeping-nasas-artemis-ii-mission-connected/</id>
-    <summary type="text">Artemis missions rely on both the Near Space Network, managed by NASA Goddard, and the Deep Space Network, managed by the Jet Propulsion Laboratory.</summary>
-  </entry>
-  <entry>
     <title>NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans</title>
     <link href="https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/</id>
@@ -109,6 +109,78 @@
     <link href="https://www.jpl.nasa.gov/news/"/>
     <id>https://www.jpl.nasa.gov/news/</id>
     <summary type="text">NASA&#x27;s Jet Propulsion Laboratory, the leading center for robotic exploration of the solar system.</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/cz"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/cz</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/dk"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/dk</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/nl"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/nl</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/ee"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/ee</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/fi"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/fi</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/fr"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/fr</id>
+    <summary type="text">email: media @ esa.int (Uniquement les demandes de la presse)</summary>
   </entry>
   <entry>
     <title>News | Rocket Lab</title>
