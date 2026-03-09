@@ -29,6 +29,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "url": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "title": "NASA Media Contacts - NASA",
+      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Tiernan Doyle",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news/",
       "url": "https://www.nasa.gov/news/",
       "title": "NASA News",
@@ -36,6 +51,21 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2025/05/54492396655-c6ba83df1d-o-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-to-share-artemis-ii-flight-readiness-review-update/",
+      "url": "https://www.nasa.gov/news-release/nasa-to-share-artemis-ii-flight-readiness-review-update/",
+      "title": "NASA to Share Artemis II Flight Readiness Review Update - NASA",
+      "content_text": "NASA will host a news conference at 3 p.m. EDT, Thursday, March 12, to highlight progress toward the Artemis II crewed mission around the Moon. The media",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/02/ksc-20260225-ph-csh01-0077large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -96,21 +126,6 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2026/03/blog-htvx1-release-030626.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/03/06/japan-spacecraft-departing-station-soon-on-nasa/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/03/06/japan-spacecraft-departing-station-soon-on-nasa/",
-      "title": "Japan Spacecraft Departing Station Soon on NASA+ - NASA",
-      "content_text": "NASA’s live coverage of the departure of JAXA’s (Japan Aerospace Exploration Agency’s) uncrewed HTV-X1 cargo spacecraft from the International Space Station is underway on NASA+, Amazon Prime, and the agency’s YouTube channel.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/iss073e0988464/iss073e0988464~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
