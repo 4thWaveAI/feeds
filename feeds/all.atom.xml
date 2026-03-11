@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Wed, 11 Mar 2026 18:50:59 +0000</updated>
+  <updated>Wed, 11 Mar 2026 19:39:43 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -45,16 +45,16 @@
     <summary type="text">Sign up to receive NASA news releases and other information.</summary>
   </entry>
   <entry>
+    <title>Cardiac Research and Spacewalk Preps Before Cygnus XL Spacecraft Departs - NASA</title>
+    <link href="https://www.nasa.gov/blogs/spacestation/2026/03/11/cardiac-research-and-spacewalk-preps-before-cygnus-xl-spacecraft-departs/"/>
+    <id>https://www.nasa.gov/blogs/spacestation/2026/03/11/cardiac-research-and-spacewalk-preps-before-cygnus-xl-spacecraft-departs/</id>
+    <summary type="text">The Expedition 74 crew members spent Wednesday studying the cardiovascular system while preparing for a spacewalk to upgrade the orbital outpost’s power generation system. A U.S. cargo spacecraft is also packed and ready for its departure from the International Space Station on Thursday.</summary>
+  </entry>
+  <entry>
     <title>More Spacewalk Preps, Advanced Research as Cargo Craft Readies for Departure - NASA</title>
     <link href="https://www.nasa.gov/blogs/spacestation/2026/03/10/more-spacewalk-preps-advanced-research-as-cargo-craft-readies-for-departure/"/>
     <id>https://www.nasa.gov/blogs/spacestation/2026/03/10/more-spacewalk-preps-advanced-research-as-cargo-craft-readies-for-departure/</id>
     <summary type="text">The Expedition 74 crew continued its spacewalk preparations on Tuesday while keeping up vascular health research and artificial intelligence studies. Mission managers have also given the go for the departure of a U.S. cargo spacecraft from the International Space Station this week.</summary>
-  </entry>
-  <entry>
-    <title>Spacewalk Preps and Health Checks Using Augmented Reality, Artificial Intelligence - NASA</title>
-    <link href="https://www.nasa.gov/blogs/spacestation/2026/03/09/spacewalk-preps-and-health-checks-using-augmented-reality-artificial-intelligence/"/>
-    <id>https://www.nasa.gov/blogs/spacestation/2026/03/09/spacewalk-preps-and-health-checks-using-augmented-reality-artificial-intelligence/</id>
-    <summary type="text">Spacewalk preparations are underway aboard the International Space Station as two astronauts check their spacesuits and review procedures. The Expedition 74 crew also experimented with augmented reality and artificial intelligence to conduct health checks in space. Meanwhile, a U.S. cargo spacecraft nears it departure this week.</summary>
   </entry>
   <entry>
     <title>NASA’s DART Mission Changed Orbit of Asteroid Didymos Around Sun</title>
@@ -115,6 +115,78 @@
     <link href="https://www.jpl.nasa.gov/news/"/>
     <id>https://www.jpl.nasa.gov/news/</id>
     <summary type="text">NASA&#x27;s Jet Propulsion Laboratory, the leading center for robotic exploration of the solar system.</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/cz"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/cz</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/dk"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/dk</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/nl"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/nl</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/ee"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/ee</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/fi"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/fi</id>
+    <summary type="text">email: media @ esa.int (Media inquiries only)</summary>
+  </entry>
+  <entry>
+    <title>Press Releases</title>
+    <link href="https://www.esa.int/Newsroom/Press_Releases/(lang)/fr"/>
+    <id>https://www.esa.int/Newsroom/Press_Releases/(lang)/fr</id>
+    <summary type="text">email: media @ esa.int (Uniquement les demandes de la presse)</summary>
   </entry>
   <entry>
     <title>News | Rocket Lab</title>
