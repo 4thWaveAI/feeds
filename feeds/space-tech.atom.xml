@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Mon, 16 Mar 2026 20:35:47 +0000</updated>
+  <updated>Mon, 16 Mar 2026 21:36:56 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -25,6 +25,12 @@
     <id>https://www.nasa.gov/news/</id>
     <summary type="text">Resources for news media, including NASA news contacts and archived news material</summary>
     <updated>Wed, 07 Dec 2022 13:25:24 -0500</updated>
+  </entry>
+  <entry>
+    <title>NASA Invites Media to Learn About Upcoming X-59 Test Flights - NASA</title>
+    <link href="https://www.nasa.gov/news-release/nasa-invites-media-to-learn-about-upcoming-x-59-test-flights/"/>
+    <id>https://www.nasa.gov/news-release/nasa-invites-media-to-learn-about-upcoming-x-59-test-flights/</id>
+    <summary type="text">NASA will hold a media teleconference at 5:30 p.m. EDT on Thursday, March 19 to highlight plans for its X-59 quiet supersonic aircraft’s upcoming flight</summary>
   </entry>
   <entry>
     <title>NASA to Cover Upcoming US Spacewalks 94, 95 Outside Space Station - NASA</title>
