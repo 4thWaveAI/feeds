@@ -266,98 +266,8 @@
       ]
     },
     {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
       "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
       "title": "Press Releases",
       "content_text": "email: media @ esa.int (Media inquiries only)",
       "tags": [
@@ -378,6 +288,21 @@
       "url": "https://www.rocketlabusa.com/updates/",
       "title": "News | Rocket Lab",
       "content_text": "Keep up with the latest from Rocket Lab.",
+      "attachments": [
+        {
+          "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.rocketlabusa.com/updates/mission-success-rocket-lab-launches-latest-satellite-for-synspective-2/",
+      "url": "https://www.rocketlabusa.com/updates/mission-success-rocket-lab-launches-latest-satellite-for-synspective-2/",
+      "title": "Mission Success: Rocket Lab Launches Latest Satellite for Synspective | Rocket Lab",
+      "content_text": "Mission Success: Rocket Lab Launches Latest Satellite for Synspective",
       "attachments": [
         {
           "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
@@ -438,21 +363,6 @@
       "url": "https://www.rocketlabusa.com/updates/rocket-lab-completes-spacecraft-commissioning-for-nasas-escapade-mars-mission/",
       "title": "Rocket Lab Completes Spacecraft Commissioning for NASA’s ESCAPADE Mars Mission   | Rocket Lab",
       "content_text": "Long Beach, Calif. February 26, 2026 – Rocket Lab USA, a wholly owned subsidiary of Rocket Lab Corporation (Nasdaq: RKLB) (“Rocket Lab” or “the Company”), a global leader in launch services and space systems, today announced the successful  completion of commissioning for the twin Rocket Lab-built…",
-      "attachments": [
-        {
-          "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.rocketlabusa.com/updates/rocket-lab-introduces-advanced-silicon-solar-arrays-to-power-space-based-data-centers/",
-      "url": "https://www.rocketlabusa.com/updates/rocket-lab-introduces-advanced-silicon-solar-arrays-to-power-space-based-data-centers/",
-      "title": "Rocket Lab Introduces Advanced Silicon Solar Arrays To Power Space-Based Data Centers  | Rocket Lab",
-      "content_text": "As surging AI and compute demand pushes terrestrial data centers to their limit, space-based data centers can harness infinitely abundant solar energy in orbit thanks to Rocket Lab’s rapidly scalable silicon solar arrays <br />\n <br />\nLong Beach, Calif. – February 26, 2026 – Rocket Lab Corporation (Nasdaq…",
       "attachments": [
         {
           "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
