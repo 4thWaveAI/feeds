@@ -119,6 +119,25 @@
       ]
     },
     {
+      "id": "https://www.jpl.nasa.gov/news/see-nasas-guardian-catch-a-tsunami/",
+      "url": "https://www.jpl.nasa.gov/news/see-nasas-guardian-catch-a-tsunami/",
+      "title": "See NASA’s GUARDIAN Catch a Tsunami",
+      "content_text": "A new animation breaks down how JPL’s AI-supported hazard scout gets the drop on the ocean’s biggest waves.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/See-NASAs-GUARDIAN-Catch-a-Tsunami.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/rYBX59epPxI?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/tiny-nasa-spacecraft-delivers-exoplanet-missions-first-images/",
       "url": "https://www.jpl.nasa.gov/news/tiny-nasa-spacecraft-delivers-exoplanet-missions-first-images/",
       "title": "Tiny NASA Spacecraft Delivers Exoplanet Mission’s First Images",
@@ -229,21 +248,6 @@
         {
           "url": "https://www.youtube.com/embed/LO2GluKu4C8?list=PLTiv_XWHnOZqCrMU2ppcLjRn1zlDkNx3q",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/nasa-isro-radar-mission-peers-through-clouds-to-see-mississippi-river-delta/",
-      "url": "https://www.jpl.nasa.gov/news/nasa-isro-radar-mission-peers-through-clouds-to-see-mississippi-river-delta/",
-      "title": "NASA-ISRO Radar Mission Peers Through Clouds to See Mississippi River Delta",
-      "content_text": "NASA’s NISAR mission reveals new details of the Mississippi River Delta’s forests and wetlands, proving radar’s power to monitor ecosystems regardless of weather.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26620-NISAR-NOLA-web.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
