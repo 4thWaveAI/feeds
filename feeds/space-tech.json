@@ -134,6 +134,21 @@
       ]
     },
     {
+      "id": "https://www.jpl.nasa.gov/news/nasa-unveils-initiatives-to-achieve-americas-national-space-policy/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-unveils-initiatives-to-achieve-americas-national-space-policy/",
+      "title": "NASA Unveils Initiatives to Achieve America’s National Space Policy",
+      "content_text": "JPL will help support several of the agency’s initiatives to advance the nation’s leadership in space.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/moon-base1.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasa-research-proposes-technology-to-seek-earth-like-exoplanets/",
       "url": "https://www.jpl.nasa.gov/news/nasa-research-proposes-technology-to-seek-earth-like-exoplanets/",
       "title": "NASA Research Proposes Technology to Seek Earth-Like Exoplanets",
@@ -240,25 +255,6 @@
         {
           "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26693-Curiosity-Surveys-the-Boxwork-Region-web.jpg",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/nasas-perseverance-now-autonomously-pinpoints-its-location-on-mars/",
-      "url": "https://www.jpl.nasa.gov/news/nasas-perseverance-now-autonomously-pinpoints-its-location-on-mars/",
-      "title": "NASA’s Perseverance Now Autonomously Pinpoints Its Location on Mars",
-      "content_text": "Using the new Mars Global Localization algorithm, NASA’s Perseverance rover can now pinpoint its exact location without help from engineers on Earth.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/e1-PIA26704-sol1762-nav-pano.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/e2-PIA26705_navcam_orthomosaic.webm",
-          "mime_type": "video/webm"
         }
       ],
       "tags": [
