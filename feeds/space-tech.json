@@ -29,6 +29,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "url": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "title": "NASA Media Contacts - NASA",
+      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Alise",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news/",
       "url": "https://www.nasa.gov/news/",
       "title": "NASA News",
@@ -96,21 +111,6 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2026/03/progress-94-approaches-station.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/03/24/progress-cargo-craft-approaching-station-for-docking/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/03/24/progress-cargo-craft-approaching-station-for-docking/",
-      "title": "Progress Cargo Craft Approaching Station for Docking - NASA",
-      "content_text": "NASA’s live coverage of rendezvous and docking is now underway on NASA+, Amazon Prime, and the agency’s YouTube channel. Learn how to watch NASA content through a variety of online platforms, including social media.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/iss073e0698630/iss073e0698630~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
