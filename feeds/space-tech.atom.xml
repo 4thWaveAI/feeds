@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Tue, 31 Mar 2026 22:32:24 +0000</updated>
+  <updated>Tue, 31 Mar 2026 23:31:11 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -16,13 +16,6 @@
     <title>NASA Media Contacts - NASA</title>
     <link href="https://www.nasa.gov/news/media-contacts/"/>
     <id>https://www.nasa.gov/news/media-contacts/</id>
-    <summary type="text">Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Alise</summary>
-    <updated>Thu, 29 Jun 2023 14:53:17 -0400</updated>
-  </entry>
-  <entry>
-    <title>NASA Media Contacts - NASA</title>
-    <link href="https://www.nasa.gov/news/nasa-media-contacts/"/>
-    <id>https://www.nasa.gov/news/nasa-media-contacts/</id>
     <summary type="text">Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Alise</summary>
     <updated>Thu, 29 Jun 2023 14:53:17 -0400</updated>
   </entry>
@@ -56,6 +49,12 @@
     <link href="https://www.nasa.gov/2026-news-releases/"/>
     <id>https://www.nasa.gov/2026-news-releases/</id>
     <summary type="text">Sign up to receive NASA news releases and other information.</summary>
+  </entry>
+  <entry>
+    <title>Medical Tests, Microbiology Top Research Schedule Aboard Station - NASA</title>
+    <link href="https://www.nasa.gov/blogs/spacestation/2026/03/31/medical-tests-microbiology-top-research-schedule-aboard-station/"/>
+    <id>https://www.nasa.gov/blogs/spacestation/2026/03/31/medical-tests-microbiology-top-research-schedule-aboard-station/</id>
+    <summary type="text">Medical tests and microbiology topped the research schedule for the Expedition 74 crew aboard the International Space Station on Tuesday. The seven crewmates also worked on spacesuits, cargo operations, and life support maintenance.</summary>
   </entry>
   <entry>
     <title>Crew Kicks Off Week with Cargo Mission Training and Spacewalk Cleanup - NASA</title>
