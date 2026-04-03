@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Fri, 03 Apr 2026 02:03:39 +0000</updated>
+  <updated>Fri, 03 Apr 2026 05:03:10 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -25,6 +25,12 @@
     <id>https://www.nasa.gov/news/</id>
     <summary type="text">Resources for news media, including NASA news contacts and archived news material</summary>
     <updated>Wed, 07 Dec 2022 13:25:24 -0500</updated>
+  </entry>
+  <entry>
+    <title>NASA’s Artemis II Mission Leaves Earth Orbit for Flight around Moon - NASA</title>
+    <link href="https://www.nasa.gov/news-release/nasas-artemis-ii-mission-leaves-earth-orbit-for-flight-around-moon/"/>
+    <id>https://www.nasa.gov/news-release/nasas-artemis-ii-mission-leaves-earth-orbit-for-flight-around-moon/</id>
+    <summary type="text">For the first time in more than 50 years, astronauts on a NASA mission are bound to fly around the Moon after successfully completing a key burn of Orion’s</summary>
   </entry>
   <entry>
     <title>Liftoff! NASA Launches Astronauts on Historic Artemis Moon Mission - NASA</title>
