@@ -1,0 +1,113 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "4thWave AI — Sundar Pichai (Aggregated)",
+  "home_page_url": "https://www.4thwaveai.com",
+  "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sundar-pichai.json",
+  "items": [
+    {
+      "id": "https://blog.google/",
+      "url": "https://blog.google/",
+      "title": "The Keyword",
+      "content_text": "Get the latest news and stories about Google products, technology and innovation on the Keyword, Google's official blog.",
+      "attachments": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-200x200.png?version=pr20251002-1653",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "sundar-pichai"
+      ]
+    },
+    {
+      "id": "https://blog.google/products/android/",
+      "url": "https://blog.google/products/android/",
+      "title": "Android",
+      "content_text": "Read the latest news and updates about Android, the world's most popular mobile platform.",
+      "attachments": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3D_DROID_HEAD_200x200.max-1440x810.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "sundar-pichai"
+      ]
+    },
+    {
+      "id": "https://blog.google/products/chrome/",
+      "url": "https://blog.google/products/chrome/",
+      "title": "Google Chrome",
+      "content_text": "Read the latest news and updates about Chrome, Google's fast, free web browser for your computer, phone, and tablet.",
+      "attachments": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome-Logo_1.max-1440x810.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "sundar-pichai"
+      ]
+    },
+    {
+      "id": "https://blog.google/products/chromebooks/",
+      "url": "https://blog.google/products/chromebooks/",
+      "title": "Chromebook",
+      "content_text": "Read the latest news and updates about Chromebooks, the fast and easy to use laptop that helps you enjoy your favorite apps.",
+      "attachments": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-200x200.png?version=pr20251002-1653",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "sundar-pichai"
+      ]
+    },
+    {
+      "id": "https://blog.google/products/google-play/",
+      "url": "https://blog.google/products/google-play/",
+      "title": "Google Play",
+      "content_text": "Read the latest news and updates about Google Play, where you can enjoy your favorite music, movies, books and apps on your Android device, or on the web.",
+      "attachments": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Logo_Play_512px_clr_nGVTgYY.max-1440x810.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "sundar-pichai"
+      ]
+    },
+    {
+      "id": "https://blog.google/products/wear-os/",
+      "url": "https://blog.google/products/wear-os/",
+      "title": "Wear OS",
+      "content_text": "Read the latest about Wear OS by Google — smartwatches that let you track fitness, read messages and get help from Google Assistant.",
+      "attachments": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-200x200.png?version=pr20251002-1653",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "sundar-pichai"
+      ]
+    },
+    {
+      "id": "https://ai.googleblog.com/",
+      "url": "https://ai.googleblog.com/",
+      "title": "Latest News from Google Research Blog - Google Research",
+      "content_text": "We strive to create an environment conducive to many different types of research across many different time scales and levels of risk.",
+      "attachments": [
+        {
+          "url": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "sundar-pichai"
+      ]
+    }
+  ]
+}
