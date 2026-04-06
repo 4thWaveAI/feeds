@@ -29,6 +29,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "url": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "title": "NASA Media Contacts - NASA",
+      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Alise",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news/",
       "url": "https://www.nasa.gov/news/",
       "title": "NASA News",
@@ -37,6 +52,21 @@
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2025/05/54492396655-c6ba83df1d-o-1.jpg",
           "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-eclipses-record-for-farthest-human-spaceflight/",
+      "url": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-eclipses-record-for-farthest-human-spaceflight/",
+      "title": "NASA’s Artemis II Crew Eclipses Record for Farthest Human Spaceflight - NASA",
+      "content_text": "Four astronauts aboard NASA’s Artemis II test flight around the Moon made history at 12:56 p.m. CDT on Monday, traveling 248,655 miles from Earth, surpassing",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-crew-in-orion-broadcast-screenshot-april-6-2026.png",
+          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -96,21 +126,6 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2026/04/blog-iss074e0431854.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/04/02/brain-and-eye-studies-advanced-life-support-tech-top-station-crews-day/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/04/02/brain-and-eye-studies-advanced-life-support-tech-top-station-crews-day/",
-      "title": "Brain and Eye Studies, Advanced Life Support Tech Top Station Crew’s Day - NASA",
-      "content_text": "The Expedition 74 crew studied how the brain receives signals in space and demonstrated advanced technology to remove humidity from spacecraft on Thursday. Other activities aboard the International Space Station included servicing a metal 3D printer and continuing to unpack a cargo resupply ship.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/iss074e0364909/iss074e0364909~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],

@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Mon, 06 Apr 2026 19:51:19 +0000</updated>
+  <updated>Mon, 06 Apr 2026 20:35:29 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -20,11 +20,24 @@
     <updated>Thu, 29 Jun 2023 14:53:17 -0400</updated>
   </entry>
   <entry>
+    <title>NASA Media Contacts - NASA</title>
+    <link href="https://www.nasa.gov/news/nasa-media-contacts/"/>
+    <id>https://www.nasa.gov/news/nasa-media-contacts/</id>
+    <summary type="text">Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Alise</summary>
+    <updated>Thu, 29 Jun 2023 14:53:17 -0400</updated>
+  </entry>
+  <entry>
     <title>NASA News</title>
     <link href="https://www.nasa.gov/news/"/>
     <id>https://www.nasa.gov/news/</id>
     <summary type="text">Resources for news media, including NASA news contacts and archived news material</summary>
     <updated>Wed, 07 Dec 2022 13:25:24 -0500</updated>
+  </entry>
+  <entry>
+    <title>NASA’s Artemis II Crew Eclipses Record for Farthest Human Spaceflight - NASA</title>
+    <link href="https://www.nasa.gov/news-release/nasas-artemis-ii-crew-eclipses-record-for-farthest-human-spaceflight/"/>
+    <id>https://www.nasa.gov/news-release/nasas-artemis-ii-crew-eclipses-record-for-farthest-human-spaceflight/</id>
+    <summary type="text">Four astronauts aboard NASA’s Artemis II test flight around the Moon made history at 12:56 p.m. CDT on Monday, traveling 248,655 miles from Earth, surpassing</summary>
   </entry>
   <entry>
     <title>NASA Sets Coverage for Northrop Grumman’s CRS-24 Resupply Launch - NASA</title>
@@ -49,12 +62,6 @@
     <link href="https://www.nasa.gov/blogs/spacestation/2026/04/03/week-wraps-aboard-station-with-spacesuits-eye-checks-robotics-and-more/"/>
     <id>https://www.nasa.gov/blogs/spacestation/2026/04/03/week-wraps-aboard-station-with-spacesuits-eye-checks-robotics-and-more/</id>
     <summary type="text">Spacesuit work and eye checks wrapped up the week for the Expedition 74 crew aboard the International Space Station. The orbital residents also focused on robotics, cargo transfers, and science hardware maintenance at the end of the week.</summary>
-  </entry>
-  <entry>
-    <title>Brain and Eye Studies, Advanced Life Support Tech Top Station Crew’s Day - NASA</title>
-    <link href="https://www.nasa.gov/blogs/spacestation/2026/04/02/brain-and-eye-studies-advanced-life-support-tech-top-station-crews-day/"/>
-    <id>https://www.nasa.gov/blogs/spacestation/2026/04/02/brain-and-eye-studies-advanced-life-support-tech-top-station-crews-day/</id>
-    <summary type="text">The Expedition 74 crew studied how the brain receives signals in space and demonstrated advanced technology to remove humidity from spacecraft on Thursday. Other activities aboard the International Space Station included servicing a metal 3D printer and continuing to unpack a cargo resupply ship.</summary>
   </entry>
   <entry>
     <title>NASA Unveils Initiatives to Achieve America’s National Space Policy</title>
