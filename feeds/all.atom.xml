@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Sat, 11 Apr 2026 13:54:17 +0000</updated>
+  <updated>Sat, 11 Apr 2026 14:35:32 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -27,6 +27,12 @@
     <updated>Wed, 07 Dec 2022 13:25:24 -0500</updated>
   </entry>
   <entry>
+    <title>NASA Science, Cargo Launch Aboard Northrop Grumman CRS-24 - NASA</title>
+    <link href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-aboard-northrop-grumman-crs-24/"/>
+    <id>https://www.nasa.gov/news-release/nasa-science-cargo-launch-aboard-northrop-grumman-crs-24/</id>
+    <summary type="text">NASA is sending more science, technology demonstrations, and crew supplies to the International Space Station following the successful launch of the agency’s</summary>
+  </entry>
+  <entry>
     <title>NASA Welcomes Record-Setting Artemis II Moonfarers Back to Earth  - NASA</title>
     <link href="https://www.nasa.gov/news-release/nasa-welcomes-record-setting-artemis-ii-moonfarers-back-to-earth/"/>
     <id>https://www.nasa.gov/news-release/nasa-welcomes-record-setting-artemis-ii-moonfarers-back-to-earth/</id>
@@ -39,16 +45,16 @@
     <summary type="text">Sign up to receive NASA news releases and other information.</summary>
   </entry>
   <entry>
+    <title>Cygnus XL Cargo Craft Solar Arrays Deploy Powering Flight to Station - NASA</title>
+    <link href="https://www.nasa.gov/blogs/spacestation/2026/04/11/cygnus-xl-cargo-craft-solar-arrays-deploy-powering-flight-to-station/"/>
+    <id>https://www.nasa.gov/blogs/spacestation/2026/04/11/cygnus-xl-cargo-craft-solar-arrays-deploy-powering-flight-to-station/</id>
+    <summary type="text">Northrop Grumman’s Cygnus XL spacecraft deployed its two solar arrays after launching earlier today at 7:41 a.m. EDT on a SpaceX Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The mission is known as NASA’s Northrop Grumman Commercial Resupply Services-24, or Northrop Grumman CRS-24.</summary>
+  </entry>
+  <entry>
     <title>Cygnus XL Cargo Craft Launches to Resupply Expedition 74 Crew - NASA</title>
     <link href="https://www.nasa.gov/blogs/spacestation/2026/04/11/cygnus-xl-cargo-craft-launches-to-resupply-expedition-74-crew/"/>
     <id>https://www.nasa.gov/blogs/spacestation/2026/04/11/cygnus-xl-cargo-craft-launches-to-resupply-expedition-74-crew/</id>
     <summary type="text">Cygnus XL Cargo Craft Launches to Resupply Expedition 74 Crew</summary>
-  </entry>
-  <entry>
-    <title>Crew Preps for Cygnus XL Cargo Mission Targeted for Saturday Launch - NASA</title>
-    <link href="https://www.nasa.gov/blogs/spacestation/2026/04/10/crew-preps-for-cygnus-xl-cargo-mission-targeted-for-saturday-launch/"/>
-    <id>https://www.nasa.gov/blogs/spacestation/2026/04/10/crew-preps-for-cygnus-xl-cargo-mission-targeted-for-saturday-launch/</id>
-    <summary type="text">Northrop Grumman’s Cygnus XL cargo spacecraft sits atop a SpaceX Falcon 9 rocket counting down to a launch targeted at 7:41 a.m. EDT on Saturday to resupply the Expedition 74 crew. Packed with over 11,000 pounds of lab hardware, science experiments, and crew supplies, Cygnus XL is due to arrive at the International Space Station where it will be captured with the Candarm2 robotic arm on Monday.</summary>
   </entry>
   <entry>
     <title>NASA Unveils Initiatives to Achieve America’s National Space Policy</title>
