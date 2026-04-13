@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.atom.xml"/>
   <id>urn:4thwaveai-feeds:videos</id>
-  <updated>Mon, 13 Apr 2026 17:01:12 +0000</updated>
+  <updated>Mon, 13 Apr 2026 19:12:03 +0000</updated>
   <entry>
     <title>See NASA’s GUARDIAN Catch a Tsunami</title>
     <link href="https://www.jpl.nasa.gov/news/see-nasas-guardian-catch-a-tsunami/"/>
@@ -16,6 +16,12 @@
     <link href="https://www.jpl.nasa.gov/news/us-french-satellite-takes-stock-of-worlds-river-water/"/>
     <id>https://www.jpl.nasa.gov/news/us-french-satellite-takes-stock-of-worlds-river-water/</id>
     <summary type="text">Rivers rise and fall throughout the year, but by how much? Perhaps less than previously thought, according to new data from the SWOT mission. Hidden riverbed contours are also emerging.</summary>
+  </entry>
+  <entry>
+    <title>March 2026 Company Update</title>
+    <link href="https://www.relativityspace.com/press-release/2026/4/13/march-2026-company-updatenbspnbsp"/>
+    <id>https://www.relativityspace.com/press-release/2026/4/13/march-2026-company-updatenbspnbsp</id>
+    <summary type="text">March brought continued progress across the Terran R program, with key milestones across design, manufacturing, testing, and launch preparations.&amp;nbsp;   Design  This month, the team released 2,207 flight parts, with a continued focus on completing the stage one shipping assembly. Work remains c</summary>
   </entry>
   <entry>
     <title>February 2026 Company Update</title>
@@ -34,11 +40,5 @@
     <link href="https://www.relativityspace.com/press-release/2026/1/12/december-2025-company-update"/>
     <id>https://www.relativityspace.com/press-release/2026/1/12/december-2025-company-update</id>
     <summary type="text">As we start the new year, here’s a look at key Terran R program milestones from December 2025.&amp;nbsp;   Design  This month, the team released 1,526 flight parts and the integrated thrust structure fluids assembly, unlocking downstream manufacturing and keeping the integration schedule moving at p</summary>
-  </entry>
-  <entry>
-    <title>November 2025 Company Update</title>
-    <link href="https://www.relativityspace.com/press-release/2025/12/5/november-2025-company-update"/>
-    <id>https://www.relativityspace.com/press-release/2025/12/5/november-2025-company-update</id>
-    <summary type="text">Throughout November, the Terran R program made key advancements across design, build, test, and launch operations.   Design  As the program continues to mature, we are releasing larger groups of parts through our design sprints. In November, we released 1,602 parts, unlocking downstream manufacturin</summary>
   </entry>
 </feed>
