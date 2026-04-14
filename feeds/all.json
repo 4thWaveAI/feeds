@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
+      "id": "https://www.nasa.gov/aeronautics/aeronautics-stem/2025-2026-dwu-winners/",
+      "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2025-2026-dwu-winners/",
+      "title": "2025-2026 Dream with Us Winners",
+      "content_text": "2025-2026 Dream with Us Winners",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/04/dwu-hs-2025-2026.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news/recently-published/",
       "url": "https://www.nasa.gov/news/recently-published/",
       "title": "All NASA News - NASA",
@@ -97,21 +112,6 @@
         {
           "url": "https://images-assets.nasa.gov/image/iss074e0458270/iss074e0458270~large.jpg",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/04/13/canadarm2-installs-cygnus-xl-cargo-craft-to-unity-module/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/04/13/canadarm2-installs-cygnus-xl-cargo-craft-to-unity-module/",
-      "title": "Canadarm2 Installs Cygnus XL Cargo Craft to Unity Module - NASA",
-      "content_text": "Northrop Grumman’s Cygnus XL spacecraft has been installed to the Unity module’s Earth-facing port of the International Space Station. The mission is known as",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/03/iss-04-10-26.png",
-          "mime_type": "image/png"
         }
       ],
       "tags": [
