@@ -29,21 +29,6 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news/nasa-media-contacts/",
-      "url": "https://www.nasa.gov/news/nasa-media-contacts/",
-      "title": "NASA Media Contacts - NASA",
-      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Alise",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.nasa.gov/news/",
       "url": "https://www.nasa.gov/news/",
       "title": "NASA News",
@@ -89,13 +74,13 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news-release/nasa-to-host-artemis-ii-crew-postflight-news-conference/",
-      "url": "https://www.nasa.gov/news-release/nasa-to-host-artemis-ii-crew-postflight-news-conference/",
-      "title": "NASA to Host Artemis II Crew Postflight News Conference - NASA",
-      "content_text": "Fresh off their return to Earth, the Artemis II astronauts will hold a news conference at 2:30 p.m. EDT Thursday, April 16, at NASA’s Johnson Space Center in",
+      "id": "https://www.nasa.gov/2026-news-releases/",
+      "url": "https://www.nasa.gov/2026-news-releases/",
+      "title": "2026 News Releases - NASA",
+      "content_text": "Sign up to receive NASA news releases and other information.",
       "attachments": [
         {
-          "url": "https://images-assets.nasa.gov/image/jsc2026e022310/jsc2026e022310~large.jpg",
+          "url": "https://images-assets.nasa.gov/image/NHQ202512200038/NHQ202512200038~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -104,13 +89,13 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/2026-news-releases/",
-      "url": "https://www.nasa.gov/2026-news-releases/",
-      "title": "2026 News Releases - NASA",
-      "content_text": "Sign up to receive NASA news releases and other information.",
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/04/14/expedition-74-opens-cygnus-xl-and-unpacks-advanced-science-gear/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/04/14/expedition-74-opens-cygnus-xl-and-unpacks-advanced-science-gear/",
+      "title": "Expedition 74 Opens Cygnus XL and Unpacks Advanced Science Gear - NASA",
+      "content_text": "The hatches are open between Northrop Grumman’s second Cygnus XL cargo spacecraft and the International Space Station following its robotic capture and installation on Monday. The Expedition 74 crew is now beginning to unload some of the new science and crew supplies delivered on Monday.",
       "attachments": [
         {
-          "url": "https://images-assets.nasa.gov/image/NHQ202512200038/NHQ202512200038~large.jpg",
+          "url": "https://images-assets.nasa.gov/image/iss074e0458270/iss074e0458270~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
