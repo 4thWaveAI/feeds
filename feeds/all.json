@@ -119,6 +119,21 @@
       ]
     },
     {
+      "id": "https://www.jpl.nasa.gov/news/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/",
+      "url": "https://www.jpl.nasa.gov/news/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/",
+      "title": "‘Interstellar Glaciers’: NASA’s SPHEREx Maps Vast Galactic Ice Regions",
+      "content_text": "The water, carbon dioxide, and carbon monoxide ices are attached to the surface of tiny dust particles in clouds spanning hundreds of light-years across.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1_SPHEREx_Cygnus_H2O_Ice_CROP.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasa-unveils-initiatives-to-achieve-americas-national-space-policy/",
       "url": "https://www.jpl.nasa.gov/news/nasa-unveils-initiatives-to-achieve-americas-national-space-policy/",
       "title": "NASA Unveils Initiatives to Achieve America’s National Space Policy",
@@ -225,21 +240,6 @@
         {
           "url": "https://www.youtube.com/embed/42PUJiJC65Q?feature=oembed",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/nasas-curiosity-rover-sees-martian-spiderwebs-up-close/",
-      "url": "https://www.jpl.nasa.gov/news/nasas-curiosity-rover-sees-martian-spiderwebs-up-close/",
-      "title": "NASA’s Curiosity Rover Sees Martian ‘Spiderwebs’ Up Close",
-      "content_text": "A hilly landscape that looks like spiderwebs when viewed from orbit holds clues to the history of water on ancient Mars.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26693-Curiosity-Surveys-the-Boxwork-Region-web.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
