@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Tue, 21 Apr 2026 13:19:48 +0000</updated>
+  <updated>Tue, 21 Apr 2026 15:10:15 +0000</updated>
   <entry>
     <title>2025-2026 Dream with Us Winners</title>
     <link href="https://www.nasa.gov/aeronautics/aeronautics-stem/2025-2026-dwu-winners/"/>
@@ -58,6 +58,12 @@
     <summary type="text">The unpiloted Roscosmos Progress 93 spacecraft undocked from the International Space Station at 6:08 p.m. EDT Monday, backing away for a deorbit maneuver and a planned destructive re-entry into Earth’s atmosphere to dispose of trash loaded by the crew.</summary>
   </entry>
   <entry>
+    <title>NASA’s Curiosity Finds Organic Molecules Never Seen Before on Mars</title>
+    <link href="https://www.jpl.nasa.gov/news/nasas-curiosity-finds-organic-molecules-never-seen-before-on-mars/"/>
+    <id>https://www.jpl.nasa.gov/news/nasas-curiosity-finds-organic-molecules-never-seen-before-on-mars/</id>
+    <summary type="text">Seven organic molecules were identified for the first time on Mars, increasing our understanding of the kinds of molecular preservation possible on the Martian surface.</summary>
+  </entry>
+  <entry>
     <title>‘Interstellar Glaciers’: NASA’s SPHEREx Maps Vast Galactic Ice Regions</title>
     <link href="https://www.jpl.nasa.gov/news/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/"/>
     <id>https://www.jpl.nasa.gov/news/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/</id>
@@ -92,12 +98,6 @@
     <link href="https://www.jpl.nasa.gov/news/tiny-nasa-spacecraft-delivers-exoplanet-missions-first-images/"/>
     <id>https://www.jpl.nasa.gov/news/tiny-nasa-spacecraft-delivers-exoplanet-missions-first-images/</id>
     <summary type="text">NASA&#x27;s SPARCS spacecraft achieved first light in UV, confirming it&#x27;s ready to study low-mass stars and assess the habitability of their exoplanets.</summary>
-  </entry>
-  <entry>
-    <title>NASA’s DART Mission Changed Orbit of Asteroid Didymos Around Sun</title>
-    <link href="https://www.jpl.nasa.gov/news/nasas-dart-mission-changed-orbit-of-asteroid-didymos-around-sun/"/>
-    <id>https://www.jpl.nasa.gov/news/nasas-dart-mission-changed-orbit-of-asteroid-didymos-around-sun/</id>
-    <summary type="text">New research confirms NASA&#x27;s DART impact on Dimorphos also shifted Didymos&#x27;s solar orbit — the first time a spacecraft has measurably moved a celestial body.</summary>
   </entry>
   <entry>
     <title>NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans</title>
