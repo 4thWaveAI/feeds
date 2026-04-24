@@ -29,21 +29,6 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news/nasa-media-contacts/",
-      "url": "https://www.nasa.gov/news/nasa-media-contacts/",
-      "title": "NASA Media Contacts - NASA",
-      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Alise",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.nasa.gov/news/",
       "url": "https://www.nasa.gov/news/",
       "title": "NASA News",
@@ -89,13 +74,13 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-to-discuss-upcoming-launch-mission/",
-      "url": "https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-to-discuss-upcoming-launch-mission/",
-      "title": "NASA Astronaut Anil Menon to Discuss Upcoming Launch, Mission - NASA",
-      "content_text": "NASA will host a news conference at 1:45 p.m. EDT Wednesday, April 29, from the agency’s Johnson Space Center in Houston to preview astronaut Anil Menon’s",
+      "id": "https://www.nasa.gov/2026-news-releases/",
+      "url": "https://www.nasa.gov/2026-news-releases/",
+      "title": "2026 News Releases - NASA",
+      "content_text": "Sign up to receive NASA news releases and other information.",
       "attachments": [
         {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/04/55142906490-f1d1527d9e-k.jpg",
+          "url": "https://images-assets.nasa.gov/image/NHQ202512200038/NHQ202512200038~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -104,13 +89,13 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/2026-news-releases/",
-      "url": "https://www.nasa.gov/2026-news-releases/",
-      "title": "2026 News Releases - NASA",
-      "content_text": "Sign up to receive NASA news releases and other information.",
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/04/24/cargo-mission-launching-saturday-as-crew-wraps-week-with-research/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/04/24/cargo-mission-launching-saturday-as-crew-wraps-week-with-research/",
+      "title": "Cargo Mission Launching Saturday as Crew Wraps Week with Research - NASA",
+      "content_text": "The Progress 95 cargo spacecraft from Roscosmos stands atop its launch pad at the Baikonur Cosmodrome in Kazakhstan counting down to a liftoff at  6:21p.m. EDT on Saturday to resupply the Expedition 74 crew.",
       "attachments": [
         {
-          "url": "https://images-assets.nasa.gov/image/NHQ202512200038/NHQ202512200038~large.jpg",
+          "url": "https://images-assets.nasa.gov/image/iss074e0503702/iss074e0503702~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
