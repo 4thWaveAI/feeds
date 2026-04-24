@@ -29,6 +29,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "url": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "title": "NASA Media Contacts - NASA",
+      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Alise",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news/",
       "url": "https://www.nasa.gov/news/",
       "title": "NASA News",
@@ -36,6 +51,21 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2025/05/54492396655-c6ba83df1d-o-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-missouri-students/",
+      "url": "https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-missouri-students/",
+      "title": "NASA Astronauts to Answer Questions from Missouri Students - NASA",
+      "content_text": "Students in Missouri will hear from NASA astronauts Jessica Meir and Jack Hathaway as they answer prerecorded science, technology, engineering, and",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/04/jessica-meir-and-jack-hathaway-downlink-advisory-april-24-1.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -96,21 +126,6 @@
       "attachments": [
         {
           "url": "https://images-assets.nasa.gov/image/iss074e0490824/iss074e0490824~large.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/04/22/dna-research-on-station-promoting-cancer-therapies-radiation-repair/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/04/22/dna-research-on-station-promoting-cancer-therapies-radiation-repair/",
-      "title": "DNA Research on Station Promoting Cancer Therapies, Radiation Repair - NASA",
-      "content_text": "More biotechnology research was underway aboard the International Space Station on Wednesday taking advantage of the microgravity environment to boost knowledge about the properties of DNA and DNA-like nanomaterials. The Expedition 74 crew also completed the installation of an advanced exercise device and tested a set of new virtual reality goggles while continuing to unpack a U.S. cargo spacecraft.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/iss074e0491074/iss074e0491074~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
