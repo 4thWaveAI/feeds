@@ -104,6 +104,25 @@
       ]
     },
     {
+      "id": "https://www.jpl.nasa.gov/news/nasas-perseverance-curiosity-panoramas-capture-two-sides-of-mars/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-perseverance-curiosity-panoramas-capture-two-sides-of-mars/",
+      "title": "NASA’s Perseverance, Curiosity Panoramas Capture Two Sides of Mars",
+      "content_text": "The two rovers captured scenes that highlight the different journeys they’re taking, helping to piece together the puzzle of the Red Planet’s past.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/E1-PIA26696-Curiosity-Captures-a-360-Degree-View-at-Nevado-Sajama.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/Q_P0swqaZDk?list=PLTiv_XWHnOZpzQKYC6nLf6M9AuBbng_O8",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasas-curiosity-finds-organic-molecules-never-seen-before-on-mars/",
       "url": "https://www.jpl.nasa.gov/news/nasas-curiosity-finds-organic-molecules-never-seen-before-on-mars/",
       "title": "NASA’s Curiosity Finds Organic Molecules Never Seen Before on Mars",
@@ -206,21 +225,6 @@
         {
           "url": "https://www.youtube.com/embed/rYBX59epPxI?feature=oembed",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/tiny-nasa-spacecraft-delivers-exoplanet-missions-first-images/",
-      "url": "https://www.jpl.nasa.gov/news/tiny-nasa-spacecraft-delivers-exoplanet-missions-first-images/",
-      "title": "Tiny NASA Spacecraft Delivers Exoplanet Mission’s First Images",
-      "content_text": "NASA's SPARCS spacecraft achieved first light in UV, confirming it's ready to study low-mass stars and assess the habitability of their exoplanets.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26731_sparcs_first_light_v20260312_NEW.png",
-          "mime_type": "image/png"
         }
       ],
       "tags": [
