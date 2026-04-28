@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Tue, 28 Apr 2026 16:09:16 +0000</updated>
+  <updated>Tue, 28 Apr 2026 18:16:21 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -43,6 +43,12 @@
     <link href="https://www.nasa.gov/blogs/spacestation/2026/04/27/progress-95-cargo-craft-approaches-station-for-docking-on-nasa/"/>
     <id>https://www.nasa.gov/blogs/spacestation/2026/04/27/progress-95-cargo-craft-approaches-station-for-docking-on-nasa/</id>
     <summary type="text">The unpiloted Roscosmos Progress 95 spacecraft is continuing toward its planned 8 p.m. autonomous docking to the aft port of the station’s Zvezda module. It launched at 6:21 p.m. EDT on April 25 (3:21 a.m. Baikonur time on April 26) on a Soyuz rocket from the Baikonur Cosmodrome in Kazakhstan.</summary>
+  </entry>
+  <entry>
+    <title>NASA Fires Up Powerful Lithium-Fed Thruster for Trips to Mars</title>
+    <link href="https://www.jpl.nasa.gov/news/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/"/>
+    <id>https://www.jpl.nasa.gov/news/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/</id>
+    <summary type="text">A novel electromagnetic thruster passed an initial test in a specialized chamber at JPL. With further development, these thrusters could support human missions to the Red Planet.</summary>
   </entry>
   <entry>
     <title>NASA’s Perseverance, Curiosity Panoramas Capture Two Sides of Mars</title>
@@ -85,12 +91,6 @@
     <link href="https://www.jpl.nasa.gov/news/nasa-isro-satellite-captures-pacific-northwest-through-clouds/"/>
     <id>https://www.jpl.nasa.gov/news/nasa-isro-satellite-captures-pacific-northwest-through-clouds/</id>
     <summary type="text">Seattle, Portland, Mount Ranier, and Mount Saint Helens are captured in new imagery from NISAR, the most powerful radar system ever launched by NASA or ISRO.</summary>
-  </entry>
-  <entry>
-    <title>See NASA’s GUARDIAN Catch a Tsunami</title>
-    <link href="https://www.jpl.nasa.gov/news/see-nasas-guardian-catch-a-tsunami/"/>
-    <id>https://www.jpl.nasa.gov/news/see-nasas-guardian-catch-a-tsunami/</id>
-    <summary type="text">A new animation breaks down how JPL’s AI-supported hazard scout gets the drop on the ocean’s biggest waves.</summary>
   </entry>
   <entry>
     <title>NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans</title>

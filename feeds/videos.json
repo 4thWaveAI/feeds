@@ -5,6 +5,25 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.json",
   "items": [
     {
+      "id": "https://www.jpl.nasa.gov/news/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/",
+      "title": "NASA Fires Up Powerful Lithium-Fed Thruster for Trips to Mars",
+      "content_text": "A novel electromagnetic thruster passed an initial test in a specialized chamber at JPL. With further development, these thrusters could support human missions to the Red Planet.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/MPD_thumbnail_image.png",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/6XsqSA9tNfY?list=PLTiv_XWHnOZotmIsea-6Chsj-oQXiDzfW",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasas-perseverance-curiosity-panoramas-capture-two-sides-of-mars/",
       "url": "https://www.jpl.nasa.gov/news/nasas-perseverance-curiosity-panoramas-capture-two-sides-of-mars/",
       "title": "NASA’s Perseverance, Curiosity Panoramas Capture Two Sides of Mars",
@@ -16,25 +35,6 @@
         },
         {
           "url": "https://www.youtube.com/embed/Q_P0swqaZDk?list=PLTiv_XWHnOZpzQKYC6nLf6M9AuBbng_O8",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/see-nasas-guardian-catch-a-tsunami/",
-      "url": "https://www.jpl.nasa.gov/news/see-nasas-guardian-catch-a-tsunami/",
-      "title": "See NASA’s GUARDIAN Catch a Tsunami",
-      "content_text": "A new animation breaks down how JPL’s AI-supported hazard scout gets the drop on the ocean’s biggest waves.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/See-NASAs-GUARDIAN-Catch-a-Tsunami.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/rYBX59epPxI?feature=oembed",
           "mime_type": "video/mp4"
         }
       ],
