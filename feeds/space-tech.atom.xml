@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Fri, 01 May 2026 16:56:15 +0000</updated>
+  <updated>Fri, 01 May 2026 17:57:26 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -27,6 +27,12 @@
     <updated>Wed, 07 Dec 2022 13:25:24 -0500</updated>
   </entry>
   <entry>
+    <title>NASA Kennedy Center Director Announces Plans to Retire - NASA</title>
+    <link href="https://www.nasa.gov/news-release/nasa-kennedy-center-director-announces-plans-to-retire/"/>
+    <id>https://www.nasa.gov/news-release/nasa-kennedy-center-director-announces-plans-to-retire/</id>
+    <summary type="text">NASA announced Friday Janet Petro, center director for the agency’s Kennedy Space Center in Florida, is retiring.</summary>
+  </entry>
+  <entry>
     <title>NASA Invites Media to Ireland Artemis Accords Signing - NASA</title>
     <link href="https://www.nasa.gov/news-release/nasa-invites-media-to-ireland-artemis-accords-signing/"/>
     <id>https://www.nasa.gov/news-release/nasa-invites-media-to-ireland-artemis-accords-signing/</id>
@@ -39,16 +45,16 @@
     <summary type="text">Sign up to receive NASA news releases and other information.</summary>
   </entry>
   <entry>
+    <title>NASA, Partners Update International Space Station 2026 Flight Plan - NASA</title>
+    <link href="https://www.nasa.gov/blogs/spacestation/2026/05/01/nasa-partners-update-international-space-station-2026-flight-plan/"/>
+    <id>https://www.nasa.gov/blogs/spacestation/2026/05/01/nasa-partners-update-international-space-station-2026-flight-plan/</id>
+    <summary type="text">After reviewing the International Space Station flight schedule, NASA and its partners are adjusting launch opportunities for several upcoming missions. This update to the schedule better aligns mission planning, logistics, and timing for upcoming flights to support space station operations.</summary>
+  </entry>
+  <entry>
     <title>Life Science, Space Gardening Top Thursday’s Research Schedule - NASA</title>
     <link href="https://www.nasa.gov/blogs/spacestation/2026/04/30/life-science-space-gardening-top-thursdays-research-schedule/"/>
     <id>https://www.nasa.gov/blogs/spacestation/2026/04/30/life-science-space-gardening-top-thursdays-research-schedule/</id>
     <summary type="text">A new exercise device, artery scans, and space gardening topped the research schedule for the Expedition 74 crew aboard the International Space Station on Thursday. The orbital residents also worked on a spacesuit and continued unpacking the Progress 95 cargo craft.</summary>
-  </entry>
-  <entry>
-    <title>Quantum Physics, Biomedicine, and Computer Gear Fill Wednesday’s Schedule - NASA</title>
-    <link href="https://www.nasa.gov/blogs/spacestation/2026/04/29/quantum-physics-biomedicine-and-computer-gear-fill-wednesdays-schedule/"/>
-    <id>https://www.nasa.gov/blogs/spacestation/2026/04/29/quantum-physics-biomedicine-and-computer-gear-fill-wednesdays-schedule/</id>
-    <summary type="text">Physics, biomedicine, and computer networking were the dominant projects for the Expedition 74 crew aboard the International Space Station on Wednesday. The orbital residents also continued unpacking cargo from a pair of resupply ships while keeping up life support maintenance.</summary>
   </entry>
   <entry>
     <title>US-Indian Space Mission Maps Extreme Subsidence in Mexico City</title>
