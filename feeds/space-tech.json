@@ -5,6 +5,15 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.json",
   "items": [
     {
+      "id": "https://www.nasa.gov/news/recently-published/",
+      "url": "https://www.nasa.gov/news/recently-published/",
+      "title": "All NASA News - NASA",
+      "content_text": "Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news/media-contacts/",
       "url": "https://www.nasa.gov/news/media-contacts/",
       "title": "NASA Media Contacts - NASA",
@@ -57,6 +66,36 @@
       "attachments": [
         {
           "url": "https://images-assets.nasa.gov/image/NHQ202512200038/NHQ202512200038~large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/04/30/life-science-space-gardening-top-thursdays-research-schedule/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/04/30/life-science-space-gardening-top-thursdays-research-schedule/",
+      "title": "Life Science, Space Gardening Top Thursday’s Research Schedule - NASA",
+      "content_text": "A new exercise device, artery scans, and space gardening topped the research schedule for the Expedition 74 crew aboard the International Space Station on Thursday. The orbital residents also worked on a spacesuit and continued unpacking the Progress 95 cargo craft.",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/iss074e0503941/iss074e0503941~large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/04/29/quantum-physics-biomedicine-and-computer-gear-fill-wednesdays-schedule/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/04/29/quantum-physics-biomedicine-and-computer-gear-fill-wednesdays-schedule/",
+      "title": "Quantum Physics, Biomedicine, and Computer Gear Fill Wednesday’s Schedule - NASA",
+      "content_text": "Physics, biomedicine, and computer networking were the dominant projects for the Expedition 74 crew aboard the International Space Station on Wednesday. The orbital residents also continued unpacking cargo from a pair of resupply ships while keeping up life support maintenance.",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/iss074e0503710/iss074e0503710~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],

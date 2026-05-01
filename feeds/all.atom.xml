@@ -4,7 +4,14 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Thu, 30 Apr 2026 23:52:03 +0000</updated>
+  <updated>Fri, 01 May 2026 02:46:38 +0000</updated>
+  <entry>
+    <title>All NASA News - NASA</title>
+    <link href="https://www.nasa.gov/news/recently-published/"/>
+    <id>https://www.nasa.gov/news/recently-published/</id>
+    <summary type="text">Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.</summary>
+    <updated>Fri, 30 Jun 2023 08:59:39 -0400</updated>
+  </entry>
   <entry>
     <title>NASA Media Contacts - NASA</title>
     <link href="https://www.nasa.gov/news/media-contacts/"/>
@@ -30,6 +37,18 @@
     <link href="https://www.nasa.gov/2026-news-releases/"/>
     <id>https://www.nasa.gov/2026-news-releases/</id>
     <summary type="text">Sign up to receive NASA news releases and other information.</summary>
+  </entry>
+  <entry>
+    <title>Life Science, Space Gardening Top Thursday’s Research Schedule - NASA</title>
+    <link href="https://www.nasa.gov/blogs/spacestation/2026/04/30/life-science-space-gardening-top-thursdays-research-schedule/"/>
+    <id>https://www.nasa.gov/blogs/spacestation/2026/04/30/life-science-space-gardening-top-thursdays-research-schedule/</id>
+    <summary type="text">A new exercise device, artery scans, and space gardening topped the research schedule for the Expedition 74 crew aboard the International Space Station on Thursday. The orbital residents also worked on a spacesuit and continued unpacking the Progress 95 cargo craft.</summary>
+  </entry>
+  <entry>
+    <title>Quantum Physics, Biomedicine, and Computer Gear Fill Wednesday’s Schedule - NASA</title>
+    <link href="https://www.nasa.gov/blogs/spacestation/2026/04/29/quantum-physics-biomedicine-and-computer-gear-fill-wednesdays-schedule/"/>
+    <id>https://www.nasa.gov/blogs/spacestation/2026/04/29/quantum-physics-biomedicine-and-computer-gear-fill-wednesdays-schedule/</id>
+    <summary type="text">Physics, biomedicine, and computer networking were the dominant projects for the Expedition 74 crew aboard the International Space Station on Wednesday. The orbital residents also continued unpacking cargo from a pair of resupply ships while keeping up life support maintenance.</summary>
   </entry>
   <entry>
     <title>US-Indian Space Mission Maps Extreme Subsidence in Mexico City</title>
