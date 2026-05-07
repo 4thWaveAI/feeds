@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Thu, 07 May 2026 18:21:43 +0000</updated>
+  <updated>Thu, 07 May 2026 20:12:12 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -51,6 +51,12 @@
     <summary type="text">Health monitoring, spacesuit checks, and preparations for an upcoming cargo mission kept the Expedition 74 crew busy on Tuesday. The International Space Station residents rounded out the day with a variety of maintenance on science hardware and life support equipment.</summary>
   </entry>
   <entry>
+    <title>NASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1</title>
+    <link href="https://www.jpl.nasa.gov/news/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/"/>
+    <id>https://www.jpl.nasa.gov/news/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/</id>
+    <summary type="text">The faster a Mars helicopter’s rotors spin, the heavier the payloads it can transport and the farther it can fly.</summary>
+  </entry>
+  <entry>
     <title>NASA’s Next-Gen Near-Earth Asteroid Space Telescope Takes Shape</title>
     <link href="https://www.jpl.nasa.gov/news/nasas-next-gen-near-earth-asteroid-space-telescope-takes-shape/"/>
     <id>https://www.jpl.nasa.gov/news/nasas-next-gen-near-earth-asteroid-space-telescope-takes-shape/</id>
@@ -91,12 +97,6 @@
     <link href="https://www.jpl.nasa.gov/news/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/"/>
     <id>https://www.jpl.nasa.gov/news/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/</id>
     <summary type="text">The water, carbon dioxide, and carbon monoxide ices are attached to the surface of tiny dust particles in clouds spanning hundreds of light-years across.</summary>
-  </entry>
-  <entry>
-    <title>NASA Unveils Initiatives to Achieve America’s National Space Policy</title>
-    <link href="https://www.jpl.nasa.gov/news/nasa-unveils-initiatives-to-achieve-americas-national-space-policy/"/>
-    <id>https://www.jpl.nasa.gov/news/nasa-unveils-initiatives-to-achieve-americas-national-space-policy/</id>
-    <summary type="text">JPL will help support several of the agency’s initiatives to advance the nation’s leadership in space.</summary>
   </entry>
   <entry>
     <title>NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans</title>

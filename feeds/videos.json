@@ -5,6 +5,25 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.json",
   "items": [
     {
+      "id": "https://www.jpl.nasa.gov/news/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/",
+      "url": "https://www.jpl.nasa.gov/news/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/",
+      "title": "NASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1",
+      "content_text": "The faster a Mars helicopter’s rotors spin, the heavier the payloads it can transport and the farther it can fly.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1_-_PIA26648_-_SuperRotor2-crop.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/e2-PIA24582_10x.webm",
+          "mime_type": "video/webm"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/",
       "url": "https://www.jpl.nasa.gov/news/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/",
       "title": "NASA Fires Up Powerful Lithium-Fed Thruster for Trips to Mars",
