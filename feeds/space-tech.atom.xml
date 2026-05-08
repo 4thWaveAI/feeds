@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Fri, 08 May 2026 15:19:24 +0000</updated>
+  <updated>Fri, 08 May 2026 17:13:34 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -25,6 +25,12 @@
     <id>https://www.nasa.gov/news/</id>
     <summary type="text">Resources for news media, including NASA news contacts and archived news material</summary>
     <updated>Wed, 07 Dec 2022 13:25:24 -0500</updated>
+  </entry>
+  <entry>
+    <title>NASA Names Brian Hughes to Launch Operations Role - NASA</title>
+    <link href="https://www.nasa.gov/news-release/nasa-names-brian-hughes-to-launch-operations-role/"/>
+    <id>https://www.nasa.gov/news-release/nasa-names-brian-hughes-to-launch-operations-role/</id>
+    <summary type="text">NASA announced Friday that Brian Hughes will return to the agency as senior director of launch operations, based at the agency’s Kennedy Space Center in</summary>
   </entry>
   <entry>
     <title>NASA Sets Coverage for SpaceX 34th Station Resupply Launch, Arrival - NASA</title>
