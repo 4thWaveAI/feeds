@@ -1,0 +1,128 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "4thWave AI — Mark Zuckerberg (Aggregated)",
+  "home_page_url": "https://www.4thwaveai.com",
+  "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/mark-zuckerberg.json",
+  "items": [
+    {
+      "id": "https://about.fb.com/news/category/technologies/meta/",
+      "url": "https://about.fb.com/news/category/technologies/meta/",
+      "title": "Latest Meta Company News | Meta Newsroom",
+      "content_text": "Latest Meta Company News | Meta Newsroom",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
+      "id": "https://about.fb.com/news/",
+      "url": "https://about.fb.com/news/",
+      "title": "Newsroom | Meta Newsroom",
+      "content_text": "View the latest news, announcements and media resources from Meta.",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
+      "id": "https://about.fb.com/news/category/product-news/",
+      "url": "https://about.fb.com/news/category/product-news/",
+      "title": "Product News Archives | Meta Newsroom",
+      "content_text": "Product News Archives | Meta Newsroom",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
+      "id": "https://about.fb.com/news/category/technology-and-innovation/",
+      "url": "https://about.fb.com/news/category/technology-and-innovation/",
+      "title": "Technology and Innovation News | Meta Newsroom",
+      "content_text": "Technology and Innovation News | Meta Newsroom",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
+      "id": "https://about.fb.com/news/category/public-policy/",
+      "url": "https://about.fb.com/news/category/public-policy/",
+      "title": "Public Policy Archives | Meta Newsroom",
+      "content_text": "Public Policy Archives | Meta Newsroom",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
+      "id": "https://about.fb.com/news/tag/well-being/",
+      "url": "https://about.fb.com/news/tag/well-being/",
+      "title": "Youth Well-Being Articles, Resources, & Tools for Parents & Teens | Meta Newsroom",
+      "content_text": "Stay informed with the latest youth well-being news and resources from Meta. Including topics on mental health, digital wellness, and teen safety.",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
+      "id": "https://about.fb.com/news/category/data-and-privacy/",
+      "url": "https://about.fb.com/news/category/data-and-privacy/",
+      "title": "Data and Privacy News | Meta Newsroom",
+      "content_text": "Data and Privacy News | Meta Newsroom",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
+      "id": "https://about.fb.com/news/tag/security/",
+      "url": "https://about.fb.com/news/tag/security/",
+      "title": "Security News Archives | Meta Newsroom",
+      "content_text": "The latest updates on our work to keep people safe on our apps and protect our platform from abuse.",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    }
+  ]
+}
