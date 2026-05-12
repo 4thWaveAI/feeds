@@ -5,6 +5,25 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.json",
   "items": [
     {
+      "id": "https://www.jpl.nasa.gov/news/nasas-perseverance-rover-snaps-selfie-in-mars-western-frontier/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-perseverance-rover-snaps-selfie-in-mars-western-frontier/",
+      "title": "NASA’s Perseverance Rover Snaps Selfie in Mars’ Western Frontier",
+      "content_text": "The agency’s six-wheeled geologist took a self-portrait during its survey of an ancient landscape that may predate the formation of Jezero Crater itself.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/PIA26752a-Western-Selfie-watson_take_6_up.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/1_-_PIA26752_Western_Selfie-JPL.webm",
+          "mime_type": "video/webm"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/",
       "url": "https://www.jpl.nasa.gov/news/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/",
       "title": "NASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1",

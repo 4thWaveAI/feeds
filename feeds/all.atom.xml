@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Tue, 12 May 2026 14:15:37 +0000</updated>
+  <updated>Tue, 12 May 2026 17:07:43 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -57,6 +57,18 @@
     <summary type="text">DNA-mimicking materials, quantum physics hardware, and spacesuit batteries wrapped up the work week aboard the International Space Station. The Expedition 74 crew also went into the weekend conducting a series of human research investigations studying the heart, the eyes, and psychology.</summary>
   </entry>
   <entry>
+    <title>NASA’s Perseverance Rover Snaps Selfie in Mars’ Western Frontier</title>
+    <link href="https://www.jpl.nasa.gov/news/nasas-perseverance-rover-snaps-selfie-in-mars-western-frontier/"/>
+    <id>https://www.jpl.nasa.gov/news/nasas-perseverance-rover-snaps-selfie-in-mars-western-frontier/</id>
+    <summary type="text">The agency’s six-wheeled geologist took a self-portrait during its survey of an ancient landscape that may predate the formation of Jezero Crater itself.</summary>
+  </entry>
+  <entry>
+    <title>Hello Universe: NASA’s Next-Gen Space Processor Undergoes Testing</title>
+    <link href="https://www.jpl.nasa.gov/news/hello-universe-nasas-next-gen-space-processor-undergoes-testing/"/>
+    <id>https://www.jpl.nasa.gov/news/hello-universe-nasas-next-gen-space-processor-undergoes-testing/</id>
+    <summary type="text">As part of a commercial partnership, the project is developing a sophisticated chip that will give spacecraft the processing capabilities to think for themselves.</summary>
+  </entry>
+  <entry>
     <title>NASA’s Psyche Mission to Fly by Mars for Gravity Assist</title>
     <link href="https://www.jpl.nasa.gov/news/nasas-psyche-mission-to-fly-by-mars-for-gravity-assist/"/>
     <id>https://www.jpl.nasa.gov/news/nasas-psyche-mission-to-fly-by-mars-for-gravity-assist/</id>
@@ -91,18 +103,6 @@
     <link href="https://www.jpl.nasa.gov/news/nasas-perseverance-curiosity-panoramas-capture-two-sides-of-mars/"/>
     <id>https://www.jpl.nasa.gov/news/nasas-perseverance-curiosity-panoramas-capture-two-sides-of-mars/</id>
     <summary type="text">The two rovers captured scenes that highlight the different journeys they’re taking, helping to piece together the puzzle of the Red Planet’s past.</summary>
-  </entry>
-  <entry>
-    <title>NASA’s Curiosity Finds Organic Molecules Never Seen Before on Mars</title>
-    <link href="https://www.jpl.nasa.gov/news/nasas-curiosity-finds-organic-molecules-never-seen-before-on-mars/"/>
-    <id>https://www.jpl.nasa.gov/news/nasas-curiosity-finds-organic-molecules-never-seen-before-on-mars/</id>
-    <summary type="text">Seven organic molecules were identified for the first time on Mars, increasing our understanding of the kinds of molecular preservation possible on the Martian surface.</summary>
-  </entry>
-  <entry>
-    <title>NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating</title>
-    <link href="https://www.jpl.nasa.gov/news/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/"/>
-    <id>https://www.jpl.nasa.gov/news/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/</id>
-    <summary type="text">To conserve power, engineers at NASA’s Jet Propulsion Laboratory needed to turn off one of the science instruments on the most distant spacecraft ever built.</summary>
   </entry>
   <entry>
     <title>NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans</title>

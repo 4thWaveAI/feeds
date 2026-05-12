@@ -119,6 +119,40 @@
       ]
     },
     {
+      "id": "https://www.jpl.nasa.gov/news/nasas-perseverance-rover-snaps-selfie-in-mars-western-frontier/",
+      "url": "https://www.jpl.nasa.gov/news/nasas-perseverance-rover-snaps-selfie-in-mars-western-frontier/",
+      "title": "NASA’s Perseverance Rover Snaps Selfie in Mars’ Western Frontier",
+      "content_text": "The agency’s six-wheeled geologist took a self-portrait during its survey of an ancient landscape that may predate the formation of Jezero Crater itself.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/PIA26752a-Western-Selfie-watson_take_6_up.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/media/1_-_PIA26752_Western_Selfie-JPL.webm",
+          "mime_type": "video/webm"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.jpl.nasa.gov/news/hello-universe-nasas-next-gen-space-processor-undergoes-testing/",
+      "url": "https://www.jpl.nasa.gov/news/hello-universe-nasas-next-gen-space-processor-undergoes-testing/",
+      "title": "Hello Universe: NASA’s Next-Gen Space Processor Undergoes Testing",
+      "content_text": "As part of a commercial partnership, the project is developing a sophisticated chip that will give spacecraft the processing capabilities to think for themselves.",
+      "attachments": [
+        {
+          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-photolab-hpsc-processor.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.jpl.nasa.gov/news/nasas-psyche-mission-to-fly-by-mars-for-gravity-assist/",
       "url": "https://www.jpl.nasa.gov/news/nasas-psyche-mission-to-fly-by-mars-for-gravity-assist/",
       "title": "NASA’s Psyche Mission to Fly by Mars for Gravity Assist",
@@ -214,36 +248,6 @@
         {
           "url": "https://www.youtube.com/embed/Q_P0swqaZDk?list=PLTiv_XWHnOZpzQKYC6nLf6M9AuBbng_O8",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/nasas-curiosity-finds-organic-molecules-never-seen-before-on-mars/",
-      "url": "https://www.jpl.nasa.gov/news/nasas-curiosity-finds-organic-molecules-never-seen-before-on-mars/",
-      "title": "NASA’s Curiosity Finds Organic Molecules Never Seen Before on Mars",
-      "content_text": "Seven organic molecules were identified for the first time on Mars, increasing our understanding of the kinds of molecular preservation possible on the Martian surface.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA24173.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.jpl.nasa.gov/news/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
-      "url": "https://www.jpl.nasa.gov/news/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
-      "title": "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating",
-      "content_text": "To conserve power, engineers at NASA’s Jet Propulsion Laboratory needed to turn off one of the science instruments on the most distant spacecraft ever built.",
-      "attachments": [
-        {
-          "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/Voyager_1-image.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
