@@ -5,21 +5,6 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.json",
   "items": [
     {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/05/14/dragon-targets-friday-launch-as-crew-keeps-up-science-and-spacewalk-preps/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/05/14/dragon-targets-friday-launch-as-crew-keeps-up-science-and-spacewalk-preps/",
-      "title": "Dragon Targets Friday Launch as Crew Keeps Up Science and Spacewalk Preps - NASA",
-      "content_text": "SpaceX CRS-34, the next mission to resupply the International Space Station, is now targeting its launch for no earlier than 6:05 p.m. EDT on Friday, May 15. Meanwhile, the seven-member crew aboard the orbital outpost stayed focused on microgravity research and lab maintenance throughout Thursday.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/iss074e0575169/iss074e0575169~large.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.nasa.gov/news/recently-published/",
       "url": "https://www.nasa.gov/news/recently-published/",
       "title": "All NASA News - NASA",
@@ -74,13 +59,13 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/05/15/dragon-nears-launch-as-crew-works-biomedical-science-and-spacewalk-preps/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/05/15/dragon-nears-launch-as-crew-works-biomedical-science-and-spacewalk-preps/",
-      "title": "Dragon Nears Launch as Crew Works Biomedical Science and Spacewalk Preps - NASA",
-      "content_text": "A SpaceX Falcon 9 rocket, with a cargo-packed Dragon spacecraft atop, stands ready to launch to the International Space Station at 6:05 p.m. EDT today, weather permitting, from Launch Complex 40 at Cape Canaveral Space Force Station in Florida.",
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/05/15/spacex-dragon-lifts-off-to-resupply-expedition-74-crew/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/05/15/spacex-dragon-lifts-off-to-resupply-expedition-74-crew/",
+      "title": "SpaceX Dragon Lifts Off to Resupply Expedition 74 Crew - NASA",
+      "content_text": "At 6:05 p.m. EDT, nearly 6,500 pounds of scientific investigations and cargo launched to the International Space Station aboard the SpaceX Dragon spacecraft for the company’s 34th commercial resupply services mission for NASA.",
       "attachments": [
         {
-          "url": "https://images-assets.nasa.gov/image/KSC-20260513-PH-SPX01_0001/KSC-20260513-PH-SPX01_0001~large.jpg",
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/05/blog-spacex-crs34-launch-051526.jpg",
           "mime_type": "image/jpeg"
         }
       ],
