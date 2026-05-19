@@ -44,13 +44,13 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-34th-spacex-resupply-mission-to-station/",
-      "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-34th-spacex-resupply-mission-to-station/",
-      "title": "NASA Science, Cargo Launch on 34th SpaceX Resupply Mission to Station - NASA",
-      "content_text": "The 34th SpaceX commercial resupply mission under contract with NASA is headed to the International Space Station with new scientific experiments after",
+      "id": "https://www.nasa.gov/2026-news-releases/",
+      "url": "https://www.nasa.gov/2026-news-releases/",
+      "title": "2026 News Releases - NASA",
+      "content_text": "Sign up to receive NASA news releases and other information.",
       "attachments": [
         {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/05/ksc-20260515-ph-spx01-0002update-crs34-release.jpg",
+          "url": "https://images-assets.nasa.gov/image/NHQ202512200038/NHQ202512200038~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -59,13 +59,13 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/2026-news-releases/",
-      "url": "https://www.nasa.gov/2026-news-releases/",
-      "title": "2026 News Releases - NASA",
-      "content_text": "Sign up to receive NASA news releases and other information.",
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/05/19/astronauts-work-cancer-cartilage-treatments-cosmonauts-prep-for-spacewalk/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/05/19/astronauts-work-cancer-cartilage-treatments-cosmonauts-prep-for-spacewalk/",
+      "title": "Astronauts Work Cancer, Cartilage Treatments, Cosmonauts Prep for Spacewalk - NASA",
+      "content_text": "The Expedition 74 crew explored advanced treatments for cancer and cartilage injuries on Tuesday using the weightless environment to gain new biomedical insights. The orbital residents also continued gearing up for a spacewalk planned at the end of the month outside the International Space Station.",
       "attachments": [
         {
-          "url": "https://images-assets.nasa.gov/image/NHQ202512200038/NHQ202512200038~large.jpg",
+          "url": "https://images-assets.nasa.gov/image/iss074e0586370/iss074e0586370~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -82,21 +82,6 @@
         {
           "url": "https://images-assets.nasa.gov/image/iss074e0556690/iss074e0556690~large.jpg",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/05/17/spacex-dragon-docks-to-station-filled-with-new-science-experiments/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/05/17/spacex-dragon-docks-to-station-filled-with-new-science-experiments/",
-      "title": "SpaceX Dragon Docks to Station Filled with New Science Experiments - NASA",
-      "content_text": "At 6:37 a.m. EDT, the SpaceX Dragon spacecraft docked to the forward port of the International Space Station’s Harmony module, carrying nearly 6,500 pounds of food, supplies, and equipment for the Expedition 74 crew. This is the 34th SpaceX commercial resupply services mission to the space station for NASA.",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/05/iss-05-17-26.png",
-          "mime_type": "image/png"
         }
       ],
       "tags": [
