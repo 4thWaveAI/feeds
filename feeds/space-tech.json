@@ -14,6 +14,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news/media-contacts/",
+      "url": "https://www.nasa.gov/news/media-contacts/",
+      "title": "NASA Media Contacts - NASA",
+      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Alise",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news/",
       "url": "https://www.nasa.gov/news/",
       "title": "NASA News",
@@ -51,6 +66,36 @@
       "attachments": [
         {
           "url": "https://images-assets.nasa.gov/image/NHQ202512200038/NHQ202512200038~large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/05/20/cancer-blood-research-tops-science-schedule-as-spacewalk-preps-continue/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/05/20/cancer-blood-research-tops-science-schedule-as-spacewalk-preps-continue/",
+      "title": "Cancer, Blood Research Tops Science Schedule as Spacewalk Preps Continue - NASA",
+      "content_text": "The Expedition 74 crew continued exploring ways to advance cancer treatments and prevent excessive bleeding aboard the International Space Station on Wednesday. The orbital residents are also unpacking a U.S. cargo spacecraft while preparing spacesuits for an upcoming spacewalk.",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/iss074e0588592/iss074e0588592~large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/05/19/astronauts-work-cancer-cartilage-treatments-cosmonauts-prep-for-spacewalk/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/05/19/astronauts-work-cancer-cartilage-treatments-cosmonauts-prep-for-spacewalk/",
+      "title": "Astronauts Work Cancer, Cartilage Treatments, Cosmonauts Prep for Spacewalk - NASA",
+      "content_text": "The Expedition 74 crew explored advanced treatments for cancer and cartilage injuries on Tuesday using the weightless environment to gain new biomedical insights. The orbital residents also continued gearing up for a spacewalk planned at the end of the month outside the International Space Station.",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/iss074e0586370/iss074e0586370~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
