@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Thu, 21 May 2026 14:12:57 +0000</updated>
+  <updated>Thu, 21 May 2026 17:29:33 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -25,6 +25,12 @@
     <id>https://www.nasa.gov/news/</id>
     <summary type="text">Resources for news media, including NASA news contacts and archived news material</summary>
     <updated>Wed, 07 Dec 2022 13:25:24 -0500</updated>
+  </entry>
+  <entry>
+    <title>NASA Welcomes 16th Deputy Administrator Matt Anderson - NASA</title>
+    <link href="https://www.nasa.gov/news-release/nasa-welcomes-16th-deputy-administrator-matt-anderson/"/>
+    <id>https://www.nasa.gov/news-release/nasa-welcomes-16th-deputy-administrator-matt-anderson/</id>
+    <summary type="text">Matt Anderson was sworn in Thursday as NASA’s 16th deputy administrator by NASA Administrator Jared Isaacman. The oath was taken during a ceremony held at the</summary>
   </entry>
   <entry>
     <title>NASA to Provide Update on Moon Base Strategy, Missions - NASA</title>
