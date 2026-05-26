@@ -59,6 +59,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news-release/nasa-to-announce-artemis-iii-crew-provide-mission-progress-update/",
+      "url": "https://www.nasa.gov/news-release/nasa-to-announce-artemis-iii-crew-provide-mission-progress-update/",
+      "title": "NASA to Announce Artemis III Crew, Provide Mission Progress Update - NASA",
+      "content_text": "NASA will provide an update on the agency’s Artemis III mission and announce the astronauts assigned to the test flight during a live event at 11 a.m. EDT on",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/09/cropped-nasa-meatball-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news-release/nasa-provides-update-on-moon-base-rovers-landers-missions/",
       "url": "https://www.nasa.gov/news-release/nasa-provides-update-on-moon-base-rovers-landers-missions/",
       "title": "NASA Provides Update on Moon Base Rovers, Landers, Missions - NASA",
@@ -82,21 +97,6 @@
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp",
           "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roscosmos-spacewalk-outside-space-station-2/",
-      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roscosmos-spacewalk-outside-space-station-2/",
-      "title": "NASA Sets Coverage for Roscosmos Spacewalk Outside Space Station - NASA",
-      "content_text": "NASA will provide live coverage on Wednesday, May 27, as two Roscosmos cosmonauts conduct a spacewalk outside the International Space Station. The spacewalk",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/05/roscosmosadvisorymay22-4d3cc8.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -272,6 +272,21 @@
       ]
     },
     {
+      "id": "https://www.rocketlabusa.com/updates/adminrocketlab-co-nz-2/",
+      "url": "https://www.rocketlabusa.com/updates/adminrocketlab-co-nz-2/",
+      "title": "Rocket Lab Adds Mars-Proven Robotics Capabilities with Completion of Motiv Space Systems Acquisition | Rocket Lab",
+      "content_text": "Acquisition brings Mars heritage for complex planetary missions, as well as precision mechanisms essential for next-generation space infrastructure including orbital data centers and constellations",
+      "attachments": [
+        {
+          "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.rocketlabusa.com/updates/adminrocketlab-co-nz/",
       "url": "https://www.rocketlabusa.com/updates/adminrocketlab-co-nz/",
       "title": "Mission Success: Rocket Lab Completes 9th Electron Launch for Synspective | Rocket Lab",
@@ -306,21 +321,6 @@
       "url": "https://www.rocketlabusa.com/updates/rocket-labs-biggest-launch-deal-yet-confidential-customer-books-multiple-neutron-and-electron-launches/",
       "title": "Rocket Lab’s Biggest Launch Deal Yet:  Confidential Customer Books Multiple Neutron and Electron Launches | Rocket Lab",
       "content_text": "The multi-launch contract includes dedicated missions on five Neutron and three Electron rockets for a confidential customer with the launches baselined for 2026-2029",
-      "attachments": [
-        {
-          "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.rocketlabusa.com/updates/rocket-lab-to-acquire-robotics-leader-motiv-space-systems/",
-      "url": "https://www.rocketlabusa.com/updates/rocket-lab-to-acquire-robotics-leader-motiv-space-systems/",
-      "title": "Rocket Lab To Acquire Robotics Leader Motiv Space Systems | Rocket Lab",
-      "content_text": "The acquisition will add proven robotics technology used in Mars rovers and also insources precision space mechanisms such as solar array drive assemblies, one of the critical components needed for satellite constellation manufacturing.",
       "attachments": [
         {
           "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
