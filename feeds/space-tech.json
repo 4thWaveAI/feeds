@@ -29,6 +29,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "url": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "title": "NASA Media Contacts - NASA",
+      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Alise",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news/",
       "url": "https://www.nasa.gov/news/",
       "title": "NASA News",
@@ -36,6 +51,21 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2025/05/54492396655-c6ba83df1d-o-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-provides-update-on-moon-base-rovers-landers-missions/",
+      "url": "https://www.nasa.gov/news-release/nasa-provides-update-on-moon-base-rovers-landers-missions/",
+      "title": "NASA Provides Update on Moon Base Rovers, Landers, Missions - NASA",
+      "content_text": "During a Moon Base event Tuesday at NASA’s Headquarters in Washington, the agency announced new contracts for lunar rovers for crew to drive and uncrewed",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/05/nhq202605260002.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -96,21 +126,6 @@
       "attachments": [
         {
           "url": "https://images-assets.nasa.gov/image/iss074e0604515/iss074e0604515~large.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/05/22/cancer-treatment-cartilage-repair-and-spacesuit-checks-wrap-up-week/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/05/22/cancer-treatment-cartilage-repair-and-spacesuit-checks-wrap-up-week/",
-      "title": "Cancer Treatment, Cartilage Repair, and Spacesuit Checks Wrap Up Week - NASA",
-      "content_text": "Experiments exploring cancer treatments and cartilage repair topped the Expedition 74 crew’s research schedule on Friday. Two cosmonauts are also gearing up for a spacewalk in less than a week.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/iss074e0603699/iss074e0603699~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
