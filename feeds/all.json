@@ -44,13 +44,28 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news-release/nasa-astronaut-andrew-morgan-retires/",
-      "url": "https://www.nasa.gov/news-release/nasa-astronaut-andrew-morgan-retires/",
-      "title": "NASA Astronaut Andrew Morgan Retires - NASA",
-      "content_text": "May 28, 2026",
+      "id": "https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/",
+      "title": "NASA Awards Contract for Johnson Space Center Infrastructure - NASA",
+      "content_text": "NASA has selected seven companies to provide construction, revitalization, and infrastructure improvements at the agency’s Johnson Space Center in Houston.",
       "attachments": [
         {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/05/andrew-morgan-eva-.jpg",
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-hosts-spacex-crew-11-astronauts-for-public-event-at-headquarters/",
+      "url": "https://www.nasa.gov/news-release/nasa-hosts-spacex-crew-11-astronauts-for-public-event-at-headquarters/",
+      "title": "NASA Hosts SpaceX Crew-11 Astronauts for Public Event at Headquarters - NASA",
+      "content_text": "NASA will host a public event featuring three crew members from the agency’s SpaceX Crew-11 mission at 11 a.m. EDT Monday, June 1. The event, which takes",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/05/crew-11-hq-visit-advisory-may-29.jpg",
           "mime_type": "image/jpeg"
         }
       ],
