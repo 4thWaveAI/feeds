@@ -29,6 +29,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news/",
+      "url": "https://www.nasa.gov/news/",
+      "title": "NASA News",
+      "content_text": "Resources for news media, including NASA news contacts and archived news material",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/05/54492396655-c6ba83df1d-o-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/",
       "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/",
       "title": "NASA Awards Contract for Johnson Space Center Infrastructure - NASA",
@@ -97,6 +112,25 @@
         {
           "url": "https://images-assets.nasa.gov/image/iss074e0619980/iss074e0619980~large.jpg",
           "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/feature/uli-10-years-of-impact/",
+      "url": "https://www.nasa.gov/feature/uli-10-years-of-impact/",
+      "title": "A Decade of ULI Accomplishments",
+      "content_text": "A Decade of ULI Accomplishments After 20 years, humans continue to live on the International Space Station, working together to make breakthroughs not possible on Earth.",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/05/uli-feature-outro-image-v2.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/05/airplane-analysis-2.mp4",
+          "mime_type": "video/mp4"
         }
       ],
       "tags": [
