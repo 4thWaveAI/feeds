@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Mon, 01 Jun 2026 20:14:38 +0000</updated>
+  <updated>Mon, 01 Jun 2026 23:00:36 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -20,11 +20,24 @@
     <updated>Thu, 29 Jun 2023 14:53:17 -0400</updated>
   </entry>
   <entry>
+    <title>NASA Media Contacts - NASA</title>
+    <link href="https://www.nasa.gov/news/nasa-media-contacts/"/>
+    <id>https://www.nasa.gov/news/nasa-media-contacts/</id>
+    <summary type="text">Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Alise</summary>
+    <updated>Thu, 29 Jun 2023 14:53:17 -0400</updated>
+  </entry>
+  <entry>
     <title>NASA News</title>
     <link href="https://www.nasa.gov/news/"/>
     <id>https://www.nasa.gov/news/</id>
     <summary type="text">Resources for news media, including NASA news contacts and archived news material</summary>
     <updated>Wed, 07 Dec 2022 13:25:24 -0500</updated>
+  </entry>
+  <entry>
+    <title>NASA Invites Media to See Roman Space Telescope Arrive at Kennedy - NASA</title>
+    <link href="https://www.nasa.gov/news-release/nasa-invites-media-to-see-roman-space-telescope-arrive-at-kennedy/"/>
+    <id>https://www.nasa.gov/news-release/nasa-invites-media-to-see-roman-space-telescope-arrive-at-kennedy/</id>
+    <summary type="text">Registration is open for media to cover the arrival of NASA’s Nancy Grace Roman Space Telescope at the agency’s Kennedy Space Center in Florida in the coming</summary>
   </entry>
   <entry>
     <title>NASA Awards Contract for Johnson Space Center Infrastructure - NASA</title>
@@ -49,12 +62,6 @@
     <link href="https://www.nasa.gov/blogs/spacestation/2026/06/01/stem-cell-research-for-cancer-spacesuit-work-kick-off-june/"/>
     <id>https://www.nasa.gov/blogs/spacestation/2026/06/01/stem-cell-research-for-cancer-spacesuit-work-kick-off-june/</id>
     <summary type="text">The Expedition 74 crew kicked off June with a busy schedule of microgravity research harvesting stem cells, installing physics hardware, and watering plants aboard the International Space Station. Spacesuit work and life support maintenance rounded out the day for the orbital residents.</summary>
-  </entry>
-  <entry>
-    <title>Blood-Clotting Research, Spacewalk Cleanup Wrap Up Week on Space Station - NASA</title>
-    <link href="https://www.nasa.gov/blogs/spacestation/2026/05/29/blood-clotting-research-spacewalk-cleanup-wrap-up-week-on-space-station/"/>
-    <id>https://www.nasa.gov/blogs/spacestation/2026/05/29/blood-clotting-research-spacewalk-cleanup-wrap-up-week-on-space-station/</id>
-    <summary type="text">The Expedition 74 crew members primarily focused their science work on blood-clotting and immune function in microgravity to advance human health on Friday. Meanwhile, spacesuit maintenance continues aboard the International Space Station following a spacewalk on Wednesday.</summary>
   </entry>
   <entry>
     <title>Press Releases</title>
