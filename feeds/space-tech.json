@@ -29,6 +29,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "url": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "title": "NASA Media Contacts - NASA",
+      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Alise",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news/",
       "url": "https://www.nasa.gov/news/",
       "title": "NASA News",
@@ -36,6 +51,21 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2025/05/54492396655-c6ba83df1d-o-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/",
+      "url": "https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/",
+      "title": "NASA Says Farewell to MAVEN Mars Mission, Hosts Media Call Today - NASA",
+      "content_text": "The first mission devoted to observing the Martian atmosphere and its evolution, NASA’s MAVEN (Mars Atmosphere and Volatile Evolution), has ended after more",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/c-original.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -96,21 +126,6 @@
       "attachments": [
         {
           "url": "https://images-assets.nasa.gov/image/iss074e0620142/iss074e0620142~large.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/06/01/stem-cell-research-for-cancer-spacesuit-work-kick-off-june/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/06/01/stem-cell-research-for-cancer-spacesuit-work-kick-off-june/",
-      "title": "Stem Cell Research for Cancer, Spacesuit Work Kick Off June - NASA",
-      "content_text": "The Expedition 74 crew kicked off June with a busy schedule of microgravity research harvesting stem cells, installing physics hardware, and watering plants aboard the International Space Station. Spacesuit work and life support maintenance rounded out the day for the orbital residents.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/iss074e0604163/iss074e0604163~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
