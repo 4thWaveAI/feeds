@@ -1,0 +1,84 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "4thWave AI — Videos (Aggregated)",
+  "home_page_url": "https://www.4thwaveai.com",
+  "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.json",
+  "items": [
+    {
+      "id": "https://www.relativityspace.com/press-release/2026/5/8/april-2026-company-update",
+      "url": "https://www.relativityspace.com/press-release/2026/5/8/april-2026-company-update",
+      "title": "April 2026 Company Update",
+      "content_text": "April brought continued momentum across the Terran R program, with progress advancing across design, build, test, and launch.&nbsp;   Design  This month, 2,055 flight parts were released, with a concerted effort on the stage one shipping assembly. Nearly all of the first stage structural compone",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/VkMOxp9ZKfU",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2026/4/13/march-2026-company-updatenbspnbsp",
+      "url": "https://www.relativityspace.com/press-release/2026/4/13/march-2026-company-updatenbspnbsp",
+      "title": "March 2026 Company Update",
+      "content_text": "March brought continued progress across the Terran R program, with key milestones across design, manufacturing, testing, and launch preparations.&nbsp;   Design  This month, the team released 2,207 flight parts, with a continued focus on completing the stage one shipping assembly. Work remains c",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/MKrGdH-g60w",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2026/3/8/february-2026-company-update",
+      "url": "https://www.relativityspace.com/press-release/2026/3/8/february-2026-company-update",
+      "title": "February 2026 Company Update",
+      "content_text": "February marked another month of critical progress across design, build, test, and launch.   Design  This month, the team released an additional 1,826 flight components. The stage two shipping assembly and stage two fluids top-level assembly are now fully released, enabling final integration activit",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/nVj_hYQxrc8",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2026/2/6/january-2026-company-updatenbspnbsp",
+      "url": "https://www.relativityspace.com/press-release/2026/2/6/january-2026-company-updatenbspnbsp",
+      "title": "January 2026 Company Update",
+      "content_text": "January marked a strong start to the year, with meaningful progress across design, build, test, and launch.   Design  This month, the team released 1,856 flight parts. At this stage of the program, part releases are primarily for secondary structures and integration hardware that will be installed l",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/GMmUCL79GRs",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    }
+  ]
+}
