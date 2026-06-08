@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Mon, 08 Jun 2026 17:20:38 +0000</updated>
+  <updated>Mon, 08 Jun 2026 20:10:17 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -25,12 +25,6 @@
     <id>https://www.nasa.gov/news/</id>
     <summary type="text">Resources for news media, including NASA news contacts and archived news material</summary>
     <updated>Wed, 07 Dec 2022 13:25:24 -0500</updated>
-  </entry>
-  <entry>
-    <title>NASA Says Farewell to MAVEN Mars Mission, Hosts Media Call Today - NASA</title>
-    <link href="https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/"/>
-    <id>https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/</id>
-    <summary type="text">The first mission devoted to observing the Martian atmosphere and its evolution, NASA’s MAVEN (Mars Atmosphere and Volatile Evolution), has ended after more</summary>
   </entry>
   <entry>
     <title>2026 News Releases - NASA</title>
@@ -159,6 +153,12 @@
     <summary type="text">The multi-launch contract includes dedicated missions on five Neutron and three Electron rockets for a confidential customer with the launches baselined for 2026-2029</summary>
   </entry>
   <entry>
+    <title>May 2026 Company Update</title>
+    <link href="https://www.relativityspace.com/press-release/2026/6/4/may-2026-company-updatenbspnbsp"/>
+    <id>https://www.relativityspace.com/press-release/2026/6/4/may-2026-company-updatenbspnbsp</id>
+    <summary type="text">May brought a major milestone for the Terran R program, with the integrated second stage departing Long Beach and beginning its journey to NASA Stennis. Across the company, teams continued advancing work across design, build, test, and launch.   Design  This month, 1,455 flight parts were released,</summary>
+  </entry>
+  <entry>
     <title>April 2026 Company Update</title>
     <link href="https://www.relativityspace.com/press-release/2026/5/8/april-2026-company-update"/>
     <id>https://www.relativityspace.com/press-release/2026/5/8/april-2026-company-update</id>
@@ -175,12 +175,6 @@
     <link href="https://www.relativityspace.com/press-release/2026/3/8/february-2026-company-update"/>
     <id>https://www.relativityspace.com/press-release/2026/3/8/february-2026-company-update</id>
     <summary type="text">February marked another month of critical progress across design, build, test, and launch.   Design  This month, the team released an additional 1,826 flight components. The stage two shipping assembly and stage two fluids top-level assembly are now fully released, enabling final integration activit</summary>
-  </entry>
-  <entry>
-    <title>January 2026 Company Update</title>
-    <link href="https://www.relativityspace.com/press-release/2026/2/6/january-2026-company-updatenbspnbsp"/>
-    <id>https://www.relativityspace.com/press-release/2026/2/6/january-2026-company-updatenbspnbsp</id>
-    <summary type="text">January marked a strong start to the year, with meaningful progress across design, build, test, and launch.   Design  This month, the team released 1,856 flight parts. At this stage of the program, part releases are primarily for secondary structures and integration hardware that will be installed l</summary>
   </entry>
   <entry>
     <title>NEWS – Space Development Agency</title>

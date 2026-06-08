@@ -5,6 +5,25 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.json",
   "items": [
     {
+      "id": "https://www.relativityspace.com/press-release/2026/6/4/may-2026-company-updatenbspnbsp",
+      "url": "https://www.relativityspace.com/press-release/2026/6/4/may-2026-company-updatenbspnbsp",
+      "title": "May 2026 Company Update",
+      "content_text": "May brought a major milestone for the Terran R program, with the integrated second stage departing Long Beach and beginning its journey to NASA Stennis. Across the company, teams continued advancing work across design, build, test, and launch.   Design  This month, 1,455 flight parts were released,",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/Mt_bow-eer4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.relativityspace.com/press-release/2026/5/8/april-2026-company-update",
       "url": "https://www.relativityspace.com/press-release/2026/5/8/april-2026-company-update",
       "title": "April 2026 Company Update",
@@ -54,25 +73,6 @@
         },
         {
           "url": "https://www.youtube.com/embed/nVj_hYQxrc8",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.relativityspace.com/press-release/2026/2/6/january-2026-company-updatenbspnbsp",
-      "url": "https://www.relativityspace.com/press-release/2026/2/6/january-2026-company-updatenbspnbsp",
-      "title": "January 2026 Company Update",
-      "content_text": "January marked a strong start to the year, with meaningful progress across design, build, test, and launch.   Design  This month, the team released 1,856 flight parts. At this stage of the program, part releases are primarily for secondary structures and integration hardware that will be installed l",
-      "attachments": [
-        {
-          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
-          "mime_type": "image/png"
-        },
-        {
-          "url": "https://www.youtube.com/embed/GMmUCL79GRs",
           "mime_type": "video/mp4"
         }
       ],
