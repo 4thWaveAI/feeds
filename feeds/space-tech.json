@@ -29,6 +29,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "url": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "title": "NASA Media Contacts - NASA",
+      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Alise",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news/",
       "url": "https://www.nasa.gov/news/",
       "title": "NASA News",
@@ -51,6 +66,21 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2026/06/artemis-iii-crew.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/",
+      "url": "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/",
+      "title": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure - NASA",
+      "content_text": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft is scheduled to depart the",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/34-resupply-return-coverage-june-12.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -111,21 +141,6 @@
       "attachments": [
         {
           "url": "https://images-assets.nasa.gov/image/iss074e0604611/iss074e0604611~large.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/06/10/expedition-74-works-scientific-installs-suit-prep-ahead-of-canadarm2-repair-spacewalk/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/06/10/expedition-74-works-scientific-installs-suit-prep-ahead-of-canadarm2-repair-spacewalk/",
-      "title": "Expedition 74 Works Scientific Installs, Suit Prep Ahead of Canadarm2 Repair Spacewalk - NASA",
-      "content_text": "Scientific hardware installations and biomedical monitoring topped the research schedule aboard the International Space Station on Wednesday. The Expedition 74 crew members also adjusted a spacesuit to prepare for a spacewalk and explored space physics to round out their day.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/iss074e0433177/iss074e0433177~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
