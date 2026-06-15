@@ -74,13 +74,13 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news-release/nasa-to-preview-katalyst-mission-to-boost-swift-spacecrafts-orbit/",
-      "url": "https://www.nasa.gov/news-release/nasa-to-preview-katalyst-mission-to-boost-swift-spacecrafts-orbit/",
-      "title": "NASA to Preview Katalyst Mission to Boost Swift Spacecraft’s Orbit - NASA",
-      "content_text": "NASA will host an audio-only media teleconference at 11 a.m. EDT, Wednesday, June 17, to preview the Katalyst Space mission to boost the orbit of NASA’s Neil",
+      "id": "https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-available-for-prelaunch-virtual-interviews/",
+      "url": "https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-available-for-prelaunch-virtual-interviews/",
+      "title": "NASA Astronaut Anil Menon Available for Prelaunch Virtual Interviews - NASA",
+      "content_text": "NASA astronaut Anil Menon will be available for limited media interviews beginning at 9 a.m. EDT Monday, June 22, to discuss his upcoming mission to the",
       "attachments": [
         {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/ne201077-2581x1494-1.jpg",
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/anil-menon.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -126,6 +126,21 @@
       "attachments": [
         {
           "url": "https://images-assets.nasa.gov/image/iss074e0672727/iss074e0672727~large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/06/15/crew-packs-dragon-for-tuesday-departure-and-preps-for-spacewalk/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/06/15/crew-packs-dragon-for-tuesday-departure-and-preps-for-spacewalk/",
+      "title": "Crew Packs Dragon for Tuesday Departure and Preps for Spacewalk - NASA",
+      "content_text": "The Expedition 74 crew members packed a U.S. cargo spacecraft on Monday with sensitive science experiments and lab hardware for return to Earth. The orbital residents also configured spacewalking tools and conducted cardiac research to kick off the week aboard the International Space Station.",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/iss074e0587456/iss074e0587456~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
