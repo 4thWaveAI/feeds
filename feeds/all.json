@@ -59,36 +59,6 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/",
-      "url": "https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/",
-      "title": "NASA Announces Public-Private Partnership to Advance Mars Science - NASA",
-      "content_text": "NASA Wednesday announced a new public‑private partnership to advance Mars science by combining the agency’s scientific leadership with commercial innovation.",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/dsc00375-002.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalk-95-host-preview-news-conference/",
-      "url": "https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalk-95-host-preview-news-conference/",
-      "title": "NASA to Cover US Spacewalk 95, Host Preview News Conference - NASA",
-      "content_text": "NASA astronauts will venture outside the International Space Station on Tuesday, June 30, to replace a wrist joint on the orbital complex’s Canadarm2 robotic",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/spacewalk-95-advisory-june-22.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/",
       "url": "https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/",
       "title": "NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere - NASA",
@@ -104,13 +74,43 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news-release/nasa-awards-contract-for-commercial-satellite-data-acquisition/",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-commercial-satellite-data-acquisition/",
-      "title": "NASA Awards Contract for Commercial Satellite Data Acquisition - NASA",
-      "content_text": "NASA has selected eight new companies and will acquire new data products from six existing Commercial Satellite Data Acquisition contract holders to expand",
+      "id": "https://www.nasa.gov/news-release/nasa-awards-solutions-for-federal-enterprise-procurement-contracts/",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-solutions-for-federal-enterprise-procurement-contracts/",
+      "title": "NASA Awards Solutions for Federal Enterprise Procurement Contracts - NASA",
+      "content_text": "NASA will begin processing the awards of multiple contracts for the Solutions for Enterprise‑wide Procurement (SEWP) VI Government-wide Acquisition Contract.",
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-invites-media-to-botswana-artemis-accords-signing-ceremony/",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-botswana-artemis-accords-signing-ceremony/",
+      "title": "NASA Invites Media to Botswana Artemis Accords Signing Ceremony - NASA",
+      "content_text": "The Republic of Botswana will sign the Artemis Accords during a ceremony at 9:30 a.m. EDT Thursday, June 25, at NASA Headquarters in Washington.",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/nasa-meatball-11-black-background.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalk-95-host-preview-news-conference/",
+      "url": "https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalk-95-host-preview-news-conference/",
+      "title": "NASA to Cover US Spacewalk 95, Host Preview News Conference - NASA",
+      "content_text": "NASA astronauts will venture outside the International Space Station on Tuesday, June 30, to replace a wrist joint on the orbital complex’s Canadarm2 robotic",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/spacewalk-95-advisory-june-22.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -272,10 +272,10 @@
       ]
     },
     {
-      "id": "https://www.rocketlabusa.com/updates/rocket-lab-awarded-90m-contract-to-build-geo-satellites-hosting-space-domain-awareness-payload-for-u-s-space-force/",
-      "url": "https://www.rocketlabusa.com/updates/rocket-lab-awarded-90m-contract-to-build-geo-satellites-hosting-space-domain-awareness-payload-for-u-s-space-force/",
-      "title": "Rocket Lab Awarded $90M Contract to Build GEO Satellites Hosting Space Domain Awareness Payload for U.S. Space Force  | Rocket Lab",
-      "content_text": "Award marks Rocket Lab's first satellite production program for geostationary orbit and continues a Space Systems Command program for development and delivery on orbit of two Heimdall prototype payloads by Rocket Lab Optical Systems.",
+      "id": "https://www.rocketlabusa.com/updates/victus-haze/",
+      "url": "https://www.rocketlabusa.com/updates/victus-haze/",
+      "title": "Rocket Lab Shatters Responsive Space Record: Launches U.S. Space Force VICTUS HAZE Mission in 16 Hours 42 Minutes | Rocket Lab",
+      "content_text": "Historic Speed: Rocket Lab launched the VICTUS HAZE mission just 16 hours and 42 minutes after receiving the U.S. Space Force’s Notice to Launch, beating the previous record by more than 10 hours and setting a new global standard in responsive space access. <br />\nEnd-to-End Space Capability: Marking a…",
       "attachments": [
         {
           "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
@@ -317,10 +317,10 @@
       ]
     },
     {
-      "id": "https://www.rocketlabusa.com/updates/rocket-lab-awarded-30-million-contract-for-haste-hypersonic-rocket-launches-for-anduril/",
-      "url": "https://www.rocketlabusa.com/updates/rocket-lab-awarded-30-million-contract-for-haste-hypersonic-rocket-launches-for-anduril/",
-      "title": "Rocket Lab Awarded $30 Million Contract for HASTE Hypersonic Rocket Launches for Anduril | Rocket Lab",
-      "content_text": "Long Beach, California. May 7, 2026 – Rocket Lab Corporation (Nasdaq: RKLB), a global leader in launch services and space systems, today announced it has been selected by defense technology company Anduril Industries for multiple hypersonic test flights with its HASTE launch vehicle. The…",
+      "id": "https://www.rocketlabusa.com/updates/rocket-lab-awarded-90m-contract-to-build-geo-satellites-hosting-space-domain-awareness-payload-for-u-s-space-force/",
+      "url": "https://www.rocketlabusa.com/updates/rocket-lab-awarded-90m-contract-to-build-geo-satellites-hosting-space-domain-awareness-payload-for-u-s-space-force/",
+      "title": "Rocket Lab Awarded $90M Contract to Build GEO Satellites Hosting Space Domain Awareness Payload for U.S. Space Force  | Rocket Lab",
+      "content_text": "Award marks Rocket Lab's first satellite production program for geostationary orbit and continues a Space Systems Command program for development and delivery on orbit of two Heimdall prototype payloads by Rocket Lab Optical Systems.",
       "attachments": [
         {
           "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
@@ -332,10 +332,10 @@
       ]
     },
     {
-      "id": "https://www.rocketlabusa.com/updates/rocket-labs-biggest-launch-deal-yet-confidential-customer-books-multiple-neutron-and-electron-launches/",
-      "url": "https://www.rocketlabusa.com/updates/rocket-labs-biggest-launch-deal-yet-confidential-customer-books-multiple-neutron-and-electron-launches/",
-      "title": "Rocket Lab’s Biggest Launch Deal Yet:  Confidential Customer Books Multiple Neutron and Electron Launches | Rocket Lab",
-      "content_text": "The multi-launch contract includes dedicated missions on five Neutron and three Electron rockets for a confidential customer with the launches baselined for 2026-2029",
+      "id": "https://www.rocketlabusa.com/updates/rocket-lab-awarded-30-million-contract-for-haste-hypersonic-rocket-launches-for-anduril/",
+      "url": "https://www.rocketlabusa.com/updates/rocket-lab-awarded-30-million-contract-for-haste-hypersonic-rocket-launches-for-anduril/",
+      "title": "Rocket Lab Awarded $30 Million Contract for HASTE Hypersonic Rocket Launches for Anduril | Rocket Lab",
+      "content_text": "Long Beach, California. May 7, 2026 – Rocket Lab Corporation (Nasdaq: RKLB), a global leader in launch services and space systems, today announced it has been selected by defense technology company Anduril Industries for multiple hypersonic test flights with its HASTE launch vehicle. The…",
       "attachments": [
         {
           "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
