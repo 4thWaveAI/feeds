@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:space-tech</id>
-  <updated>Mon, 22 Jun 2026 17:28:36 +0000</updated>
+  <updated>Mon, 22 Jun 2026 20:41:45 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -16,6 +16,13 @@
     <title>NASA Media Contacts - NASA</title>
     <link href="https://www.nasa.gov/news/media-contacts/"/>
     <id>https://www.nasa.gov/news/media-contacts/</id>
+    <summary type="text">Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Alise</summary>
+    <updated>Thu, 29 Jun 2023 14:53:17 -0400</updated>
+  </entry>
+  <entry>
+    <title>NASA Media Contacts - NASA</title>
+    <link href="https://www.nasa.gov/news/nasa-media-contacts/"/>
+    <id>https://www.nasa.gov/news/nasa-media-contacts/</id>
     <summary type="text">Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Alise</summary>
     <updated>Thu, 29 Jun 2023 14:53:17 -0400</updated>
   </entry>
@@ -55,12 +62,6 @@
     <link href="https://www.nasa.gov/2026-news-releases/"/>
     <id>https://www.nasa.gov/2026-news-releases/</id>
     <summary type="text">Sign up to receive NASA news releases and other information.</summary>
-  </entry>
-  <entry>
-    <title>Advanced Health Research on Station Using Augmented, Virtual Reality Tools - NASA</title>
-    <link href="https://www.nasa.gov/blogs/spacestation/2026/06/17/advanced-health-research-on-station-using-augmented-virtual-reality-tools/"/>
-    <id>https://www.nasa.gov/blogs/spacestation/2026/06/17/advanced-health-research-on-station-using-augmented-virtual-reality-tools/</id>
-    <summary type="text">Biomedical tests using augmented and virtual reality tools to advance space health dominated the research schedule aboard the International Space Station on Wednesday. The Expedition 74 crew is also turning its attention to a spacewalk at the end of the month following the departure of a U.S. cargo spacecraft.</summary>
   </entry>
   <entry>
     <title>Crew Starts Week with Bioengineering, Space Manufacturing, and Spacewalk Preps - NASA</title>
