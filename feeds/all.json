@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/06/23/nasa-announces-spacewalkers-for-robotic-arm-repair-work/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/06/23/nasa-announces-spacewalkers-for-robotic-arm-repair-work/",
+      "title": "NASA Announces Spacewalkers for Robotic Arm Repair Work - NASA",
+      "content_text": "Spacewalk preparations filled the schedule aboard the International Space Station on Tuesday as a pair of astronauts gear up for next week’s external robotics repair job. CubeSat maintenance and eye checks rounded out the day for the Expedition 74 crew.",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/iss074e0404371/iss074e0404371~large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news/recently-published/",
       "url": "https://www.nasa.gov/news/recently-published/",
       "title": "All NASA News - NASA",
@@ -16,21 +31,6 @@
     {
       "id": "https://www.nasa.gov/news/media-contacts/",
       "url": "https://www.nasa.gov/news/media-contacts/",
-      "title": "NASA Media Contacts - NASA",
-      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Alise",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/news/nasa-media-contacts/",
-      "url": "https://www.nasa.gov/news/nasa-media-contacts/",
       "title": "NASA Media Contacts - NASA",
       "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Alise",
       "attachments": [
