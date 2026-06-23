@@ -44,6 +44,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "url": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "title": "NASA Media Contacts - NASA",
+      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Alise",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news/",
       "url": "https://www.nasa.gov/news/",
       "title": "NASA News",
@@ -66,6 +81,21 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2026/06/spacewalk-95-advisory-june-22.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-names-sean-gallagher-as-chief-information-officer/",
+      "url": "https://www.nasa.gov/news-release/nasa-names-sean-gallagher-as-chief-information-officer/",
+      "title": "NASA Names Sean Gallagher as Chief Information Officer - NASA",
+      "content_text": "NASA has selected Sean Gallagher as the agency’s chief information officer (CIO). In this role, he is responsible for the agency’s entire portfolio of",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/03/gallagher-nasa-2023.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -111,21 +141,6 @@
       "attachments": [
         {
           "url": "https://images-assets.nasa.gov/image/NHQ202512200038/NHQ202512200038~large.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/06/22/crew-starts-week-with-bioengineering-space-manufacturing-and-spacewalk-preps/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/06/22/crew-starts-week-with-bioengineering-space-manufacturing-and-spacewalk-preps/",
-      "title": "Crew Starts Week with Bioengineering, Space Manufacturing, and Spacewalk Preps - NASA",
-      "content_text": "Bioengineering cartilage tissues and manufacturing advanced materials kicked off the week aboard the International Space Station. The Expedition 74 crew members also ramped up preparations for a spacewalk and conducted vision tests on Monday.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/iss074e0669779/iss074e0669779~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
