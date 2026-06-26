@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Fri, 26 Jun 2026 13:08:33 +0000</updated>
+  <updated>Fri, 26 Jun 2026 16:13:13 +0000</updated>
   <entry>
     <title>All NASA News - NASA</title>
     <link href="https://www.nasa.gov/news/recently-published/"/>
@@ -20,6 +20,13 @@
     <updated>Thu, 29 Jun 2023 14:53:17 -0400</updated>
   </entry>
   <entry>
+    <title>NASA Media Contacts - NASA</title>
+    <link href="https://www.nasa.gov/news/nasa-media-contacts/"/>
+    <id>https://www.nasa.gov/news/nasa-media-contacts/</id>
+    <summary type="text">Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Alise</summary>
+    <updated>Thu, 29 Jun 2023 14:53:17 -0400</updated>
+  </entry>
+  <entry>
     <title>NASA News</title>
     <link href="https://www.nasa.gov/news/"/>
     <id>https://www.nasa.gov/news/</id>
@@ -31,6 +38,12 @@
     <link href="https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalk-95-host-preview-news-conference/"/>
     <id>https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalk-95-host-preview-news-conference/</id>
     <summary type="text">NASA astronauts will venture outside the International Space Station on Tuesday, June 30, to replace a wrist joint on the orbital complex’s Canadarm2 robotic</summary>
+  </entry>
+  <entry>
+    <title>NASA Identifies More Than 40 Space Technologies for Collaboration - NASA</title>
+    <link href="https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/"/>
+    <id>https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/</id>
+    <summary type="text">NASA selected 41 proposals from 37 companies to advance technologies in support of the agency’s goals to establish a long-term presence on the Moon and enable</summary>
   </entry>
   <entry>
     <title>NASA, US Small Business Administration to Announce Partnership - NASA</title>
@@ -55,12 +68,6 @@
     <link href="https://www.nasa.gov/blogs/spacestation/2026/06/25/crew-works-eye-exams-dna-sequencing-and-spacesuit-preps/"/>
     <id>https://www.nasa.gov/blogs/spacestation/2026/06/25/crew-works-eye-exams-dna-sequencing-and-spacesuit-preps/</id>
     <summary type="text">Life science topped the research schedule on Thursday as the Expedition 74 crew studied how space affects vision and sequenced DNA collected from microbes. More spacewalk preparations, a virtual reality investigation, and exercise gear maintenance rounded out the day aboard the International Space Station.</summary>
-  </entry>
-  <entry>
-    <title>Spacewalk Preps and Human Research Fill the Expedition 74 Schedule - NASA</title>
-    <link href="https://www.nasa.gov/blogs/spacestation/2026/06/24/spacewalk-preps-and-human-research-fill-the-expedition-74-schedule/"/>
-    <id>https://www.nasa.gov/blogs/spacestation/2026/06/24/spacewalk-preps-and-human-research-fill-the-expedition-74-schedule/</id>
-    <summary type="text">The Expedition 74 crew members continued their spacewalk preparations on Wednesday reviewing robotics activities and configuring tools. The orbital residents also kept up their ongoing biomedical research and advanced technology studies aboard the International Space Station.</summary>
   </entry>
   <entry>
     <title>Press Releases</title>

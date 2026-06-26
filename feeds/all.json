@@ -29,6 +29,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "url": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "title": "NASA Media Contacts - NASA",
+      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Alise",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news/",
       "url": "https://www.nasa.gov/news/",
       "title": "NASA News",
@@ -51,6 +66,21 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2026/06/spacewalk-95-advisory-june-22.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/",
+      "url": "https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/",
+      "title": "NASA Identifies More Than 40 Space Technologies for Collaboration - NASA",
+      "content_text": "NASA selected 41 proposals from 37 companies to advance technologies in support of the agency’s goals to establish a long-term presence on the Moon and enable",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -111,21 +141,6 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2026/06/iss074e0722461-blog.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/06/24/spacewalk-preps-and-human-research-fill-the-expedition-74-schedule/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/06/24/spacewalk-preps-and-human-research-fill-the-expedition-74-schedule/",
-      "title": "Spacewalk Preps and Human Research Fill the Expedition 74 Schedule - NASA",
-      "content_text": "The Expedition 74 crew members continued their spacewalk preparations on Wednesday reviewing robotics activities and configuring tools. The orbital residents also kept up their ongoing biomedical research and advanced technology studies aboard the International Space Station.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/iss074e0760514/iss074e0760514~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
