@@ -29,21 +29,6 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news/nasa-media-contacts/",
-      "url": "https://www.nasa.gov/news/nasa-media-contacts/",
-      "title": "NASA Media Contacts - NASA",
-      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Alise",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.nasa.gov/news/",
       "url": "https://www.nasa.gov/news/",
       "title": "NASA News",
@@ -111,6 +96,21 @@
       "attachments": [
         {
           "url": "https://images-assets.nasa.gov/image/NHQ202512200038/NHQ202512200038~large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/06/26/off-duty-day-for-upcoming-spacewalkers-and-assistants-as-cosmonauts-stay-busy/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/06/26/off-duty-day-for-upcoming-spacewalkers-and-assistants-as-cosmonauts-stay-busy/",
+      "title": "Off-Duty Day for Upcoming Spacewalkers and Assistants as Cosmonauts Stay Busy - NASA",
+      "content_text": "Four Expedition 74 crew members enjoyed an off-duty day on Friday relaxing ahead of a robotics repair spacewalk planned for next week. The rest of the crew focused on artificial intelligence and virtual reality studies aboard the International Space Station at the end of the week.",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/iss074e0402919/iss074e0402919~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
