@@ -1,0 +1,385 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "4thWave AI — Space Tech (Aggregated)",
+  "home_page_url": "https://www.4thwaveai.com",
+  "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.json",
+  "items": [
+    {
+      "id": "https://www.nasa.gov/news/recently-published/",
+      "url": "https://www.nasa.gov/news/recently-published/",
+      "title": "All NASA News - NASA",
+      "content_text": "Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news/media-contacts/",
+      "url": "https://www.nasa.gov/news/media-contacts/",
+      "title": "NASA Media Contacts - NASA",
+      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Alise",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/07/52712483677-a4fbc61f0c-k.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news/",
+      "url": "https://www.nasa.gov/news/",
+      "title": "NASA News",
+      "content_text": "Resources for news media, including NASA news contacts and archived news material",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2025/05/54492396655-c6ba83df1d-o-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-awards-more-moon-base-science-previews-new-opportunities/",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-more-moon-base-science-previews-new-opportunities/",
+      "title": "NASA Awards More Moon Base Science, Previews New Opportunities - NASA",
+      "content_text": "Editor's note: This release was updated on June 30, 2026, to clarify the engineering development version for the PROMISE rover.",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/rovers.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/wx_yPSq6QNM",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/2026-news-releases/",
+      "url": "https://www.nasa.gov/2026-news-releases/",
+      "title": "2026 News Releases - NASA",
+      "content_text": "Sign up to receive NASA news releases and other information.",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/NHQ202512200038/NHQ202512200038~large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/07/02/cartilage-cardiac-studies-and-cargo-ops-wrap-up-week-aboard-station/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/07/02/cartilage-cardiac-studies-and-cargo-ops-wrap-up-week-aboard-station/",
+      "title": "Cartilage, Cardiac Studies and Cargo Ops Wrap Up Week Aboard Station - NASA",
+      "content_text": "Cartilage repair, cardiac research, and cargo operations wrapped up the week for the Expedition 74 crew before heading into a relaxing three-day weekend. The International Space Station is also orbiting higher following a reboost maneuver on Wednesday.",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/iss074e0789722/iss074e0789722~large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/07/01/crew-splits-day-between-relaxing-spacesuit-work-and-cardiac-research/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/07/01/crew-splits-day-between-relaxing-spacesuit-work-and-cardiac-research/",
+      "title": "Crew Splits Day Between Relaxing, Spacesuit Work, and Cardiac Research - NASA",
+      "content_text": "Four Expedition 74 astronauts had a light duty day on Wednesday following the previous day’s spacewalk for external robotics maintenance. The remaining three crew members from Roscosmos focused on cardiac research and lab maintenance aboard the International Space Station.",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/iss074e0788090/iss074e0788090~large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Media inquiries only)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
+      "title": "Press Releases",
+      "content_text": "email: media @ esa.int (Uniquement les demandes de la presse)",
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.rocketlabusa.com/updates/",
+      "url": "https://www.rocketlabusa.com/updates/",
+      "title": "News | Rocket Lab",
+      "content_text": "Keep up with the latest from Rocket Lab.",
+      "attachments": [
+        {
+          "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.rocketlabusa.com/updates/rocket-lab-to-acquire-iridium-in-historic-deal-creating-a-fully-vertically-integrated-space-powerhouse-primed-for-growth/",
+      "url": "https://www.rocketlabusa.com/updates/rocket-lab-to-acquire-iridium-in-historic-deal-creating-a-fully-vertically-integrated-space-powerhouse-primed-for-growth/",
+      "title": "Rocket Lab to Acquire Iridium in Historic Deal, Creating A Fully Vertically Integrated Space Powerhouse Primed for Growth | Rocket Lab",
+      "content_text": "Rocket Lab to Acquire Iridium in Historic Deal, Creating A Fully Vertically Integrated Space Powerhouse Primed for Growth",
+      "attachments": [
+        {
+          "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.rocketlabusa.com/updates/rocket-lab-completes-10th-consecutive-launch-with-100-mission-success-for-synspective/",
+      "url": "https://www.rocketlabusa.com/updates/rocket-lab-completes-10th-consecutive-launch-with-100-mission-success-for-synspective/",
+      "title": "Rocket Lab Completes 10th Consecutive Launch with 100% Mission Success for Synspective | Rocket Lab",
+      "content_text": "Mahia, New Zealand. 27 June, 2026 – Rocket Lab Corporation (Nasdaq: RKLB), a global leader in launch services and space systems, today announced it has successfully placed another satellite into orbit for Synspective, achieving a significant milestone as the tenth dedicated launch for the…",
+      "attachments": [
+        {
+          "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.rocketlabusa.com/updates/nasa-selects-rocket-lab-to-launch-sun-earth-sciences-missions/",
+      "url": "https://www.rocketlabusa.com/updates/nasa-selects-rocket-lab-to-launch-sun-earth-sciences-missions/",
+      "title": "NASA Selects Rocket Lab to Launch Sun, Earth Sciences Missions  | Rocket Lab",
+      "content_text": "The PolSIR and TSIS-2 missions will fly across three dedicated Electron launches from Q1 2027 to meet each mission’s time-sensitive requirements.",
+      "attachments": [
+        {
+          "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.rocketlabusa.com/updates/victus-haze/",
+      "url": "https://www.rocketlabusa.com/updates/victus-haze/",
+      "title": "Rocket Lab Shatters Responsive Space Record: Launches U.S. Space Force VICTUS HAZE Mission in 16 Hours 42 Minutes | Rocket Lab",
+      "content_text": "Historic Speed: Rocket Lab launched the VICTUS HAZE mission just 16 hours and 42 minutes after receiving the U.S. Space Force’s Notice to Launch, beating the previous record by more than 10 hours and setting a new global standard in responsive space access. <br />\nEnd-to-End Space Capability: Marking a…",
+      "attachments": [
+        {
+          "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.rocketlabusa.com/updates/rocket-lab-adds-mars-proven-robotics-capabilities/",
+      "url": "https://www.rocketlabusa.com/updates/rocket-lab-adds-mars-proven-robotics-capabilities/",
+      "title": "Rocket Lab Adds Mars-Proven Robotics Capabilities with Completion of Motiv Space Systems Acquisition | Rocket Lab",
+      "content_text": "Acquisition brings Mars heritage for complex planetary missions, as well as precision mechanisms essential for next-generation space infrastructure including orbital data centers and constellations",
+      "attachments": [
+        {
+          "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2026/6/4/may-2026-company-updatenbspnbsp",
+      "url": "https://www.relativityspace.com/press-release/2026/6/4/may-2026-company-updatenbspnbsp",
+      "title": "May 2026 Company Update",
+      "content_text": "May brought a major milestone for the Terran R program, with the integrated second stage departing Long Beach and beginning its journey to NASA Stennis. Across the company, teams continued advancing work across design, build, test, and launch.   Design  This month, 1,455 flight parts were released,",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/Mt_bow-eer4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2026/5/8/april-2026-company-update",
+      "url": "https://www.relativityspace.com/press-release/2026/5/8/april-2026-company-update",
+      "title": "April 2026 Company Update",
+      "content_text": "April brought continued momentum across the Terran R program, with progress advancing across design, build, test, and launch.&nbsp;   Design  This month, 2,055 flight parts were released, with a concerted effort on the stage one shipping assembly. Nearly all of the first stage structural compone",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/VkMOxp9ZKfU",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2026/4/13/march-2026-company-updatenbspnbsp",
+      "url": "https://www.relativityspace.com/press-release/2026/4/13/march-2026-company-updatenbspnbsp",
+      "title": "March 2026 Company Update",
+      "content_text": "March brought continued progress across the Terran R program, with key milestones across design, manufacturing, testing, and launch preparations.&nbsp;   Design  This month, the team released 2,207 flight parts, with a continued focus on completing the stage one shipping assembly. Work remains c",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/MKrGdH-g60w",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.relativityspace.com/press-release/2026/3/8/february-2026-company-update",
+      "url": "https://www.relativityspace.com/press-release/2026/3/8/february-2026-company-update",
+      "title": "February 2026 Company Update",
+      "content_text": "February marked another month of critical progress across design, build, test, and launch.   Design  This month, the team released an additional 1,826 flight components. The stage two shipping assembly and stage two fluids top-level assembly are now fully released, enabling final integration activit",
+      "attachments": [
+        {
+          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/nVj_hYQxrc8",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    }
+  ]
+}
