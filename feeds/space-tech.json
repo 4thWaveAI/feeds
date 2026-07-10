@@ -44,25 +44,6 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news-release/nasa-awards-more-moon-base-science-previews-new-opportunities/",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-more-moon-base-science-previews-new-opportunities/",
-      "title": "NASA Awards More Moon Base Science, Previews New Opportunities - NASA",
-      "content_text": "Editor's note: This release was updated on June 30, 2026, to clarify the engineering development version for the PROMISE rover.",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/rovers.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/wx_yPSq6QNM",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/",
       "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/",
       "title": "NASA Sets Coverage for Astronaut Anil Menon Launch to Space Station - NASA",
@@ -93,13 +74,13 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/07/10/week-ends-with-vein-scans-cartilage-engineering-before-new-crew-launches/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/07/10/week-ends-with-vein-scans-cartilage-engineering-before-new-crew-launches/",
-      "title": "Week Ends With Vein Scans, Cartilage Engineering Before New Crew Launches - NASA",
-      "content_text": "Vein scans and cartilage engineering wrapped up a busy week aboard the International Space Station. The Expedition 74 crew members also configured the orbital outpost for a new crew, tested new cooking gear, and conducted muscle measurements.",
+      "id": "https://www.nasa.gov/blogs/smallsatellites/2026/07/09/nasa-small-satellite-could-make-global-positioning-more-precise/",
+      "url": "https://www.nasa.gov/blogs/smallsatellites/2026/07/09/nasa-small-satellite-could-make-global-positioning-more-precise/",
+      "title": "NASA Small Satellite Could Make Global Positioning More Precise - NASA",
+      "content_text": "GRITSS launched aboard SpaceX's Transporter-17 mission and will demonstrate the feasibility of a new technique for improving precision navigation.",
       "attachments": [
         {
-          "url": "https://images-assets.nasa.gov/image/iss074e0784492/iss074e0784492~large.jpg",
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/transporter-17.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -108,13 +89,13 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/07/09/neurology-studies-and-crew-departure-preps-fill-station-schedule/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/07/09/neurology-studies-and-crew-departure-preps-fill-station-schedule/",
-      "title": "Neurology Studies and Crew Departure Preps Fill Station Schedule - NASA",
-      "content_text": "Neurology studies and crew departure preparations filled the schedule aboard the International Space Station on Thursday. Expedition 74 also kept up the maintenance of the orbital lab replacing electronics and GPS gear and organizing cargo.",
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/07/10/week-ends-with-vein-scans-cartilage-engineering-before-new-crew-launches/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/07/10/week-ends-with-vein-scans-cartilage-engineering-before-new-crew-launches/",
+      "title": "Week Ends With Vein Scans, Cartilage Engineering Before New Crew Launches - NASA",
+      "content_text": "Vein scans and cartilage engineering wrapped up a busy week aboard the International Space Station. The Expedition 74 crew members also configured the orbital outpost for a new crew, tested new cooking gear, and conducted muscle measurements.",
       "attachments": [
         {
-          "url": "https://images-assets.nasa.gov/image/iss074e0792345/iss074e0792345~large.jpg",
+          "url": "https://images-assets.nasa.gov/image/iss074e0784492/iss074e0784492~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
