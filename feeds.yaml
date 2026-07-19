@@ -1451,3 +1451,356 @@ areas:
     index: https://www.ssrn.com/
     base: https://www.ssrn.com
     limit: 10
+  post-quantum-security:
+  - name: NIST Cybersecurity Insights Blog
+    index: https://www.nist.gov/blogs/cybersecurity-insights/rss.xml
+    base: https://www.nist.gov
+    mode: rss
+    limit: 10
+  - name: NIST Cybersecurity News
+    index: https://www.nist.gov/news-events/cybersecurity/rss.xml
+    base: https://www.nist.gov
+    mode: rss
+    limit: 10
+  - name: NIST Post-Quantum Cryptography Project
+    index: https://csrc.nist.gov/projects/post-quantum-cryptography
+    base: https://csrc.nist.gov
+    limit: 10
+  - name: Cloud Security Alliance Research
+    index: https://cloudsecurityalliance.org/research
+    base: https://cloudsecurityalliance.org
+    limit: 10
+  - name: Cloud Security Alliance Blog
+    index: https://cloudsecurityalliance.org/blog
+    base: https://cloudsecurityalliance.org
+    limit: 10
+  - name: ETSI Newsroom
+    index: https://www.etsi.org/newsroom
+    base: https://www.etsi.org
+    limit: 10
+  - name: ETSI Quantum-Safe Cryptography
+    index: https://www.etsi.org/technologies/quantum-safe-cryptography
+    base: https://www.etsi.org
+    limit: 10
+  grid-power-electronics:
+  - name: DOE Office of Electricity
+    index: https://www.energy.gov/oe/office-electricity
+    base: https://www.energy.gov
+    limit: 10
+  - name: Utility Dive News
+    index: https://www.utilitydive.com/feeds/news/
+    base: https://www.utilitydive.com
+    mode: rss
+    limit: 10
+  - name: North American Electric Reliability Corporation News
+    index: https://www.nerc.com/news/Pages/default.aspx
+    base: https://www.nerc.com
+    limit: 10
+  - name: North American Electric Reliability Corporation Reports
+    index: https://www.nerc.com/pa/RAPA/Pages/default.aspx
+    base: https://www.nerc.com
+    limit: 10
+  - name: FERC eForms Filing Feed
+    index: https://ecollection.ferc.gov/api/rssfeed
+    base: https://ecollection.ferc.gov
+    mode: rss
+    limit: 10
+  biosecurity:
+  - name: International Gene Synthesis Consortium
+    index: https://genesynthesisconsortium.org/
+    base: https://genesynthesisconsortium.org
+    limit: 10
+  - name: HHS Administration for Strategic Preparedness and Response
+    index: https://aspr.hhs.gov/
+    base: https://aspr.hhs.gov
+    limit: 10
+  - name: SecureDNA
+    index: https://securedna.org/
+    base: https://securedna.org
+    limit: 10
+  - name: NIH Office of Science Policy Announcements
+    index: https://osp.od.nih.gov/category/announcements/feed/
+    base: https://osp.od.nih.gov
+    mode: rss
+    limit: 10
+  - name: NIH Office of Science Policy
+    index: https://osp.od.nih.gov/feed/
+    base: https://osp.od.nih.gov
+    mode: rss
+    limit: 10
+  critical-minerals:
+  - name: Benchmark Mineral Intelligence Announcements
+    index: https://www.benchmarkminerals.com/announcements
+    base: https://www.benchmarkminerals.com
+    limit: 10
+  - name: Benchmark Mineral Intelligence Newsletters
+    index: https://www.benchmarkminerals.com/newsletters
+    base: https://www.benchmarkminerals.com
+    limit: 10
+  - name: Ames National Laboratory News
+    index: https://www.ameslab.gov/news
+    base: https://www.ameslab.gov
+    limit: 10
+  - name: DOE Critical Materials Institute
+    index: https://www.ameslab.gov/cmi
+    base: https://www.ameslab.gov
+    limit: 10
+  - name: USGS Minerals News
+    index: https://www.usgs.gov/news/minerals/feed
+    base: https://www.usgs.gov
+    mode: rss
+    limit: 10
+  ai-safety-evals:
+  - name: METR Updates
+    index: https://metr.substack.com/feed
+    base: https://metr.substack.com
+    mode: rss
+    limit: 10
+  - name: NIST Events
+    index: https://www.nist.gov/news-events/events/rss.xml
+    base: https://www.nist.gov
+    mode: rss
+    limit: 10
+  - name: NIST Artificial Intelligence
+    index: https://www.nist.gov/artificial-intelligence
+    base: https://www.nist.gov
+    limit: 10
+  - name: Epoch AI Updates
+    index: https://epochai.substack.com/feed
+    base: https://epochai.substack.com
+    mode: rss
+    limit: 10
+  - name: UK AI Security Institute Blog
+    index: https://www.aisi.gov.uk/blog
+    base: https://www.aisi.gov.uk
+    limit: 10
+  - name: UK AI Security Institute Research
+    index: https://www.aisi.gov.uk/research
+    base: https://www.aisi.gov.uk
+    limit: 10
+  - name: Epoch AI Latest
+    index: https://epoch.ai/latest
+    base: https://epoch.ai
+    limit: 10
+  - name: METR Research
+    index: https://metr.org/research
+    base: https://metr.org
+    limit: 10
+  - name: Apollo Research Science
+    index: https://www.apolloresearch.ai/science/
+    base: https://www.apolloresearch.ai
+    limit: 10
+  - name: Apollo Research Blog
+    index: https://www.apolloresearch.ai/blog/
+    base: https://www.apolloresearch.ai
+    limit: 10
+  ai-native-education:
+  - name: Khan Academy Blog
+    index: https://blog.khanacademy.org/feed/
+    base: https://blog.khanacademy.org
+    mode: rss
+    limit: 10
+  - name: U.S. Department of Education News
+    index: https://www.ed.gov/about/news
+    base: https://www.ed.gov
+    limit: 10
+  - name: U.S. Department of Education Press Releases
+    index: https://www.ed.gov/about/news/press-release
+    base: https://www.ed.gov
+    limit: 10
+  - name: W3C Credentials Community Group
+    index: https://www.w3.org/community/credentials/feed/
+    base: https://www.w3.org
+    mode: rss
+    limit: 10
+  - name: EdSurge Articles
+    index: https://www.edsurge.com/articles_rss
+    base: https://www.edsurge.com
+    mode: rss
+    limit: 10
+  - name: Credential Engine
+    index: https://credentialengine.org/
+    base: https://credentialengine.org
+    limit: 10
+  - name: 1EdTech Consortium Blog
+    index: https://www.1edtech.org/blog
+    base: https://www.1edtech.org
+    limit: 10
+  - name: American Council on Education Newsroom
+    index: https://www.acenet.edu/News-Room/Pages/default.aspx
+    base: https://www.acenet.edu
+    limit: 10
+  content-provenance:
+  - name: Adobe Blog
+    index: https://blog.adobe.com/
+    base: https://blog.adobe.com
+    limit: 10
+  - name: C2PA Specifications Releases
+    index: https://github.com/c2pa-org/specifications/releases.atom
+    base: https://github.com
+    mode: rss
+    limit: 10
+  - name: Coalition for Content Provenance and Authenticity
+    index: https://c2pa.org/
+    base: https://c2pa.org
+    limit: 10
+  - name: IPTC News
+    index: https://iptc.org/news/feed/
+    base: https://iptc.org
+    mode: rss
+    limit: 10
+  - name: Content Authenticity Initiative Blog
+    index: https://contentauthenticity.org/blog
+    base: https://contentauthenticity.org
+    limit: 10
+  digital-identity:
+  - name: World Bank Identification for Development
+    index: https://id4d.worldbank.org/
+    base: https://id4d.worldbank.org
+    limit: 10
+  - name: Decentralized Identity Foundation
+    index: https://identity.foundation/
+    base: https://identity.foundation
+    limit: 10
+  - name: W3C Verifiable Credentials Working Group
+    index: https://www.w3.org/groups/wg/vc/
+    base: https://www.w3.org
+    limit: 10
+  - name: European Digital Identity Wallet
+    index: https://digital-strategy.ec.europa.eu/en/policies/eudi-wallet-implementation
+    base: https://digital-strategy.ec.europa.eu
+    limit: 10
+  - name: Estonian Information System Authority
+    index: https://www.ria.ee/en
+    base: https://www.ria.ee
+    limit: 10
+  - name: Singapore GovTech Singpass
+    index: https://www.tech.gov.sg/products-and-services/for-citizens/digital-services/singpass/
+    base: https://www.tech.gov.sg
+    limit: 10
+  - name: UK Office for Digital Identities and Attributes
+    index: https://www.gov.uk/government/organisations/office-for-digital-identities-and-attributes
+    base: https://www.gov.uk
+    limit: 10
+  demographics-care:
+  - name: U.S. Census Bureau Newsroom
+    index: https://www.census.gov/newsroom.html
+    base: https://www.census.gov
+    limit: 10
+  - name: UN DESA Population Division
+    index: https://www.un.org/development/desa/pd/
+    base: https://www.un.org
+    limit: 10
+  - name: UN DESA News
+    index: https://www.un.org/development/desa/en/news.html
+    base: https://www.un.org
+    limit: 10
+  - name: Singapore Department of Statistics
+    index: https://www.singstat.gov.sg/
+    base: https://www.singstat.gov.sg
+    limit: 10
+  - name: UK Office for National Statistics Release Calendar
+    index: https://www.ons.gov.uk/releasecalendar?highlight=true&limit=10&page=1&release-type=type-published&rss=&sort=date-newest
+    base: https://www.ons.gov.uk
+    mode: rss
+    limit: 10
+  - name: Statistics Bureau of Japan
+    index: https://www.stat.go.jp/english/
+    base: https://www.stat.go.jp
+    limit: 10
+  - name: India Ministry of Statistics and Programme Implementation
+    index: https://www.mospi.gov.in/
+    base: https://www.mospi.gov.in
+    limit: 10
+  - name: Statistics Korea
+    index: https://kostat.go.kr/
+    base: https://kostat.go.kr
+    limit: 10
+  programmable-finance:
+  - name: BIS Research
+    index: https://www.bis.org/research/index.htm
+    base: https://www.bis.org
+    limit: 10
+  - name: Federal Reserve Press Releases
+    index: https://www.federalreserve.gov/feeds/press_all.xml
+    base: https://www.federalreserve.gov
+    mode: rss
+    limit: 10
+  - name: Federal Reserve Speeches
+    index: https://www.federalreserve.gov/feeds/speeches.xml
+    base: https://www.federalreserve.gov
+    mode: rss
+    limit: 10
+  - name: European Central Bank Blog
+    index: https://www.ecb.europa.eu/rss/blog.html
+    base: https://www.ecb.europa.eu
+    mode: rss
+    limit: 10
+  - name: European Central Bank Press and Speeches
+    index: https://www.ecb.europa.eu/rss/press.html
+    base: https://www.ecb.europa.eu
+    mode: rss
+    limit: 10
+  - name: Federal Reserve Monetary Policy Press Releases
+    index: https://www.federalreserve.gov/feeds/press_monetary.xml
+    base: https://www.federalreserve.gov
+    mode: rss
+    limit: 10
+  - name: Bank of England Speeches
+    index: https://www.bankofengland.co.uk/rss/speeches
+    base: https://www.bankofengland.co.uk
+    mode: rss
+    limit: 10
+  - name: Bank of England News
+    index: https://www.bankofengland.co.uk/rss/news
+    base: https://www.bankofengland.co.uk
+    mode: rss
+    limit: 10
+  - name: Federal Reserve Testimony
+    index: https://www.federalreserve.gov/feeds/testimony.xml
+    base: https://www.federalreserve.gov
+    mode: rss
+    limit: 10
+  - name: Federal Reserve Payment Systems
+    index: https://www.federalreserve.gov/paymentsystems.htm
+    base: https://www.federalreserve.gov
+    limit: 10
+  - name: Bank of England Digital Pound
+    index: https://www.bankofengland.co.uk/the-digital-pound
+    base: https://www.bankofengland.co.uk
+    limit: 10
+  - name: European Central Bank Publications
+    index: https://www.ecb.europa.eu/rss/pub.html
+    base: https://www.ecb.europa.eu
+    mode: rss
+    limit: 10
+  - name: European Central Bank RSS Directory
+    index: https://www.ecb.europa.eu/home/html/rss.en.html
+    base: https://www.ecb.europa.eu
+    limit: 10
+  - name: Bank of England Statistics
+    index: https://www.bankofengland.co.uk/rss/statistics
+    base: https://www.bankofengland.co.uk
+    mode: rss
+    limit: 10
+  - name: Monetary Authority of Singapore News
+    index: https://www.mas.gov.sg/news
+    base: https://www.mas.gov.sg
+    limit: 10
+  - name: European Central Bank Digital Euro
+    index: https://www.ecb.europa.eu/euro/digital_euro/html/index.en.html
+    base: https://www.ecb.europa.eu
+    limit: 10
+  - name: Monetary Authority of Singapore FinTech
+    index: https://www.mas.gov.sg/development/fintech
+    base: https://www.mas.gov.sg
+    limit: 10
+  - name: Bank of England Publications
+    index: https://www.bankofengland.co.uk/rss/publications
+    base: https://www.bankofengland.co.uk
+    mode: rss
+    limit: 10
+  - name: BIS Press Releases
+    index: https://www.bis.org/press/index.htm
+    base: https://www.bis.org
+    limit: 10
