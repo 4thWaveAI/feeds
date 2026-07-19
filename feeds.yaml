@@ -1909,3 +1909,123 @@ areas:
     base: https://www.cisa.gov
     mode: rss
     limit: 10
+  water-intelligence:
+  - name: NAWI News and Research Feed
+    index: https://www.nawihub.org/feed/
+    base: https://www.nawihub.org
+    mode: rss
+    limit: 10
+  - name: IDRA News Feed
+    index: https://idrawater.org/feed/
+    base: https://idrawater.org
+    mode: rss
+    limit: 10
+  compute-habitat:
+  - name: Uptime Institute Journal Feed
+    index: https://journal.uptimeinstitute.com/feed/
+    base: https://journal.uptimeinstitute.com
+    mode: rss
+    limit: 10
+  - name: Submer Blog
+    index: https://submer.com/feed/
+    base: https://submer.com
+    mode: rss
+    limit: 10
+  subsurface-frontier:
+  - name: BGS News
+    index: https://www.bgs.ac.uk/feed/
+    base: https://www.bgs.ac.uk
+    mode: rss
+    limit: 10
+  - name: Global CCS Institute Insights
+    index: https://www.globalccsinstitute.com/feed/
+    base: https://www.globalccsinstitute.com
+    mode: rss
+    limit: 10
+  resource-recovery:
+  - name: REMADE Institute News
+    index: https://remadeinstitute.org/feed/
+    base: https://remadeinstitute.org
+    mode: rss
+    limit: 10
+  - name: WEEE Forum News
+    index: https://weee-forum.org/feed/
+    base: https://weee-forum.org
+    mode: rss
+    limit: 10
+  thermal-economy:
+  - name: Malta Inc. News
+    index: https://maltainc.com/feed/
+    base: https://www.maltainc.com
+    mode: rss
+    limit: 10
+  ocean-infrastructure:
+  - name: OOI News Feed
+    index: https://oceanobservatories.org/feed/
+    base: https://oceanobservatories.org
+    mode: rss
+    limit: 10
+  - name: NOS News Feed
+    index: https://oceanservice.noaa.gov/rss/nosnews.xml
+    base: https://oceanservice.noaa.gov
+    mode: rss
+    limit: 10
+  - name: WHOI News and Insights
+    index: https://www.whoi.edu/feed/
+    base: https://www.whoi.edu
+    mode: rss
+    limit: 10
+  - name: IOOS News
+    index: https://ioos.noaa.gov/feed/
+    base: https://ioos.noaa.gov
+    mode: rss
+    limit: 10
+  planetary-repair:
+  - name: Global Methane Hub News
+    index: https://www.globalmethanehub.org/news/feed/
+    base: https://www.globalmethanehub.org
+    mode: rss
+    limit: 10
+  soil-agriculture:
+  - name: Rodale Institute Blog
+    index: https://rodaleinstitute.org/feed/
+    base: https://rodaleinstitute.org
+    mode: rss
+    limit: 10
+  - name: Cornell Soil Health
+    index: https://soilhealth.cals.cornell.edu/feed/
+    base: https://soilhealth.cals.cornell.edu
+    mode: rss
+    limit: 10
+  human-continuity:
+  - name: Sandia Microgrids
+    index: https://energy.sandia.gov/feed/
+    base: https://energy.sandia.gov
+    mode: rss
+    limit: 10
+  - name: Meshtastic Blog Feed
+    index: https://meshtastic.org/blog/rss.xml
+    base: https://meshtastic.org
+    mode: rss
+    limit: 10
+  - name: Open Source Ecology Blog
+    index: https://www.opensourceecology.org/feed/
+    base: https://www.opensourceecology.org
+    mode: rss
+    limit: 10
+  - name: Global Resilience Partnership News
+    index: https://www.globalresiliencepartnership.org/feed/
+    base: https://www.globalresiliencepartnership.org
+    mode: rss
+    limit: 10
+  grid-water-compute:
+  - name: EPRI Journal
+    index: https://eprijournal.com/feed/
+    base: https://eprijournal.com
+    mode: rss
+    limit: 10
+  - name: PJM Inside Lines
+    index: https://insidelines.pjm.com/feed/
+    base: https://insidelines.pjm.com
+    mode: rss
+    limit: 10
