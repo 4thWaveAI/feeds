@@ -2029,3 +2029,66 @@ areas:
     base: https://insidelines.pjm.com
     mode: rss
     limit: 10
+  internet-of-everything:
+  - name: CSA Matter and IoT News Feed
+    index: https://csa-iot.org/feed/
+    base: https://csa-iot.org
+    mode: rss
+    limit: 10
+  new-mobility:
+  - name: California DMV Autonomous Vehicles Program
+    index: https://www.dmv.ca.gov/portal/feed/
+    base: https://www.dmv.ca.gov
+    mode: rss
+    limit: 10
+  - name: Electreon News Feed
+    index: https://electreon.com/feed/
+    base: https://electreon.com
+    mode: rss
+    limit: 10
+  power-invention:
+  - name: Fraunhofer ISE News
+    index: https://www.ise.fraunhofer.de/en/rss/news.rss
+    base: https://www.ise.fraunhofer.de
+    mode: rss
+    limit: 10
+  food-systems:
+  - name: USDA NASS Newsroom
+    index: http://www.nass.usda.gov/rss/reports.xml
+    base: https://www.nass.usda.gov
+    mode: rss
+    limit: 10
+  ocean-exploration:
+  - name: Seabed 2030 News and Events
+    index: https://seabed2030.org/feed/
+    base: https://seabed2030.org
+    mode: rss
+    limit: 10
+  disclosure-watch:
+  - name: NASA UAP Independent Study
+    index: https://science.nasa.gov/feed/
+    base: https://science.nasa.gov
+    mode: rss
+    limit: 10
+  earth-dynamics:
+  - name: USGS All Earthquakes Past Day Atom Feed
+    index: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.atom
+    base: https://earthquake.usgs.gov
+    mode: rss
+    limit: 10
+  - name: SCEC Research and Updates
+    index: https://www.scec.org/feed/
+    base: https://www.scec.org
+    mode: rss
+    limit: 10
+  - name: British Antarctic Survey News
+    index: https://www.bas.ac.uk/news/feed/
+    base: https://www.bas.ac.uk
+    mode: rss
+    limit: 10
+  enabling-tools:
+  - name: ASPIRE Transportation Electrification Research Center
+    index: https://aspire.usu.edu/feed/
+    base: https://aspire.usu.edu
+    mode: rss
+    limit: 10
