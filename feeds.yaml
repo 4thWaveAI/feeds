@@ -1804,3 +1804,116 @@ areas:
     index: https://www.bis.org/press/index.htm
     base: https://www.bis.org
     limit: 10
+  monetary-system:
+  - name: FSB Policy Documents
+    index: https://www.fsb.org/wordpress/content_type/policy-documents/feed/
+    base: https://www.fsb.org
+    mode: rss
+    limit: 10
+  - name: Bank of Canada News
+    index: https://www.bankofcanada.ca/utility/news/feed/
+    base: https://www.bankofcanada.ca
+    mode: rss
+    limit: 10
+  - name: Bank of Canada Speeches
+    index: https://www.bankofcanada.ca/content_type/speeches/feed/
+    base: https://www.bankofcanada.ca
+    mode: rss
+    limit: 10
+  - name: Bank of Canada Press Releases
+    index: https://www.bankofcanada.ca/content_type/press-releases/feed/
+    base: https://www.bankofcanada.ca
+    mode: rss
+    limit: 10
+  - name: Atlantic Council CBDC Tracker
+    index: https://www.atlanticcouncil.org/cbdctracker/
+    base: https://www.atlanticcouncil.org
+    limit: 10
+  - name: Atlantic Council
+    index: https://www.atlanticcouncil.org/feed/
+    base: https://www.atlanticcouncil.org
+    mode: rss
+    limit: 10
+  - name: World Bank Global Findex
+    index: https://www.worldbank.org/en/publication/globalfindex
+    base: https://www.worldbank.org
+    limit: 10
+  - name: World Bank News
+    index: https://www.worldbank.org/ext/en/news
+    base: https://www.worldbank.org
+    limit: 10
+  - name: FSB Publications
+    index: https://www.fsb.org/wordpress/content_type/publications/feed/
+    base: https://www.fsb.org
+    mode: rss
+    limit: 10
+  - name: BIS Press Releases
+    index: https://www.bis.org/doclist/all_pressrels.rss
+    base: https://www.bis.org
+    mode: rss
+    limit: 10
+  - name: BIS Financial Stability Institute Publications
+    index: https://www.bis.org/doclist/bis_fsi_publs.rss
+    base: https://www.bis.org
+    mode: rss
+    limit: 10
+  - name: BIS All Categories
+    index: https://www.bis.org/doclist/rss_all_categories.rss
+    base: https://www.bis.org
+    mode: rss
+    limit: 10
+  - name: BIS Statistics
+    index: https://www.bis.org/doclist/all_statistics.rss
+    base: https://www.bis.org
+    mode: rss
+    limit: 10
+  - name: BIS Central Bank Speeches
+    index: https://www.bis.org/doclist/cbspeeches.rss
+    base: https://www.bis.org
+    mode: rss
+    limit: 10
+  - name: FSB Press Releases
+    index: https://www.fsb.org/wordpress/content_type/press-releases/feed/
+    base: https://www.fsb.org
+    mode: rss
+    limit: 10
+  - name: FSB Consultations
+    index: https://www.fsb.org/wordpress/content_type/consultations/feed/
+    base: https://www.fsb.org
+    mode: rss
+    limit: 10
+  - name: BIS CBDC Project Index
+    index: https://www.bis.org/about/bisih/topics/cbdc.htm
+    base: https://www.bis.org
+    limit: 10
+  financial-freedom:
+  - name: SEC Press Releases
+    index: https://www.sec.gov/news/pressreleases.rss
+    base: https://www.sec.gov
+    mode: rss
+    limit: 10
+  - name: WHO News
+    index: https://www.who.int/rss-feeds/news-english.xml
+    base: https://www.who.int
+    mode: rss
+    limit: 10
+  - name: WHO Governance
+    index: https://www.who.int/about/governance
+    base: https://www.who.int
+    limit: 10
+  - name: Federal Reserve Consumer and Community Research
+    index: https://www.federalreserve.gov/consumerscommunities.htm
+    base: https://www.federalreserve.gov
+    limit: 10
+  - name: CBDC Tracker
+    index: https://cbdctracker.org/
+    base: https://cbdctracker.org
+    limit: 10
+  - name: OFAC Recent Actions
+    index: https://ofac.treasury.gov/recent-actions
+    base: https://ofac.treasury.gov
+    limit: 10
+  - name: OFAC Sanctions List Service
+    index: https://ofac.treasury.gov/sanctions-list-service
+    base: https://ofac.treasury.gov
+    limit: 10
