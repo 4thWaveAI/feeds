@@ -77,32 +77,32 @@ areas:
     base: https://openai.com
     prefix: /news/
     limit: 10
-  - name: "Microsoft Industry \u2014 Manufacturing & Mobility (abs)"
+  - name: Microsoft Industry — Manufacturing & Mobility (abs)
     index: https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/
     base: https://www.microsoft.com
     prefix: https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/
     limit: 10
-  - name: "Microsoft Industry \u2014 Manufacturing & Mobility (rel)"
+  - name: Microsoft Industry — Manufacturing & Mobility (rel)
     index: https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/
     base: https://www.microsoft.com
     prefix: /en-us/industry/blog/manufacturing-and-mobility/
     limit: 10
-  - name: "IBM Think \u2014 AI in Manufacturing (abs)"
+  - name: IBM Think — AI in Manufacturing (abs)
     index: https://www.ibm.com/think/topics/ai-in-manufacturing
     base: https://www.ibm.com
     prefix: https://www.ibm.com/think/
     limit: 10
-  - name: "IBM Think \u2014 AI in Manufacturing (rel)"
+  - name: IBM Think — AI in Manufacturing (rel)
     index: https://www.ibm.com/think/topics/ai-in-manufacturing
     base: https://www.ibm.com
     prefix: /think/
     limit: 10
-  - name: "Siemens \u2014 Industrial AI (abs)"
+  - name: Siemens — Industrial AI (abs)
     index: https://www.siemens.com/us/en/company/topic-areas/industrial-ai.html
     base: https://www.siemens.com
     prefix: https://www.siemens.com/us/en/company/topic-areas/industrial-ai
     limit: 10
-  - name: "Siemens \u2014 Industrial AI (rel)"
+  - name: Siemens — Industrial AI (rel)
     index: https://www.siemens.com/us/en/company/topic-areas/industrial-ai.html
     base: https://www.siemens.com
     prefix: /us/en/company/topic-areas/industrial-ai
@@ -440,27 +440,27 @@ areas:
     base: https://www.embl.org
     limit: 10
   nanotech:
-  - name: "MIT News \u2014 Nanotechnology"
+  - name: MIT News — Nanotechnology
     index: https://news.mit.edu/topic/nanotechnology
     base: https://news.mit.edu
     prefix: /
     limit: 12
-  - name: "Nanowerk \u2014 Latest Nanotechnology News"
+  - name: Nanowerk — Latest Nanotechnology News
     index: https://www.nanowerk.com/
     base: https://www.nanowerk.com
     prefix: /news2/
     limit: 12
-  - name: "Phys.org \u2014 Nanotechnology"
+  - name: Phys.org — Nanotechnology
     index: https://phys.org/nanotech-news/
     base: https://phys.org
     prefix: /news/
     limit: 12
-  - name: "ScienceDaily \u2014 Nanotechnology"
+  - name: ScienceDaily — Nanotechnology
     index: https://www.sciencedaily.com/news/matter_energy/nanotechnology/
     base: https://www.sciencedaily.com
     prefix: /releases/
     limit: 12
-  - name: "Berkeley News \u2014 Nanotechnology"
+  - name: Berkeley News — Nanotechnology
     index: https://news.berkeley.edu/tag/nanotechnology/
     base: https://news.berkeley.edu
     prefix: /
@@ -480,82 +480,82 @@ areas:
     base: https://www.nano.gov
     limit: 10
   space-tech:
-  - name: "NASA News \u2014 Releases (abs)"
+  - name: NASA News — Releases (abs)
     index: https://www.nasa.gov/news/
     base: https://www.nasa.gov
     prefix: https://www.nasa.gov/news-release/
     limit: 6
-  - name: "NASA News \u2014 Releases (rel)"
+  - name: NASA News — Releases (rel)
     index: https://www.nasa.gov/news/
     base: https://www.nasa.gov
     prefix: /news-release/
     limit: 6
-  - name: "NASA News \u2014 Features (abs)"
+  - name: NASA News — Features (abs)
     index: https://www.nasa.gov/news/
     base: https://www.nasa.gov
     prefix: https://www.nasa.gov/feature/
     limit: 6
-  - name: "NASA News \u2014 Features (rel)"
+  - name: NASA News — Features (rel)
     index: https://www.nasa.gov/news/
     base: https://www.nasa.gov
     prefix: /feature/
     limit: 6
-  - name: "NASA JPL \u2014 News (abs)"
+  - name: NASA JPL — News (abs)
     index: https://www.jpl.nasa.gov/news
     base: https://www.jpl.nasa.gov
     prefix: https://www.jpl.nasa.gov/news/
     limit: 8
-  - name: "NASA JPL \u2014 News (rel)"
+  - name: NASA JPL — News (rel)
     index: https://www.jpl.nasa.gov/news
     base: https://www.jpl.nasa.gov
     prefix: /news/
     limit: 8
-  - name: "ESA \u2014 Press Releases (abs)"
+  - name: ESA — Press Releases (abs)
     index: https://www.esa.int/Newsroom/Press_Releases
     base: https://www.esa.int
     prefix: https://www.esa.int/Newsroom/Press_Releases/
     limit: 6
-  - name: "ESA \u2014 Press Releases (rel)"
+  - name: ESA — Press Releases (rel)
     index: https://www.esa.int/Newsroom/Press_Releases
     base: https://www.esa.int
     prefix: /Newsroom/Press_Releases/
     limit: 6
-  - name: "SpaceX \u2014 Updates (abs)"
+  - name: SpaceX — Updates (abs)
     index: https://www.spacex.com/updates/
     base: https://www.spacex.com
     prefix: https://www.spacex.com/updates/
     limit: 6
-  - name: "SpaceX \u2014 Updates (rel)"
+  - name: SpaceX — Updates (rel)
     index: https://www.spacex.com/updates/
     base: https://www.spacex.com
     prefix: /updates/
     limit: 6
-  - name: "Blue Origin \u2014 News (abs)"
+  - name: Blue Origin — News (abs)
     index: https://www.blueorigin.com/news
     base: https://www.blueorigin.com
     prefix: https://www.blueorigin.com/news
     limit: 6
-  - name: "Blue Origin \u2014 News (rel)"
+  - name: Blue Origin — News (rel)
     index: https://www.blueorigin.com/news
     base: https://www.blueorigin.com
     prefix: /news
     limit: 6
-  - name: "Rocket Lab \u2014 Updates (abs)"
+  - name: Rocket Lab — Updates (abs)
     index: https://www.rocketlabusa.com/updates/
     base: https://www.rocketlabusa.com
     prefix: https://www.rocketlabusa.com/updates/
     limit: 6
-  - name: "Rocket Lab \u2014 Updates (rel)"
+  - name: Rocket Lab — Updates (rel)
     index: https://www.rocketlabusa.com/updates/
     base: https://www.rocketlabusa.com
     prefix: /updates/
     limit: 6
-  - name: "Relativity Space \u2014 News (abs)"
+  - name: Relativity Space — News (abs)
     index: https://www.relativityspace.com/news
     base: https://www.relativityspace.com
     prefix: https://www.relativityspace.com/news
     limit: 6
-  - name: "Relativity Space \u2014 News (rel)"
+  - name: Relativity Space — News (rel)
     index: https://www.relativityspace.com/news
     base: https://www.relativityspace.com
     prefix: /news
@@ -592,17 +592,17 @@ areas:
     base: https://www.kari.re.kr
     limit: 10
   space-force:
-  - name: "U.S. Space Force \u2014 Articles"
+  - name: U.S. Space Force — Articles
     index: https://www.spaceforce.mil/News/
     base: https://www.spaceforce.mil
     prefix: /News/Article/
     limit: 10
-  - name: "Space Systems Command \u2014 Articles"
+  - name: Space Systems Command — Articles
     index: https://www.ssc.spaceforce.mil/News
     base: https://www.ssc.spaceforce.mil
     prefix: /News/Article/
     limit: 8
-  - name: "Space Development Agency \u2014 News"
+  - name: Space Development Agency — News
     index: https://www.sda.mil/news/
     base: https://www.sda.mil
     prefix: /news/
@@ -612,12 +612,12 @@ areas:
     deny_patterns:
     - /news/page/
     - /news-archive
-  - name: "U.S. Space Command \u2014 Articles"
+  - name: U.S. Space Command — Articles
     index: https://www.spacecom.mil/Newsroom/
     base: https://www.spacecom.mil
     prefix: /Newsroom/News/Article/
     limit: 6
-  - name: "NRO \u2014 Press Releases & Statements"
+  - name: NRO — Press Releases & Statements
     index: https://www.nro.gov/News/Press-Releases-and-Statements/
     base: https://www.nro.gov
     prefix: /News/Press-Releases-and-Statements/
@@ -625,169 +625,169 @@ areas:
     deny_patterns:
     - /Tag/
   digital-twins:
-  - name: "World Economic Forum \u2014 Publications (abs)"
+  - name: World Economic Forum — Publications (abs)
     index: https://www.weforum.org/publications/
     base: https://www.weforum.org
     prefix: https://www.weforum.org/publications/
     limit: 8
-  - name: "World Economic Forum \u2014 Publications (rel)"
+  - name: World Economic Forum — Publications (rel)
     index: https://www.weforum.org/publications/
     base: https://www.weforum.org
     prefix: /publications/
     limit: 8
-  - name: "IEEE Spectrum \u2014 Digital Twins (tag)"
+  - name: IEEE Spectrum — Digital Twins (tag)
     index: https://spectrum.ieee.org/tag/digital-twins
     base: https://spectrum.ieee.org
     prefix: /
     limit: 8
   quantum-security:
-  - name: "World Economic Forum \u2014 Publications (abs)"
+  - name: World Economic Forum — Publications (abs)
     index: https://www.weforum.org/publications/
     base: https://www.weforum.org
     prefix: https://www.weforum.org/publications/
     limit: 8
-  - name: "World Economic Forum \u2014 Publications (rel)"
+  - name: World Economic Forum — Publications (rel)
     index: https://www.weforum.org/publications/
     base: https://www.weforum.org
     prefix: /publications/
     limit: 8
-  - name: "IEEE Spectrum \u2014 Quantum Security (tag)"
+  - name: IEEE Spectrum — Quantum Security (tag)
     index: https://spectrum.ieee.org/tag/quantum-security
     base: https://spectrum.ieee.org
     prefix: /
     limit: 8
   generative-ai:
-  - name: "World Economic Forum \u2014 Publications (abs)"
+  - name: World Economic Forum — Publications (abs)
     index: https://www.weforum.org/publications/
     base: https://www.weforum.org
     prefix: https://www.weforum.org/publications/
     limit: 8
-  - name: "World Economic Forum \u2014 Publications (rel)"
+  - name: World Economic Forum — Publications (rel)
     index: https://www.weforum.org/publications/
     base: https://www.weforum.org
     prefix: /publications/
     limit: 8
-  - name: "IEEE Spectrum \u2014 Generative AI (tag)"
+  - name: IEEE Spectrum — Generative AI (tag)
     index: https://spectrum.ieee.org/tag/generative-ai
     base: https://spectrum.ieee.org
     prefix: /
     limit: 10
   agentic-ai:
-  - name: "World Economic Forum \u2014 Publications (abs)"
+  - name: World Economic Forum — Publications (abs)
     index: https://www.weforum.org/publications/
     base: https://www.weforum.org
     prefix: https://www.weforum.org/publications/
     limit: 6
-  - name: "World Economic Forum \u2014 Publications (rel)"
+  - name: World Economic Forum — Publications (rel)
     index: https://www.weforum.org/publications/
     base: https://www.weforum.org
     prefix: /publications/
     limit: 6
   edge-computing:
-  - name: "IEEE Spectrum \u2014 Edge Computing (tag)"
+  - name: IEEE Spectrum — Edge Computing (tag)
     index: https://spectrum.ieee.org/tag/edge-computing
     base: https://spectrum.ieee.org
     prefix: /
     limit: 10
-  - name: "World Economic Forum \u2014 Publications (abs)"
+  - name: World Economic Forum — Publications (abs)
     index: https://www.weforum.org/publications/
     base: https://www.weforum.org
     prefix: https://www.weforum.org/publications/
     limit: 6
-  - name: "World Economic Forum \u2014 Publications (rel)"
+  - name: World Economic Forum — Publications (rel)
     index: https://www.weforum.org/publications/
     base: https://www.weforum.org
     prefix: /publications/
     limit: 6
   internet-of-things:
-  - name: "IEEE Spectrum \u2014 IoT (tag)"
+  - name: IEEE Spectrum — IoT (tag)
     index: https://spectrum.ieee.org/tag/iot
     base: https://spectrum.ieee.org
     prefix: /
     limit: 12
-  - name: "Phys.org \u2014 Internet of Things"
+  - name: Phys.org — Internet of Things
     index: https://phys.org/tags/internet-of-things/
     base: https://phys.org
     prefix: /news/
     limit: 10
   augmented-reality:
-  - name: "IEEE Spectrum \u2014 Augmented Reality (tag)"
+  - name: IEEE Spectrum — Augmented Reality (tag)
     index: https://spectrum.ieee.org/tag/augmented-reality
     base: https://spectrum.ieee.org
     prefix: /
     limit: 10
-  - name: "UploadVR \u2014 AR (tag)"
+  - name: UploadVR — AR (tag)
     index: https://www.uploadvr.com/tag/augmented-reality/
     base: https://www.uploadvr.com
     prefix: /
     limit: 8
   extended-reality:
-  - name: "Road to VR \u2014 News"
+  - name: Road to VR — News
     index: https://www.roadtovr.com/category/news/
     base: https://www.roadtovr.com
     prefix: /
     limit: 10
-  - name: "IEEE Spectrum \u2014 Virtual/Extended Reality (tag)"
+  - name: IEEE Spectrum — Virtual/Extended Reality (tag)
     index: https://spectrum.ieee.org/tag/virtual-reality
     base: https://spectrum.ieee.org
     prefix: /
     limit: 8
   artificial-wombs:
-  - name: "ScienceDaily \u2014 Reproductive Technology"
+  - name: ScienceDaily — Reproductive Technology
     index: https://www.sciencedaily.com/news/health_medicine/reproductive_technology/
     base: https://www.sciencedaily.com
     prefix: /releases/
     limit: 10
-  - name: "World Economic Forum \u2014 Publications (abs)"
+  - name: World Economic Forum — Publications (abs)
     index: https://www.weforum.org/publications/
     base: https://www.weforum.org
     prefix: https://www.weforum.org/publications/
     limit: 6
-  - name: "World Economic Forum \u2014 Publications (rel)"
+  - name: World Economic Forum — Publications (rel)
     index: https://www.weforum.org/publications/
     base: https://www.weforum.org
     prefix: /publications/
     limit: 6
   structural-battery-composites:
-  - name: "ScienceDaily \u2014 Batteries"
+  - name: ScienceDaily — Batteries
     index: https://www.sciencedaily.com/news/matter_energy/batteries/
     base: https://www.sciencedaily.com
     prefix: /releases/
     limit: 10
-  - name: "Nature \u2014 Materials Science"
+  - name: Nature — Materials Science
     index: https://www.nature.com/subjects/materials-science
     base: https://www.nature.com
     prefix: /articles/
     limit: 8
   advanced-materials-technology:
-  - name: "ScienceDaily \u2014 Materials Science"
+  - name: ScienceDaily — Materials Science
     index: https://www.sciencedaily.com/news/matter_energy/materials_science/
     base: https://www.sciencedaily.com
     prefix: /releases/
     limit: 12
-  - name: "MIT News \u2014 Materials"
+  - name: MIT News — Materials
     index: https://news.mit.edu/topic/materials
     base: https://news.mit.edu
     prefix: /
     limit: 8
   cobots:
-  - name: "The Robot Report \u2014 Cobots"
+  - name: The Robot Report — Cobots
     index: https://www.therobotreport.com/category/cobots/
     base: https://www.therobotreport.com
     prefix: /
     limit: 10
-  - name: "IEEE Spectrum \u2014 Robotics (tag)"
+  - name: IEEE Spectrum — Robotics (tag)
     index: https://spectrum.ieee.org/tag/robotics
     base: https://spectrum.ieee.org
     prefix: /
     limit: 10
   elon-musk:
-  - name: "SpaceX \u2014 Updates (abs)"
+  - name: SpaceX — Updates (abs)
     index: https://www.spacex.com/updates/
     base: https://www.spacex.com
     prefix: https://www.spacex.com/updates/
     limit: 6
-  - name: "SpaceX \u2014 Updates (rel)"
+  - name: SpaceX — Updates (rel)
     index: https://www.spacex.com/updates/
     base: https://www.spacex.com
     prefix: /updates/
@@ -875,117 +875,117 @@ areas:
     prefix: /news/
     limit: 8
   jeff-bezos:
-  - name: "Blue Origin \u2014 News (abs)"
+  - name: Blue Origin — News (abs)
     index: https://www.blueorigin.com/news
     base: https://www.blueorigin.com
     prefix: https://www.blueorigin.com/news
     limit: 6
-  - name: "Blue Origin \u2014 News (rel)"
+  - name: Blue Origin — News (rel)
     index: https://www.blueorigin.com/news
     base: https://www.blueorigin.com
     prefix: /news
     limit: 6
-  - name: "About Amazon \u2014 News (abs)"
+  - name: About Amazon — News (abs)
     index: https://www.aboutamazon.com/news
     base: https://www.aboutamazon.com
     prefix: https://www.aboutamazon.com/news
     limit: 6
-  - name: "About Amazon \u2014 News (rel)"
+  - name: About Amazon — News (rel)
     index: https://www.aboutamazon.com/news
     base: https://www.aboutamazon.com
     prefix: /news
     limit: 6
   young-talons-edu-tech:
-  - name: "EdSurge \u2014 News (abs)"
+  - name: EdSurge — News (abs)
     index: https://www.edsurge.com/news
     base: https://www.edsurge.com
     prefix: https://www.edsurge.com/news/
     limit: 10
-  - name: "EdSurge \u2014 News (rel)"
+  - name: EdSurge — News (rel)
     index: https://www.edsurge.com/news
     base: https://www.edsurge.com
     prefix: /news/
     limit: 10
-  - name: "Hechinger Report \u2014 Technology"
+  - name: Hechinger Report — Technology
     index: https://hechingerreport.org/special_reports/technology/
     base: https://hechingerreport.org
     prefix: /
     limit: 8
-  - name: "MIT News \u2014 Education"
+  - name: MIT News — Education
     index: https://news.mit.edu/topic/education
     base: https://news.mit.edu
     prefix: /
     limit: 6
-  - name: "EdTech Magazine \u2014 K-12"
+  - name: EdTech Magazine — K-12
     index: https://edtechmagazine.com/k12
     base: https://edtechmagazine.com
     prefix: /k12
     limit: 8
   gsel-esports-ai:
-  - name: "NASEF \u2014 News"
+  - name: NASEF — News
     index: https://www.nasef.org/news
     base: https://www.nasef.org
     prefix: /news
     limit: 8
-  - name: "Esports Insider \u2014 News"
+  - name: Esports Insider — News
     index: https://esportsinsider.com/
     base: https://esportsinsider.com
     prefix: /
     limit: 10
-  - name: "Esports.gg \u2014 News"
+  - name: Esports.gg — News
     index: https://esports.gg/news/
     base: https://esports.gg
     prefix: /news/
     limit: 10
-  - name: "VentureBeat \u2014 Games"
+  - name: VentureBeat — Games
     index: https://venturebeat.com/games/
     base: https://venturebeat.com
     prefix: /games/
     limit: 8
   humanoid-robots:
-  - name: "IEEE Spectrum \u2014 Humanoid Robots (tag)"
+  - name: IEEE Spectrum — Humanoid Robots (tag)
     index: https://spectrum.ieee.org/tag/humanoid-robots
     base: https://spectrum.ieee.org
     prefix: /
     limit: 10
-  - name: "The Robot Report \u2014 Humanoids"
+  - name: The Robot Report — Humanoids
     index: https://www.therobotreport.com/category/humanoids/
     base: https://www.therobotreport.com
     prefix: /
     limit: 10
   sciencedaily-top:
-  - name: "ScienceDaily \u2014 All News (RSS)"
+  - name: ScienceDaily — All News (RSS)
     index: https://www.sciencedaily.com/rss/all.xml
     base: https://www.sciencedaily.com
     mode: rss
     limit: 20
   human_effect:
-  - name: "WHO \u2013 Digital Health"
+  - name: WHO – Digital Health
     index: https://www.who.int/feeds/entity/news/en/rss.xml
     base: https://www.who.int
     prefix: /
     limit: 10
-  - name: "NIH \u2013 News (Digital Health & Science)"
+  - name: NIH – News (Digital Health & Science)
     index: https://www.nih.gov/news-events/news-releases/rss.xml
     base: https://www.nih.gov
     prefix: /
     limit: 10
-  - name: "CDC \u2013 Newsroom"
+  - name: CDC – Newsroom
     index: https://tools.cdc.gov/api/v2/resources/media/403372.rss
     base: https://www.cdc.gov
     prefix: /
     limit: 8
-  - name: "The Lancet \u2013 Digital Health"
+  - name: The Lancet – Digital Health
     index: https://www.thelancet.com/rssfeed/the-lancet-digital-health
     base: https://www.thelancet.com
     prefix: /
     limit: 6
-  - name: "Nature \u2013 Human Behaviour"
+  - name: Nature – Human Behaviour
     index: https://www.nature.com/nathumbehav.rss
     base: https://www.nature.com
     prefix: /
     limit: 6
-  - name: "Pew Research \u2013 Internet & Tech"
+  - name: Pew Research – Internet & Tech
     index: https://www.pewresearch.org/internet/feed/
     base: https://www.pewresearch.org
     prefix: /internet/
@@ -995,17 +995,17 @@ areas:
     base: https://www.oii.ox.ac.uk
     prefix: /blog/
     limit: 10
-  - name: "MIT Technology Review \u2013 Society"
+  - name: MIT Technology Review – Society
     index: https://www.technologyreview.com/feed/
     base: https://www.technologyreview.com
     prefix: /
     limit: 10
-  - name: "Stanford HAI \u2013 Human-Centered AI"
+  - name: Stanford HAI – Human-Centered AI
     index: https://hai.stanford.edu/news/rss.xml
     base: https://hai.stanford.edu
     prefix: /news/
     limit: 10
-  - name: "UNESCO \u2013 AI & Humanity"
+  - name: UNESCO – AI & Humanity
     index: https://www.unesco.org/en/rss.xml
     base: https://www.unesco.org
     prefix: /
@@ -1030,27 +1030,27 @@ areas:
     base: https://www.humanetech.com
     prefix: /blog/
     limit: 10
-  - name: "IEEE Spectrum \u2014 Ethics/AI (full feed)"
+  - name: IEEE Spectrum — Ethics/AI (full feed)
     index: https://spectrum.ieee.org/rss/fulltext
     base: https://spectrum.ieee.org
     prefix: /
     limit: 10
-  - name: "McKinsey \u2013 Future of Work"
+  - name: McKinsey – Future of Work
     index: https://www.mckinsey.com/featured-insights/future-of-work/rss
     base: https://www.mckinsey.com
     prefix: /
     limit: 10
-  - name: "ILO \u2013 Future of Work"
+  - name: ILO – Future of Work
     index: https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_675294/lang--en/index.htm/rss.xml
     base: https://www.ilo.org
     prefix: /
     limit: 8
-  - name: "OECD \u2013 Digital Economy / Employment"
+  - name: OECD – Digital Economy / Employment
     index: https://www.oecd.org/rss/xml/oecdthematicfeeds.xml
     base: https://www.oecd.org
     prefix: /
     limit: 8
-  - name: "MIT \u2013 Work of the Future"
+  - name: MIT – Work of the Future
     index: https://workofthefuture.mit.edu/feed/
     base: https://workofthefuture.mit.edu
     prefix: /
@@ -1070,7 +1070,7 @@ areas:
     base: https://www.nature.com
     prefix: /
     limit: 6
-  - name: "Human Flourishing Program \u2013 Harvard"
+  - name: Human Flourishing Program – Harvard
     index: https://hfh.fas.harvard.edu/rss.xml
     base: https://hfh.fas.harvard.edu
     prefix: /
@@ -1080,7 +1080,7 @@ areas:
     base: https://noetic.org
     prefix: /
     limit: 10
-  - name: "Esalen \u2013 Center for Theory & Research"
+  - name: Esalen – Center for Theory & Research
     index: https://www.esalen.org/rss.xml
     base: https://www.esalen.org
     prefix: /
@@ -2092,3 +2092,236 @@ areas:
     base: https://aspire.usu.edu
     mode: rss
     limit: 10
+  - name: GIE Transparency Platforms
+    index: https://www.gie.eu/feed/
+    base: https://www.gie.eu
+    limit: 10
+    mode: rss
+  quantum-biology:
+  - name: arXiv Biological Physics (physics.bio-ph)
+    index: https://rss.arxiv.org/rss/physics.bio-ph
+    base: https://arxiv.org
+    limit: 12
+    mode: rss
+  - name: arXiv Quantum Physics (quant-ph)
+    index: https://rss.arxiv.org/rss/quant-ph
+    base: https://arxiv.org
+    limit: 12
+    mode: rss
+  - name: arXiv Biomolecules (q-bio.BM)
+    index: https://rss.arxiv.org/rss/q-bio.BM
+    base: https://arxiv.org
+    limit: 12
+    mode: rss
+  - name: bioRxiv Biophysics preprints
+    index: http://connect.biorxiv.org/biorxiv_xml.php?subject=biophysics
+    base: https://www.biorxiv.org
+    limit: 12
+    mode: rss
+  - name: Nature - Biophysics subject feed
+    index: https://www.nature.com/subjects/biophysics.rss
+    base: https://www.nature.com
+    limit: 10
+    mode: rss
+  - name: Nature - Quantum Information subject feed
+    index: https://www.nature.com/subjects/quantum-information.rss
+    base: https://www.nature.com
+    limit: 10
+    mode: rss
+  - name: npj Quantum Information (Nature)
+    index: https://www.nature.com/npjqi.rss
+    base: https://www.nature.com
+    limit: 10
+    mode: rss
+  - name: Surrey Leverhulme Quantum Biology Doctoral Training Centre (scrape)
+    index: https://www.surrey.ac.uk/leverhulme-quantum-biology-doctoral-training-centre
+    base: https://www.surrey.ac.uk
+    limit: 10
+  - name: '[ORCH-OR] Univ. Arizona Center for Consciousness Studies - Hameroff (scrape)'
+    index: https://consciousness.arizona.edu/news
+    base: https://consciousness.arizona.edu
+    limit: 10
+  quantum-consciousness:
+  - name: '[ORCH-OR] Physics of Life Reviews (Orch-OR debate journal, L6)'
+    index: https://rss.sciencedirect.com/publication/science/15710645
+    base: https://www.sciencedirect.com
+    mode: rss
+    limit: 10
+  - name: '[CONTESTED ARGUMENT] Physical Review E (Tegmark decoherence critique lives here, L4 critic)'
+    index: https://feeds.aps.org/rss/recent/pre.xml
+    base: https://journals.aps.org
+    mode: rss
+    limit: 10
+  noncomputability-mind:
+  - name: '[CONTESTED ARGUMENT] Internet Encyclopedia of Philosophy (Lucas-Penrose)'
+    index: https://iep.utm.edu/feed/
+    base: https://iep.utm.edu
+    mode: rss
+    limit: 10
+  - name: '[CONTESTED ARGUMENT] Minds and Machines (Springer)'
+    index: https://link.springer.com/search.rss?facet-journal-id=11023
+    base: https://link.springer.com
+    mode: rss
+    limit: 10
+  anomaly-research:
+  - name: '[ANOMALY] Journal of Scientific Exploration (claim-side ceiling, L7)'
+    index: https://journalofscientificexploration.org/index.php/jse/gateway/plugin/WebFeedGatewayPlugin/atom
+    base: https://journalofscientificexploration.org
+    mode: rss
+    limit: 10
+  bio-computation:
+  - name: '[FRONTIER CONCEPT] Allen Discovery Center at Tufts (Levin Lab institutional)'
+    index: https://allencenter.tufts.edu/feed/
+    base: https://allencenter.tufts.edu
+    mode: rss
+    limit: 10
+  - name: '[FRONTIER CONCEPT] BioSystems (Elsevier)'
+    index: https://rss.sciencedirect.com/publication/science/03032647
+    base: https://www.sciencedirect.com
+    mode: rss
+    limit: 10
+  qm-foundations:
+  - name: '[INTERPRETATION] Physical Review Letters (recent)'
+    index: https://feeds.aps.org/rss/recent/prl.xml
+    base: https://journals.aps.org
+    mode: rss
+    limit: 10
+  - name: '[INTERPRETATION] Physical Review A (recent)'
+    index: https://feeds.aps.org/rss/recent/pra.xml
+    base: https://journals.aps.org
+    mode: rss
+    limit: 10
+  - name: '[INTERPRETATION] Foundations of Physics (Springer)'
+    index: https://link.springer.com/search.rss?facet-journal-id=10701
+    base: https://link.springer.com
+    mode: rss
+    limit: 10
+  metascience-replication:
+  - name: '[FACT-bounded] [STATE-CLAIM] UK Research and Innovation (hosts UK Metascience Unit)'
+    index: https://www.ukri.org/feed/
+    base: https://www.ukri.org
+    mode: rss
+    limit: 10
+  research-integrity:
+  - name: '[FACT-bounded] Retraction Watch'
+    index: https://retractionwatch.com/feed/
+    base: https://retractionwatch.com
+    mode: rss
+    limit: 10
+  - name: '[FACT-bounded] [STATE-CLAIM] US Office of Research Integrity'
+    index: https://ori.hhs.gov/rss.xml
+    base: https://ori.hhs.gov
+    mode: rss
+    limit: 10
+  forecasting-calibration:
+  - name: '[FACT-bounded] International Journal of Forecasting (Elsevier)'
+    index: https://rss.sciencedirect.com/publication/science/01692070
+    base: https://www.sciencedirect.com
+    mode: rss
+    limit: 10
+  - name: '[FACT-bounded] Forecasting Research Institute'
+    index: https://forecastingresearch.substack.com/feed
+    base: https://forecastingresearch.substack.com
+    mode: rss
+    limit: 10
+  - name: '[FACT-bounded] Good Judgment (Tetlock)'
+    index: https://goodjudgment.com/feed/
+    base: https://goodjudgment.com
+    mode: rss
+    limit: 10
+  futures-foresight:
+  - name: '[INTERPRETATION] The Millennium Project'
+    index: https://www.millennium-project.org/feed/
+    base: https://www.millennium-project.org
+    mode: rss
+    limit: 10
+  - name: '[INTERPRETATION] [STATE-CLAIM] Singapore Centre for Strategic Futures'
+    index: https://www.csf.gov.sg/feed.xml
+    base: https://www.csf.gov.sg
+    mode: rss
+    limit: 10
+  ai-oversight:
+  - name: '[FACT-bounded] METR (Model Evaluation and Threat Research)'
+    index: https://metr.org/feed.xml
+    base: https://metr.org
+    mode: rss
+    limit: 10
+  - name: '[FACT-bounded] ARC (Alignment Research Center)'
+    index: https://www.alignment.org/blog/rss/
+    base: https://www.alignment.org
+    mode: rss
+    limit: 10
+  - name: '[FACT-bounded] MIRI (Machine Intelligence Research Institute)'
+    index: https://intelligence.org/feed/
+    base: https://intelligence.org
+    mode: rss
+    limit: 10
+  - name: '[FACT-bounded] [STATE-CLAIM] NIST news (hosts CAISI, US AI Safety)'
+    index: https://www.nist.gov/news-events/news/rss.xml
+    base: https://www.nist.gov
+    mode: rss
+    limit: 10
+  conflict-watch:
+  - name: '[STATE-CLAIM] FCDO Organisation Atom Feed'
+    index: https://www.gov.uk/government/organisations/foreign-commonwealth-development-office.atom
+    base: https://www.gov.uk
+    limit: 10
+    mode: rss
+  - name: IAEA Top News RSS
+    index: https://www.iaea.org/feeds/topnews
+    base: https://www.iaea.org
+    limit: 10
+    mode: rss
+  - name: '[STATE-CLAIM] OFSI Blog Atom Feed'
+    index: https://ofsi.blog.gov.uk/feed/
+    base: https://ofsi.blog.gov.uk
+    limit: 10
+    mode: rss
+  - name: '[STATE-CLAIM] Combined Maritime Forces News'
+    index: https://combinedmaritimeforces.com/feed/
+    base: https://combinedmaritimeforces.com
+    limit: 10
+    mode: rss
+  oil-energy-shock:
+  - name: '[STATE-CLAIM] EIA Today in Energy RSS'
+    index: https://www.eia.gov/rss/todayinenergy.xml
+    base: https://www.eia.gov
+    limit: 10
+    mode: rss
+  - name: '[STATE-CLAIM] EIA Press Releases RSS'
+    index: https://www.eia.gov/rss/press_rss.xml
+    base: https://www.eia.gov
+    limit: 10
+    mode: rss
+  - name: '[STATE-CLAIM] EIA Gasoline and Diesel Price RSS'
+    index: https://www.eia.gov/petroleum/gasdiesel/includes/gas_diesel_rss.xml
+    base: https://www.eia.gov
+    limit: 10
+    mode: rss
+  aerospace-defense-industrial:
+  - name: Firefly Aerospace News
+    index: https://fireflyspace.com/feed/
+    base: https://fireflyspace.com
+    limit: 10
+    mode: rss
+  global-darpa-network:
+  - name: '[STATE-CLAIM] DASA Organisation Updates'
+    index: https://www.gov.uk/government/organisations/defence-and-security-accelerator.atom
+    base: https://www.gov.uk
+    limit: 10
+    mode: rss
+  - name: '[STATE-CLAIM] Cyberagentur Media'
+    index: https://www.cyberagentur.de/en/feed/
+    base: https://www.cyberagentur.de
+    limit: 10
+    mode: rss
+  - name: '[STATE-CLAIM] Israel Innovation Authority Press Releases'
+    index: https://innovationisrael.org.il/en/press_release/feed/
+    base: https://innovationisrael.org.il
+    limit: 10
+    mode: rss
+  - name: Wellcome Leap RSS
+    index: https://wellcomeleap.org/feed/
+    base: https://wellcomeleap.org
+    limit: 10
+    mode: rss
