@@ -1,7 +1,167 @@
 {
   "version": "https://jsonfeed.org/version/1",
   "title": "4thWave AI — Sam Altman (Aggregated)",
-  "home_page_url": "https://4thwave.ai",
+  "home_page_url": "https://www.4thwaveai.com",
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sam-altman.json",
-  "items": []
+  "items": [
+    {
+      "id": "https://openai.com/news/rss.xml",
+      "url": "https://openai.com/news/rss.xml",
+      "title": "<![CDATA[OpenAI News]]>",
+      "content_text": "<![CDATA[OpenAI News]]>",
+      "tags": [
+        "sam-altman"
+      ]
+    },
+    {
+      "id": "https://openai.com/news/company-announcements/",
+      "url": "https://openai.com/news/company-announcements/",
+      "title": "OpenAI Newsroom | Recent news",
+      "content_text": "Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "sam-altman"
+      ]
+    },
+    {
+      "id": "https://openai.com/news/research/",
+      "url": "https://openai.com/news/research/",
+      "title": "OpenAI Newsroom | Research",
+      "content_text": "Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "sam-altman"
+      ]
+    },
+    {
+      "id": "https://openai.com/news/product-releases/",
+      "url": "https://openai.com/news/product-releases/",
+      "title": "OpenAI Newsroom | Product",
+      "content_text": "Product Jul 9, 2026",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "sam-altman"
+      ]
+    },
+    {
+      "id": "https://openai.com/news/safety-alignment/",
+      "url": "https://openai.com/news/safety-alignment/",
+      "title": "OpenAI Newsroom | Safety",
+      "content_text": "Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "sam-altman"
+      ]
+    },
+    {
+      "id": "https://openai.com/news/engineering/",
+      "url": "https://openai.com/news/engineering/",
+      "title": "OpenAI Newsroom | Engineering",
+      "content_text": "Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "sam-altman"
+      ]
+    },
+    {
+      "id": "https://openai.com/news/security/",
+      "url": "https://openai.com/news/security/",
+      "title": "Security",
+      "content_text": "OpenAI news related to security",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "sam-altman"
+      ]
+    },
+    {
+      "id": "https://openai.com/news/global-affairs/",
+      "url": "https://openai.com/news/global-affairs/",
+      "title": "OpenAI Newsroom | Global Affairs",
+      "content_text": "Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "sam-altman"
+      ]
+    },
+    {
+      "id": "https://openai.com/news/ai-adoption/",
+      "url": "https://openai.com/news/ai-adoption/",
+      "title": "OpenAI Newsroom | AI Adoption",
+      "content_text": "AI Adoption Jul 14, 2026",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "sam-altman"
+      ]
+    },
+    {
+      "id": "https://openai.com/news/applied-ai/",
+      "url": "https://openai.com/news/applied-ai/",
+      "title": "OpenAI Newsroom | Applied AI",
+      "content_text": "Applied AI Jun 23, 2026",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "sam-altman"
+      ]
+    },
+    {
+      "id": "https://openai.com/news/",
+      "url": "https://openai.com/news/",
+      "title": "OpenAI News",
+      "content_text": "Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "sam-altman"
+      ]
+    }
+  ]
 }

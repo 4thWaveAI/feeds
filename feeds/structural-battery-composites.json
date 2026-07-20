@@ -5,13 +5,13 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/structural-battery-composites.json",
   "items": [
     {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250919085242.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250919085242.htm",
-      "title": "New cooling breakthrough nearly doubles efficiency",
-      "content_text": "CHESS thin-film materials nearly double refrigeration efficiency compared to traditional methods. Scalable and versatile, they promise applications from household cooling to space exploration.",
+      "id": "https://www.sciencedaily.com/releases/2026/07/260710003533.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260710003533.htm",
+      "title": "The biggest problem with solid-state batteries may finally be solved",
+      "content_text": "Researchers solved the mystery of how soft lithium dendrites crack the hard ceramic inside solid-state batteries, triggering short circuits. The breakthrough could help engineers build safer, longer-lasting batteries for smartphones, electric vehicles, and other electronics.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/chess-efficient-thermoelectric-cooling-device.webp",
+          "url": "https://www.sciencedaily.com/images/1920/solid-state-battery-technology.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -20,13 +20,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250908175458.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250908175458.htm",
-      "title": "Light-powered chip makes AI 100 times more efficient",
-      "content_text": "Artificial intelligence is consuming enormous amounts of energy, but researchers at the University of Florida have built a chip that could change everything by using light instead of electricity for a core AI function. By etching microscopic lenses directly onto silicon, they’ve enabled laser-powered computations that cut power use dramatically while maintaining near-perfect accuracy.",
+      "id": "https://www.sciencedaily.com/releases/2026/06/260621052413.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260621052413.htm",
+      "title": "Simple water trick slashes diesel engine pollution by over 60%",
+      "content_text": "A surprisingly simple fuel modification could help tackle one of diesel engines’ biggest problems: pollution. Researchers reviewing studies from around the world found that mixing small amounts of water into diesel fuel can dramatically reduce harmful emissions, including nitrogen oxides and soot, while maintaining or even improving engine efficiency.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/instant-convolution-silicon-photonic-chip.webp",
+          "url": "https://www.sciencedaily.com/images/1920/car-exhaust-pipe-smoke.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -35,25 +35,10 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/08/250828060040.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/08/250828060040.htm",
-      "title": "A tiny chip may have solved one of clean energy’s biggest problems",
-      "content_text": "In just one afternoon, scientists used a nanoparticle “megalibrary” to find a catalyst that matches or exceeds iridium’s performance in hydrogen fuel production, at a fraction of the cost.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/iridium-catalyst.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "structural-battery-composites"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/08/250818103002.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/08/250818103002.htm",
-      "title": "Why recycling ‘dead’ batteries could save billions and slash pollution",
-      "content_text": "Lithium battery recycling offers a powerful solution to rising demand, with discarded batteries still holding most of their valuable materials. Compared to mining, recycling slashes emissions and resource use while unlocking major economic potential. Yet infrastructure, policy, and technology hurdles must still be overcome.",
+      "id": "https://www.sciencedaily.com/releases/2026/06/260621060305.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260621060305.htm",
+      "title": "Chinese sodium battery surprised scientists by matching key Tesla benchmarks",
+      "content_text": "Researchers found that a Chinese sodium-ion battery performs far better than expected, with production quality and design features comparable to Tesla’s batteries. If engineers can improve cold-weather charging and energy density, sodium could become a cheaper and more abundant alternative to lithium for EVs and large-scale energy storage.",
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/ev-battery-technician.webp",
@@ -65,13 +50,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/08/250802022915.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/08/250802022915.htm",
-      "title": "AI just found 5 powerful materials that could replace lithium batteries",
-      "content_text": "AI is helping scientists crack the code on next-gen batteries that could replace lithium-ion tech. By discovering novel porous materials, researchers may have paved the way for more powerful and sustainable energy storage using abundant elements like magnesium.",
+      "id": "https://www.sciencedaily.com/releases/2026/06/260610003051.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260610003051.htm",
+      "title": "MIT’s new spacecraft engine could send tiny satellites to Mars",
+      "content_text": "MIT researchers have shown that one fuel can power both chemical and electric spacecraft thrusters, potentially transforming what small satellites can do. The approach combines quick bursts of speed with highly efficient long-range propulsion in a single compact system. A NASA-supported CubeSat mission will soon test the technology in orbit.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/ai-robot-battery-tech.webp",
+          "url": "https://www.sciencedaily.com/images/1920/mit-green-electrospray-thrusters.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -80,13 +65,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/07/250726234421.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/07/250726234421.htm",
-      "title": "Scientists discover salt that makes batteries last 10x longer",
-      "content_text": "A team at KAUST has revealed that the short lifespan of aqueous batteries is primarily due to &quot;free water&quot; molecules triggering harmful chemical reactions at the anode. By adding affordable sulfate salts like zinc sulfate, they significantly reduced this issue—boosting battery life over tenfold. The sulfate acts as a “water glue,” stabilizing the water structure and halting the energy-wasting reactions. Not only is this solution simple and cost-effective, but early results suggest it may be a universal fix for various types of metal-anode aqueous batteries.",
+      "id": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
+      "title": "New light-powered chip could accelerate AI and quantum computing",
+      "content_text": "Scientists have created a tiny chip that can generate, steer, and read light-based information all in one device, marking a major leap toward ultra-fast, energy-efficient computing. The breakthrough uses atomically thin materials and nanoscale structures to control a unique quantum property of light called the “valley” degree of freedom, allowing information to be encoded in new ways.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/aqueous-batteries.webp",
+          "url": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -95,13 +80,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/06/250618094455.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/06/250618094455.htm",
-      "title": "You hear the beep, but can’t find the car: The hidden flaw in electric vehicle safety",
-      "content_text": "As electric vehicles grow more popular, their warning sounds may not be doing enough to protect pedestrians. A Swedish study shows that these signals are hard to locate, especially when multiple vehicles are involved, leaving people unable to tell where danger is coming from or how many cars are nearby.",
+      "id": "https://www.sciencedaily.com/releases/2026/05/260530053418.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260530053418.htm",
+      "title": "New solar desalination breakthrough makes fresh water without toxic brine",
+      "content_text": "Scientists have developed a solar desalination system that turns seawater into drinking water without creating environmentally damaging brine. Special laser-textured metal panels use sunlight to evaporate water while automatically moving salt deposits away from the working surface, preventing clogging. The process was successfully tested with water from three oceans and can recover nearly all salts as solids. Those leftover materials could even become a source of valuable lithium for batteries.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/Accoustics-Lab-Laser-Pointer-Electric-Car-Testing.webp",
+          "url": "https://www.sciencedaily.com/images/1920/solar-desalination-device-with-laser-etched-superwicking.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -110,13 +95,73 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/06/250602154903.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/06/250602154903.htm",
-      "title": "Discovery could boost solid-state battery performance",
-      "content_text": "Researchers have discovered that the mixing of small particles between two solid electrolytes can generate an effect called a &apos;space charge layer,&apos; an accumulation of electric charge at the interface between the two materials. The finding could aid the development of batteries with solid electrolytes, called solid-state batteries, for applications including mobile devices and electric vehicles.",
+      "id": "https://www.sciencedaily.com/releases/2026/05/260522023132.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260522023132.htm",
+      "title": "Scientists just found a faster, cleaner way to extract lithium for EV batteries",
+      "content_text": "A breakthrough lithium-extraction method could help solve one of clean energy’s dirtiest problems. Researchers at Columbia Engineering have developed a fast new technique that pulls lithium directly from salty underground brines using a temperature-sensitive solvent, avoiding the giant evaporation ponds that can take years and drain precious water supplies. Even better, the method works on low-quality lithium sources that current technologies struggle to use.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/scidaily-icon.png",
+          "url": "https://www.sciencedaily.com/images/1920/ngai-yin-yip.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "structural-battery-composites"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/05/260522023127.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260522023127.htm",
+      "title": "Ordinary WiFi can now identify people with near perfect accuracy",
+      "content_text": "Scientists in Germany have demonstrated a startling new form of surveillance: identifying people using nothing more than ordinary WiFi signals. By analyzing how radio waves bounce around a room, researchers can effectively “see” and recognize individuals — even if they are not carrying a device and even if their phone is turned off.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/wifi-imaging-secret-spying.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "structural-battery-composites"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/05/260505234611.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260505234611.htm",
+      "title": "NASA just tested a powerful new thruster that could send humans to Mars",
+      "content_text": "A powerful new electromagnetic thruster has taken a major step forward after a successful high-energy test at NASA’s Jet Propulsion Laboratory. Fueled by lithium vapor and driven by intense magnetic forces, the experimental engine reached record-breaking power levels—far beyond anything currently used in space. Glowing hotter than molten lava and firing inside a specialized vacuum chamber, the thruster hints at a future where spacecraft could travel farther and more efficiently than ever before.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/jpl-tests-next-generation-electric-thruster.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "structural-battery-composites"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/04/260419054821.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260419054821.htm",
+      "title": "Scientists develop dirt-powered fuel cell that could replace batteries",
+      "content_text": "Scientists have developed a fuel cell that uses microbes in soil to produce electricity. The device can power underground sensors for tasks like monitoring moisture or detecting touch, without needing batteries or solar panels. It works in both dry and wet conditions and even lasts longer than similar technologies. This could pave the way for sustainable, low-maintenance sensors in farming and environmental monitoring.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/soil-powered-fuel-cell.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "structural-battery-composites"
+      ]
+    },
+    {
+      "id": "https://www.nature.com/articles/s41560-026-02044-3",
+      "url": "https://www.nature.com/articles/s41560-026-02044-3",
+      "title": "Building chemical stability with mechanics - Nature Energy",
+      "content_text": "Stack pressure strongly influences degradation pathways in lithium-ion batteries, yet its optimal value remains poorly understood. Now, a high-precision stack pressure control and dilatometry system reveals an optimal pressure window that suppresses key degradation pathways and doubles battery lifetime.",
+      "attachments": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02044-3/MediaObjects/41560_2026_2044_Fig1_HTML.png",
           "mime_type": "image/png"
         }
       ],
@@ -125,13 +170,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/05/250529155435.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/05/250529155435.htm",
-      "title": "Listening to electrons talk",
-      "content_text": "Researchers present new experimental and theoretical results for the bound electron g-factor in lithium-like tin which has a much higher nuclear charge than any previous measurement. The experimental accuracy reached a level of 0.5 parts per billion. Using an enhanced interelectronic QED method, the theoretical prediction for the g-factor reached a precision of 6 parts per billion.",
+      "id": "https://www.nature.com/articles/s41565-026-02229-7",
+      "url": "https://www.nature.com/articles/s41565-026-02229-7",
+      "title": "Fast lithium-ion transport in polymer electrolytes with rigid polyanions - Nature Nanotechnology",
+      "content_text": "The ion transport in polymer electrolytes requires a multi-scale and quantified analysis. An integrated methodology combining solid-state exchange nuclear magnetic resonance (NMR) and Markov chain analysis enables contribution analysis of distinct lithium-ion pathways in composite polymer electrolytes based on rigid polyanions, revealing fast and synergistic ion transport mechanisms.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/scidaily-icon.png",
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41565-026-02229-7/MediaObjects/41565_2026_2229_Fig1_HTML.png",
           "mime_type": "image/png"
         }
       ],
@@ -140,13 +185,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/05/250529124724.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/05/250529124724.htm",
-      "title": "EV battery recycling key to future lithium supplies",
-      "content_text": "Lightweight, powerful lithium-ion batteries are crucial for the transition to electric vehicles, and global demand for lithium is set to grow rapidly over the next 25 years. A new analysis looks at how new mining operations and battery recycling could meet that demand. Recycling could play a big role in easing supply constraints, the researchers found.",
+      "id": "https://www.nature.com/articles/s41551-026-01737-0",
+      "url": "https://www.nature.com/articles/s41551-026-01737-0",
+      "title": "AI meets high-throughput screening of LNPs - Nature Biomedical Engineering",
+      "content_text": "Two studies highlight the ways in which artificial intelligence can be used to improve ionizable lipid design for lipid nanoparticle-mediated mRNA delivery.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/scidaily-icon.png",
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41551-026-01737-0/MediaObjects/41551_2026_1737_Fig1_HTML.png",
           "mime_type": "image/png"
         }
       ],
@@ -155,121 +200,46 @@
       ]
     },
     {
-      "id": "https://www.nature.com/articles/s41563-025-02365-w",
-      "url": "https://www.nature.com/articles/s41563-025-02365-w",
-      "title": "Spectroscopic probe of spin current - Nature Materials",
-      "content_text": "Magnetism",
-      "attachments": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-025-02365-w/MediaObjects/41563_2025_2365_Figa_HTML.png",
-          "mime_type": "image/png"
-        }
-      ],
+      "id": "https://www.nature.com/articles/s41524-026-02211-w",
+      "url": "https://www.nature.com/articles/s41524-026-02211-w",
+      "title": "Automated and Scalable SEM Image Analysis of Perovskite Solar Cell Materials via a Deep Segmentation Framework - npj Computational Materials",
+      "content_text": "npj Computational Materials ( 2026 ) Cite this article",
       "tags": [
         "structural-battery-composites"
       ]
     },
     {
-      "id": "https://www.nature.com/articles/s41567-025-03036-y",
-      "url": "https://www.nature.com/articles/s41567-025-03036-y",
-      "title": "Imaging isospin order in rhombohedral graphene reveals anisotropy in correlated states - Nature Physics",
-      "content_text": "The microscopic magnetic textures of isospin symmetry-broken phases in rhombohedral tetralayer graphene have been directly imaged. By probing spin orientation and magnetic anisotropy at ultra-low fields, key energy scales — the spin–orbit coupling and intervalley Hund’s exchange — have been extracted, shedding new light on the phase hierarchy in strongly correlated electron systems.",
-      "attachments": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41567-025-03036-y/MediaObjects/41567_2025_3036_Fig1_HTML.png",
-          "mime_type": "image/png"
-        }
-      ],
+      "id": "https://www.nature.com/articles/s41598-026-62717-7",
+      "url": "https://www.nature.com/articles/s41598-026-62717-7",
+      "title": "Unmasking of a valuable and sustainable waste of Rosa damascena petals distillation and antibacterial activity of its complex with β-cyclodextrin - Scientific Reports",
+      "content_text": "Scientific Reports ( 2026 ) Cite this article",
       "tags": [
         "structural-battery-composites"
       ]
     },
     {
-      "id": "https://www.nature.com/articles/s41560-025-01866-x",
-      "url": "https://www.nature.com/articles/s41560-025-01866-x",
-      "title": "Overcoming high-voltage limits in all-solid-state batteries with a fluoride-based shielding layer - Nature Energy",
-      "content_text": "Voltage instability of battery materials has hindered the realization of high-voltage all-solid-state batteries (ASSBs). Now, 5 V-class ASSBs are enabled by a fluoride-based shielding layer, LiCl–4Li2TiF6, that combines high oxidative stability and Li+ conductivity. Applied to high-voltage cathodes, the shielding layer mitigates interfacial degradation and enables stable cycling at &gt;5 V, including under high-capacity conditions.",
-      "attachments": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-025-01866-x/MediaObjects/41560_2025_1866_Fig1_HTML.png",
-          "mime_type": "image/png"
-        }
-      ],
+      "id": "https://www.nature.com/articles/s41598-026-62202-1",
+      "url": "https://www.nature.com/articles/s41598-026-62202-1",
+      "title": "Computational insights into the 5-fluorouracil loading efficiency of chitosan-PLGA nanocarrier in water - Scientific Reports",
+      "content_text": "Scientific Reports ( 2026 ) Cite this article",
       "tags": [
         "structural-battery-composites"
       ]
     },
     {
-      "id": "https://www.nature.com/articles/s44455-025-00003-8",
-      "url": "https://www.nature.com/articles/s44455-025-00003-8",
-      "title": "A computational optimisation study of hip implant using density mapping functionally graded biomimetic TPMS-based lattice structures - npj Metamaterials",
-      "content_text": "npj Metamaterials volume 1 , Article number: 3 ( 2025 ) Cite this article",
-      "attachments": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44455-025-00003-8/MediaObjects/44455_2025_3_Fig1_HTML.png",
-          "mime_type": "image/png"
-        }
-      ],
+      "id": "https://www.nature.com/articles/s41467-026-75708-z",
+      "url": "https://www.nature.com/articles/s41467-026-75708-z",
+      "title": "Enhanced energy storage in tungsten bronze-based ferroelectrics and MLCCs via a multi-coating engineering - Nature Communications",
+      "content_text": "The authors construct tungsten bronze–perovskite composites with a SiO₂ coating, forming a dual-core-shell architecture. This design yields a high energy density of 23.2 J/cm³ and 92.8% efficiency in multilayer ceramic capacitors, due to enhanced polarization and breakdown strength, alongside excellent thermal and fatigue stability.",
       "tags": [
         "structural-battery-composites"
       ]
     },
     {
-      "id": "https://www.nature.com/articles/s42254-025-00875-9",
-      "url": "https://www.nature.com/articles/s42254-025-00875-9",
-      "title": "Protocols and tools to enable reproducibility in 2D materials research - Nature Reviews Physics",
-      "content_text": "This Expert Recommendation provides tools to help researchers in 2D materials improve reproducibility in their work and practical guidance on how to engage constructively with funders, publishers and industry to create a stronger basis for reproducibility, transparency and trust in the field.",
-      "attachments": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42254-025-00875-9/MediaObjects/42254_2025_875_Fig1_HTML.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "structural-battery-composites"
-      ]
-    },
-    {
-      "id": "https://www.nature.com/articles/s41598-025-18234-0",
-      "url": "https://www.nature.com/articles/s41598-025-18234-0",
-      "title": "Effects of channel length on temperature dependence of apparent subthreshold swing in self-aligned top-gate coplanar IGZO thin-film transistors - Scientific Reports",
-      "content_text": "Scientific Reports volume 15 , Article number: 34660 ( 2025 ) Cite this article",
-      "attachments": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-025-18234-0/MediaObjects/41598_2025_18234_Fig1_HTML.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "structural-battery-composites"
-      ]
-    },
-    {
-      "id": "https://www.nature.com/articles/s41467-025-63903-3",
-      "url": "https://www.nature.com/articles/s41467-025-63903-3",
-      "title": "t2 occupancy as a descriptor for polysulfide conversion on spinel oxides - Nature Communications",
-      "content_text": "A predictive descriptor to guide spinel catalyst design for Li–S batteries is still lacking. Here, authors use a series of metal chromites to investigate the effect of t2 orbital occupancy on the polysulfide conversion activity of spinel oxides, and reveal a volcano-shaped relationship between them.",
-      "attachments": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-63903-3/MediaObjects/41467_2025_63903_Fig1_HTML.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "structural-battery-composites"
-      ]
-    },
-    {
-      "id": "https://www.nature.com/articles/s41598-025-18368-1",
-      "url": "https://www.nature.com/articles/s41598-025-18368-1",
-      "title": "A novel way to optimize the process parameters by integrating the grey relational coefficient and the combined compromise solution for machining the CFRP composites - Scientific Reports",
-      "content_text": "The quality of carbon fiber-reinforced plastic (CFRP) machining during wet drilling is strongly influenced by the moisture content and cutting tool geometry. The current investigation aims to determine the optimum drilling process parameters for machining CFRPs by combining the grey relational coefficient with the combined compromise solution (Grey-CoCoSo). A distance correlation-based criterion importance through intercriteria correlation (D-CRITIC) method was used to ascertain the weights of decision-making to manage the responses from multiple-measure decision-making. Several multiresponse outputs—the material removal rate (MRR), surface roughness (Ra), and delamination factor (DF)—were taken into consideration during the analysis of the input factors—the spindle speed (N), drill diamet",
-      "attachments": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-025-18368-1/MediaObjects/41598_2025_18368_Fig1_HTML.png",
-          "mime_type": "image/png"
-        }
-      ],
+      "id": "https://www.nature.com/articles/s41598-026-60540-8",
+      "url": "https://www.nature.com/articles/s41598-026-60540-8",
+      "title": "Multimodal graph-based deep learning for predicting heat of combustion as a key hazard indicator under GHS/CLP standards - Scientific Reports",
+      "content_text": "Scientific Reports ( 2026 ) Cite this article",
       "tags": [
         "structural-battery-composites"
       ]

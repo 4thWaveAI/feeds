@@ -177,14 +177,32 @@ def links_from_feed(feed_xml: str, base: str, limit: int = 20) -> List[str]:
 
 # ---------- MIME sniff ----------
 def guess_mime(u: str, default: str) -> str:
-    u = u.lower()
-    for ext, mt in (
-        (".jpg","image/jpeg"),(".jpeg","image/jpeg"),(".png","image/png"),(".gif","image/gif"),(".webp","image/webp"),
-        (".mp4","video/mp4"),(".webm","video/webm"),(".mov","video/quicktime"),(".m4v","video/x-m4v"),
-        (".avi","video/x-msvideo"),(".mkv","video/x-matroska")
+    """
+    Infer a media MIME type from the actual URL path suffix.
+
+    Checking the suffix prevents ".avif" from being misread as ".avi".
+    Query strings and fragments are ignored by urlparse().
+    """
+    path = urlparse(u).path.lower()
+
+    for ext, mime_type in (
+        (".jpeg", "image/jpeg"),
+        (".jpg", "image/jpeg"),
+        (".png", "image/png"),
+        (".gif", "image/gif"),
+        (".webp", "image/webp"),
+        (".avif", "image/avif"),
+        (".svg", "image/svg+xml"),
+        (".mp4", "video/mp4"),
+        (".webm", "video/webm"),
+        (".mov", "video/quicktime"),
+        (".m4v", "video/x-m4v"),
+        (".avi", "video/x-msvideo"),
+        (".mkv", "video/x-matroska"),
     ):
-        if ext in u:
-            return mt
+        if path.endswith(ext):
+            return mime_type
+
     return default
 
 # ---------- Article parsing (with media) ----------
@@ -193,8 +211,49 @@ def parse_article(url: str) -> Optional[Dict]:
         s  = BeautifulSoup(fetch(url), "lxml")
 
         ogt = s.find("meta", property="og:title")
-        title = (ogt.get("content") or "").strip() if ogt else (s.title.get_text(strip=True) if s.title else url)
-        title = _clean(title)
+        twitter_title = s.find("meta", attrs={"name": "twitter:title"})
+        named_title = s.find("meta", attrs={"name": "title"})
+        heading = s.find("h1")
+
+        title_candidates = [
+            ogt.get("content") if ogt else "",
+            twitter_title.get("content") if twitter_title else "",
+            named_title.get("content") if named_title else "",
+            s.title.get_text(" ", strip=True) if s.title else "",
+            heading.get_text(" ", strip=True) if heading else "",
+        ]
+
+        title = ""
+        for candidate in title_candidates:
+            cleaned_candidate = _clean(candidate).strip()
+            if cleaned_candidate:
+                title = cleaned_candidate
+                break
+
+        if not title:
+            parsed_url = urlparse(url)
+            event_match = re.search(
+                r"/earthquakes/eventpage/([^/?#]+)",
+                parsed_url.path,
+                re.IGNORECASE,
+            )
+
+            if (
+                "earthquake.usgs.gov" in parsed_url.netloc.lower()
+                and event_match
+            ):
+                event_id = event_match.group(1).upper()
+                title = f"USGS Earthquake Event {event_id}"
+            else:
+                slug = parsed_url.path.rstrip("/").split("/")[-1]
+                slug_title = re.sub(r"[-_]+", " ", slug).strip()
+
+                if slug_title:
+                    title = slug_title.title()
+                elif parsed_url.netloc:
+                    title = parsed_url.netloc
+                else:
+                    title = url
 
         ogd = s.find("meta", property="og:description")
         if ogd and ogd.get("content"):

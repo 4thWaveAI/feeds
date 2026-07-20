@@ -5,14 +5,14 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/internet-of-things.json",
   "items": [
     {
-      "id": "https://spectrum.ieee.org/",
-      "url": "https://spectrum.ieee.org/",
-      "title": "IEEE Spectrum",
-      "content_text": "The world's leading engineering magazine",
+      "id": "https://phys.org/news/2025-11-sloshing-ferrofluids-harness-vibration-energy.html",
+      "url": "https://phys.org/news/2025-11-sloshing-ferrofluids-harness-vibration-energy.html",
+      "title": "Sloshing ferrofluids harness vibration energy: A new spin on powering tomorrow's wearables and IoT",
+      "content_text": "Modern devices, from fitness trackers and smart garments to Internet of Things (IoT) sensors, require compact and sustainable power sources. In new research published in Scientific Reports, scientists present an energy harvester based on a horizontally mounted vial half-filled with a biodegradable ferrofluid.",
       "attachments": [
         {
-          "url": "https://assets.rbl.ms/26794698/origin.png",
-          "mime_type": "image/png"
+          "url": "https://scx2.b-cdn.net/gfx/news/2025/sloshing-ferrofluids-h.jpg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -20,149 +20,14 @@
       ]
     },
     {
-      "id": "https://spectrum.ieee.org/topic/aerospace/",
-      "url": "https://spectrum.ieee.org/topic/aerospace/",
-      "title": "Aerospace News & Articles",
-      "content_text": "The latest developments in aviation, satellites, astrophysics, space flight, and space exploration",
+      "id": "https://phys.org/news/2025-11-graphene-based-solar-cells-power.html",
+      "url": "https://phys.org/news/2025-11-graphene-based-solar-cells-power.html",
+      "title": "First graphene-based solar cells used to power temperature sensors",
+      "content_text": "Researchers at the University of Arkansas and the University of Michigan have reported the first use of ultra-low power temperature sensors using graphene-based solar cells. The test is the first hurdle in developing autonomous sensor systems that draw power from multiple sources in the environment—solar, thermal, acoustic, kinetic, nonlinear and ambient radiation.",
       "attachments": [
         {
-          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "internet-of-things"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/topic/artificial-intelligence/",
-      "url": "https://spectrum.ieee.org/topic/artificial-intelligence/",
-      "title": "AI News & Articles - Artificial Intelligence Updates",
-      "content_text": "The latest advances in artificial intelligence and machine learning, generative AI, ChatGPT, LLMs, deepfakes, and more",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "internet-of-things"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/topic/biomedical/",
-      "url": "https://spectrum.ieee.org/topic/biomedical/",
-      "title": "Biomedical News & Articles",
-      "content_text": "The latest developments in biomedical devices, prosthetics, imaging, and diagnostics",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "internet-of-things"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/topic/climate-tech/",
-      "url": "https://spectrum.ieee.org/topic/climate-tech/",
-      "title": "Climate Tech News & Articles",
-      "content_text": "The latest developments in renewables, carbon capture, emissions monitoring, geoengineering, and electrifying everything",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "internet-of-things"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/topic/computing/",
-      "url": "https://spectrum.ieee.org/topic/computing/",
-      "title": "Computing News & Articles",
-      "content_text": "The latest developments in embedded systems, hardware, software, quantum computers, and IT",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "internet-of-things"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/topic/consumer-electronics/",
-      "url": "https://spectrum.ieee.org/topic/consumer-electronics/",
-      "title": "Consumer Electronics News & Articles",
-      "content_text": "The latest developments in gadgets, gaming, smart phones, virtual reality, and audio/video",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "internet-of-things"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/topic/energy/",
-      "url": "https://spectrum.ieee.org/topic/energy/",
-      "title": "Energy News & Articles",
-      "content_text": "The latest developments in power generation, batteries, renewables, smart grid, and nuclear energy",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "internet-of-things"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/topic/tech-history/",
-      "url": "https://spectrum.ieee.org/topic/tech-history/",
-      "title": "History of Technology News & Articles",
-      "content_text": "A look back at key moments in the history of cyberspace, electronics, and the space age",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "internet-of-things"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/topic/robotics/",
-      "url": "https://spectrum.ieee.org/topic/robotics/",
-      "title": "Robotics News & Articles",
-      "content_text": "The latest developments in consumer robots, humanoids, drones, and automation",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "internet-of-things"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/topic/semiconductors/",
-      "url": "https://spectrum.ieee.org/topic/semiconductors/",
-      "title": "Semiconductors News & Articles",
-      "content_text": "The latest developments in processors, memory, nanotechnology, optoelectronics, and integrated circuit design and materials",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
-          "mime_type": "image/png"
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/first-graphene-based-s.jpg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -290,14 +155,14 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2024-08-display-technologies-ultrahigh-definition-screens.html",
-      "url": "https://phys.org/news/2024-08-display-technologies-ultrahigh-definition-screens.html",
-      "title": "Developing innovative new display technologies to create ultrahigh-definition screens efficiently",
-      "content_text": "A research team has developed a double-layer dry transfer printing technology that simultaneously transfers light-emitting and electron-transferring layers onto a substrate. This technology is expected to provide a more life-like view in augmented reality (AR) and virtual reality (VR), greatly enhancing the immersive experience.",
+      "id": "https://spectrum.ieee.org/",
+      "url": "https://spectrum.ieee.org/",
+      "title": "IEEE Spectrum",
+      "content_text": "The world's leading engineering magazine",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/developing-innovative-1.jpg",
-          "mime_type": "image/jpeg"
+          "url": "https://assets.rbl.ms/26794698/origin.png",
+          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -305,18 +170,149 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2024-08-electronics-material-current.html",
-      "url": "https://phys.org/news/2024-08-electronics-material-current.html",
-      "title": "Printed electronics material can store 1,000 times more charge than current forms",
-      "content_text": "Imagine knowing your milk has gone bad without having to open your fridge. A technology called printed electronics could one day make innovations like this possible.",
+      "id": "https://spectrum.ieee.org/topic/aerospace/",
+      "url": "https://spectrum.ieee.org/topic/aerospace/",
+      "title": "Aerospace News & Articles",
+      "content_text": "The latest developments in aviation, satellites, astrophysics, space flight, and space exploration",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2024/got-sour-milk-printed.jpg",
-          "mime_type": "image/jpeg"
-        },
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTgyNjE0MzQzOX0.N7fHdky-KEYicEarB5Y-YGrry7baoW61oxUszI23GV4/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "internet-of-things"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/topic/artificial-intelligence/",
+      "url": "https://spectrum.ieee.org/topic/artificial-intelligence/",
+      "title": "AI News & Articles - Artificial Intelligence Updates",
+      "content_text": "The latest advances in artificial intelligence and machine learning, generative AI, ChatGPT, LLMs, deepfakes, and more",
+      "attachments": [
         {
-          "url": "https://www.youtube.com/embed/y5kqqQdMzVE?color=white",
-          "mime_type": "video/mp4"
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTgyNjE0MzQzOX0.N7fHdky-KEYicEarB5Y-YGrry7baoW61oxUszI23GV4/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "internet-of-things"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/topic/biomedical/",
+      "url": "https://spectrum.ieee.org/topic/biomedical/",
+      "title": "Biomedical News & Articles",
+      "content_text": "The latest developments in biomedical devices, prosthetics, imaging, and diagnostics",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTgyNjE0MzQzOX0.N7fHdky-KEYicEarB5Y-YGrry7baoW61oxUszI23GV4/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "internet-of-things"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/topic/climate-tech/",
+      "url": "https://spectrum.ieee.org/topic/climate-tech/",
+      "title": "Climate Tech News & Articles",
+      "content_text": "The latest developments in renewables, carbon capture, emissions monitoring, geoengineering, and electrifying everything",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTgyNjE0MzQzOX0.N7fHdky-KEYicEarB5Y-YGrry7baoW61oxUszI23GV4/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "internet-of-things"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/topic/computing/",
+      "url": "https://spectrum.ieee.org/topic/computing/",
+      "title": "Computing News & Articles",
+      "content_text": "The latest developments in embedded systems, hardware, software, quantum computers, and IT",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTgyNjE0MzQzOX0.N7fHdky-KEYicEarB5Y-YGrry7baoW61oxUszI23GV4/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "internet-of-things"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/topic/consumer-electronics/",
+      "url": "https://spectrum.ieee.org/topic/consumer-electronics/",
+      "title": "Consumer Electronics News & Articles",
+      "content_text": "The latest developments in gadgets, gaming, smart phones, virtual reality, and audio/video",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTgyNjE0MzQzOX0.N7fHdky-KEYicEarB5Y-YGrry7baoW61oxUszI23GV4/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "internet-of-things"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/topic/energy/",
+      "url": "https://spectrum.ieee.org/topic/energy/",
+      "title": "Energy News & Articles",
+      "content_text": "The latest developments in power generation, batteries, renewables, smart grid, and nuclear energy",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTgyNjE0MzQzOX0.N7fHdky-KEYicEarB5Y-YGrry7baoW61oxUszI23GV4/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "internet-of-things"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/topic/tech-history/",
+      "url": "https://spectrum.ieee.org/topic/tech-history/",
+      "title": "History of Technology News & Articles",
+      "content_text": "A look back at key moments in the history of cyberspace, electronics, and the space age",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTgyNjE0MzQzOX0.N7fHdky-KEYicEarB5Y-YGrry7baoW61oxUszI23GV4/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "internet-of-things"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/topic/robotics/",
+      "url": "https://spectrum.ieee.org/topic/robotics/",
+      "title": "Robotics News & Articles",
+      "content_text": "The latest developments in consumer robots, humanoids, drones, and automation",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTgyNjE0MzQzOX0.N7fHdky-KEYicEarB5Y-YGrry7baoW61oxUszI23GV4/image.png?width=210",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "internet-of-things"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/topic/semiconductors/",
+      "url": "https://spectrum.ieee.org/topic/semiconductors/",
+      "title": "Semiconductors News & Articles",
+      "content_text": "The latest developments in processors, memory, nanotechnology, optoelectronics, and integrated circuit design and materials",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTgyNjE0MzQzOX0.N7fHdky-KEYicEarB5Y-YGrry7baoW61oxUszI23GV4/image.png?width=210",
+          "mime_type": "image/png"
         }
       ],
       "tags": [

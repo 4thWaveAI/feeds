@@ -5,13 +5,13 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/advanced-materials-technology.json",
   "items": [
     {
-      "id": "https://www.sciencedaily.com/releases/2025/10/251003033928.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251003033928.htm",
-      "title": "Scientists finally found the “dark matter” of electronics",
-      "content_text": "Scientists at OIST have, for the first time, directly tracked the elusive “dark excitons” inside atomically thin materials. These quantum particles could revolutionize information technology, as they are more stable and resistant to environmental interference than current qubits.",
+      "id": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
+      "title": "Scientists built a camera that can track invisible particles in 3D",
+      "content_text": "A new particle detector called PLATON could replace millions of tiny detector components with a single block of light-producing material. Using a light-field camera, highly sensitive photon sensors, and AI, it reconstructs particle paths in fast, detailed 3D. Simulations suggest it could match or surpass today’s best detectors while being far easier to scale. The technology may also lead to sharper PET medical scans.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/tr-arpes-setup-dark-exciton-research.webp",
+          "url": "https://www.sciencedaily.com/images/1920/neutrinos-interaction-camera.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -20,13 +20,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/10/251001092204.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251001092204.htm",
-      "title": "Princeton’s AI reveals what fusion sensors can’t see",
-      "content_text": "A powerful new AI tool called Diag2Diag is revolutionizing fusion research by filling in missing plasma data with synthetic yet highly detailed information. Developed by Princeton scientists and international collaborators, this system uses sensor input to predict readings other diagnostics can’t capture, especially in the crucial plasma edge region where stability determines performance. By reducing reliance on bulky hardware, it promises to make future fusion reactors more compact, affordable, and reliable.",
+      "id": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm",
+      "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
+      "content_text": "A new review highlights exciting progress in atomically thin quantum materials where light and magnetism work together in ways never before possible. In these materials, light-generated excitons can interact directly with magnetic behavior, creating opportunities to control magnetic states using light alone. Scientists believe this could pave the way for advanced optical memory, quantum devices, and ultra-efficient photonic technologies.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/diag2diag-illustration.webp",
+          "url": "https://www.sciencedaily.com/images/1920/quantum-magnetic-material-atomic-stacked-layers.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250929055022.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250929055022.htm",
-      "title": "New rocket fuel compound packs 150% more energy",
-      "content_text": "A new boron-rich compound, manganese diboride, delivers much higher energy density than current solid-rocket materials while remaining stable until intentionally ignited. Its power comes from an unusual, strained atomic structure formed during ultra-hot synthesis, with promising uses beyond propulsion.",
+      "id": "https://www.sciencedaily.com/releases/2026/07/260713000755.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713000755.htm",
+      "title": "A 200-year-old physics experiment could help build future computers",
+      "content_text": "Scientists at Nanyang Technological University in Singapore have discovered a surprisingly simple way to create exotic light structures called optical skyrmions using a 200-year-old optical effect known as the Poisson spot. Instead of relying on expensive, highly engineered materials, they simply shine a laser at a tiny circular disc, producing stable swirling patterns in light that researchers believe could one day help power advanced data storage, communications, and computing technologies.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/synthesizing-manganese-diboride.webp",
+          "url": "https://www.sciencedaily.com/images/1920/poisson-spot-four-types-of-skyrmions.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -50,13 +50,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250929055000.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250929055000.htm",
-      "title": "The hidden forces inside diamonds that could make tech 1,000x faster",
-      "content_text": "A team of physicists has discovered that virtual charges, which exist only during brief interactions with light, play a critical role in ultrafast material responses. Using attosecond pulses on diamonds, they showed these hidden carriers significantly influence optical behavior. The findings could accelerate the development of petahertz-speed devices, unlocking a new era of ultrafast electronics.",
+      "id": "https://www.sciencedaily.com/releases/2026/07/260711010120.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260711010120.htm",
+      "title": "Physicists recreate black hole energy extraction in the lab",
+      "content_text": "Researchers have recreated the physics of extracting energy from a spinning black hole using a stationary device that produces synthetic ultrafast rotation. The achievement transforms a long-standing theoretical idea into a practical experiment and could inspire new advances in optics, wireless communications, and quantum science.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/futuristic-energy-particles-ultrafast-electronics.webp",
+          "url": "https://www.sciencedaily.com/images/1920/penrose-super-radiance-artwork.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -65,13 +65,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250926035019.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250926035019.htm",
-      "title": "Biochar’s secret power could change clean water forever",
-      "content_text": "Scientists found that biochar doesn’t just capture pollutants, it actively destroys them using direct electron transfer. This newly recognized ability accounts for up to 40% of its cleaning power and remains effective through repeated use. The discovery opens the door to cheaper, greener, and more efficient water treatment methods worldwide.",
+      "id": "https://www.sciencedaily.com/releases/2026/07/260710003533.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260710003533.htm",
+      "title": "The biggest problem with solid-state batteries may finally be solved",
+      "content_text": "Researchers solved the mystery of how soft lithium dendrites crack the hard ceramic inside solid-state batteries, triggering short circuits. The breakthrough could help engineers build safer, longer-lasting batteries for smartphones, electric vehicles, and other electronics.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/adding-biochar-to-soil.webp",
+          "url": "https://www.sciencedaily.com/images/1920/solid-state-battery-technology.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -80,13 +80,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250926035016.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250926035016.htm",
-      "title": "Toxic waste could become the next clean energy breakthrough",
-      "content_text": "Bio-tar, once seen as a toxic waste, can be transformed into bio-carbon with applications in clean energy and environmental protection. This innovation could reduce emissions, create profits, and solve a major bioenergy industry problem.",
+      "id": "https://www.sciencedaily.com/releases/2026/07/260707025047.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260707025047.htm",
+      "title": "Scientists used AI to crack one of water&apos;s biggest mysteries",
+      "content_text": "Water’s odd behavior becomes even more dramatic when it is supercooled, but scientists have struggled to compare the many different ways of describing its microscopic structure. Researchers at the University of Osaka used an AI model trained on computer simulations to evaluate 16 different structural descriptors. The system identified the most effective ways to distinguish between water’s two competing liquid states, providing a clearer framework for studying one of nature’s most mysterious substances.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/liquid-oil-petroleum.webp",
+          "url": "https://www.sciencedaily.com/images/1920/ai-decodes-water.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -95,13 +95,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250921090853.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250921090853.htm",
-      "title": "Tiny new lenses, smaller than a hair, could transform phone and drone cameras",
-      "content_text": "Scientists have developed a new multi-layered metalens design that could revolutionize portable optics in devices like phones, drones, and satellites. By stacking metamaterial layers instead of relying on a single one, the team overcame fundamental limits in focusing multiple wavelengths of light. Their algorithm-driven approach produced intricate nanostructures shaped like clovers, propellers, and squares, enabling improved performance, scalability, and polarization independence.",
+      "id": "https://www.sciencedaily.com/releases/2026/06/260622014303.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260622014303.htm",
+      "title": "Quantum sensor breakthrough could reveal dark matter and ancient gravitational waves",
+      "content_text": "Scientists have taken an important step toward building quantum detectors that could reveal some of the universe’s biggest secrets. Using a prototype device with two clouds of ultracold atoms, researchers showed that a clever noise-canceling technique can recover hidden signals even when individual measurements appear completely overwhelmed by interference.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/metamaterial-lenses-for-phones-and-drones.webp",
+          "url": "https://www.sciencedaily.com/images/1920/dark-matter-cosmology-measurement.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -110,13 +110,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250921090850.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250921090850.htm",
-      "title": "New crystal camera lets doctors see inside the body like never before",
-      "content_text": "Scientists have created a perovskite-based gamma-ray detector that surpasses traditional nuclear medicine imaging technology. The device delivers sharper, faster, and safer scans at a fraction of the cost. By combining crystal engineering with pixelated sensor design, it achieves record imaging resolution. Now being commercialized, it promises to expand access to high-quality diagnostics worldwide.",
+      "id": "https://www.sciencedaily.com/releases/2026/07/260701205009.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260701205009.htm",
+      "title": "New research reveals the hidden pollution left behind by fireworks",
+      "content_text": "Scientists have uncovered new evidence that fireworks can pollute both the air and water in ways that extend beyond the visible smoke. The findings show that leftover debris, fine particles, and airborne chemicals may affect ecosystems and increase people&apos;s exposure to air pollution during major celebrations.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/advanced-medical-scan-inside-human-body-anatomy.webp",
+          "url": "https://www.sciencedaily.com/images/1920/smoky-fireworks-display.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -125,13 +125,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250921090846.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250921090846.htm",
-      "title": "Ordinary ice found to have shocking electrical powers",
-      "content_text": "Scientists have discovered that ordinary ice is a flexoelectric material, capable of generating electricity when bent or unevenly deformed. At very low temperatures, it can even become ferroelectric, developing reversible electric polarization. This could help explain lightning formation in storms and inspire new technologies that use ice as an active material.",
+      "id": "https://www.sciencedaily.com/releases/2026/06/260626030435.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626030435.htm",
+      "title": "Scientists create quantum sound device that could transform communications",
+      "content_text": "A new quantum device can generate precisely controlled bursts of sound-like particles, or phonons, by forcing electrons through an ultra-thin crystal at extremely low temperatures. The surprising behavior pushes beyond the limits predicted by current theories, suggesting scientists need to rethink how energy moves through advanced materials. In the future, the breakthrough could lead to phonon lasers, faster communications, improved medical technologies, and powerful new sensing systems.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/ice-generates-electricity-when-bent.webp",
+          "url": "https://www.sciencedaily.com/images/1920/wave-function-sound-technology.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -140,13 +140,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250920214318.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250920214318.htm",
-      "title": "Scientists just made atoms talk to each other inside silicon chips",
-      "content_text": "Researchers at UNSW have found a way to make atomic nuclei communicate through electrons, allowing them to achieve entanglement at scales used in today’s computer chips. This breakthrough brings scalable, silicon-based quantum computing much closer to reality.",
+      "id": "https://www.sciencedaily.com/releases/2026/06/260621052413.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260621052413.htm",
+      "title": "Simple water trick slashes diesel engine pollution by over 60%",
+      "content_text": "A surprisingly simple fuel modification could help tackle one of diesel engines’ biggest problems: pollution. Researchers reviewing studies from around the world found that mixing small amounts of water into diesel fuel can dramatically reduce harmful emissions, including nitrogen oxides and soot, while maintaining or even improving engine efficiency.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/two-nuclear-spins-remotely-entangled.webp",
+          "url": "https://www.sciencedaily.com/images/1920/car-exhaust-pipe-smoke.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -155,13 +155,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250919085242.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250919085242.htm",
-      "title": "New cooling breakthrough nearly doubles efficiency",
-      "content_text": "CHESS thin-film materials nearly double refrigeration efficiency compared to traditional methods. Scalable and versatile, they promise applications from household cooling to space exploration.",
+      "id": "https://www.sciencedaily.com/releases/2026/06/260623083058.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260623083058.htm",
+      "title": "New solid-state material converts sunlight into higher-energy UV light",
+      "content_text": "A new sunlight-powered material can convert visible light into higher-energy UV light, overcoming a challenge that has frustrated scientists for years. The breakthrough could enable cleaner air purification, solar-driven chemistry, and advanced manufacturing technologies using nothing more than natural sunlight.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/chess-efficient-thermoelectric-cooling-device.webp",
+          "url": "https://www.sciencedaily.com/images/1920/harvesting-uv-light-from-sunlight-solid-state-material.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -170,13 +170,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250917221007.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250917221007.htm",
-      "title": "Lasers just made atoms dance, unlocking the future of electronics",
-      "content_text": "Scientists at Michigan State University have discovered how to use ultrafast lasers to wiggle atoms in exotic materials, temporarily altering their electronic behavior. By combining cutting-edge microscopes with quantum simulations, they created a nanoscale switch that could revolutionize smartphones, laptops, and even future quantum computers.",
+      "id": "https://www.sciencedaily.com/releases/2026/06/260621060304.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260621060304.htm",
+      "title": "A tiny diamond defect could reveal a mysterious new kind of magnetism",
+      "content_text": "A newly proposed quantum sensing technique could make it much easier to identify one of physics’ newest and most intriguing classes of magnets: altermagnets. These unusual materials, discovered only a few years ago, appear to combine the speed and efficiency of antiferromagnets with some of the useful electronic properties of traditional magnets, making them promising candidates for next-generation electronics.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/lasers-atomic-motion.webp",
+          "url": "https://www.sciencedaily.com/images/1920/atomic-structure-of-altermagnets.webp",
           "mime_type": "image/webp"
         }
       ],

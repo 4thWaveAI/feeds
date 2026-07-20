@@ -1,7 +1,302 @@
 {
   "version": "https://jsonfeed.org/version/1",
   "title": "4thWave AI — Gsel Esports Ai (Aggregated)",
-  "home_page_url": "https://4thwave.ai",
+  "home_page_url": "https://www.4thwaveai.com",
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/gsel-esports-ai.json",
-  "items": []
+  "items": [
+    {
+      "id": "https://esports.gg/news/counter-strike-2/most-popular-maps-cs2/",
+      "url": "https://esports.gg/news/counter-strike-2/most-popular-maps-cs2/",
+      "title": "All CS2 maps explained",
+      "content_text": "The Counter-Strike 2 (CS2) community has clear preferences for map picks in pro and casual play. The reasons often lie in the balance between two team roles and the variety of strategies.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2024/01/CS2-maps-Cover-01.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/league-of-legends/lol-ewc-2026-winners-overview/",
+      "url": "https://esports.gg/news/league-of-legends/lol-ewc-2026-winners-overview/",
+      "title": "T1 vs Gen.G and KC vs Dplus at LoL EWC 2026: Finals at the tournament of big upsets",
+      "content_text": "This League of Legends (LoL) event treated us to quite a few spectacular upsets. Even the grand final participants were not actually the teams people expected to see battling for the trophy.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/07/LoL-EWC-2026-finals-cover.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/fortnite/every-fortnite-icon-series-skin-ever-released/",
+      "url": "https://esports.gg/news/fortnite/every-fortnite-icon-series-skin-ever-released/",
+      "title": "Every Fortnite Icon Series skin ever released",
+      "content_text": "Here is a list of every Icon Series skin ever released in Fortnite.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2023/09/Every-Icon-Series-Skin.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/fortnite/all-jam-tracks-ever-released-in-fortnite/",
+      "url": "https://esports.gg/news/fortnite/all-jam-tracks-ever-released-in-fortnite/",
+      "title": "All Fortnite Festival songs ever released",
+      "content_text": "Here is every Jam Track in Fortnite Festival.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2023/12/All-Jam-Tracks.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/counter-strike-2/all-cs2-crosshair-codes/",
+      "url": "https://esports.gg/news/counter-strike-2/all-cs2-crosshair-codes/",
+      "title": "Best CS2 crosshair codes & settings",
+      "content_text": "Using crosshairs of pro players is a nice step towards competitive effectiveness. It is a good idea to experiment with different crosshairs and even adjust the settings for your personal playstyle and preferences.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2023/09/Fight-in-CS2.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/press-releases/sun-gaming-and-hospitality-sourcing-exchange/",
+      "url": "https://esports.gg/news/press-releases/sun-gaming-and-hospitality-sourcing-exchange/",
+      "title": "Sun Gaming and Hospitality and The Sourcing Exchange Announce Strategic Partnership",
+      "content_text": "Sun Gaming and Hospitality partners with The Sourcing Exchange to bring data-driven procurement, cost savings, and vendor transparency to gaming and hospitality.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/07/unnamed-20.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esportsinsider.com/2026/07/fgc-needs-more-hayao",
+      "url": "https://esportsinsider.com/2026/07/fgc-needs-more-hayao",
+      "title": "The FGC has become too serious and we need more people like Hayao",
+      "content_text": "The FGC has been real serious recently, and we need more whimsy, even if it comes in the form of a shocking tweet from Hayao.",
+      "attachments": [
+        {
+          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/hayao.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esportsinsider.com/2026/07/ewc-valorant-pressure-org-accusations",
+      "url": "https://esportsinsider.com/2026/07/ewc-valorant-pressure-org-accusations",
+      "title": "“Maybe it’s not actually voluntary\": Are esports organizations pressuring VALORANT pros to compete in the EWC? Or does the issue go deeper than that?",
+      "content_text": "Are VALORANT pros being pressured to compete in the EWC or risk losing their role on the team? A finance professional weighs in.",
+      "attachments": [
+        {
+          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/Esports_World_Cup_2026_VALORANT.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/fgc/fatal-fury-city-of-the-wolves-reveal-rick-strowd-as-season-pass-3-dlc/",
+      "url": "https://esports.gg/news/fgc/fatal-fury-city-of-the-wolves-reveal-rick-strowd-as-season-pass-3-dlc/",
+      "title": "FATAL FURY: City of the Wolves reveal  Rick Strowd as Season Pass 3 DLC",
+      "content_text": "Rick Strowd will be Season Pass 3's first DLC fighter.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/07/FATAL-FURY-City-of-the-Wolves-reveal-Rick-Strowd-as-Season-Pass-3-DLC-1.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/fgc/fatal-fury-city-of-the-wolves-release-date-features-and-more/",
+      "url": "https://esports.gg/news/fgc/fatal-fury-city-of-the-wolves-release-date-features-and-more/",
+      "title": "FATAL FURY: City of the Wolves Characters: Full Roster & DLC List (July 2026)",
+      "content_text": "Here's the complete list of FATAL FURY: City of the Wolves characters.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/06/FATAL-FURY-City-of-the-Wolves-Characters-Full-Roster-DLC-List-July-2026.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/mobile-legends-bang-bang/msc-2026-ewc-schedule-results-livestream/",
+      "url": "https://esports.gg/news/mobile-legends-bang-bang/msc-2026-ewc-schedule-results-livestream/",
+      "title": "MSC 2026 Esports World Cup: Format, schedule, results, and more",
+      "content_text": "Here is a complete guide to MSC 2026 at the Esports World Cup, including match results, schedules, and key information.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/07/MSC-2026-Esports-World-Cup-Format-schedule-results-and-more.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esportsinsider.com/2026/07/new-counter-strike-2-comms-rule-debate",
+      "url": "https://esportsinsider.com/2026/07/new-counter-strike-2-comms-rule-debate",
+      "title": "Is Counter-Strike 2 going soft? Esports fans react to new comms rule and debate hate speech vs. trash talk",
+      "content_text": "A newly-added rule states that what you say to your own teammates is no longer off-limits to TOs. Will this stop trash talking?",
+      "attachments": [
+        {
+          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/dota-2-faze.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esportsinsider.com/2026/07/esports-nostalgia-cash-in",
+      "url": "https://esportsinsider.com/2026/07/esports-nostalgia-cash-in",
+      "title": "Esports has an excellent opportunity to cash in on nostalgia right now",
+      "content_text": "Nostalgia within the gaming industry is a surefire way for developers and publishers to generate huge profits.",
+      "attachments": [
+        {
+          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/esports-nostalgia-potential.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esportsinsider.com/2026/07/ea-esports-monica-dinsmore-cross-title-strategy-mobile-ewc",
+      "url": "https://esportsinsider.com/2026/07/ea-esports-monica-dinsmore-cross-title-strategy-mobile-ewc",
+      "title": "EA Head of Esports on cross-title strategy and what's next for the Esports World Cup",
+      "content_text": "EA Head of Esports Monica Dinsmore discusses cross-title operations, mobile growth, sports crossover and future Esports World Cup titles.",
+      "attachments": [
+        {
+          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/image-3-large.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esportsinsider.com/2026/07/combo-contest-smash-tournament",
+      "url": "https://esportsinsider.com/2026/07/combo-contest-smash-tournament",
+      "title": "The Combo Contest is unironically my favorite Super Smash Bros. tournament of all time",
+      "content_text": "The Combo Contest is an often overlooked tournament that embodies everything it means to be a Smash player.",
+      "attachments": [
+        {
+          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/combo-contest-smash.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esportsinsider.com/2026/07/msi-2026-gap-between-east-and-west",
+      "url": "https://esportsinsider.com/2026/07/msi-2026-gap-between-east-and-west",
+      "title": "MSI 2026 proved the gap between East and West is closing — at least at the top",
+      "content_text": "LoL esports is usually a battle between China and Korea at the top. MSI completely threw that script away.",
+      "attachments": [
+        {
+          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/msi-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esportsinsider.com/top-stories",
+      "url": "https://esportsinsider.com/top-stories",
+      "title": "Top Stories Archives - Esports Insider",
+      "content_text": "It was a huge bummer when Smash was removed from the Evo lineup, but I think it saved the Smash scene in the long run.",
+      "attachments": [
+        {
+          "url": "https://esportsinsider.com/wp-content/uploads/2025/01/esi_logo_white.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esportsinsider.com/latest-news",
+      "url": "https://esportsinsider.com/latest-news",
+      "title": "Latest News Archives - Esports Insider",
+      "content_text": "Monsoon and Blinkzr interview each other ahead of the ALGS 2026 Split 1 Playoffs at the Esports World Cup, covering their history, EWC, and IGL friction.",
+      "attachments": [
+        {
+          "url": "https://esportsinsider.com/wp-content/uploads/2025/01/esi_logo_white.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esportsinsider.com/esports-titles",
+      "url": "https://esportsinsider.com/esports-titles",
+      "title": "Games Archives - Esports Insider",
+      "content_text": "In League of Legends, underdog stories aren’t built on random happenstance. FURIA and Team Secret Whales are pushing to get to the top.",
+      "attachments": [
+        {
+          "url": "https://esportsinsider.com/wp-content/uploads/2025/01/esi_logo_white.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/",
+      "url": "https://esports.gg/news/",
+      "title": "News Archives",
+      "content_text": "The Counter-Strike 2 (CS2) community has clear preferences for map picks in pro and casual play. The reasons often lie in the balance between two team roles and the variety of strategies.",
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    }
+  ]
 }

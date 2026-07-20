@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>4thWave AI — New Mobility (Aggregated)</title>
+  <link href="https://www.4thwaveai.com"/>
+  <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/new-mobility.atom.xml"/>
+  <id>urn:4thwaveai-feeds:new-mobility</id>
+  <updated>Mon, 20 Jul 2026 04:41:40 +0000</updated>
+  <entry>
+    <title>Driver Safety Case Management - California DMV</title>
+    <link href="https://www.dmv.ca.gov/portal/driver-safety-portal/"/>
+    <id>https://www.dmv.ca.gov/portal/driver-safety-portal/</id>
+    <summary type="text">Looking for something else?</summary>
+  </entry>
+  <entry>
+    <title>Hello world! - Electreon</title>
+    <link href="https://electreon.com/uncategorized/hello-world/"/>
+    <id>https://electreon.com/uncategorized/hello-world/</id>
+    <summary type="text">Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</summary>
+  </entry>
+</feed>

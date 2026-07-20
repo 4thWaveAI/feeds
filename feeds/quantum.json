@@ -5,17 +5,242 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/quantum.json",
   "items": [
     {
-      "id": "https://research.ibm.com/blog/SSM-time-series-model",
-      "url": "https://research.ibm.com/blog/SSM-time-series-model",
-      "title": "IBM’s time-series foundation model reaches #2 on GIFT-Eval",
-      "content_text": "The model uses a state space architecture to outperform time-series models at least 20 times bigger.",
+      "id": "https://www.nist.gov/news-events/news/2026/07/nist-receives-new-patent-microbe-killing-water-heater",
+      "url": "https://www.nist.gov/news-events/news/2026/07/nist-receives-new-patent-microbe-killing-water-heater",
+      "title": "NIST Receives New Patent for Microbe-Killing Water Heater",
+      "content_text": "Warm water in household pipes can be a breeding ground for harmful bacteria.",
       "attachments": [
         {
-          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fblog_Art_flow_State_2_a1f1555544.jpg&w=1200&q=75",
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/07/13/WaterTankExchanger_960x600_v4.png?itok=zS03Dr79",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/news/2026/07/new-fabric-test-material-could-help-strengthen-domestic-supply-chain",
+      "url": "https://www.nist.gov/news-events/news/2026/07/new-fabric-test-material-could-help-strengthen-domestic-supply-chain",
+      "title": "New Fabric Test Material Could Help Strengthen Domestic Supply Chain for Textiles and Clothing",
+      "content_text": "Researchers estimate that 56% of textiles can be recycled or recovered, but most don’t make it back into the domestic supply chain.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/07/07/_3DP7691.jpg?itok=YjuToqfQ",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/news/2026/07/arvind-raman-confirmed-18th-nist-director",
+      "url": "https://www.nist.gov/news-events/news/2026/07/arvind-raman-confirmed-18th-nist-director",
+      "title": "Arvind Raman Confirmed as the 18th NIST Director",
+      "content_text": "Raman comes to NIST from Purdue University, where he was the dean of engineering.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/06/03/Arvind_LobbyDSC6088_webedit.jpg?itok=rYJoFyLQ",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/news/2026/06/nist-launches-center-drive-manufacture-quantum-technologies",
+      "url": "https://www.nist.gov/news-events/news/2026/06/nist-launches-center-drive-manufacture-quantum-technologies",
+      "title": "NIST Launches Center to Drive the Manufacture of Quantum Technologies",
+      "content_text": "NIST has announced an agreement with SRI International to establish the Quantum Manufacturing Engineering Center (QMEC).",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/06/29/Quantum%20cryo_0.png?itok=MHltBSAa",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/news/2026/06/nist-releases-technical-findings-what-caused-2021-partial-collapse",
+      "url": "https://www.nist.gov/news-events/news/2026/06/nist-releases-technical-findings-what-caused-2021-partial-collapse",
+      "title": "NIST Releases Technical Findings on What Caused the 2021 Partial Collapse of Champlain Towers South",
+      "content_text": "In an investigation that began just days after the tragedy, the team examined two dozen possible scenarios for where and why the collapse started.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/06/24/Champlain%20punching%20shear%20no%20label.png?itok=Nj8jWrc9",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/news/2026/06/nist-expands-its-library-chemical-fingerprints-identify-unknown-substances",
+      "url": "https://www.nist.gov/news-events/news/2026/06/nist-expands-its-library-chemical-fingerprints-identify-unknown-substances",
+      "title": "NIST Expands Its Library of ‘Chemical Fingerprints’ to Identify Unknown Substances",
+      "content_text": "Researchers and manufacturers rely on the library to identify unknown compounds in food, drugs, cosmetics, the environment, body fluids, forensic evidence and even space rocks.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/06/02/vials_chem_fingerprints.JPG?itok=fHrbhLkj",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/news/2026/06/nist-mathematical-proof-supports-transition-continuous-monitor-and-update",
+      "url": "https://www.nist.gov/news-events/news/2026/06/nist-mathematical-proof-supports-transition-continuous-monitor-and-update",
+      "title": "NIST Mathematical Proof Supports Transition to a Continuous-Monitor-and-Update Security Model for AI Systems",
+      "content_text": "The proof extends to AI the logic used by famed mathematician Kurt Gödel, whose incompleteness theorems have had a profound effect on math for nearly a century.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2024/04/29/shutterstock_2359936611.jpg?itok=BQYEH2FQ",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/news/2026/06/new-ai-model-shows-how-evacuate-fires-one-safe-step-time",
+      "url": "https://www.nist.gov/news-events/news/2026/06/new-ai-model-shows-how-evacuate-fires-one-safe-step-time",
+      "title": "New AI Model Shows How to Evacuate for Fires One Safe Step at a Time",
+      "content_text": "A NIST-led team has created a new AI model that can identify safe evacuation routes in a single-story floor plan during a fire, with a multilevel version in the works.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/06/04/Dynamic_Signs_image-v1.png?itok=yJYO7fY5",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/news/2026/06/nist-researchers-discover-new-way-whisk-alloys-together-lasers",
+      "url": "https://www.nist.gov/news-events/news/2026/06/nist-researchers-discover-new-way-whisk-alloys-together-lasers",
+      "title": "NIST Researchers Discover a New Way to Whisk Alloys Together With Lasers",
+      "content_text": "NIST also improved how X-rays are used to study the atomic structure of metals in real time during 3D printing, allowing researchers to observe how materials change under extreme conditions.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/06/03/34407D_12_PCS_Aerial_Images_of_the_APS_16x9_PRINT.jpg?itok=AhZ4t0fc",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/news/2026/05/nist-expands-ai-consortiums-scope-calls-new-members",
+      "url": "https://www.nist.gov/news-events/news/2026/05/nist-expands-ai-consortiums-scope-calls-new-members",
+      "title": "NIST Expands AI Consortium’s Scope, Calls for New Members",
+      "content_text": "The consortium will focus on AI innovation and adoption, with six task groups concentrating on different aspects of AI measurement science and evaluation.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2023/11/02/shutterstock_1218220324.jpg?itok=eIsPazYV",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/quantum/2026/01/22/powerful-new-developer-tools-increase-the-versatility-of-the-microsoft-quantum-platform/",
+      "url": "https://azure.microsoft.com/en-us/blog/quantum/2026/01/22/powerful-new-developer-tools-increase-the-versatility-of-the-microsoft-quantum-platform/",
+      "title": "Powerful new developer tools increase the versatility of the Microsoft Quantum platform - Microsoft Azure Quantum Blog",
+      "content_text": "Learn how the Microsoft Quantum Development Kit can help you and your organization simplify quantum development.",
+      "attachments": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/quantum/wp-content/uploads/2026/01/QDK_TopLevelView_1920x1080_QuaDevKit_V5-1.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://atom-computing.com/2026-in-quantum-a-strategic-preview-from-atom-computing-and-partners/",
+      "url": "https://atom-computing.com/2026-in-quantum-a-strategic-preview-from-atom-computing-and-partners/",
+      "title": "2026 in Quantum: A Strategic Preview from Atom Computing and Partners - Atom Computing",
+      "content_text": "Tech Perspective",
+      "attachments": [
+        {
+          "url": "https://atom-computing.com/wp-content/uploads/2026/01/AtomComputing_DiffractedLaser_1-scaled.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/quantum/2025/06/19/microsoft-advances-quantum-error-correction-with-a-family-of-novel-four-dimensional-codes/",
+      "url": "https://azure.microsoft.com/en-us/blog/quantum/2025/06/19/microsoft-advances-quantum-error-correction-with-a-family-of-novel-four-dimensional-codes/",
+      "title": "Microsoft advances quantum error correction with a family of novel four-dimensional codes - Microsoft Azure Quantum Blog",
+      "content_text": "Learn how we're advancing quantum computing by developing 4D error-correction codes that are applicable to many types of qubits.",
+      "attachments": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/quantum/wp-content/uploads/2025/06/June19_QTM_HeroImage_1260x780_Larger-Font-1024x576.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/transforming-rd-with-agentic-ai-introducing-microsoft-discovery/",
+      "url": "https://azure.microsoft.com/en-us/blog/transforming-rd-with-agentic-ai-introducing-microsoft-discovery/",
+      "title": "Transforming R&D with agentic AI: Introducing Microsoft Discovery | Microsoft Azure Blog",
+      "content_text": "Learn more about the new enterprise agentic platform, , accelerating research and development",
+      "attachments": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2025/05/1042849_MS_Azure_Build-2025_BlogHeader-4_1260x708-1.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/",
+      "url": "https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/",
+      "title": "Microsoft unveils Majorana 1, the world’s first quantum processor powered by topological qubits - Microsoft Azure Quantum Blog",
+      "content_text": "Majorana 1 from Microsoft is the world’s first Quantum Processing Unit (QPU) built with a topoconductor. Discover more.",
+      "attachments": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/quantum/wp-content/uploads/2025/02/majorana1_1260x708_v2.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://research.ibm.com/blog/code-alchemy-for-synthetic-code",
+      "url": "https://research.ibm.com/blog/code-alchemy-for-synthetic-code",
+      "title": "This could be the largest synthetic code dataset yet",
+      "content_text": "Introducing CodeAlchemy, a synthetic data pipeline that has already produced nearly 1 trillion tokens of open-source code",
+      "attachments": [
+        {
+          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fblog_Art_ICA_stillimage_bf9e4c1757.png&w=1200&q=85",
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://d35x6597f7j1wm.cloudfront.net/blog_Art_flow_State_6d6c431be6.mp4",
+          "url": "https://d35x6597f7j1wm.cloudfront.net/blog_Art_ICA_art_d82b7c8a89.mp4",
           "mime_type": "video/mp4"
         }
       ],
@@ -24,13 +249,13 @@
       ]
     },
     {
-      "id": "https://research.ibm.com/blog/ai-model-discovers-railroad-defects-before-theyre-critical",
-      "url": "https://research.ibm.com/blog/ai-model-discovers-railroad-defects-before-theyre-critical",
-      "title": "New AI model finds railroad defects before they’re critical",
-      "content_text": "A new AI model detects and tracks rail maintenance issues before they can cause problems, freeing up skilled workers from tedious inspections.",
+      "id": "https://research.ibm.com/blog/cofrgenets-replace-the-bones-of-transformer-based-models",
+      "url": "https://research.ibm.com/blog/cofrgenets-replace-the-bones-of-transformer-based-models",
+      "title": "CoFrGeNets replace the ‘bones’ of transformer-based models",
+      "content_text": "This new approach, a practical and conceptual shift, points to lighter-weight generative AI models that perform competitively, and in many cases even better.",
       "attachments": [
         {
-          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fblog_tracks_to_tensors_7466572020.jpg&w=1200&q=75",
+          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fblog_Art_Co_Fr_Ge_Net_98d3eaa9df.png&w=1200&q=85",
           "mime_type": "image/jpeg"
         }
       ],
@@ -39,43 +264,13 @@
       ]
     },
     {
-      "id": "https://research.ibm.com/blog/vanguard-portfolio-optimization",
-      "url": "https://research.ibm.com/blog/vanguard-portfolio-optimization",
-      "title": "IBM and Vanguard explore quantum optimization for finance | IBM Quantum Computing Blog",
-      "content_text": "Variational quantum algorithms for portfolio optimization.",
+      "id": "https://research.ibm.com/blog/cyrography-abstraction-layer",
+      "url": "https://research.ibm.com/blog/cyrography-abstraction-layer",
+      "title": "It’s time for cryptography to get its own abstraction layer",
+      "content_text": "Filesystems and sockets once looked like unnecessary layers of indirection; now they’re the foundation of modern systems. Cryptography is ready for the same shift — and with PQC on the horizon, the timing is right.",
       "attachments": [
         {
-          "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/Vanguard_4_1_77232bc50f.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "quantum"
-      ]
-    },
-    {
-      "id": "https://research.ibm.com/blog/map-measure-manage-gen-ai",
-      "url": "https://research.ibm.com/blog/map-measure-manage-gen-ai",
-      "title": "How AI alignment differs from AI steering",
-      "content_text": "IBM Fellow Kush Varshney explains the difference, and provides an update on IBM’s latest work to mitigate the safety risks around generative AI.",
-      "attachments": [
-        {
-          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2FAI_Safety3_7944ed0a31.png&w=1200&q=85",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "quantum"
-      ]
-    },
-    {
-      "id": "https://research.ibm.com/blog/hsbc-algorithmic-bond-trading",
-      "url": "https://research.ibm.com/blog/hsbc-algorithmic-bond-trading",
-      "title": "HSBC explores algorithmic trading with IBM quantum computers | IBM Quantum Computing Blog",
-      "content_text": "Researchers deliver first-known empirical evidence that quantum computers could soon solve valuable problems in algorithmic bond trading.",
-      "attachments": [
-        {
-          "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/IBM_Quantum_Heron_156_Layers_7e322d8a97.jpg",
+          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fattb_W5x71z_DU_Ig_P_Em_system_security_22a08fa0a4.png&w=1200&q=85",
           "mime_type": "image/jpeg"
         }
       ],
@@ -84,17 +279,47 @@
       ]
     },
     {
-      "id": "https://research.ibm.com/blog/bharatgen-ai-india",
-      "url": "https://research.ibm.com/blog/bharatgen-ai-india",
-      "title": "IBM and BharatGen collaborate for India’s AI needs",
-      "content_text": "Using the multimodal AI and LLMs BharatGen is working on, it will work with IBM to build the unique tools needed to best serve Indian language speakers.",
+      "id": "https://research.ibm.com/blog/hardware-metrics-2026",
+      "url": "https://research.ibm.com/blog/hardware-metrics-2026",
+      "title": "How to measure the performance of a quantum computer | IBM Quantum Computing Blog",
+      "content_text": "Three key hardware metrics reveal the scale, quality, and speed of any quantum computer—factors that determine computational capability and cost efficiency.",
       "attachments": [
         {
-          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fbharat_Gen_5f657bc5af.jpg&w=1200&q=75",
+          "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/Programmable_vs_physical_3_84864149cb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://research.ibm.com/blog/qiskit-2-5-release-summary",
+      "url": "https://research.ibm.com/blog/qiskit-2-5-release-summary",
+      "title": "Release News: Qiskit v2.5 is here! | IBM Quantum Computing Blog",
+      "content_text": "Technical release summary for Qiskit SDK v2.5, including top new features and performance improvements.",
+      "attachments": [
+        {
+          "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/Qiskit_v2_5_Blog_Image_2_2e6e0c50ac.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://research.ibm.com/blog/how-the-wrong-training-environment-can-teach-ai-models-to-misbehave",
+      "url": "https://research.ibm.com/blog/how-the-wrong-training-environment-can-teach-ai-models-to-misbehave",
+      "title": "How training environments can teach AI models to misbehave",
+      "content_text": "A new study presented at ICML showed that language models trained with reinforcement learning can find and exploit loopholes to maximize reward — at a cost.",
+      "attachments": [
+        {
+          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fblog_Art_ICML_still_Image_e43a853e59.png&w=1200&q=85",
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://d35x6597f7j1wm.cloudfront.net/bharat_Gen_2x_74880ee970.mp4",
+          "url": "https://d35x6597f7j1wm.cloudfront.net/blog_Art_ICML_834b7a145c.mp4",
           "mime_type": "video/mp4"
         }
       ],
@@ -103,13 +328,28 @@
       ]
     },
     {
-      "id": "https://research.ibm.com/blog/qcsc-software",
-      "url": "https://research.ibm.com/blog/qcsc-software",
-      "title": "Building software for quantum-centric supercomputing | IBM Quantum Computing Blog",
-      "content_text": "Explore open-source tools that IBM and its partners are creating to enable seamless integrations of quantum and classical high-performance computing resources.",
+      "id": "https://research.ibm.com/blog/whats-new-q2-2026",
+      "url": "https://research.ibm.com/blog/whats-new-q2-2026",
+      "title": "What’s new at IBM Quantum - Q2 2026 | IBM Quantum Computing Blog",
+      "content_text": "Explore new updates, releases, and resources from IBM Quantum and Qiskit with this convenient one-pager, designed to get you started with the latest capabilities right away.",
       "attachments": [
         {
-          "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/QCSC_Blog_Img_6897e48684.png",
+          "url": "https://www.ibm.com/quantum/api/og?title=What%E2%80%99s+new+at+IBM+Quantum+-+Q2+2026&bg=swirl",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://research.ibm.com/blog/molten-salts-fusion-quantum",
+      "url": "https://research.ibm.com/blog/molten-salts-fusion-quantum",
+      "title": "Modeling the chemistry of fusion reactor material | IBM Quantum Computing Blog",
+      "content_text": "Researchers used quantum-centric supercomputing to simulate molten salts, in an early step toward solving a key problem in fusion power.",
+      "attachments": [
+        {
+          "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/Final_molten_salt_ORNL_blog_5_e778b84864.png",
           "mime_type": "image/png"
         }
       ],
@@ -118,13 +358,28 @@
       ]
     },
     {
-      "id": "https://research.ibm.com/blog/ai-agent-reliability-beeai",
-      "url": "https://research.ibm.com/blog/ai-agent-reliability-beeai",
-      "title": "Improving AI agent reliability with BeeAI",
-      "content_text": "The RequirementAgent from the BeeAI Framework is an innovative approach that provides the reliability needed for production scenarios made simple.",
+      "id": "https://research.ibm.com/blog/ponder-this-july-2026",
+      "url": "https://research.ibm.com/blog/ponder-this-july-2026",
+      "title": "Ponder This Challenge - July 2026 - Return of the Superheroes",
+      "content_text": "Ponder This Challenge - July 2026 - Return of the Superheroes",
       "attachments": [
         {
-          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2FBee_AI_animation_8a662c5834.gif&w=1200&q=75",
+          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fblog_Art_ponder_This_July_1_c8c93dbda7.png&w=1200&q=85",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://research.ibm.com/blog/qdc-application-2026",
+      "url": "https://research.ibm.com/blog/qdc-application-2026",
+      "title": "Apply to IBM Quantum Developer Conference 2026 | IBM Quantum Computing Blog",
+      "content_text": "Get an exclusive look at the breakthroughs, tools, and workflows shaping the path to quantum advantage.",
+      "attachments": [
+        {
+          "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/QDC_26_Announcement_0bd80c541e.gif",
           "mime_type": "image/gif"
         }
       ],
@@ -133,13 +388,13 @@
       ]
     },
     {
-      "id": "https://research.ibm.com/blog/qiskit-v2x-developer-certification",
-      "url": "https://research.ibm.com/blog/qiskit-v2x-developer-certification",
-      "title": "Register for the new Qiskit v2.X developer certification | IBM Quantum Computing Blog",
-      "content_text": "Updated Qiskit developer certification exam tests your ability to perform essential quantum computing tasks with the latest version of Qiskit.",
+      "id": "https://www.ibm.com/quantum/blog/hardware-metrics-2026",
+      "url": "https://www.ibm.com/quantum/blog/hardware-metrics-2026",
+      "title": "How to measure the performance of a quantum computer | IBM Quantum Computing Blog",
+      "content_text": "Three key hardware metrics reveal the scale, quality, and speed of any quantum computer—factors that determine computational capability and cost efficiency.",
       "attachments": [
         {
-          "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/Certification_74daaefc19.png",
+          "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/Programmable_vs_physical_3_84864149cb.png",
           "mime_type": "image/png"
         }
       ],
@@ -148,14 +403,501 @@
       ]
     },
     {
-      "id": "https://research.ibm.com/blog/ibm-researchers-win-prestigious-european-grants",
-      "url": "https://research.ibm.com/blog/ibm-researchers-win-prestigious-european-grants",
-      "title": "IBM researchers win prestigious European grants",
-      "content_text": "Ghazi Sarwat Syed and Gregor Seiler add to IBM Research’s strong history with European Research Council grants.",
+      "id": "https://www.ibm.com/quantum/blog/qiskit-2-5-release-summary",
+      "url": "https://www.ibm.com/quantum/blog/qiskit-2-5-release-summary",
+      "title": "Release News: Qiskit v2.5 is here! | IBM Quantum Computing Blog",
+      "content_text": "Technical release summary for Qiskit SDK v2.5, including top new features and performance improvements.",
       "attachments": [
         {
-          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fblog_Art_erc2_9b55018291.jpg&w=1200&q=75",
+          "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/Qiskit_v2_5_Blog_Image_2_2e6e0c50ac.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://www.ibm.com/quantum/blog/whats-new-q2-2026",
+      "url": "https://www.ibm.com/quantum/blog/whats-new-q2-2026",
+      "title": "What’s new at IBM Quantum - Q2 2026 | IBM Quantum Computing Blog",
+      "content_text": "Explore new updates, releases, and resources from IBM Quantum and Qiskit with this convenient one-pager, designed to get you started with the latest capabilities right away.",
+      "attachments": [
+        {
+          "url": "https://www.ibm.com/quantum/api/og?title=What%E2%80%99s+new+at+IBM+Quantum+-+Q2+2026&bg=swirl",
           "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://www.ibm.com/quantum/blog/molten-salts-fusion-quantum",
+      "url": "https://www.ibm.com/quantum/blog/molten-salts-fusion-quantum",
+      "title": "Modeling the chemistry of fusion reactor material | IBM Quantum Computing Blog",
+      "content_text": "Researchers used quantum-centric supercomputing to simulate molten salts, in an early step toward solving a key problem in fusion power.",
+      "attachments": [
+        {
+          "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/Final_molten_salt_ORNL_blog_5_e778b84864.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://www.ibm.com/quantum/blog/qdc-application-2026",
+      "url": "https://www.ibm.com/quantum/blog/qdc-application-2026",
+      "title": "Apply to IBM Quantum Developer Conference 2026 | IBM Quantum Computing Blog",
+      "content_text": "Get an exclusive look at the breakthroughs, tools, and workflows shaping the path to quantum advantage.",
+      "attachments": [
+        {
+          "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/QDC_26_Announcement_0bd80c541e.gif",
+          "mime_type": "image/gif"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://www.ibm.com/quantum/blog/qiskit-paulice",
+      "url": "https://www.ibm.com/quantum/blog/qiskit-paulice",
+      "title": "Qiskit Paulice: postselected quantum error correction | IBM Quantum Computing Blog",
+      "content_text": "Qiskit Paulice, a new Qiskit addon, improves the reliability of quantum circuits by detecting and filtering out errors.",
+      "attachments": [
+        {
+          "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/Paulice_leadspace1_1634bbd3e7.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://www.ibm.com/quantum/blog/credits-recipients",
+      "url": "https://www.ibm.com/quantum/blog/credits-recipients",
+      "title": "Explore next-gen quantum algorithms with IBM Quantum Credits | IBM Quantum Computing Blog",
+      "content_text": "See how top researchers used IBM Quantum Credits to develop new methods that extend today’s quantum hardware.",
+      "attachments": [
+        {
+          "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/system_2_fbdec41d37.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://www.ibm.com/quantum/blog/allstate-quantum-insurance-portfolio",
+      "url": "https://www.ibm.com/quantum/blog/allstate-quantum-insurance-portfolio",
+      "title": "Allstate explores quantum computing for insurance portfolios | IBM Quantum Computing Blog",
+      "content_text": "Insurance involves hard problems with complex, correlated risks. Allstate and IBM are showing how quantum could help solve them.",
+      "attachments": [
+        {
+          "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/Knapsack_Problem_2_c1b53d4527.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://www.ibm.com/quantum/blog/ffsim",
+      "url": "https://www.ibm.com/quantum/blog/ffsim",
+      "title": "Prototype and validate fermionic circuits faster with ffsim | IBM Quantum Computing Blog",
+      "content_text": "Open-source Python library for fast simulation of fermionic quantum circuits enables efficient prototyping and benchmarking for real quantum hardware.",
+      "attachments": [
+        {
+          "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/electron_orbitals4_f76770a42d.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://www.ibm.com/quantum/blog/qiskit-fall-fest-2026",
+      "url": "https://www.ibm.com/quantum/blog/qiskit-fall-fest-2026",
+      "title": "Qiskit Fall Fest 2026: Applications open | IBM Quantum Computing Blog",
+      "content_text": "Apply to host a Qiskit Fall Fest 2026 event and lead a global quantum computing experience on your campus or in your community.",
+      "attachments": [
+        {
+          "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/Fall_Fest_be10f3ebbf.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://www.quantinuum.com/blog/technical-perspective-by-the-end-of-the-decade-we-will-deliver-universal-fault-tolerant-quantum-computing",
+      "url": "https://www.quantinuum.com/blog/technical-perspective-by-the-end-of-the-decade-we-will-deliver-universal-fault-tolerant-quantum-computing",
+      "title": "Technical perspective: By the end of the decade, we will deliver universal, fully fault-tolerant quantum computing",
+      "content_text": "By the end of the decade, our accelerated hardware roadmap will deliver a fully fault-tolerant and universal quantum computer capable of executing millions of operations on hundreds of logical qubits.",
+      "attachments": [
+        {
+          "url": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/66e8b82320177a73ae758ee1_roadmap-technical-blog-media-preview.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://www.quantinuum.com/news/news",
+      "url": "https://www.quantinuum.com/news/news",
+      "title": "Quantinuum | News",
+      "content_text": "Explore our latest announcements to discover how we are pushing the boundaries in the world of quantum computing",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://www.quantinuum.com/news/blog",
+      "url": "https://www.quantinuum.com/news/blog",
+      "title": "Quantinuum | Blog",
+      "content_text": "Stay up to date on how we are accelerating quantum computing through our business, partnership, customer, and technical announcements",
+      "attachments": [
+        {
+          "url": "https://www.youtube.com/embed/viHIl5760tk",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://www.quantinuum.com/news/events",
+      "url": "https://www.quantinuum.com/news/events",
+      "title": "Quantinuum | Events",
+      "content_text": "Discover where our business leaders and quantum computing scientists will be next",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://www.quantinuum.com/blog/quantinuum-accelerates-the-path-to-universal-fault-tolerant-quantum-computing-supports-microsofts-ai-and-quantum-powered-compute-platform-and-the-path-to-a-quantum-supercomputer",
+      "url": "https://www.quantinuum.com/blog/quantinuum-accelerates-the-path-to-universal-fault-tolerant-quantum-computing-supports-microsofts-ai-and-quantum-powered-compute-platform-and-the-path-to-a-quantum-supercomputer",
+      "title": "Quantinuum accelerates the path to Universal Fully Fault-Tolerant Quantum Computing; supports Microsoft’s AI and quantum-powered compute platform and “the path to a Quantum Supercomputer”",
+      "content_text": "Quantinuum will achieve universal fault-tolerant quantum computing, built on foundations such as a universal fault-tolerant gate set, high fidelity physical qubits uniquely capable of supporting reliable logical qubits, and a fully-scalable architecture",
+      "attachments": [
+        {
+          "url": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/67e4791a243b8c5e5debca44_roadmap-media-preview.png",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/xWPV811G8es",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://ionq.com/news/ionq-introduces-clavis-xg-multiplex-making-quantum-security-deployable-at-scale-in-metro-networks",
+      "url": "https://ionq.com/news/ionq-introduces-clavis-xg-multiplex-making-quantum-security-deployable-at-scale-in-metro-networks",
+      "title": "IonQ | IonQ Launches Clavis XG Multiplex for Metro Fiber Networks",
+      "content_text": "IonQ announces Clavis XG Multiplex, allowing quantum and classical traffic to coexist on existing fiber networks for cost-effective, practical QKD security.",
+      "attachments": [
+        {
+          "url": "https://cdn.prod.website-files.com/68836cf9cff21bf9efa61419/693ac0977541e2da439e7454_OG%20Image%20(5).jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://ionq.com/news/ionq-worlds-leading-quantum-platform-company-opens-new-quantum-computing-r-d-lab-in-boulder",
+      "url": "https://ionq.com/news/ionq-worlds-leading-quantum-platform-company-opens-new-quantum-computing-r-d-lab-in-boulder",
+      "title": "IonQ |",
+      "content_text": "Commercial quantum computers with world-record fidelity to tackle the world’s most complex challenges.",
+      "attachments": [
+        {
+          "url": "https://cdn.prod.website-files.com/68836cf9cff21bf9efa61419/693ac0977541e2da439e7454_OG%20Image%20(5).jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://ionq.com/news/ionq-announces-first-quarter-2026-financial-results",
+      "url": "https://ionq.com/news/ionq-announces-first-quarter-2026-financial-results",
+      "title": "IonQ | IonQ Posts Q1 2026 Earnings with Record Revenue",
+      "content_text": "The company reported Record GAAP Revenues of $64.7 Million, Representing 755% Year-On-Year Growth, Fueled by Quantum Computing Growth and Expansion of the Quantum Platform and raised full year guidance.",
+      "attachments": [
+        {
+          "url": "https://cdn.prod.website-files.com/68836cf9cff21bf9efa61419/693ac0977541e2da439e7454_OG%20Image%20(5).jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://ionq.com/news/ionq-launches-commercial-insar-capability-enabling-automated-millimeter-scale-earth-monitoring",
+      "url": "https://ionq.com/news/ionq-launches-commercial-insar-capability-enabling-automated-millimeter-scale-earth-monitoring",
+      "title": "IonQ | Automated 3-Day InSAR Monitoring: Precision Ground Deformation | IonQ",
+      "content_text": "IonQ launches fully automated 3-day repeat InSAR time series data. Achieve millimeter-precision monitoring for urban subsidence, infrastructure, and national security at scale.",
+      "attachments": [
+        {
+          "url": "https://cdn.prod.website-files.com/68836cf9cff21bf9efa61419/693ac0977541e2da439e7454_OG%20Image%20(5).jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://ionq.com/news/ionq-2025-letter-to-shareholders",
+      "url": "https://ionq.com/news/ionq-2025-letter-to-shareholders",
+      "title": "IonQ | Niccolo’s 2025 Letter to Shareholders",
+      "content_text": "Commercial quantum computers with world-record fidelity to tackle the world’s most complex challenges.",
+      "attachments": [
+        {
+          "url": "https://cdn.prod.website-files.com/68836cf9cff21bf9efa61419/693ac0977541e2da439e7454_OG%20Image%20(5).jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://ionq.com/news/ionq-and-florida-lambdarail-launch-first-statewide-quantum-safe-network-initiative-in-united-states",
+      "url": "https://ionq.com/news/ionq-and-florida-lambdarail-launch-first-statewide-quantum-safe-network-initiative-in-united-states",
+      "title": "IonQ | IonQ and Florida LambdaRail to Launch 100-Mile Quantum-Safe Network",
+      "content_text": "IonQ (NYSE: IONQ) and Florida LambdaRail announce a landmark agreement to build a quantum-secure corridor in Florida, linking research institutions via QKD technology.",
+      "attachments": [
+        {
+          "url": "https://cdn.prod.website-files.com/68836cf9cff21bf9efa61419/693ac0977541e2da439e7454_OG%20Image%20(5).jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://ionq.com/news/ionq-publishes-definitive-technical-report-establishing-its-fault-tolerant-quantum-computing-trajectory---setting-a-new-standard-for-technical-specificity-and-transparency",
+      "url": "https://ionq.com/news/ionq-publishes-definitive-technical-report-establishing-its-fault-tolerant-quantum-computing-trajectory---setting-a-new-standard-for-technical-specificity-and-transparency",
+      "title": "IonQ | IonQ Unveils Definitive Blueprint for Fault-Tolerant Quantum Computing",
+      "content_text": "Meta Description: IonQ sets a new industry standard with a full-stack technical report detailing the path to 10,000+ qubits and scalable, error-corrected quantum systems.",
+      "attachments": [
+        {
+          "url": "https://cdn.prod.website-files.com/68836cf9cff21bf9efa61419/693ac0977541e2da439e7454_OG%20Image%20(5).jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://ionq.com/news/ionq-to-report-first-quarter-2026-financial-results-on-may-6-2026",
+      "url": "https://ionq.com/news/ionq-to-report-first-quarter-2026-financial-results-on-may-6-2026",
+      "title": "IonQ | IonQ to Announce First Quarter 2026 Financial Results on May 6",
+      "content_text": "IonQ (NYSE: IONQ) will release its Q1 2026 financial results after market close on Wednesday, May 6, 2026, followed by a conference call at 4:30 PM ET.",
+      "attachments": [
+        {
+          "url": "https://cdn.prod.website-files.com/68836cf9cff21bf9efa61419/693ac0977541e2da439e7454_OG%20Image%20(5).jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://ionq.com/news/ionq-achieves-key-photonic-interconnect-milestone-demonstrating-networked-quantum-systems-using-entanglement",
+      "url": "https://ionq.com/news/ionq-achieves-key-photonic-interconnect-milestone-demonstrating-networked-quantum-systems-using-entanglement",
+      "title": "IonQ | IonQ Achieves First Photonic Interconnect Milestone for Networked Commercial Quantum Systems",
+      "content_text": "IonQ successfully links two remote quantum systems via photonic interconnects. Discover how this AFRL-backed milestone paves the way for scalable, networked quantum computing.",
+      "attachments": [
+        {
+          "url": "https://cdn.prod.website-files.com/68836cf9cff21bf9efa61419/693ac0977541e2da439e7454_OG%20Image%20(5).jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://ionq.com/news/ionq-selected-for-darpas-heterogeneous-architectures-for-quantum-harq-program",
+      "url": "https://ionq.com/news/ionq-selected-for-darpas-heterogeneous-architectures-for-quantum-harq-program",
+      "title": "IonQ | IonQ Selected to Bid to Build Multi-Qubit Quantum Networks for DARPA HARQ",
+      "content_text": "Discover how IonQ is leveraging synthetic diamond quantum memories to link trapped ions, neutral atoms, and superconducting qubits in DARPA’s new HARQ program.",
+      "attachments": [
+        {
+          "url": "https://cdn.prod.website-files.com/68836cf9cff21bf9efa61419/693ac0977541e2da439e7454_OG%20Image%20(5).jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15307",
+      "url": "https://arxiv.org/abs/2607.15307",
+      "title": "Shielded RL for Route-Charged Parity-Term Ordering in QEDA Phase Components",
+      "content_text": "Commuting phase terms in quantum electronic design automation (QEDA) placement circuits are logically invariant under reordering, yet their routed cost varies substantially after hardware mapping, since term order affects CNOT cancellation, interaction locality, and routing pressure. We cast parity/support phase-term ordering within a QEDA phase component as a shielded reinforcement-learning problem: a feasibility shield restricts each step to unemitted terms, so every trajectory is a valid permutation by construction, and an elite (cross-entropy-method) policy is trained against a route-charged proxy combining support-transition size and heavy-hex topology-distance features. We validate by direct Qiskit routing of logically equivalent circuits to a synthetic IBM-style heavy-hex map. On 36",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15316",
+      "url": "https://arxiv.org/abs/2607.15316",
+      "title": "Structure-Agnostic Unitary Learning from Quantum Observable Dynamics with Application to Hamiltonian Identification",
+      "content_text": "We present a variational algorithm for learning an unknown quantum unitary from time-series observable measurements, with no structural assumption about the target. The core separation: a hardware-efficient parametrised circuit learns the evolution operator U via observable matching; Hamiltonian identification follows as classical post-processing via matrix logarithm, when the target happens to be exp(-iH*tau).\n  Three experiments establish the method's generality. First, a noiseless proof of correctness with exact gradients (L-BFGS-B) achieves MSE 1.61e-14 and recovers all Hamiltonian coefficients to six decimal places. Second, a gate-learning experiment fits CNOT, iSWAP, and a Haar-random SU(4) element -- none generated by any fixed Hamiltonian -- all to process fidelity 1.000000, confir",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15319",
+      "url": "https://arxiv.org/abs/2607.15319",
+      "title": "Collective Enhancement of Nuclear Excitation for a Nuclear Quantum Battery",
+      "content_text": "Current implementations of quantum batteries are constrained by limited energy density and short retention times associated with the electronic or molecular excitations. Here we propose a nuclear quantum battery based on collective excitation of the $^{57}$Fe nuclei of density $n$ embedded in a planar hard X-ray waveguide. Using a Green function waveguide-QED description, we study charging via excitation beyond linear response, where saturation and drive back-action reshape the incident pulse. We introduce a self-consistent waveform-engineering protocol that inhibits local radiative decay in the waveguide thus promoting absorption into high-lying collective nuclear excitation manifolds. We show an enhanced excitation cross section of the nuclear ensemble which yields superlinear charging, ",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15326",
+      "url": "https://arxiv.org/abs/2607.15326",
+      "title": "Quantum error-correcting codes from aperiodic monotiles: the Hat and the Spectre",
+      "content_text": "Li and Boyle showed that the Penrose tiling defines a quantum error-correcting code: superpositions of tilings over isometry orbits protect quantum information against erasure of any bounded region. We extend the construction to the aperiodic monotiles discovered by Smith, Myers, Kaplan and Goodman-Strauss. For the Hat, we prove strong local indistinguishability for all Hat tilings, and we prove local recoverability unconditionally for all nonsingular Hat tilings via the torus parametrization of the underlying cut-and-project scheme. The remaining singular case reduces to one sharply posed geometric question -- can a region that is a union of hats be retiled a second way? -- which we verify computationally has no counterexample up to a substantial scale: a certified $2490$-tile patch admit",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15343",
+      "url": "https://arxiv.org/abs/2607.15343",
+      "title": "Non-Hermitian Quantum Adiabatic Algorithm",
+      "content_text": "Non-Hermitian systems offer new opportunities for quantum optimization and computation. Here, we show that non-Hermitian quantum adiabatic algorithms require not only a real, gapped spectrum, but also a stable pseudospectrum. We propose a novel framework by mapping non-unitary quantum circuits to local Hamiltonian paths, thereby preserving their optimization advantages and shallow depth. While a direct non-Hermitian extension of the Feynman-Kitaev construction suffers severe pseudospectral instability, our history-decoupled construction yields both a controlled pseudospectrum and a real, gapped spectrum. Using the CK benchmark family of maximum independent set problems, we demonstrate polynomial-evolution-time non-Hermitian adiabatic computation that remains robust against perturbations. W",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15345",
+      "url": "https://arxiv.org/abs/2607.15345",
+      "title": "Causality from the spectrum: Emergence of causal order from process-matrix mereology",
+      "content_text": "In Hamiltonian systems, the only basis-independent quantity is the spectrum. Given a spectrum, quantum mereology seeks preferred tensor-product decompositions into local subsystems, leading to the emergence of locality. Causal order, however, remains fixed by the Hamiltonian time evolution. In contrast, higher-order quantum theory permits more general processes that need not possess a definite global causal order. In the process-matrix framework, specifying a process requires a choice of subsystems corresponding to the input and output Hilbert spaces of each agent. A change of basis redefines both the agents and the corresponding decompositions into subsystems, while leaving the spectrum of the process matrix invariant. Here, we study how causality arises from this spectrum. First, we deri",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15351",
+      "url": "https://arxiv.org/abs/2607.15351",
+      "title": "The Paradox of the Third Particle is classical",
+      "content_text": "The Paradox of the Third Particle arises when particles are described relative to one of them serving as a reference frame. Although it is typically attributed to quantum superpositions, we show that the paradox and its ramifications$\\unicode{x2014}$such as the relativity of subsystems$\\unicode{x2014}$already occur classically. In light of this insight, we establish a no-go theorem that holds whenever physical subsystems, whether classical or quantum, are used as reference frames: if one demands that frame transformations be information-preserving, then it is impossible to meaningfully partition the world into subsystems, like individual particles, from the perspective of each frame.",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15358",
+      "url": "https://arxiv.org/abs/2607.15358",
+      "title": "Spectral amplification for ground-state energy estimation of electronic structure in first quantization",
+      "content_text": "We demonstrate an asymptotic gate complexity improvement in first-quantized ground-state energy estimation of electronic structure Hamiltonians in a plane wave basis by employing the sum-of-squares spectral gap amplification protocol. The improvement relies on identifying a sum-of-squares representation of the Hamiltonian which provides a lower bound certificate and low cost block encoding that leads to a provably lower quantum phase estimation gate cost. This is achieved by using a sum-of-squares operator generated by the total charge density operator resulting in a block encoding normalization improvement of $λ= \\mathcal{O}\\left(ηΔ^{-1.5}+η^{1.5}Δ^{-1} \\right)$ compared to prior work $λ= \\mathcal{O}(ηΔ^{-2}+η^2Δ^{-1})$ where $η$ is the number of electrons and $Δ$ is the simulation grid s",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15376",
+      "url": "https://arxiv.org/abs/2607.15376",
+      "title": "The Trinity of Markovian Quantum Thermodynamics: Unifying the Axiomatic, Microscopic, and Operational Paradigms",
+      "content_text": "Thermodynamics imposes fundamental constraints on the evolution of quantum systems. These constraints and their dynamical consequences have been formulated within distinct paradigms, including axiomatic approaches based on quantum master equations, microscopic descriptions of open-system dynamics, and operational formulations rooted in resource theories. While each perspective has yielded important insights into thermodynamically consistent quantum dynamics, their precise relationship has remained unresolved. Here we establish the exact equivalence of these three paradigms in the Markovian regime. We prove that thermal Lindbladians satisfying Markovianity, time-translation symmetry, and quantum detailed balance are precisely those admitting a microscopic realisation as an energy-conserving",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15398",
+      "url": "https://arxiv.org/abs/2607.15398",
+      "title": "Saturating the Bayesian Nagaoka-Hayashi bound within numerical precision for the depolarization SU(2) rotation channel",
+      "content_text": "The Bayesian Nagaoka--Hayashi (NH) bound is a semidefinite lower bound on the Bayes risk of multiparameter estimation, tighter than the Bayesian symmertic logarithmic derivative (SLD) Cramér--Rao bounds, and whether it can be attained is an open problem. We study the single-shot estimation of a qubit rotation, all three parameters at once, under depolarizing noise and a uniform prior, with $k$ parallel uses of the channel. Rotational covariance reduces the joint optimization of probe, measurement, and estimator, and the NH bound itself, to small semidefinite programs, solvable through $k=4$. At every number of uses and noise strength the optimized strategy reaches the NH bound within the numerical precision of the calculation, numerical evidence that the bound is attained for this channel ",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
         }
       ],
       "tags": [

@@ -5,22 +5,163 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
-      "id": "https://www.nasa.gov/news/recently-published/",
-      "url": "https://www.nasa.gov/news/recently-published/",
-      "title": "All NASA News - NASA",
-      "content_text": "Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.",
+      "id": "https://science.nasa.gov/earth/earth-observatory/shaping-the-emerald-city/",
+      "url": "https://science.nasa.gov/earth/earth-observatory/shaping-the-emerald-city/",
+      "title": "Shaping the Emerald City - NASA Science",
+      "content_text": "The hills and basins of Seattle, Washington, have been sculpted by glaciers and modified by humans.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/shaping-the-emerald-city/ISS074-E-723719_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
       "tags": [
-        "space-tech"
+        "disclosure-watch"
       ]
     },
     {
-      "id": "https://www.nasa.gov/news/media-contacts/",
-      "url": "https://www.nasa.gov/news/media-contacts/",
-      "title": "NASA Media Contacts - NASA",
-      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Alise",
+      "id": "https://science.nasa.gov/resource/viking-50-years-on-mars-poster/",
+      "url": "https://science.nasa.gov/resource/viking-50-years-on-mars-poster/",
+      "title": "Viking: 50 Years on Mars — Poster - NASA Science",
+      "content_text": "Throughout history, Mars had been in sight, but never within reach — until July 20, 1976, when NASA’s Viking 1 lander touched down safely and began",
       "attachments": [
         {
-          "url": "https://images-assets.nasa.gov/image/jsc2026e397516/jsc2026e397516~large.jpg",
+          "url": "https://assets.science.nasa.gov/content/dam/science/missions/viking/viking-—-50-years-on-mars-poster/Viking%2050%20Poster_Front_Digital.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/counter-strike-2/most-popular-maps-cs2/",
+      "url": "https://esports.gg/news/counter-strike-2/most-popular-maps-cs2/",
+      "title": "All CS2 maps explained",
+      "content_text": "The Counter-Strike 2 (CS2) community has clear preferences for map picks in pro and casual play. The reasons often lie in the balance between two team roles and the variety of strategies.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2024/01/CS2-maps-Cover-01.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/league-of-legends/lol-ewc-2026-winners-overview/",
+      "url": "https://esports.gg/news/league-of-legends/lol-ewc-2026-winners-overview/",
+      "title": "T1 vs Gen.G and KC vs Dplus at LoL EWC 2026: Finals at the tournament of big upsets",
+      "content_text": "This League of Legends (LoL) event treated us to quite a few spectacular upsets. Even the grand final participants were not actually the teams people expected to see battling for the trophy.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/07/LoL-EWC-2026-finals-cover.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/fortnite/every-fortnite-icon-series-skin-ever-released/",
+      "url": "https://esports.gg/news/fortnite/every-fortnite-icon-series-skin-ever-released/",
+      "title": "Every Fortnite Icon Series skin ever released",
+      "content_text": "Here is a list of every Icon Series skin ever released in Fortnite.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2023/09/Every-Icon-Series-Skin.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/fortnite/all-jam-tracks-ever-released-in-fortnite/",
+      "url": "https://esports.gg/news/fortnite/all-jam-tracks-ever-released-in-fortnite/",
+      "title": "All Fortnite Festival songs ever released",
+      "content_text": "Here is every Jam Track in Fortnite Festival.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2023/12/All-Jam-Tracks.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2026-07-nanoparticles-immune-molecules-blood.html",
+      "url": "https://phys.org/news/2026-07-nanoparticles-immune-molecules-blood.html",
+      "title": "Nanoparticles could remove harmful immune molecules from blood",
+      "content_text": "The immune system, the body's defense network against infections and injuries, can sometimes become too active. In these cases, it can produce too many immune mediators, fragments of genetic material or proteins that regulate immune responses.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/nanoparticles-could-re.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/counter-strike-2/all-cs2-crosshair-codes/",
+      "url": "https://esports.gg/news/counter-strike-2/all-cs2-crosshair-codes/",
+      "title": "Best CS2 crosshair codes & settings",
+      "content_text": "Using crosshairs of pro players is a nice step towards competitive effectiveness. It is a good idea to experiment with different crosshairs and even adjust the settings for your personal playstyle and preferences.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2023/09/Fight-in-CS2.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/press-releases/sun-gaming-and-hospitality-sourcing-exchange/",
+      "url": "https://esports.gg/news/press-releases/sun-gaming-and-hospitality-sourcing-exchange/",
+      "title": "Sun Gaming and Hospitality and The Sourcing Exchange Announce Strategic Partnership",
+      "content_text": "Sun Gaming and Hospitality partners with The Sourcing Exchange to bring data-driven procurement, cost savings, and vendor transparency to gaming and hospitality.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/07/unnamed-20.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://eprijournal.com/restarting-nuclear-power-plants-preserving-and-restoring-value/",
+      "url": "https://eprijournal.com/restarting-nuclear-power-plants-preserving-and-restoring-value/",
+      "title": "Restarting Nuclear Power Plants: Preserving and Restoring Value - EPRI Journal",
+      "content_text": "Share this article:Recent growth in electricity demand, expanding carbon-free energy goals, and renewed concerns about energy security are driving utilities to reconsider nuclear power plants that have been permanently shut down or are approaching retirement. EPRI examines the technical, regulatory, and business factors that influence whether these facilities can return to service and what steps […]",
+      "attachments": [
+        {
+          "url": "http://eprijournal.com/wp-content/uploads/2026/07/2026.06_EJ-AS_433512435.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "grid-water-compute"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
+      "title": "NASA Pushes New Wing Design to Find Structural Limits - NASA",
+      "content_text": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/AFRC2025-0136-1632/AFRC2025-0136-1632~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -29,310 +170,243 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news/",
-      "url": "https://www.nasa.gov/news/",
-      "title": "NASA News",
-      "content_text": "Resources for news media, including NASA news contacts and archived news material",
+      "id": "https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/",
+      "url": "https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/",
+      "title": "The Growing Crescent of Mars as NASA’s Psyche Mission Approaches - NASA Science",
+      "content_text": "This composite of images taken by NASA’s Psyche mission shows the crescent of Mars grow as the spacecraft approached the planet for a gravity assist from May",
       "attachments": [
         {
-          "url": "https://www.nasa.gov/wp-content/uploads/2025/05/54492396655-c6ba83df1d-o-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/news-release/nasa-invites-media-to-serbia-artemis-accords-signing-ceremony/",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-serbia-artemis-accords-signing-ceremony/",
-      "title": "NASA Invites Media to Serbia Artemis Accords Signing Ceremony - NASA",
-      "content_text": "The Republic of Serbia will sign the Artemis Accords at 5 p.m. EDT Thursday, July 16, during a ceremony at NASA Headquarters in Washington.",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/nasa-meatball-11-black-background.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/2026-news-releases/",
-      "url": "https://www.nasa.gov/2026-news-releases/",
-      "title": "2026 News Releases - NASA",
-      "content_text": "Sign up to receive NASA news releases and other information.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/NHQ202512200038/NHQ202512200038~large.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/07/15/stations-newest-trio-adjusts-to-mission-life-before-next-crew-departure/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/07/15/stations-newest-trio-adjusts-to-mission-life-before-next-crew-departure/",
-      "title": "Station’s Newest Trio Adjusts to Mission Life Before Next Crew Departure - NASA",
-      "content_text": "10 crew members now occupy the International Space Station following the arrival of NASA astronaut Anil Menon and Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina aboard the Soyuz MS-29 spacecraft on Tuesday. The expanded Expedition 74 crew will stay that way until the end of the month when another three crewmates depart the orbital outpost after an eight-month space research mission.",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/blog-anil-menon-cupola-071526.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/07/14/new-trio-enters-station-and-joins-expedition-74-crew/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/07/14/new-trio-enters-station-and-joins-expedition-74-crew/",
-      "title": "New Trio Enters Station and Joins Expedition 74 Crew - NASA",
-      "content_text": "At 4:30 p.m. EDT, the hatch opened between the International Space Station and the Soyuz MS-29 spacecraft. NASA astronaut Anil Menon and Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina have entered the station, where they will spend the next eight months living and working before returning to Earth in April 2027.",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/blog-crew-greeting-071426.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2000",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2001",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2002",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2003",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2004",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/en/(year)/2005",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/cz",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/dk",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/nl",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/ee",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fi",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Media inquiries only)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/(lang)/fr",
-      "title": "Press Releases",
-      "content_text": "email: media @ esa.int (Uniquement les demandes de la presse)",
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.rocketlabusa.com/updates/",
-      "url": "https://www.rocketlabusa.com/updates/",
-      "title": "News | Rocket Lab",
-      "content_text": "Keep up with the latest from Rocket Lab.",
-      "attachments": [
-        {
-          "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.rocketlabusa.com/updates/rocket-lab-delivers-mission-success-for-space-force-completes-historic-launch-and-on-orbit-satellite-tracking-mission-in-record-time/",
-      "url": "https://www.rocketlabusa.com/updates/rocket-lab-delivers-mission-success-for-space-force-completes-historic-launch-and-on-orbit-satellite-tracking-mission-in-record-time/",
-      "title": "Rocket Lab Delivers Mission Success for Space Force: Completes Historic Launch and On-Orbit Satellite Tracking Mission in Record Time   | Rocket Lab",
-      "content_text": "Following a record-shattering responsive launch, Rocket Lab completes complex on-orbit rendezvous and proximity operations, proving the Company’s ability to track and inspect target satellites on short notice, delivering success for the U.S. Space Force’s VICTUS HAZE mission. <br />\nLONG BEACH, Calif., 7…",
-      "attachments": [
-        {
-          "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.rocketlabusa.com/updates/rocket-lab-to-acquire-iridium-in-historic-deal-creating-a-fully-vertically-integrated-space-powerhouse-primed-for-growth/",
-      "url": "https://www.rocketlabusa.com/updates/rocket-lab-to-acquire-iridium-in-historic-deal-creating-a-fully-vertically-integrated-space-powerhouse-primed-for-growth/",
-      "title": "Rocket Lab to Acquire Iridium in Historic Deal, Creating A Fully Vertically Integrated Space Powerhouse Primed for Growth | Rocket Lab",
-      "content_text": "Rocket Lab to Acquire Iridium in Historic Deal, Creating A Fully Vertically Integrated Space Powerhouse Primed for Growth",
-      "attachments": [
-        {
-          "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.rocketlabusa.com/updates/rocket-lab-completes-10th-consecutive-launch-with-100-mission-success-for-synspective/",
-      "url": "https://www.rocketlabusa.com/updates/rocket-lab-completes-10th-consecutive-launch-with-100-mission-success-for-synspective/",
-      "title": "Rocket Lab Completes 10th Consecutive Launch with 100% Mission Success for Synspective | Rocket Lab",
-      "content_text": "Mahia, New Zealand. 27 June, 2026 – Rocket Lab Corporation (Nasdaq: RKLB), a global leader in launch services and space systems, today announced it has successfully placed another satellite into orbit for Synspective, achieving a significant milestone as the tenth dedicated launch for the…",
-      "attachments": [
-        {
-          "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.rocketlabusa.com/updates/nasa-selects-rocket-lab-to-launch-sun-earth-sciences-missions/",
-      "url": "https://www.rocketlabusa.com/updates/nasa-selects-rocket-lab-to-launch-sun-earth-sciences-missions/",
-      "title": "NASA Selects Rocket Lab to Launch Sun, Earth Sciences Missions  | Rocket Lab",
-      "content_text": "The PolSIR and TSIS-2 missions will fly across three dedicated Electron launches from Q1 2027 to meet each mission’s time-sensitive requirements.",
-      "attachments": [
-        {
-          "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.rocketlabusa.com/updates/victus-haze/",
-      "url": "https://www.rocketlabusa.com/updates/victus-haze/",
-      "title": "Rocket Lab Shatters Responsive Space Record: Launches U.S. Space Force VICTUS HAZE Mission in 16 Hours 42 Minutes | Rocket Lab",
-      "content_text": "Historic Speed: Rocket Lab launched the VICTUS HAZE mission just 16 hours and 42 minutes after receiving the U.S. Space Force’s Notice to Launch, beating the previous record by more than 10 hours and setting a new global standard in responsive space access. <br />\nEnd-to-End Space Capability: Marking a…",
-      "attachments": [
-        {
-          "url": "https://rocketlabcorp.com/themes/base/production/images/og_logo.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.relativityspace.com/press-release/2026/7/10/june-2026-company-update",
-      "url": "https://www.relativityspace.com/press-release/2026/7/10/june-2026-company-update",
-      "title": "June 2026 Company Update",
-      "content_text": "June brought continued momentum across the Terran R program, with major milestones across first stage qualification, second stage transport, and launch site readiness.   Design  In June, the team released 2,238 flight parts. Engineers remain focused on the first stage, releasing nearly all component",
-      "attachments": [
-        {
-          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26586/PIA26586.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
           "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/",
+      "url": "https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/",
+      "title": "Establishing a VTE Risk Score for Astronauts Algorithm - NASA",
+      "content_text": "In April 2026, NASA’s Office of the Chief Health and Medical Officer (OCHMO) initiated a working group to review updated VTE case information, additional data",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/10-1177-1358863x221086619-fig2.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://esportsinsider.com/2026/07/fgc-needs-more-hayao",
+      "url": "https://esportsinsider.com/2026/07/fgc-needs-more-hayao",
+      "title": "The FGC has become too serious and we need more people like Hayao",
+      "content_text": "The FGC has been real serious recently, and we need more whimsy, even if it comes in the form of a shocking tweet from Hayao.",
+      "attachments": [
+        {
+          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/hayao.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/gallery/nasas-viking-mission-to-mars/",
+      "url": "https://science.nasa.gov/gallery/nasas-viking-mission-to-mars/",
+      "title": "NASA's Viking Mission",
+      "content_text": "A gallery of images from NASA's Viking mission to Mars which, among its many \"firsts\" sent the first image from the surface of another planet back to Earth.",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/PIA09703/PIA09703~large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://esportsinsider.com/2026/07/ewc-valorant-pressure-org-accusations",
+      "url": "https://esportsinsider.com/2026/07/ewc-valorant-pressure-org-accusations",
+      "title": "“Maybe it’s not actually voluntary\": Are esports organizations pressuring VALORANT pros to compete in the EWC? Or does the issue go deeper than that?",
+      "content_text": "Are VALORANT pros being pressured to compete in the EWC or risk losing their role on the team? A finance professional weighs in.",
+      "attachments": [
+        {
+          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/Esports_World_Cup_2026_VALORANT.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/",
+      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/",
+      "title": "NASA Awards Facilities Support Services Contract for Ames Research Center  - NASA",
+      "content_text": "CONTRACT RELEASE",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/fgc/fatal-fury-city-of-the-wolves-reveal-rick-strowd-as-season-pass-3-dlc/",
+      "url": "https://esports.gg/news/fgc/fatal-fury-city-of-the-wolves-reveal-rick-strowd-as-season-pass-3-dlc/",
+      "title": "FATAL FURY: City of the Wolves reveal  Rick Strowd as Season Pass 3 DLC",
+      "content_text": "Rick Strowd will be Season Pass 3's first DLC fighter.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/07/FATAL-FURY-City-of-the-Wolves-reveal-Rick-Strowd-as-Season-Pass-3-DLC-1.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/fgc/fatal-fury-city-of-the-wolves-release-date-features-and-more/",
+      "url": "https://esports.gg/news/fgc/fatal-fury-city-of-the-wolves-release-date-features-and-more/",
+      "title": "FATAL FURY: City of the Wolves Characters: Full Roster & DLC List (July 2026)",
+      "content_text": "Here's the complete list of FATAL FURY: City of the Wolves characters.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/06/FATAL-FURY-City-of-the-Wolves-Characters-Full-Roster-DLC-List-July-2026.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/mobile-legends-bang-bang/msc-2026-ewc-schedule-results-livestream/",
+      "url": "https://esports.gg/news/mobile-legends-bang-bang/msc-2026-ewc-schedule-results-livestream/",
+      "title": "MSC 2026 Esports World Cup: Format, schedule, results, and more",
+      "content_text": "Here is a complete guide to MSC 2026 at the Esports World Cup, including match results, schedules, and key information.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/07/MSC-2026-Esports-World-Cup-Format-schedule-results-and-more.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/earth-science/earth-action/water-resources/",
+      "url": "https://science.nasa.gov/earth-science/earth-action/water-resources/",
+      "title": "Water Resources  - NASA Science",
+      "content_text": "Supporting sustainable and adaptable water resources management.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/examining-algal-blooms-in-blue-mesa/bluemesaphoto2.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
+      "url": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
+      "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
+      "content_text": "Her algorithm enables robots to install antennas on satellites",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/a-young-woman-with-blonde-hair-softly-smiling-next-to-a-pair-of-collaborative-robot-arms.jpg?id=67499761&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/",
+      "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/",
+      "title": "NASA’s Psyche Mission Images Details of Martian Surface During Flyby - NASA Science",
+      "content_text": "Captured by the multispectral imager instrument on NASA’s Psyche mission, this is an enhanced-color mosaic created from four individual images acquired on May",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26749/PIA26749.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/blogs/psyche/2026/07/17/nasas-psyche-mission-delivers-mars-flyby-data-time-lapse-video/",
+      "url": "https://science.nasa.gov/blogs/psyche/2026/07/17/nasas-psyche-mission-delivers-mars-flyby-data-time-lapse-video/",
+      "title": "NASA’s Psyche Mission Delivers Mars Flyby Data, Time-lapse Video  - NASA Science",
+      "content_text": "When NASA’s Psyche spacecraft flew by Mars for a gravity assist on May 15, 2026, it gave the mission team an opportunity to test instruments and prep for science they’ll conduct when reaching the metal-rich asteroid Psyche in 2029, and collect images and a time-lapse video of the Mars encounter.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26749/E2_PIA26749_Psyche_Imager_Mars_Mosaic1_F247E.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
         },
         {
-          "url": "https://www.youtube.com/embed/J-1m3wZgurw",
+          "url": "https://www.youtube.com/embed/6_cH5-daLjg",
           "mime_type": "video/mp4"
         }
       ],
       "tags": [
-        "space-tech"
+        "climate-environment"
       ]
     },
     {
-      "id": "https://www.relativityspace.com/press-release/2026/6/4/may-2026-company-updatenbspnbsp",
-      "url": "https://www.relativityspace.com/press-release/2026/6/4/may-2026-company-updatenbspnbsp",
-      "title": "May 2026 Company Update",
-      "content_text": "May brought a major milestone for the Terran R program, with the integrated second stage departing Long Beach and beginning its journey to NASA Stennis. Across the company, teams continued advancing work across design, build, test, and launch.   Design  This month, 1,455 flight parts were released,",
+      "id": "https://phys.org/news/2026-07-thinner-wires-faster-electrons-quantum.html",
+      "url": "https://phys.org/news/2026-07-thinner-wires-faster-electrons-quantum.html",
+      "title": "Thinner wires, faster electrons: Quantum material challenges copper at chip scale",
+      "content_text": "Electrical interconnects may very well be the unsung heroes of modern microchips. These tiny wires—typically made of copper due to its high conductivity—string together the billions of transistors that drive our computers and electronic devices. But as the technology advances and additional transistors are piled on, the components must shrink to the nanoscale. And that's when copper begins to fail.",
       "attachments": [
         {
-          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
-          "mime_type": "image/png"
-        },
+          "url": "https://scx2.b-cdn.net/gfx/news/2026/too-thin-to-fail-an-al.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+      "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+      "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
+      "content_text": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
+      "attachments": [
         {
-          "url": "https://www.youtube.com/embed/Mt_bow-eer4",
-          "mime_type": "video/mp4"
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/inline-1784235912807.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-mauritius-as-70th-artemis-accords-signatory/",
+      "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-mauritius-as-70th-artemis-accords-signatory/",
+      "title": "NASA Welcomes Mauritius as 70th Artemis Accords Signatory   - NASA",
+      "content_text": "The Republic of Mauritius has officially joined the global coalition committed to responsible space exploration, becoming the newest signatory and seventh",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/artemis-accords-mauritius-70-071726.jpg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -340,18 +414,48 @@
       ]
     },
     {
-      "id": "https://www.relativityspace.com/press-release/2026/5/8/april-2026-company-update",
-      "url": "https://www.relativityspace.com/press-release/2026/5/8/april-2026-company-update",
-      "title": "April 2026 Company Update",
-      "content_text": "April brought continued momentum across the Terran R program, with progress advancing across design, build, test, and launch.&nbsp;   Design  This month, 2,055 flight parts were released, with a concerted effort on the stage one shipping assembly. Nearly all of the first stage structural compone",
+      "id": "https://www.etsi.org/newsroom/news/etsi-mission-critical-10th-plugtests-report-unveiled/",
+      "url": "https://www.etsi.org/newsroom/news/etsi-mission-critical-10th-plugtests-report-unveiled/",
+      "title": "ETSI Mission Critical 10th Plugtests Report Unveiled - ETSI",
+      "content_text": "More than 250 participants from around the world gathered to discuss advancing the transition to quantum-safe security.",
       "attachments": [
         {
-          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
+          "url": "https://www.etsi.org/wp-content/uploads/header-mcx-plugtest-news-1png.png",
           "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "standards-bodies"
+      ]
+    },
+    {
+      "id": "https://www.embl.org/news/science-technology/novotags-ai-designed-proteins-help-scientists-see-inside-living-cells/",
+      "url": "https://www.embl.org/news/science-technology/novotags-ai-designed-proteins-help-scientists-see-inside-living-cells/",
+      "title": "NovoTags: AI-designed proteins help scientists see inside living cells | EMBL",
+      "content_text": "Researchers have designed synthetic and inducible proteins that bind to bright fluorescent dyes with high specificity and affinity, significantly expanding the toolkit for multicolour imaging of proteins inside cells",
+      "attachments": [
+        {
+          "url": "https://www.embl.org/news/wp-content/uploads/2026/07/NovoTag_2.jpg",
+          "mime_type": "image/jpeg"
         },
         {
-          "url": "https://www.youtube.com/embed/VkMOxp9ZKfU",
+          "url": "https://www.embl.org/news/wp-content/uploads/2026/07/NovoTag_withLogo.mp4",
           "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "biotech"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/",
+      "title": "A Tide-Fueled Trove of Biodiversity in Guinea-Bissau - NASA Science",
+      "content_text": "The expansive mudflats, sandy beaches, and mangrove forests of the Bijagós archipelago support an array of migratory shorebirds and large numbers of sea turtles.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/bijagosarchipelago_oli_20251128_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -359,18 +463,87 @@
       ]
     },
     {
-      "id": "https://www.relativityspace.com/press-release/2026/4/13/march-2026-company-updatenbspnbsp",
-      "url": "https://www.relativityspace.com/press-release/2026/4/13/march-2026-company-updatenbspnbsp",
-      "title": "March 2026 Company Update",
-      "content_text": "March brought continued progress across the Terran R program, with key milestones across design, manufacturing, testing, and launch preparations.&nbsp;   Design  This month, the team released 2,207 flight parts, with a continued focus on completing the stage one shipping assembly. Work remains c",
+      "id": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260717~b6a156dc40.en.html",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260717~b6a156dc40.en.html",
+      "title": "The cooperative spirit at the heart of the digital euro",
+      "content_text": "Our monetary policy strategy, the tools we use and the impact they have",
       "attachments": [
         {
-          "url": "http://static1.squarespace.com/static/59a8fb50d2b8575fad311abb/t/68a4babcbaf5ae7defdb89df/1755626172492/TERRAN_R_LAUNCH.png?format=1500w",
-          "mime_type": "image/png"
+          "url": "https://www.ecb.europa.eu/press/key/shared/img/socialmedia/social-default.jpg?0dbb2de262f4f1fcaeae410be132177a=",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "programmable-finance"
+      ]
+    },
+    {
+      "id": "https://www.oasis-open.org/2026/07/16/invitation-to-comment-on-akoma-ntoso-v2-0-part-2-akn-3-1-before-call-for-consent-as-oasis-standard/",
+      "url": "https://www.oasis-open.org/2026/07/16/invitation-to-comment-on-akoma-ntoso-v2-0-part-2-akn-3-1-before-call-for-consent-as-oasis-standard/",
+      "title": "Invitation to comment on Akoma Ntoso v2.0 Part 2 (AKN 3.1) before call for consent as OASIS Standard",
+      "content_text": "OASIS and the OASIS LegalDocumentML (LegalDocML) TC [1] are pleased to announce that Akoma Ntoso Version 2.0. Part 2: Specifications of AKN 3.1 CS01 is now available for public review and comment before a call for consent as OASIS Standard. Akoma Ntoso defines an XML vocabulary for parliamentary, legislative, and judicial documents, enabling machine-readable exchange […]",
+      "tags": [
+        "standards-bodies"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem/",
+      "url": "https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem/",
+      "title": "Q&A: How Capcom Brought Path Tracing to RE ENGINE Across PRAGMATA and Resident Evil Requiem | NVIDIA Technical Blog",
+      "content_text": "Capcom’s RE ENGINE team set out to bring path tracing into two shipping titles at once, Resident Evil Requiem and PRAGMATA, each with a different visual identity. Over two years, the RE ENGINE team…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/image1-2-500x282.gif",
+          "mime_type": "image/gif"
         },
         {
-          "url": "https://www.youtube.com/embed/MKrGdH-g60w",
+          "url": "https://www.youtube.com/embed/t8tAbd_c6DY?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
           "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2026-07-graphene-nanoribbons-survive-gamma-revealing.html",
+      "url": "https://phys.org/news/2026-07-graphene-nanoribbons-survive-gamma-revealing.html",
+      "title": "Graphene nanoribbons survive gamma radiation, revealing potential sensors for fusion reactors",
+      "content_text": "University of Arizona researchers have demonstrated a promising new application for graphene nanoribbons, a nanoscale semiconductor material with the potential to withstand extreme environments. The team's findings could help clear a key hurdle to bringing fusion energy to the electric grid.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2026/quantum-materials-disc.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/company-news/amazon-earnings-q2-2026-report",
+      "url": "https://www.aboutamazon.com/news/company-news/amazon-earnings-q2-2026-report",
+      "title": "Amazon will share its Q2 2026 earnings on July 30",
+      "content_text": "On July 30, Amazon is set to hold a conference call to discuss its Q2 2026 financial results.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/3458e75/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F47%2F6d%2F7fe296e642859c7ba2a629eda3ba%2Famazon-logo-hero-images-2024.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/",
+      "url": "https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/",
+      "title": "NASA Study Finds Near-Earth Asteroid Is Actually Comet - NASA",
+      "content_text": "New research led by scientists at NASA’s Jet Propulsion Laboratory in Southern California has revealed the identity of a puzzling near-Earth object by",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/1-pia21259.jpg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -378,48 +551,361 @@
       ]
     },
     {
-      "id": "https://www.sda.mil/home/news/",
-      "url": "https://www.sda.mil/home/news/",
-      "title": "NEWS – Space Development Agency",
-      "content_text": "NEWS – Space Development Agency",
+      "id": "https://esportsinsider.com/2026/07/new-counter-strike-2-comms-rule-debate",
+      "url": "https://esportsinsider.com/2026/07/new-counter-strike-2-comms-rule-debate",
+      "title": "Is Counter-Strike 2 going soft? Esports fans react to new comms rule and debate hate speech vs. trash talk",
+      "content_text": "A newly-added rule states that what you say to your own teammates is no longer off-limits to TOs. Will this stop trash talking?",
+      "attachments": [
+        {
+          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/dota-2-faze.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
       "tags": [
-        "space-force"
+        "gsel-esports-ai"
       ]
     },
     {
-      "id": "https://www.sda.mil/home/news/news-releases/",
-      "url": "https://www.sda.mil/home/news/news-releases/",
-      "title": "News Releases – Space Development Agency",
-      "content_text": "News Releases – Space Development Agency",
+      "id": "https://phys.org/news/2026-07-brain-nanopore-device-current-memory.html",
+      "url": "https://phys.org/news/2026-07-brain-nanopore-device-current-memory.html",
+      "title": "Brain-inspired nanopore device uses current-induced heating for memory operations",
+      "content_text": "Some researchers are leaning into biology for inspiration in computing. In particular, neuromorphic computing offers a brain-inspired approach to hardware that replaces traditional binary processing with systems that function more like neurons and synapses. Now, a new study, published in Nature Communications, describes an innovative design for a fluidic memristor that uses its own self-heating mechanism to induce a history-dependent memory effect.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/brain-inspired-nanopor.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
       "tags": [
-        "space-force"
+        "nanotech"
       ]
     },
     {
-      "id": "https://www.sda.mil/home/news/page/2/",
-      "url": "https://www.sda.mil/home/news/page/2/",
-      "title": "NEWS – Page 2 – Space Development Agency",
-      "content_text": "NEWS – Page 2 – Space Development Agency",
+      "id": "https://phys.org/news/2026-07-hybrid-material-antiferroelectricity-coexist-switchable.html",
+      "url": "https://phys.org/news/2026-07-hybrid-material-antiferroelectricity-coexist-switchable.html",
+      "title": "Hybrid material confirms antiferroelectricity can coexist with switchable polarization",
+      "content_text": "Many of the advanced electronic components surrounding us in everyday life rely on polar materials to function. Polar materials have an uneven distribution of electric charge. This gives them a positive and a negative side even in the absence of an external electric field. The most important among these are ferroelectric materials, in which the direction of polarization can be reversed by applying an electric field.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2026/so-you-thought-antifer.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
       "tags": [
-        "space-force"
+        "nanotech"
       ]
     },
     {
-      "id": "https://www.sda.mil/home/news/page/3/",
-      "url": "https://www.sda.mil/home/news/page/3/",
-      "title": "NEWS – Page 3 – Space Development Agency",
-      "content_text": "NEWS – Page 3 – Space Development Agency",
+      "id": "https://esportsinsider.com/2026/07/esports-nostalgia-cash-in",
+      "url": "https://esportsinsider.com/2026/07/esports-nostalgia-cash-in",
+      "title": "Esports has an excellent opportunity to cash in on nostalgia right now",
+      "content_text": "Nostalgia within the gaming industry is a surefire way for developers and publishers to generate huge profits.",
+      "attachments": [
+        {
+          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/esports-nostalgia-potential.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
       "tags": [
-        "space-force"
+        "gsel-esports-ai"
       ]
     },
     {
-      "id": "https://www.sda.mil/home/news/page/5/",
-      "url": "https://www.sda.mil/home/news/page/5/",
-      "title": "NEWS – Page 5 – Space Development Agency",
-      "content_text": "NEWS – Page 5 – Space Development Agency",
+      "id": "https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/",
+      "url": "https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/",
+      "title": "Integrating Context-Aware Video AI Agents Into Enterprise Workflows | NVIDIA Technical Blog",
+      "content_text": "A video analytics AI agent that can perceive, reason, and act based on massive amounts of video footage must be integrated with existing workflows and applications to be useful.",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-metropolis-nemoclaw.webp",
+          "mime_type": "image/webp"
+        }
+      ],
       "tags": [
-        "space-force"
+        "ai"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/scaling-agentic-ai-factories-through-extreme-co-design-with-nvidia-bluefield/",
+      "url": "https://developer.nvidia.com/blog/scaling-agentic-ai-factories-through-extreme-co-design-with-nvidia-bluefield/",
+      "title": "Scaling Agentic AI Factories Through Extreme Co-Design with NVIDIA BlueField | NVIDIA Technical Blog",
+      "content_text": "Agentic AI changes the infrastructure pattern for AI factories. One request can trigger many model calls, tool calls, memory lookups, policy checks, storage accesses, and network transfers before a…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/Bluefield-4.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://www.broadinstitute.org/news/bioengineer-shifts-his-career-explore-how-life-experiences-change-body",
+      "url": "https://www.broadinstitute.org/news/bioengineer-shifts-his-career-explore-how-life-experiences-change-body",
+      "title": "A bioengineer shifts his career to explore how life experiences change the body",
+      "content_text": "Shaped by a tumultuous childhood, Jason Buenrostro pivots from technology development to studying the biology of stress and adversity and finding new ways to boost resilience.",
+      "attachments": [
+        {
+          "url": "https://www.broadinstitute.org/files/longstory/BuenrostroProfile2026_main.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "biotech"
+      ]
+    },
+    {
+      "id": "https://newscenter.lbl.gov/2026/07/16/cyclotron-road-welcomes-11-new-entrepreneurial-fellows/",
+      "url": "https://newscenter.lbl.gov/2026/07/16/cyclotron-road-welcomes-11-new-entrepreneurial-fellows/",
+      "title": "Cyclotron Road Welcomes 11 New Entrepreneurial Fellows",
+      "content_text": "The U.S. Department of Energy (DOE) has announced the 2026 cohort of scientists and engineers selected to join Cyclotron Road at Lawrence Berkeley National Laboratory (Berkeley Lab). Cyclotron Road is one of four nodes in the DOE Office of Technology Commercialization’s Lab-Embedded Entrepreneurship Program (LEEP) .",
+      "attachments": [
+        {
+          "url": "https://newscenter.lbl.gov/wp-content/uploads/2026/07/Newscenter_Featured_1190x750px_2026-cyclotron-road-fellows_transparent.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "national-gov-labs"
+      ]
+    },
+    {
+      "id": "https://credentialengine.org/2026/07/16/mapping-the-noncredit-data-taxonomy-3-0-to-the-ctdl-a-new-benchmark-model-for-noncredit-education-data/",
+      "url": "https://credentialengine.org/2026/07/16/mapping-the-noncredit-data-taxonomy-3-0-to-the-ctdl-a-new-benchmark-model-for-noncredit-education-data/",
+      "title": "Mapping the Noncredit Data Taxonomy 3.0 to the CTDL: A New Benchmark Model for Noncredit Education Data | Credential Engine",
+      "content_text": "A new recommended benchmark and publishing template from Credential Engine helps states, institutions, and agencies bring noncredit education data into the credential transparency ecosystem.  Credential Engine has released a new...",
+      "attachments": [
+        {
+          "url": "https://credentialengine.org/wp-content/uploads/2022/12/CE_social.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai-native-education"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2026-07-chemists-gallium-nitride-material-nanocrystals.html",
+      "url": "https://phys.org/news/2026-07-chemists-gallium-nitride-material-nanocrystals.html",
+      "title": "Chemists shrink gallium nitride, the material behind LED lighting, into nanocrystals",
+      "content_text": "Nanocrystals are so useful that they formed the basis of the 2023 Nobel Prize in Chemistry. But despite their usefulness, scientists have so far been able to make these microscopic crystals from only a limited palette of materials. A group of chemists at the University of Chicago and Argonne National Laboratory has announced a way to make nanocrystals from a useful class of materials known as metal nitrides—a previously impossible task.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/chemists-shrink-galliu.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://www.etsi.org/newsroom/news/become-a-voice-for-global-technology-standards/",
+      "url": "https://www.etsi.org/newsroom/news/become-a-voice-for-global-technology-standards/",
+      "title": "Become a voice for global technology standards: launching the ETSI Ambassador programme - ETSI",
+      "content_text": "More than 250 participants from around the world gathered to discuss advancing the transition to quantum-safe security.",
+      "attachments": [
+        {
+          "url": "https://www.etsi.org/wp-content/uploads/headers-website-17.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "standards-bodies"
+      ]
+    },
+    {
+      "id": "https://www.oasis-open.org/2026/07/16/invitation-to-comment-on-kmip-usage-guide-v3-0-ends-15-august-2026/",
+      "url": "https://www.oasis-open.org/2026/07/16/invitation-to-comment-on-kmip-usage-guide-v3-0-ends-15-august-2026/",
+      "title": "Invitation to comment on KMIP Usage Guide v3.0 – ends 15 August 2026",
+      "content_text": "OASIS and the KMIP TC are pleased to announce that the Key Management Interoperability Protocol Usage Guide Version 3.0 is now available for public review and comment.",
+      "tags": [
+        "standards-bodies"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/",
+      "title": "Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW",
+      "content_text": "Plus, GeForce NOW launches in India moving from beta to public availability, and delivers ‘Denshattack!’ alongside five new games this week.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/blog-1920x1080-no-copy.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/fishery-satellite-surveillance",
+      "url": "https://spectrum.ieee.org/fishery-satellite-surveillance",
+      "title": "Why Indonesia’s Fisheries Future Hinges On Data Integrity and Trust",
+      "content_text": "From vessel tracking to algorithmic enforcement, a surveillance revolution is transforming marine governance",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=67101579&width=1200&height=600&coordinates=0%2C125%2C0%2C125",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "title": "Google DeepMind and Isomorphic Labs approach to bioresilience",
+      "content_text": "Google DeepMind and Isomorphic Labs approach to bioresilience, using AI models to support prevention, detection and response.",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/ZRyQg91pjea8kXXaGSlnZIJF90-VwnKHSBxo22e2RedCvCCszsurR8W9NHw80e1V6HtWXccbU1MI27Rtjjf963rD673XgkWK7cZe_1ekfruPgdHHVEc=w1200-h630-n-nu-rw",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://submer.com/blog/press/netceed-ai-infrastructure-emea/",
+      "url": "https://submer.com/blog/press/netceed-ai-infrastructure-emea/",
+      "title": "Submer Group and Netceed partner to expand AI infrastructure across EMEA",
+      "content_text": "Submer Group partners with Netceed to expand AI infrastructure capabilities across EMEA and support telecom and data center customers.",
+      "attachments": [
+        {
+          "url": "https://submer.com/wp-content/uploads/2026/07/submer-group-netceed-ai-infrastructure-emea.jpg.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "compute-habitat"
+      ]
+    },
+    {
+      "id": "https://www.embl.org/news/people-perspectives/cath-brooksbank-what-ive-learned/",
+      "url": "https://www.embl.org/news/people-perspectives/cath-brooksbank-what-ive-learned/",
+      "title": "Cath Brooksbank: What I’ve learned | EMBL",
+      "content_text": "Lessons on trusting your team and building a world-leading bioinformatics training programme from EMBL-EBI's Head of Training, Cath Brooksbank",
+      "attachments": [
+        {
+          "url": "https://www.embl.org/news/wp-content/uploads/2026/07/©Laura-Lewis-AF_GDM_EDU_Summit_Jan_25_CATH_BROOKSBANK_0456-LR.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "biotech"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/earth/earth-observatory/ontario-wildfire-smoke-moves-east/",
+      "url": "https://science.nasa.gov/earth/earth-observatory/ontario-wildfire-smoke-moves-east/",
+      "title": "Ontario Wildfire Smoke Moves East - NASA Science",
+      "content_text": "Canadian wildfires sent plumes of smoke streaming over Ontario, Quebec, and parts of the U.S. Midwest and Northeast.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/ontario-wildfire-smoke-drifts-east/ontariofires_virs3_20260714_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.census.gov/newsroom/press-releases/2026/btos-july-16.html",
+      "url": "https://www.census.gov/newsroom/press-releases/2026/btos-july-16.html",
+      "title": "Business Trends and Outlook Survey Data Release &#8212; July 16, 2026",
+      "content_text": "The Business Trends and Outlook Survey provides timely data for key economic measures and business expectations about future conditions.",
+      "attachments": [
+        {
+          "url": "https://www.census.gov/content/dam/Census/gs-imports/social-media-sharing-images/social-image-newsroom.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "demographics-care"
+      ]
+    },
+    {
+      "id": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "title": "Connect more of your apps to Search",
+      "content_text": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.",
+      "attachments": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.width-1300.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "content_text": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
+      "attachments": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.width-1300.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
+      "url": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
+      "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+      "content_text": "New NVIDIA Blackwell-powered T3000 and T2000 modules, paired with new NVIDIA Jetson software memory optimization and agent skills, help partners and customers move advanced robotics, visual AI and edge workloads onto compact, power-efficient systems.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/robotics-jetson-T3000-T2000-jhh-japan-1280x680-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/",
+      "url": "https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/",
+      "title": "Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills | NVIDIA Technical Blog",
+      "content_text": "Developers building video analytics applications across large spaces must track the same object as it moves between camera views. Single-camera 2D tracking lacks reliable depth information and…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/deepstream-featured-500x282.gif",
+          "mime_type": "image/gif"
+        },
+        {
+          "url": "https://www.youtube.com/embed/rQoLYCB0YUc?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://journal.uptimeinstitute.com/advances-in-fine-tuning-reduce-total-volume-of-ai-training/",
+      "url": "https://journal.uptimeinstitute.com/advances-in-fine-tuning-reduce-total-volume-of-ai-training/",
+      "title": "Advances in fine-tuning reduce total volume of AI training - Uptime Institute Blog",
+      "content_text": "In the early days of generative AI, much attention was focused on the process of training new models from zero. As the technology matures, organizations are increasingly looking for ways to adapt existing large language models (LLMs) to their specific requirements. Customizing existing models avoids the need to source training data, employ machine learning experts […]",
+      "attachments": [
+        {
+          "url": "https://journal.uptimeinstitute.com/wp-content/uploads/2026/07/Advances-in-fine-tuning-featured.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "compute-habitat"
       ]
     }
   ]

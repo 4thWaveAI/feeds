@@ -5,13 +5,13 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/human_effect.json",
   "items": [
     {
-      "id": "https://spectrum.ieee.org/natron-sodium-ion-battery-failure",
-      "url": "https://spectrum.ieee.org/natron-sodium-ion-battery-failure",
-      "title": "Natron Energy's Closure Sparks Industry Reflection",
-      "content_text": "Natron Energy's closure raises questions about the future of sodium-ion batteries in the U.S. Can the industry catch up with China?",
+      "id": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
+      "url": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
+      "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
+      "content_text": "Her algorithm enables robots to install antennas on satellites",
       "attachments": [
         {
-          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=61715697&width=1200&height=600&coordinates=0%2C22%2C0%2C8",
+          "url": "https://spectrum.ieee.org/media-library/a-young-woman-with-blonde-hair-softly-smiling-next-to-a-pair-of-collaborative-robot-arms.jpg?id=67499761&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
           "mime_type": "image/jpeg"
         }
       ],
@@ -20,43 +20,13 @@
       ]
     },
     {
-      "id": "https://spectrum.ieee.org/multiphysics-simulation-power-grid",
-      "url": "https://spectrum.ieee.org/multiphysics-simulation-power-grid",
-      "title": "The Future of the Grid: Simulation-Driven Optimization",
-      "content_text": "Multiphysics simulation provides critical insight into complex power grid components",
+      "id": "https://spectrum.ieee.org/fishery-satellite-surveillance",
+      "url": "https://spectrum.ieee.org/fishery-satellite-surveillance",
+      "title": "Why Indonesia’s Fisheries Future Hinges On Data Integrity and Trust",
+      "content_text": "From vessel tracking to algorithmic enforcement, a surveillance revolution is transforming marine governance",
       "attachments": [
         {
-          "url": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjg4NDUyMC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MzA3MTQzOX0.SxRBIud_XE2YWQFaIJD9BPB1w-3JsFhiRkJIIe9Yq-g/image.png?width=210",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://aiforgood.itu.int/building-ai-skills-and-governance-for-a-connected-future/",
-      "url": "https://aiforgood.itu.int/building-ai-skills-and-governance-for-a-connected-future/",
-      "title": "Building AI skills and governance for a connected future",
-      "content_text": "Connect with 51K enthusiasts from all over the world.",
-      "attachments": [
-        {
-          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/10/Featured-image-1024x576.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/5-ways-volunteering-professional-growth",
-      "url": "https://spectrum.ieee.org/5-ways-volunteering-professional-growth",
-      "title": "How Volunteering Can Boost Your Career Skills",
-      "content_text": "Volunteering isn't just giving back; it's a powerful tool for personal and professional growth.",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/ieee-women-in-engineering-committee-and-staff-posing-for-a-group-portrait.jpg?id=61686916&width=1200&height=600&coordinates=0%2C240%2C0%2C240",
+          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=67101579&width=1200&height=600&coordinates=0%2C125%2C0%2C125",
           "mime_type": "image/jpeg"
         }
       ],
@@ -65,85 +35,10 @@
       ]
     },
     {
-      "id": "https://spectrum.ieee.org/video-friday-speedy-drone-landing",
-      "url": "https://spectrum.ieee.org/video-friday-speedy-drone-landing",
-      "title": "Drones Land on Vehicles Moving at 110 km/h",
-      "content_text": "How does a robot hand moonwalk? See the playful experiment bringing robotic fingers to life. Plus a drone landing on a vehicle moving at 110 km/h.",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/image.png?id=61690208&width=1200&height=600&coordinates=0%2C120%2C0%2C120",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://aiforgood.itu.int/advancing-multi-disease-detection-with-ai-imaging-at-alibaba-damo-academy/",
-      "url": "https://aiforgood.itu.int/advancing-multi-disease-detection-with-ai-imaging-at-alibaba-damo-academy/",
-      "title": "Advancing multi-disease detection with AI imaging at Alibaba DAMO Academy",
-      "content_text": "Connect with 51K enthusiasts from all over the world.",
-      "attachments": [
-        {
-          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/Alibaba--1024x576.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/student-engineering-a-healthier-future",
-      "url": "https://spectrum.ieee.org/student-engineering-a-healthier-future",
-      "title": "Engineering Student Aims to Transform Health Care in Mexico",
-      "content_text": "Can AI and neuroengineering change how we prevent diseases? Meet the student aiming to transform health care in Mexico.",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/ximena-montserrat-ramirez-aguilar-posing-with-miniature-flags-for-ieee-and-mexico.jpg?id=61689438&width=1200&height=600&coordinates=0%2C643%2C0%2C644",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/nuclear-energy-taiwan-maanshan-plant",
-      "url": "https://spectrum.ieee.org/nuclear-energy-taiwan-maanshan-plant",
-      "title": "Taiwan's Energy Dilemma: Can Renewables Meet Demand?",
-      "content_text": "Taiwan's energy future hangs in the balance as it navigates the nuclear debate and rising power demands. Can it sustain growth without nuclear energy?",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=61689921&width=1200&height=600&coordinates=0%2C12%2C0%2C588",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/engineering-scale",
-      "url": "https://spectrum.ieee.org/engineering-scale",
-      "title": "Engineers Tackle the Challenges of Scale",
-      "content_text": "How do engineers measure the unmeasurable and build the unbuildable?",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/image.png?id=61617637&width=1200&height=600&coordinates=0%2C296%2C0%2C297",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/getting-value-skip-level-meeting",
-      "url": "https://spectrum.ieee.org/getting-value-skip-level-meeting",
-      "title": "How Skip-Level Meetings Can Accelerate Your Career",
-      "content_text": "What secrets do skip-level meetings hold for your career advancement? Dive into strategies that can elevate your professional journey.",
+      "id": "https://spectrum.ieee.org/career-risks",
+      "url": "https://spectrum.ieee.org/career-risks",
+      "title": "Stable Jobs Can Hide the Riskiest Move In Your Tech Career",
+      "content_text": "Strive for better opportunities and cutting-edge skills",
       "attachments": [
         {
           "url": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.jpg?id=59104110&width=1200&height=600&coordinates=0%2C310%2C0%2C310",
@@ -155,13 +50,43 @@
       ]
     },
     {
-      "id": "https://spectrum.ieee.org/11-oddball-technology-records-you-probably-didnt-know",
-      "url": "https://spectrum.ieee.org/11-oddball-technology-records-you-probably-didnt-know",
-      "title": "11 Oddball Technology Records You Probably Didn’t Know",
-      "content_text": "The strongest robotic arm, the fastest brain typist, and more",
+      "id": "https://spectrum.ieee.org/notice-to-membership-july-2026",
+      "url": "https://spectrum.ieee.org/notice-to-membership-july-2026",
+      "title": "Notice to Membership",
+      "content_text": "The IEEE Board of Directors sanctions a member",
       "attachments": [
         {
-          "url": "https://spectrum.ieee.org/media-library/pixel-art-trophies-and-medals-on-a-blue-background-with-various-shapes-and-designs.png?id=61609765&width=1200&height=600&coordinates=0%2C67%2C0%2C67",
+          "url": "https://spectrum.ieee.org/media-library/a-word-bubble-with-the-ieee-inside.jpg?id=25592350&width=1200&height=600&coordinates=0%2C155%2C0%2C155",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/eliza-chatbot-source-code",
+      "url": "https://spectrum.ieee.org/eliza-chatbot-source-code",
+      "title": "Inside ELIZA’s Source Code and Its Multiple Personalities",
+      "content_text": "Uncovering ELIZA’s source code reveals hidden lessons",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=67155632&width=1200&height=600&coordinates=0%2C62%2C0%2C63",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://aiforgood.itu.int/in-conversation-with-innovate-australia-peter-kasprzak-on-supporting-the-ai-for-good-innovation-factory-australia-local-chapter/",
+      "url": "https://aiforgood.itu.int/in-conversation-with-innovate-australia-peter-kasprzak-on-supporting-the-ai-for-good-innovation-factory-australia-local-chapter/",
+      "title": "In conversation with Innovate Australia: Peter Kasprzak on supporting the AI for Good Innovation Factory Australia Local Chapter",
+      "content_text": "The AI for Good Innovation Factory reaches its Grand Finale in Geneva each summer, following a year of activity across a large-scale international network. Regional chapters across multiple continents are hosted by organisations with deep knowledge of their local innovation ecosystems, helping to identify promising founders and select the strongest solutions to present before expert juries. With chapters already active in places including India, Catalonia and Malta, the network continues to expand, with Innovate Australia leading the initiative’s local chapter in Australia.",
+      "attachments": [
+        {
+          "url": "https://s41721.pcdn.co/wp-content/uploads/2026/07/Celia-dont-touch-2026-07-15T132552.041.png",
           "mime_type": "image/png"
         }
       ],
@@ -170,43 +95,13 @@
       ]
     },
     {
-      "id": "https://spectrum.ieee.org/whole-genome-sequencing",
-      "url": "https://spectrum.ieee.org/whole-genome-sequencing",
-      "title": "Mass-Scale Genome Sequencing Will Change Our Understanding of Life",
-      "content_text": "The Earth BioGenome Project aims to sequence 1.8 million species. It's one of the most ambitious science projects ever, and it will revolutionize biology",
+      "id": "https://noetic.org/blog/death-lets-talk-about-it/",
+      "url": "https://noetic.org/blog/death-lets-talk-about-it/",
+      "title": "Turning Taboo Into Peace with Death: Let's Talk About It | IONS",
+      "content_text": "Marilyn Schlitz presents a wealth of teachings and practical guidance on how to turn a taboo topic into a source of peace.",
       "attachments": [
         {
-          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=61692640&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://noetic.org/blog/eyesense-training/",
-      "url": "https://noetic.org/blog/eyesense-training/",
-      "title": "Eyesense Training – An App for Testing the Sense of Being Stared At | IONS",
-      "content_text": "Test your ability to detect when someone is staring at you with Rupert Sheldrake’s new app",
-      "attachments": [
-        {
-          "url": "https://noetic.org/wp-content/uploads/2025/10/AdobeStock_456579777-scaled.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://aiforgood.itu.int/early-warning-for-all-leveraging-ai-to-reach-the-unconnected/",
-      "url": "https://aiforgood.itu.int/early-warning-for-all-leveraging-ai-to-reach-the-unconnected/",
-      "title": "Early Warning for All: Leveraging AI to reach the unconnected",
-      "content_text": "Connect with 51K enthusiasts from all over the world.",
-      "attachments": [
-        {
-          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/09/Early-warning-for-all-1024x576.png",
+          "url": "https://noetic.org/wp-content/uploads/2026/06/Death-Lets-Talk-About-It-Blog.png",
           "mime_type": "image/png"
         }
       ],
@@ -215,13 +110,13 @@
       ]
     },
     {
-      "id": "https://montrealethics.ai/the-ai-ethics-brief-174-the-unfinished-work-of-ai-ethics/",
-      "url": "https://montrealethics.ai/the-ai-ethics-brief-174-the-unfinished-work-of-ai-ethics/",
-      "title": "The AI Ethics Brief #174: The Unfinished Work of AI Ethics | Montreal AI Ethics Institute",
-      "content_text": "Revisiting Abhishek Gupta’s legacy on sustainability, creative labor, and global security one year after his passing.",
+      "id": "https://spectrum.ieee.org/jailbreaking-llms",
+      "url": "https://spectrum.ieee.org/jailbreaking-llms",
+      "title": "How Darth Vader Taught Me Card Counting and AI Security Got Weird",
+      "content_text": "It only took a little prompting to hijack the biggest AI models",
       "attachments": [
         {
-          "url": "https://montrealethics.ai/wp-content/uploads/2025/09/LoneThomasky-BitsBaumeDistortedForest-Path-2560x3612-1-scaled.png",
+          "url": "https://spectrum.ieee.org/media-library/glossy-red-robot-devil-standing-on-a-bundle-of-dynamite-against-blue-glow-background.png?id=67163741&width=1200&height=600&coordinates=0%2C750%2C0%2C750",
           "mime_type": "image/png"
         }
       ],
@@ -230,13 +125,13 @@
       ]
     },
     {
-      "id": "https://montrealethics.ai/all-in-conference-2025-four-key-takeaways-from-montreal/",
-      "url": "https://montrealethics.ai/all-in-conference-2025-four-key-takeaways-from-montreal/",
-      "title": "ALL IN Conference 2025: Four Key Takeaways from Montreal | Montreal AI Ethics Institute",
-      "content_text": "✍️ By Kei Baritugo. Kei is Director of Global Marketing Communications, Montreal AI Ethics Institute (MAIEI). More than 6,500 leaders and innovators from over 40 countries gathered in Montreal for the…",
+      "id": "https://spectrum.ieee.org/panasonic-camcorder-ieee-milstone",
+      "url": "https://spectrum.ieee.org/panasonic-camcorder-ieee-milstone",
+      "title": "Panasonic’s PV-460 Camcorder Stabilized Shaky Videos",
+      "content_text": "Its “anti-jitter” tech is in all modern cameras",
       "attachments": [
         {
-          "url": "https://montrealethics.ai/wp-content/uploads/2025/09/ALL-IN-@ISED_CA.jpg",
+          "url": "https://spectrum.ieee.org/media-library/a-panasonic-pv-460-vhs-camcorder.jpg?id=67124801&width=1200&height=600&coordinates=0%2C250%2C0%2C250",
           "mime_type": "image/jpeg"
         }
       ],
@@ -245,13 +140,43 @@
       ]
     },
     {
-      "id": "https://montrealethics.ai/ai-policy-corner-ai-and-security-in-africa-assessing-the-african-unions-continental-ai-strategy/",
-      "url": "https://montrealethics.ai/ai-policy-corner-ai-and-security-in-africa-assessing-the-african-unions-continental-ai-strategy/",
-      "title": "AI Policy Corner: AI and Security in Africa: Assessing the African Union’s Continental AI Strategy | Montreal AI Ethics Institute",
-      "content_text": "✍️ By Ogadinma Enwereazu Ogadinma is a Ph.D. Student in the department of Political Science and a Graduate Affiliate at the Governance and Responsible AI Lab (GRAIL), Purdue University.",
+      "id": "https://aiforgood.itu.int/first-global-and-experiential-bring-agentic-ai-learning-experience-to-190-countries-advancing-robotics-education/",
+      "url": "https://aiforgood.itu.int/first-global-and-experiential-bring-agentic-ai-learning-experience-to-190-countries-advancing-robotics-education/",
+      "title": "FIRST Global and Experiential Bring Agentic AI Learning Experience to 190+ Countries, Advancing Robotics Education",
+      "content_text": "FIRST Global Joins the UN ITU AI Skills Coalition; FIRST Global and XRP Kits Offer New Agentic AI module powered by FYI.AI  For Student Robotics Teams",
       "attachments": [
         {
-          "url": "https://montrealethics.ai/wp-content/uploads/2025/09/MAIEI-Cover-Blog.png",
+          "url": "https://s41721.pcdn.co/wp-content/uploads/2026/07/5b08c48d-f033-40df-88e9-a8bc18c2ff88-scaled-1.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/nokia-phones-history",
+      "url": "https://spectrum.ieee.org/nokia-phones-history",
+      "title": "Inside Nokia’s Race to Catch the iPhone and Android Wave",
+      "content_text": "How the iPhone and then Android killed the feature phone",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/two-young-girls-stand-in-front-of-a-glass-case-containing-2000-era-cellphones-behind-them-is-a-display-that-says-nokia.jpg?id=67118775&width=1200&height=600&coordinates=0%2C911%2C0%2C912",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
+      "url": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
+      "title": "Inside X Square Robot’s Bold Plan for Real Home Robots",
+      "content_text": "X Square Robot’s open embodied AI stack unifies data, world models, and action",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/humanoid-robot-folding-laundry-on-a-neatly-made-bed-in-a-sunlit-bedroom.png?id=67111698&width=1200&height=600&coordinates=0%2C42%2C0%2C43",
           "mime_type": "image/png"
         }
       ],
@@ -260,13 +185,103 @@
       ]
     },
     {
-      "id": "https://aiforgood.itu.int/whats-next-for-quantum-tiis-roadmap-from-research-to-impact/",
-      "url": "https://aiforgood.itu.int/whats-next-for-quantum-tiis-roadmap-from-research-to-impact/",
-      "title": "What’s next for quantum? TII’s roadmap from research to impact",
-      "content_text": "Connect with 51K enthusiasts from all over the world.",
+      "id": "https://aiforgood.itu.int/vietnam-won-two-second-prizes-at-the-global-finals-of-the-robotics-for-good-2026-competition/",
+      "url": "https://aiforgood.itu.int/vietnam-won-two-second-prizes-at-the-global-finals-of-the-robotics-for-good-2026-competition/",
+      "title": "Vietnam won two second prizes at the global finals of the Robotics for Good 2026 competition",
+      "content_text": "According to information from the STEM Education Promotion Alliance (SEPA) on July 11th, the two Vietnamese teams excellently won second place in the",
       "attachments": [
         {
-          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/TII_Quantum-for-Good_Article-1024x576.png",
+          "url": "https://s41721.pcdn.co/wp-content/uploads/2026/07/1783760187071_doi-tuyen-quoc-gia-viet-nam-tai-cuoc-thi-robotics-for-goods.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://aiforgood.itu.int/day-4-at-the-ai-for-good-global-summit-womens-leadership-education-and-human-progress-close-the-2026-edition/",
+      "url": "https://aiforgood.itu.int/day-4-at-the-ai-for-good-global-summit-womens-leadership-education-and-human-progress-close-the-2026-edition/",
+      "title": "Day 4 at the AI for Good Global Summit: Women's leadership, education and human progress close the 2026 edition",
+      "content_text": "GENEVA, July 10, 2026 - The AI for Good Global Summit concluded following four days of sessions that demonstrated the widespread application of artificial intelligence in a variety of sectors, including health and agriculture, mobility, education, creative industries, and public policy. The summit also raised awareness of quantum technologies, robotics, and the standards and infrastructure required to facilitate their widespread deployment.",
+      "attachments": [
+        {
+          "url": "https://s41721.pcdn.co/wp-content/uploads/2026/07/AI-for-Good-Global-Summit26_Day4_CenterStage_ClosingCeremony_03-10.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://aiforgood.itu.int/ai-for-goods-youth-zone-wraps-up-with-a-focus-on-responsible-design/",
+      "url": "https://aiforgood.itu.int/ai-for-goods-youth-zone-wraps-up-with-a-focus-on-responsible-design/",
+      "title": "AI for Good's Youth Zone Wraps Up With a Focus on Responsible Design",
+      "content_text": "GENEVA, 10 July 2026 — Today marked the end of the programme at the AI for Good Global Summit 2026's Youth Zone, which revisited a number of sessions from earlier in the week, and introduced two new sessions on safety and creative problem-solving.",
+      "attachments": [
+        {
+          "url": "https://s41721.pcdn.co/wp-content/uploads/2026/07/AI-for-Good-GlobalSummit26_Day4_Youth-Stage-_01-Robotics-Grand-Finale-26-_01-2.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://aiforgood.itu.int/the-robotics-for-good-youth-challenge-2026-comes-to-an-end-as-winners-are-awarded/",
+      "url": "https://aiforgood.itu.int/the-robotics-for-good-youth-challenge-2026-comes-to-an-end-as-winners-are-awarded/",
+      "title": "The Robotics for Good Youth Challenge 2026 comes to an end as winners are awarded",
+      "content_text": "Connect with 55K+ AI enthusiasts",
+      "attachments": [
+        {
+          "url": "https://s41721.pcdn.co/wp-content/uploads/2026/07/AIforGoodGlobalSummit26_Day04_CenterStage_Robochallengewinner_02-0958.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://aiforgood.itu.int/top-3-things-happening-on-day-4-of-the-ai-for-good-global-summit-2026/",
+      "url": "https://aiforgood.itu.int/top-3-things-happening-on-day-4-of-the-ai-for-good-global-summit-2026/",
+      "title": "Top 3 things happening on Day 4 of the AI for Good Global Summit 2026",
+      "content_text": "The Robotics for Good Youth Challenge Grand Finale will reach its conclusion on the Youth Stage from 14:10 to 14:45. After four days of competition, the challenge will come to an end, closing a season that opened the Youth Zone's programme on 7 July.",
+      "attachments": [
+        {
+          "url": "https://s41721.pcdn.co/wp-content/uploads/2026/07/AI-for-Good-Global-Summit26_Day1_YouthStage_general_03-11.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://aiforgood.itu.int/fifteen-minutes-to-convince-the-committee-meet-the-itu-kaleidoscope-2026-winners/",
+      "url": "https://aiforgood.itu.int/fifteen-minutes-to-convince-the-committee-meet-the-itu-kaleidoscope-2026-winners/",
+      "title": "Fifteen minutes to convince the committee: meet the ITU Kaleidoscope 2026 winners",
+      "content_text": "The 16th edition of the ITU Kaleidoscope academic conference wrapped up today in Geneva, after three days of peer-reviewed research presentations on AI and frontier technologies. The title of this conference, held under the auspices of the AI for Good Global Summit 2026, aptly reflects the nature of the entire programme: a weave of diverse perspectives emerging from the exchange among researchers from universities, industry and research institutions around the world to discuss how AI, quantum, space and strategic foresight can contribute to advancing sustainable and inclusive development.",
+      "attachments": [
+        {
+          "url": "https://s41721.pcdn.co/wp-content/uploads/2026/06/AIforGoodGlobalSummit26_Day03_RoomU_KaleidoscopeacademicConference_02-8982.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://noetic.org/blog/ions-sponsors-the-science-of-consciousness-2026/",
+      "url": "https://noetic.org/blog/ions-sponsors-the-science-of-consciousness-2026/",
+      "title": "Consciousness Takes Center Stage: IONS Sponsors The Science of Consciousness 2026 | IONS",
+      "content_text": "IONS is proud to sponsor The Science of Consciousness 2026, the world’s longest-running consciousness conference.",
+      "attachments": [
+        {
+          "url": "https://noetic.org/wp-content/uploads/2026/07/TSC-Main-Image.png",
           "mime_type": "image/png"
         }
       ],
@@ -275,13 +290,13 @@
       ]
     },
     {
-      "id": "https://noetic.org/blog/challenges-in-the-mind2mind-study/",
-      "url": "https://noetic.org/blog/challenges-in-the-mind2mind-study/",
-      "title": "Advancing the Science of Connection: Challenges in the Mind2Mind Study | IONS",
-      "content_text": "While recruitment for our telepathy study presents challenges, each step brings us closer to uncovering the mysteries of human connection.",
+      "id": "https://aiforgood.itu.int/day-3-at-the-ai-for-good-global-summit-deployment-creative-production-and-youth-led-innovation-move-into-focus/",
+      "url": "https://aiforgood.itu.int/day-3-at-the-ai-for-good-global-summit-deployment-creative-production-and-youth-led-innovation-move-into-focus/",
+      "title": "Day 3 at the AI for Good Global Summit: Deployment, creative production and youth-led innovation move into focus",
+      "content_text": "Connect with 55K+ AI enthusiasts",
       "attachments": [
         {
-          "url": "https://noetic.org/wp-content/uploads/2025/09/AdobeStock_336577742-scaled.jpeg",
+          "url": "https://s41721.pcdn.co/wp-content/uploads/2026/07/AI-for-Good-Global-Summit26_Day3_CentreStage_Raise-film-screening_03-21.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -290,13 +305,58 @@
       ]
     },
     {
-      "id": "https://aiforgood.itu.int/ai-for-healthcare-ai-for-humanity-ztes-vision-for-real-world-impact/",
-      "url": "https://aiforgood.itu.int/ai-for-healthcare-ai-for-humanity-ztes-vision-for-real-world-impact/",
-      "title": "AI for healthcare, AI for humanity: ZTE’s vision for real-world impact",
-      "content_text": "Connect with 51K enthusiasts from all over the world.",
+      "id": "https://aiforgood.itu.int/the-youth-zone-changes-register-girls-in-ict-day-opens-ai-for-goods-third-day/",
+      "url": "https://aiforgood.itu.int/the-youth-zone-changes-register-girls-in-ict-day-opens-ai-for-goods-third-day/",
+      "title": "The Youth Zone Changes Register: Girls in ICT Day Opens AI for Good's Third Day",
+      "content_text": "GENEVA, 9 July 2026 - International Girls in ICT Day 2026 was marked today by the Youth Zone at the AI for Good Global Summit 2026, under the theme \"AI for Development.\" Jointly organised by the @International Telecommunication Union and the United Kingdom, the event brought together up to 60 Geneva-based girls for a day woven of inspiration and exchange.",
       "attachments": [
         {
-          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/AI-for-healthcare-AI-for-humanity-1024x576.png",
+          "url": "https://s41721.pcdn.co/wp-content/uploads/2026/07/AI-for-Good-GlobalSummit26_Day3_Youth-Zone-_01-GirlsInICT_01-14-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://noetic.org/blog/ervin-laszlo-tribute/",
+      "url": "https://noetic.org/blog/ervin-laszlo-tribute/",
+      "title": "Tribute to Ervin László – IONS",
+      "content_text": "IONS Board Chair Claudia Welss remembers the extraordinary legacy of Ervin Laszlo.",
+      "attachments": [
+        {
+          "url": "https://noetic.org/wp-content/uploads/2026/07/ervin-laszlo-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://noetic.org/blog/research-prize-to-explore-uap-and-consciousness/",
+      "url": "https://noetic.org/blog/research-prize-to-explore-uap-and-consciousness/",
+      "title": "Fourth Annual Noetic Sciences Research Prize to Explore UAP and Consciousness | IONS",
+      "content_text": "The $100,000 Linda G. O’Bryant Prize will recognize bold new research frameworks investigating Unidentified Anomalous Phenomena (UAP).",
+      "attachments": [
+        {
+          "url": "https://noetic.org/wp-content/uploads/2026/06/iStock-1522368552-mobile.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://noetic.org/blog/veterans-turning-to-psychedelics-and-holistic-healing/",
+      "url": "https://noetic.org/blog/veterans-turning-to-psychedelics-and-holistic-healing/",
+      "title": "Rewiring Trauma: Why Veterans are Turning to Psychedelics and Holistic Healing for PTSD | IONS",
+      "content_text": "Explore the science behind alternative PTSD relief for veterans, from psychedelic therapies like ibogaine and DMT to holistic methods.",
+      "attachments": [
+        {
+          "url": "https://noetic.org/wp-content/uploads/2026/06/Veterans-and-PTSD-1-1.png",
           "mime_type": "image/png"
         }
       ],
@@ -305,13 +365,13 @@
       ]
     },
     {
-      "id": "https://noetic.org/blog/listen-to-edgar-on-his-birthday/",
-      "url": "https://noetic.org/blog/listen-to-edgar-on-his-birthday/",
-      "title": "Listen to Edgar on His Birthday | IONS",
-      "content_text": "A recording of Edgar was kindly shared with us. In honor of his birthday, we hope you listen and enjoy it as much as we do.",
+      "id": "https://noetic.org/blog/channelers-describe-the-same-extraterrestrials/",
+      "url": "https://noetic.org/blog/channelers-describe-the-same-extraterrestrials/",
+      "title": "What Happens When Three Channelers Describe the Same Extraterrestrials? | IONS",
+      "content_text": "IONS researchers used a structured protocol to compare trance-channeled accounts attributed to extraterrestrial intelligences.",
       "attachments": [
         {
-          "url": "https://noetic.org/wp-content/uploads/2025/09/space-657383_1280-1.jpg",
+          "url": "https://noetic.org/wp-content/uploads/2026/06/AdobeStock_409708478-scaled.jpeg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -320,13 +380,28 @@
       ]
     },
     {
-      "id": "https://aiforgood.itu.int/transforming-data-creating-value-sustaining-tomorrow-deepgreenxs-vision-for-the-future-of-finance/",
-      "url": "https://aiforgood.itu.int/transforming-data-creating-value-sustaining-tomorrow-deepgreenxs-vision-for-the-future-of-finance/",
-      "title": "Transforming data, creating value, sustaining tomorrow: DeepGreenX’s vision for the future of finance",
-      "content_text": "Connect with 51K enthusiasts from all over the world.",
+      "id": "https://noetic.org/blog/is-the-mind-quantum/",
+      "url": "https://noetic.org/blog/is-the-mind-quantum/",
+      "title": "Is the Mind Quantum? – IONS",
+      "content_text": "IONS Chief Scientist Dean Radin posits a new way to understand the mind-brain relationship and the implications of that idea.",
       "attachments": [
         {
-          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/DeepGreenX-Transforming-data.-Creating-value.-Sustaining-tomorrow-1024x576.png",
+          "url": "https://noetic.org/wp-content/uploads/2021/07/IONS_skye-studios-NDLLFxTELrU-800x800-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://noetic.org/blog/dean-radin-joe-rogan/",
+      "url": "https://noetic.org/blog/dean-radin-joe-rogan/",
+      "title": "Dean Radin on the Joe Rogan Experience – IONS",
+      "content_text": "Dean Radin sat down with Joe Rogan for a milestone conversation about the science of consciousness.",
+      "attachments": [
+        {
+          "url": "https://noetic.org/wp-content/uploads/2026/06/JRE-DEAN-THUMBNAIL-MOBILE.png",
           "mime_type": "image/png"
         }
       ],
@@ -335,13 +410,13 @@
       ]
     },
     {
-      "id": "https://aiforgood.itu.int/setting-the-scene-on-ai-governance/",
-      "url": "https://aiforgood.itu.int/setting-the-scene-on-ai-governance/",
-      "title": "Setting the Scene on AI Governance",
-      "content_text": "Connect with 51K enthusiasts from all over the world.",
+      "id": "https://montrealethics.ai/tech-futures-at-the-frontier-of-fear-uncertainty-and-doubt/",
+      "url": "https://montrealethics.ai/tech-futures-at-the-frontier-of-fear-uncertainty-and-doubt/",
+      "title": "Tech Futures | Montreal AI Ethics Institute",
+      "content_text": "✍️By Ismael Kherroubi Garcia, Founder & Co-lead of the Responsible Artificial Intelligence Network (RAIN), and Founder & CEO of Kairoi.",
       "attachments": [
         {
-          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/09/AdobeStock_1448759506-scaled.jpeg",
+          "url": "https://montrealethics.ai/wp-content/uploads/2026/06/piro4d-chess-2018670_1280.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -350,88 +425,13 @@
       ]
     },
     {
-      "id": "https://aiforgood.itu.int/join-yails-global-project-to-shape-the-future-of-ai-regulation/",
-      "url": "https://aiforgood.itu.int/join-yails-global-project-to-shape-the-future-of-ai-regulation/",
-      "title": "Join YAIL’s Global Project to Shape the Future of AI Regulation",
-      "content_text": "Connect with 51K enthusiasts from all over the world.",
+      "id": "https://noetic.org/blog/celebrating-jean-houston/",
+      "url": "https://noetic.org/blog/celebrating-jean-houston/",
+      "title": "Celebrating the Legendary Life of Jean Houston – IONS",
+      "content_text": "IONS honors the extraordinary life of Jean Houston.",
       "attachments": [
         {
-          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/09/AdobeStock_1268796956-scaled.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://noetic.org/blog/a-frequency-of-faith/",
-      "url": "https://noetic.org/blog/a-frequency-of-faith/",
-      "title": "A Frequency of Faith: What I Learned from a Scientist Who Measures Vibes | IONS",
-      "content_text": "What are we really talking about when we say “vibes”? Jeremy Koenig unveils the power of vibes with Garret Yount, PhD.",
-      "attachments": [
-        {
-          "url": "https://noetic.org/wp-content/uploads/2025/08/iStock-2184225147.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://montrealethics.ai/ai-policy-corner-restriction-vs-regulation-comparing-state-approaches-to-ai-mental-health-legislation/",
-      "url": "https://montrealethics.ai/ai-policy-corner-restriction-vs-regulation-comparing-state-approaches-to-ai-mental-health-legislation/",
-      "title": "AI Policy Corner: Restriction vs. Regulation: Comparing State Approaches to AI Mental Health Legislation | Montreal AI Ethics Institute",
-      "content_text": "✍️ By Ruth Sugiarto. Ruth is an Undergraduate Student in Computer Engineering and a Research Assistant at the Governance and Responsible AI Lab (GRAIL), Purdue University. 📌 Editor’s Note: This…",
-      "attachments": [
-        {
-          "url": "https://montrealethics.ai/wp-content/uploads/2025/09/rogelio-gonzalez-q7TwGiDElmU-unsplash-scaled.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://montrealethics.ai/beyond-dependency-the-hidden-risk-of-social-comparison-in-chatbot-companionship/",
-      "url": "https://montrealethics.ai/beyond-dependency-the-hidden-risk-of-social-comparison-in-chatbot-companionship/",
-      "title": "Beyond Dependency: The Hidden Risk of Social Comparison in Chatbot Companionship | Montreal AI Ethics Institute",
-      "content_text": "🔬 By Hamed Maleki. Hamed is a communication researcher currently completing a Master’s degree at the University of Wrocław in Poland. His work focuses on human–AI interaction…",
-      "attachments": [
-        {
-          "url": "https://montrealethics.ai/wp-content/uploads/2025/09/Dependency-and-Social-Comparison.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://montrealethics.ai/bridging-the-gap-addressing-the-legislative-gap-surrounding-non-consensual-deepfakes/",
-      "url": "https://montrealethics.ai/bridging-the-gap-addressing-the-legislative-gap-surrounding-non-consensual-deepfakes/",
-      "title": "Bridging the Gap: Addressing the Legislative Gap Surrounding Non-Consensual Deepfakes | Montreal AI Ethics Institute",
-      "content_text": "🔬 Original article by Alessandra Destison from Encode Canada. 📌 Editor’s Note: This is part of our Recess series, featuring university students from across Canada exploring ethical challenges in AI.",
-      "attachments": [
-        {
-          "url": "https://montrealethics.ai/wp-content/uploads/2025/09/tom-kotov-jIQqNvDihBA-unsplash-scaled.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://aiforgood.itu.int/how-falcon-llm-is-reshaping-accessibility-through-model-efficiency/",
-      "url": "https://aiforgood.itu.int/how-falcon-llm-is-reshaping-accessibility-through-model-efficiency/",
-      "title": "How Falcon LLM is reshaping accessibility through model efficiency",
-      "content_text": "Connect with 51K enthusiasts from all over the world.",
-      "attachments": [
-        {
-          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/TII_How-Falcon-LLM-is-reshaping-accessibility--1024x576.png",
+          "url": "https://noetic.org/wp-content/uploads/2026/05/Jean-Houston.png",
           "mime_type": "image/png"
         }
       ],
@@ -440,13 +440,73 @@
       ]
     },
     {
-      "id": "https://noetic.org/blog/our-bodies-know/",
-      "url": "https://noetic.org/blog/our-bodies-know/",
-      "title": "Our Bodies Know Before We Do | IONS",
-      "content_text": "Dan Brown's latest thriller, The Secret of Secrets, describes an experiment on presentiment.",
+      "id": "https://noetic.org/blog/twin-flame-journey/",
+      "url": "https://noetic.org/blog/twin-flame-journey/",
+      "title": "The Twin Flame Journey: A Path to Noetic Wisdom | IONS",
+      "content_text": "Theresa Cheung's latest book explores how the Twin Flame journey may be another language for noetic awakening and wisdom itself.",
       "attachments": [
         {
-          "url": "https://noetic.org/wp-content/uploads/2025/09/Dan-Brown-Book-Only.png",
+          "url": "https://noetic.org/wp-content/uploads/2026/05/AdobeStock_507919567-scaled.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://montrealethics.ai/keynote-talk-at-mission-hubs-forum2026-montreal-how-does-ai-impact-creative-agency-work-avoiding-goodharts-law/",
+      "url": "https://montrealethics.ai/keynote-talk-at-mission-hubs-forum2026-montreal-how-does-ai-impact-creative-agency-work-avoiding-goodharts-law/",
+      "title": "Keynote at MISSION Hubs Forum2026, Montreal: How does AI impact Creative Agency work? Avoiding Goodhart’s Law | Montreal AI Ethics Institute",
+      "content_text": "✍️ Column by Connor Wright, our Director of Partnerships. Photo Credit: Jackie Hutchinson on Unsplash Overview: Our Director of Partnerships, Connor Wright, was invited to speak at the MISSION Hubs…",
+      "attachments": [
+        {
+          "url": "https://montrealethics.ai/wp-content/uploads/2026/05/jackie-hutchinson-JJYzJXbwB20-unsplash.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://montrealethics.ai/recess-is-ai-in-law-school-a-helpful-tool-or-a-hidden-trap/",
+      "url": "https://montrealethics.ai/recess-is-ai-in-law-school-a-helpful-tool-or-a-hidden-trap/",
+      "title": "Recess: Is AI in Law School a Helpful Tool or a Hidden Trap? | Montreal AI Ethics Institute",
+      "content_text": "✍️By Emma Edney from Encode Canada. Emma is a BCL/JD McCall MacBain Scholar candidate at McGill University. Her interests include ethical issues surrounding personal information in technology and the…",
+      "attachments": [
+        {
+          "url": "https://montrealethics.ai/wp-content/uploads/2026/05/markus-winkler-XKKuY4ottJ0-unsplash.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://montrealethics.ai/recess-for-students-at-one-of-canadas-top-universities-how-much-ai-is-too-much-ai-when-guidelines-from-professors-remain-unclear/",
+      "url": "https://montrealethics.ai/recess-for-students-at-one-of-canadas-top-universities-how-much-ai-is-too-much-ai-when-guidelines-from-professors-remain-unclear/",
+      "title": "Recess: For students at one of Canada’s top universities, how much AI is too much AI when guidelines from professors remain unclear? | Montreal AI Ethics Institute",
+      "content_text": "✍️By Kennedy O’Neil from Encode Canada. Kennedy is an undergraduate sociology student at McGill University, with a minor in psychology, and a writer for Encode Canada. 📌 Editor’s Note: This piece is…",
+      "attachments": [
+        {
+          "url": "https://montrealethics.ai/wp-content/uploads/2026/05/ux-indonesia-0lwrK7v3jNk-unsplash.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://montrealethics.ai/tech-futures-introducing-the-resist-list/",
+      "url": "https://montrealethics.ai/tech-futures-introducing-the-resist-list/",
+      "title": "Tech Futures | Montreal AI Ethics Institute",
+      "content_text": "✍️By Ismael Kherroubi Garcia, Founder & Co-lead of the Responsible Artificial Intelligence Network (RAIN), and Founder & CEO of Kairoi.",
+      "attachments": [
+        {
+          "url": "https://montrealethics.ai/wp-content/uploads/2026/05/AI-Resist-List_.png",
           "mime_type": "image/png"
         }
       ],
@@ -455,73 +515,13 @@
       ]
     },
     {
-      "id": "https://aiforgood.itu.int/governing-advanced-ai-in-practice/",
-      "url": "https://aiforgood.itu.int/governing-advanced-ai-in-practice/",
-      "title": "Governing advanced AI in practice",
-      "content_text": "Connect with 51K enthusiasts from all over the world.",
+      "id": "https://montrealethics.ai/saier-vol-8-contribute/",
+      "url": "https://montrealethics.ai/saier-vol-8-contribute/",
+      "title": "State of AI Ethics Report Volume 8 (2026): Call for Contributors | Montreal AI Ethics Institute",
+      "content_text": "SAIER Volume 8 (2026) is now open for contributions. We are looking for practitioners, researchers, advocates, policymakers, and community members who are doing the work and who want to help document…",
       "attachments": [
         {
-          "url": "https://s41721.pcdn.co/wp-content/uploads/2025/08/From-principles-to-practice-Governing-advanced-AI-in-action.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://noetic.org/blog/what-is-channeling/",
-      "url": "https://noetic.org/blog/what-is-channeling/",
-      "title": "What Is Channeling? – IONS",
-      "content_text": "What is channeling? In her new book, IONS Director of Research Helané Wahbeh shares what she's learned by investigating 6 research questions.",
-      "attachments": [
-        {
-          "url": "https://noetic.org/wp-content/uploads/2021/04/IONS_DSC_3482-800x800-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://noetic.org/blog/non-physical-beings-in-reiki/",
-      "url": "https://noetic.org/blog/non-physical-beings-in-reiki/",
-      "title": "Beyond the Veil: Encounters with Non-Physical Beings in Reiki | IONS",
-      "content_text": "This study revealed unexpected reports of spirits, angels, and other non-physical beings during energy healing sessions.",
-      "attachments": [
-        {
-          "url": "https://noetic.org/wp-content/uploads/2025/09/iStock-1125632816.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://montrealethics.ai/beyond-consultation-building-inclusive-ai-governance-for-canadas-democratic-future/",
-      "url": "https://montrealethics.ai/beyond-consultation-building-inclusive-ai-governance-for-canadas-democratic-future/",
-      "title": "Beyond Consultation: Building Inclusive AI Governance for Canada’s Democratic Future | Montreal AI Ethics Institute",
-      "content_text": "✍️ By Renjie Butalid. Renjie is Co-founder and Director of the Montreal AI Ethics Institute (MAIEI). At the Victoria Forum 2025, “Towards a Better Future: Shifting the Trajectory,” lawmakers…",
-      "attachments": [
-        {
-          "url": "https://montrealethics.ai/wp-content/uploads/2025/09/Victoria-Forum-2025_Closing-Session.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://montrealethics.ai/ai-policy-corner-u-s-executive-order-on-advancing-ai-education-for-american-youth/",
-      "url": "https://montrealethics.ai/ai-policy-corner-u-s-executive-order-on-advancing-ai-education-for-american-youth/",
-      "title": "AI Policy Corner: U.S. Executive Order on Advancing AI Education for American Youth | Montreal AI Ethics Institute",
-      "content_text": "✍️ By Tasneem Ahmed. Tasneem is an Undergraduate Student in Political Science and a Research Assistant at the Governance and Responsible AI Lab (GRAIL), Purdue University. 📌 Editor’s Note: This…",
-      "attachments": [
-        {
-          "url": "https://montrealethics.ai/wp-content/uploads/2025/09/EO-AI-Education-for-American-Youth_.png",
+          "url": "https://montrealethics.ai/wp-content/uploads/2026/05/SAIER-Vol-8-2026-Call-for-Contributors_.png",
           "mime_type": "image/png"
         }
       ],
@@ -530,13 +530,13 @@
       ]
     },
     {
-      "id": "https://noetic.org/blog/nanobiosym-global-summit/",
-      "url": "https://noetic.org/blog/nanobiosym-global-summit/",
-      "title": "IONS Sponsors the Nanobiosym Global Summit 2.0: Quantum Convergence | IONS",
-      "content_text": "IONS is pleased to announce that we are helping to sponsor the Nanobiosym Global Summit 2.0: Quantum Convergence at MIT.",
+      "id": "https://www.oii.ox.ac.uk/how-social-media-interoperability-could-restore-user-choice/",
+      "url": "https://www.oii.ox.ac.uk/how-social-media-interoperability-could-restore-user-choice/",
+      "title": "OII | How social media interoperability could restore user choice",
+      "content_text": "Social networking interoperability is a leading policy proposal that gives users a real choice of platform providers. New evidence shows it only works if regulators get the specifics right, argues Philipp Riederle, doctoral researcher, OII.",
       "attachments": [
         {
-          "url": "https://noetic.org/wp-content/uploads/2025/08/iStock-1225888799-1-square.jpg",
+          "url": "https://www.oii.ox.ac.uk/wp-content/uploads/2026/07/PR-blog-image-small-700x395.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -545,13 +545,88 @@
       ]
     },
     {
-      "id": "https://noetic.org/blog/ions-award-recognizes-pioneering-advances-in-conscious-ai-research/",
-      "url": "https://noetic.org/blog/ions-award-recognizes-pioneering-advances-in-conscious-ai-research/",
-      "title": "$100,000 IONS Award Recognizes Pioneering Advances in Conscious AI Research | IONS",
-      "content_text": "Eight finalists selected for groundbreaking proposals on the design and assessment of conscious artificial intelligence frameworks.",
+      "id": "https://www.oii.ox.ac.uk/uk-adults-increasingly-seek-emotional-support-and-companionship-from-ai-new-report-finds/",
+      "url": "https://www.oii.ox.ac.uk/uk-adults-increasingly-seek-emotional-support-and-companionship-from-ai-new-report-finds/",
+      "title": "OII | UK adults increasingly seek emotional support and companionship from AI, new report finds",
+      "content_text": "New analysis from researchers at the Oxford Internet Institute reveals that users of artificial intelligence tools are increasingly turning to them for personal support, emotional advice, and companionship.",
       "attachments": [
         {
-          "url": "https://noetic.org/wp-content/uploads/2025/06/2025Prize-2240x1300-1-1024x594.png",
+          "url": "https://www.oii.ox.ac.uk/wp-content/uploads/2026/06/AdobeStock_970429634_Editorial_Use_Only-1-700x395.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.oii.ox.ac.uk/ai-powered-social-media-can-subtly-manipulate-opinion-at-scale-new-study-finds/",
+      "url": "https://www.oii.ox.ac.uk/ai-powered-social-media-can-subtly-manipulate-opinion-at-scale-new-study-finds/",
+      "title": "OII | AI-powered social media can subtly manipulate opinion at scale, new study finds",
+      "content_text": "AI tools used to generate, edit or contextualise social media posts can introduce hidden biases that spread through online networks and shape public opinion, according to new research from the OII and the Hasso Plattner Institute.",
+      "attachments": [
+        {
+          "url": "https://www.oii.ox.ac.uk/wp-content/uploads/2026/06/AdobeStock_1859822096-700x395.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.oii.ox.ac.uk/keeping-europes-technological-choices-open/",
+      "url": "https://www.oii.ox.ac.uk/keeping-europes-technological-choices-open/",
+      "title": "OII | Keeping Europe’s Technological Choices Open",
+      "content_text": "In an age of AI chokepoints, Europe’s choices will depend on the capacities it builds now. The OII's Johanna Ballesteros and TUM Think Tank's DR Nicklas Berild Lundblad explain why.",
+      "attachments": [
+        {
+          "url": "https://www.oii.ox.ac.uk/wp-content/uploads/2026/06/small-Johanna-Ballesteros-blog-image-1-700x395.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.oii.ox.ac.uk/rethinking-eu-ai-policy-why-public-subsidies-for-ai-should-deliver-real-wellbeing/",
+      "url": "https://www.oii.ox.ac.uk/rethinking-eu-ai-policy-why-public-subsidies-for-ai-should-deliver-real-wellbeing/",
+      "title": "OII | Rethinking EU AI policy: why public subsidies for AI should deliver real wellbeing",
+      "content_text": "A new working paper by OII researchers argues that EU technology policy should hold AI companies to account for actual public wellbeing, not just reduced risk.",
+      "attachments": [
+        {
+          "url": "https://www.oii.ox.ac.uk/wp-content/uploads/2026/06/Sandra-blog-image-700x395.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.oii.ox.ac.uk/expert-expert-comment-is-banning-under-16s-from-social-media-protection-or-exclusion/",
+      "url": "https://www.oii.ox.ac.uk/expert-expert-comment-is-banning-under-16s-from-social-media-protection-or-exclusion/",
+      "title": "OII | Expert Comment: Is banning under-16s from social media protection or exclusion?",
+      "content_text": "The OII's Dr Vicki Nash warns that a social media ban risks leaving teenagers 'protected' but disempowered, cut off from news, learning and support at the very moment the UK is preparing to give 16-year-olds the vote.",
+      "attachments": [
+        {
+          "url": "https://www.oii.ox.ac.uk/wp-content/uploads/2026/06/GettyImages-2232647460.jpg-700x395.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.oii.ox.ac.uk/oii-researchers-head-to-facct-2026/",
+      "url": "https://www.oii.ox.ac.uk/oii-researchers-head-to-facct-2026/",
+      "title": "OII | OII researchers head to FAccT 2026",
+      "content_text": "Researchers and DPhil students from the Oxford Internet Institute are set to attend the Association of Computing Machinery (ACM) Conference on Fairness, Accountability and Transparency (FAccT) in Montréal, from 25-28 June 2026.",
+      "attachments": [
+        {
+          "url": "https://www.oii.ox.ac.uk/wp-content/uploads/2026/05/FAccT-2026-700x395.png",
           "mime_type": "image/png"
         }
       ],
@@ -560,13 +635,13 @@
       ]
     },
     {
-      "id": "https://noetic.org/blog/energy-of-people-places-and-spaces-questions/",
-      "url": "https://noetic.org/blog/energy-of-people-places-and-spaces-questions/",
-      "title": "Exploring the Energy of People, Places, and Spaces — Through Your Questions | IONS",
-      "content_text": "IONS scientist Garret Yount answers your fascinating questions on exploring the science and mystery of subtle energy.",
+      "id": "https://www.oii.ox.ac.uk/the-efficiency-paradox-in-eu-data-centre-policy/",
+      "url": "https://www.oii.ox.ac.uk/the-efficiency-paradox-in-eu-data-centre-policy/",
+      "title": "OII | The efficiency paradox in EU data centre policy",
+      "content_text": "New EU reporting rules for data centre energy and water use may look like progress, but loopholes risk undermining genuine environmental accountability.",
       "attachments": [
         {
-          "url": "https://noetic.org/wp-content/uploads/2025/07/Gary-Vibes-Course-Square.jpg",
+          "url": "https://www.oii.ox.ac.uk/wp-content/uploads/2026/05/data-centres-700x395.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -575,13 +650,13 @@
       ]
     },
     {
-      "id": "https://www.oii.ox.ac.uk/news-events/lockdown-lessons-on-balance-and-belonging-at-work/",
-      "url": "https://www.oii.ox.ac.uk/news-events/lockdown-lessons-on-balance-and-belonging-at-work/",
-      "title": "OII | Lockdown lessons on balance and belonging at work",
-      "content_text": "OII doctoral researcher Lily Rodel explores what lockdown revealed about how we could all achieve the perfect work-life balance.",
+      "id": "https://www.oii.ox.ac.uk/friendly-ai-chatbots-make-more-mistakes-and-tell-people-what-they-want-to-hear-study-finds/",
+      "url": "https://www.oii.ox.ac.uk/friendly-ai-chatbots-make-more-mistakes-and-tell-people-what-they-want-to-hear-study-finds/",
+      "title": "OII | Friendly AI chatbots make more mistakes and tell people what they want to hear, study finds",
+      "content_text": "New Oxford research shows that training chatbots to sound warmer makes them up to 30% less accurate, and 40% more likely to validate users' false beliefs.",
       "attachments": [
         {
-          "url": "https://www.oii.ox.ac.uk/wp-content/uploads/2025/09/cat-700x395.jpg",
+          "url": "https://www.oii.ox.ac.uk/wp-content/uploads/2026/04/EliseRacine-TheBigger-PictureWebof-Influence-I-2560x1746-1-700x395.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -590,13 +665,13 @@
       ]
     },
     {
-      "id": "https://www.oii.ox.ac.uk/news-events/oxford-internet-institute-relocates-to-the-new-schwarzman-centre/",
-      "url": "https://www.oii.ox.ac.uk/news-events/oxford-internet-institute-relocates-to-the-new-schwarzman-centre/",
-      "title": "OII | Oxford Internet Institute relocates to the new Schwarzman Centre",
-      "content_text": "The Oxford Internet Institute (OII) has moved to its new home in the Stephen A. Schwarzman Centre for the Humanities.",
+      "id": "https://www.oii.ox.ac.uk/why-europe-needs-two-kinds-of-digital-sovereignty/",
+      "url": "https://www.oii.ox.ac.uk/why-europe-needs-two-kinds-of-digital-sovereignty/",
+      "title": "OII | Why Europe Needs Two Kinds of Digital Sovereignty",
+      "content_text": "Whether Europe shapes the next technological paradigm or simply inherits it depends on one overlooked distinction.",
       "attachments": [
         {
-          "url": "https://www.oii.ox.ac.uk/wp-content/uploads/2025/09/v4-SC-front-700x395.jpg",
+          "url": "https://www.oii.ox.ac.uk/wp-content/uploads/2026/04/AdobeStock_1918308986-700x395.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -605,13 +680,13 @@
       ]
     },
     {
-      "id": "https://www.oii.ox.ac.uk/news-events/new-report-calls-for-decisive-government-action-to-help-build-public-trust-in-ai/",
-      "url": "https://www.oii.ox.ac.uk/news-events/new-report-calls-for-decisive-government-action-to-help-build-public-trust-in-ai/",
-      "title": "OII | New report calls for decisive government action to help build public trust in AI",
-      "content_text": "A new paper from the Tony Blair Institute for Change, featuring a guest contribution from the OII’s Professor Helen Margetts, calls for government action to build better public trust in AI.",
+      "id": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+      "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
+      "content_text": "Plus: China's AI gap with the US may have just narrowed.",
       "attachments": [
         {
-          "url": "https://www.oii.ox.ac.uk/wp-content/uploads/2025/09/people-small-700x395.jpg",
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-2210176273.jpg?resize=1200%2C600",
           "mime_type": "image/jpeg"
         }
       ],
@@ -620,13 +695,148 @@
       ]
     },
     {
-      "id": "https://www.oii.ox.ac.uk/news-events/lofred-madzou-appointed-to-oii-advisory-board/",
-      "url": "https://www.oii.ox.ac.uk/news-events/lofred-madzou-appointed-to-oii-advisory-board/",
-      "title": "OII | Lofred Madzou appointed to OII Advisory Board",
-      "content_text": "The Oxford Internet Institute (OII) at the University of Oxford is delighted to announce the appointment of Lofred Madzou to its Advisory Board.",
+      "id": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
+      "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
+      "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
+      "content_text": "Discussions of the life stage are often clouded by misinformation.",
       "attachments": [
         {
-          "url": "https://www.oii.ox.ac.uk/wp-content/uploads/2025/09/Lofred_Madzou_WEF-700x395.png",
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-2210176273.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "title": "The risk of weather data sabotage is rising",
+      "content_text": "Prediction markets and a move toward AI forecasting are starting to put the accuracy of weather predictions at risk. Here’s what we can do to safeguard them.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/fantastical-tornado3a.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+      "content_text": "Plus: Elon Musk discreetly bought a $1 billion gas turbine firm to power Grok.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/spar-red.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
+      "url": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
+      "title": "Why heat pumps are still so hot in the US",
+      "content_text": "A key tax credit in the US ended, but heat pump sales are still going strong.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/technician-installing-a-modern-air-conditioning-sy-2026-03-20-06-17-16-utc.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "content_text": "Exclusive: The firm says it wants to future-proof its safety procedures and stay ahead of human attackers.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/spar-red.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+      "url": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+      "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+      "content_text": "Plus: Meta allegedly used AI to target workers with health issues for layoffs.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/PsiQuantum-0459-Headquarters-social.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+      "title": "The Download: Claude’s inner workings, and the future of world models",
+      "content_text": "Plus: New York has become the first state to enact a data center moratorium.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+      "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+      "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
+      "content_text": "The company has drawn governments, a major chipmaker, and the Pentagon into an effort to control fragile photons and build a useful quantum machine. It aims to be the first.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/PsiQuantum-0459-Headquarters-social.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "content_text": "The company says it has found a new window into how its models arrive at answers. We spoke with senior editor Will Douglas Heaven about it.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://montrealethics.ai/the-ai-ethics-brief-194-who-builds-who-depends-who-decides/",
+      "url": "https://montrealethics.ai/the-ai-ethics-brief-194-who-builds-who-depends-who-decides/",
+      "title": "The AI Ethics Brief #194: Who Builds, Who Depends, Who Decides",
+      "content_text": "Three new reports show how AI power is concentrating, and why participation has to include the right to refuse.",
+      "attachments": [
+        {
+          "url": "https://substackcdn.com/image/fetch/$s_!x6uT!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97a94274-f118-4b4e-9217-f162a5ec87e9_1280x720.png",
           "mime_type": "image/png"
         }
       ],
@@ -635,13 +845,13 @@
       ]
     },
     {
-      "id": "https://www.oii.ox.ac.uk/news-events/in-memoriam-dame-stephanie-shirley-ch-dbe-obe/",
-      "url": "https://www.oii.ox.ac.uk/news-events/in-memoriam-dame-stephanie-shirley-ch-dbe-obe/",
-      "title": "OII | In memoriam: Dame Stephanie Shirley, CH, DBE, OBE",
-      "content_text": "The OII pays tribute to its founding donor Dame Stephanie Shirley, CH, DBE, OBE.",
+      "id": "https://montrealethics.ai/the-ai-ethics-brief-193-acm-facct-comes-to-montreal/",
+      "url": "https://montrealethics.ai/the-ai-ethics-brief-193-acm-facct-comes-to-montreal/",
+      "title": "The AI Ethics Brief #193: ACM FAccT Comes to Montreal",
+      "content_text": "FAccT lands in Montreal and the Vatican enters the AI debate. Both circle the same question: who holds power over AI, and who can refuse it?",
       "attachments": [
         {
-          "url": "https://www.oii.ox.ac.uk/wp-content/uploads/2025/08/Dame-Stephanie-with-OII-signage--700x395.jpg",
+          "url": "https://substackcdn.com/image/fetch/$s_!zPrT!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ecc05f4-95a2-4f68-bf2c-dccd5e930020_1920x1367.jpeg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -650,13 +860,13 @@
       ]
     },
     {
-      "id": "https://www.oii.ox.ac.uk/news-events/ai-is-not-an-agent-ai-is-a-tool/",
-      "url": "https://www.oii.ox.ac.uk/news-events/ai-is-not-an-agent-ai-is-a-tool/",
-      "title": "OII | AI is not an agent – AI is a tool",
-      "content_text": "Professor Anoush Margaryan, Visiting Research Fellow at the OII considers how we should frame AI: competitor, collaborator, or tool?",
+      "id": "https://montrealethics.ai/the-ai-ethics-brief-192-canada-has-a-national-ai-strategy-the-hard-questions-come-next/",
+      "url": "https://montrealethics.ai/the-ai-ethics-brief-192-canada-has-a-national-ai-strategy-the-hard-questions-come-next/",
+      "title": "The AI Ethics Brief #192: Canada Has a National AI Strategy. The Hard Questions Come Next.",
+      "content_text": "On Adoption, Sovereignty, and the Questions the Strategy Leaves for Later.",
       "attachments": [
         {
-          "url": "https://www.oii.ox.ac.uk/wp-content/uploads/2025/08/Anoush-blog-small-700x395.jpg",
+          "url": "https://substackcdn.com/image/fetch/$s_!F-dq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7bfb407b-33ac-4901-b3e3-f4f3a6a19a6e_1050x700.jpeg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -665,28 +875,13 @@
       ]
     },
     {
-      "id": "https://www.oii.ox.ac.uk/news-events/oii-researchers-will-propose-new-methods-to-address-nlp-model-inequalities-at-acl-2025/",
-      "url": "https://www.oii.ox.ac.uk/news-events/oii-researchers-will-propose-new-methods-to-address-nlp-model-inequalities-at-acl-2025/",
-      "title": "OII | OII researchers will address NLP model inequalities at ACL 2025",
-      "content_text": "Researchers including DPhil students from the Oxford Internet Institute will present new research and share recent findings at the 63rd Annual Meeting of the Association for Computational Linguistics (ACL) in Vienna.",
+      "id": "https://montrealethics.ai/the-ai-ethics-brief-191-the-terms-of-the-bargain/",
+      "url": "https://montrealethics.ai/the-ai-ethics-brief-191-the-terms-of-the-bargain/",
+      "title": "The AI Ethics Brief #191: The Terms of the Bargain",
+      "content_text": "What we give up, who gets to refuse, and the road to SAIER Volume 8 (2026).",
       "attachments": [
         {
-          "url": "https://www.oii.ox.ac.uk/wp-content/uploads/2025/07/act-2025-VIENNA-smaller-700x395.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.oii.ox.ac.uk/news-events/beyond-safety-the-digital-environment-we-owe-children/",
-      "url": "https://www.oii.ox.ac.uk/news-events/beyond-safety-the-digital-environment-we-owe-children/",
-      "title": "OII | Beyond Safety: The Digital Environment We Owe Children",
-      "content_text": "Discussions around child internet safety often assume a hostile online environment, focusing on harm prevention. OII VPF Rony Yuria argues that redesigning the online environment itself will help make safety a natural outcome.",
-      "attachments": [
-        {
-          "url": "https://www.oii.ox.ac.uk/wp-content/uploads/2025/07/BeyondSafety_image-700x395.png",
+          "url": "https://substackcdn.com/image/fetch/$s_!UEn6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F149bbfbc-333a-48b9-bf1b-29ddf94528fa_2066x761.png",
           "mime_type": "image/png"
         }
       ],
@@ -695,213 +890,14 @@
       ]
     },
     {
-      "id": "https://www.oii.ox.ac.uk/news-events/consequences-of-a-skewed-discourse-around-generative-ai-and-elections/",
-      "url": "https://www.oii.ox.ac.uk/news-events/consequences-of-a-skewed-discourse-around-generative-ai-and-elections/",
-      "title": "OII | Consequences of a skewed discourse around generative AI and elections",
-      "content_text": "Dr Felix Simon and Dr Sacha Altay assess the evidence and discourse around generative AI and elections.",
+      "id": "https://content.knowledgehub.wiley.com/understanding-vhf-very-high-frequency-propagation/",
+      "url": "https://content.knowledgehub.wiley.com/understanding-vhf-very-high-frequency-propagation/",
+      "title": "Understanding VHF (Very High Frequency) Propagation - Wiley Science and Engineering Content Hub",
+      "content_text": "Download this complimentary White Paper today! This white paper explains how VHF signals actually propagate in real-world environments. It covers both common and uncommon modes that determine coverage, interference, and long-distance reliability. What you will learn about:  Why pure line-of-sight propagation at VHF is rare beyond a few kilometers. How refraction, reflection, diffraction, and scattering reshape signal paths in ways that simple geometry cannot predict. How the troposphere bends VHF signals downward, extending the radio horizon roughly one-third beyond optical line of sight. Why uncommon modes such as sporadic E, meteor burst, and EME matter How these phenomena present significant interference and planning implications  for very long distance VHF propagation. How to evaluate ",
       "attachments": [
         {
-          "url": "https://www.oii.ox.ac.uk/wp-content/uploads/2025/07/Google_AI_Studio_2025-07-16T15_34_42.516Z-700x395.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.oii.ox.ac.uk/news-events/oiibeyondthebooks-gives-a-glimpse-of-student-life-at-the-oii-and-beyond/",
-      "url": "https://www.oii.ox.ac.uk/news-events/oiibeyondthebooks-gives-a-glimpse-of-student-life-at-the-oii-and-beyond/",
-      "title": "OII | #OIIBeyondtheBooks Gives a Glimpse of Student Life at the OII and Beyond",
-      "content_text": "From unique findings in niche research topics, commonly misunderstood concepts in AI and technology, and what it’s like to be a theologian in an department, OII students share all.",
-      "attachments": [
-        {
-          "url": "https://www.oii.ox.ac.uk/wp-content/uploads/2025/07/landscape-hero-image-for-webstory-700x395.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/10/06/1124939/the-download-introducing-the-10-climate-tech-companies-to-watch-for-2025/",
-      "url": "https://www.technologyreview.com/2025/10/06/1124939/the-download-introducing-the-10-climate-tech-companies-to-watch-for-2025/",
-      "title": "The Download: introducing the 10 climate tech companies to watch for 2025",
-      "content_text": "Plus: ICE is planning a social media surveillance team",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/MITTR-CT1025-Social-1.png?resize=1200%2C600",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/10/06/1124257/2025-climate-tech-companies-to-watch/",
-      "url": "https://www.technologyreview.com/2025/10/06/1124257/2025-climate-tech-companies-to-watch/",
-      "title": "2025 Climate Tech Companies to Watch",
-      "content_text": "MIT Technology Review's annual list of companies that are taking meaningful steps to reduce emissions and mitigate the impacts of climate change.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/MITTR-CT1025-Social-1.png?resize=1200%2C600",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/10/06/1124265/bill-gates-ingenuity-climate-change-tech-investment/",
-      "url": "https://www.technologyreview.com/2025/10/06/1124265/bill-gates-ingenuity-climate-change-tech-investment/",
-      "title": "Bill Gates: Our best weapon against climate change is ingenuity",
-      "content_text": "A measure I call the Green Premium reveals where we can invest in climate progress for maximum impact.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/Bill-Gates_Headshot_social.jpg?resize=1200%2C600",
+          "url": "https://content.knowledgehub.wiley.com/wp-content/uploads/2026/06/On-Demand-ON24-Header.jpg",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/10/06/1124270/2025-climate-tech-companies-to-watch-hina-battery-salt-cells/",
-      "url": "https://www.technologyreview.com/2025/10/06/1124270/2025-climate-tech-companies-to-watch-hina-battery-salt-cells/",
-      "title": "2025 Climate Tech Companies to Watch: HiNa Battery Technology and its effort to commercialize salt cells",
-      "content_text": "The Chinese startup has begun mass-producing two types of sodium-ion batteries and plans to launch a third this month.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/100-MWh-level-sodium-ion-battery-energy-storage-power-station-2.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/10/06/1124275/2025-climate-tech-companies-to-watch-methodology/",
-      "url": "https://www.technologyreview.com/2025/10/06/1124275/2025-climate-tech-companies-to-watch-methodology/",
-      "title": "How we picked promising climate tech companies in an especially unsettling year",
-      "content_text": "And what distinguishes the firms that made the 2025 edition of our annual list of Climate Tech Companies to Watch.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/GettyImages-1446158491.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/10/06/1124278/2025-climate-tech-companies-to-watch-pairwise-gene-edited-crops/",
-      "url": "https://www.technologyreview.com/2025/10/06/1124278/2025-climate-tech-companies-to-watch-pairwise-gene-edited-crops/",
-      "title": "2025 Climate Tech Companies to Watch: Pairwise and its climate-adapted crops",
-      "content_text": "The company is gene editing crops to make our food supply more resilient to climate change.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/244A0057.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/10/06/1124280/2025-climate-tech-companies-to-watch-cemvision-low-emissions-cement/",
-      "url": "https://www.technologyreview.com/2025/10/06/1124280/2025-climate-tech-companies-to-watch-cemvision-low-emissions-cement/",
-      "title": "2025 Climate Tech Companies to Watch: Cemvision and its low-emissions cement",
-      "content_text": "The startup is using waste materials and alternative fuels to make cement, slashing greenhouse gas emissions in a polluting industry.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/Cemvision_StEriksDJI_0819_1.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/10/06/1124282/2025-climate-tech-companies-to-watch-traton-electric-trucks/",
-      "url": "https://www.technologyreview.com/2025/10/06/1124282/2025-climate-tech-companies-to-watch-traton-electric-trucks/",
-      "title": "2025 Climate Tech Companies to Watch: Traton and its electric trucks",
-      "content_text": "The company is boosting production to meet rising demand for its zero-emission rigs.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/P_Bus_CDE_NEO_Tourliner.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/10/06/1124284/2025-climate-tech-companies-to-watch-ather-energy-premium-escooters/",
-      "url": "https://www.technologyreview.com/2025/10/06/1124284/2025-climate-tech-companies-to-watch-ather-energy-premium-escooters/",
-      "title": "2025 Climate Tech Companies to Watch: Ather Energy and its premium e-scooters",
-      "content_text": "A few EV makers in India went belly up after the government abruptly scaled back incentives and cracked down on the misuse of subsidies. Ather survived the storm and sales are increasing.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/Ather-rizta-charging.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2025/10/06/1124287/2025-climate-tech-companies-to-watch-cyclic-materials-rare-earth-recycling/",
-      "url": "https://www.technologyreview.com/2025/10/06/1124287/2025-climate-tech-companies-to-watch-cyclic-materials-rare-earth-recycling/",
-      "title": "2025 Climate Tech Companies to Watch: Cyclic Materials and its rare earth recycling tech",
-      "content_text": "The startup is poised to become a global leader in recycling rare earth magnets from old EVs, wind turbines, and more.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/LIBRARY-3.00_07_20_22.Still006.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://montrealethics.ai/the-ai-ethics-brief-172-the-state-of-ai-ethics-in-2025-whats-actually-working/",
-      "url": "https://montrealethics.ai/the-ai-ethics-brief-172-the-state-of-ai-ethics-in-2025-whats-actually-working/",
-      "title": "The AI Ethics Brief #172: The State of AI Ethics in 2025: What's Actually Working",
-      "content_text": "SAIER Volume 7 Returns in November 2025 with Practical Solutions from Communities Leading the Way",
-      "attachments": [
-        {
-          "url": "https://substackcdn.com/image/fetch/$s_!r4uJ!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa10ac77a-6e9b-4f43-bca2-6d78417d0326_2000x1335.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "http://www.unep.org/resources/Global-Resource-Outlook-2024",
-      "url": "http://www.unep.org/resources/Global-Resource-Outlook-2024",
-      "title": "Global Resources Outlook 2024",
-      "content_text": "The world is in the midst of a triple planetary crisis of climate change, biodiversity loss and pollution and waste. The global economy is consuming ever more natural resources, while the world is not on track to meet the Sustainable Development Goals.",
-      "attachments": [
-        {
-          "url": "https://cdn.unenvironment.org/styles/topics_content_promo/s3/2024-02/GRO%20Cover-banner.jpg?itok=MkkBw5De",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/jaHZwExw7OA?rel=0&showinfo=1&hl=en-US",
-          "mime_type": "video/mp4"
         }
       ],
       "tags": [

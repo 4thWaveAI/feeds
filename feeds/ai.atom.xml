@@ -4,386 +4,425 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai</id>
-  <updated>Tue, 07 Oct 2025 05:40:38 +0000</updated>
+  <updated>Mon, 20 Jul 2026 04:14:45 +0000</updated>
   <entry>
-    <title>Speeding Up Data Decompression with nvCOMP and the NVIDIA Blackwell Decompression Engine | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/speeding-up-data-decompression-with-nvcomp-and-the-nvidia-blackwell-decompression-engine/"/>
-    <id>https://developer.nvidia.com/blog/speeding-up-data-decompression-with-nvcomp-and-the-nvidia-blackwell-decompression-engine/</id>
-    <summary type="text">Compression is a common technique to reduce storage costs and accelerate input/output transfer times across databases, data-center communications, high-performance computing, deep learning, and more.</summary>
-    <updated>Mon, 06 Oct 2025 16:00:00 +0000</updated>
+    <title>NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI</title>
+    <link href="https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/"/>
+    <id>https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/</id>
+    <summary type="text">Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.</summary>
+    <updated>Fri, 17 Jul 2026 15:00:14 +0000</updated>
   </entry>
   <entry>
-    <title>Streamline Robot Learning with Whole-Body Control and Enhanced Teleoperation in NVIDIA Isaac Lab 2.3 | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/streamline-robot-learning-with-whole-body-control-and-enhanced-teleoperation-in-nvidia-isaac-lab-2-3/"/>
-    <id>https://developer.nvidia.com/blog/streamline-robot-learning-with-whole-body-control-and-enhanced-teleoperation-in-nvidia-isaac-lab-2-3/</id>
-    <summary type="text">Training robot policies from real-world demonstrations is costly, slow, and prone to overfitting, limiting generalization across tasks and environments. A sim-first approach streamlines development…</summary>
-    <updated>Mon, 29 Sep 2025 15:12:20 +0000</updated>
+    <title>Q&amp;A: How Capcom Brought Path Tracing to RE ENGINE Across PRAGMATA and Resident Evil Requiem | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem/"/>
+    <id>https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem/</id>
+    <summary type="text">Capcom’s RE ENGINE team set out to bring path tracing into two shipping titles at once, Resident Evil Requiem and PRAGMATA, each with a different visual identity. Over two years, the RE ENGINE team…</summary>
+    <updated>Thu, 16 Jul 2026 22:59:09 +0000</updated>
   </entry>
   <entry>
-    <title>Train a Quadruped Locomotion Policy and Simulate Cloth Manipulation with NVIDIA Isaac Lab and Newton | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/train-a-quadruped-locomotion-policy-and-simulate-cloth-manipulation-with-nvidia-isaac-lab-and-newton/"/>
-    <id>https://developer.nvidia.com/blog/train-a-quadruped-locomotion-policy-and-simulate-cloth-manipulation-with-nvidia-isaac-lab-and-newton/</id>
-    <summary type="text">Physics plays a crucial role in robotic simulation, providing the foundation for accurate virtual representations of robot behavior and interactions within realistic environments.</summary>
-    <updated>Mon, 29 Sep 2025 15:11:31 +0000</updated>
+    <title>Integrating Context-Aware Video AI Agents Into Enterprise Workflows | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/"/>
+    <id>https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/</id>
+    <summary type="text">A video analytics AI agent that can perceive, reason, and act based on massive amounts of video footage must be integrated with existing workflows and applications to be useful.</summary>
+    <updated>Thu, 16 Jul 2026 16:03:35 +0000</updated>
   </entry>
   <entry>
-    <title>Smart Multi-Node Scheduling for Fast and Efficient LLM Inference with NVIDIA Run:ai and NVIDIA Dynamo | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/smart-multi-node-scheduling-for-fast-and-efficient-llm-inference-with-nvidia-runai-and-nvidia-dynamo/"/>
-    <id>https://developer.nvidia.com/blog/smart-multi-node-scheduling-for-fast-and-efficient-llm-inference-with-nvidia-runai-and-nvidia-dynamo/</id>
-    <summary type="text">The exponential growth in large language model complexity has created challenges, such as models too large for single GPUs, workloads that demand high throughput and low latency…</summary>
-    <updated>Mon, 29 Sep 2025 15:00:00 +0000</updated>
+    <title>Scaling Agentic AI Factories Through Extreme Co-Design with NVIDIA BlueField | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/scaling-agentic-ai-factories-through-extreme-co-design-with-nvidia-bluefield/"/>
+    <id>https://developer.nvidia.com/blog/scaling-agentic-ai-factories-through-extreme-co-design-with-nvidia-bluefield/</id>
+    <summary type="text">Agentic AI changes the infrastructure pattern for AI factories. One request can trigger many model calls, tool calls, memory lookups, policy checks, storage accesses, and network transfers before a…</summary>
+    <updated>Thu, 16 Jul 2026 16:00:00 +0000</updated>
   </entry>
   <entry>
-    <title>3 Easy Ways to Supercharge Your Robotics Development Using OpenUSD | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/3-easy-ways-to-supercharge-your-robotics-development-using-openusd/"/>
-    <id>https://developer.nvidia.com/blog/3-easy-ways-to-supercharge-your-robotics-development-using-openusd/</id>
-    <summary type="text">The increasing demand for robotics is driving the need for physics-accurate simulation at an unprecedented scale. Universal Scene Description (OpenUSD) is key to this transformation…</summary>
-    <updated>Mon, 29 Sep 2025 15:00:00 +0000</updated>
+    <title>Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW</title>
+    <link href="https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/"/>
+    <id>https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/</id>
+    <summary type="text">Plus, GeForce NOW launches in India moving from beta to public availability, and delivers ‘Denshattack!’ alongside five new games this week.</summary>
+    <updated>Thu, 16 Jul 2026 13:00:34 +0000</updated>
   </entry>
   <entry>
-    <title>Advancing Robotics Development with Neural Dynamics in Newton | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/advancing-robotics-development-with-neural-dynamics-in-newton/"/>
-    <id>https://developer.nvidia.com/blog/advancing-robotics-development-with-neural-dynamics-in-newton/</id>
-    <summary type="text">Modern robotics requires more than what classical analytic dynamics provides because of simplified contacts, omitted kinematic loops, and non-differentiable models. Neural Robot Dynamics (NeRD)…</summary>
-    <updated>Mon, 29 Sep 2025 15:00:00 +0000</updated>
+    <title>Google DeepMind and Isomorphic Labs approach to bioresilience</title>
+    <link href="https://deepmind.google/blog/our-approach-to-bioresilience/"/>
+    <id>https://deepmind.google/blog/our-approach-to-bioresilience/</id>
+    <summary type="text">Google DeepMind and Isomorphic Labs approach to bioresilience, using AI models to support prevention, detection and response.</summary>
+    <updated>Thu, 16 Jul 2026 11:00:00 +0000</updated>
   </entry>
   <entry>
-    <title>Canada Goes All In on AI: NVIDIA Joins Nations’ Technology Leaders in Montreal to Shape Sovereign AI Strategy</title>
-    <link href="https://blogs.nvidia.com/blog/canada-all-in/"/>
-    <id>https://blogs.nvidia.com/blog/canada-all-in/</id>
-    <summary type="text">NVIDIA’s Kari Briski joins Canada’s AI Minister Evan Solomon and Cohere’s Aidan Gomez in a panel this week, as TELUS unveils Canada’s first fully sovereign AI factory in Rimouski and RBC Capital Markets creates AI agents for financial services.</summary>
-    <updated>Wed, 24 Sep 2025 16:20:41 +0000</updated>
+    <title>Connect more of your apps to Search</title>
+    <link href="https://blog.google/products-and-platforms/products/search/connected-apps/"/>
+    <id>https://blog.google/products-and-platforms/products/search/connected-apps/</id>
+    <summary type="text">You’ll be able to securely link and interact with your go-to services directly in AI Mode.</summary>
+    <updated>Thu, 16 Jul 2026 00:00:00 -0000</updated>
   </entry>
   <entry>
-    <title>NVIDIA, OpenAI Announce &#x27;the Biggest AI Infrastructure Deployment in History&#x27;</title>
-    <link href="https://blogs.nvidia.com/blog/openai-nvidia/"/>
-    <id>https://blogs.nvidia.com/blog/openai-nvidia/</id>
-    <summary type="text">OpenAI and NVIDIA announced a partnership that will scale OpenAI’s compute with at least 10 gigawatts of data centers powered by millions of GPUs.</summary>
-    <updated>Mon, 22 Sep 2025 18:38:58 +0000</updated>
+    <title>Create, edit and star in videos with two Google Vids updates</title>
+    <link href="https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/"/>
+    <id>https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/</id>
+    <summary type="text">Gemini Omni and personal avatars in Google Vids make video creation easier than ever.</summary>
+    <updated>Thu, 16 Jul 2026 00:00:00 -0000</updated>
   </entry>
   <entry>
-    <title>The UK’s ‘Goldilocks Moment for AI’: NVIDIA, UK and US Leaders Highlight AI Infrastructure Investments</title>
-    <link href="https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/"/>
-    <id>https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/</id>
-    <summary type="text">NVIDIA founder and CEO Jensen Huang discussed the UK’s plans to become an AI superpower with UK Prime Minister Keir Starmer, UK Secretary of State for Science, Innovation and Technology Liz Kendall, UK Secretary of State for Business and Trade Peter Kyle, and US Secretary of Commerce Howard Lutnick.</summary>
-    <updated>Thu, 18 Sep 2025 21:21:03 +0000</updated>
+    <title>NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI</title>
+    <link href="https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/"/>
+    <id>https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/</id>
+    <summary type="text">New NVIDIA Blackwell-powered T3000 and T2000 modules, paired with new NVIDIA Jetson software memory optimization and agent skills, help partners and customers move advanced robotics, visual AI and edge workloads onto compact, power-efficient systems.</summary>
+    <updated>Wed, 15 Jul 2026 23:00:54 +0000</updated>
   </entry>
   <entry>
-    <title>Unlocking the potential of manufacturing with cloud modernization - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/19/unlocking-the-potential-of-manufacturing-with-cloud-modernization/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/19/unlocking-the-potential-of-manufacturing-with-cloud-modernization/</id>
-    <summary type="text">Uncover how manufacturers use AI and cloud to optimize operations, accelerate R&amp;D, and deliver real business value. Learn more.</summary>
-    <updated>Tue, 19 Aug 2025 15:00:00 +0000</updated>
+    <title>Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/"/>
+    <id>https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/</id>
+    <summary type="text">Developers building video analytics applications across large spaces must track the same object as it moves between camera views. Single-camera 2D tracking lacks reliable depth information and…</summary>
+    <updated>Wed, 15 Jul 2026 23:00:00 +0000</updated>
   </entry>
   <entry>
-    <title>Embracing AI-powered operations: A maturity path for manufacturers - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/07/embracing-ai-powered-operations-a-maturity-path-for-manufacturers/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/08/07/embracing-ai-powered-operations-a-maturity-path-for-manufacturers/</id>
-    <summary type="text">Discover how manufacturers are embracing AI to boost efficiency, resilience, and innovation with Microsoft’s guidance. Learn more.</summary>
-    <updated>Thu, 07 Aug 2025 14:00:00 +0000</updated>
+    <title>Develop Lightweight USD Runtimes Faster with AI Agents | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents/"/>
+    <id>https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents/</id>
+    <summary type="text">OpenUSD is an open, extensible framework that provides a common scene description language for physical AI. It enables teams to bring CAD data, simulation assets, and real-world telemetry into a…</summary>
+    <updated>Wed, 15 Jul 2026 21:57:23 +0000</updated>
   </entry>
   <entry>
-    <title>Unlocking the Future of Surface Finishing with AI-Powered Adaptive Robotics</title>
-    <link href="https://www.palladyneai.com/blog/unlocking-the-future-of-surface-finishing-with-ai-powered-adaptive-robotics/"/>
-    <id>https://www.palladyneai.com/blog/unlocking-the-future-of-surface-finishing-with-ai-powered-adaptive-robotics/</id>
-    <summary type="text">Discover how AI software is revolutionizing surface finishing by tackling labor shortages, increasing consistency, and accelerating automation.</summary>
-    <updated>Tue, 22 Jul 2025 15:46:23 +0000</updated>
+    <title>Building Faster Cryptography with Carryless Multiplication in NVIDIA CUDA 13.3 | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/building-faster-cryptography-with-carryless-multiplication-in-nvidia-cuda-13-3/"/>
+    <id>https://developer.nvidia.com/blog/building-faster-cryptography-with-carryless-multiplication-in-nvidia-cuda-13-3/</id>
+    <summary type="text">For over fifteen years, x86 CPUs have shipped with a dedicated hardware instruction for carryless multiplication. It’s a small but stubborn primitive that sits underneath authenticated encryption…</summary>
+    <updated>Wed, 15 Jul 2026 17:37:12 +0000</updated>
   </entry>
   <entry>
-    <title>Time-to-Value Speeds Up with Emerging AI-Enabled Robotics Automation</title>
-    <link href="https://www.palladyneai.com/blog/time-to-value-speeds-up-with-emerging-ai-enabled-robotics-automation/"/>
-    <id>https://www.palladyneai.com/blog/time-to-value-speeds-up-with-emerging-ai-enabled-robotics-automation/</id>
-    <summary type="text">ABI Research report explores how AI-enabled robotics automation with a human element boosts manufacturing.</summary>
-    <updated>Tue, 10 Jun 2025 16:41:28 +0000</updated>
+    <title>NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry</title>
+    <link href="https://blogs.nvidia.com/blog/japan-ecosystem-2026/"/>
+    <id>https://blogs.nvidia.com/blog/japan-ecosystem-2026/</id>
+    <summary type="text">NVIDIA and its partners in Japan are this week showcasing the AI ecosystem&#x27;s latest advancements. Check back here for updates.</summary>
+    <updated>Wed, 15 Jul 2026 10:51:37 +0000</updated>
   </entry>
   <entry>
-    <title>AI in process manufacturing: From operational gains to strategic advantage - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/28/ai-in-process-manufacturing-from-operational-gains-to-strategic-advantage/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/28/ai-in-process-manufacturing-from-operational-gains-to-strategic-advantage/</id>
-    <summary type="text">Explore insights into how manufacturers prioritize technology and where AI fits by reading the report &quot;Artificial Intelligence in Process Manufacturing.&quot;</summary>
-    <updated>Wed, 28 May 2025 15:00:00 +0000</updated>
+    <title>Lessons From the Leaderboard: What 5,000+ Kagglers Taught Us About Improving AI Reasoning | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/lessons-from-the-leaderboard-what-5000-kagglers-taught-us-about-improving-ai-reasoning/"/>
+    <id>https://developer.nvidia.com/blog/lessons-from-the-leaderboard-what-5000-kagglers-taught-us-about-improving-ai-reasoning/</id>
+    <summary type="text">The NVIDIA Nemotron Model Reasoning Challenge invited the Kaggle community to explore a focused question: What techniques can improve reasoning accuracy when everyone starts from the same open model…</summary>
+    <updated>Tue, 14 Jul 2026 18:20:32 +0000</updated>
   </entry>
   <entry>
-    <title>Creating a resilient supply chain using connected data chains - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/05/creating-a-resilient-supply-chain-using-connected-data-chains/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/2025/05/05/creating-a-resilient-supply-chain-using-connected-data-chains/</id>
-    <summary type="text">Explore how Microsoft is enabling companies to easily navigate complexities and use technology with connected data chains and AI.</summary>
-    <updated>Mon, 05 May 2025 15:00:00 +0000</updated>
+    <title>Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize</title>
+    <link href="https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/"/>
+    <id>https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/</id>
+    <summary type="text">Learn how NVIDIA Nemotron open models help enterprises build specialized AI they can trust, control and customize with accuracy, efficiency and flexibility.</summary>
+    <updated>Tue, 14 Jul 2026 16:45:13 +0000</updated>
   </entry>
   <entry>
-    <title>Enhancing MRO and Remanufacturing Work Processes with AI</title>
-    <link href="https://www.palladyneai.com/blog/enhancing-mro-and-remanufacturing-work-processes-with-ai/"/>
-    <id>https://www.palladyneai.com/blog/enhancing-mro-and-remanufacturing-work-processes-with-ai/</id>
-    <summary type="text">Implementing Palladyne IQ robotic AI software can help autonomously manage component cleaning, prepare surfaces for the next production stage, and enhance the overall production process across MRO, remanufacturing, and other industries.</summary>
-    <updated>Tue, 29 Apr 2025 10:25:00 +0000</updated>
+    <title>How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/"/>
+    <id>https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/</id>
+    <summary type="text">Coding AI agents are becoming practical operators for long-running machine learning (ML) workflows. They can inspect repositories, set up runtimes, resolve build issues, launch experiments…</summary>
+    <updated>Tue, 14 Jul 2026 16:00:00 +0000</updated>
   </entry>
   <entry>
-    <title>Speeding Robotics Automation with AI</title>
-    <link href="https://www.palladyneai.com/blog/speeding-robotics-automation-with-ai/"/>
-    <id>https://www.palladyneai.com/blog/speeding-robotics-automation-with-ai/</id>
-    <summary type="text">ABI Research report explores AI-enabled robotics automation</summary>
-    <updated>Tue, 08 Apr 2025 17:03:03 +0000</updated>
+    <title>Post-Train NVIDIA Cosmos 3 in One Day Using Agent Skills | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills/"/>
+    <id>https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills/</id>
+    <summary type="text">What if autonomous coding AI agents could push your vision reasoning models above 90% accuracy with almost no manual effort? When adapting vision reasoning models to production video tasks…</summary>
+    <updated>Tue, 14 Jul 2026 16:00:00 +0000</updated>
   </entry>
   <entry>
-    <title>How Autonomous AI Tackles Quality Control Costs</title>
-    <link href="https://www.palladyneai.com/blog/how-autonomous-ai-tackles-quality-control-costs/"/>
-    <id>https://www.palladyneai.com/blog/how-autonomous-ai-tackles-quality-control-costs/</id>
-    <summary type="text">Palladyne IQ robotic AI software helps automate inspection and streamline production across many industries.</summary>
-    <updated>Tue, 01 Apr 2025 13:23:00 +0000</updated>
+    <title>Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency</title>
+    <link href="https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/"/>
+    <id>https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/</id>
+    <summary type="text">From benchmark to production, NVIDIA Blackwell NVL72 delivers the highest performance per watt to maximize revenue and the lowest token cost to maximize profit margins.</summary>
+    <updated>Tue, 14 Jul 2026 15:00:20 +0000</updated>
   </entry>
   <entry>
-    <title>Physical AI: Embracing AI’s Moment in Robotics</title>
-    <link href="https://www.palladyneai.com/blog/physical-ai-embracing-ais-moment-in-robotics/"/>
-    <id>https://www.palladyneai.com/blog/physical-ai-embracing-ais-moment-in-robotics/</id>
-    <summary type="text">The rise of physical AI is having its breakthrough moment, like ChatGPT did in language processing in 2022. Read more.</summary>
-    <updated>Tue, 18 Mar 2025 13:40:00 +0000</updated>
+    <title>AI in Indian Education: Atal Innovation Mission and Google launch ATL Saathi</title>
+    <link href="https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/"/>
+    <id>https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/</id>
+    <summary type="text">Atal Innovation Mission launches ATL Saathi, a Gemini powered AI assistant empowering India&#x27;s educators to nurture the next generation of innovators.</summary>
+    <updated>Tue, 14 Jul 2026 07:00:00 +0000</updated>
   </entry>
   <entry>
-    <title>AlphaQubit tackles one of quantum computing’s biggest challenges</title>
-    <link href="https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/"/>
-    <id>https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/</id>
-    <summary type="text">AlphaQubit is an AI-based decoder that identifies quantum computing errors with state-of-the-art accuracy.</summary>
-    <updated>Wed, 20 Nov 2024 00:00:00 -0000</updated>
+    <title>Celebrating 25 years of visual search innovation</title>
+    <link href="https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/"/>
+    <id>https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/</id>
+    <summary type="text">Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.</summary>
+    <updated>Tue, 14 Jul 2026 00:00:00 -0000</updated>
   </entry>
   <entry>
-    <title>Blog</title>
-    <link href="https://deepmind.google/discover/blog/"/>
-    <id>https://deepmind.google/discover/blog/</id>
-    <summary type="text">Discover our latest AI breakthroughs, projects, and updates.</summary>
+    <title>NVIDIA Ising Decoding Cuts Color Code Logical Error Rates by Over 300x | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/nvidia-ising-decoding-cuts-color-code-logical-error-rates-by-over-300x/"/>
+    <id>https://developer.nvidia.com/blog/nvidia-ising-decoding-cuts-color-code-logical-error-rates-by-over-300x/</id>
+    <summary type="text">Useful quantum computers will require fault tolerant logical operations. Researchers are actively exploring many different quantum error correction (QEC) codes to enable this…</summary>
+    <updated>Mon, 13 Jul 2026 19:00:00 +0000</updated>
   </entry>
   <entry>
-    <title>AlphaGenome: AI for better understanding the genome</title>
-    <link href="https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/"/>
-    <id>https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/</id>
-    <summary type="text">Introducing a new, unifying DNA sequence model that advances regulatory variant-effect prediction and promises to shed new light on genome function — now available via API.</summary>
+    <title>Scaling cryptographic verification to boost computer security</title>
+    <link href="https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/"/>
+    <id>https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/</id>
+    <summary type="text">Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves:</summary>
+    <updated>Mon, 13 Jul 2026 16:00:00 +0000</updated>
   </entry>
   <entry>
-    <title>A catalogue of genetic mutations to help pinpoint the cause of diseases</title>
-    <link href="https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/"/>
-    <id>https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/</id>
-    <summary type="text">New AI tool classifies the effects of 71 million ‘missense’ mutations 
-Uncovering the root causes of disease is one of the greatest challenges in human genetics. With millions of possible...</summary>
+    <title>Amazon and University of Michigan give robots a sense of touch</title>
+    <link href="https://www.amazon.science/blog/amazon-and-university-of-michigan-give-robots-a-sense-of-touch"/>
+    <id>https://www.amazon.science/blog/amazon-and-university-of-michigan-give-robots-a-sense-of-touch</id>
+    <summary type="text">HydroShear, a new physics-based simulator, teaches robots how to use their sense of touch to perform complex manipulation tasks, in a way that transfers seamlessly to the real world.</summary>
+    <updated>Fri, 10 Jul 2026 17:13:31 -0000</updated>
   </entry>
   <entry>
-    <title>AlphaProteo generates novel proteins for biology and health research</title>
-    <link href="https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/"/>
-    <id>https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/</id>
-    <summary type="text">New AI system designs proteins that successfully bind to target molecules, with potential for advancing drug design, disease understanding and more.</summary>
+    <title>Aurora 1.5: Extending open foundation models for weather and Earth-system applications - Microsoft Research</title>
+    <link href="https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/"/>
+    <id>https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/</id>
+    <summary type="text">Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and energy applications.</summary>
+    <updated>Thu, 09 Jul 2026 16:46:22 +0000</updated>
   </entry>
   <entry>
-    <title>AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms</title>
-    <link href="https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/"/>
-    <id>https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/</id>
-    <summary type="text">New AI agent evolves algorithms for math and practical applications in computing by combining the creativity of large language models with automated evaluators</summary>
+    <title>GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server</title>
+    <link href="https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/"/>
+    <id>https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/</id>
+    <summary type="text">Plus, tap into ‘NTE: Neverness to Everness’ with a new update, alongside three new games joining the cloud this week.</summary>
+    <updated>Thu, 09 Jul 2026 13:00:55 +0000</updated>
   </entry>
   <entry>
-    <title>AI achieves silver-medal standard solving International Mathematical Olympiad problems</title>
-    <link href="https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/"/>
-    <id>https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/</id>
-    <summary type="text">Breakthrough models AlphaProof and AlphaGeometry 2 solve advanced reasoning problems in mathematics</summary>
+    <title>Capturing token IDs during agentic interactions for better reinforcement learning</title>
+    <link href="https://www.amazon.science/blog/capturing-token-ids-during-agentic-interactions-for-better-reinforcement-learning"/>
+    <id>https://www.amazon.science/blog/capturing-token-ids-during-agentic-interactions-for-better-reinforcement-learning</id>
+    <summary type="text">A new Rust proxy called Turnstile sits between the model backend and the agent harness to capture information lost in mere text transcripts.</summary>
+    <updated>Thu, 09 Jul 2026 12:46:00 -0000</updated>
   </entry>
   <entry>
-    <title>Millions of new materials discovered with deep learning</title>
-    <link href="https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/"/>
-    <id>https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/</id>
-    <summary type="text">We share the discovery of 2.2 million new crystals  –  equivalent to nearly 800 years’ worth of knowledge. We introduce Graph Networks for Materials Exploration (GNoME), our new deep learning tool...</summary>
+    <title>Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/"/>
+    <id>https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/</id>
+    <summary type="text">Agentic systems often face a trade-off between accuracy and cost. The highest-performing proprietary frontier models and harnesses provide top accuracy but are expensive. Fine-tuning offers one way to…</summary>
+    <updated>Wed, 08 Jul 2026 18:17:59 +0000</updated>
   </entry>
   <entry>
-    <title>Accelerating fusion science through learned plasma control</title>
-    <link href="https://deepmind.google/discover/blog/accelerating-fusion-science-through-learned-plasma-control/"/>
-    <id>https://deepmind.google/discover/blog/accelerating-fusion-science-through-learned-plasma-control/</id>
-    <summary type="text">Successfully controlling the nuclear fusion plasma in a tokamak with deep reinforcement learning</summary>
+    <title>AI can generate Charts. Flint helps generate better ones.</title>
+    <link href="https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/"/>
+    <id>https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/</id>
+    <summary type="text">Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive charts from compact, human-editable specifications.</summary>
+    <updated>Wed, 08 Jul 2026 16:00:00 +0000</updated>
   </entry>
   <entry>
-    <title>Genie 3: A New Frontier for World Models</title>
-    <link href="https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/"/>
-    <id>https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/</id>
-    <summary type="text">Today we are announcing Genie 3, a general purpose world model that can generate an unprecedented diversity of interactive environments. Given a text prompt, Genie 3 can generate dynamic worlds...</summary>
+    <title>NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness</title>
+    <link href="https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/"/>
+    <id>https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/</id>
+    <summary type="text">NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform.  LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x […]</summary>
+    <updated>Wed, 08 Jul 2026 15:00:27 +0000</updated>
   </entry>
   <entry>
-    <title>Introducing Claude Sonnet 4.5</title>
-    <link href="https://www.anthropic.com/news/claude-sonnet-4-5"/>
-    <id>https://www.anthropic.com/news/claude-sonnet-4-5</id>
-    <summary type="text">Claude Sonnet 4.5 is the best coding model in the world, strongest model for building complex agents, and best model at using computers.</summary>
+    <title>NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads/"/>
+    <id>https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads/</id>
+    <summary type="text">Agentic systems turn model reasoning into action through multi-step workflows that combine inference, tool use, code execution, retrieval, orchestration, and result handling. As these systems scale…</summary>
+    <updated>Tue, 07 Jul 2026 18:10:00 +0000</updated>
   </entry>
   <entry>
-    <title>Thoughts on America’s AI Action Plan</title>
-    <link href="https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan"/>
-    <id>https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</id>
-    <summary type="text">Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.</summary>
+    <title>AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters</title>
+    <link href="https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/"/>
+    <id>https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/</id>
+    <summary type="text">NVIDIA Vera exemplifies a new class of CPU, architected for the era of agents and being adopted by AI innovators including Perplexity; NVIDIA CPU roadmap continues with the NVIDIA Rosa CPU and its Rigel core.</summary>
+    <updated>Tue, 07 Jul 2026 15:00:52 +0000</updated>
   </entry>
   <entry>
-    <title>Anthropic raises $13B Series F at $183B post-money valuation</title>
-    <link href="https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation"/>
-    <id>https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</id>
-    <summary type="text">Anthropic has completed a Series F fundraising of $13 billion led by ICONIQ. This financing values Anthropic at $183 billion post-money. Along with ICONIQ, the round was co-led by Fidelity Management &amp; Research Company and Lightspeed Venture Partners. The investment reflects Anthropic’s continued momentum and reinforces our position as the leading intelligence platform for enterprises, developers, and power users.</summary>
+    <title>NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community</title>
+    <link href="https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/"/>
+    <id>https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/</id>
+    <summary type="text">New LeRobot integrations give developers open access to NVIDIA Isaac GR00T 1.7, Isaac Teleop, datasets and robotics workflows, with NVIDIA Cosmos 3 integration planned to bring frontier world models to open robotics development.</summary>
+    <updated>Tue, 07 Jul 2026 06:00:26 +0000</updated>
   </entry>
   <entry>
-    <title>Anthropic Deloitte Partnership</title>
-    <link href="https://www.anthropic.com/news/deloitte-anthropic-partnership"/>
-    <id>https://www.anthropic.com/news/deloitte-anthropic-partnership</id>
-    <summary type="text">Deloitte will make Claude available to 470,000 people across its global network. Anthropic&#x27;s largest enterprise AI deployment to date. Partner with Anthropic because Claude is built for the compliance and control that enterprises demand.</summary>
+    <title>Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more</title>
+    <link href="https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/"/>
+    <id>https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/</id>
+    <summary type="text">We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.</summary>
+    <updated>Tue, 07 Jul 2026 00:00:00 -0000</updated>
   </entry>
   <entry>
-    <title>How enterprises are driving AI transformation with Claude</title>
-    <link href="https://www.anthropic.com/news/driving-ai-transformation-with-claude"/>
-    <id>https://www.anthropic.com/news/driving-ai-transformation-with-claude</id>
-    <summary type="text">How Novo Nordisk, Cox Automotive, Palo Alto Networks, Salesforce, and IG Group drive enterprise AI transformation at scale with Claude.</summary>
+    <title>The latest AI news we announced in June 2026</title>
+    <link href="https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/"/>
+    <id>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/</id>
+    <summary type="text">Here are Google’s latest AI updates from June 2026.</summary>
+    <updated>Wed, 01 Jul 2026 00:00:00 -0000</updated>
   </entry>
   <entry>
-    <title>Claude and Slack</title>
-    <link href="https://www.anthropic.com/news/claude-and-slack"/>
-    <id>https://www.anthropic.com/news/claude-and-slack</id>
-    <summary type="text">We&#x27;re introducing two ways to use Claude with Slack. Add Claude directly to your Slack workspace, or connect Slack to the Claude apps so Claude can search and reference relevant Slack messages during conversations.</summary>
+    <title>New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.</title>
+    <link href="https://blog.google/products-and-platforms/products/education/nyc-ai-summit/"/>
+    <id>https://blog.google/products-and-platforms/products/education/nyc-ai-summit/</id>
+    <summary type="text">Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.</summary>
+    <updated>Wed, 01 Jul 2026 00:00:00 -0000</updated>
   </entry>
   <entry>
-    <title>Latest News from Google Research Blog - Google Research</title>
-    <link href="https://ai.googleblog.com/"/>
-    <id>https://ai.googleblog.com/</id>
-    <summary type="text">We strive to create an environment conducive to many different types of research across many different time scales and levels of risk.</summary>
+    <title>SkillOpt turns AI agent skills into trainable assets</title>
+    <link href="https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/"/>
+    <id>https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/</id>
+    <summary type="text">AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement. Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable without changing model weights:</summary>
+    <updated>Tue, 30 Jun 2026 16:50:02 +0000</updated>
   </entry>
   <entry>
-    <title>NVIDIA Accelerates Robotics Research and Development With New Open Models and Simulation Libraries</title>
-    <link href="https://nvidianews.nvidia.com/news/nvidia-accelerates-robotics-research-and-development-with-new-open-models-and-simulation-libraries"/>
-    <id>https://nvidianews.nvidia.com/news/nvidia-accelerates-robotics-research-and-development-with-new-open-models-and-simulation-libraries</id>
-    <summary type="text">NVIDIA today announced that the open‑source Newton Physics Engine is now available in NVIDIA Isaac™ Lab, along with the open NVIDIA Isaac GR00T N1.6 reasoning vision language action model for robot skills and new AI infrastructure.</summary>
+    <title>Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers</title>
+    <link href="https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/"/>
+    <id>https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/</id>
+    <summary type="text">Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.</summary>
+    <updated>Tue, 30 Jun 2026 00:00:00 -0000</updated>
   </entry>
   <entry>
-    <title>OpenAI and NVIDIA Announce Strategic Partnership to Deploy 10 Gigawatts of NVIDIA Systems</title>
-    <link href="https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems"/>
-    <id>https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems</id>
-    <summary type="text">OpenAI and NVIDIA today announced a letter of intent for a landmark strategic partnership to deploy at least 10 gigawatts of NVIDIA systems for OpenAI’s next-generation AI infrastructure to train and run its next generation of models on the path to deploying superintelligence.</summary>
+    <title>Memora scales agent memory to boost long-horizon productivity</title>
+    <link href="https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/"/>
+    <id>https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/</id>
+    <summary type="text">AI agents can&#x27;t remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable memory system separating what’s stored from how it&#x27;s retrieved.</summary>
+    <updated>Mon, 29 Jun 2026 21:14:22 +0000</updated>
   </entry>
   <entry>
-    <title>Data Center Archives</title>
-    <link href="https://blogs.nvidia.com/blog/category/enterprise/"/>
-    <id>https://blogs.nvidia.com/blog/category/enterprise/</id>
-    <summary type="text">NVIDIA AI Days — hosted for and in different pockets of the world — are drawing in hundreds… Read Article</summary>
+    <title>Ask an AI expert: What exactly is the full stack?</title>
+    <link href="https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/"/>
+    <id>https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/</id>
+    <summary type="text">A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.</summary>
+    <updated>Mon, 29 Jun 2026 00:00:00 -0000</updated>
   </entry>
   <entry>
-    <title>Generative AI Archives</title>
-    <link href="https://blogs.nvidia.com/blog/category/generative-ai/"/>
-    <id>https://blogs.nvidia.com/blog/category/generative-ai/</id>
-    <summary type="text">NVIDIA AI Days — hosted for and in different pockets of the world — are drawing in hundreds… Read Article</summary>
+    <title>Turning brain prediction models into testable explanations</title>
+    <link href="https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/"/>
+    <id>https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/</id>
+    <summary type="text">Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language.</summary>
+    <updated>Thu, 25 Jun 2026 16:00:00 +0000</updated>
   </entry>
   <entry>
-    <title>Driving Archives</title>
-    <link href="https://blogs.nvidia.com/blog/category/auto/"/>
-    <id>https://blogs.nvidia.com/blog/category/auto/</id>
-    <summary type="text">At this week’s IAA Mobility conference in Munich, NVIDIA Vice President of Automotive Ali Kani outlined how cloud-to-car… Read Article</summary>
+    <title>Our latest Google Finance upgrades, including a new app</title>
+    <link href="https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/"/>
+    <id>https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/</id>
+    <summary type="text">The new Google Finance is coming out of beta and launching a new Android app.</summary>
+    <updated>Thu, 25 Jun 2026 00:00:00 -0000</updated>
   </entry>
   <entry>
-    <title>Gaming Archives</title>
-    <link href="https://blogs.nvidia.com/blog/category/gaming/"/>
-    <id>https://blogs.nvidia.com/blog/category/gaming/</id>
-    <summary type="text">Editor’s note: This blog has been updated to include an additional game for October, The Outer Worlds 2. October… Read Article</summary>
+    <title>The fuel of the future is already here: Why TRISO matters</title>
+    <link href="https://www.amazon.science/blog/the-fuel-of-the-future-is-already-here-why-triso-matters"/>
+    <id>https://www.amazon.science/blog/the-fuel-of-the-future-is-already-here-why-triso-matters</id>
+    <summary type="text">Millimeter-scale particles of nuclear-reactor fuel are encased in four layers of different materials that act as a “miniature containment system”.</summary>
+    <updated>Wed, 24 Jun 2026 19:57:09 -0000</updated>
   </entry>
   <entry>
-    <title>Pro Graphics Archives</title>
-    <link href="https://blogs.nvidia.com/blog/category/pro-graphics/"/>
-    <id>https://blogs.nvidia.com/blog/category/pro-graphics/</id>
-    <summary type="text">Building robots that can effectively operate alongside human workers in factories, hospitals and public spaces presents an enormous… Read Article</summary>
+    <title>Talos brings continuous genomic reanalysis to nearly 5,000 unsolved cases</title>
+    <link href="https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/"/>
+    <id>https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/</id>
+    <summary type="text">Talos was built to help resolve a major bottleneck in genomic medicine: human review time. The open-source system recovered 90% of in-scope diagnoses while surfacing just 1.3 candidate variants per patient for expert review.</summary>
+    <updated>Wed, 24 Jun 2026 14:00:14 +0000</updated>
   </entry>
   <entry>
-    <title>Robotics Archives</title>
-    <link href="https://blogs.nvidia.com/blog/category/robotics/"/>
-    <id>https://blogs.nvidia.com/blog/category/robotics/</id>
-    <summary type="text">Building robots that can effectively operate alongside human workers in factories, hospitals and public spaces presents an enormous… Read Article</summary>
+    <title>Boost Inference Performance up to 15x on NVIDIA Blackwell Using DFlash Speculative Decoding | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding/"/>
+    <id>https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding/</id>
+    <summary type="text">As AI systems move from single-turn interactions to coordinated multiagent workflows, low-latency inference becomes increasingly important. Autoregressive LLMs generate tokens sequentially…</summary>
+    <updated>Tue, 23 Jun 2026 15:00:00 +0000</updated>
   </entry>
   <entry>
-    <title>Healthcare and Life Sciences Archives</title>
-    <link href="https://blogs.nvidia.com/blog/tag/healthcare-life-sciences/"/>
-    <id>https://blogs.nvidia.com/blog/tag/healthcare-life-sciences/</id>
-    <summary type="text">Healthcare and Life Sciences Archives</summary>
+    <title>Securing internal systems against increasingly capable and imperfectly aligned AI</title>
+    <link href="https://deepmind.google/blog/securing-the-future-of-ai-agents/"/>
+    <id>https://deepmind.google/blog/securing-the-future-of-ai-agents/</id>
+    <summary type="text">Discover our AI Control Roadmap: a defense-in-depth system to securely manage advanced, potentially misaligned AI agents.</summary>
+    <updated>Thu, 18 Jun 2026 14:00:00 +0000</updated>
   </entry>
   <entry>
-    <title>Category: Robotics | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/category/robotics/"/>
-    <id>https://developer.nvidia.com/blog/category/robotics/</id>
-    <summary type="text">Category: Robotics | NVIDIA Technical Blog</summary>
+    <title>New research shows how AMIE, our medical AI, could help manage health conditions.</title>
+    <link href="https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/"/>
+    <id>https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/</id>
+    <summary type="text">Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.</summary>
+    <updated>Wed, 17 Jun 2026 00:00:00 -0000</updated>
   </entry>
   <entry>
-    <title>Category: Data Center / Cloud | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/category/data-center-cloud/"/>
-    <id>https://developer.nvidia.com/blog/category/data-center-cloud/</id>
-    <summary type="text">Category: Data Center / Cloud | NVIDIA Technical Blog</summary>
+    <title>Unlocking UK house-building with AI-accelerated planning</title>
+    <link href="https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/"/>
+    <id>https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/</id>
+    <summary type="text">Google DeepMind is working alongside the UK government to co-develop an AI-powered prototype to help cut application decision times by 50%.</summary>
+    <updated>Tue, 16 Jun 2026 22:30:00 +0000</updated>
   </entry>
   <entry>
-    <title>Category: Simulation / Modeling / Design | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/category/simulation-modeling-design/"/>
-    <id>https://developer.nvidia.com/blog/category/simulation-modeling-design/</id>
-    <summary type="text">Category: Simulation / Modeling / Design | NVIDIA Technical Blog</summary>
+    <title>NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance/"/>
+    <id>https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance/</id>
+    <summary type="text">NVIDIA delivered a clean sweep in MLPerf Training v6.0, the latest edition of industry-standard AI training benchmarks developed by the MLCommons consortium. NVIDIA achieved the fastest time to train…</summary>
+    <updated>Tue, 16 Jun 2026 18:11:00 +0000</updated>
   </entry>
   <entry>
-    <title>Recent posts</title>
-    <link href="https://developer.nvidia.com/blog/recent-posts/"/>
-    <id>https://developer.nvidia.com/blog/recent-posts/</id>
-    <summary type="text">News and tutorials for developers, scientists, and IT admins</summary>
+    <title>NVIDIA Achieves Leading Agentic Coding Performance on First Agentic AI Benchmark | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/nvidia-achieves-leading-agentic-coding-performance-on-first-agentic-ai-benchmark/"/>
+    <id>https://developer.nvidia.com/blog/nvidia-achieves-leading-agentic-coding-performance-on-first-agentic-ai-benchmark/</id>
+    <summary type="text">AI agents have fundamentally changed the complexity of inference workloads. Until now, the industry has struggled to define a standard for measuring how inference systems perform under these…</summary>
+    <updated>Fri, 12 Jun 2026 21:12:40 +0000</updated>
   </entry>
   <entry>
-    <title>Blog</title>
-    <link href="https://www.palladyneai.com/blog/"/>
-    <id>https://www.palladyneai.com/blog/</id>
-    <summary type="text">Tackling the growing demand for automation with AI-driven robotics Surface technology companies stand at a pivotal crossroads. 2025 will be a year of strong growth for the surface finishing market as demands…</summary>
+    <title>Inside Project Ire’s discovery of an evasive malware sample</title>
+    <link href="https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/"/>
+    <id>https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/</id>
+    <summary type="text">Project Ire examined a timely malware sample and determined its intent through reverse engineering—identifying LOTUSLITE characteristics even as most major EDR tools did not detect it.</summary>
+    <updated>Fri, 12 Jun 2026 20:30:48 +0000</updated>
   </entry>
   <entry>
-    <title>Automotive - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/automotive/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/automotive/</id>
-    <summary type="text">Read the latest news and posts about Automotive from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
+    <title>Google DeepMind and partners announce multi-agent safety research funding call.</title>
+    <link href="https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/"/>
+    <id>https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/</id>
+    <summary type="text">Google DeepMind and partners are announcing a new technical research funding call of up to $10M for researchers worldwide to strengthen multi-agent safety.</summary>
+    <updated>Thu, 11 Jun 2026 12:00:00 +0000</updated>
   </entry>
   <entry>
-    <title>Manufacturing - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/manufacturing/</id>
-    <summary type="text">Read the latest news and posts about Manufacturing from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
+    <title>Graviton5’s improved design increases speed and energy efficiency — beyond Moore’s law</title>
+    <link href="https://www.amazon.science/blog/graviton5s-improved-design-increases-speed-and-energy-efficiency-beyond-moores-law"/>
+    <id>https://www.amazon.science/blog/graviton5s-improved-design-increases-speed-and-energy-efficiency-beyond-moores-law</id>
+    <summary type="text">A new chiplet architecture, custom die-to-die connectivity, and support for DDR5-8800 memory and the latest PCIe gen6 interconnects improve performance by 25% for general-purpose and agentic AI workloads.</summary>
+    <updated>Wed, 10 Jun 2026 15:00:00 -0000</updated>
   </entry>
   <entry>
-    <title>Mobility - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/mobility/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/mobility/</id>
-    <summary type="text">Read the latest news and posts about Mobility from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
+    <title>EC2’s formally verified “isolation engine” provides mathematical assurance of virtual-machine isolation</title>
+    <link href="https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation"/>
+    <id>https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation</id>
+    <summary type="text">Splitting the “separation kernel” off from the rest of the Nitro security system and using only a subset of the Rust programming language to code it enabled its formal verification.</summary>
+    <updated>Wed, 10 Jun 2026 15:00:00 -0000</updated>
   </entry>
   <entry>
-    <title>Travel - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/travel/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/travel/</id>
-    <summary type="text">Read the latest news and posts about Travel from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
+    <title>Gemini’s guided learning: results from a randomized controlled trial in Sierra Leone</title>
+    <link href="https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/"/>
+    <id>https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/</id>
+    <summary type="text">Google DeepMind shares results from a randomized controlled trial in Sierra Leone, measuring the impact of AI in education on student learning and engagement.</summary>
+    <updated>Tue, 09 Jun 2026 13:00:00 +0000</updated>
   </entry>
   <entry>
-    <title>Transport and logistics - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/transport-and-logistics/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/transport-and-logistics/</id>
-    <summary type="text">Read the latest news and posts about Transport and logistics from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
+    <title>Real-world grounding in agentic AI</title>
+    <link href="https://www.amazon.science/blog/real-world-grounding-in-agentic-ai"/>
+    <id>https://www.amazon.science/blog/real-world-grounding-in-agentic-ai</id>
+    <summary type="text">Four approaches can dramatically improve the performance and trustworthiness of AI agents in operational environments.</summary>
+    <updated>Mon, 08 Jun 2026 19:00:00 -0000</updated>
   </entry>
   <entry>
-    <title>Manufacturing and mobility - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/</id>
-    <summary type="text">Read the latest news and posts about Manufacturing and mobility from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
+    <title>Bridging intent and execution in agentic systems</title>
+    <link href="https://www.amazon.science/blog/bridging-intent-and-execution-in-agentic-systems"/>
+    <id>https://www.amazon.science/blog/bridging-intent-and-execution-in-agentic-systems</id>
+    <summary type="text">The harnesses that mediate between models and tools in agentic systems are becoming their own performance bottleneck, but a few simple design principles can fix what ails them.</summary>
+    <updated>Mon, 08 Jun 2026 17:00:00 -0000</updated>
   </entry>
   <entry>
-    <title>Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/</id>
-    <summary type="text">Learn how to innovate with Microsoft’s latest digital transformation solutions in financial services, health, government, manufacturing, retail, and more.</summary>
+    <title>Data Formulator 0.7: AI-powered data analytics for enterprise data</title>
+    <link href="https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/"/>
+    <id>https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/</id>
+    <summary type="text">Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspace where users can explore, analyze, and visualize data with AI agents to turn raw data into actionable insights:</summary>
+    <updated>Thu, 28 May 2026 16:00:00 +0000</updated>
   </entry>
   <entry>
-    <title>Energy and resources - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/energy-and-resources/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/energy-and-resources/</id>
-    <summary type="text">Read the latest news and posts about Energy and resources from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
+    <title>Extending human intelligence through AI</title>
+    <link href="https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/"/>
+    <id>https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/</id>
+    <summary type="text">Understanding AI as an extension of human intelligence—not a replacement for it—offers a more grounded path for building trustworthy AI systems.</summary>
+    <updated>Wed, 27 May 2026 16:00:00 +0000</updated>
   </entry>
   <entry>
-    <title>Financial services - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/financial-services/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/financial-services/</id>
-    <summary type="text">Read the latest news and posts about Financial services from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
+    <title>AWS and Gray Lab at Johns Hopkins Whiting School of Engineering announce groundbreaking database for AI/ML antibody design</title>
+    <link href="https://www.amazon.science/news/aws-gray-lab-johns-hopkins-announce-groundbreaking-database-for-ai-ml-antibody-design"/>
+    <id>https://www.amazon.science/news/aws-gray-lab-johns-hopkins-announce-groundbreaking-database-for-ai-ml-antibody-design</id>
+    <summary type="text">The Antibody Developability Benchmark is powered by one of the most diverse antibody datasets, enabling transparent performance evaluation for AI-guided antibody design.</summary>
+    <updated>Tue, 14 Apr 2026 14:00:00 -0000</updated>
   </entry>
   <entry>
-    <title>Government - Microsoft Industry Blogs</title>
-    <link href="https://www.microsoft.com/en-us/industry/blog/government/"/>
-    <id>https://www.microsoft.com/en-us/industry/blog/government/</id>
-    <summary type="text">Read the latest news and posts about Government from Microsoft&#x27;s team of experts at Microsoft Industry Blogs.</summary>
+    <title>How AI is changing the nature of mathematical research</title>
+    <link href="https://www.amazon.science/blog/how-ai-is-changing-the-nature-of-mathematical-research"/>
+    <id>https://www.amazon.science/blog/how-ai-is-changing-the-nature-of-mathematical-research</id>
+    <summary type="text">What machine learning theorists learned using AI agents to generate proofs — and what comes next.</summary>
+    <updated>Mon, 09 Mar 2026 17:55:47 -0000</updated>
   </entry>
 </feed>
