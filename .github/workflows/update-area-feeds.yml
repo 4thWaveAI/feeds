@@ -10,11 +10,6 @@ on:
       - 'feeds.yaml'
       - 'scripts/**'
       - '.github/workflows/update-area-feeds.yml'
-    paths-ignore:
-      - 'README.md'
-      - 'LICENSE*'
-      - 'assets/**'
-      - 'docs/**'
 
 # Prevent overlapping runs on the same ref
 concurrency:
