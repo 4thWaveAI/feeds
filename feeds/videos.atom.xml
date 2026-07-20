@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.atom.xml"/>
   <id>urn:4thwaveai-feeds:videos</id>
-  <updated>Mon, 20 Jul 2026 20:35:13 +0000</updated>
+  <updated>Mon, 20 Jul 2026 21:28:44 +0000</updated>
   <entry>
     <title>New NASA Earth Missions Gear Up to Start Science Flights   - NASA Science</title>
     <link href="https://science.nasa.gov/earth/new-nasa-earth-missions-gear-up-to-start-science-flights/"/>
@@ -95,13 +95,6 @@
     <id>https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/</id>
     <summary type="text">NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform.  LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x […]</summary>
     <updated>Wed, 08 Jul 2026 15:00:27 +0000</updated>
-  </entry>
-  <entry>
-    <title>What&#x27;s new on Prime Video in July 2026, including &#x27;Elle,&#x27; &#x27;The Ghost in the Shell,&#x27; and live sports</title>
-    <link href="https://www.aboutamazon.com/news/entertainment/prime-video-july-movies-shows-music-sports-2026"/>
-    <id>https://www.aboutamazon.com/news/entertainment/prime-video-july-movies-shows-music-sports-2026</id>
-    <summary type="text">Check out Prime Video&#x27;s July lineup, which features the &#x27;Legally Blonde&#x27; prequel series, new anime seasons, and more.</summary>
-    <updated>Wed, 01 Jul 2026 13:00:44 +0000</updated>
   </entry>
   <entry>
     <title>SkillOpt turns AI agent skills into trainable assets</title>
@@ -392,5 +385,11 @@ Through world-renowned Meetings, peer-reviewed journals, webinars, workshops, ad
     <link href="https://www.bas.ac.uk/news/rothera-construction-season-upgrades-safeguard-future-polar-science/"/>
     <id>https://www.bas.ac.uk/news/rothera-construction-season-upgrades-safeguard-future-polar-science/</id>
     <summary type="text">A significant phase of construction at Rothera has been completed this season, delivering new infrastructure that will power cutting-edge polar science for decades ahead.</summary>
+  </entry>
+  <entry>
+    <title>New study provides clues to predicting iceberg calving - British Antarctic Survey</title>
+    <link href="https://www.bas.ac.uk/news/study-finds-surface-melt-can-strengthen-antarctic-ice-shelves-while-seawater-infiltration-weakens-them/"/>
+    <id>https://www.bas.ac.uk/news/study-finds-surface-melt-can-strengthen-antarctic-ice-shelves-while-seawater-infiltration-weakens-them/</id>
+    <summary type="text">New research led by British Antarctic Survey provides fresh insights into how cracks and fractures develop in ice and how future sea-level rise may unfold.</summary>
   </entry>
 </feed>

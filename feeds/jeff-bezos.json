@@ -5,25 +5,6 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/jeff-bezos.json",
   "items": [
     {
-      "id": "https://www.aboutamazon.com/news/entertainment/prime-video-july-movies-shows-music-sports-2026",
-      "url": "https://www.aboutamazon.com/news/entertainment/prime-video-july-movies-shows-music-sports-2026",
-      "title": "What's new on Prime Video in July 2026, including 'Elle,' 'The Ghost in the Shell,' and live sports",
-      "content_text": "Check out Prime Video's July lineup, which features the 'Legally Blonde' prequel series, new anime seasons, and more.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/516b1e7/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F40%2Fda%2Fd6ed983e44bb99c9f64df3c770ed%2Felle-s1-amazon-news-nb-062526.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/6KsT3K5ynrU?enablejsapi=1",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
       "id": "https://www.aboutamazon.com/news/retail/amazon-prime-young-adults-cash-back-rewards",
       "url": "https://www.aboutamazon.com/news/retail/amazon-prime-young-adults-cash-back-rewards",
       "title": "Prime for Young Adults introduces 5% cash back on dorm and apartment essentials, just in time for move-in",
@@ -103,13 +84,13 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/retail",
-      "url": "https://www.aboutamazon.com/news/retail",
-      "title": "Retail",
-      "content_text": "More information about shopping on Amazon and our selection of products and services.",
+      "id": "https://www.aboutamazon.com/news/entertainment/wnba-schedule-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/wnba-schedule-prime-video",
+      "title": "How to watch the WNBA on Prime Video",
+      "content_text": "Prime Video will stream 30 WNBA regular-season games, featuring stars like Caitlin Clark, A'ja Wilson, and 2026 No. 1 pick Azzi Fudd.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
+          "url": "https://assets.aboutamazon.com/dims4/default/102c8e1/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F9c%2F6c%2F26a25c5643c0b0867d2b3a1c7ef8%2Fwnba-2026-schedule-update-hero.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -137,6 +118,21 @@
       "url": "https://www.aboutamazon.com/news/company-news",
       "title": "Company news",
       "content_text": "News and information about Amazon, Inc.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/retail",
+      "url": "https://www.aboutamazon.com/news/retail",
+      "title": "Retail",
+      "content_text": "More information about shopping on Amazon and our selection of products and services.",
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",

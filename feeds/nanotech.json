@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
+      "id": "https://phys.org/news/2026-07-acid-resistant-nanocage-gastric-cancer.html",
+      "url": "https://phys.org/news/2026-07-acid-resistant-nanocage-gastric-cancer.html",
+      "title": "Acid-resistant nanocage shows promise for targeted gastric cancer therapy",
+      "content_text": "Researchers from the Yong Loo Lin School of Medicine, National University of Singapore (NUS Medicine), have developed a swallowable nanoscale delivery platform designed to transport therapeutic enzymes through the stomach's acidic environment and activate a cancer-killing reaction at tumor sites. Early preclinical findings suggest that the approach may offer a new strategy for treating gastric cancer more precisely while reducing damage to healthy tissue.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2026/nus-medicine-scientist.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://phys.org/news/2026-07-nanoparticles-immune-molecules-blood.html",
       "url": "https://phys.org/news/2026-07-nanoparticles-immune-molecules-blood.html",
       "title": "Nanoparticles could remove harmful immune molecules from blood",
@@ -162,21 +177,6 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/scientists-unveil-tech.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2026-07-harder-longer-silver-plating.html",
-      "url": "https://phys.org/news/2026-07-harder-longer-silver-plating.html",
-      "title": "Researchers develop harder, longer-lasting silver plating",
-      "content_text": "A research team led by Seil Kim of the Korea Institute of Materials Science (KIMS) Energy & Environmental Materials Research Division has developed an Ag–PTFE composite plating technology that produces silver coatings with greater hardness and wear resistance than conventional silver plating by stably dispersing PTFE nanoparticles in a cyanide-free acidic silver plating bath.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2026/harder-longer-lasting.jpg",
           "mime_type": "image/jpeg"
         }
       ],

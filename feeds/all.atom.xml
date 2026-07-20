@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Mon, 20 Jul 2026 20:35:13 +0000</updated>
+  <updated>Mon, 20 Jul 2026 21:28:44 +0000</updated>
   <entry>
     <title>NASA-Funded Study Shows How Controlled Burns Help Sequoias Survive Wildfires - NASA Science</title>
     <link href="https://science.nasa.gov/blogs/science-news/2026/07/20/nasa-funded-study-shows-how-controlled-burns-help-sequoias-survive-wildfires/"/>
@@ -20,9 +20,16 @@
     <updated>Mon, 20 Jul 2026 16:23:23 -0400</updated>
   </entry>
   <entry>
+    <title>Acid-resistant nanocage shows promise for targeted gastric cancer therapy</title>
+    <link href="https://phys.org/news/2026-07-acid-resistant-nanocage-gastric-cancer.html"/>
+    <id>https://phys.org/news/2026-07-acid-resistant-nanocage-gastric-cancer.html</id>
+    <summary type="text">Researchers from the Yong Loo Lin School of Medicine, National University of Singapore (NUS Medicine), have developed a swallowable nanoscale delivery platform designed to transport therapeutic enzymes through the stomach&#x27;s acidic environment and activate a cancer-killing reaction at tumor sites. Early preclinical findings suggest that the approach may offer a new strategy for treating gastric cancer more precisely while reducing damage to healthy tissue.</summary>
+    <updated>Mon, 20 Jul 2026 16:20:07 -0400</updated>
+  </entry>
+  <entry>
     <title>NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration</title>
-    <link href="https://www.nasa.gov/aeronautics/electrified-aircraft-propulsion/nasa-ge-hybrid-electric-flight/"/>
-    <id>https://www.nasa.gov/aeronautics/electrified-aircraft-propulsion/nasa-ge-hybrid-electric-flight/</id>
+    <link href="https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/"/>
+    <id>https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/</id>
     <summary type="text">NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform new generations of fuel-saving aircraft power systems.</summary>
     <updated>Mon, 20 Jul 2026 14:54:44 -0400</updated>
   </entry>
@@ -417,12 +424,5 @@
     <id>https://phys.org/news/2026-07-brain-nanopore-device-current-memory.html</id>
     <summary type="text">Some researchers are leaning into biology for inspiration in computing. In particular, neuromorphic computing offers a brain-inspired approach to hardware that replaces traditional binary processing with systems that function more like neurons and synapses. Now, a new study, published in Nature Communications, describes an innovative design for a fluidic memristor that uses its own self-heating mechanism to induce a history-dependent memory effect.</summary>
     <updated>Thu, 16 Jul 2026 13:40:03 -0400</updated>
-  </entry>
-  <entry>
-    <title>Hybrid material confirms antiferroelectricity can coexist with switchable polarization</title>
-    <link href="https://phys.org/news/2026-07-hybrid-material-antiferroelectricity-coexist-switchable.html"/>
-    <id>https://phys.org/news/2026-07-hybrid-material-antiferroelectricity-coexist-switchable.html</id>
-    <summary type="text">Many of the advanced electronic components surrounding us in everyday life rely on polar materials to function. Polar materials have an uneven distribution of electric charge. This gives them a positive and a negative side even in the absence of an external electric field. The most important among these are ferroelectric materials, in which the direction of polarization can be reversed by applying an electric field.</summary>
-    <updated>Thu, 16 Jul 2026 13:20:01 -0400</updated>
   </entry>
 </feed>

@@ -35,8 +35,23 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/aeronautics/electrified-aircraft-propulsion/nasa-ge-hybrid-electric-flight/",
-      "url": "https://www.nasa.gov/aeronautics/electrified-aircraft-propulsion/nasa-ge-hybrid-electric-flight/",
+      "id": "https://phys.org/news/2026-07-acid-resistant-nanocage-gastric-cancer.html",
+      "url": "https://phys.org/news/2026-07-acid-resistant-nanocage-gastric-cancer.html",
+      "title": "Acid-resistant nanocage shows promise for targeted gastric cancer therapy",
+      "content_text": "Researchers from the Yong Loo Lin School of Medicine, National University of Singapore (NUS Medicine), have developed a swallowable nanoscale delivery platform designed to transport therapeutic enzymes through the stomach's acidic environment and activate a cancer-killing reaction at tumor sites. Early preclinical findings suggest that the approach may offer a new strategy for treating gastric cancer more precisely while reducing damage to healthy tissue.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2026/nus-medicine-scientist.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
+      "url": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
       "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
       "content_text": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform new generations of fuel-saving aircraft power systems.",
       "attachments": [
@@ -900,21 +915,6 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/brain-inspired-nanopor.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2026-07-hybrid-material-antiferroelectricity-coexist-switchable.html",
-      "url": "https://phys.org/news/2026-07-hybrid-material-antiferroelectricity-coexist-switchable.html",
-      "title": "Hybrid material confirms antiferroelectricity can coexist with switchable polarization",
-      "content_text": "Many of the advanced electronic components surrounding us in everyday life rely on polar materials to function. Polar materials have an uneven distribution of electric charge. This gives them a positive and a negative side even in the absence of an external electric field. The most important among these are ferroelectric materials, in which the direction of polarization can be reversed by applying an electric field.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2026/so-you-thought-antifer.jpg",
           "mime_type": "image/jpeg"
         }
       ],

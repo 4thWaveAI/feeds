@@ -5,8 +5,8 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.json",
   "items": [
     {
-      "id": "https://www.nasa.gov/aeronautics/electrified-aircraft-propulsion/nasa-ge-hybrid-electric-flight/",
-      "url": "https://www.nasa.gov/aeronautics/electrified-aircraft-propulsion/nasa-ge-hybrid-electric-flight/",
+      "id": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
+      "url": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
       "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
       "content_text": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform new generations of fuel-saving aircraft power systems.",
       "attachments": [
@@ -584,21 +584,6 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2026/07/34280-mars-viking1-lander-1st-image-pia00381.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/image-article/nasas-chandra-and-ixpe-study-pulsar-in-lighthouse-nebula/",
-      "url": "https://www.nasa.gov/image-article/nasas-chandra-and-ixpe-study-pulsar-in-lighthouse-nebula/",
-      "title": "NASA's Chandra and IXPE Study Pulsar in Lighthouse Nebula - NASA",
-      "content_text": "This composite image, released on July 9, 2026, shows the region around a pulsar – a neutron star with a strong magnetic field that spins incredibly fast –",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/lighthouse-lg.jpg",
           "mime_type": "image/jpeg"
         }
       ],

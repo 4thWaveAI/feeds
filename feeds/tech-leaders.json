@@ -148,25 +148,6 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/entertainment/prime-video-july-movies-shows-music-sports-2026",
-      "url": "https://www.aboutamazon.com/news/entertainment/prime-video-july-movies-shows-music-sports-2026",
-      "title": "What's new on Prime Video in July 2026, including 'Elle,' 'The Ghost in the Shell,' and live sports",
-      "content_text": "Check out Prime Video's July lineup, which features the 'Legally Blonde' prequel series, new anime seasons, and more.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/516b1e7/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F40%2Fda%2Fd6ed983e44bb99c9f64df3c770ed%2Felle-s1-amazon-news-nb-062526.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/6KsT3K5ynrU?enablejsapi=1",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
       "id": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
       "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
       "title": "Securing internal systems against increasingly capable and imperfectly aligned AI",
@@ -352,6 +333,21 @@
       ],
       "tags": [
         "demis-hassabis"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/wnba-schedule-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/wnba-schedule-prime-video",
+      "title": "How to watch the WNBA on Prime Video",
+      "content_text": "Prime Video will stream 30 WNBA regular-season games, featuring stars like Caitlin Clark, A'ja Wilson, and 2026 No. 1 pick Azzi Fudd.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/102c8e1/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F9c%2F6c%2F26a25c5643c0b0867d2b3a1c7ef8%2Fwnba-2026-schedule-update-hero.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
       ]
     },
     {
@@ -784,7 +780,7 @@
       "content_text": "The official source for news about Apple, from Apple. Read press releases, get updates, watch video and download images.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202607202002=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202607202001=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -799,7 +795,7 @@
       "content_text": "The source for news about Apple Services. Get updates on the latest Apple Arcade games, Apple Originals on TV+, Podcasts, Books, and more from Apple Newsroom.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1784570537708=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1784577744008=",
           "mime_type": "image/jpeg"
         }
       ],
