@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.atom.xml"/>
   <id>urn:4thwaveai-feeds:videos</id>
-  <updated>Mon, 20 Jul 2026 03:58:03 +0000</updated>
+  <updated>Mon, 20 Jul 2026 04:41:55 +0000</updated>
   <entry>
     <title>NASA’s Psyche Mission Delivers Mars Flyby Data, Time-lapse Video  - NASA Science</title>
     <link href="https://science.nasa.gov/blogs/psyche/2026/07/17/nasas-psyche-mission-delivers-mars-flyby-data-time-lapse-video/"/>
@@ -221,18 +221,6 @@
     <summary type="text">We’re bringing the humanoid to life. Join us.</summary>
   </entry>
   <entry>
-    <title>MOTOMAN NEXT AI Robot’s Agentic Robot System Powered by Gemini Robotics | Category: News | Yaskawa Global Site</title>
-    <link href="https://www.yaskawa-global.com/newsrelease/news/179679"/>
-    <id>https://www.yaskawa-global.com/newsrelease/news/179679</id>
-    <summary type="text">Global</summary>
-  </entry>
-  <entry>
-    <title>Yaskawa Electric and SoftBank Corp. Validate  a Physical AI-Based Deformable Object Manipulation System | Category: News | Yaskawa Global Site</title>
-    <link href="https://www.yaskawa-global.com/newsrelease/news/179651"/>
-    <id>https://www.yaskawa-global.com/newsrelease/news/179651</id>
-    <summary type="text">Global</summary>
-  </entry>
-  <entry>
     <title>This could be the largest synthetic code dataset yet</title>
     <link href="https://research.ibm.com/blog/code-alchemy-for-synthetic-code"/>
     <id>https://research.ibm.com/blog/code-alchemy-for-synthetic-code</id>
@@ -391,5 +379,17 @@ Through world-renowned Meetings, peer-reviewed journals, webinars, workshops, ad
     <link href="https://www.bas.ac.uk/news/rothera-construction-season-upgrades-safeguard-future-polar-science/"/>
     <id>https://www.bas.ac.uk/news/rothera-construction-season-upgrades-safeguard-future-polar-science/</id>
     <summary type="text">A significant phase of construction at Rothera has been completed this season, delivering new infrastructure that will power cutting-edge polar science for decades ahead.</summary>
+  </entry>
+  <entry>
+    <title>New study provides clues to predicting iceberg calving - British Antarctic Survey</title>
+    <link href="https://www.bas.ac.uk/news/study-finds-surface-melt-can-strengthen-antarctic-ice-shelves-while-seawater-infiltration-weakens-them/"/>
+    <id>https://www.bas.ac.uk/news/study-finds-surface-melt-can-strengthen-antarctic-ice-shelves-while-seawater-infiltration-weakens-them/</id>
+    <summary type="text">New research led by British Antarctic Survey provides fresh insights into how cracks and fractures develop in ice and how future sea-level rise may unfold.</summary>
+  </entry>
+  <entry>
+    <title>From Vacuum to Lab: A Student’s Journey Towards Real-World Application  – ASPIRE Research Center</title>
+    <link href="https://aspire.usu.edu/from-vacuum-to-lab-a-students-journey-towards-real-world-application/"/>
+    <id>https://aspire.usu.edu/from-vacuum-to-lab-a-students-journey-towards-real-world-application/</id>
+    <summary type="text">In the classroom, students have the opportunity to learn and practice specific concepts in a controlled situation, sometimes referred to as a vacuum. Yet in the real-world, many concepts and skills must be considered simultaneously to arrive at a solution. Whitney Walpole, a mechanical engineering student at ASPIRE, is discovering what it takes to answer real-world questions.</summary>
   </entry>
 </feed>

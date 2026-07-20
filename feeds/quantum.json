@@ -237,7 +237,7 @@
       "attachments": [
         {
           "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fblog_Art_ICA_stillimage_bf9e4c1757.png&w=1200&q=85",
-          "mime_type": "image/png"
+          "mime_type": "image/jpeg"
         },
         {
           "url": "https://d35x6597f7j1wm.cloudfront.net/blog_Art_ICA_art_d82b7c8a89.mp4",
@@ -256,7 +256,7 @@
       "attachments": [
         {
           "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fblog_Art_Co_Fr_Ge_Net_98d3eaa9df.png&w=1200&q=85",
-          "mime_type": "image/png"
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -271,7 +271,7 @@
       "attachments": [
         {
           "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fattb_W5x71z_DU_Ig_P_Em_system_security_22a08fa0a4.png&w=1200&q=85",
-          "mime_type": "image/png"
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -316,7 +316,7 @@
       "attachments": [
         {
           "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fblog_Art_ICML_still_Image_e43a853e59.png&w=1200&q=85",
-          "mime_type": "image/png"
+          "mime_type": "image/jpeg"
         },
         {
           "url": "https://d35x6597f7j1wm.cloudfront.net/blog_Art_ICML_834b7a145c.mp4",
@@ -365,7 +365,7 @@
       "attachments": [
         {
           "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fblog_Art_ponder_This_July_1_c8c93dbda7.png&w=1200&q=85",
-          "mime_type": "image/png"
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -755,13 +755,13 @@
       ]
     },
     {
-      "id": "https://www.dwavequantum.com/learn/blog/",
-      "url": "https://www.dwavequantum.com/learn/blog/",
-      "title": "",
-      "content_text": "Discover how you can use quantum computing today",
+      "id": "https://arxiv.org/abs/2607.15307",
+      "url": "https://arxiv.org/abs/2607.15307",
+      "title": "Shielded RL for Route-Charged Parity-Term Ordering in QEDA Phase Components",
+      "content_text": "Commuting phase terms in quantum electronic design automation (QEDA) placement circuits are logically invariant under reordering, yet their routed cost varies substantially after hardware mapping, since term order affects CNOT cancellation, interaction locality, and routing pressure. We cast parity/support phase-term ordering within a QEDA phase component as a shielded reinforcement-learning problem: a feasibility shield restricts each step to unemitted terms, so every trajectory is a valid permutation by construction, and an elite (cross-entropy-method) policy is trained against a route-charged proxy combining support-transition size and heavy-hex topology-distance features. We validate by direct Qiskit routing of logically equivalent circuits to a synthetic IBM-style heavy-hex map. On 36",
       "attachments": [
         {
-          "url": "https://www.dwavequantum.com/media/hpulvqo3/dwave-gerneric-social_graphic.png?anchor=center&mode=crop&width=1200&height=630",
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
           "mime_type": "image/png"
         }
       ],
@@ -770,23 +770,14 @@
       ]
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/",
-      "url": "https://azure.microsoft.com/en-us/blog/",
-      "title": "Microsoft Azure Blog",
-      "content_text": "Azure helps you build, run, and manage your applications. Get the latest news, updates, and announcements here from experts at the Microsoft Azure Blog.",
-      "tags": [
-        "quantum"
-      ]
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/quantum/content-type/events/",
-      "url": "https://azure.microsoft.com/en-us/blog/quantum/content-type/events/",
-      "title": "Events - Microsoft Azure Quantum Blog",
-      "content_text": "Stay up to date on Azure Quantum Events, from Microsoft's team of experts at Microsoft Azure Quantum Blog.",
+      "id": "https://arxiv.org/abs/2607.15316",
+      "url": "https://arxiv.org/abs/2607.15316",
+      "title": "Structure-Agnostic Unitary Learning from Quantum Observable Dynamics with Application to Hamiltonian Identification",
+      "content_text": "We present a variational algorithm for learning an unknown quantum unitary from time-series observable measurements, with no structural assumption about the target. The core separation: a hardware-efficient parametrised circuit learns the evolution operator U via observable matching; Hamiltonian identification follows as classical post-processing via matrix logarithm, when the target happens to be exp(-iH*tau).\n  Three experiments establish the method's generality. First, a noiseless proof of correctness with exact gradients (L-BFGS-B) achieves MSE 1.61e-14 and recovers all Hamiltonian coefficients to six decimal places. Second, a gate-learning experiment fits CNOT, iSWAP, and a Haar-random SU(4) element -- none generated by any fixed Hamiltonian -- all to process fidelity 1.000000, confir",
       "attachments": [
         {
-          "url": "https://azure.microsoft.com/en-us/blog/quantum/wp-content/uploads/2020/10/Q-ProgramBlog-Default-Social-Image.jpg",
-          "mime_type": "image/jpeg"
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -794,14 +785,14 @@
       ]
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/quantum/content-type/news/",
-      "url": "https://azure.microsoft.com/en-us/blog/quantum/content-type/news/",
-      "title": "News - Microsoft Azure Quantum Blog",
-      "content_text": "Stay up to date on Azure Quantum News, from Microsoft's team of experts at Microsoft Azure Quantum Blog.",
+      "id": "https://arxiv.org/abs/2607.15319",
+      "url": "https://arxiv.org/abs/2607.15319",
+      "title": "Collective Enhancement of Nuclear Excitation for a Nuclear Quantum Battery",
+      "content_text": "Current implementations of quantum batteries are constrained by limited energy density and short retention times associated with the electronic or molecular excitations. Here we propose a nuclear quantum battery based on collective excitation of the $^{57}$Fe nuclei of density $n$ embedded in a planar hard X-ray waveguide. Using a Green function waveguide-QED description, we study charging via excitation beyond linear response, where saturation and drive back-action reshape the incident pulse. We introduce a self-consistent waveform-engineering protocol that inhibits local radiative decay in the waveguide thus promoting absorption into high-lying collective nuclear excitation manifolds. We show an enhanced excitation cross section of the nuclear ensemble which yields superlinear charging, ",
       "attachments": [
         {
-          "url": "https://azure.microsoft.com/en-us/blog/quantum/wp-content/uploads/2020/10/Q-ProgramBlog-Default-Social-Image.jpg",
-          "mime_type": "image/jpeg"
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -809,14 +800,14 @@
       ]
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/quantum/content-type/partnerships/",
-      "url": "https://azure.microsoft.com/en-us/blog/quantum/content-type/partnerships/",
-      "title": "Partnerships - Microsoft Azure Quantum Blog",
-      "content_text": "Stay up to date on Azure Quantum Partnerships, from Microsoft's team of experts at Microsoft Azure Quantum Blog.",
+      "id": "https://arxiv.org/abs/2607.15326",
+      "url": "https://arxiv.org/abs/2607.15326",
+      "title": "Quantum error-correcting codes from aperiodic monotiles: the Hat and the Spectre",
+      "content_text": "Li and Boyle showed that the Penrose tiling defines a quantum error-correcting code: superpositions of tilings over isometry orbits protect quantum information against erasure of any bounded region. We extend the construction to the aperiodic monotiles discovered by Smith, Myers, Kaplan and Goodman-Strauss. For the Hat, we prove strong local indistinguishability for all Hat tilings, and we prove local recoverability unconditionally for all nonsingular Hat tilings via the torus parametrization of the underlying cut-and-project scheme. The remaining singular case reduces to one sharply posed geometric question -- can a region that is a union of hats be retiled a second way? -- which we verify computationally has no counterexample up to a substantial scale: a certified $2490$-tile patch admit",
       "attachments": [
         {
-          "url": "https://azure.microsoft.com/en-us/blog/quantum/wp-content/uploads/2020/10/Q-ProgramBlog-Default-Social-Image.jpg",
-          "mime_type": "image/jpeg"
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -824,14 +815,14 @@
       ]
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/quantum/product/azure-quantum/",
-      "url": "https://azure.microsoft.com/en-us/blog/quantum/product/azure-quantum/",
-      "title": "Azure Quantum - Microsoft Azure Quantum Blog",
-      "content_text": "Get up to date news and updates about Azure Quantum with insights from the experts at Microsoft Azure Quantum Blog.",
+      "id": "https://arxiv.org/abs/2607.15343",
+      "url": "https://arxiv.org/abs/2607.15343",
+      "title": "Non-Hermitian Quantum Adiabatic Algorithm",
+      "content_text": "Non-Hermitian systems offer new opportunities for quantum optimization and computation. Here, we show that non-Hermitian quantum adiabatic algorithms require not only a real, gapped spectrum, but also a stable pseudospectrum. We propose a novel framework by mapping non-unitary quantum circuits to local Hamiltonian paths, thereby preserving their optimization advantages and shallow depth. While a direct non-Hermitian extension of the Feynman-Kitaev construction suffers severe pseudospectral instability, our history-decoupled construction yields both a controlled pseudospectrum and a real, gapped spectrum. Using the CK benchmark family of maximum independent set problems, we demonstrate polynomial-evolution-time non-Hermitian adiabatic computation that remains robust against perturbations. W",
       "attachments": [
         {
-          "url": "https://azure.microsoft.com/en-us/blog/quantum/wp-content/uploads/2020/10/Q-ProgramBlog-Default-Social-Image.jpg",
-          "mime_type": "image/jpeg"
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -839,14 +830,74 @@
       ]
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/quantum/product/azure-quantum-elements/",
-      "url": "https://azure.microsoft.com/en-us/blog/quantum/product/azure-quantum-elements/",
-      "title": "Azure Quantum Elements - Microsoft Azure Quantum Blog",
-      "content_text": "Get up to date news and updates about Azure Quantum Elements with insights from the experts at Microsoft Azure Quantum Blog.",
+      "id": "https://arxiv.org/abs/2607.15345",
+      "url": "https://arxiv.org/abs/2607.15345",
+      "title": "Causality from the spectrum: Emergence of causal order from process-matrix mereology",
+      "content_text": "In Hamiltonian systems, the only basis-independent quantity is the spectrum. Given a spectrum, quantum mereology seeks preferred tensor-product decompositions into local subsystems, leading to the emergence of locality. Causal order, however, remains fixed by the Hamiltonian time evolution. In contrast, higher-order quantum theory permits more general processes that need not possess a definite global causal order. In the process-matrix framework, specifying a process requires a choice of subsystems corresponding to the input and output Hilbert spaces of each agent. A change of basis redefines both the agents and the corresponding decompositions into subsystems, while leaving the spectrum of the process matrix invariant. Here, we study how causality arises from this spectrum. First, we deri",
       "attachments": [
         {
-          "url": "https://azure.microsoft.com/en-us/blog/quantum/wp-content/uploads/2020/10/Q-ProgramBlog-Default-Social-Image.jpg",
-          "mime_type": "image/jpeg"
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15351",
+      "url": "https://arxiv.org/abs/2607.15351",
+      "title": "The Paradox of the Third Particle is classical",
+      "content_text": "The Paradox of the Third Particle arises when particles are described relative to one of them serving as a reference frame. Although it is typically attributed to quantum superpositions, we show that the paradox and its ramifications$\\unicode{x2014}$such as the relativity of subsystems$\\unicode{x2014}$already occur classically. In light of this insight, we establish a no-go theorem that holds whenever physical subsystems, whether classical or quantum, are used as reference frames: if one demands that frame transformations be information-preserving, then it is impossible to meaningfully partition the world into subsystems, like individual particles, from the perspective of each frame.",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15358",
+      "url": "https://arxiv.org/abs/2607.15358",
+      "title": "Spectral amplification for ground-state energy estimation of electronic structure in first quantization",
+      "content_text": "We demonstrate an asymptotic gate complexity improvement in first-quantized ground-state energy estimation of electronic structure Hamiltonians in a plane wave basis by employing the sum-of-squares spectral gap amplification protocol. The improvement relies on identifying a sum-of-squares representation of the Hamiltonian which provides a lower bound certificate and low cost block encoding that leads to a provably lower quantum phase estimation gate cost. This is achieved by using a sum-of-squares operator generated by the total charge density operator resulting in a block encoding normalization improvement of $λ= \\mathcal{O}\\left(ηΔ^{-1.5}+η^{1.5}Δ^{-1} \\right)$ compared to prior work $λ= \\mathcal{O}(ηΔ^{-2}+η^2Δ^{-1})$ where $η$ is the number of electrons and $Δ$ is the simulation grid s",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15376",
+      "url": "https://arxiv.org/abs/2607.15376",
+      "title": "The Trinity of Markovian Quantum Thermodynamics: Unifying the Axiomatic, Microscopic, and Operational Paradigms",
+      "content_text": "Thermodynamics imposes fundamental constraints on the evolution of quantum systems. These constraints and their dynamical consequences have been formulated within distinct paradigms, including axiomatic approaches based on quantum master equations, microscopic descriptions of open-system dynamics, and operational formulations rooted in resource theories. While each perspective has yielded important insights into thermodynamically consistent quantum dynamics, their precise relationship has remained unresolved. Here we establish the exact equivalence of these three paradigms in the Markovian regime. We prove that thermal Lindbladians satisfying Markovianity, time-translation symmetry, and quantum detailed balance are precisely those admitting a microscopic realisation as an energy-conserving",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15398",
+      "url": "https://arxiv.org/abs/2607.15398",
+      "title": "Saturating the Bayesian Nagaoka-Hayashi bound within numerical precision for the depolarization SU(2) rotation channel",
+      "content_text": "The Bayesian Nagaoka--Hayashi (NH) bound is a semidefinite lower bound on the Bayes risk of multiparameter estimation, tighter than the Bayesian symmertic logarithmic derivative (SLD) Cramér--Rao bounds, and whether it can be attained is an open problem. We study the single-shot estimation of a qubit rotation, all three parameters at once, under depolarizing noise and a uniform prior, with $k$ parallel uses of the channel. Rotational covariance reduces the joint optimization of probe, measurement, and estimator, and the NH bound itself, to small semidefinite programs, solvable through $k=4$. At every number of uses and noise strength the optimized strategy reaches the NH bound within the numerical precision of the calculation, numerical evidence that the bound is attained for this channel ",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
         }
       ],
       "tags": [

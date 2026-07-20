@@ -144,186 +144,6 @@
       ]
     },
     {
-      "id": "https://bostondynamics.com/news/",
-      "url": "https://bostondynamics.com/news/",
-      "title": "News | Boston Dynamics",
-      "content_text": "Discover the latest news about Boston Dynamics and stay up to date with what we’ve been working on. Explore product news, media coverage, and more.",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/uploads/2023/07/library-bd-hq.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://bostondynamics.com/blog/",
-      "url": "https://bostondynamics.com/blog/",
-      "title": "Blogs | Boston Dynamics",
-      "content_text": "Stay up to date on the latest trends in robotics and other industry insights from the Boston Dynamics blog.",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/themes/boston-dynamics/button-icons/search.svg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://bostondynamics.com/blog/training-a-humanoid-robot-for-hard-work/",
-      "url": "https://bostondynamics.com/blog/training-a-humanoid-robot-for-hard-work/",
-      "title": "Training a Humanoid Robot for Hard Work | Boston Dynamics",
-      "content_text": "Using AI-driven behaviors, Boston Dynamics’ Atlas robot coordinates its whole body to execute complex tasks with accuracy and reliability.",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/uploads/2026/05/training-fridge-tech-blog.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://bostondynamics.com/blog/deploying-robots-into-and-onto-the-field/",
-      "url": "https://bostondynamics.com/blog/deploying-robots-into-and-onto-the-field/",
-      "title": "Deploying Robots Into (and Onto) the Field | Boston Dynamics",
-      "content_text": "On Sunday July 5th, Atlas®, Boston Dynamics humanoid robot, stepped onto the field during halftime of the FIFA World Cup 2026™ Norway-Brazil round of 16 match at New York New Jersey Stadium. In the first public appearance of our production Atlas—and the first ever robotic halftime activation of the FIFA World Cup™—the robot presented the […]",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/uploads/2026/07/atlas-world-cup-team.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://bostondynamics.com/blog/bridging-the-porch-gap/",
-      "url": "https://bostondynamics.com/blog/bridging-the-porch-gap/",
-      "title": "Bridging the ‘Porch Gap’ | Boston Dynamics",
-      "content_text": "Boston Dynamics is testing a last-mile delivery solution with Spot to get packages to the doorstep with less strain and greater efficiency.",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/uploads/2026/07/last-mile-delivery-loading.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://bostondynamics.com/blog/securing-the-fifa-world-cup-2026/",
-      "url": "https://bostondynamics.com/blog/securing-the-fifa-world-cup-2026/",
-      "title": "Securing the FIFA World Cup 2026 | Boston Dynamics",
-      "content_text": "At FIFA World Cup 2026™, Boston Dynamics' Spot robots have taken on a new security assignment: helping protect the largest sporting event in the world.",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/uploads/2026/07/spot-fife-security.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://bostondynamics.com/blog/can-football-teach-a-robot-to-move/",
-      "url": "https://bostondynamics.com/blog/can-football-teach-a-robot-to-move/",
-      "title": "Can football teach a robot to move? | Boston Dynamics",
-      "content_text": "Aathletes perform amazing acts of physicality every day and that's the bar for Boston Dynamics Atlas robot. Learn how we train Atlas from human demonstration.",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/uploads/2026/06/Thumbnails_16X9_TRAINING_3.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://bostondynamics.com/blog/ask-a-roboticist-meet-chastity/",
-      "url": "https://bostondynamics.com/blog/ask-a-roboticist-meet-chastity/",
-      "title": "Ask a Roboticist: Meet Chastity | Boston Dynamics",
-      "content_text": "Chastity Kelly, a mechanical design engineer, answers questions about the design of Atlas’ foot, whether robots need shoes, and her path to robotics. Read the interview below and watch a conversation with Chastity on how Atlas strides through the world. Working at Boston Dynamics What is your role at Boston Dynamics?I’m a mechanical design engineer […]",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/uploads/2026/06/chastity-kelly.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://bostondynamics.com/blog/ask-a-roboticist-meet-ethan/",
-      "url": "https://bostondynamics.com/blog/ask-a-roboticist-meet-ethan/",
-      "title": "Ask a Roboticist: Meet Ethan | Boston Dynamics",
-      "content_text": "Ethan Lauer, a software engineer at Boston Dynamics, answers questions about robot perception, world modeling, and what spooks Stretch.",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/uploads/2026/04/ethan.lauer_.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/",
-      "url": "https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/",
-      "title": "Tools for Your To Do List with Spot and Gemini Robotics | Boston Dynamics",
-      "content_text": "A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/uploads/2026/03/spot-to-do-list.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://bostondynamics.com/blog/aivi-learning-now-powered-google-gemini-robotics/",
-      "url": "https://bostondynamics.com/blog/aivi-learning-now-powered-google-gemini-robotics/",
-      "title": "AIVI-Learning Is Now Powered by Google Gemini Robotics | Boston Dynamics",
-      "content_text": "We have partnered with Google Cloud and Google DeepMind to integrate Gemini and Gemini Robotics ER 1.6 into Orbit AIVI-Learning.",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/uploads/2026/04/aivi-5sboard.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://bostondynamics.com/blog/scaling-new-career-heights-with-stretch/",
-      "url": "https://bostondynamics.com/blog/scaling-new-career-heights-with-stretch/",
-      "title": "Scaling New Career Heights with Stretch | Boston Dynamics",
-      "content_text": "Boston Dynamics' employee spotlight series shares the journeys of our team members: featuring Dayme Delgado, a Field Applications Engineer.",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/uploads/2026/03/dayme-delgado-employee-spotlight.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
       "id": "https://www.figure.ai/news/helix-02",
       "url": "https://www.figure.ai/news/helix-02",
       "title": "Introducing Helix 02: Full-Body Autonomy",
@@ -566,7 +386,7 @@
     {
       "id": "https://www.unitree.com/news/38",
       "url": "https://www.unitree.com/news/38",
-      "title": "https://www.unitree.com/news/38",
+      "title": "38",
       "content_text": "Robots",
       "tags": [
         "robotics"
@@ -575,7 +395,7 @@
     {
       "id": "https://www.unitree.com/news/40",
       "url": "https://www.unitree.com/news/40",
-      "title": "https://www.unitree.com/news/40",
+      "title": "40",
       "content_text": "Robots",
       "tags": [
         "robotics"
@@ -584,7 +404,7 @@
     {
       "id": "https://www.unitree.com/news/33",
       "url": "https://www.unitree.com/news/33",
-      "title": "https://www.unitree.com/news/33",
+      "title": "33",
       "content_text": "Robots",
       "tags": [
         "robotics"
@@ -593,7 +413,7 @@
     {
       "id": "https://www.unitree.com/news/31",
       "url": "https://www.unitree.com/news/31",
-      "title": "https://www.unitree.com/news/31",
+      "title": "31",
       "content_text": "Robots",
       "tags": [
         "robotics"
@@ -602,7 +422,7 @@
     {
       "id": "https://www.unitree.com/news/29",
       "url": "https://www.unitree.com/news/29",
-      "title": "https://www.unitree.com/news/29",
+      "title": "29",
       "content_text": "Robots",
       "tags": [
         "robotics"
@@ -611,7 +431,7 @@
     {
       "id": "https://www.unitree.com/news/27",
       "url": "https://www.unitree.com/news/27",
-      "title": "https://www.unitree.com/news/27",
+      "title": "27",
       "content_text": "Robots",
       "tags": [
         "robotics"
@@ -620,7 +440,7 @@
     {
       "id": "https://www.unitree.com/news/26",
       "url": "https://www.unitree.com/news/26",
-      "title": "https://www.unitree.com/news/26",
+      "title": "26",
       "content_text": "Robots",
       "tags": [
         "robotics"
@@ -629,7 +449,7 @@
     {
       "id": "https://www.unitree.com/news/25",
       "url": "https://www.unitree.com/news/25",
-      "title": "https://www.unitree.com/news/25",
+      "title": "25",
       "content_text": "Robots",
       "tags": [
         "robotics"
@@ -638,7 +458,7 @@
     {
       "id": "https://www.unitree.com/news/24",
       "url": "https://www.unitree.com/news/24",
-      "title": "https://www.unitree.com/news/24",
+      "title": "24",
       "content_text": "Robots",
       "tags": [
         "robotics"
@@ -649,6 +469,156 @@
       "url": "https://www.unitree.com/news",
       "title": "News Center - Unitree Robotics",
       "content_text": "Robots",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15330",
+      "url": "https://arxiv.org/abs/2607.15330",
+      "title": "Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories",
+      "content_text": "We present Xiaomi-Robotics-1, a foundational vision-language-action (VLA) model capable of (1) following diverse language instructions to perform a wide range of mobile manipulation tasks in unseen environments out-of-the-box, and (2) efficiently adapting to novel downstream tasks with minimal fine-tuning data. We propose a two-stage training recipe consisting of pre-training and post-training. During pre-training, we imbue the model with broad and generalizable action-generation capabilities by training on over 100k hours of real-world manipulation trajectories collected via UMI devices. Crucially, we develop a scalable auto-labeling pipeline that annotates trajectory clips with natural languages describing scene state transitions, providing rich and precise conditioning for action learni",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15395",
+      "url": "https://arxiv.org/abs/2607.15395",
+      "title": "NeuroCommitSSM: Decision-Centric Shared Autonomy for Safe Assistive Manipulation via EEG-EMG-ET Commit Readiness",
+      "content_text": "We present NeuroCommitSSM, a decision-centric framework that models when to execute, not just what to do, for safe commit-to-execute control in assistive robotic manipulation. NeuroCommitSSM predicts a continuous commit-readiness score c_t in [0,1] from synchronized electroencephalography (EEG), electromyography (EMG), and eye-tracking (ET), and converts it into discrete commit events through dwell and hysteresis filtering. A three-state finite-state supervisor, HOLD-ASSIST-COMMIT (HAC), gates execution by requiring both a sustained commit-readiness signal from the neural model and real-time perception and robot-state feasibility, including target visibility, inverse kinematics solvability, and collision-free planning, before initiating motion. We evaluate the framework on N=32 subjects pe",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15422",
+      "url": "https://arxiv.org/abs/2607.15422",
+      "title": "Robust Silicone Pour Casting and Sensor Embedding Procedures for Soft Robotic Actuators",
+      "content_text": "Soft robots are well-suited for applications such as rehabilitation and surgery that require adaptable and safe interaction with their environment. However, the challenges of reproducible and scalable fabrication of soft robots limit their real-world deployment. Various fabrication methods have been introduced, but many are labor-intensive and prone to human error. Therefore, traditional two-part pour casting remains an attractive option. This paper presents procedures for robust, repeatable, and scalable fabrication of soft pneumatic actuators using two-part pour casting. The presented methods prevent internal cavity clogging and ensure air-tight sealing. Additionally, a robust sensor embedding procedure for thin-film flex sensors is presented, which allows for accurate and repeatable dat",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15448",
+      "url": "https://arxiv.org/abs/2607.15448",
+      "title": "VTAP Gripper: Synergizing Fingertip Sensing and a Visuo-Tactile Active Palm for Dexterous In-Hand Manipulation",
+      "content_text": "This paper presents a tactile-reactive gripper that integrates a Visuo-Tactile Active Palm (VTAP) and compliant, reconfigurable fingers equipped with tactile array sensors. The design exploits structured finger-palm synergy and multi-modal perception to achieve both robust grasping and fine manipulation. The actuated bi-modal palm seamlessly combines long-range visual localization with contact-rich tactile feedback, substantially extending the system's manipulation capability. To bridge the embodiment gap between human hand motion and the heterogeneous three-finger structure, we further propose a staged, gesture-conditioned retargeting framework for dexterous teleoperation. Extensive experiments validate the system across a range of challenging tasks: reactive grasping of YCB and fragile o",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15483",
+      "url": "https://arxiv.org/abs/2607.15483",
+      "title": "Risk-Aware Preference Learning for Stochastic Outcomes",
+      "content_text": "Learning reward functions from human preferences is a widely used approach for aligning robot behavior with user expectations in human-robot interaction. Most existing approaches assume that humans evaluate uncertain outcomes using expected utility (EU), aggregating outcome utilities linearly with their probabilities. However, behavioral evidence shows that humans are systematically risk-sensitive, overweighting rare negative events and exhibiting loss aversion. We study the consequences of this mismatch in social robot navigation, where safety-critical outcomes (e.g., collisions) are rare but highly consequential. We compare EU with Cumulative Prospect Theory (CPT), a nonlinear model of human decision-making, within a Bradley-Terry preference learning framework. Our preliminary experiment",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15487",
+      "url": "https://arxiv.org/abs/2607.15487",
+      "title": "Environment Design for Reliable Shared Autonomy with Probabilistic Guarantees",
+      "content_text": "Shared autonomy enables humans and robots to collaboratively perform tasks by combining human input with autonomous assistance. Most prior work focuses on improving intent inference under a fixed environment, overlooking how workspace design itself affects inference difficulty. We observe that the physical arrangement of objects directly influences the separability of candidate goals under noisy user inputs. We formulate workspace design as an optimization problem and derive a probabilistic correctness guarantee under a bounded noise model. Through simulation experiments across multiple tabletop scenarios, we show that optimized layouts improve goal inference reliability and reduce ambiguity compared to baseline arrangements. We further demonstrate a real-world shared autonomy system that ",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15508",
+      "url": "https://arxiv.org/abs/2607.15508",
+      "title": "Multi-Objective Kinodynamic Motion Planning with Asymptotic Pareto Optimality",
+      "content_text": "In this paper, we address the challenge of multi-objective motion planning for systems under kinodynamic constraints. We consider three problem classes: (i) lexicographic optimization, in which objectives are minimized according to a strict priority ordering, (ii) constrained optimization, in which a primary objective is minimized subject to bounds on the remaining costs, and (iii) Pareto front optimization, in which the goal is to approximate the full set of optimal trade-offs among competing objectives. We first show that established cost scalarization methods for multi-objective problems cannot be extended to continuous-domain systems with correctness guarantees. Then, we propose a unified algorithmic framework built upon the Stable Sparse-RRT (SST) algorithm, in which the single repres",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15579",
+      "url": "https://arxiv.org/abs/2607.15579",
+      "title": "PACE: Persona Adaptation through Conversational Elicitation in Human-Robot Interaction",
+      "content_text": "Equipping humanoid robots with coherent and adaptable personas is crucial for fostering natural, engaging, and trustworthy human-robot interaction (HRI). However, existing approaches often rely on static, hard-coded identities that lack the flexibility to adapt to individual user contexts. In this paper, we present PACE (Persona Adaptation through Conversational Elicitation), a novel framework for the interactive generation and deployment of structured personas on the Ameca humanoid robot. Our system introduces an Interactive Persona Elicitation Pipeline, enabling the robot to dynamically synthesize a tailored, psychologically grounded identity through user Q&A. This elicitation process feeds into a persona prompt compilation phase, generating a structured persona prompt built upon multi-p",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15582",
+      "url": "https://arxiv.org/abs/2607.15582",
+      "title": "A Model-Based Decoupling Strategy for Proprioception and Contact Sensing in an Architected Soft Manipulator",
+      "content_text": "Soft continuum robots require embedded sensing for proprioception and contact detection, yet integrating sensors into sparse, highly deformable architected structures remains challenging. We present a model-based strategy that decouples proprioceptive and contact signals from a common set of fluidic pressure sensors embedded in a soft architected segment. Each segment of the Innervated Trimmed Helicoid (ITH) contains six air channels routed in a localized zigzag pattern along the circumference. With only three principal kinematic degrees of freedom (axial compression, bending in x, bending in y), the six pressure readings form an overdetermined system. A piecewise constant curvature model maps pressures to shape, and Huber regression identifies outlier channels whose residuals indicate ext",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15589",
+      "url": "https://arxiv.org/abs/2607.15589",
+      "title": "MemoGuard: An Adaptive Runtime for Guarding Against Memory Traps in Communication-Limited Robot Navigation",
+      "content_text": "Communication-limited robots in mission-critical scenarios such as disaster inspection and search-and-rescue must make reliable onboard decisions without access to remote operators or high-capacity reasoning services. Episodic memory reuse is an attractive low-cost fallback, but retrieval similarity does not guarantee execution validity, i.e., a retrieved action may match the current context yet be unsafe due to changed topology, insufficient battery margin, or unreliable prior outcomes. We call such high-similarity but execution-invalid episodes memory traps. This creates a safety-efficiency design space where similarity only reuse minimizes fallback cost but can be unsafe, while always invoking local reasoning improves safety at high computational and energy cost. This paper presents Mem",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
       "tags": [
         "robotics"
       ]
@@ -669,9 +639,159 @@
       ]
     },
     {
+      "id": "https://arxiv.org/abs/2607.15322",
+      "url": "https://arxiv.org/abs/2607.15322",
+      "title": "A Distributed Cluster Economic Dispatch Scheme for Cross-regional Microgrids Induced by Well-designed Communication Weights",
+      "content_text": "A large-scale microgrid typically consists of several cross-regional subgrids aggregated by a virtual power plant (VPP). However, current consensus based schemes can-not guarantee the feature of differential demand between subgrids. Thus, distributed cluster consensus control induced by communication weights is investigated in this paper to solve the ED problem of a large-scale microgrid, which can achieve the expected cluster via well-designed communication weights. A communication weight matrix design method for a directed and connected graph based on eigenvector centrality is designed, which enables the adjacency matrix of the communication network to have a given leading eigenvector and allows agents in each cluster to have the same eigenvector center value. Based on this, a distribute",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15323",
+      "url": "https://arxiv.org/abs/2607.15323",
+      "title": "Distributed Cooperative Control of BESSs in AC and DC Hybrid Microgrid and Its Energy Internet Paradigm",
+      "content_text": "An AC and DC hybrid microgrid, which inherits advantages of AC and DC microgrids and discards some disadvantages, is considered to be the most promising power network structure and gradually applied in the community. Usually, the AC subgrid and the DC subgrid are interconnected by Bidirectional Interlink Power Converters (BILPCs). Besides, in view of the different droop characteristics of AC subgrid and the DC subgrid, it is necessary to design a suitable distributed secondary controller for an AC and DC hybrid microgrid. Accordingly, this paper proposes a flexible and scalable distributed control framework for an AC and DC hybrid battery energy storage system (ADHB) with BILPCs in an Energy Internet (EI) paradigm. An ADHB governed by multi agent systems via a cloud server can reach the St",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15329",
+      "url": "https://arxiv.org/abs/2607.15329",
+      "title": "Co-Design of Aeroelastic Systems with Deep Reinforcement Learning",
+      "content_text": "Control co-design considers the physical system and its controller together, enabling the strong coupling between system design and control to be uncovered and exploited. This is especially relevant in aeroelastic flight systems, where structural, aerodynamic, and control design choices jointly determine manoeuvrability and efficiency. This paper presents a model-free nested co-design framework for aeroelastic systems using deep reinforcement learning, in which a design-conditioned control policy is trained with proximal policy optimisation while an outer loop updates a distribution over candidate design parameters. The approach is evaluated on three case studies of increasing complexity: a spring-mass-damper system, a pitch-plunge-flap aerofoil, and a highly flexible high-aspect-ratio gli",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15365",
+      "url": "https://arxiv.org/abs/2607.15365",
+      "title": "Induction-heated resonant reactors for electrified thermochemistry",
+      "content_text": "We present induction-heated resonant reactors, a new concept in electrified thermochemistry in which the reactor itself serves as a volumetric electromagnetic resonator heated through resonant wireless power transfer. We use the Swiss roll resonator as a model system and show that it can be designed to support uniform volumetric heating profiles and enhanced heat transfer characteristics, creating opportunities for process intensification in scaled systems. Compared to conventional (i.e., non-resonant) induction heating systems, resonant reactors can achieve exceptionally high system efficiencies through the combination of near-unity power-to-heat efficiencies and low thermal losses, both enabled by the utilization of resonant energy transfer. These concepts demonstrate how the integration",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15430",
+      "url": "https://arxiv.org/abs/2607.15430",
+      "title": "Six-sigma Quality Management of Additive Manufacturing",
+      "content_text": "In this paper, we propose to design, develop, and implement the new DMAIC methodology for Six-Sigma quality management of AM. First, we define the specific quality challenges arising from AM layer-wise fabrication and mass customization (even one-of-a-kind production). Second, we present a review of AM metrology and sensing techniques, from materials through design, process, environment, to post-build inspection. Third, we contextualize a framework for realizing the full potential of data from AM systems, and emphasize the need for analytical methods and tools. We propose and delineate the utility of new data-driven analytical methods, including deep learning, machine learning, and network science, to characterize and model the interrelationships between engineering design, machine setting",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15460",
+      "url": "https://arxiv.org/abs/2607.15460",
+      "title": "Stochastic Multi-Segment Scheduling of Variable-Speed Pumped Storage Hydropower for Energy and Ancillary Services Provision",
+      "content_text": "Variable-speed pumped storage hydropower (VS-PSH) offers long-duration energy storage alongside ancillary services in competitive electricity markets. However, its operation and scheduling are challenged by head-dependent nonlinearities, discrete mode transitions, and energy-continuity constraints. This study proposes a stochastic framework for VS-PSH that employs a multi-segment bidding structure to generate market-consistent energy and synchronized reserve offers in compliance with market rules. The framework explicitly incorporates physical constraints, including head-dependent capability limits, discrete pumping and generating modes, as well as state-of-charge (SoC) and head dynamics, within a stochastic mixed-integer linear programming (MILP) formulation. Price uncertainty is represen",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15541",
+      "url": "https://arxiv.org/abs/2607.15541",
+      "title": "StarCodex: Dynamic Coding Harness for Starlink Measurement Analysis and Experiment Automation",
+      "content_text": "Starlink and other low Earth orbit (LEO) satellite broadband systems are producing increasingly diverse measurement data across regions, time periods, and access conditions. These measurements are valuable for throughput prediction, adaptive bitrate (ABR) evaluation, and network experimentation, but converting continuously arriving data into reusable experimental evidence still relies heavily on manually developed analysis code and expert-guided data inspection and failure-case organization. This paper proposes StarCodex, a dynamic coding harness for Starlink measurement analysis and experiment automation. StarCodex detects analysis gaps from the current measurement state, converts them into structured coding tasks, uses Codex to generate or repair executable analysis artifacts, and accept",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15570",
+      "url": "https://arxiv.org/abs/2607.15570",
+      "title": "Price-Based Distributed Scheduling of Flexible Demands in Energy Communities",
+      "content_text": "We study price-based distributed scheduling of flexible demand in an energy community, where a coordinator broadcasts electricity prices and individual households schedule their consumption. Household demand includes deferrable and non-deferrable loads, such as electric vehicle charging with completion deadlines and thermostatically controlled loads. The coordinator transacts with a distribution utility on behalf of community members under the regulated Net Energy Metering tariff. We formulate distributed demand scheduling as a bilevel stochastic dynamic program. The upper level optimizes the coordinator's pricing policy to minimize the community's energy costs subject to operating, revenue adequacy, and individual rationality constraints. The lower level involves stochastic dynamic progra",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15572",
+      "url": "https://arxiv.org/abs/2607.15572",
+      "title": "A PI+R Control Scheme Based on Multi-agent Systems for Economic Dispatch in Isolated BESSs",
+      "content_text": "Battery energy storage systems (BESSs) are widely used in smart grids. However, power consumed by inner impedance and the capacity degradation of each battery unit become particularly severe, which has resulted in an increase in operating costs. The general economic dispatch (ED) algorithm based on marginal cost (MC) consensus is usually a proportional (P) controller, which encounters the defects of slow convergence speed and low control accuracy. In order to solve the distributed ED problem of the isolated BESS network with excellent dynamic and steady-state performance, we attempt to design a proportional integral (PI) controller with a reset mechanism (PI+R) to asymptotically promote MC consensus and total power mismatch towards 0 in this paper. To be frank, the integral term in the PI ",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15583",
+      "url": "https://arxiv.org/abs/2607.15583",
+      "title": "Distributed Continuous Aerial Surveillance by UAS Swarms Under Formal Mission Specifications",
+      "content_text": "Persistent aerial surveillance using multi-unmanned aerial systems (UASs) requires decentralized coordination, continuous team reconfiguration, and provable mission correctness despite limited onboard energy and communication constraints. This paper develops a distributed framework for continuous aerial surveillance under bounded Linear Temporal Logic (LTL) mission specifications. The proposed approach partitions the UAS team into stationary anchors and mobile workers operating under cyclic replacement modes, and constructs a deep neural network (DNN)-inspired communication topology that enables fully decentralized coordination through local interactions. A hierarchical bounded LTL specification formally captures mode-to-mode reference consistency, cyclic team rotation, finite-time reachab",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
       "id": "https://www.unitree.com/cn/news/34",
       "url": "https://www.unitree.com/cn/news/34",
-      "title": "https://www.unitree.com/cn/news/34",
+      "title": "34",
       "content_text": "机器人",
       "tags": [
         "robotics"
@@ -680,7 +800,7 @@
     {
       "id": "https://www.unitree.com/cn/news/30",
       "url": "https://www.unitree.com/cn/news/30",
-      "title": "https://www.unitree.com/cn/news/30",
+      "title": "30",
       "content_text": "机器人",
       "tags": [
         "robotics"
@@ -713,8 +833,8 @@
     {
       "id": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/Vision2035_en.pdf",
       "url": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/Vision2035_en.pdf",
-      "title": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/Vision2035_en.pdf",
-      "content_text": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/Vision2035_en.pdf",
+      "title": "Vision2035 En.Pdf",
+      "content_text": "Vision2035 En.Pdf",
       "tags": [
         "robotics"
       ]
@@ -722,92 +842,8 @@
     {
       "id": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/Dash35_en.pdf",
       "url": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/Dash35_en.pdf",
-      "title": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/Dash35_en.pdf",
-      "content_text": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/Dash35_en.pdf",
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://www.yaskawa-global.com/category/news/feed/?post_type=post",
-      "url": "https://www.yaskawa-global.com/category/news/feed/?post_type=post",
-      "title": "Yaskawa Global SiteNews – Yaskawa Global Site",
-      "content_text": "Yaskawa Global SiteNews – Yaskawa Global Site",
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://www.yaskawa-global.com/category/news/",
-      "url": "https://www.yaskawa-global.com/category/news/",
-      "title": "News | News | Yaskawa Global Site",
-      "content_text": "Global",
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://www.yaskawa-global.com/newsrelease/news/179679",
-      "url": "https://www.yaskawa-global.com/newsrelease/news/179679",
-      "title": "MOTOMAN NEXT AI Robot’s Agentic Robot System Powered by Gemini Robotics | Category: News | Yaskawa Global Site",
-      "content_text": "Global",
-      "attachments": [
-        {
-          "url": "https://www.youtube.com/embed/UfB9lVh-1iU",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://www.yaskawa-global.com/newsrelease/news/179651",
-      "url": "https://www.yaskawa-global.com/newsrelease/news/179651",
-      "title": "Yaskawa Electric and SoftBank Corp. Validate  a Physical AI-Based Deformable Object Manipulation System | Category: News | Yaskawa Global Site",
-      "content_text": "Global",
-      "attachments": [
-        {
-          "url": "https://www.youtube.com/embed/NFWMibbtJn0",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://www.yaskawa-global.com/newsrelease/news/179633",
-      "url": "https://www.yaskawa-global.com/newsrelease/news/179633",
-      "title": "Establishment of European Robotics Distribution Center (ERDC) and Relocation and Expansion of YASKAWA Ristro d.o.o. | Category: News | Yaskawa Global Site",
-      "content_text": "Global",
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/20260522_en.pdf",
-      "url": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/20260522_en.pdf",
-      "title": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/20260522_en.pdf",
-      "content_text": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/20260522_en.pdf",
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://www.yaskawa-global.com/wp-content/uploads/2026/04/20260417_en.pdf",
-      "url": "https://www.yaskawa-global.com/wp-content/uploads/2026/04/20260417_en.pdf",
-      "title": "https://www.yaskawa-global.com/wp-content/uploads/2026/04/20260417_en.pdf",
-      "content_text": "7�f�}߭U`xY��j�׍�V�h�2\n! C0ʌ�~g�4��VU��Gݞ�?�Oʊ+H��}㧿�损��yE;�H~��� �4�P�ĵ��X����.��[YOM��� tĔϓ�d���1�������¾���y�y�/�_-\\.Ϊ֘m;���v���q+ʆ\\�X�x5Q)�wϳ.�}�y��Z�Ri��߽üǺ��#����}�<�\tO�g�A���9�˄���$٤/�����YV���[6�1��S��\"w�a>/����;smm�\\���B���ߟ`�����g�h,��^�T�d�6[Q�iZ�x��T�T��y\n��1���vK�A̫[�{�T�@F%5���H&�b?��;a��hV%�9֩�;;U�W�ڋ6w�hC�/Zl���J�)���Ҷ��3��j�b齎�@�I>�;1\t��).�ࣆ,�f��6ֆ��[�ЛS���\"A\t���w֤�ү�%ށ�t�*�\"0Û�v�4�O��\",���*��Zt,<�_���>����}�J�\\O�;�D�\t\\Oc���e͐�$����\n�����������qƘ:�ÓM���P������9�i�GFp1�Q���z��e�hE��Ŷ�:e���f����=XĶ�����IЬch�5��Q5�>3�V�5���*�\t��Ó\\EU8�\\��(�]c�\n��Ǝ�����+x�>_�c�c��S/�=��+<��Z|5g�繊��L̓`���'&�������Tʌ��hwW�h/��D7�V�5-�J/��>�t�8'�W���J-���Fd6V��9�G��=K��؅P���f07a�yRk����7M��우�Dl�vY��.�f��d8j��X07��X�u�/\\;����J���Gfe������g�;����|b��lذV��!$'F�?���A�bn��WY)���mw]�ts�Fi��! Y¼���",
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://www.yaskawa-global.com/newsrelease/news/179056",
-      "url": "https://www.yaskawa-global.com/newsrelease/news/179056",
-      "title": "Announcement on Changes in Directors and Personnel Changes | Category: News | Yaskawa Global Site",
-      "content_text": "Global",
+      "title": "Dash35 En.Pdf",
+      "content_text": "Dash35 En.Pdf",
       "tags": [
         "robotics"
       ]

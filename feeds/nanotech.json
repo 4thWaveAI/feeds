@@ -513,6 +513,156 @@
       "tags": [
         "nanotech"
       ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15332",
+      "url": "https://arxiv.org/abs/2607.15332",
+      "title": "Spontaneous Nanopatterning and Strain Relaxation in SiGe Layers Grown by Oxidative Solid Phase Epitaxy",
+      "content_text": "The wafer-scale monolithic integration of III-V materials on Si would lead to revolutionary optoelectronic hardware for data, computing and other applications. However, heteroepitaxy of III-Vs on Si requires overcoming the large lattice and thermal mismatches between the materials and reducing threading dislocations densities. In this work, we explore the oxidative solid phase epitaxy (SPE) of Ge+ implanted Si(111) to form ultra-thin strain-relieving SiGe metamorphic buffer layers for heteroepitaxy on Si. The SPE process is shown to result in a nanopatterning of the Ge concentration variation across the sample surface, visible by scanning and transmission electron microscopy (SEM and TEM). The concentration patterning is the result of a hexagonal network of Shockley partial dislocations at",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15387",
+      "url": "https://arxiv.org/abs/2607.15387",
+      "title": "Phase-Field Simulation of Dendrite Evolution in All-Solid-State Sodium Batteries during Cycling",
+      "content_text": "Dendrite growth during cycling remains a critical challenge for all-solid-state batteries (SSBs), limiting the full realization of their inherent safety and high energy density. In particular, the mechanisms of continuous dendrite penetration during charge-discharge cycling remain poorly understood and are difficult to characterize experimentally. This study applies a phase-field model, informed by density functional theory calculations, to rationalize and visualize the dendrite penetration behaviors during cycling in sodium (Na) SSBs with pure Na or Na-Sb alloy anodes and polycrystalline Na$_3$SbS$_4$ electrolyte. We show that dendrite stripping is intrinsically asymmetric with respect to plating due to grain boundary geometry, leading to the formation of isolated Na metal that persists b",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15411",
+      "url": "https://arxiv.org/abs/2607.15411",
+      "title": "Ab initio time-dependent GW approach for nonequilibrium exciton-phonon coupled dynamics across momentum space",
+      "content_text": "The dynamics of optical excitations in materials generally involves intertwined electron-hole (e-h) and electron-phonon (e-ph) interactions out of equilibrium. However, a full theoretical description of such nonequilibrium dynamics requires a systematic treatment of the coherent excitonic excitations and exciton-phonon interactions across the entire crystal momentum space in real time, which remains a major challenge and out of reach for first-principles approaches. Here, we present a new ab initio time-dependent adiabatic GW methodology that incorporates full finite-momentum e-h and e-ph couplings, enabling real-time simulations of the coherently coupled exciton-phonon dynamics. The excitonic excitations are naturally described by the equation of motion of the interacting single-particle ",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15476",
+      "url": "https://arxiv.org/abs/2607.15476",
+      "title": "exa-PD: A scalable high-performance workflow for multi-element phase diagram construction",
+      "content_text": "Exa-PD is a highly parallelizable workflow designed for the construction of multi-element phase diagrams (PDs). It uses standard sampling techniques, molecular dynamics (MD) and Monte Carlo (MC) as implemented in the LAMMPS package, to simultaneously sample multiple phases over a fine temperature-composition mesh for free-energy calculations. Parsl serves as the global workflow engine, coordinating large ensembles of MD and MC tasks to achieve massive parallelization with strong scalability. The resulting free energies of liquid and solid phases are then fed to CALPHAD modeling via the PyCalphad package to construct multi-element PDs.",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15514",
+      "url": "https://arxiv.org/abs/2607.15514",
+      "title": "Exploring the Potential of BY3 (Y = P, As) Monolayers as High-Capacity and Rapid-Diffusion Anodes for Sodium-Ion Batteries",
+      "content_text": "The rapid advancement of sodium-ion batteries (SIBs) demands robust anode materials capable of delivering high specific capacities while maintaining rapid ion transport kinetics. In this work, we employ first-principles density functional theory (DFT) to systematically evaluate the two-dimensional BX3 (X = As, P) monolayers as high-performance anode candidates for SIBs. Our calculations reveal that both the BAs3 and BP3 frameworks exhibit excellent mechanical and dynamical stability alongside an intrinsic metallic character. These materials demonstrate a strong thermodynamic affinity for Na adsorption, driven by a synergistic ionic and covalent bonding mechanism that highly favors the H3 hollow site. Furthermore, they facilitate exceptionally fast charge and discharge kinetics, characteriz",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15535",
+      "url": "https://arxiv.org/abs/2607.15535",
+      "title": "Symbolic Predicate-Guided Language Agents for Inverse Design of Perovskite Oxides",
+      "content_text": "Efficient discovery of high-performance materials has been pursued through a variety of data- and AI-driven strategies, among which inverse design, generating materials from desired target properties, has emerged as an important paradigm. Large language models (LLMs) offer a complementary route for inverse materials design because their reasoning and in-context learning capability can be used not only to propose candidates but also to demonstrate interpretable design principles. In this work, we introduce a domain specific language (DSL)-guided strategy to improve the reasoning and design capability of LLM agents by translating natural language design rules into symbolic predicates encoded in a predefined chemistry DSL. These predicates allow the LLM agent to obtain statistical evidence fr",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15538",
+      "url": "https://arxiv.org/abs/2607.15538",
+      "title": "Terahertz Time-Domain Spectroscopy as a Universal Defect Fingerprinting Tool for Organic Halide Perovskite Solar Cells",
+      "content_text": "Organic-inorganic hybrid perovskites (OHPs) deliver certified single-junction power conversion efficiencies (PCEs) exceeding 26% and perovskite-silicon tandem values surpassing 34%, yet a substantial gap with the Shockley-Queisser (S-Q) limit persists-primarily due to grain-boundary (GB) defects that drive non-radiative recombination, ion migration, and degradation. Rational passivation demands a non-contact tool capable of identifying and quantifying specific defect species in device-relevant thin films, a capability absent from conventional probes. This short review demonstrates that terahertz time-domain spectroscopy (THz-TDS, 0.3-3.0 THz) fulfills this role. Across four OHP compositions fabricated by sequential vacuum evaporation (SVE)-MAPbI3, MAPbBr3, FAPbI3, and CsPbI3-the THz spectr",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15580",
+      "url": "https://arxiv.org/abs/2607.15580",
+      "title": "Symmetry-Enforced Dirac Fermions and Structural Metastability in Pentagonal Monolayers of Transition-Metal Ditellurides",
+      "content_text": "The recent synthesis of pentagonal PdTe$_2$ monolayer motivates broader research interests in transition-metal ditellurides whose electronic phases are governed by symmetry and structural reconstruction. The pentagonal phase of transition-metal ditellurides exhibits electronic properties that are dramatically different from those of its hexagonal counterpart due to its lower crystalline symmetry. Using first-principles calculations, we study monolayer $X$Te$_2$ ($X=\\mathrm{Pd},\\mathrm{Pt},\\mathrm{Ni}$) in both hexagonal and pentagonal polymorphs. By constructing a continuous structural interpolation between the hexagonal and pentagonal phases, we show that the semimetal (hex)-to-semiconductor (penta) transition occurs only after an intermediate structural threshold rather than at the onset",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15581",
+      "url": "https://arxiv.org/abs/2607.15581",
+      "title": "General and scalable vapor etching and transformation platform for two-dimensional materials",
+      "content_text": "Two-dimensional (2D) nanomaterials derived from non-van der Waals (non-vdW) solids offer exceptional physicochemical properties, yet their synthesis is impeded by intrinsic covalent/metallic bonding and high surface reactivity of the precursors. Here, we report a general vapor-phase etching and transformation platform for producing a library of 36 2D carbides, nitrides, and carbonitrides, exhibiting electrical conductivities spanning six orders of magnitude. Using reactive vapors like hydrogen chloride, we selectively remove A-layers from MAX phases to yield well-defined layers (MXenes), including previously inaccessible semiconducting Hf2CTx. By varying the reactive vapor environment, MXenes can be engineered at X-site and surface-termination site and even be transformed into non-vdW laye",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.15728",
+      "url": "https://arxiv.org/abs/2607.15728",
+      "title": "Interface-Engineered Giant Multistate Resistance Switching in Altermagnetic CrSb Multiferroic Tunnel Junctions",
+      "content_text": "Altermagnets enable spin-split transport without stray magnetic fields, yet converting their momentum-dependent spin splitting into a strong tunnel-junction response requires interface-selected tunneling channels. Here, using density functional theory combined with nonequilibrium Green's function calculations, we demonstrate giant multistate resistance switching in CrSb/$α$-In$_2$Se$_3$ altermagnetic multiferroic tunnel junctions. The response is governed not by the bulk spin splitting of CrSb alone, but by a symmetry-selected interfacial mechanism in which Cr/Sb terminations and \\textit{h}-BN or graphene insertion layers determine spin-channel matching, while ferroelectric polarization reshapes the electrostatic barrier. Symmetric and asymmetric terminations reverse the correspondence bet",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
     }
   ]
 }
