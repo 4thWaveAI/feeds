@@ -1,0 +1,488 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "4thWave AI — Ai Oversight (Aggregated)",
+  "home_page_url": "https://www.4thwaveai.com",
+  "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai-oversight.json",
+  "items": [
+    {
+      "id": "https://www.nist.gov/news-events/news/2026/07/nist-receives-new-patent-microbe-killing-water-heater",
+      "url": "https://www.nist.gov/news-events/news/2026/07/nist-receives-new-patent-microbe-killing-water-heater",
+      "title": "NIST Receives New Patent for Microbe-Killing Water Heater",
+      "content_text": "Warm water in household pipes can be a breeding ground for harmful bacteria.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/07/13/WaterTankExchanger_960x600_v4.png?itok=zS03Dr79",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/news/2026/07/new-fabric-test-material-could-help-strengthen-domestic-supply-chain",
+      "url": "https://www.nist.gov/news-events/news/2026/07/new-fabric-test-material-could-help-strengthen-domestic-supply-chain",
+      "title": "New Fabric Test Material Could Help Strengthen Domestic Supply Chain for Textiles and Clothing",
+      "content_text": "Researchers estimate that 56% of textiles can be recycled or recovered, but most don’t make it back into the domestic supply chain.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/07/07/_3DP7691.jpg?itok=YjuToqfQ",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/news/2026/07/arvind-raman-confirmed-18th-nist-director",
+      "url": "https://www.nist.gov/news-events/news/2026/07/arvind-raman-confirmed-18th-nist-director",
+      "title": "Arvind Raman Confirmed as the 18th NIST Director",
+      "content_text": "Raman comes to NIST from Purdue University, where he was the dean of engineering.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/06/03/Arvind_LobbyDSC6088_webedit.jpg?itok=rYJoFyLQ",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://intelligence.org/2026/06/30/miri-newsletter-126/",
+      "url": "https://intelligence.org/2026/06/30/miri-newsletter-126/",
+      "title": "MIRI Newsletter #126 - Machine Intelligence Research Institute",
+      "content_text": "In our last update, we mentioned we had something new in the works: a dedicated channel for news and analysis about AI.",
+      "attachments": [
+        {
+          "url": "https://intelligence.org/wp-content/uploads/chinacooperationAI-MIRI-768x1024.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://intelligence.org/2026/06/30/summary-tgts-2026-icml-papers/",
+      "url": "https://intelligence.org/2026/06/30/summary-tgts-2026-icml-papers/",
+      "title": "Summary: TGT’s 2026 ICML Papers - Machine Intelligence Research Institute",
+      "content_text": "The International Conference on Machine Learning (ICML), held annually for over forty years, is among the most influential conferences in modern AI research.",
+      "attachments": [
+        {
+          "url": "https://intelligence.org/wp-content/uploads/nacipaperimage.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/news/2026/06/nist-launches-center-drive-manufacture-quantum-technologies",
+      "url": "https://www.nist.gov/news-events/news/2026/06/nist-launches-center-drive-manufacture-quantum-technologies",
+      "title": "NIST Launches Center to Drive the Manufacture of Quantum Technologies",
+      "content_text": "NIST has announced an agreement with SRI International to establish the Quantum Manufacturing Engineering Center (QMEC).",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/06/29/Quantum%20cryo_0.png?itok=MHltBSAa",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/news/2026/06/nist-releases-technical-findings-what-caused-2021-partial-collapse",
+      "url": "https://www.nist.gov/news-events/news/2026/06/nist-releases-technical-findings-what-caused-2021-partial-collapse",
+      "title": "NIST Releases Technical Findings on What Caused the 2021 Partial Collapse of Champlain Towers South",
+      "content_text": "In an investigation that began just days after the tragedy, the team examined two dozen possible scenarios for where and why the collapse started.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/06/24/Champlain%20punching%20shear%20no%20label.png?itok=Nj8jWrc9",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://www.alignment.org/blog/a-mikes-eye-view-of-arcs-research/",
+      "url": "https://www.alignment.org/blog/a-mikes-eye-view-of-arcs-research/",
+      "title": "A Mike's-Eye View of ARC's Research",
+      "content_text": "Over the past 15 months or so, ARC's technical agenda has developed quite a bit. The advent of the Matching Sampling Principle (MSP), and ideas like it, has begotten a host of concrete technical problems; progress on those problems has given us more philosophical clarity on the big picture,",
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/news/2026/06/nist-expands-its-library-chemical-fingerprints-identify-unknown-substances",
+      "url": "https://www.nist.gov/news-events/news/2026/06/nist-expands-its-library-chemical-fingerprints-identify-unknown-substances",
+      "title": "NIST Expands Its Library of ‘Chemical Fingerprints’ to Identify Unknown Substances",
+      "content_text": "Researchers and manufacturers rely on the library to identify unknown compounds in food, drugs, cosmetics, the environment, body fluids, forensic evidence and even space rocks.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/06/02/vials_chem_fingerprints.JPG?itok=fHrbhLkj",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/news/2026/06/nist-mathematical-proof-supports-transition-continuous-monitor-and-update",
+      "url": "https://www.nist.gov/news-events/news/2026/06/nist-mathematical-proof-supports-transition-continuous-monitor-and-update",
+      "title": "NIST Mathematical Proof Supports Transition to a Continuous-Monitor-and-Update Security Model for AI Systems",
+      "content_text": "The proof extends to AI the logic used by famed mathematician Kurt Gödel, whose incompleteness theorems have had a profound effect on math for nearly a century.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2024/04/29/shutterstock_2359936611.jpg?itok=BQYEH2FQ",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://intelligence.org/2026/06/08/announcing-major-new-donations-and-recapping-the-2025-fundraiser/",
+      "url": "https://intelligence.org/2026/06/08/announcing-major-new-donations-and-recapping-the-2025-fundraiser/",
+      "title": "Announcing major new donations, and recapping the 2025 fundraiser - Machine Intelligence Research Institute",
+      "content_text": "This past December, we ran our first fundraiser in six years, setting an ambitious goal of $6M. We ended up receiving a total of $1.8M from small donors and",
+      "attachments": [
+        {
+          "url": "https://intelligence.org/wp-content/uploads/2026/03/miri-og-image.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/news/2026/06/new-ai-model-shows-how-evacuate-fires-one-safe-step-time",
+      "url": "https://www.nist.gov/news-events/news/2026/06/new-ai-model-shows-how-evacuate-fires-one-safe-step-time",
+      "title": "New AI Model Shows How to Evacuate for Fires One Safe Step at a Time",
+      "content_text": "A NIST-led team has created a new AI model that can identify safe evacuation routes in a single-story floor plan during a fire, with a multilevel version in the works.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/06/04/Dynamic_Signs_image-v1.png?itok=yJYO7fY5",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/news/2026/06/nist-researchers-discover-new-way-whisk-alloys-together-lasers",
+      "url": "https://www.nist.gov/news-events/news/2026/06/nist-researchers-discover-new-way-whisk-alloys-together-lasers",
+      "title": "NIST Researchers Discover a New Way to Whisk Alloys Together With Lasers",
+      "content_text": "NIST also improved how X-rays are used to study the atomic structure of metals in real time during 3D printing, allowing researchers to observe how materials change under extreme conditions.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/06/03/34407D_12_PCS_Aerial_Images_of_the_APS_16x9_PRINT.jpg?itok=AhZ4t0fc",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://www.alignment.org/blog/announcing-the-arc-white-box-estimation-challenge/",
+      "url": "https://www.alignment.org/blog/announcing-the-arc-white-box-estimation-challenge/",
+      "title": "Announcing the ARC White-Box Estimation Challenge",
+      "content_text": "ARC has teamed up with AIcrowd to launch the ARC White-Box Estimation Challenge, a contest to improve upon our estimation algorithms for random MLPs. The warm-up round begins this week, and later rounds will have a total prize pool of at least $100,000.\n\n\nWe are very grateful",
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/news/2026/05/nist-expands-ai-consortiums-scope-calls-new-members",
+      "url": "https://www.nist.gov/news-events/news/2026/05/nist-expands-ai-consortiums-scope-calls-new-members",
+      "title": "NIST Expands AI Consortium’s Scope, Calls for New Members",
+      "content_text": "The consortium will focus on AI innovation and adoption, with six task groups concentrating on different aspects of AI measurement science and evaluation.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2023/11/02/shutterstock_1218220324.jpg?itok=eIsPazYV",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://intelligence.org/2026/05/22/the-erdos-proof-and-ai-capabilities/",
+      "url": "https://intelligence.org/2026/05/22/the-erdos-proof-and-ai-capabilities/",
+      "title": "The Erdős Proof and AI Capabilities - Machine Intelligence Research Institute",
+      "content_text": "View the official memo here.",
+      "attachments": [
+        {
+          "url": "https://intelligence.org/wp-content/uploads/2026/03/miri-og-image.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://www.alignment.org/blog/mechanistic-estimation-for-expectations-of-random-products/",
+      "url": "https://www.alignment.org/blog/mechanistic-estimation-for-expectations-of-random-products/",
+      "title": "Mechanistic estimation for expectations of random products",
+      "content_text": "We have developed some relatively general methods for mechanistic estimation competitive with sampling by studying problems that are expressible as expectations of random products. This includes several different estimation problems, such as random halfspace intersections, random #3-SAT and random permanents. In this post, we will give a high-level",
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://intelligence.org/2026/05/12/summary-an-international-agreement-to-prevent-the-premature-creation-of-artificial-superintelligence/",
+      "url": "https://intelligence.org/2026/05/12/summary-an-international-agreement-to-prevent-the-premature-creation-of-artificial-superintelligence/",
+      "title": "Summary: An International Agreement to Prevent the Premature Creation of Artificial Superintelligence - Machine Intelligence Research Institute",
+      "content_text": "If anyone, anywhere builds a superhuman artificial intelligence using present methods, the most likely outcome is catastrophe. There have accordingly been",
+      "attachments": [
+        {
+          "url": "https://intelligence.org/wp-content/uploads/2026/03/miri-og-image.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://www.alignment.org/blog/mechanistic-estimation-for-wide-random-mlps/",
+      "url": "https://www.alignment.org/blog/mechanistic-estimation-for-wide-random-mlps/",
+      "title": "Mechanistic estimation for wide random MLPs",
+      "content_text": "This post covers joint work with Wilson Wu, George Robinson, Mike Winer, Victor Lecomte and Paul Christiano. Thanks to Geoffrey Irving and Jess Riedel for comments on the post.\n\n\nIn ARC's latest paper, we study the following problem: given a randomly initialized multilayer perceptron (MLP), produce an estimate for",
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://intelligence.org/2026/04/13/summary-ai-governance-to-avoid-extinction/",
+      "url": "https://intelligence.org/2026/04/13/summary-ai-governance-to-avoid-extinction/",
+      "title": "Summary: AI Governance to Avoid Extinction - Machine Intelligence Research Institute",
+      "content_text": "With AI capabilities rapidly increasing, humans appear close to developing AI systems that are better than human experts across all domains. This raises a",
+      "attachments": [
+        {
+          "url": "https://intelligence.org/wp-content/uploads/2026/04/aigovchart.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://www.alignment.org/blog/algzoo-uninterpreted-models-with-fewer-than-1-500-parameters/",
+      "url": "https://www.alignment.org/blog/algzoo-uninterpreted-models-with-fewer-than-1-500-parameters/",
+      "title": "AlgZoo: uninterpreted models with fewer than 1,500 parameters",
+      "content_text": "This post covers work done by several researchers at, visitors to and collaborators of ARC, including Zihao Chen, George Robinson, David Matolcsi, Jacob Stavrianos, Jiawei Li and Michael Sklar. Thanks to Aryan Bhatt, Gabriel Wu, Jiawei Li, Lee Sharkey, Victor Lecomte and Zihao Chen for comments.\n\n\nIn the wake of",
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://www.alignment.org/blog/competing-with-sampling/",
+      "url": "https://www.alignment.org/blog/competing-with-sampling/",
+      "title": "Competing with sampling",
+      "content_text": "In 2025, ARC has been making conceptual and theoretical progress at the fastest pace that I've seen since I first interned in 2022. Most of this progress has come about because of a re-orientation around a more specific goal: outperforming random sampling when it comes to understanding neural",
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://www.alignment.org/blog/obstacles-in-arcs-research-agenda/",
+      "url": "https://www.alignment.org/blog/obstacles-in-arcs-research-agenda/",
+      "title": "Obstacles in ARC's research agenda",
+      "content_text": "Former ARC researcher David Matolcsi has put together a sequence of posts that explores ARC's big-picture vision for our research and examines several obstacles that we face.\n\n\nWe think these posts will be useful to readers who are interested in digging into the details of our big-picture",
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://www.alignment.org/blog/a-computational-no-coincidence-principle/",
+      "url": "https://www.alignment.org/blog/a-computational-no-coincidence-principle/",
+      "title": "A computational no-coincidence principle",
+      "content_text": "In a recent paper in Annals of Mathematics and Philosophy, Fields medalist Timothy Gowers asks why mathematicians sometimes believe that unproved statements are likely to be true. For example, it is unknown whether \\(\\pi\\) is a normal number (which, roughly speaking, means that every digit appears in \\(\\pi\\) with equal",
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://www.alignment.org/blog/a-birds-eye-view-of-arcs-research/",
+      "url": "https://www.alignment.org/blog/a-birds-eye-view-of-arcs-research/",
+      "title": "A bird's eye view of ARC's research",
+      "content_text": "Over the last few months, ARC has released a number of pieces of research. While some of these can be independently motivated, there is also a more unified research vision behind them. The purpose of this post is to try to convey some of that vision and how our individual",
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://www.alignment.org/blog/low-probability-estimation-in-language-models/",
+      "url": "https://www.alignment.org/blog/low-probability-estimation-in-language-models/",
+      "title": "Low Probability Estimation in Language Models",
+      "content_text": "ARC recently released our first empirical paper: Estimating the Probabilities of Rare Language Model Outputs. In this work, we construct a simple setting for low probability estimation — single-token argmax sampling in transformers — and use it to compare the performance of various estimation methods. ARC views low probability estimation as",
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://metr.org/notes/2026-07-08-anthropic-researcher-uplift/",
+      "url": "https://metr.org/notes/2026-07-08-anthropic-researcher-uplift/",
+      "title": "Because 8 ≈ e², Anthropic's researcher uplift is plausibly >2x",
+      "content_text": "Anthropic reported that contributors merge 8x as much code per day as before AI. Thomas Kwa argues that under standard economic modeling assumptions, this implies the uplift of individual Anthropic researchers from coding agents alone is above 2x.",
+      "attachments": [
+        {
+          "url": "https://metr.org/assets/images/anthropic-uplift-estimate/u-vs-sigma.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://metr.org/blog/2026-06-26-gpt-5-6-sol/",
+      "url": "https://metr.org/blog/2026-06-26-gpt-5-6-sol/",
+      "title": "Summary of METR's predeployment evaluation of GPT-5.6 Sol",
+      "content_text": "A summary of METR's independent, predeployment evaluation of GPT-5.6 Sol",
+      "attachments": [
+        {
+          "url": "https://metr.org/assets/images/logo/og-image-logo.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://metr.org/zh-Hans/blog/2026-05-19-frontier-risk-report/",
+      "url": "https://metr.org/zh-Hans/blog/2026-05-19-frontier-risk-report/",
+      "title": "前沿 AI 风险报告（2026 年 2–3 月）",
+      "content_text": "一项试点评估，关注前沿 AI 公司内部 AI 智能体失控部署的风险。",
+      "attachments": [
+        {
+          "url": "https://metr.org/assets/images/frontier-risk-report/frontier-risk-report-og.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://metr.org/es/blog/2026-05-19-frontier-risk-report/",
+      "url": "https://metr.org/es/blog/2026-05-19-frontier-risk-report/",
+      "title": "Informe de riesgos de la IA de frontera (febrero–marzo de 2026)",
+      "content_text": "Una evaluación piloto del riesgo de despliegue no autorizado en empresas de IA de frontera. En febrero de 2026, METR inició un ejercicio piloto para evaluar riesgos de desalineación derivados de agentes de IA usados dentro de empresas desarrolladoras de IA de frontera, con la participación de Anthropic, Google, Meta y OpenAI.",
+      "attachments": [
+        {
+          "url": "https://metr.org/assets/images/frontier-risk-report/frontier-risk-report-og.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://metr.org/blog/2026-05-19-frontier-risk-report/",
+      "url": "https://metr.org/blog/2026-05-19-frontier-risk-report/",
+      "title": "Frontier Risk Report (February to March 2026)",
+      "content_text": "A pilot assessment of rogue deployment risk at frontier AI companies. Starting in February 2026, METR conducted a pilot exercise to assess misalignment risks from AI agents used inside frontier AI developers, with participation from Anthropic, Google, Meta, and OpenAI.",
+      "attachments": [
+        {
+          "url": "https://metr.org/assets/images/frontier-risk-report/frontier-risk-report-og.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://metr.org/blog/2026-05-11-ai-usage-survey/",
+      "url": "https://metr.org/blog/2026-05-11-ai-usage-survey/",
+      "title": "Measuring the Self-Reported Impact of Early-2026 AI on Technical Worker Productivity",
+      "content_text": "A survey of 349 technical workers finds a median 1.4–2x self-reported change in value of work due to AI tools, expected to grow over time, though there are reasons to be skeptical of the magnitude.",
+      "attachments": [
+        {
+          "url": "https://metr.org/assets/images/ai-usage-survey/headline.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://metr.org/blog/2026-05-08-task-substitution-and-uplift/",
+      "url": "https://metr.org/blog/2026-05-08-task-substitution-and-uplift/",
+      "title": "Task Substitution and Uplift",
+      "content_text": "We distinguish three measures of AI uplift -- on old tasks, on new tasks, and in value -- and show that task substitution can cause these to diverge substantially.",
+      "attachments": [
+        {
+          "url": "https://metr.org/assets/images/task-substitution-uplift/fig-simple-1.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://metr.org/blog/2026-05-08-rd-section-anthropic-risk-report-feb-2026-review/",
+      "url": "https://metr.org/blog/2026-05-08-rd-section-anthropic-risk-report-feb-2026-review/",
+      "title": "Review of the \"Risks from automated R&D\" section in the Anthropic Risk Report (February 2026)",
+      "content_text": "External review from METR of the \"Risks from automated R&D\" section in Anthropic's February 2026 Risk Report",
+      "attachments": [
+        {
+          "url": "https://metr.org/assets/images/logo/og-image-logo.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://metr.org/notes/2026-04-21-ai-rd-nanogpt-progress/",
+      "url": "https://metr.org/notes/2026-04-21-ai-rd-nanogpt-progress/",
+      "title": "Evidence on AI R&D Progress from NanoGPT",
+      "content_text": "Classifying human and agent contributions to the NanoGPT speedrun, and what publicly tracked challenges can tell us about AI R&D acceleration.",
+      "attachments": [
+        {
+          "url": "https://metr.org/assets/images/ai-rd-nanogpt-progress/timeline_provenance.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
+      "id": "https://metr.org/blog/2026-04-10-mirrorcode-preliminary-results/",
+      "url": "https://metr.org/blog/2026-04-10-mirrorcode-preliminary-results/",
+      "title": "MirrorCode: Evidence that AI can already do some weeks-long coding tasks",
+      "content_text": "Early results from MirrorCode benchmark with METR: AI agents can complete weeks-long coding tasks, including reimplementing a 16,000-line codebase.",
+      "attachments": [
+        {
+          "url": "https://metr.org/assets/images/blog_thumbnails/mirrorcode_thumbnail.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    }
+  ]
+}

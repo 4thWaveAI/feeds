@@ -1,0 +1,158 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "4thWave AI — Forecasting Calibration (Aggregated)",
+  "home_page_url": "https://www.4thwaveai.com",
+  "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/forecasting-calibration.json",
+  "items": [
+    {
+      "id": "https://goodjudgment.com/winner-fred-marcogve/",
+      "url": "https://goodjudgment.com/winner-fred-marcogve/",
+      "title": "Meet the winner of the Q1 2026 “Right!” said FRED Challenge",
+      "content_text": "Marco Gerleit von Eynatten, known as MarcoGvE on GJ Open, won the Q1 2026 “Right!” said FRED Challenge. In this interview, he discusses how Nate Silver’s The Signal and the Noise drew him into forecasting a decade ago, how he approached our challenge, and why humility is at the heart of good forecasting.",
+      "attachments": [
+        {
+          "url": "https://goodjudgment.com/wp-content/uploads/2023/11/Screenshot-2023-11-27-at-12.24.04-PM-1.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "forecasting-calibration"
+      ]
+    },
+    {
+      "id": "https://goodjudgment.com/meet-the-winner-of-the-right-said-fred-q4-2025-challenge/",
+      "url": "https://goodjudgment.com/meet-the-winner-of-the-right-said-fred-q4-2025-challenge/",
+      "title": "Meet the winner of the Q4 2025 “Right!” said FRED Challenge",
+      "content_text": "Graham Kilvington, known as Kilvo29 on GJ Open, won the Q4 2025 \"Right!\" said FRED Challenge despite having no background in economics.",
+      "attachments": [
+        {
+          "url": "https://goodjudgment.com/wp-content/uploads/2023/11/Screenshot-2023-11-27-at-12.24.04-PM-1.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "forecasting-calibration"
+      ]
+    },
+    {
+      "id": "https://goodjudgment.com/in-defense-of-polymarket/",
+      "url": "https://goodjudgment.com/in-defense-of-polymarket/",
+      "title": "In Defense of Polymarket",
+      "content_text": "A contract means what it says, not what you wanted it to say, writes Ryan Adler, Superforecaster and GJ Question Team Lead.",
+      "attachments": [
+        {
+          "url": "https://goodjudgment.com/wp-content/uploads/2026/04/Screenshot-2026-04-17-at-10.59.39-AM.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "forecasting-calibration"
+      ]
+    },
+    {
+      "id": "https://goodjudgment.com/what-forecastbench-doesnt-measure/",
+      "url": "https://goodjudgment.com/what-forecastbench-doesnt-measure/",
+      "title": "What ForecastBench Doesn’t Measure (Yet)",
+      "content_text": "ForecastBench is a rolling benchmark that poses questions to both humans and AI systems, then scores them as those questions resolve. We dig into this benchmark: what it measures, or doesn’t measure, and what it means for anyone trying to draw conclusions from the leaderboard alone.",
+      "attachments": [
+        {
+          "url": "https://goodjudgment.com/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-10.58.21-AM.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "forecasting-calibration"
+      ]
+    },
+    {
+      "id": "https://goodjudgment.com/tenured-assumption-fallacy/",
+      "url": "https://goodjudgment.com/tenured-assumption-fallacy/",
+      "title": "The Tenured Assumption Fallacy",
+      "content_text": "GJ Question Team lead and Superforecaster Ryan Adler discusses what he got wrong about Japanese baseball and what it taught him about forecasting.",
+      "attachments": [
+        {
+          "url": "https://goodjudgment.com/wp-content/uploads/2026/03/de-niro.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "forecasting-calibration"
+      ]
+    },
+    {
+      "id": "https://goodjudgment.com/one-question-two-tariffs/",
+      "url": "https://goodjudgment.com/one-question-two-tariffs/",
+      "title": "One Question, Two Tariffs: How Polymarket’s Contract Design Dodged a Bullet",
+      "content_text": "The prediction market bundled two distinct legal questions into one contract on Trump’s tariffs. The Court happened to treat them the same way. That was luck, not design, writes Ryan Adler, GJ Question Team Lead.",
+      "attachments": [
+        {
+          "url": "https://goodjudgment.com/wp-content/uploads/2026/02/tariffs_plot_2026-02-24-scaled.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "forecasting-calibration"
+      ]
+    },
+    {
+      "id": "https://goodjudgment.com/what-superforecasters-actually-said-about-forecastbench/",
+      "url": "https://goodjudgment.com/what-superforecasters-actually-said-about-forecastbench/",
+      "title": "What Superforecasters Actually Said About ForecastBench",
+      "content_text": "Every few months, a new AI benchmark result gets journalists excited. Claims spike, the headlines write themselves, and nuance gets left behind.Good Judgment welcomes AI progress on forecasting. We’ve argued consistently that the answer is Superforecasters plus AI, not one or the other. But the latest round of claims deserves a closer look, because the full report tells a very different story from the summary.",
+      "attachments": [
+        {
+          "url": "https://goodjudgment.com/wp-content/uploads/2026/02/AI-vs-Humans-nuance-v2-scaled.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "forecasting-calibration"
+      ]
+    },
+    {
+      "id": "https://goodjudgment.com/2025-ufc-winners/",
+      "url": "https://goodjudgment.com/2025-ufc-winners/",
+      "title": "Meet the Winners of the 2025 University Forecasting Challenge",
+      "content_text": "From August to December 2025, students from universities around the world tested their forecasting abilities on GJ Open.",
+      "attachments": [
+        {
+          "url": "https://goodjudgment.com/wp-content/uploads/2026/01/2025-UFC-Winners-3-scaled.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "forecasting-calibration"
+      ]
+    },
+    {
+      "id": "https://goodjudgment.com/testing-polymarkets-most-accurate-claim/",
+      "url": "https://goodjudgment.com/testing-polymarkets-most-accurate-claim/",
+      "title": "Testing Polymarket’s “Most Accurate” Claim",
+      "content_text": "In the case of central bank forecasts, the claim does not hold up when compared to our panel of professional Superforecasters.",
+      "attachments": [
+        {
+          "url": "https://goodjudgment.com/wp-content/uploads/2026/01/PM_Superforecasts_All_Other_3_ALL_Past_PM_2026-01-23-2.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "forecasting-calibration"
+      ]
+    },
+    {
+      "id": "https://goodjudgment.com/polymarket-venezuela/",
+      "url": "https://goodjudgment.com/polymarket-venezuela/",
+      "title": "The Devil Is in the Verb",
+      "content_text": "Superforecaster Ryan Adler on what Polymarket’s Venezuela kerfuffle reveals about “simple” forecasting questions.",
+      "attachments": [
+        {
+          "url": "https://goodjudgment.com/wp-content/uploads/2026/01/Buckner-Error.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "forecasting-calibration"
+      ]
+    }
+  ]
+}

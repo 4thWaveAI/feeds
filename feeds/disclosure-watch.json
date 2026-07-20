@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/disclosure-watch.json",
   "items": [
     {
+      "id": "https://science.nasa.gov/astrophysics/programs/exep/resources/exoplanet-meetings/2026-sagan-summer-workshop/",
+      "url": "https://science.nasa.gov/astrophysics/programs/exep/resources/exoplanet-meetings/2026-sagan-summer-workshop/",
+      "title": "2026 Sagan Summer Workshop - Exoplanets with Roman Surveys: Microlensing and Transits - NASA Science",
+      "content_text": "Date: July 20 - 24, 2026 Location: Caltech, Pasadena, California",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/physics-of-the-cosmos/images/misc/SMACS-0723-73.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
       "id": "https://science.nasa.gov/earth/earth-observatory/shaping-the-emerald-city/",
       "url": "https://science.nasa.gov/earth/earth-observatory/shaping-the-emerald-city/",
       "title": "Shaping the Emerald City - NASA Science",
@@ -103,21 +118,6 @@
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp",
           "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/earth-science/earth-action/water-resources/",
-      "url": "https://science.nasa.gov/earth-science/earth-action/water-resources/",
-      "title": "Water Resources  - NASA Science",
-      "content_text": "Supporting sustainable and adaptable water resources management.",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/examining-algal-blooms-in-blue-mesa/bluemesaphoto2.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [

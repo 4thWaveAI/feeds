@@ -168,6 +168,21 @@
       "tags": [
         "grid-power-electronics"
       ]
+    },
+    {
+      "id": "https://ferc.gov/",
+      "url": "https://ferc.gov/",
+      "title": "Home Page",
+      "content_text": "Home Page",
+      "attachments": [
+        {
+          "url": "https://ferc.gov/themes/custom/ferc/images/FERC_social-media--default.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "grid-power-electronics"
+      ]
     }
   ]
 }

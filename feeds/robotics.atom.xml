@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/robotics.atom.xml"/>
   <id>urn:4thwaveai-feeds:robotics</id>
-  <updated>Mon, 20 Jul 2026 04:15:32 +0000</updated>
+  <updated>Mon, 20 Jul 2026 04:54:37 +0000</updated>
   <entry>
     <title>Ontario Wildfire Smoke Moves East - NASA Science</title>
     <link href="https://science.nasa.gov/earth/earth-observatory/ontario-wildfire-smoke-moves-east/"/>
@@ -67,6 +67,78 @@
     <id>https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-equips-astronauts-industry-with-robotic-intelligence/</id>
     <summary type="text">As NASA plans long-term missions on the Moon, the agency could use robots to perform routine tasks, allowing crew members to dedicate more time to science and</summary>
     <updated>Wed, 10 Jun 2026 13:00:02 -0400</updated>
+  </entry>
+  <entry>
+    <title>News | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/news/"/>
+    <id>https://bostondynamics.com/news/</id>
+    <summary type="text">Discover the latest news about Boston Dynamics and stay up to date with what we’ve been working on. Explore product news, media coverage, and more.</summary>
+  </entry>
+  <entry>
+    <title>Blogs | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/"/>
+    <id>https://bostondynamics.com/blog/</id>
+    <summary type="text">Stay up to date on the latest trends in robotics and other industry insights from the Boston Dynamics blog.</summary>
+  </entry>
+  <entry>
+    <title>Training a Humanoid Robot for Hard Work | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/training-a-humanoid-robot-for-hard-work/"/>
+    <id>https://bostondynamics.com/blog/training-a-humanoid-robot-for-hard-work/</id>
+    <summary type="text">Using AI-driven behaviors, Boston Dynamics’ Atlas robot coordinates its whole body to execute complex tasks with accuracy and reliability.</summary>
+  </entry>
+  <entry>
+    <title>Deploying Robots Into (and Onto) the Field | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/deploying-robots-into-and-onto-the-field/"/>
+    <id>https://bostondynamics.com/blog/deploying-robots-into-and-onto-the-field/</id>
+    <summary type="text">On Sunday July 5th, Atlas®, Boston Dynamics humanoid robot, stepped onto the field during halftime of the FIFA World Cup 2026™ Norway-Brazil round of 16 match at New York New Jersey Stadium. In the first public appearance of our production Atlas—and the first ever robotic halftime activation of the FIFA World Cup™—the robot presented the […]</summary>
+  </entry>
+  <entry>
+    <title>Bridging the ‘Porch Gap’ | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/bridging-the-porch-gap/"/>
+    <id>https://bostondynamics.com/blog/bridging-the-porch-gap/</id>
+    <summary type="text">Boston Dynamics is testing a last-mile delivery solution with Spot to get packages to the doorstep with less strain and greater efficiency.</summary>
+  </entry>
+  <entry>
+    <title>Securing the FIFA World Cup 2026 | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/securing-the-fifa-world-cup-2026/"/>
+    <id>https://bostondynamics.com/blog/securing-the-fifa-world-cup-2026/</id>
+    <summary type="text">At FIFA World Cup 2026™, Boston Dynamics&#x27; Spot robots have taken on a new security assignment: helping protect the largest sporting event in the world.</summary>
+  </entry>
+  <entry>
+    <title>Can football teach a robot to move? | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/can-football-teach-a-robot-to-move/"/>
+    <id>https://bostondynamics.com/blog/can-football-teach-a-robot-to-move/</id>
+    <summary type="text">Aathletes perform amazing acts of physicality every day and that&#x27;s the bar for Boston Dynamics Atlas robot. Learn how we train Atlas from human demonstration.</summary>
+  </entry>
+  <entry>
+    <title>Ask a Roboticist: Meet Chastity | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/ask-a-roboticist-meet-chastity/"/>
+    <id>https://bostondynamics.com/blog/ask-a-roboticist-meet-chastity/</id>
+    <summary type="text">Chastity Kelly, a mechanical design engineer, answers questions about the design of Atlas’ foot, whether robots need shoes, and her path to robotics. Read the interview below and watch a conversation with Chastity on how Atlas strides through the world. Working at Boston Dynamics What is your role at Boston Dynamics?I’m a mechanical design engineer […]</summary>
+  </entry>
+  <entry>
+    <title>Ask a Roboticist: Meet Ethan | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/ask-a-roboticist-meet-ethan/"/>
+    <id>https://bostondynamics.com/blog/ask-a-roboticist-meet-ethan/</id>
+    <summary type="text">Ethan Lauer, a software engineer at Boston Dynamics, answers questions about robot perception, world modeling, and what spooks Stretch.</summary>
+  </entry>
+  <entry>
+    <title>Tools for Your To Do List with Spot and Gemini Robotics | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/"/>
+    <id>https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/</id>
+    <summary type="text">A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.</summary>
+  </entry>
+  <entry>
+    <title>AIVI-Learning Is Now Powered by Google Gemini Robotics | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/aivi-learning-now-powered-google-gemini-robotics/"/>
+    <id>https://bostondynamics.com/blog/aivi-learning-now-powered-google-gemini-robotics/</id>
+    <summary type="text">We have partnered with Google Cloud and Google DeepMind to integrate Gemini and Gemini Robotics ER 1.6 into Orbit AIVI-Learning.</summary>
+  </entry>
+  <entry>
+    <title>Scaling New Career Heights with Stretch | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/scaling-new-career-heights-with-stretch/"/>
+    <id>https://bostondynamics.com/blog/scaling-new-career-heights-with-stretch/</id>
+    <summary type="text">Boston Dynamics&#x27; employee spotlight series shares the journeys of our team members: featuring Dayme Delgado, a Field Applications Engineer.</summary>
   </entry>
   <entry>
     <title>Introducing Helix 02: Full-Body Autonomy</title>
@@ -301,77 +373,5 @@
     <link href="https://arxiv.org/abs/2607.15365"/>
     <id>https://arxiv.org/abs/2607.15365</id>
     <summary type="text">We present induction-heated resonant reactors, a new concept in electrified thermochemistry in which the reactor itself serves as a volumetric electromagnetic resonator heated through resonant wireless power transfer. We use the Swiss roll resonator as a model system and show that it can be designed to support uniform volumetric heating profiles and enhanced heat transfer characteristics, creating opportunities for process intensification in scaled systems. Compared to conventional (i.e., non-resonant) induction heating systems, resonant reactors can achieve exceptionally high system efficiencies through the combination of near-unity power-to-heat efficiencies and low thermal losses, both enabled by the utilization of resonant energy transfer. These concepts demonstrate how the integration</summary>
-  </entry>
-  <entry>
-    <title>Six-sigma Quality Management of Additive Manufacturing</title>
-    <link href="https://arxiv.org/abs/2607.15430"/>
-    <id>https://arxiv.org/abs/2607.15430</id>
-    <summary type="text">In this paper, we propose to design, develop, and implement the new DMAIC methodology for Six-Sigma quality management of AM. First, we define the specific quality challenges arising from AM layer-wise fabrication and mass customization (even one-of-a-kind production). Second, we present a review of AM metrology and sensing techniques, from materials through design, process, environment, to post-build inspection. Third, we contextualize a framework for realizing the full potential of data from AM systems, and emphasize the need for analytical methods and tools. We propose and delineate the utility of new data-driven analytical methods, including deep learning, machine learning, and network science, to characterize and model the interrelationships between engineering design, machine setting</summary>
-  </entry>
-  <entry>
-    <title>Stochastic Multi-Segment Scheduling of Variable-Speed Pumped Storage Hydropower for Energy and Ancillary Services Provision</title>
-    <link href="https://arxiv.org/abs/2607.15460"/>
-    <id>https://arxiv.org/abs/2607.15460</id>
-    <summary type="text">Variable-speed pumped storage hydropower (VS-PSH) offers long-duration energy storage alongside ancillary services in competitive electricity markets. However, its operation and scheduling are challenged by head-dependent nonlinearities, discrete mode transitions, and energy-continuity constraints. This study proposes a stochastic framework for VS-PSH that employs a multi-segment bidding structure to generate market-consistent energy and synchronized reserve offers in compliance with market rules. The framework explicitly incorporates physical constraints, including head-dependent capability limits, discrete pumping and generating modes, as well as state-of-charge (SoC) and head dynamics, within a stochastic mixed-integer linear programming (MILP) formulation. Price uncertainty is represen</summary>
-  </entry>
-  <entry>
-    <title>StarCodex: Dynamic Coding Harness for Starlink Measurement Analysis and Experiment Automation</title>
-    <link href="https://arxiv.org/abs/2607.15541"/>
-    <id>https://arxiv.org/abs/2607.15541</id>
-    <summary type="text">Starlink and other low Earth orbit (LEO) satellite broadband systems are producing increasingly diverse measurement data across regions, time periods, and access conditions. These measurements are valuable for throughput prediction, adaptive bitrate (ABR) evaluation, and network experimentation, but converting continuously arriving data into reusable experimental evidence still relies heavily on manually developed analysis code and expert-guided data inspection and failure-case organization. This paper proposes StarCodex, a dynamic coding harness for Starlink measurement analysis and experiment automation. StarCodex detects analysis gaps from the current measurement state, converts them into structured coding tasks, uses Codex to generate or repair executable analysis artifacts, and accept</summary>
-  </entry>
-  <entry>
-    <title>Price-Based Distributed Scheduling of Flexible Demands in Energy Communities</title>
-    <link href="https://arxiv.org/abs/2607.15570"/>
-    <id>https://arxiv.org/abs/2607.15570</id>
-    <summary type="text">We study price-based distributed scheduling of flexible demand in an energy community, where a coordinator broadcasts electricity prices and individual households schedule their consumption. Household demand includes deferrable and non-deferrable loads, such as electric vehicle charging with completion deadlines and thermostatically controlled loads. The coordinator transacts with a distribution utility on behalf of community members under the regulated Net Energy Metering tariff. We formulate distributed demand scheduling as a bilevel stochastic dynamic program. The upper level optimizes the coordinator&#x27;s pricing policy to minimize the community&#x27;s energy costs subject to operating, revenue adequacy, and individual rationality constraints. The lower level involves stochastic dynamic progra</summary>
-  </entry>
-  <entry>
-    <title>A PI+R Control Scheme Based on Multi-agent Systems for Economic Dispatch in Isolated BESSs</title>
-    <link href="https://arxiv.org/abs/2607.15572"/>
-    <id>https://arxiv.org/abs/2607.15572</id>
-    <summary type="text">Battery energy storage systems (BESSs) are widely used in smart grids. However, power consumed by inner impedance and the capacity degradation of each battery unit become particularly severe, which has resulted in an increase in operating costs. The general economic dispatch (ED) algorithm based on marginal cost (MC) consensus is usually a proportional (P) controller, which encounters the defects of slow convergence speed and low control accuracy. In order to solve the distributed ED problem of the isolated BESS network with excellent dynamic and steady-state performance, we attempt to design a proportional integral (PI) controller with a reset mechanism (PI+R) to asymptotically promote MC consensus and total power mismatch towards 0 in this paper. To be frank, the integral term in the PI </summary>
-  </entry>
-  <entry>
-    <title>Distributed Continuous Aerial Surveillance by UAS Swarms Under Formal Mission Specifications</title>
-    <link href="https://arxiv.org/abs/2607.15583"/>
-    <id>https://arxiv.org/abs/2607.15583</id>
-    <summary type="text">Persistent aerial surveillance using multi-unmanned aerial systems (UASs) requires decentralized coordination, continuous team reconfiguration, and provable mission correctness despite limited onboard energy and communication constraints. This paper develops a distributed framework for continuous aerial surveillance under bounded Linear Temporal Logic (LTL) mission specifications. The proposed approach partitions the UAS team into stationary anchors and mobile workers operating under cyclic replacement modes, and constructs a deep neural network (DNN)-inspired communication topology that enables fully decentralized coordination through local interactions. A hierarchical bounded LTL specification formally captures mode-to-mode reference consistency, cyclic team rotation, finite-time reachab</summary>
-  </entry>
-  <entry>
-    <title>34</title>
-    <link href="https://www.unitree.com/cn/news/34"/>
-    <id>https://www.unitree.com/cn/news/34</id>
-    <summary type="text">机器人</summary>
-  </entry>
-  <entry>
-    <title>30</title>
-    <link href="https://www.unitree.com/cn/news/30"/>
-    <id>https://www.unitree.com/cn/news/30</id>
-    <summary type="text">机器人</summary>
-  </entry>
-  <entry>
-    <title>News - Robotics Institute Carnegie Mellon University</title>
-    <link href="https://www.ri.cmu.edu/news/"/>
-    <id>https://www.ri.cmu.edu/news/</id>
-    <summary type="text">Cool stories about the Robotics Institute at CMU from all over the web.</summary>
-  </entry>
-  <entry>
-    <title>As Walker S Strikes the Gong, UBTECH Robotics Becomes the First Humanoid Robot  Company Listed on the Main Board of the HKEX | UBTECH Robotics</title>
-    <link href="https://www.ubtrobot.com/en/about/news/498762019606597"/>
-    <id>https://www.ubtrobot.com/en/about/news/498762019606597</id>
-    <summary type="text">UBTECH</summary>
-  </entry>
-  <entry>
-    <title>Vision2035 En.Pdf</title>
-    <link href="https://www.yaskawa-global.com/wp-content/uploads/2026/05/Vision2035_en.pdf"/>
-    <id>https://www.yaskawa-global.com/wp-content/uploads/2026/05/Vision2035_en.pdf</id>
-    <summary type="text">Vision2035 En.Pdf</summary>
-  </entry>
-  <entry>
-    <title>Dash35 En.Pdf</title>
-    <link href="https://www.yaskawa-global.com/wp-content/uploads/2026/05/Dash35_en.pdf"/>
-    <id>https://www.yaskawa-global.com/wp-content/uploads/2026/05/Dash35_en.pdf</id>
-    <summary type="text">Dash35 En.Pdf</summary>
   </entry>
 </feed>

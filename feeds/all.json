@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
+      "id": "https://science.nasa.gov/astrophysics/programs/exep/resources/exoplanet-meetings/2026-sagan-summer-workshop/",
+      "url": "https://science.nasa.gov/astrophysics/programs/exep/resources/exoplanet-meetings/2026-sagan-summer-workshop/",
+      "title": "2026 Sagan Summer Workshop - Exoplanets with Roman Surveys: Microlensing and Transits - NASA Science",
+      "content_text": "Date: July 20 - 24, 2026 Location: Caltech, Pasadena, California",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/physics-of-the-cosmos/images/misc/SMACS-0723-73.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
       "id": "https://science.nasa.gov/earth/earth-observatory/shaping-the-emerald-city/",
       "url": "https://science.nasa.gov/earth/earth-observatory/shaping-the-emerald-city/",
       "title": "Shaping the Emerald City - NASA Science",
@@ -122,6 +137,21 @@
       ],
       "tags": [
         "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://retractionwatch.com/2026/07/18/weekend-reads-private-info-in-most-arxiv-preprints-why-did-george-church-decline-authorship-28-misconduct-cases-in-china/",
+      "url": "https://retractionwatch.com/2026/07/18/weekend-reads-private-info-in-most-arxiv-preprints-why-did-george-church-decline-authorship-28-misconduct-cases-in-china/",
+      "title": "Weekend reads: Private info in ‘most’ arXiv preprints; why did George Church decline authorship; 28 misconduct cases in China",
+      "content_text": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: ‘Disappointed’: Cochrane journal asked researchers to publish article…",
+      "attachments": [
+        {
+          "url": "https://retractionwatch.com/wp-content/uploads/2024/01/rw.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "research-integrity"
       ]
     },
     {
@@ -305,21 +335,6 @@
       ]
     },
     {
-      "id": "https://science.nasa.gov/earth-science/earth-action/water-resources/",
-      "url": "https://science.nasa.gov/earth-science/earth-action/water-resources/",
-      "title": "Water Resources  - NASA Science",
-      "content_text": "Supporting sustainable and adaptable water resources management.",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/examining-algal-blooms-in-blue-mesa/bluemesaphoto2.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
       "id": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
       "url": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
       "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
@@ -328,6 +343,21 @@
         {
           "url": "https://spectrum.ieee.org/media-library/a-young-woman-with-blonde-hair-softly-smiling-next-to-a-pair-of-collaborative-robot-arms.jpg?id=67499761&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
           "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.pewresearch.org/short-reads/2026/07/17/majorities-of-americans-say-key-financial-milestones-are-harder-for-todays-young-adults-to-reach/",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/17/majorities-of-americans-say-key-financial-milestones-are-harder-for-todays-young-adults-to-reach/",
+      "title": "Majorities of Americans say key financial milestones are harder for today’s young adults to reach",
+      "content_text": "Most Americans say it’s harder for young adults to find a job, buy a house, pay for college and save for their future than it was for their parents' generation.",
+      "attachments": [
+        {
+          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/SR_26.07.18_young-adult_featured.png?w=1200&h=628&crop=1",
+          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -641,6 +671,36 @@
       ]
     },
     {
+      "id": "https://www.pewresearch.org/short-reads/2026/07/16/mexicans-view-president-claudia-sheinbaum-favorably-but-less-so-than-in-2025/",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/16/mexicans-view-president-claudia-sheinbaum-favorably-but-less-so-than-in-2025/",
+      "title": "Mexicans view President Claudia Sheinbaum favorably, but less so than in 2025",
+      "content_text": "Mexican President Claudia Sheinbaum remains popular, but her favorability has dropped to 64%. Views of the economy and democracy are also declining.",
+      "attachments": [
+        {
+          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/SR_26.07.16_Sheinbaum-Morena_featured.png?w=1200&h=628&crop=1",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://retractionwatch.com/2026/07/16/harvard-cancer-researchers-earn-retraction-for-image-duplication/",
+      "url": "https://retractionwatch.com/2026/07/16/harvard-cancer-researchers-earn-retraction-for-image-duplication/",
+      "title": "Harvard cancer researchers earn retraction for image duplication",
+      "content_text": "A group of researchers at Brigham and Women’s Hospital and Harvard Medical School in Boston have lost a paper for image duplication following an investigation by the two institutions.  The pap…",
+      "attachments": [
+        {
+          "url": "https://retractionwatch.com/wp-content/uploads/2026/07/harvard_bwh_JEM-retraction.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "research-integrity"
+      ]
+    },
+    {
       "id": "https://www.broadinstitute.org/news/bioengineer-shifts-his-career-explore-how-life-experiences-change-body",
       "url": "https://www.broadinstitute.org/news/bioengineer-shifts-his-career-explore-how-life-experiences-change-body",
       "title": "A bioengineer shifts his career to explore how life experiences change the body",
@@ -701,6 +761,21 @@
       ]
     },
     {
+      "id": "https://www.pewresearch.org/decoded/2026/07/16/how-we-measured-americans-engagement-in-public-life/",
+      "url": "https://www.pewresearch.org/decoded/2026/07/16/how-we-measured-americans-engagement-in-public-life/",
+      "title": "How we measured Americans’ engagement in public life",
+      "content_text": "This piece explains how researchers measured Americans' engagement in public life using multimode surveys, address-based sampling and cluster analysis.",
+      "attachments": [
+        {
+          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/d_26.07.16_cluster_featured.png?w=1200&h=628&crop=1",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://www.etsi.org/newsroom/news/become-a-voice-for-global-technology-standards/",
       "url": "https://www.etsi.org/newsroom/news/become-a-voice-for-global-technology-standards/",
       "title": "Become a voice for global technology standards: launching the ETSI Ambassador programme - ETSI",
@@ -713,6 +788,96 @@
       ],
       "tags": [
         "standards-bodies"
+      ]
+    },
+    {
+      "id": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/",
+      "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/",
+      "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
+      "content_text": "Americans’ engagement with others is not one-dimensional. Instead, they sort into four distinct groups that reflect different patterns of participation in society.",
+      "attachments": [
+        {
+          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/PJ_26.07.16_engagement_featured.png?w=1200&h=628&crop=1",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.pewresearch.org/journalism/2026/07/16/younger-and-older-americans-engage-in-public-life-in-different-ways/",
+      "url": "https://www.pewresearch.org/journalism/2026/07/16/younger-and-older-americans-engage-in-public-life-in-different-ways/",
+      "title": "Younger and older Americans engage in public life in different ways",
+      "content_text": "Older adults are more likely to participate in civic activities like voting, donating or attending religious services, while younger adults engage more in online spaces.",
+      "attachments": [
+        {
+          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/PJ_26.07.16_engagement_featured.png?w=1200&h=628&crop=1",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.pewresearch.org/journalism/2026/07/16/democrats-and-republicans-engage-in-public-life-in-similar-ways/",
+      "url": "https://www.pewresearch.org/journalism/2026/07/16/democrats-and-republicans-engage-in-public-life-in-similar-ways/",
+      "title": "Democrats and Republicans engage in public life in similar ways",
+      "content_text": "Each of the two major parties includes people who are deeply involved in public life – across politics, community, religion and news – and those who are less so.",
+      "attachments": [
+        {
+          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/PJ_26.07.16_engagement_featured.png?w=1200&h=628&crop=1",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.pewresearch.org/journalism/2026/07/16/engagement-in-public-life-is-linked-with-americans-views-of-politics-news/",
+      "url": "https://www.pewresearch.org/journalism/2026/07/16/engagement-in-public-life-is-linked-with-americans-views-of-politics-news/",
+      "title": "Engagement in public life is linked with Americans’ views of politics, news",
+      "content_text": "Americans who participate more in public life are more interested in politics – and more likely to have positive feelings about the state of their local communities.",
+      "attachments": [
+        {
+          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/PJ_26.07.16_engagement_featured.png?w=1200&h=628&crop=1",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.pewresearch.org/journalism/2026/07/16/highly-engaged-americans-know-more-about-politics/",
+      "url": "https://www.pewresearch.org/journalism/2026/07/16/highly-engaged-americans-know-more-about-politics/",
+      "title": "Highly engaged Americans know more about politics",
+      "content_text": "People who are highly engaged in public life are more likely than those who are less engaged to correctly answer several factual questions about politics.",
+      "attachments": [
+        {
+          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/PJ_26.07.16_engagement_featured.png?w=1200&h=628&crop=1",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.pewresearch.org/journalism/2026/07/16/acknowledgments-engagement/",
+      "url": "https://www.pewresearch.org/journalism/2026/07/16/acknowledgments-engagement/",
+      "title": "Acknowledgments",
+      "content_text": "|",
+      "attachments": [
+        {
+          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/PJ_26.07.16_engagement_featured.png?w=1200&h=628&crop=1",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
       ]
     },
     {
@@ -737,175 +902,6 @@
       ],
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/fishery-satellite-surveillance",
-      "url": "https://spectrum.ieee.org/fishery-satellite-surveillance",
-      "title": "Why Indonesia’s Fisheries Future Hinges On Data Integrity and Trust",
-      "content_text": "From vessel tracking to algorithmic enforcement, a surveillance revolution is transforming marine governance",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=67101579&width=1200&height=600&coordinates=0%2C125%2C0%2C125",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "title": "Google DeepMind and Isomorphic Labs approach to bioresilience",
-      "content_text": "Google DeepMind and Isomorphic Labs approach to bioresilience, using AI models to support prevention, detection and response.",
-      "attachments": [
-        {
-          "url": "https://lh3.googleusercontent.com/ZRyQg91pjea8kXXaGSlnZIJF90-VwnKHSBxo22e2RedCvCCszsurR8W9NHw80e1V6HtWXccbU1MI27Rtjjf963rD673XgkWK7cZe_1ekfruPgdHHVEc=w1200-h630-n-nu-rw",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://submer.com/blog/press/netceed-ai-infrastructure-emea/",
-      "url": "https://submer.com/blog/press/netceed-ai-infrastructure-emea/",
-      "title": "Submer Group and Netceed partner to expand AI infrastructure across EMEA",
-      "content_text": "Submer Group partners with Netceed to expand AI infrastructure capabilities across EMEA and support telecom and data center customers.",
-      "attachments": [
-        {
-          "url": "https://submer.com/wp-content/uploads/2026/07/submer-group-netceed-ai-infrastructure-emea.jpg.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "compute-habitat"
-      ]
-    },
-    {
-      "id": "https://www.embl.org/news/people-perspectives/cath-brooksbank-what-ive-learned/",
-      "url": "https://www.embl.org/news/people-perspectives/cath-brooksbank-what-ive-learned/",
-      "title": "Cath Brooksbank: What I’ve learned | EMBL",
-      "content_text": "Lessons on trusting your team and building a world-leading bioinformatics training programme from EMBL-EBI's Head of Training, Cath Brooksbank",
-      "attachments": [
-        {
-          "url": "https://www.embl.org/news/wp-content/uploads/2026/07/©Laura-Lewis-AF_GDM_EDU_Summit_Jan_25_CATH_BROOKSBANK_0456-LR.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "biotech"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/earth/earth-observatory/ontario-wildfire-smoke-moves-east/",
-      "url": "https://science.nasa.gov/earth/earth-observatory/ontario-wildfire-smoke-moves-east/",
-      "title": "Ontario Wildfire Smoke Moves East - NASA Science",
-      "content_text": "Canadian wildfires sent plumes of smoke streaming over Ontario, Quebec, and parts of the U.S. Midwest and Northeast.",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/ontario-wildfire-smoke-drifts-east/ontariofires_virs3_20260714_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://www.census.gov/newsroom/press-releases/2026/btos-july-16.html",
-      "url": "https://www.census.gov/newsroom/press-releases/2026/btos-july-16.html",
-      "title": "Business Trends and Outlook Survey Data Release &#8212; July 16, 2026",
-      "content_text": "The Business Trends and Outlook Survey provides timely data for key economic measures and business expectations about future conditions.",
-      "attachments": [
-        {
-          "url": "https://www.census.gov/content/dam/Census/gs-imports/social-media-sharing-images/social-image-newsroom.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "demographics-care"
-      ]
-    },
-    {
-      "id": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-      "title": "Connect more of your apps to Search",
-      "content_text": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.",
-      "attachments": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.width-1300.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "title": "Create, edit and star in videos with two Google Vids updates",
-      "content_text": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
-      "attachments": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.width-1300.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
-      "url": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
-      "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
-      "content_text": "New NVIDIA Blackwell-powered T3000 and T2000 modules, paired with new NVIDIA Jetson software memory optimization and agent skills, help partners and customers move advanced robotics, visual AI and edge workloads onto compact, power-efficient systems.",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/robotics-jetson-T3000-T2000-jhh-japan-1280x680-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/",
-      "url": "https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/",
-      "title": "Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills | NVIDIA Technical Blog",
-      "content_text": "Developers building video analytics applications across large spaces must track the same object as it moves between camera views. Single-camera 2D tracking lacks reliable depth information and…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/deepstream-featured-500x282.gif",
-          "mime_type": "image/gif"
-        },
-        {
-          "url": "https://www.youtube.com/embed/rQoLYCB0YUc?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://journal.uptimeinstitute.com/advances-in-fine-tuning-reduce-total-volume-of-ai-training/",
-      "url": "https://journal.uptimeinstitute.com/advances-in-fine-tuning-reduce-total-volume-of-ai-training/",
-      "title": "Advances in fine-tuning reduce total volume of AI training - Uptime Institute Blog",
-      "content_text": "In the early days of generative AI, much attention was focused on the process of training new models from zero. As the technology matures, organizations are increasingly looking for ways to adapt existing large language models (LLMs) to their specific requirements. Customizing existing models avoids the need to source training data, employ machine learning experts […]",
-      "attachments": [
-        {
-          "url": "https://journal.uptimeinstitute.com/wp-content/uploads/2026/07/Advances-in-fine-tuning-featured.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "compute-habitat"
       ]
     }
   ]
