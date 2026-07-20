@@ -5,6 +5,40 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.json",
   "items": [
     {
+      "id": "https://www.nasa.gov/aeronautics/electrified-aircraft-propulsion/nasa-ge-hybrid-electric-flight/",
+      "url": "https://www.nasa.gov/aeronautics/electrified-aircraft-propulsion/nasa-ge-hybrid-electric-flight/",
+      "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
+      "content_text": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform new generations of fuel-saving aircraft power systems.",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/fia-saab.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/earth/new-nasa-earth-missions-gear-up-to-start-science-flights/",
+      "url": "https://science.nasa.gov/earth/new-nasa-earth-missions-gear-up-to-start-science-flights/",
+      "title": "New NASA Earth Missions Gear Up to Start Science Flights   - NASA Science",
+      "content_text": "The first of six new airborne campaigns will hit the skies this summer.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/esd/articles/2026/LRC-2026-OCIO_P-01034.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/esd/articles/2026/Trimmed%20banner%20v2%201.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/",
       "url": "https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/",
       "title": "From Hampton to Mars: How NASA Langley Helped Land on the Red Planet - NASA",
@@ -194,6 +228,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-13-mission-to-space-station/",
+      "url": "https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-13-mission-to-space-station/",
+      "title": "NASA Sets Briefings for SpaceX Crew-13 Mission to Space Station - NASA",
+      "content_text": "Mission leadership will provide an overview of NASA’s SpaceX Crew‑13 mission at 12 p.m. EDT. Next, crew members will discuss their training and mission",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/jsc2026e040446/jsc2026e040446~large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-de-comunicacion-al-lanzamiento-del-telescopio-espacial-roman/",
       "url": "https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-de-comunicacion-al-lanzamiento-del-telescopio-espacial-roman/",
       "title": "La NASA invita a los medios de comunicación al lanzamiento del telescopio espacial Roman - NASA",
@@ -224,13 +273,13 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/07/17/week-wraps-with-new-crew-adjustments-and-human-research-studies/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/07/17/week-wraps-with-new-crew-adjustments-and-human-research-studies/",
-      "title": "Week Wraps with New Crew Adjustments and Human Research Studies - NASA",
-      "content_text": "Crew swap activities are underway aboard the International Space Station as three new crewmates continue getting up to speed with living and working in microgravity and another Expedition 74 trio prepares to return to Earth. Meanwhile, scientific operations are back in full swing aboard the orbital outpost with lab residents studying how weightlessness affects the human body.",
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/07/20/expedition-74-turns-attention-to-departing-crewmates/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/07/20/expedition-74-turns-attention-to-departing-crewmates/",
+      "title": "Expedition 74 Turns Attention to Departing Crewmates - NASA",
+      "content_text": "Three Expedition 74 crew members are packing up cargo and handing over their responsibilities with less than one week to go before returning to Earth. The International Space Station’s three newest crewmates are already in the second week of their mission getting used to life on orbit and researching how microgravity affects the human body.",
       "attachments": [
         {
-          "url": "https://images-assets.nasa.gov/image/iss074e0814098/iss074e0814098~large.jpg",
+          "url": "https://images-assets.nasa.gov/image/iss074e0814088/iss074e0814088~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -239,13 +288,13 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/07/16/expanded-crew-works-science-microgravity-adaptation-and-next-crew-departure/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/07/16/expanded-crew-works-science-microgravity-adaptation-and-next-crew-departure/",
-      "title": "Expanded Crew Works Science, Microgravity Adaptation, and Next Crew Departure - NASA",
-      "content_text": "The International Space Station is a busy place hosting ten crewmates from NASA, Roscosmos, and ESA (European Space Agency) through the end of July. The",
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/07/17/week-wraps-with-new-crew-adjustments-and-human-research-studies/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/07/17/week-wraps-with-new-crew-adjustments-and-human-research-studies/",
+      "title": "Week Wraps with New Crew Adjustments and Human Research Studies - NASA",
+      "content_text": "Crew swap activities are underway aboard the International Space Station as three new crewmates continue getting up to speed with living and working in microgravity and another Expedition 74 trio prepares to return to Earth. Meanwhile, scientific operations are back in full swing aboard the orbital outpost with lab residents studying how weightlessness affects the human body.",
       "attachments": [
         {
-          "url": "https://images-assets.nasa.gov/image/iss074e0812184/iss074e0812184~large.jpg",
+          "url": "https://images-assets.nasa.gov/image/iss074e0814098/iss074e0814098~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -550,21 +599,6 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2026/07/lighthouse-lg.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/",
-      "title": "NASA Invites Media to Roman Space Telescope, Crew-13 Launches - NASA",
-      "content_text": "Media accreditation now is open for the launch of NASA’s Nancy Grace Roman Space Telescope and the agency’s SpaceX Crew-13 missions, both targeting launch in",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/nasa-meatball-11-black-background.jpg",
           "mime_type": "image/jpeg"
         }
       ],

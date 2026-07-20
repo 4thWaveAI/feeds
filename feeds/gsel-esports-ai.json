@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/gsel-esports-ai.json",
   "items": [
     {
+      "id": "https://esports.gg/news/fortnite/fortnite-obsession-skins/",
+      "url": "https://esports.gg/news/fortnite/fortnite-obsession-skins/",
+      "title": "Fortnite's latest Sprite trailer features an 'Obsession' crossover – could skins be next?",
+      "content_text": "Fortnite skins based on the film Obsession have become a real possibility following a recent collaboration with the film!",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/07/FN-Obsession.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
       "id": "https://esports.gg/news/mobile-legends-bang-bang/team-vitality-back-to-back-mwi-ewc-2026-win/",
       "url": "https://esports.gg/news/mobile-legends-bang-bang/team-vitality-back-to-back-mwi-ewc-2026-win/",
       "title": "Team Vitality Celebrates MWI at EWC 2026 win by eating giant croissants",
@@ -132,21 +147,6 @@
       "attachments": [
         {
           "url": "https://media.esports.gg/uploads/2023/12/All-Jam-Tracks.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
-      "id": "https://esports.gg/news/counter-strike-2/all-cs2-crosshair-codes/",
-      "url": "https://esports.gg/news/counter-strike-2/all-cs2-crosshair-codes/",
-      "title": "Best CS2 crosshair codes & settings",
-      "content_text": "Using crosshairs of pro players is a nice step towards competitive effectiveness. It is a good idea to experiment with different crosshairs and even adjust the settings for your personal playstyle and preferences.",
-      "attachments": [
-        {
-          "url": "https://media.esports.gg/uploads/2023/09/Fight-in-CS2.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -293,7 +293,7 @@
       "id": "https://esports.gg/news/",
       "url": "https://esports.gg/news/",
       "title": "News Archives",
-      "content_text": "Team Vitality wins a back-to-back MWI at EWC 2026 championship title after defeating NAVI PH in a six-round series.",
+      "content_text": "Fortnite skins based on the film Obsession have become a real possibility following a recent collaboration with the film!",
       "tags": [
         "gsel-esports-ai"
       ]
