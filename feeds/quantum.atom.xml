@@ -4,65 +4,362 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/quantum.atom.xml"/>
   <id>urn:4thwaveai-feeds:quantum</id>
-  <updated>Tue, 07 Oct 2025 05:41:15 +0000</updated>
+  <updated>Mon, 20 Jul 2026 03:40:17 +0000</updated>
   <entry>
-    <title>IBM’s time-series foundation model reaches #2 on GIFT-Eval</title>
-    <link href="https://research.ibm.com/blog/SSM-time-series-model"/>
-    <id>https://research.ibm.com/blog/SSM-time-series-model</id>
-    <summary type="text">The model uses a state space architecture to outperform time-series models at least 20 times bigger.</summary>
+    <title>NIST Receives New Patent for Microbe-Killing Water Heater</title>
+    <link href="https://www.nist.gov/news-events/news/2026/07/nist-receives-new-patent-microbe-killing-water-heater"/>
+    <id>https://www.nist.gov/news-events/news/2026/07/nist-receives-new-patent-microbe-killing-water-heater</id>
+    <summary type="text">Warm water in household pipes can be a breeding ground for harmful bacteria.</summary>
+    <updated>Tue, 14 Jul 2026 08:00:00 -0400</updated>
   </entry>
   <entry>
-    <title>New AI model finds railroad defects before they’re critical</title>
-    <link href="https://research.ibm.com/blog/ai-model-discovers-railroad-defects-before-theyre-critical"/>
-    <id>https://research.ibm.com/blog/ai-model-discovers-railroad-defects-before-theyre-critical</id>
-    <summary type="text">A new AI model detects and tracks rail maintenance issues before they can cause problems, freeing up skilled workers from tedious inspections.</summary>
+    <title>New Fabric Test Material Could Help Strengthen Domestic Supply Chain for Textiles and Clothing</title>
+    <link href="https://www.nist.gov/news-events/news/2026/07/new-fabric-test-material-could-help-strengthen-domestic-supply-chain"/>
+    <id>https://www.nist.gov/news-events/news/2026/07/new-fabric-test-material-could-help-strengthen-domestic-supply-chain</id>
+    <summary type="text">Researchers estimate that 56% of textiles can be recycled or recovered, but most don’t make it back into the domestic supply chain.</summary>
+    <updated>Thu, 09 Jul 2026 08:00:00 -0400</updated>
   </entry>
   <entry>
-    <title>IBM and Vanguard explore quantum optimization for finance | IBM Quantum Computing Blog</title>
-    <link href="https://research.ibm.com/blog/vanguard-portfolio-optimization"/>
-    <id>https://research.ibm.com/blog/vanguard-portfolio-optimization</id>
-    <summary type="text">Variational quantum algorithms for portfolio optimization.</summary>
+    <title>Arvind Raman Confirmed as the 18th NIST Director</title>
+    <link href="https://www.nist.gov/news-events/news/2026/07/arvind-raman-confirmed-18th-nist-director"/>
+    <id>https://www.nist.gov/news-events/news/2026/07/arvind-raman-confirmed-18th-nist-director</id>
+    <summary type="text">Raman comes to NIST from Purdue University, where he was the dean of engineering.</summary>
+    <updated>Mon, 06 Jul 2026 08:00:00 -0400</updated>
   </entry>
   <entry>
-    <title>How AI alignment differs from AI steering</title>
-    <link href="https://research.ibm.com/blog/map-measure-manage-gen-ai"/>
-    <id>https://research.ibm.com/blog/map-measure-manage-gen-ai</id>
-    <summary type="text">IBM Fellow Kush Varshney explains the difference, and provides an update on IBM’s latest work to mitigate the safety risks around generative AI.</summary>
+    <title>NIST Launches Center to Drive the Manufacture of Quantum Technologies</title>
+    <link href="https://www.nist.gov/news-events/news/2026/06/nist-launches-center-drive-manufacture-quantum-technologies"/>
+    <id>https://www.nist.gov/news-events/news/2026/06/nist-launches-center-drive-manufacture-quantum-technologies</id>
+    <summary type="text">NIST has announced an agreement with SRI International to establish the Quantum Manufacturing Engineering Center (QMEC).</summary>
+    <updated>Mon, 29 Jun 2026 08:00:00 -0400</updated>
   </entry>
   <entry>
-    <title>HSBC explores algorithmic trading with IBM quantum computers | IBM Quantum Computing Blog</title>
-    <link href="https://research.ibm.com/blog/hsbc-algorithmic-bond-trading"/>
-    <id>https://research.ibm.com/blog/hsbc-algorithmic-bond-trading</id>
-    <summary type="text">Researchers deliver first-known empirical evidence that quantum computers could soon solve valuable problems in algorithmic bond trading.</summary>
+    <title>NIST Releases Technical Findings on What Caused the 2021 Partial Collapse of Champlain Towers South</title>
+    <link href="https://www.nist.gov/news-events/news/2026/06/nist-releases-technical-findings-what-caused-2021-partial-collapse"/>
+    <id>https://www.nist.gov/news-events/news/2026/06/nist-releases-technical-findings-what-caused-2021-partial-collapse</id>
+    <summary type="text">In an investigation that began just days after the tragedy, the team examined two dozen possible scenarios for where and why the collapse started.</summary>
+    <updated>Mon, 22 Jun 2026 08:00:00 -0400</updated>
   </entry>
   <entry>
-    <title>IBM and BharatGen collaborate for India’s AI needs</title>
-    <link href="https://research.ibm.com/blog/bharatgen-ai-india"/>
-    <id>https://research.ibm.com/blog/bharatgen-ai-india</id>
-    <summary type="text">Using the multimodal AI and LLMs BharatGen is working on, it will work with IBM to build the unique tools needed to best serve Indian language speakers.</summary>
+    <title>NIST Expands Its Library of ‘Chemical Fingerprints’ to Identify Unknown Substances</title>
+    <link href="https://www.nist.gov/news-events/news/2026/06/nist-expands-its-library-chemical-fingerprints-identify-unknown-substances"/>
+    <id>https://www.nist.gov/news-events/news/2026/06/nist-expands-its-library-chemical-fingerprints-identify-unknown-substances</id>
+    <summary type="text">Researchers and manufacturers rely on the library to identify unknown compounds in food, drugs, cosmetics, the environment, body fluids, forensic evidence and even space rocks.</summary>
+    <updated>Tue, 09 Jun 2026 08:00:00 -0400</updated>
   </entry>
   <entry>
-    <title>Building software for quantum-centric supercomputing | IBM Quantum Computing Blog</title>
-    <link href="https://research.ibm.com/blog/qcsc-software"/>
-    <id>https://research.ibm.com/blog/qcsc-software</id>
-    <summary type="text">Explore open-source tools that IBM and its partners are creating to enable seamless integrations of quantum and classical high-performance computing resources.</summary>
+    <title>NIST Mathematical Proof Supports Transition to a Continuous-Monitor-and-Update Security Model for AI Systems</title>
+    <link href="https://www.nist.gov/news-events/news/2026/06/nist-mathematical-proof-supports-transition-continuous-monitor-and-update"/>
+    <id>https://www.nist.gov/news-events/news/2026/06/nist-mathematical-proof-supports-transition-continuous-monitor-and-update</id>
+    <summary type="text">The proof extends to AI the logic used by famed mathematician Kurt Gödel, whose incompleteness theorems have had a profound effect on math for nearly a century.</summary>
+    <updated>Tue, 09 Jun 2026 08:00:00 -0400</updated>
   </entry>
   <entry>
-    <title>Improving AI agent reliability with BeeAI</title>
-    <link href="https://research.ibm.com/blog/ai-agent-reliability-beeai"/>
-    <id>https://research.ibm.com/blog/ai-agent-reliability-beeai</id>
-    <summary type="text">The RequirementAgent from the BeeAI Framework is an innovative approach that provides the reliability needed for production scenarios made simple.</summary>
+    <title>New AI Model Shows How to Evacuate for Fires One Safe Step at a Time</title>
+    <link href="https://www.nist.gov/news-events/news/2026/06/new-ai-model-shows-how-evacuate-fires-one-safe-step-time"/>
+    <id>https://www.nist.gov/news-events/news/2026/06/new-ai-model-shows-how-evacuate-fires-one-safe-step-time</id>
+    <summary type="text">A NIST-led team has created a new AI model that can identify safe evacuation routes in a single-story floor plan during a fire, with a multilevel version in the works.</summary>
+    <updated>Thu, 04 Jun 2026 08:00:00 -0400</updated>
   </entry>
   <entry>
-    <title>Register for the new Qiskit v2.X developer certification | IBM Quantum Computing Blog</title>
-    <link href="https://research.ibm.com/blog/qiskit-v2x-developer-certification"/>
-    <id>https://research.ibm.com/blog/qiskit-v2x-developer-certification</id>
-    <summary type="text">Updated Qiskit developer certification exam tests your ability to perform essential quantum computing tasks with the latest version of Qiskit.</summary>
+    <title>NIST Researchers Discover a New Way to Whisk Alloys Together With Lasers</title>
+    <link href="https://www.nist.gov/news-events/news/2026/06/nist-researchers-discover-new-way-whisk-alloys-together-lasers"/>
+    <id>https://www.nist.gov/news-events/news/2026/06/nist-researchers-discover-new-way-whisk-alloys-together-lasers</id>
+    <summary type="text">NIST also improved how X-rays are used to study the atomic structure of metals in real time during 3D printing, allowing researchers to observe how materials change under extreme conditions.</summary>
+    <updated>Thu, 04 Jun 2026 08:00:00 -0400</updated>
   </entry>
   <entry>
-    <title>IBM researchers win prestigious European grants</title>
-    <link href="https://research.ibm.com/blog/ibm-researchers-win-prestigious-european-grants"/>
-    <id>https://research.ibm.com/blog/ibm-researchers-win-prestigious-european-grants</id>
-    <summary type="text">Ghazi Sarwat Syed and Gregor Seiler add to IBM Research’s strong history with European Research Council grants.</summary>
+    <title>NIST Expands AI Consortium’s Scope, Calls for New Members</title>
+    <link href="https://www.nist.gov/news-events/news/2026/05/nist-expands-ai-consortiums-scope-calls-new-members"/>
+    <id>https://www.nist.gov/news-events/news/2026/05/nist-expands-ai-consortiums-scope-calls-new-members</id>
+    <summary type="text">The consortium will focus on AI innovation and adoption, with six task groups concentrating on different aspects of AI measurement science and evaluation.</summary>
+    <updated>Fri, 29 May 2026 08:00:00 -0400</updated>
+  </entry>
+  <entry>
+    <title>Powerful new developer tools increase the versatility of the Microsoft Quantum platform - Microsoft Azure Quantum Blog</title>
+    <link href="https://azure.microsoft.com/en-us/blog/quantum/2026/01/22/powerful-new-developer-tools-increase-the-versatility-of-the-microsoft-quantum-platform/"/>
+    <id>https://azure.microsoft.com/en-us/blog/quantum/2026/01/22/powerful-new-developer-tools-increase-the-versatility-of-the-microsoft-quantum-platform/</id>
+    <summary type="text">Learn how the Microsoft Quantum Development Kit can help you and your organization simplify quantum development.</summary>
+    <updated>Thu, 22 Jan 2026 16:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>2026 in Quantum: A Strategic Preview from Atom Computing and Partners - Atom Computing</title>
+    <link href="https://atom-computing.com/2026-in-quantum-a-strategic-preview-from-atom-computing-and-partners/"/>
+    <id>https://atom-computing.com/2026-in-quantum-a-strategic-preview-from-atom-computing-and-partners/</id>
+    <summary type="text">Tech Perspective</summary>
+    <updated>Wed, 07 Jan 2026 20:45:11 +0000</updated>
+  </entry>
+  <entry>
+    <title>Microsoft advances quantum error correction with a family of novel four-dimensional codes - Microsoft Azure Quantum Blog</title>
+    <link href="https://azure.microsoft.com/en-us/blog/quantum/2025/06/19/microsoft-advances-quantum-error-correction-with-a-family-of-novel-four-dimensional-codes/"/>
+    <id>https://azure.microsoft.com/en-us/blog/quantum/2025/06/19/microsoft-advances-quantum-error-correction-with-a-family-of-novel-four-dimensional-codes/</id>
+    <summary type="text">Learn how we&#x27;re advancing quantum computing by developing 4D error-correction codes that are applicable to many types of qubits.</summary>
+    <updated>Thu, 19 Jun 2025 20:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Transforming R&amp;D with agentic AI: Introducing Microsoft Discovery | Microsoft Azure Blog</title>
+    <link href="https://azure.microsoft.com/en-us/blog/transforming-rd-with-agentic-ai-introducing-microsoft-discovery/"/>
+    <id>https://azure.microsoft.com/en-us/blog/transforming-rd-with-agentic-ai-introducing-microsoft-discovery/</id>
+    <summary type="text">Learn more about the new enterprise agentic platform, , accelerating research and development</summary>
+    <updated>Mon, 19 May 2025 16:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Microsoft unveils Majorana 1, the world’s first quantum processor powered by topological qubits - Microsoft Azure Quantum Blog</title>
+    <link href="https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/"/>
+    <id>https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/</id>
+    <summary type="text">Majorana 1 from Microsoft is the world’s first Quantum Processing Unit (QPU) built with a topoconductor. Discover more.</summary>
+    <updated>Wed, 19 Feb 2025 16:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>This could be the largest synthetic code dataset yet</title>
+    <link href="https://research.ibm.com/blog/code-alchemy-for-synthetic-code"/>
+    <id>https://research.ibm.com/blog/code-alchemy-for-synthetic-code</id>
+    <summary type="text">Introducing CodeAlchemy, a synthetic data pipeline that has already produced nearly 1 trillion tokens of open-source code</summary>
+  </entry>
+  <entry>
+    <title>CoFrGeNets replace the ‘bones’ of transformer-based models</title>
+    <link href="https://research.ibm.com/blog/cofrgenets-replace-the-bones-of-transformer-based-models"/>
+    <id>https://research.ibm.com/blog/cofrgenets-replace-the-bones-of-transformer-based-models</id>
+    <summary type="text">This new approach, a practical and conceptual shift, points to lighter-weight generative AI models that perform competitively, and in many cases even better.</summary>
+  </entry>
+  <entry>
+    <title>It’s time for cryptography to get its own abstraction layer</title>
+    <link href="https://research.ibm.com/blog/cyrography-abstraction-layer"/>
+    <id>https://research.ibm.com/blog/cyrography-abstraction-layer</id>
+    <summary type="text">Filesystems and sockets once looked like unnecessary layers of indirection; now they’re the foundation of modern systems. Cryptography is ready for the same shift — and with PQC on the horizon, the timing is right.</summary>
+  </entry>
+  <entry>
+    <title>How to measure the performance of a quantum computer | IBM Quantum Computing Blog</title>
+    <link href="https://research.ibm.com/blog/hardware-metrics-2026"/>
+    <id>https://research.ibm.com/blog/hardware-metrics-2026</id>
+    <summary type="text">Three key hardware metrics reveal the scale, quality, and speed of any quantum computer—factors that determine computational capability and cost efficiency.</summary>
+  </entry>
+  <entry>
+    <title>Release News: Qiskit v2.5 is here! | IBM Quantum Computing Blog</title>
+    <link href="https://research.ibm.com/blog/qiskit-2-5-release-summary"/>
+    <id>https://research.ibm.com/blog/qiskit-2-5-release-summary</id>
+    <summary type="text">Technical release summary for Qiskit SDK v2.5, including top new features and performance improvements.</summary>
+  </entry>
+  <entry>
+    <title>How training environments can teach AI models to misbehave</title>
+    <link href="https://research.ibm.com/blog/how-the-wrong-training-environment-can-teach-ai-models-to-misbehave"/>
+    <id>https://research.ibm.com/blog/how-the-wrong-training-environment-can-teach-ai-models-to-misbehave</id>
+    <summary type="text">A new study presented at ICML showed that language models trained with reinforcement learning can find and exploit loopholes to maximize reward — at a cost.</summary>
+  </entry>
+  <entry>
+    <title>What’s new at IBM Quantum - Q2 2026 | IBM Quantum Computing Blog</title>
+    <link href="https://research.ibm.com/blog/whats-new-q2-2026"/>
+    <id>https://research.ibm.com/blog/whats-new-q2-2026</id>
+    <summary type="text">Explore new updates, releases, and resources from IBM Quantum and Qiskit with this convenient one-pager, designed to get you started with the latest capabilities right away.</summary>
+  </entry>
+  <entry>
+    <title>Modeling the chemistry of fusion reactor material | IBM Quantum Computing Blog</title>
+    <link href="https://research.ibm.com/blog/molten-salts-fusion-quantum"/>
+    <id>https://research.ibm.com/blog/molten-salts-fusion-quantum</id>
+    <summary type="text">Researchers used quantum-centric supercomputing to simulate molten salts, in an early step toward solving a key problem in fusion power.</summary>
+  </entry>
+  <entry>
+    <title>Ponder This Challenge - July 2026 - Return of the Superheroes</title>
+    <link href="https://research.ibm.com/blog/ponder-this-july-2026"/>
+    <id>https://research.ibm.com/blog/ponder-this-july-2026</id>
+    <summary type="text">Ponder This Challenge - July 2026 - Return of the Superheroes</summary>
+  </entry>
+  <entry>
+    <title>Apply to IBM Quantum Developer Conference 2026 | IBM Quantum Computing Blog</title>
+    <link href="https://research.ibm.com/blog/qdc-application-2026"/>
+    <id>https://research.ibm.com/blog/qdc-application-2026</id>
+    <summary type="text">Get an exclusive look at the breakthroughs, tools, and workflows shaping the path to quantum advantage.</summary>
+  </entry>
+  <entry>
+    <title>How to measure the performance of a quantum computer | IBM Quantum Computing Blog</title>
+    <link href="https://www.ibm.com/quantum/blog/hardware-metrics-2026"/>
+    <id>https://www.ibm.com/quantum/blog/hardware-metrics-2026</id>
+    <summary type="text">Three key hardware metrics reveal the scale, quality, and speed of any quantum computer—factors that determine computational capability and cost efficiency.</summary>
+  </entry>
+  <entry>
+    <title>Release News: Qiskit v2.5 is here! | IBM Quantum Computing Blog</title>
+    <link href="https://www.ibm.com/quantum/blog/qiskit-2-5-release-summary"/>
+    <id>https://www.ibm.com/quantum/blog/qiskit-2-5-release-summary</id>
+    <summary type="text">Technical release summary for Qiskit SDK v2.5, including top new features and performance improvements.</summary>
+  </entry>
+  <entry>
+    <title>What’s new at IBM Quantum - Q2 2026 | IBM Quantum Computing Blog</title>
+    <link href="https://www.ibm.com/quantum/blog/whats-new-q2-2026"/>
+    <id>https://www.ibm.com/quantum/blog/whats-new-q2-2026</id>
+    <summary type="text">Explore new updates, releases, and resources from IBM Quantum and Qiskit with this convenient one-pager, designed to get you started with the latest capabilities right away.</summary>
+  </entry>
+  <entry>
+    <title>Modeling the chemistry of fusion reactor material | IBM Quantum Computing Blog</title>
+    <link href="https://www.ibm.com/quantum/blog/molten-salts-fusion-quantum"/>
+    <id>https://www.ibm.com/quantum/blog/molten-salts-fusion-quantum</id>
+    <summary type="text">Researchers used quantum-centric supercomputing to simulate molten salts, in an early step toward solving a key problem in fusion power.</summary>
+  </entry>
+  <entry>
+    <title>Apply to IBM Quantum Developer Conference 2026 | IBM Quantum Computing Blog</title>
+    <link href="https://www.ibm.com/quantum/blog/qdc-application-2026"/>
+    <id>https://www.ibm.com/quantum/blog/qdc-application-2026</id>
+    <summary type="text">Get an exclusive look at the breakthroughs, tools, and workflows shaping the path to quantum advantage.</summary>
+  </entry>
+  <entry>
+    <title>Qiskit Paulice: postselected quantum error correction | IBM Quantum Computing Blog</title>
+    <link href="https://www.ibm.com/quantum/blog/qiskit-paulice"/>
+    <id>https://www.ibm.com/quantum/blog/qiskit-paulice</id>
+    <summary type="text">Qiskit Paulice, a new Qiskit addon, improves the reliability of quantum circuits by detecting and filtering out errors.</summary>
+  </entry>
+  <entry>
+    <title>Explore next-gen quantum algorithms with IBM Quantum Credits | IBM Quantum Computing Blog</title>
+    <link href="https://www.ibm.com/quantum/blog/credits-recipients"/>
+    <id>https://www.ibm.com/quantum/blog/credits-recipients</id>
+    <summary type="text">See how top researchers used IBM Quantum Credits to develop new methods that extend today’s quantum hardware.</summary>
+  </entry>
+  <entry>
+    <title>Allstate explores quantum computing for insurance portfolios | IBM Quantum Computing Blog</title>
+    <link href="https://www.ibm.com/quantum/blog/allstate-quantum-insurance-portfolio"/>
+    <id>https://www.ibm.com/quantum/blog/allstate-quantum-insurance-portfolio</id>
+    <summary type="text">Insurance involves hard problems with complex, correlated risks. Allstate and IBM are showing how quantum could help solve them.</summary>
+  </entry>
+  <entry>
+    <title>Prototype and validate fermionic circuits faster with ffsim | IBM Quantum Computing Blog</title>
+    <link href="https://www.ibm.com/quantum/blog/ffsim"/>
+    <id>https://www.ibm.com/quantum/blog/ffsim</id>
+    <summary type="text">Open-source Python library for fast simulation of fermionic quantum circuits enables efficient prototyping and benchmarking for real quantum hardware.</summary>
+  </entry>
+  <entry>
+    <title>Qiskit Fall Fest 2026: Applications open | IBM Quantum Computing Blog</title>
+    <link href="https://www.ibm.com/quantum/blog/qiskit-fall-fest-2026"/>
+    <id>https://www.ibm.com/quantum/blog/qiskit-fall-fest-2026</id>
+    <summary type="text">Apply to host a Qiskit Fall Fest 2026 event and lead a global quantum computing experience on your campus or in your community.</summary>
+  </entry>
+  <entry>
+    <title>Technical perspective: By the end of the decade, we will deliver universal, fully fault-tolerant quantum computing</title>
+    <link href="https://www.quantinuum.com/blog/technical-perspective-by-the-end-of-the-decade-we-will-deliver-universal-fault-tolerant-quantum-computing"/>
+    <id>https://www.quantinuum.com/blog/technical-perspective-by-the-end-of-the-decade-we-will-deliver-universal-fault-tolerant-quantum-computing</id>
+    <summary type="text">By the end of the decade, our accelerated hardware roadmap will deliver a fully fault-tolerant and universal quantum computer capable of executing millions of operations on hundreds of logical qubits.</summary>
+  </entry>
+  <entry>
+    <title>Quantinuum | News</title>
+    <link href="https://www.quantinuum.com/news/news"/>
+    <id>https://www.quantinuum.com/news/news</id>
+    <summary type="text">Explore our latest announcements to discover how we are pushing the boundaries in the world of quantum computing</summary>
+  </entry>
+  <entry>
+    <title>Quantinuum | Blog</title>
+    <link href="https://www.quantinuum.com/news/blog"/>
+    <id>https://www.quantinuum.com/news/blog</id>
+    <summary type="text">Stay up to date on how we are accelerating quantum computing through our business, partnership, customer, and technical announcements</summary>
+  </entry>
+  <entry>
+    <title>Quantinuum | Events</title>
+    <link href="https://www.quantinuum.com/news/events"/>
+    <id>https://www.quantinuum.com/news/events</id>
+    <summary type="text">Discover where our business leaders and quantum computing scientists will be next</summary>
+  </entry>
+  <entry>
+    <title>Quantinuum accelerates the path to Universal Fully Fault-Tolerant Quantum Computing; supports Microsoft’s AI and quantum-powered compute platform and “the path to a Quantum Supercomputer”</title>
+    <link href="https://www.quantinuum.com/blog/quantinuum-accelerates-the-path-to-universal-fault-tolerant-quantum-computing-supports-microsofts-ai-and-quantum-powered-compute-platform-and-the-path-to-a-quantum-supercomputer"/>
+    <id>https://www.quantinuum.com/blog/quantinuum-accelerates-the-path-to-universal-fault-tolerant-quantum-computing-supports-microsofts-ai-and-quantum-powered-compute-platform-and-the-path-to-a-quantum-supercomputer</id>
+    <summary type="text">Quantinuum will achieve universal fault-tolerant quantum computing, built on foundations such as a universal fault-tolerant gate set, high fidelity physical qubits uniquely capable of supporting reliable logical qubits, and a fully-scalable architecture</summary>
+  </entry>
+  <entry>
+    <title>IonQ | IonQ Launches Clavis XG Multiplex for Metro Fiber Networks</title>
+    <link href="https://ionq.com/news/ionq-introduces-clavis-xg-multiplex-making-quantum-security-deployable-at-scale-in-metro-networks"/>
+    <id>https://ionq.com/news/ionq-introduces-clavis-xg-multiplex-making-quantum-security-deployable-at-scale-in-metro-networks</id>
+    <summary type="text">IonQ announces Clavis XG Multiplex, allowing quantum and classical traffic to coexist on existing fiber networks for cost-effective, practical QKD security.</summary>
+  </entry>
+  <entry>
+    <title>IonQ |</title>
+    <link href="https://ionq.com/news/ionq-worlds-leading-quantum-platform-company-opens-new-quantum-computing-r-d-lab-in-boulder"/>
+    <id>https://ionq.com/news/ionq-worlds-leading-quantum-platform-company-opens-new-quantum-computing-r-d-lab-in-boulder</id>
+    <summary type="text">Commercial quantum computers with world-record fidelity to tackle the world’s most complex challenges.</summary>
+  </entry>
+  <entry>
+    <title>IonQ | IonQ Posts Q1 2026 Earnings with Record Revenue</title>
+    <link href="https://ionq.com/news/ionq-announces-first-quarter-2026-financial-results"/>
+    <id>https://ionq.com/news/ionq-announces-first-quarter-2026-financial-results</id>
+    <summary type="text">The company reported Record GAAP Revenues of $64.7 Million, Representing 755% Year-On-Year Growth, Fueled by Quantum Computing Growth and Expansion of the Quantum Platform and raised full year guidance.</summary>
+  </entry>
+  <entry>
+    <title>IonQ | Automated 3-Day InSAR Monitoring: Precision Ground Deformation | IonQ</title>
+    <link href="https://ionq.com/news/ionq-launches-commercial-insar-capability-enabling-automated-millimeter-scale-earth-monitoring"/>
+    <id>https://ionq.com/news/ionq-launches-commercial-insar-capability-enabling-automated-millimeter-scale-earth-monitoring</id>
+    <summary type="text">IonQ launches fully automated 3-day repeat InSAR time series data. Achieve millimeter-precision monitoring for urban subsidence, infrastructure, and national security at scale.</summary>
+  </entry>
+  <entry>
+    <title>IonQ | Niccolo’s 2025 Letter to Shareholders</title>
+    <link href="https://ionq.com/news/ionq-2025-letter-to-shareholders"/>
+    <id>https://ionq.com/news/ionq-2025-letter-to-shareholders</id>
+    <summary type="text">Commercial quantum computers with world-record fidelity to tackle the world’s most complex challenges.</summary>
+  </entry>
+  <entry>
+    <title>IonQ | IonQ and Florida LambdaRail to Launch 100-Mile Quantum-Safe Network</title>
+    <link href="https://ionq.com/news/ionq-and-florida-lambdarail-launch-first-statewide-quantum-safe-network-initiative-in-united-states"/>
+    <id>https://ionq.com/news/ionq-and-florida-lambdarail-launch-first-statewide-quantum-safe-network-initiative-in-united-states</id>
+    <summary type="text">IonQ (NYSE: IONQ) and Florida LambdaRail announce a landmark agreement to build a quantum-secure corridor in Florida, linking research institutions via QKD technology.</summary>
+  </entry>
+  <entry>
+    <title>IonQ | IonQ Unveils Definitive Blueprint for Fault-Tolerant Quantum Computing</title>
+    <link href="https://ionq.com/news/ionq-publishes-definitive-technical-report-establishing-its-fault-tolerant-quantum-computing-trajectory---setting-a-new-standard-for-technical-specificity-and-transparency"/>
+    <id>https://ionq.com/news/ionq-publishes-definitive-technical-report-establishing-its-fault-tolerant-quantum-computing-trajectory---setting-a-new-standard-for-technical-specificity-and-transparency</id>
+    <summary type="text">Meta Description: IonQ sets a new industry standard with a full-stack technical report detailing the path to 10,000+ qubits and scalable, error-corrected quantum systems.</summary>
+  </entry>
+  <entry>
+    <title>IonQ | IonQ to Announce First Quarter 2026 Financial Results on May 6</title>
+    <link href="https://ionq.com/news/ionq-to-report-first-quarter-2026-financial-results-on-may-6-2026"/>
+    <id>https://ionq.com/news/ionq-to-report-first-quarter-2026-financial-results-on-may-6-2026</id>
+    <summary type="text">IonQ (NYSE: IONQ) will release its Q1 2026 financial results after market close on Wednesday, May 6, 2026, followed by a conference call at 4:30 PM ET.</summary>
+  </entry>
+  <entry>
+    <title>IonQ | IonQ Achieves First Photonic Interconnect Milestone for Networked Commercial Quantum Systems</title>
+    <link href="https://ionq.com/news/ionq-achieves-key-photonic-interconnect-milestone-demonstrating-networked-quantum-systems-using-entanglement"/>
+    <id>https://ionq.com/news/ionq-achieves-key-photonic-interconnect-milestone-demonstrating-networked-quantum-systems-using-entanglement</id>
+    <summary type="text">IonQ successfully links two remote quantum systems via photonic interconnects. Discover how this AFRL-backed milestone paves the way for scalable, networked quantum computing.</summary>
+  </entry>
+  <entry>
+    <title>IonQ | IonQ Selected to Bid to Build Multi-Qubit Quantum Networks for DARPA HARQ</title>
+    <link href="https://ionq.com/news/ionq-selected-for-darpas-heterogeneous-architectures-for-quantum-harq-program"/>
+    <id>https://ionq.com/news/ionq-selected-for-darpas-heterogeneous-architectures-for-quantum-harq-program</id>
+    <summary type="text">Discover how IonQ is leveraging synthetic diamond quantum memories to link trapped ions, neutral atoms, and superconducting qubits in DARPA’s new HARQ program.</summary>
+  </entry>
+  <entry>
+    <title></title>
+    <link href="https://www.dwavequantum.com/learn/blog/"/>
+    <id>https://www.dwavequantum.com/learn/blog/</id>
+    <summary type="text">Discover how you can use quantum computing today</summary>
+  </entry>
+  <entry>
+    <title>Microsoft Azure Blog</title>
+    <link href="https://azure.microsoft.com/en-us/blog/"/>
+    <id>https://azure.microsoft.com/en-us/blog/</id>
+    <summary type="text">Azure helps you build, run, and manage your applications. Get the latest news, updates, and announcements here from experts at the Microsoft Azure Blog.</summary>
+  </entry>
+  <entry>
+    <title>Events - Microsoft Azure Quantum Blog</title>
+    <link href="https://azure.microsoft.com/en-us/blog/quantum/content-type/events/"/>
+    <id>https://azure.microsoft.com/en-us/blog/quantum/content-type/events/</id>
+    <summary type="text">Stay up to date on Azure Quantum Events, from Microsoft&#x27;s team of experts at Microsoft Azure Quantum Blog.</summary>
+  </entry>
+  <entry>
+    <title>News - Microsoft Azure Quantum Blog</title>
+    <link href="https://azure.microsoft.com/en-us/blog/quantum/content-type/news/"/>
+    <id>https://azure.microsoft.com/en-us/blog/quantum/content-type/news/</id>
+    <summary type="text">Stay up to date on Azure Quantum News, from Microsoft&#x27;s team of experts at Microsoft Azure Quantum Blog.</summary>
+  </entry>
+  <entry>
+    <title>Partnerships - Microsoft Azure Quantum Blog</title>
+    <link href="https://azure.microsoft.com/en-us/blog/quantum/content-type/partnerships/"/>
+    <id>https://azure.microsoft.com/en-us/blog/quantum/content-type/partnerships/</id>
+    <summary type="text">Stay up to date on Azure Quantum Partnerships, from Microsoft&#x27;s team of experts at Microsoft Azure Quantum Blog.</summary>
+  </entry>
+  <entry>
+    <title>Azure Quantum - Microsoft Azure Quantum Blog</title>
+    <link href="https://azure.microsoft.com/en-us/blog/quantum/product/azure-quantum/"/>
+    <id>https://azure.microsoft.com/en-us/blog/quantum/product/azure-quantum/</id>
+    <summary type="text">Get up to date news and updates about Azure Quantum with insights from the experts at Microsoft Azure Quantum Blog.</summary>
+  </entry>
+  <entry>
+    <title>Azure Quantum Elements - Microsoft Azure Quantum Blog</title>
+    <link href="https://azure.microsoft.com/en-us/blog/quantum/product/azure-quantum-elements/"/>
+    <id>https://azure.microsoft.com/en-us/blog/quantum/product/azure-quantum-elements/</id>
+    <summary type="text">Get up to date news and updates about Azure Quantum Elements with insights from the experts at Microsoft Azure Quantum Blog.</summary>
   </entry>
 </feed>

@@ -4,7 +4,258 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.atom.xml"/>
   <id>urn:4thwaveai-feeds:videos</id>
-  <updated>Mon, 20 Jul 2026 03:29:52 +0000</updated>
+  <updated>Mon, 20 Jul 2026 03:58:03 +0000</updated>
+  <entry>
+    <title>NASA’s Psyche Mission Delivers Mars Flyby Data, Time-lapse Video  - NASA Science</title>
+    <link href="https://science.nasa.gov/blogs/psyche/2026/07/17/nasas-psyche-mission-delivers-mars-flyby-data-time-lapse-video/"/>
+    <id>https://science.nasa.gov/blogs/psyche/2026/07/17/nasas-psyche-mission-delivers-mars-flyby-data-time-lapse-video/</id>
+    <summary type="text">When NASA’s Psyche spacecraft flew by Mars for a gravity assist on May 15, 2026, it gave the mission team an opportunity to test instruments and prep for science they’ll conduct when reaching the metal-rich asteroid Psyche in 2029, and collect images and a time-lapse video of the Mars encounter.</summary>
+    <updated>Fri, 17 Jul 2026 13:07:24 -0400</updated>
+  </entry>
+  <entry>
+    <title>NovoTags: AI-designed proteins help scientists see inside living cells | EMBL</title>
+    <link href="https://www.embl.org/news/science-technology/novotags-ai-designed-proteins-help-scientists-see-inside-living-cells/"/>
+    <id>https://www.embl.org/news/science-technology/novotags-ai-designed-proteins-help-scientists-see-inside-living-cells/</id>
+    <summary type="text">Researchers have designed synthetic and inducible proteins that bind to bright fluorescent dyes with high specificity and affinity, significantly expanding the toolkit for multicolour imaging of proteins inside cells</summary>
+    <updated>Fri, 17 Jul 2026 12:46:38 +0000</updated>
+  </entry>
+  <entry>
+    <title>Q&amp;A: How Capcom Brought Path Tracing to RE ENGINE Across PRAGMATA and Resident Evil Requiem | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem/"/>
+    <id>https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem/</id>
+    <summary type="text">Capcom’s RE ENGINE team set out to bring path tracing into two shipping titles at once, Resident Evil Requiem and PRAGMATA, each with a different visual identity. Over two years, the RE ENGINE team…</summary>
+    <updated>Thu, 16 Jul 2026 22:59:09 +0000</updated>
+  </entry>
+  <entry>
+    <title>Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/"/>
+    <id>https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/</id>
+    <summary type="text">Developers building video analytics applications across large spaces must track the same object as it moves between camera views. Single-camera 2D tracking lacks reliable depth information and…</summary>
+    <updated>Wed, 15 Jul 2026 23:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry</title>
+    <link href="https://blogs.nvidia.com/blog/japan-ecosystem-2026/"/>
+    <id>https://blogs.nvidia.com/blog/japan-ecosystem-2026/</id>
+    <summary type="text">NVIDIA and its partners in Japan are this week showcasing the AI ecosystem&#x27;s latest advancements. Check back here for updates.</summary>
+    <updated>Wed, 15 Jul 2026 10:51:37 +0000</updated>
+  </entry>
+  <entry>
+    <title>How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/"/>
+    <id>https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/</id>
+    <summary type="text">Coding AI agents are becoming practical operators for long-running machine learning (ML) workflows. They can inspect repositories, set up runtimes, resolve build issues, launch experiments…</summary>
+    <updated>Tue, 14 Jul 2026 16:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Post-Train NVIDIA Cosmos 3 in One Day Using Agent Skills | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills/"/>
+    <id>https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills/</id>
+    <summary type="text">What if autonomous coding AI agents could push your vision reasoning models above 90% accuracy with almost no manual effort? When adapting vision reasoning models to production video tasks…</summary>
+    <updated>Tue, 14 Jul 2026 16:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>AI in Indian Education: Atal Innovation Mission and Google launch ATL Saathi</title>
+    <link href="https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/"/>
+    <id>https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/</id>
+    <summary type="text">Atal Innovation Mission launches ATL Saathi, a Gemini powered AI assistant empowering India&#x27;s educators to nurture the next generation of innovators.</summary>
+    <updated>Tue, 14 Jul 2026 07:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>NVIDIA Ising Decoding Cuts Color Code Logical Error Rates by Over 300x | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/nvidia-ising-decoding-cuts-color-code-logical-error-rates-by-over-300x/"/>
+    <id>https://developer.nvidia.com/blog/nvidia-ising-decoding-cuts-color-code-logical-error-rates-by-over-300x/</id>
+    <summary type="text">Useful quantum computers will require fault tolerant logical operations. Researchers are actively exploring many different quantum error correction (QEC) codes to enable this…</summary>
+    <updated>Mon, 13 Jul 2026 19:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server</title>
+    <link href="https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/"/>
+    <id>https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/</id>
+    <summary type="text">Plus, tap into ‘NTE: Neverness to Everness’ with a new update, alongside three new games joining the cloud this week.</summary>
+    <updated>Thu, 09 Jul 2026 13:00:55 +0000</updated>
+  </entry>
+  <entry>
+    <title>Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/"/>
+    <id>https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/</id>
+    <summary type="text">Agentic systems often face a trade-off between accuracy and cost. The highest-performing proprietary frontier models and harnesses provide top accuracy but are expensive. Fine-tuning offers one way to…</summary>
+    <updated>Wed, 08 Jul 2026 18:17:59 +0000</updated>
+  </entry>
+  <entry>
+    <title>NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness</title>
+    <link href="https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/"/>
+    <id>https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/</id>
+    <summary type="text">NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform.  LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x […]</summary>
+    <updated>Wed, 08 Jul 2026 15:00:27 +0000</updated>
+  </entry>
+  <entry>
+    <title>AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters</title>
+    <link href="https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/"/>
+    <id>https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/</id>
+    <summary type="text">NVIDIA Vera exemplifies a new class of CPU, architected for the era of agents and being adopted by AI innovators including Perplexity; NVIDIA CPU roadmap continues with the NVIDIA Rosa CPU and its Rigel core.</summary>
+    <updated>Tue, 07 Jul 2026 15:00:52 +0000</updated>
+  </entry>
+  <entry>
+    <title>What&#x27;s new on Prime Video in July 2026, including &#x27;Elle,&#x27; &#x27;The Ghost in the Shell,&#x27; and live sports</title>
+    <link href="https://www.aboutamazon.com/news/entertainment/prime-video-july-movies-shows-music-sports-2026"/>
+    <id>https://www.aboutamazon.com/news/entertainment/prime-video-july-movies-shows-music-sports-2026</id>
+    <summary type="text">Check out Prime Video&#x27;s July lineup, which features the &#x27;Legally Blonde&#x27; prequel series, new anime seasons, and more.</summary>
+    <updated>Wed, 01 Jul 2026 13:00:44 +0000</updated>
+  </entry>
+  <entry>
+    <title>SkillOpt turns AI agent skills into trainable assets</title>
+    <link href="https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/"/>
+    <id>https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/</id>
+    <summary type="text">AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement. Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable without changing model weights:</summary>
+    <updated>Tue, 30 Jun 2026 16:50:02 +0000</updated>
+  </entry>
+  <entry>
+    <title>Partners, NASA Ready for June Launch of Swift Boost Mission - NASA Science</title>
+    <link href="https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/"/>
+    <id>https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/</id>
+    <summary type="text">A mission to raise the orbit of NASA’s Swift observatory is poised for launch June 30.</summary>
+    <updated>Fri, 26 Jun 2026 13:16:22 -0400</updated>
+  </entry>
+  <entry>
+    <title>EasyGrid: towards better automation in cryo-electron microscopy | EMBL</title>
+    <link href="https://www.embl.org/news/science-technology/easygrid-towards-better-automation-in-cryo-electron-microscopy/"/>
+    <id>https://www.embl.org/news/science-technology/easygrid-towards-better-automation-in-cryo-electron-microscopy/</id>
+    <summary type="text">EMBL Grenoble scientists have developed EasyGrid and EasyGrid Control, unique instruments that automate advanced microscopy sample preparation and quality control</summary>
+    <updated>Tue, 23 Jun 2026 12:39:38 +0000</updated>
+  </entry>
+  <entry>
+    <title>Call for proposals for innovations across the Global South now open - Global Resilience Partnership</title>
+    <link href="https://www.globalresiliencepartnership.org/call-for-proposals-for-innovations-across-the-global-south-now-open/"/>
+    <id>https://www.globalresiliencepartnership.org/call-for-proposals-for-innovations-across-the-global-south-now-open/</id>
+    <summary type="text">We are launching an Innovation Challenge call to support bold, locally led solutions that strengthen resilience, protect ecosystems, and create sustainable opportunities for communities.</summary>
+    <updated>Thu, 30 Apr 2026 13:05:29 +0000</updated>
+  </entry>
+  <entry>
+    <title>How AI is changing the nature of mathematical research</title>
+    <link href="https://www.amazon.science/blog/how-ai-is-changing-the-nature-of-mathematical-research"/>
+    <id>https://www.amazon.science/blog/how-ai-is-changing-the-nature-of-mathematical-research</id>
+    <summary type="text">What machine learning theorists learned using AI agents to generate proofs — and what comes next.</summary>
+    <updated>Mon, 09 Mar 2026 17:55:47 -0000</updated>
+  </entry>
+  <entry>
+    <title>No Plugins, No Problem: Integrating TAK, Meshtastic, and iOS | Meshtastic</title>
+    <link href="https://meshtastic.org/blog/tak-server-integration-ios/"/>
+    <id>https://meshtastic.org/blog/tak-server-integration-ios/</id>
+    <summary type="text">Announcing native TAK Server integration in the Meshtastic iOS app, bridging mesh networking with situational awareness tools.</summary>
+    <updated>Tue, 17 Feb 2026 09:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>SIMA 2: A Gemini-Powered AI Agent for 3D Virtual Worlds</title>
+    <link href="https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/"/>
+    <id>https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/</id>
+    <summary type="text">Introducing SIMA 2, the next milestone in our research creating general and helpful AI agents. By integrating the advanced capabilities of our Gemini models, SIMA is evolving from an instruction-follower into an interactive gaming companion.</summary>
+    <updated>Thu, 13 Nov 2025 18:55:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>...That one time at DEF CON! | Meshtastic</title>
+    <link href="https://meshtastic.org/blog/that-one-time-at-defcon/"/>
+    <id>https://meshtastic.org/blog/that-one-time-at-defcon/</id>
+    <summary type="text">A recap of the Meshtastic DEF CON deployment, including a vulnerability demonstration and the project&#x27;s response.</summary>
+    <updated>Tue, 12 Aug 2025 19:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Meshtastic 2.7 Preview: UI Overhaul - Introducing BaseUI! + New Input Support + TFT Unification | Meshtastic</title>
+    <link href="https://meshtastic.org/blog/meshtastic-2-7-preview/"/>
+    <id>https://meshtastic.org/blog/meshtastic-2-7-preview/</id>
+    <summary type="text">Meshtastic 2.7 is here with a complete redesign of the standard UI, Introducing BaseUI! New input support on native linux, and the ability to switch between UIs on supported hardware.</summary>
+    <updated>Sat, 21 Jun 2025 07:30:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Introducing Helix 02: Full-Body Autonomy</title>
+    <link href="https://www.figure.ai/news/helix-02"/>
+    <id>https://www.figure.ai/news/helix-02</id>
+    <summary type="text">Introducing Helix 02: Full-Body Autonomy</summary>
+  </entry>
+  <entry>
+    <title>Introducing Figure 03</title>
+    <link href="https://www.figure.ai/news/introducing-figure-03"/>
+    <id>https://www.figure.ai/news/introducing-figure-03</id>
+    <summary type="text">Introducing Figure 03</summary>
+  </entry>
+  <entry>
+    <title>Ramping Figure 03 Production</title>
+    <link href="https://www.figure.ai/news/ramping-figure-03-production"/>
+    <id>https://www.figure.ai/news/ramping-figure-03-production</id>
+    <summary type="text">Figure has cleared the gap from prototype to scalable fleet with BotQ, our high-volume manufacturing facility.</summary>
+  </entry>
+  <entry>
+    <title>Notice Regarding Unauthorized Attempts to Sell Figure Stock</title>
+    <link href="https://www.figure.ai/news/notice-regarding-unauthorized-attempts-to-sell-figure-stock"/>
+    <id>https://www.figure.ai/news/notice-regarding-unauthorized-attempts-to-sell-figure-stock</id>
+    <summary type="text">Notice Regarding Unauthorized Attempts to Sell Figure Stock</summary>
+  </entry>
+  <entry>
+    <title>F.03 Arrives at BMW</title>
+    <link href="https://www.figure.ai/news/f-03-at-bmw"/>
+    <id>https://www.figure.ai/news/f-03-at-bmw</id>
+    <summary type="text">F03 at BMW</summary>
+  </entry>
+  <entry>
+    <title>Figure Signs Agreement with Catalyst Brands to Scale Humanoid Operations</title>
+    <link href="https://www.figure.ai/news/figure-signs-agreement-with-catalyst-brands"/>
+    <id>https://www.figure.ai/news/figure-signs-agreement-with-catalyst-brands</id>
+    <summary type="text">Today we are announcing a commercial agreement with Catalyst Brands to deploy Figure humanoids into their distribution and logistics network.</summary>
+  </entry>
+  <entry>
+    <title>Helix 02 Bedroom Tidy</title>
+    <link href="https://www.figure.ai/news/helix-02-bedroom-tidy"/>
+    <id>https://www.figure.ai/news/helix-02-bedroom-tidy</id>
+    <summary type="text">Two Helix 02-equipped humanoids reset a bedroom in under two minutes, opening doors, hanging clothes, putting away headphones, closing a book, taking out trash, pushing a chair under a desk, and working together to make a bed.</summary>
+  </entry>
+  <entry>
+    <title>Helix 02 Living Room Tidy</title>
+    <link href="https://www.figure.ai/news/helix-02-living-room-tidy"/>
+    <id>https://www.figure.ai/news/helix-02-living-room-tidy</id>
+    <summary type="text">Helix 02 Living Room Tidy</summary>
+  </entry>
+  <entry>
+    <title>News | Figure</title>
+    <link href="https://www.figure.ai/news"/>
+    <id>https://www.figure.ai/news</id>
+    <summary type="text">We’re bringing the humanoid to life. Join us.</summary>
+  </entry>
+  <entry>
+    <title>MOTOMAN NEXT AI Robot’s Agentic Robot System Powered by Gemini Robotics | Category: News | Yaskawa Global Site</title>
+    <link href="https://www.yaskawa-global.com/newsrelease/news/179679"/>
+    <id>https://www.yaskawa-global.com/newsrelease/news/179679</id>
+    <summary type="text">Global</summary>
+  </entry>
+  <entry>
+    <title>Yaskawa Electric and SoftBank Corp. Validate  a Physical AI-Based Deformable Object Manipulation System | Category: News | Yaskawa Global Site</title>
+    <link href="https://www.yaskawa-global.com/newsrelease/news/179651"/>
+    <id>https://www.yaskawa-global.com/newsrelease/news/179651</id>
+    <summary type="text">Global</summary>
+  </entry>
+  <entry>
+    <title>This could be the largest synthetic code dataset yet</title>
+    <link href="https://research.ibm.com/blog/code-alchemy-for-synthetic-code"/>
+    <id>https://research.ibm.com/blog/code-alchemy-for-synthetic-code</id>
+    <summary type="text">Introducing CodeAlchemy, a synthetic data pipeline that has already produced nearly 1 trillion tokens of open-source code</summary>
+  </entry>
+  <entry>
+    <title>How training environments can teach AI models to misbehave</title>
+    <link href="https://research.ibm.com/blog/how-the-wrong-training-environment-can-teach-ai-models-to-misbehave"/>
+    <id>https://research.ibm.com/blog/how-the-wrong-training-environment-can-teach-ai-models-to-misbehave</id>
+    <summary type="text">A new study presented at ICML showed that language models trained with reinforcement learning can find and exploit loopholes to maximize reward — at a cost.</summary>
+  </entry>
+  <entry>
+    <title>Quantinuum | Blog</title>
+    <link href="https://www.quantinuum.com/news/blog"/>
+    <id>https://www.quantinuum.com/news/blog</id>
+    <summary type="text">Stay up to date on how we are accelerating quantum computing through our business, partnership, customer, and technical announcements</summary>
+  </entry>
+  <entry>
+    <title>Quantinuum accelerates the path to Universal Fully Fault-Tolerant Quantum Computing; supports Microsoft’s AI and quantum-powered compute platform and “the path to a Quantum Supercomputer”</title>
+    <link href="https://www.quantinuum.com/blog/quantinuum-accelerates-the-path-to-universal-fault-tolerant-quantum-computing-supports-microsofts-ai-and-quantum-powered-compute-platform-and-the-path-to-a-quantum-supercomputer"/>
+    <id>https://www.quantinuum.com/blog/quantinuum-accelerates-the-path-to-universal-fault-tolerant-quantum-computing-supports-microsofts-ai-and-quantum-powered-compute-platform-and-the-path-to-a-quantum-supercomputer</id>
+    <summary type="text">Quantinuum will achieve universal fault-tolerant quantum computing, built on foundations such as a universal fault-tolerant gate set, high fidelity physical qubits uniquely capable of supporting reliable logical qubits, and a fully-scalable architecture</summary>
+  </entry>
   <entry>
     <title>June 2026 Company Update</title>
     <link href="https://www.relativityspace.com/press-release/2026/7/10/june-2026-company-update"/>
@@ -34,5 +285,111 @@
     <link href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/347th_ESA_Council_Media_information_session"/>
     <id>https://www.esa.int/ESA_Multimedia/Videos/2026/06/347th_ESA_Council_Media_information_session</id>
     <summary type="text">Thank you for liking</summary>
+  </entry>
+  <entry>
+    <title>Road to VR</title>
+    <link href="https://www.roadtovr.com/feed/"/>
+    <id>https://www.roadtovr.com/feed/</id>
+    <summary type="text">Valve has dropped a sizeable update to SteamVR, paving the way for what appears to be imminent launch of its long-awaited standalone VR headset, Steam Frame. Valve’s latest update brings a good slate of standard Steam features to SteamVR. And with it, the VR runtime is ostensibly shaping up to offer a more VR-native user […]</summary>
+  </entry>
+  <entry>
+    <title>Latest Meta Company News | Meta Newsroom</title>
+    <link href="https://about.fb.com/news/category/technologies/meta/"/>
+    <id>https://about.fb.com/news/category/technologies/meta/</id>
+    <summary type="text">Latest Meta Company News | Meta Newsroom</summary>
+  </entry>
+  <entry>
+    <title>Technology and Innovation News | Meta Newsroom</title>
+    <link href="https://about.fb.com/news/category/technology-and-innovation/"/>
+    <id>https://about.fb.com/news/category/technology-and-innovation/</id>
+    <summary type="text">Technology and Innovation News | Meta Newsroom</summary>
+  </entry>
+  <entry>
+    <title>“AI Is Transforming Seniors’ Daily Lives”: SK hynix Explores AI Solutions for an Aging Society at the Chungbuk SR Forum | SK hynix Newsroom</title>
+    <link href="https://news.skhynix.com/en/2026-chungbuk-sr-forum/"/>
+    <id>https://news.skhynix.com/en/2026-chungbuk-sr-forum/</id>
+    <summary type="text">Kiosks are appearing in store after store, and smartphone apps have become more familiar than face-to-face service. As digital technology weaves its way into every corner of daily life, living has grown more convenient — yet it is also an</summary>
+  </entry>
+  <entry>
+    <title>Materials Research Society</title>
+    <link href="https://www.mrs.org/publications-digital-content/news/mrs-youtube"/>
+    <id>https://www.mrs.org/publications-digital-content/news/mrs-youtube</id>
+    <summary type="text">Founded in 1973, the Materials Research Society (MRS) is a global, member-driven organization and a recognized leader in the advancement of interdisciplinary materials research. With Membership spanning academia, industry, and government and hailing from 90+ countries, MRS fosters collaboration across physics, chemistry, biology, engineering, and beyond.
+
+MRS brings a broad range of Members, from students to Nobel Laureates, together to exchange ideas and drive innovation. Nearly half of MRS Members—and many authors, attendees, and visitors—come from outside the U.S., reflecting the society’s global reach.
+
+Through world-renowned Meetings, peer-reviewed journals, webinars, workshops, advocacy, volunteer opportunities, career development, worldwide collaborations, and more, MRS is committed</summary>
+  </entry>
+  <entry>
+    <title>The hidden environmental cost of your jeans – and what’s being done about it</title>
+    <link href="https://www.unep.org/news-and-stories/story/hidden-environmental-cost-your-jeans-and-whats-being-done-about-it"/>
+    <id>https://www.unep.org/news-and-stories/story/hidden-environmental-cost-your-jeans-and-whats-being-done-about-it</id>
+    <summary type="text">Supermodel and UNEP Goodwill Ambassador Amber Valletta travels to Tunisia, where denim manufacturers are striving to lighten their environmental footprint.</summary>
+  </entry>
+  <entry>
+    <title>Restoring salmon, the “king of fish”, to Canada’s rivers and creeks</title>
+    <link href="https://www.unep.org/news-and-stories/story/restoring-salmon-king-fish-canadas-rivers-and-creeks"/>
+    <id>https://www.unep.org/news-and-stories/story/restoring-salmon-king-fish-canadas-rivers-and-creeks</id>
+    <summary type="text">Atlantic salmon are returning to Canada’s rivers thanks to an Indigenous-led restoration effort that is reviving ecosystems, cultural traditions and endangered fish populations.</summary>
+  </entry>
+  <entry>
+    <title>Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6</title>
+    <link href="https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/"/>
+    <id>https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/</id>
+    <summary type="text">Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.</summary>
+  </entry>
+  <entry>
+    <title>Apple unveils innovative features and intelligence experiences across services</title>
+    <link href="https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/"/>
+    <id>https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/</id>
+    <summary type="text">With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.</summary>
+  </entry>
+  <entry>
+    <title>Apple aids app development with new intelligence frameworks and advanced tools</title>
+    <link href="https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/"/>
+    <id>https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/</id>
+    <summary type="text">Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.</summary>
+  </entry>
+  <entry>
+    <title>Apple unveils next generation of Apple Intelligence, Siri AI, and more</title>
+    <link href="https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/"/>
+    <id>https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/</id>
+    <summary type="text">Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.</summary>
+  </entry>
+  <entry>
+    <title>Event Recap | Verified Video: Authenticity from Capture to Playback</title>
+    <link href="https://contentauthenticity.org/blog/event-recap-verified-video-authenticity-from-capture-to-playback"/>
+    <id>https://contentauthenticity.org/blog/event-recap-verified-video-authenticity-from-capture-to-playback</id>
+    <summary type="text">We hosted a conversation on how Content Credentials are making end-to-end provenance for video workflows a reality.</summary>
+  </entry>
+  <entry>
+    <title>Your work, your proof: Safe Creative and the future of copyright registration</title>
+    <link href="https://contentauthenticity.org/blog/your-work-your-proof-safe-creative-and-the-future-of-copyright-registration"/>
+    <id>https://contentauthenticity.org/blog/your-work-your-proof-safe-creative-and-the-future-of-copyright-registration</id>
+    <summary type="text">Learn about how Safe Creative protects creators against content theft, and how they are implementing Content Credentials for transparency in IP registration.</summary>
+  </entry>
+  <entry>
+    <title>How Forensic Photonics verifies digital evidence with Content Credentials</title>
+    <link href="https://contentauthenticity.org/blog/how-forensic-photonics-verifies-digital-evidence-with-content-credentials"/>
+    <id>https://contentauthenticity.org/blog/how-forensic-photonics-verifies-digital-evidence-with-content-credentials</id>
+    <summary type="text">In high-stakes court proceedings, digital evidence has to be trustworthy. Learn how Forensic Photonics&#x27; LIFT device adds C2PA metadata to fingerprint images.</summary>
+  </entry>
+  <entry>
+    <title>Event Recap | Proof of Personhood: Provenance and AI Avatars</title>
+    <link href="https://contentauthenticity.org/blog/event-recap-proof-of-personhood-provenance-and-ai-avatars"/>
+    <id>https://contentauthenticity.org/blog/event-recap-proof-of-personhood-provenance-and-ai-avatars</id>
+    <summary type="text">We recently hosted a conversation on the opportunities and challenges of AI avatars. Check out the highlights.</summary>
+  </entry>
+  <entry>
+    <title>Researchers head to Greenland for ambitious science mission - British Antarctic Survey</title>
+    <link href="https://www.bas.ac.uk/news/researchers-head-to-greenland-for-ambitious-science-mission/"/>
+    <id>https://www.bas.ac.uk/news/researchers-head-to-greenland-for-ambitious-science-mission/</id>
+    <summary type="text">An international team is collecting observations to understand how a melting Greenland could cause weather change in UK and Europe.</summary>
+  </entry>
+  <entry>
+    <title>Rothera Research Station&#x27;s construction season upgrades safeguard future polar science - British Antarctic Survey</title>
+    <link href="https://www.bas.ac.uk/news/rothera-construction-season-upgrades-safeguard-future-polar-science/"/>
+    <id>https://www.bas.ac.uk/news/rothera-construction-season-upgrades-safeguard-future-polar-science/</id>
+    <summary type="text">A significant phase of construction at Rothera has been completed this season, delivering new infrastructure that will power cutting-edge polar science for decades ahead.</summary>
   </entry>
 </feed>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>4thWave AI — Digital Identity (Aggregated)</title>
+  <link href="https://www.4thwaveai.com"/>
+  <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/digital-identity.atom.xml"/>
+  <id>urn:4thwaveai-feeds:digital-identity</id>
+  <updated>Mon, 20 Jul 2026 03:53:04 +0000</updated>
+  <entry>
+    <title>News</title>
+    <link href="https://www.w3.org/news/"/>
+    <id>https://www.w3.org/news/</id>
+    <summary type="text">W3C News</summary>
+  </entry>
+  <entry>
+    <title>Blog</title>
+    <link href="https://www.w3.org/blog/"/>
+    <id>https://www.w3.org/blog/</id>
+    <summary type="text">The W3C blog is for in-depth Web standards topics and educational materials.</summary>
+  </entry>
+  <entry>
+    <title>European Cybersecurity Certification Week 2026: Advancing EU Cybersecurity in Cyprus</title>
+    <link href="https://digital-strategy.ec.europa.eu/en/news/european-cybersecurity-certification-week-2026-advancing-eu-cybersecurity-cyprus"/>
+    <id>https://digital-strategy.ec.europa.eu/en/news/european-cybersecurity-certification-week-2026-advancing-eu-cybersecurity-cyprus</id>
+    <summary type="text">The European Cybersecurity Certification Week, hosted by the Cyprus Presidency of the Council of the EU, took place from 14 to 17 April in Ayia Napa.</summary>
+  </entry>
+  <entry>
+    <title>Commission proposes European Business Wallets to simplify business operations and enhance competitiveness across the EU</title>
+    <link href="https://digital-strategy.ec.europa.eu/en/news/commission-proposes-european-business-wallets-simplify-business-operations-and-enhance"/>
+    <id>https://digital-strategy.ec.europa.eu/en/news/commission-proposes-european-business-wallets-simplify-business-operations-and-enhance</id>
+    <summary type="text">In a significant move towards simplifying business operations across EU, the Commission has proposed a regulation to establish European Business Wallets.</summary>
+  </entry>
+  <entry>
+    <title>Digital Europe Programme amended to accelerate the Commission’s digital ambitions</title>
+    <link href="https://digital-strategy.ec.europa.eu/en/news/digital-europe-programme-amended-accelerate-commissions-digital-ambitions"/>
+    <id>https://digital-strategy.ec.europa.eu/en/news/digital-europe-programme-amended-accelerate-commissions-digital-ambitions</id>
+    <summary type="text">The European Commission has made the first amendment to the Digital Europe (DIGITAL) Work Programme 2025-2027 ensuring EU resources continue to support the Commission’s ambitions on developing and deploying critical technologies in Europe.</summary>
+  </entry>
+  <entry>
+    <title>The EU boosts the certification of the EU Digital Identity Wallets</title>
+    <link href="https://digital-strategy.ec.europa.eu/en/news/eu-boosts-certification-eu-digital-identity-wallets"/>
+    <id>https://digital-strategy.ec.europa.eu/en/news/eu-boosts-certification-eu-digital-identity-wallets</id>
+    <summary type="text">The European Commission has requested ENISA, the EU Agency for Cybersecurity, to provide support for the certification of European Digital Identity Wallets.</summary>
+  </entry>
+  <entry>
+    <title>June in cyberspace: service disruptions and data breaches attracted attention</title>
+    <link href="https://www.ria.ee/en/news/june-cyberspace-service-disruptions-and-data-breaches-attracted-attention"/>
+    <id>https://www.ria.ee/en/news/june-cyberspace-service-disruptions-and-data-breaches-attracted-attention</id>
+    <summary type="text">The Information System Authority (RIA) registered 1,232 incidents with an impact in the Estonian cyberspace in June, which is slightly higher than the average for the last six months.</summary>
+  </entry>
+  <entry>
+    <title>RIA: May saw the highest number of cyber incidents with an impact recorded in the last six months</title>
+    <link href="https://www.ria.ee/en/news/ria-may-saw-highest-number-cyber-incidents-impact-recorded-last-six-months"/>
+    <id>https://www.ria.ee/en/news/ria-may-saw-highest-number-cyber-incidents-impact-recorded-last-six-months</id>
+    <summary type="text">In May, the Estonian Information System Authority (RIA) recorded 1,561 incidents with impact in Estonian cyberspace, which is highest of the last six months. Of these, 1,047 were scam and phishing websites.</summary>
+  </entry>
+  <entry>
+    <title>RIA has launched a procurement to find the EUDI Wallet service provider</title>
+    <link href="https://www.ria.ee/en/news/ria-has-launched-procurement-find-eudi-wallet-service-provider"/>
+    <id>https://www.ria.ee/en/news/ria-has-launched-procurement-find-eudi-wallet-service-provider</id>
+    <summary type="text">The Information System Authority (RIA) has launched a public procurement to find a partner to develop and provide the European Union Digital Identity Wallet (EUDI Wallet) in Estonia.</summary>
+  </entry>
+</feed>

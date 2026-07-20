@@ -5,6 +5,716 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.json",
   "items": [
     {
+      "id": "https://science.nasa.gov/blogs/psyche/2026/07/17/nasas-psyche-mission-delivers-mars-flyby-data-time-lapse-video/",
+      "url": "https://science.nasa.gov/blogs/psyche/2026/07/17/nasas-psyche-mission-delivers-mars-flyby-data-time-lapse-video/",
+      "title": "NASA’s Psyche Mission Delivers Mars Flyby Data, Time-lapse Video  - NASA Science",
+      "content_text": "When NASA’s Psyche spacecraft flew by Mars for a gravity assist on May 15, 2026, it gave the mission team an opportunity to test instruments and prep for science they’ll conduct when reaching the metal-rich asteroid Psyche in 2029, and collect images and a time-lapse video of the Mars encounter.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26749/E2_PIA26749_Psyche_Imager_Mars_Mosaic1_F247E.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/6_cH5-daLjg",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "climate-environment"
+      ]
+    },
+    {
+      "id": "https://www.embl.org/news/science-technology/novotags-ai-designed-proteins-help-scientists-see-inside-living-cells/",
+      "url": "https://www.embl.org/news/science-technology/novotags-ai-designed-proteins-help-scientists-see-inside-living-cells/",
+      "title": "NovoTags: AI-designed proteins help scientists see inside living cells | EMBL",
+      "content_text": "Researchers have designed synthetic and inducible proteins that bind to bright fluorescent dyes with high specificity and affinity, significantly expanding the toolkit for multicolour imaging of proteins inside cells",
+      "attachments": [
+        {
+          "url": "https://www.embl.org/news/wp-content/uploads/2026/07/NovoTag_2.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.embl.org/news/wp-content/uploads/2026/07/NovoTag_withLogo.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "biotech"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem/",
+      "url": "https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem/",
+      "title": "Q&A: How Capcom Brought Path Tracing to RE ENGINE Across PRAGMATA and Resident Evil Requiem | NVIDIA Technical Blog",
+      "content_text": "Capcom’s RE ENGINE team set out to bring path tracing into two shipping titles at once, Resident Evil Requiem and PRAGMATA, each with a different visual identity. Over two years, the RE ENGINE team…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/image1-2-500x282.gif",
+          "mime_type": "image/gif"
+        },
+        {
+          "url": "https://www.youtube.com/embed/t8tAbd_c6DY?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/",
+      "url": "https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/",
+      "title": "Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills | NVIDIA Technical Blog",
+      "content_text": "Developers building video analytics applications across large spaces must track the same object as it moves between camera views. Single-camera 2D tracking lacks reliable depth information and…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/deepstream-featured-500x282.gif",
+          "mime_type": "image/gif"
+        },
+        {
+          "url": "https://www.youtube.com/embed/rQoLYCB0YUc?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
+      "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
+      "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+      "content_text": "NVIDIA and its partners in Japan are this week showcasing the AI ecosystem's latest advancements. Check back here for updates.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/0715-Physical-AI-Activation-and-BaC-LDA_8618.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/warpage_0713-2.mp4?_=1",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
+      "url": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
+      "title": "How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo | NVIDIA Technical Blog",
+      "content_text": "Coding AI agents are becoming practical operators for long-running machine learning (ML) workflows. They can inspect repositories, set up runtimes, resolve build issues, launch experiments…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/agentic-ai-rl-gym.webp",
+          "mime_type": "image/webp"
+        },
+        {
+          "url": "https://www.youtube.com/embed/qP0uXRbg9hc?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills/",
+      "url": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills/",
+      "title": "Post-Train NVIDIA Cosmos 3 in One Day Using Agent Skills | NVIDIA Technical Blog",
+      "content_text": "What if autonomous coding AI agents could push your vision reasoning models above 90% accuracy with almost no manual effort? When adapting vision reasoning models to production video tasks…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-tao-cosmos-traffic-intersection.webp",
+          "mime_type": "image/webp"
+        },
+        {
+          "url": "https://www.youtube.com/embed/9AQkVbx3fKA?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "title": "AI in Indian Education: Atal Innovation Mission and Google launch ATL Saathi",
+      "content_text": "Atal Innovation Mission launches ATL Saathi, a Gemini powered AI assistant empowering India's educators to nurture the next generation of innovators.",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/0BYvIo8ObViyRtRGOYajXHdEGUFX6cKMTQ6lxys98kN0sB6H7rrTo1pdW8M4kCUGnBnidJWbIr6VvcxGKDEDD4YxOVqYRlyxj_a48uqNw_AytF7c-A=w1200-h630-n-nu-rw",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/xJ94HFpGM4Y?enablejsapi=1&rel=0&origin=https%3A%2F%2Fdeepmind.google",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/nvidia-ising-decoding-cuts-color-code-logical-error-rates-by-over-300x/",
+      "url": "https://developer.nvidia.com/blog/nvidia-ising-decoding-cuts-color-code-logical-error-rates-by-over-300x/",
+      "title": "NVIDIA Ising Decoding Cuts Color Code Logical Error Rates by Over 300x | NVIDIA Technical Blog",
+      "content_text": "Useful quantum computers will require fault tolerant logical operations. Researchers are actively exploring many different quantum error correction (QEC) codes to enable this…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/image1-5.webp",
+          "mime_type": "image/webp"
+        },
+        {
+          "url": "https://www.youtube.com/embed/lLVuPPC6MXE?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/",
+      "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
+      "content_text": "Plus, tap into ‘NTE: Neverness to Everness’ with a new update, alongside three new games joining the cloud this week.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/gfn-thursday-7-9-blog-1920x1080-no-copy.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/JolML6h3Lhw?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/",
+      "url": "https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/",
+      "title": "Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance | NVIDIA Technical Blog",
+      "content_text": "Agentic systems often face a trade-off between accuracy and cost. The highest-performing proprietary frontier models and harnesses provide top accuracy but are expensive. Fine-tuning offers one way to…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/agentic-ai-visual-langchain-corp-blog-5431623-alt4-e1783466325974.webp",
+          "mime_type": "image/webp"
+        },
+        {
+          "url": "https://www.youtube.com/embed/vFc013fZ12U?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+      "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+      "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+      "content_text": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform.  LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x […]",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Nemotron_LangChain-scaled.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/Yy3JH6dDugc?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
+      "url": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
+      "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
+      "content_text": "NVIDIA Vera exemplifies a new class of CPU, architected for the era of agents and being adopted by AI innovators including Perplexity; NVIDIA CPU roadmap continues with the NVIDIA Rosa CPU and its Rigel core.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/cpu-press-vera-cpu-agentic-tl-1920x1080-5404450.png",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/cpu-video-vera-cpu-agentic-tl-activation-snippet-5404550-1920x1080-1.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/prime-video-july-movies-shows-music-sports-2026",
+      "url": "https://www.aboutamazon.com/news/entertainment/prime-video-july-movies-shows-music-sports-2026",
+      "title": "What's new on Prime Video in July 2026, including 'Elle,' 'The Ghost in the Shell,' and live sports",
+      "content_text": "Check out Prime Video's July lineup, which features the 'Legally Blonde' prequel series, new anime seasons, and more.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/516b1e7/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F40%2Fda%2Fd6ed983e44bb99c9f64df3c770ed%2Felle-s1-amazon-news-nb-062526.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/6KsT3K5ynrU?enablejsapi=1",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+      "url": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+      "title": "SkillOpt turns AI agent skills into trainable assets",
+      "content_text": "AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement. Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable without changing model weights:",
+      "attachments": [
+        {
+          "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/06/SkillOpt-TWLIFB-1200x627-1-scaled.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/06/skillopt_teaser-1.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/",
+      "url": "https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/",
+      "title": "Partners, NASA Ready for June Launch of Swift Boost Mission - NASA Science",
+      "content_text": "A mission to raise the orbit of NASA’s Swift observatory is poised for launch June 30.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/missions/swift-observatory/news/2026/launch-preview/NE201566_2611x1654.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/THcvpKWZq4M",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.embl.org/news/science-technology/easygrid-towards-better-automation-in-cryo-electron-microscopy/",
+      "url": "https://www.embl.org/news/science-technology/easygrid-towards-better-automation-in-cryo-electron-microscopy/",
+      "title": "EasyGrid: towards better automation in cryo-electron microscopy | EMBL",
+      "content_text": "EMBL Grenoble scientists have developed EasyGrid and EasyGrid Control, unique instruments that automate advanced microscopy sample preparation and quality control",
+      "attachments": [
+        {
+          "url": "https://www.embl.org/news/wp-content/uploads/2026/06/EasyGridInauguration_GergelyPappSimoMattei_IC1000x600.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/8BNmp_BDZng",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "biotech"
+      ]
+    },
+    {
+      "id": "https://www.globalresiliencepartnership.org/call-for-proposals-for-innovations-across-the-global-south-now-open/",
+      "url": "https://www.globalresiliencepartnership.org/call-for-proposals-for-innovations-across-the-global-south-now-open/",
+      "title": "Call for proposals for innovations across the Global South now open - Global Resilience Partnership",
+      "content_text": "We are launching an Innovation Challenge call to support bold, locally led solutions that strengthen resilience, protect ecosystems, and create sustainable opportunities for communities.",
+      "attachments": [
+        {
+          "url": "https://www.globalresiliencepartnership.org/wp-content/uploads/2026/02/a-man-listening-to-the-weather-bulliten-on-the-radio-moe-babiker.jpeg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/AwvP9NE6LOg?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "human-continuity"
+      ]
+    },
+    {
+      "id": "https://www.amazon.science/blog/how-ai-is-changing-the-nature-of-mathematical-research",
+      "url": "https://www.amazon.science/blog/how-ai-is-changing-the-nature-of-mathematical-research",
+      "title": "How AI is changing the nature of mathematical research",
+      "content_text": "What machine learning theorists learned using AI agents to generate proofs — and what comes next.",
+      "attachments": [
+        {
+          "url": "https://cdn.amazon.science/dims4/default/fc1274d/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F37%2F23%2Fb207cbc54257bba9555bd6824c15%2Fmathresearch-01-16x9.png",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://cdn.amazon.science/7e/ae/d07eb6f949099374eb6a5e32592f/mathresearch-01-16x9.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://meshtastic.org/blog/tak-server-integration-ios/",
+      "url": "https://meshtastic.org/blog/tak-server-integration-ios/",
+      "title": "No Plugins, No Problem: Integrating TAK, Meshtastic, and iOS | Meshtastic",
+      "content_text": "Announcing native TAK Server integration in the Meshtastic iOS app, bridging mesh networking with situational awareness tools.",
+      "attachments": [
+        {
+          "url": "https://meshtastic.org/img/blog/tak_ios_blog_cover.png",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://meshtastic.org/img/blog/start-tak-server.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "human-continuity"
+      ]
+    },
+    {
+      "id": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
+      "url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
+      "title": "SIMA 2: A Gemini-Powered AI Agent for 3D Virtual Worlds",
+      "content_text": "Introducing SIMA 2, the next milestone in our research creating general and helpful AI agents. By integrating the advanced capabilities of our Gemini models, SIMA is evolving from an instruction-follower into an interactive gaming companion.",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/A5vgACWjzxaEanLkjrZSNlQDjI0SEZ4tKJqE2EtboljSRIkcbEVv4JA2H7a-BEYNoWK097hNdthFdB6h537DUVvFbAUwhWUFSzzA0E0ndr6zMC8tMA=w1200-h630-n-nu-rw",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/Zphax4f6Rls?enablejsapi=1&rel=0&origin=https%3A%2F%2Fdeepmind.google",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "demis-hassabis"
+      ]
+    },
+    {
+      "id": "https://meshtastic.org/blog/that-one-time-at-defcon/",
+      "url": "https://meshtastic.org/blog/that-one-time-at-defcon/",
+      "title": "...That one time at DEF CON! | Meshtastic",
+      "content_text": "A recap of the Meshtastic DEF CON deployment, including a vulnerability demonstration and the project's response.",
+      "attachments": [
+        {
+          "url": "https://meshtastic.org/img/blog/that_one_time_at_defcon_preview.png",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/6EfMNJqs7Qs?preload=metadata&enablejsapi=1&cc_load_policy=1&showinfo=0&rel=0&iv_load_policy=3&modestbranding=1",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "human-continuity"
+      ]
+    },
+    {
+      "id": "https://meshtastic.org/blog/meshtastic-2-7-preview/",
+      "url": "https://meshtastic.org/blog/meshtastic-2-7-preview/",
+      "title": "Meshtastic 2.7 Preview: UI Overhaul - Introducing BaseUI! + New Input Support + TFT Unification | Meshtastic",
+      "content_text": "Meshtastic 2.7 is here with a complete redesign of the standard UI, Introducing BaseUI! New input support on native linux, and the ability to switch between UIs on supported hardware.",
+      "attachments": [
+        {
+          "url": "https://meshtastic.org/img/blog/2_7_Social_Preview.png",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/mo8G4lYFrAs?preload=metadata&enablejsapi=1&cc_load_policy=1&showinfo=0&rel=0&iv_load_policy=3&modestbranding=1",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "human-continuity"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/helix-02",
+      "url": "https://www.figure.ai/news/helix-02",
+      "title": "Introducing Helix 02: Full-Body Autonomy",
+      "content_text": "Introducing Helix 02: Full-Body Autonomy",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/7qpJLAT9FKWaptebSQgA0Y/4e2bdb81cbecddfd7cbea49f8ab143ac/Open_Graph_Image__4_.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/1skqcmfKHiQiJ4k3tfCoQu/55091d58d5ede4f1827aa63370e0d09a/Video_Cover_-_Mobile_Helix.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/introducing-figure-03",
+      "url": "https://www.figure.ai/news/introducing-figure-03",
+      "title": "Introducing Figure 03",
+      "content_text": "Introducing Figure 03",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/2z6qCDWh945rVDLS2cRRfk/60ed52a56bf8f72a0d43e161aaf23a04/Launch_-_Open_Graph_Image.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/7GNeZRZV6yeaNwLCXGkqpp/741bec7eaa523a53739cb3f62da3a9ac/Video_Cover_-_Mobile__2_.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/ramping-figure-03-production",
+      "url": "https://www.figure.ai/news/ramping-figure-03-production",
+      "title": "Ramping Figure 03 Production",
+      "content_text": "Figure has cleared the gap from prototype to scalable fleet with BotQ, our high-volume manufacturing facility.",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/2mtuWCRJqrKBUajwFIUBj5/ebd7becf3859f6712a6d7e6fbedea1bc/BotQ_Ramping_F03_Prod_Open_Graph.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/3agvhJX3Nk9T89X0zpPpZn/56c942e788323f79514be50d31ff2d75/Ramping_Video_Cover_-_Mobile.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/notice-regarding-unauthorized-attempts-to-sell-figure-stock",
+      "url": "https://www.figure.ai/news/notice-regarding-unauthorized-attempts-to-sell-figure-stock",
+      "title": "Notice Regarding Unauthorized Attempts to Sell Figure Stock",
+      "content_text": "Notice Regarding Unauthorized Attempts to Sell Figure Stock",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/5bGyLarlFzZmQBNDjRDgO5/7095f5814241f62d6894af9c601cfc11/Open_Graph_Image.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/2X8QXTtf2TKK1fu3ycO6Y8/17a3a1f9e5f3ad49922c2fa79cae3ac3/Video_Cover_-_Mobile.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/f-03-at-bmw",
+      "url": "https://www.figure.ai/news/f-03-at-bmw",
+      "title": "F.03 Arrives at BMW",
+      "content_text": "F03 at BMW",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/1700HRpa34nLxPVDTY2371/5f6ce20d5d5b501c3f61179925d8efbd/Open_Graph_BMW.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/6OuXAC8fRrofgr33IrnLse/35a41527b205e5265de070c4ad024249/Video_Cover_Mobile.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/figure-signs-agreement-with-catalyst-brands",
+      "url": "https://www.figure.ai/news/figure-signs-agreement-with-catalyst-brands",
+      "title": "Figure Signs Agreement with Catalyst Brands to Scale Humanoid Operations",
+      "content_text": "Today we are announcing a commercial agreement with Catalyst Brands to deploy Figure humanoids into their distribution and logistics network.",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/5Q3lhuJO5kDnbD3PG1WA6v/6b80ee311113bbd7a55a289c02103771/Open_Graph_Image_Catalyst.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/2llTTzaAEzh81GNsoi5sTj/cc76e4d03e324dbc3363eb156226d747/Video_Cover_-_Mobile_Catalys.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/helix-02-bedroom-tidy",
+      "url": "https://www.figure.ai/news/helix-02-bedroom-tidy",
+      "title": "Helix 02 Bedroom Tidy",
+      "content_text": "Two Helix 02-equipped humanoids reset a bedroom in under two minutes, opening doors, hanging clothes, putting away headphones, closing a book, taking out trash, pushing a chair under a desk, and working together to make a bed.",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/2VXRGwCNqarI0PwDCxgY4Y/9c51567997eff0872492d200f3751fa8/BEDROOM_TIDY_OPEN_GRAPH_IMAGE.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/5LT6CAPrIhLfX4qsPacJNi/5d3cdc6816fbb53304c0c5f449491529/BEDROOM_TIDY_VIDEO_COVER_MOBILE_934_X_1434_.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/helix-02-living-room-tidy",
+      "url": "https://www.figure.ai/news/helix-02-living-room-tidy",
+      "title": "Helix 02 Living Room Tidy",
+      "content_text": "Helix 02 Living Room Tidy",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/1gK4iFf1m0fhYMuQ2j2t6K/f5c8c97eae2e293db6fdd9f696d9691b/OPEN_GRAPH_IMAGE.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/2RFc80VM3tiEuhpKcBOijd/e55cfdbdfabccda11e47846c8d2e1642/Tidy_Vertical_3826B.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news",
+      "url": "https://www.figure.ai/news",
+      "title": "News | Figure",
+      "content_text": "We’re bringing the humanoid to life. Join us.",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/56I3mHKEdLZdrsONwOm3sc/63b1569bb855cc334c2dda67ce40ba4a/generic-page-image.jpeg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/2IRk51tWw1vBqZ1bYfca14/d34c4c29fa4c18bf110dc0df20adcd96/Thumbnail_Video_Helix.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.yaskawa-global.com/newsrelease/news/179679",
+      "url": "https://www.yaskawa-global.com/newsrelease/news/179679",
+      "title": "MOTOMAN NEXT AI Robot’s Agentic Robot System Powered by Gemini Robotics | Category: News | Yaskawa Global Site",
+      "content_text": "Global",
+      "attachments": [
+        {
+          "url": "https://www.youtube.com/embed/UfB9lVh-1iU",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.yaskawa-global.com/newsrelease/news/179651",
+      "url": "https://www.yaskawa-global.com/newsrelease/news/179651",
+      "title": "Yaskawa Electric and SoftBank Corp. Validate  a Physical AI-Based Deformable Object Manipulation System | Category: News | Yaskawa Global Site",
+      "content_text": "Global",
+      "attachments": [
+        {
+          "url": "https://www.youtube.com/embed/NFWMibbtJn0",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://research.ibm.com/blog/code-alchemy-for-synthetic-code",
+      "url": "https://research.ibm.com/blog/code-alchemy-for-synthetic-code",
+      "title": "This could be the largest synthetic code dataset yet",
+      "content_text": "Introducing CodeAlchemy, a synthetic data pipeline that has already produced nearly 1 trillion tokens of open-source code",
+      "attachments": [
+        {
+          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fblog_Art_ICA_stillimage_bf9e4c1757.png&w=1200&q=85",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://d35x6597f7j1wm.cloudfront.net/blog_Art_ICA_art_d82b7c8a89.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://research.ibm.com/blog/how-the-wrong-training-environment-can-teach-ai-models-to-misbehave",
+      "url": "https://research.ibm.com/blog/how-the-wrong-training-environment-can-teach-ai-models-to-misbehave",
+      "title": "How training environments can teach AI models to misbehave",
+      "content_text": "A new study presented at ICML showed that language models trained with reinforcement learning can find and exploit loopholes to maximize reward — at a cost.",
+      "attachments": [
+        {
+          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fblog_Art_ICML_still_Image_e43a853e59.png&w=1200&q=85",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://d35x6597f7j1wm.cloudfront.net/blog_Art_ICML_834b7a145c.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://www.quantinuum.com/news/blog",
+      "url": "https://www.quantinuum.com/news/blog",
+      "title": "Quantinuum | Blog",
+      "content_text": "Stay up to date on how we are accelerating quantum computing through our business, partnership, customer, and technical announcements",
+      "attachments": [
+        {
+          "url": "https://www.youtube.com/embed/viHIl5760tk",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://www.quantinuum.com/blog/quantinuum-accelerates-the-path-to-universal-fault-tolerant-quantum-computing-supports-microsofts-ai-and-quantum-powered-compute-platform-and-the-path-to-a-quantum-supercomputer",
+      "url": "https://www.quantinuum.com/blog/quantinuum-accelerates-the-path-to-universal-fault-tolerant-quantum-computing-supports-microsofts-ai-and-quantum-powered-compute-platform-and-the-path-to-a-quantum-supercomputer",
+      "title": "Quantinuum accelerates the path to Universal Fully Fault-Tolerant Quantum Computing; supports Microsoft’s AI and quantum-powered compute platform and “the path to a Quantum Supercomputer”",
+      "content_text": "Quantinuum will achieve universal fault-tolerant quantum computing, built on foundations such as a universal fault-tolerant gate set, high fidelity physical qubits uniquely capable of supporting reliable logical qubits, and a fully-scalable architecture",
+      "attachments": [
+        {
+          "url": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/67e4791a243b8c5e5debca44_roadmap-media-preview.png",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/xWPV811G8es",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
       "id": "https://www.relativityspace.com/press-release/2026/7/10/june-2026-company-update",
       "url": "https://www.relativityspace.com/press-release/2026/7/10/june-2026-company-update",
       "title": "June 2026 Company Update",
@@ -97,6 +807,325 @@
       ],
       "tags": [
         "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.roadtovr.com/feed/",
+      "url": "https://www.roadtovr.com/feed/",
+      "title": "Road to VR",
+      "content_text": "Valve has dropped a sizeable update to SteamVR, paving the way for what appears to be imminent launch of its long-awaited standalone VR headset, Steam Frame. Valve’s latest update brings a good slate of standard Steam features to SteamVR. And with it, the VR runtime is ostensibly shaping up to offer a more VR-native user […]",
+      "attachments": [
+        {
+          "url": "https://www.youtube.com/embed/Fx1UDR-mOYc?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "extended-reality"
+      ]
+    },
+    {
+      "id": "https://about.fb.com/news/category/technologies/meta/",
+      "url": "https://about.fb.com/news/category/technologies/meta/",
+      "title": "Latest Meta Company News | Meta Newsroom",
+      "content_text": "Latest Meta Company News | Meta Newsroom",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2026/06/InfraExplained_Compute_v03.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
+      "id": "https://about.fb.com/news/category/technology-and-innovation/",
+      "url": "https://about.fb.com/news/category/technology-and-innovation/",
+      "title": "Technology and Innovation News | Meta Newsroom",
+      "content_text": "Technology and Innovation News | Meta Newsroom",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2026/06/InfraExplained_Compute_v03.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
+      "id": "https://news.skhynix.com/en/2026-chungbuk-sr-forum/",
+      "url": "https://news.skhynix.com/en/2026-chungbuk-sr-forum/",
+      "title": "“AI Is Transforming Seniors’ Daily Lives”: SK hynix Explores AI Solutions for an Aging Society at the Chungbuk SR Forum | SK hynix Newsroom",
+      "content_text": "Kiosks are appearing in store after store, and smartphone apps have become more familiar than face-to-face service. As digital technology weaves its way into every corner of daily life, living has grown more convenient — yet it is also an",
+      "attachments": [
+        {
+          "url": "https://d18r0a86za96sg.cloudfront.net/wp-content/uploads/2026/07/15053837/Chungbuk-SR-Forum_THM_680x400.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/8fA69wKAYps?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "semiconductors-chips"
+      ]
+    },
+    {
+      "id": "https://www.mrs.org/publications-digital-content/news/mrs-youtube",
+      "url": "https://www.mrs.org/publications-digital-content/news/mrs-youtube",
+      "title": "Materials Research Society",
+      "content_text": "Founded in 1973, the Materials Research Society (MRS) is a global, member-driven organization and a recognized leader in the advancement of interdisciplinary materials research. With Membership spanning academia, industry, and government and hailing from 90+ countries, MRS fosters collaboration across physics, chemistry, biology, engineering, and beyond.\n\nMRS brings a broad range of Members, from students to Nobel Laureates, together to exchange ideas and drive innovation. Nearly half of MRS Members—and many authors, attendees, and visitors—come from outside the U.S., reflecting the society’s global reach.\n\nThrough world-renowned Meetings, peer-reviewed journals, webinars, workshops, advocacy, volunteer opportunities, career development, worldwide collaborations, and more, MRS is committed",
+      "attachments": [
+        {
+          "url": "https://yt3.googleusercontent.com/cuVxVpldDbIoGXxii8cvx9zsqwhfNII32VTr5LmG-K-dO7XA5Gm7rB1SIRNJO7ySAL_4oVHWtg=s900-c-k-c0x00ffffff-no-rj",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dpassive&hl=en",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "advanced-materials"
+      ]
+    },
+    {
+      "id": "https://www.unep.org/news-and-stories/story/hidden-environmental-cost-your-jeans-and-whats-being-done-about-it",
+      "url": "https://www.unep.org/news-and-stories/story/hidden-environmental-cost-your-jeans-and-whats-being-done-about-it",
+      "title": "The hidden environmental cost of your jeans – and what’s being done about it",
+      "content_text": "Supermodel and UNEP Goodwill Ambassador Amber Valletta travels to Tunisia, where denim manufacturers are striving to lighten their environmental footprint.",
+      "attachments": [
+        {
+          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2026-06/55338512605_3c87109d33_k.jpg?h=dd7bef35&itok=EZdYWg4N",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/l5qi6C10Xww",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "climate-environment"
+      ]
+    },
+    {
+      "id": "https://www.unep.org/news-and-stories/story/restoring-salmon-king-fish-canadas-rivers-and-creeks",
+      "url": "https://www.unep.org/news-and-stories/story/restoring-salmon-king-fish-canadas-rivers-and-creeks",
+      "title": "Restoring salmon, the “king of fish”, to Canada’s rivers and creeks",
+      "content_text": "Atlantic salmon are returning to Canada’s rivers thanks to an Indigenous-led restoration effort that is reviving ecosystems, cultural traditions and endangered fish populations.",
+      "attachments": [
+        {
+          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2026-06/20250925UNEP%20Decade-Restoration_Canada%20Salmon%20Restoration_Todd%20Brown_51.jpg?h=1fbb8f5b&itok=H0aELRPh",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/ygeEuv_kaHM",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "climate-environment"
+      ]
+    },
+    {
+      "id": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
+      "url": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
+      "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
+      "content_text": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
+      "attachments": [
+        {
+          "url": "https://www.apple.com/newsroom/images/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/tile/Apple-Arcade-Madden-NFL-27-Arcade-Edition-trailer-lp.jpg.og.jpg?202607162317=",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/videos/2026/hls/07/apple-arcade-madden-nfl-27-arcade-edition/US/US/Apple-Arcade-Madden-NFL-27-Arcade-Edition-trailer_16x9.m3u8",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "key-players"
+      ]
+    },
+    {
+      "id": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
+      "title": "Apple unveils innovative features and intelligence experiences across services",
+      "content_text": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
+      "attachments": [
+        {
+          "url": "https://www.apple.com/newsroom/images/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/tile/Apple-services-hero-lp.jpg.og.jpg?202606301700=",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/videos/2026/autoplay/06/apple-siri-ai-split-a-bill/large_2x.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "key-players"
+      ]
+    },
+    {
+      "id": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
+      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
+      "content_text": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
+      "attachments": [
+        {
+          "url": "https://www.apple.com/newsroom/images/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/tile/Apple-development-tools-hero-260608-lp.jpg.og.jpg?202606301701=",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/videos/2026/autoplay/06/apple-development-tools-personal-context/large_2x.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "key-players"
+      ]
+    },
+    {
+      "id": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
+      "content_text": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
+      "attachments": [
+        {
+          "url": "https://www.apple.com/newsroom/images/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/tile/Apple-OS-27-updates-260608-lp.jpg.og.jpg?202606301701=",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/videos/2026/autoplay/06/apple-ios-27-spatial-reframing/large_2x.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "key-players"
+      ]
+    },
+    {
+      "id": "https://contentauthenticity.org/blog/event-recap-verified-video-authenticity-from-capture-to-playback",
+      "url": "https://contentauthenticity.org/blog/event-recap-verified-video-authenticity-from-capture-to-playback",
+      "title": "Event Recap | Verified Video: Authenticity from Capture to Playback",
+      "content_text": "We hosted a conversation on how Content Credentials are making end-to-end provenance for video workflows a reality.",
+      "attachments": [
+        {
+          "url": "https://assets.contentauthenticity.org/Screenshot_2026_06_24_at_3_58_38_PM_ca0f16bf71.png",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/kLwO5Tju3NY",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "content-provenance"
+      ]
+    },
+    {
+      "id": "https://contentauthenticity.org/blog/your-work-your-proof-safe-creative-and-the-future-of-copyright-registration",
+      "url": "https://contentauthenticity.org/blog/your-work-your-proof-safe-creative-and-the-future-of-copyright-registration",
+      "title": "Your work, your proof: Safe Creative and the future of copyright registration",
+      "content_text": "Learn about how Safe Creative protects creators against content theft, and how they are implementing Content Credentials for transparency in IP registration.",
+      "attachments": [
+        {
+          "url": "https://assets.contentauthenticity.org/600_x_400_Safe_Creative_d31f0bf163.png",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/PWAKm2D7pHc",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "content-provenance"
+      ]
+    },
+    {
+      "id": "https://contentauthenticity.org/blog/how-forensic-photonics-verifies-digital-evidence-with-content-credentials",
+      "url": "https://contentauthenticity.org/blog/how-forensic-photonics-verifies-digital-evidence-with-content-credentials",
+      "title": "How Forensic Photonics verifies digital evidence with Content Credentials",
+      "content_text": "In high-stakes court proceedings, digital evidence has to be trustworthy. Learn how Forensic Photonics' LIFT device adds C2PA metadata to fingerprint images.",
+      "attachments": [
+        {
+          "url": "https://assets.contentauthenticity.org/LIFT_1_Weather_X_Marketing_Image_copy_47a9c6557e.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/DUhg7sBgyiI",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "content-provenance"
+      ]
+    },
+    {
+      "id": "https://contentauthenticity.org/blog/event-recap-proof-of-personhood-provenance-and-ai-avatars",
+      "url": "https://contentauthenticity.org/blog/event-recap-proof-of-personhood-provenance-and-ai-avatars",
+      "title": "Event Recap | Proof of Personhood: Provenance and AI Avatars",
+      "content_text": "We recently hosted a conversation on the opportunities and challenges of AI avatars. Check out the highlights.",
+      "attachments": [
+        {
+          "url": "https://assets.contentauthenticity.org/Screenshot_2026_01_08_at_2_03_36_PM_860b691b0b.png",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/M2POFHnC8cM",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "content-provenance"
+      ]
+    },
+    {
+      "id": "https://www.bas.ac.uk/news/researchers-head-to-greenland-for-ambitious-science-mission/",
+      "url": "https://www.bas.ac.uk/news/researchers-head-to-greenland-for-ambitious-science-mission/",
+      "title": "Researchers head to Greenland for ambitious science mission - British Antarctic Survey",
+      "content_text": "An international team is collecting observations to understand how a melting Greenland could cause weather change in UK and Europe.",
+      "attachments": [
+        {
+          "url": "https://www.bas.ac.uk/wp-content/uploads/2026/07/RRS-SDA-and-Erebus-in-Greenland-crop-BAS-1-scaled.jpeg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/PJ1pzDx8TE8?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "earth-dynamics"
+      ]
+    },
+    {
+      "id": "https://www.bas.ac.uk/news/rothera-construction-season-upgrades-safeguard-future-polar-science/",
+      "url": "https://www.bas.ac.uk/news/rothera-construction-season-upgrades-safeguard-future-polar-science/",
+      "title": "Rothera Research Station's construction season upgrades safeguard future polar science - British Antarctic Survey",
+      "content_text": "A significant phase of construction at Rothera has been completed this season, delivering new infrastructure that will power cutting-edge polar science for decades ahead.",
+      "attachments": [
+        {
+          "url": "https://www.bas.ac.uk/wp-content/uploads/2026/06/7-may-remaining-containers-for-next-season.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/VVIu9U5KIUQ?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "earth-dynamics"
       ]
     }
   ]

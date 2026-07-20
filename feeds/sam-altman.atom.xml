@@ -1,8 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>4thWave AI — Sam Altman (Aggregated)</title>
-  <link href="https://4thwave.ai"/>
+  <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sam-altman.atom.xml"/>
   <id>urn:4thwaveai-feeds:sam-altman</id>
-  <updated>Sun, 14 Sep 2025 23:56:13 +0000</updated>
+  <updated>Mon, 20 Jul 2026 03:43:12 +0000</updated>
+  <entry>
+    <title>&lt;![CDATA[OpenAI News]]&gt;</title>
+    <link href="https://openai.com/news/rss.xml"/>
+    <id>https://openai.com/news/rss.xml</id>
+    <summary type="text">&lt;![CDATA[OpenAI News]]&gt;</summary>
+  </entry>
+  <entry>
+    <title>OpenAI Newsroom | Recent news</title>
+    <link href="https://openai.com/news/company-announcements/"/>
+    <id>https://openai.com/news/company-announcements/</id>
+    <summary type="text">Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.</summary>
+  </entry>
+  <entry>
+    <title>OpenAI Newsroom | Research</title>
+    <link href="https://openai.com/news/research/"/>
+    <id>https://openai.com/news/research/</id>
+    <summary type="text">Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.</summary>
+  </entry>
+  <entry>
+    <title>OpenAI Newsroom | Product</title>
+    <link href="https://openai.com/news/product-releases/"/>
+    <id>https://openai.com/news/product-releases/</id>
+    <summary type="text">Product Jul 9, 2026</summary>
+  </entry>
+  <entry>
+    <title>OpenAI Newsroom | Safety</title>
+    <link href="https://openai.com/news/safety-alignment/"/>
+    <id>https://openai.com/news/safety-alignment/</id>
+    <summary type="text">Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.</summary>
+  </entry>
+  <entry>
+    <title>OpenAI Newsroom | Engineering</title>
+    <link href="https://openai.com/news/engineering/"/>
+    <id>https://openai.com/news/engineering/</id>
+    <summary type="text">Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.</summary>
+  </entry>
+  <entry>
+    <title>Security</title>
+    <link href="https://openai.com/news/security/"/>
+    <id>https://openai.com/news/security/</id>
+    <summary type="text">OpenAI news related to security</summary>
+  </entry>
+  <entry>
+    <title>OpenAI Newsroom | Global Affairs</title>
+    <link href="https://openai.com/news/global-affairs/"/>
+    <id>https://openai.com/news/global-affairs/</id>
+    <summary type="text">Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.</summary>
+  </entry>
+  <entry>
+    <title>OpenAI Newsroom | AI Adoption</title>
+    <link href="https://openai.com/news/ai-adoption/"/>
+    <id>https://openai.com/news/ai-adoption/</id>
+    <summary type="text">AI Adoption Jul 14, 2026</summary>
+  </entry>
+  <entry>
+    <title>OpenAI Newsroom | Applied AI</title>
+    <link href="https://openai.com/news/applied-ai/"/>
+    <id>https://openai.com/news/applied-ai/</id>
+    <summary type="text">Applied AI Jun 23, 2026</summary>
+  </entry>
+  <entry>
+    <title>OpenAI News</title>
+    <link href="https://openai.com/news/"/>
+    <id>https://openai.com/news/</id>
+    <summary type="text">Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.</summary>
+  </entry>
 </feed>

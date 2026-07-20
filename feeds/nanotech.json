@@ -5,13 +5,13 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
-      "id": "https://phys.org/news/2025-10-bacteria-accumulation-gold-nanoparticles-spruce.html",
-      "url": "https://phys.org/news/2025-10-bacteria-accumulation-gold-nanoparticles-spruce.html",
-      "title": "Bacteria may influence accumulation of gold nanoparticles in spruce tree needles",
-      "content_text": "A new study has, for the first time, uncovered a connection between bacteria living in Norway spruce needles and gold nanoparticles. This discovery could pave the way for environmentally friendly gold exploration methods, while examining similar processes in mosses may also help remove metals from mining-impacted waters.",
+      "id": "https://phys.org/news/2026-07-nanoparticles-immune-molecules-blood.html",
+      "url": "https://phys.org/news/2026-07-nanoparticles-immune-molecules-blood.html",
+      "title": "Nanoparticles could remove harmful immune molecules from blood",
+      "content_text": "The immune system, the body's defense network against infections and injuries, can sometimes become too active. In these cases, it can produce too many immune mediators, fragments of genetic material or proteins that regulate immune responses.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/golden-spruce-trees-go.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/nanoparticles-could-re.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -20,13 +20,13 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-10-molecular-motors-invasive-cancer-therapies.html",
-      "url": "https://phys.org/news/2025-10-molecular-motors-invasive-cancer-therapies.html",
-      "title": "Molecular motors drive new non-invasive cancer therapies",
-      "content_text": "Imagine tiny machines, smaller than a virus, spinning inside cancer cells and rewiring their behavior from within. No surgery, no harsh chemicals, just precision at the molecular level.",
+      "id": "https://phys.org/news/2026-07-thinner-wires-faster-electrons-quantum.html",
+      "url": "https://phys.org/news/2026-07-thinner-wires-faster-electrons-quantum.html",
+      "title": "Thinner wires, faster electrons: Quantum material challenges copper at chip scale",
+      "content_text": "Electrical interconnects may very well be the unsung heroes of modern microchips. These tiny wires—typically made of copper due to its high conductivity—string together the billions of transistors that drive our computers and electronic devices. But as the technology advances and additional transistors are piled on, the components must shrink to the nanoscale. And that's when copper begins to fail.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/molecular-motors-drive.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/2026/too-thin-to-fail-an-al.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-10-mxenes-technique-gen-nanomaterials.html",
-      "url": "https://phys.org/news/2025-10-mxenes-technique-gen-nanomaterials.html",
-      "title": "How MXenes truly work: Novel technique shines light on next-gen nanomaterials",
-      "content_text": "Researchers have for the first time measured the true properties of individual MXene flakes—an exciting new nanomaterial with potential for better batteries, flexible electronics, and clean energy devices.",
+      "id": "https://phys.org/news/2026-07-graphene-nanoribbons-survive-gamma-revealing.html",
+      "url": "https://phys.org/news/2026-07-graphene-nanoribbons-survive-gamma-revealing.html",
+      "title": "Graphene nanoribbons survive gamma radiation, revealing potential sensors for fusion reactors",
+      "content_text": "University of Arizona researchers have demonstrated a promising new application for graphene nanoribbons, a nanoscale semiconductor material with the potential to withstand extreme environments. The team's findings could help clear a key hurdle to bringing fusion energy to the electric grid.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/novel-technique-shines.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/2026/quantum-materials-disc.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -50,13 +50,13 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-10-ultra-thin-sodium-alternative-gold.html",
-      "url": "https://phys.org/news/2025-10-ultra-thin-sodium-alternative-gold.html",
-      "title": "Ultra-thin sodium films offer low-cost alternative to gold and silver in optical technologies",
-      "content_text": "From solar panels to next-generation medical devices, many emerging technologies rely on materials that can manipulate light with extreme precision. These materials—called plasmonic materials—are typically made from expensive metals like gold or silver. But what if a cheaper, more abundant metal could do the job just as well or better?",
+      "id": "https://phys.org/news/2026-07-brain-nanopore-device-current-memory.html",
+      "url": "https://phys.org/news/2026-07-brain-nanopore-device-current-memory.html",
+      "title": "Brain-inspired nanopore device uses current-induced heating for memory operations",
+      "content_text": "Some researchers are leaning into biology for inspiration in computing. In particular, neuromorphic computing offers a brain-inspired approach to hardware that replaces traditional binary processing with systems that function more like neurons and synapses. Now, a new study, published in Nature Communications, describes an innovative design for a fluidic memristor that uses its own self-heating mechanism to induce a history-dependent memory effect.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/shining-a-new-light-on-1.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/brain-inspired-nanopor.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -65,13 +65,13 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-10-physicists-maneuver-dna-molecules-electrical.html",
-      "url": "https://phys.org/news/2025-10-physicists-maneuver-dna-molecules-electrical.html",
-      "title": "Physicists maneuver DNA molecules using electrical fields, offering real-time control",
-      "content_text": "Researchers in McGill's Department of Physics have developed a new device that can trap and study DNA molecules without touching or damaging them. The device, which uses carefully tuned electric fields, offers scientists unprecedented control over how DNA behaves in real time, creating the opportunity for faster, more precise molecular analysis that could improve diagnostics, genome mapping and the study of disease-related molecules.",
+      "id": "https://phys.org/news/2026-07-hybrid-material-antiferroelectricity-coexist-switchable.html",
+      "url": "https://phys.org/news/2026-07-hybrid-material-antiferroelectricity-coexist-switchable.html",
+      "title": "Hybrid material confirms antiferroelectricity can coexist with switchable polarization",
+      "content_text": "Many of the advanced electronic components surrounding us in everyday life rely on polar materials to function. Polar materials have an uneven distribution of electric charge. This gives them a positive and a negative side even in the absence of an external electric field. The most important among these are ferroelectric materials, in which the direction of polarization can be reversed by applying an electric field.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/physicists-maneuver-dn-1.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/2026/so-you-thought-antifer.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -80,13 +80,13 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-10-fat-nanoparticles-fatty-liver-disease.html",
-      "url": "https://phys.org/news/2025-10-fat-nanoparticles-fatty-liver-disease.html",
-      "title": "Researchers develop fat-like nanoparticles to treat fatty liver disease",
-      "content_text": "Researchers from the Yong Loo Lin School of Medicine, National University of Singapore (NUS Medicine), have developed a novel RNA-based therapy that could transform treatment for metabolic dysfunction-associated steatohepatitis (MASH), previously known as non-alcoholic fatty liver disease (NAFLD), which affects approximately 25% of people worldwide, and up to 40% of adults in Singapore.",
+      "id": "https://phys.org/news/2026-07-chemists-gallium-nitride-material-nanocrystals.html",
+      "url": "https://phys.org/news/2026-07-chemists-gallium-nitride-material-nanocrystals.html",
+      "title": "Chemists shrink gallium nitride, the material behind LED lighting, into nanocrystals",
+      "content_text": "Nanocrystals are so useful that they formed the basis of the 2023 Nobel Prize in Chemistry. But despite their usefulness, scientists have so far been able to make these microscopic crystals from only a limited palette of materials. A group of chemists at the University of Chicago and Argonne National Laboratory has announced a way to make nanocrystals from a useful class of materials known as metal nitrides—a previously impossible task.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/researchers-develop-fa-3.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/chemists-shrink-galliu.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -95,13 +95,13 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-09-floquet-chern-insulators-based-nonlinear.html",
-      "url": "https://phys.org/news/2025-09-floquet-chern-insulators-based-nonlinear.html",
-      "title": "Floquet Chern insulators based on nonlinear photonic crystals achieved",
-      "content_text": "Over the past few years, engineers and material scientists have been trying to devise new optical systems in which light particles (i.e., photons) can move freely and in useful ways, irrespective of defects and imperfections. Topological phases, unique states of matter that are not defined by local properties, but by non-local and global features, can enable the robust movement of photons despite material defects.",
+      "id": "https://phys.org/news/2026-07-method-scales-oxide-materials-future.html",
+      "url": "https://phys.org/news/2026-07-method-scales-oxide-materials-future.html",
+      "title": "New method scales up twist-engineered oxide materials for future electronics",
+      "content_text": "Researchers have shown it is possible to expand the field of twistronics—literally. They have demonstrated a technique that allows them to fabricate oxide twistronic materials at much larger scales while also controlling the twist angles between materials that dictate their structural and electronic properties.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/the-realization-of-flo.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/researchers-extend-the.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -110,13 +110,13 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-10-ai-generated-nanomaterial-images-experts.html",
-      "url": "https://phys.org/news/2025-10-ai-generated-nanomaterial-images-experts.html",
-      "title": "AI-generated nanomaterial images fool even experts, study shows",
-      "content_text": "Black-and-white images of pom-pom–like clusters, semi-translucent fields of tiny dark gray stars on a pale background, and countless other abstract patterns are a familiar sight in scientific papers describing the shapes and properties of newly engineered materials.",
+      "id": "https://phys.org/news/2026-07-nanoscale-gaps-reveal-atom-thin.html",
+      "url": "https://phys.org/news/2026-07-nanoscale-gaps-reveal-atom-thin.html",
+      "title": "Nanoscale gaps reveal new design rule for atom-thin chips and memory",
+      "content_text": "Researchers at the College of Design and Engineering at the National University of Singapore have identified a key design principle for building reliable electronics from materials only one atomic layer thick, giving engineers a clearer way to control unwanted electrical leakage in future ultra-small devices.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/ai-fakes-are-so-good-e-1.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/nus-cde-researchers-re.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -125,32 +125,13 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-10-silver-nanoring-coating-smart-windows.html",
-      "url": "https://phys.org/news/2025-10-silver-nanoring-coating-smart-windows.html",
-      "title": "Silver-nanoring coating points to 'self-regulating' smart windows—without power or tinting",
-      "content_text": "A new Danish research breakthrough could make buildings far more energy-efficient in the future. Researchers from Aarhus University's Interdisciplinary Nanoscience Center (iNANO) have developed a light-responsive hybrid material based on so-called silver nanorings that automatically responds to solar intensity and regulates how much heat penetrates through windows.",
+      "id": "https://phys.org/news/2026-07-quantum-currents-nano-soccer-ball.html",
+      "url": "https://phys.org/news/2026-07-quantum-currents-nano-soccer-ball.html",
+      "title": "Quantum currents turn a nano 'soccer ball' into a powerful molecular electromagnet",
+      "content_text": "Driving an electric current through a molecule can create a magnetic field. Yet in practice, such fields are often too weak to be detected experimentally. Through theoretical modeling, researchers at the Institute of Science and Technology Austria (ISTA) show how quantum effects can turn single molecules into effective magnets—including one shaped like a microscopic soccer ball, just in time for the FIFA World Cup final. The findings are published in Nature Communications.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/passive-silver-nanorin.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://scx2.b-cdn.net/gfx/video/2025/passive-silver-nanorin.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2025-10-random-nanofiber-networks-optimized-strength.html",
-      "url": "https://phys.org/news/2025-10-random-nanofiber-networks-optimized-strength.html",
-      "title": "Designing random nanofiber networks, optimized for strength and toughness",
-      "content_text": "In nature, random fiber networks such as some of the tissues in the human body, are strong and tough with the ability to hold together but also stretch a lot before they fail. Studying this structural randomness—that nature seems to replicate so effortlessly—is extremely difficult in the lab and is even more difficult to accurately reproduce in engineering applications.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/designing-random-fiber-2.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/2026/goal-a-nano-soccer-bal.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -159,13 +140,13 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-10-nanoreactor-cage-visible-catalytic-ultra.html",
-      "url": "https://phys.org/news/2025-10-nanoreactor-cage-visible-catalytic-ultra.html",
-      "title": "'Nanoreactor' cage uses visible light for catalytic and ultra-selective cross-cycloadditions",
-      "content_text": "Researchers have engineered a novel M6L4 octahedral molecular cage by integrating photoactive cyclometalated platinum(II) units, creating a visible-light-responsive \"nanoreactor\" that drives highly efficient photochemical reactions through precise molecular confinement. This innovative design overcomes the limitations of previous hosts, achieving perfect stereo- and site-selective cross-[2 + 2] cycloaddition reactions, and most notably, enabling catalytic cross-[2 + 2] cycloaddition of chemically inert substrates using this supramolecular confinement approach.",
+      "id": "https://phys.org/news/2026-07-stealth-anticancer-nanoparticles-mussel-proteins.html",
+      "url": "https://phys.org/news/2026-07-stealth-anticancer-nanoparticles-mussel-proteins.html",
+      "title": "Stealth anticancer nanoparticles made from mussel proteins that 'lie in wait and attack only cancer cells'",
+      "content_text": "Pancreatic cancer is considered one of the deadliest cancers because it is often diagnosed late and is difficult to treat. However, a South Korean research team has developed \"smart nanoparticles\" that remain hidden in normal tissue but shed their protective coating and release anticancer drugs once they reach tumor tissue. This drug delivery technology is attracting attention for its potential to reduce the side effects of cancer treatment while significantly improving treatment efficacy.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2025/nanoreactor-cage-uses.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/stealth-anticancer-nan.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -174,13 +155,13 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2025-10-rechargeable-powers-nanoscale-molecular-machines.html",
-      "url": "https://phys.org/news/2025-10-rechargeable-powers-nanoscale-molecular-machines.html",
-      "title": "Heat-rechargeable design powers nanoscale molecular machines",
-      "content_text": "Though it might seem like science fiction, scientists are working to build nanoscale molecular machines that can be designed for myriad applications, such as \"smart\" medicines and materials. But like all machines, these tiny devices need a source of power, the way electronic appliances use electricity or living cells use ATP (adenosine triphosphate, the universal biological energy source).",
+      "id": "https://phys.org/news/2026-07-technique-ultra-thin-material-stacks.html",
+      "url": "https://phys.org/news/2026-07-technique-ultra-thin-material-stacks.html",
+      "title": "New technique for building ultra-thin material stacks promises quantum breakthrough",
+      "content_text": "Scientists have unveiled a new fabrication technique for the ultra-clean manufacturing of 2D heterostructures—materials just a few atoms thick—that could be used in quantum technology and electronics. Experts from Southampton and Singapore say the method could be used to develop next-generation devices that accelerate research in quantum computing.",
       "attachments": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2025/heat-rechargeable-desi.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/scientists-unveil-tech.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -189,13 +170,178 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/10/251001092218.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251001092218.htm",
-      "title": "This ultra-thin solar tech could power everything from phones to skyscrapers",
-      "content_text": "A team in Sweden has unraveled the hidden structure of a promising solar material using machine learning and advanced simulations. Their findings could unlock durable, ultra-efficient solar cells for a rapidly electrifying world.",
+      "id": "https://phys.org/news/2026-07-harder-longer-silver-plating.html",
+      "url": "https://phys.org/news/2026-07-harder-longer-silver-plating.html",
+      "title": "Researchers develop harder, longer-lasting silver plating",
+      "content_text": "A research team led by Seil Kim of the Korea Institute of Materials Science (KIMS) Energy & Environmental Materials Research Division has developed an Ag–PTFE composite plating technology that produces silver coatings with greater hardness and wear resistance than conventional silver plating by stably dispersing PTFE nanoparticles in a cyanide-free acidic silver plating bath.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/formamidinium-lead-iodide.webp",
+          "url": "https://scx2.b-cdn.net/gfx/news/2026/harder-longer-lasting.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/news/2026/06/department-commerces-chips-program-announces-letter-intent-coherent-50",
+      "url": "https://www.nist.gov/news-events/news/2026/06/department-commerces-chips-program-announces-letter-intent-coherent-50",
+      "title": "The Department of Commerce’s CHIPS Program Announces a Letter of Intent with Coherent for up to $50 Million to Expand Indium Phosphide Production",
+      "content_text": "The Department of Commerce’s CHIPS Program Office announced the signing of a letter of intent to provide up to $50 million in direct funding to Coherent Corp. (Coherent) under the CHIPS and Science Act.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2025/07/25/CHIPS%20Xcelerate%202X-fullcolor.png?itok=0uAutXTW",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/news/2026/06/department-commerce-announces-finalization-chips-incentives-xlight-support",
+      "url": "https://www.nist.gov/news-events/news/2026/06/department-commerce-announces-finalization-chips-incentives-xlight-support",
+      "title": "Department of Commerce Announces Finalization of CHIPS Incentives with xLight to Support Next-Generation Light Source for Lithography",
+      "content_text": "The U.S. Department of Commerce and the National Institute of Standards and Technology (NIST) announced today the signing of a final award of $150 million in federal incentives to xLight, Inc. under the CHIPS and Science Act.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2025/07/25/CHIPS%20Xcelerate%202X-fullcolor.png?itok=0uAutXTW",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/news/2026/05/department-commerce-announces-letters-intent-9-companies-2-billion",
+      "url": "https://www.nist.gov/news-events/news/2026/05/department-commerce-announces-letters-intent-9-companies-2-billion",
+      "title": "Department of Commerce Announces Letters of Intent With 9 Companies for $2 Billion to Accelerate U.S. Leadership in Quantum Computing",
+      "content_text": "The Department of Commerce today announced the signing of 9 letters of intent to provide $2.013 billion in federal incentives under the CHIPS and Science Act.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2025/07/25/CHIPS%20Xcelerate%202X-fullcolor.png?itok=0uAutXTW",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/events/2026/06/advanced-metrology-defect-management-ceramic-additive-manufacturing",
+      "url": "https://www.nist.gov/news-events/events/2026/06/advanced-metrology-defect-management-ceramic-additive-manufacturing",
+      "title": "Advanced Metrology for Defect Management in Ceramic Additive Manufacturing",
+      "content_text": "Additive manufacturing (AM) of ceramic components suffers from inconsistent quality and high defect rates due to a la",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/themes/custom/nist_www/img/homepage/nist_mark.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/news/2026/01/nanoscale-mechanical-characterization-hybrid-bonding-ready-structures",
+      "url": "https://www.nist.gov/news-events/news/2026/01/nanoscale-mechanical-characterization-hybrid-bonding-ready-structures",
+      "title": "Nanoscale Mechanical Characterization for Hybrid-Bonding-Ready Structures in Advanced Packaging",
+      "content_text": "Since the first computers were developed, their performance has mainly depended on increasing the density of transistors on monolithic chips.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/01/29/Figure%201%20Gheorghe%20Stan.png?itok=R3ggEzL5",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/events/2026/09/synergy-conference",
+      "url": "https://www.nist.gov/news-events/events/2026/09/synergy-conference",
+      "title": "Synergy Conference",
+      "content_text": "NIST will be hosting the annual Synergy IRASTRO meeting in 2026 - a collaboration between the Faint Photonics Group a",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/02/20/Synergy%20Conference.png?itok=rX2yR4kQ",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/events/2026/01/synquanon-meeting",
+      "url": "https://www.nist.gov/news-events/events/2026/01/synquanon-meeting",
+      "title": "SynQuaNon Meeting",
+      "content_text": "Program review for DARPA SynQuaNon program.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/themes/custom/nist_www/img/homepage/nist_mark.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/news/2018/05/convective-accelerometer",
+      "url": "https://www.nist.gov/news-events/news/2018/05/convective-accelerometer",
+      "title": "Convective Accelerometer",
+      "content_text": "NIST’s Michael Gaitan and his colleagues patented a new type of acceleration sensor in the late 1990s.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2018/05/25/18pml027_convective-accelerometer.png?itok=Y9aEEVRn",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/news/2018/03/nanoplatelets-could-make-tvs-more-energy-efficient",
+      "url": "https://www.nist.gov/news-events/news/2018/03/nanoplatelets-could-make-tvs-more-energy-efficient",
+      "title": "Nanoplatelets Could Make TVs More Energy Efficient",
+      "content_text": "Researchers at NIST and Sharp Laboratories of America, Inc.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/nanoplatelet-illustration-outlines.jpg?itok=ib0ujA98",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/news/2018/03/zero-field-switching-zfs-effect-nanomagnetic-device",
+      "url": "https://www.nist.gov/news-events/news/2018/03/zero-field-switching-zfs-effect-nanomagnetic-device",
+      "title": "Zero Field Switching (ZFS) Effect in a Nanomagnetic Device",
+      "content_text": "An official website of the United States government",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2018/03/16/18mml007_zero_field_switching_zfs_effect.png?itok=thDVnrBU",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
+      "title": "Scientists built a camera that can track invisible particles in 3D",
+      "content_text": "A new particle detector called PLATON could replace millions of tiny detector components with a single block of light-producing material. Using a light-field camera, highly sensitive photon sensors, and AI, it reconstructs particle paths in fast, detailed 3D. Simulations suggest it could match or surpass today’s best detectors while being far easier to scale. The technology may also lead to sharper PET medical scans.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/neutrinos-interaction-camera.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -204,13 +350,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250929055000.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250929055000.htm",
-      "title": "The hidden forces inside diamonds that could make tech 1,000x faster",
-      "content_text": "A team of physicists has discovered that virtual charges, which exist only during brief interactions with light, play a critical role in ultrafast material responses. Using attosecond pulses on diamonds, they showed these hidden carriers significantly influence optical behavior. The findings could accelerate the development of petahertz-speed devices, unlocking a new era of ultrafast electronics.",
+      "id": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm",
+      "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
+      "content_text": "A new review highlights exciting progress in atomically thin quantum materials where light and magnetism work together in ways never before possible. In these materials, light-generated excitons can interact directly with magnetic behavior, creating opportunities to control magnetic states using light alone. Scientists believe this could pave the way for advanced optical memory, quantum devices, and ultra-efficient photonic technologies.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/futuristic-energy-particles-ultrafast-electronics.webp",
+          "url": "https://www.sciencedaily.com/images/1920/quantum-magnetic-material-atomic-stacked-layers.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -219,13 +365,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250926035016.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250926035016.htm",
-      "title": "Toxic waste could become the next clean energy breakthrough",
-      "content_text": "Bio-tar, once seen as a toxic waste, can be transformed into bio-carbon with applications in clean energy and environmental protection. This innovation could reduce emissions, create profits, and solve a major bioenergy industry problem.",
+      "id": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm",
+      "title": "AI just supercharged the race to find room temperature superconductors",
+      "content_text": "Scientists have combined machine learning with quantum physics to discover two new superconductors and create a much faster way to search for many more. The technique could bring researchers significantly closer to the long-sought goal of a room-temperature superconductor.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/liquid-oil-petroleum.webp",
+          "url": "https://www.sciencedaily.com/images/1920/kagome-lattice-superconductivity.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -234,13 +380,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250921090853.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250921090853.htm",
-      "title": "Tiny new lenses, smaller than a hair, could transform phone and drone cameras",
-      "content_text": "Scientists have developed a new multi-layered metalens design that could revolutionize portable optics in devices like phones, drones, and satellites. By stacking metamaterial layers instead of relying on a single one, the team overcame fundamental limits in focusing multiple wavelengths of light. Their algorithm-driven approach produced intricate nanostructures shaped like clovers, propellers, and squares, enabling improved performance, scalability, and polarization independence.",
+      "id": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
+      "title": "Quantum mechanics once baffled scientists. Now it&apos;s changing the world",
+      "content_text": "Quantum mechanics has journeyed from a strange and controversial idea to the foundation of some of humanity’s most advanced technologies. Now researchers are pushing its boundaries even further, with potential breakthroughs in energy, medicine, computing, and our understanding of the universe.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/metamaterial-lenses-for-phones-and-drones.webp",
+          "url": "https://www.sciencedaily.com/images/1920/majorana-qubits-quantum-entanglement.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -249,13 +395,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250920214318.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250920214318.htm",
-      "title": "Scientists just made atoms talk to each other inside silicon chips",
-      "content_text": "Researchers at UNSW have found a way to make atomic nuclei communicate through electrons, allowing them to achieve entanglement at scales used in today’s computer chips. This breakthrough brings scalable, silicon-based quantum computing much closer to reality.",
+      "id": "https://www.sciencedaily.com/releases/2026/06/260621060304.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260621060304.htm",
+      "title": "A tiny diamond defect could reveal a mysterious new kind of magnetism",
+      "content_text": "A newly proposed quantum sensing technique could make it much easier to identify one of physics’ newest and most intriguing classes of magnets: altermagnets. These unusual materials, discovered only a few years ago, appear to combine the speed and efficiency of antiferromagnets with some of the useful electronic properties of traditional magnets, making them promising candidates for next-generation electronics.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/two-nuclear-spins-remotely-entangled.webp",
+          "url": "https://www.sciencedaily.com/images/1920/atomic-structure-of-altermagnets.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -264,13 +410,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250919085242.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250919085242.htm",
-      "title": "New cooling breakthrough nearly doubles efficiency",
-      "content_text": "CHESS thin-film materials nearly double refrigeration efficiency compared to traditional methods. Scalable and versatile, they promise applications from household cooling to space exploration.",
+      "id": "https://www.sciencedaily.com/releases/2026/06/260622091507.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260622091507.htm",
+      "title": "NASA’s Cold Atom Lab is creating one of the weirdest forms of matter in space",
+      "content_text": "NASA’s upgraded Cold Atom Lab is turning the International Space Station into a frontier for quantum research, creating ultra-cold matter that behaves in astonishing ways. The experiments could unlock new discoveries about the universe while paving the way for powerful future technologies in space and on Earth.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/chess-efficient-thermoelectric-cooling-device.webp",
+          "url": "https://www.sciencedaily.com/images/1920/nasa-cold-atom-lab-ultracold-bubbles-on-space-station.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -279,13 +425,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250917221007.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250917221007.htm",
-      "title": "Lasers just made atoms dance, unlocking the future of electronics",
-      "content_text": "Scientists at Michigan State University have discovered how to use ultrafast lasers to wiggle atoms in exotic materials, temporarily altering their electronic behavior. By combining cutting-edge microscopes with quantum simulations, they created a nanoscale switch that could revolutionize smartphones, laptops, and even future quantum computers.",
+      "id": "https://www.sciencedaily.com/releases/2026/06/260620100312.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260620100312.htm",
+      "title": "This simple twist could bring quantum computers closer to reality",
+      "content_text": "Researchers found that twisting layered sheets of hexagonal boron nitride can dramatically change the light produced by quantum emitters embedded within the material. The technique offers an unexpected new level of control over components that could power future quantum computers, communications systems, and sensors.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/lasers-atomic-motion.webp",
+          "url": "https://www.sciencedaily.com/images/1920/quantum-material-computer-technology.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -294,13 +440,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250916221913.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250916221913.htm",
-      "title": "Harvard’s salt trick could turn billions of tons of hair into eco-friendly materials",
-      "content_text": "Scientists at Harvard have discovered how salts like lithium bromide break down tough proteins such as keratin—not by attacking the proteins directly, but by altering the surrounding water structure. This breakthrough opens the door to a cleaner, more sustainable way to recycle wool, feathers, and hair into valuable materials, potentially replacing plastics and fueling new industries.",
+      "id": "https://www.sciencedaily.com/releases/2026/06/260617032211.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260617032211.htm",
+      "title": "Superconductivity breakthrough could unlock ultra-efficient electronics",
+      "content_text": "A clever nanoscale redesign may have solved one of superconductivity’s biggest problems. Researchers in Sweden discovered that by subtly sculpting the surface beneath an ultrathin superconducting material, they could make it stay superconducting at higher temperatures and under much stronger magnetic fields.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/protein-denaturation.webp",
+          "url": "https://www.sciencedaily.com/images/1920/superconductor-advance-unlocks-ultra-energy-efficient-electronics.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -309,13 +455,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250913232933.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250913232933.htm",
-      "title": "Tiny magnetic spirals unlock the future of spintronics",
-      "content_text": "Scientists in Korea have engineered magnetic nanohelices that can control electron spin with extraordinary precision at room temperature. By combining structural chirality and magnetism, these nanoscale helices can filter spins without complex circuitry or cooling. The breakthrough not only demonstrates a way to program handedness in inorganic nanomaterials but also opens the door to scalable, energy-efficient spintronic devices that could revolutionize computing.",
+      "id": "https://www.sciencedaily.com/releases/2026/06/260615033849.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260615033849.htm",
+      "title": "This strange material can become strong or fall apart in seconds",
+      "content_text": "Scientists have found that staple-shaped particles can tangle together to create a material that is both strong and flexible. Unlike conventional materials, these particles can be locked into a sturdy structure or rapidly unraveled using vibrations. The unusual behavior could open the door to recyclable buildings, reconfigurable structures, and even futuristic robotic technologies.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/electrosynthesized-chiral-ferromagnetic-nanohelix.webp",
+          "url": "https://www.sciencedaily.com/images/1920/metal-staples-arch.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -324,13 +470,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250910000302.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250910000302.htm",
-      "title": "Scientists just built a detector that could finally catch dark matter",
-      "content_text": "Physicists have unveiled a new superconducting detector sensitive enough to hunt dark matter particles smaller than electrons. By capturing faint photon signals, the device pushes the search into uncharted territory.",
+      "id": "https://www.sciencedaily.com/releases/2026/06/260612032049.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260612032049.htm",
+      "title": "These tiny holes could change how the world cleans water",
+      "content_text": "A new nature-inspired membrane uses perfectly uniform one-nanometer pores to filter molecules with remarkable precision. The technology could transform industries such as pharmaceuticals and textiles by reducing energy consumption, improving water reuse, and delivering separation performance far beyond current filters.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/superconducting-nanowire-single-photon-detector.webp",
+          "url": "https://www.sciencedaily.com/images/1920/pombranes-molecular-transport.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -339,13 +485,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250910000240.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250910000240.htm",
-      "title": "The invisible plastic threat you can finally see",
-      "content_text": "Researchers in Germany and Australia have created a simple but powerful tool to detect nanoplastics—tiny, invisible particles that can slip through skin and even the blood-brain barrier. Using an &quot;optical sieve&quot; test strip viewed under a regular microscope, these particles reveal themselves through striking color changes.",
+      "id": "https://www.sciencedaily.com/releases/2026/06/260611024557.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260611024557.htm",
+      "title": "AI could uncover new physics faster but there’s a surprising catch",
+      "content_text": "Scientists found that transfer learning can make the search for new physics in the universe much faster, slashing the need for expensive simulations. Yet the approach can backfire when AI relies too heavily on familiar patterns, potentially missing evidence of something truly new.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/optical-sieve-nanoplastic-particles.webp",
+          "url": "https://www.sciencedaily.com/images/1920/quijote-simulations.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -354,13 +500,13 @@
       ]
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/09/250905180734.htm",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250905180734.htm",
-      "title": "Tiny gold quantum needles with astonishing powers discovered",
-      "content_text": "Scientists at the University of Tokyo have unveiled “gold quantum needles,” a newly discovered nanocluster structure formed under unusual synthesis conditions. Unlike typical spherical clusters, these elongated, pencil-shaped formations display unique quantum behaviors and respond to near-infrared light, making them promising tools for biomedical imaging and energy applications.",
+      "id": "https://www.sciencedaily.com/releases/2026/06/260606075511.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260606075511.htm",
+      "title": "Heat breaks the rules at the nanoscale and scientists used it to their advantage",
+      "content_text": "Scientists used nanoscale gold metamaterials to supercharge heat transfer across tiny gaps, achieving up to four times more energy flow than similar conventional systems. The breakthrough could lead to better chip cooling, more efficient energy technologies, and a new era of precision heat engineering.",
       "attachments": [
         {
-          "url": "https://www.sciencedaily.com/images/1920/structural-evolution-of-gold-nanoclusters.webp",
+          "url": "https://www.sciencedaily.com/images/1920/metamaterials-cooling-for-chips.webp",
           "mime_type": "image/webp"
         }
       ],

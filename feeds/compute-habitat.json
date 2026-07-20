@@ -1,0 +1,308 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "4thWave AI — Compute Habitat (Aggregated)",
+  "home_page_url": "https://www.4thwaveai.com",
+  "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/compute-habitat.json",
+  "items": [
+    {
+      "id": "https://submer.com/blog/press/netceed-ai-infrastructure-emea/",
+      "url": "https://submer.com/blog/press/netceed-ai-infrastructure-emea/",
+      "title": "Submer Group and Netceed partner to expand AI infrastructure across EMEA",
+      "content_text": "Submer Group partners with Netceed to expand AI infrastructure capabilities across EMEA and support telecom and data center customers.",
+      "attachments": [
+        {
+          "url": "https://submer.com/wp-content/uploads/2026/07/submer-group-netceed-ai-infrastructure-emea.jpg.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "compute-habitat"
+      ]
+    },
+    {
+      "id": "https://journal.uptimeinstitute.com/advances-in-fine-tuning-reduce-total-volume-of-ai-training/",
+      "url": "https://journal.uptimeinstitute.com/advances-in-fine-tuning-reduce-total-volume-of-ai-training/",
+      "title": "Advances in fine-tuning reduce total volume of AI training - Uptime Institute Blog",
+      "content_text": "In the early days of generative AI, much attention was focused on the process of training new models from zero. As the technology matures, organizations are increasingly looking for ways to adapt existing large language models (LLMs) to their specific requirements. Customizing existing models avoids the need to source training data, employ machine learning experts […]",
+      "attachments": [
+        {
+          "url": "https://journal.uptimeinstitute.com/wp-content/uploads/2026/07/Advances-in-fine-tuning-featured.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "compute-habitat"
+      ]
+    },
+    {
+      "id": "https://submer.com/blog/press/invest-more-than-1-billion-in-an-ai-data-center-in-flix/",
+      "url": "https://submer.com/blog/press/invest-more-than-1-billion-in-an-ai-data-center-in-flix/",
+      "title": "Submer Group announces €1B AI data center in Flix | Submer",
+      "content_text": "Submer Group will invest more than €1 billion to develop a sustainable AI data center in Flix, Catalonia, creating jobs and supporting AI infrastructure.",
+      "attachments": [
+        {
+          "url": "https://submer.com/wp-content/uploads/2026/07/flix-ai-data-center.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "compute-habitat"
+      ]
+    },
+    {
+      "id": "https://journal.uptimeinstitute.com/investments-back-two-phase-cooling-as-water-cold-plate-successor/",
+      "url": "https://journal.uptimeinstitute.com/investments-back-two-phase-cooling-as-water-cold-plate-successor/",
+      "title": "Investments back two-phase cooling as water cold plate successor - Uptime Institute Blog",
+      "content_text": "Direct liquid cooling (DLC) has attracted significant investment over the past two years, driven largely by the massive buildout of dense AI training clusters. In the coming years, major AI hardware manufacturers are planning ever-higher computing density, with a corresponding sharp increase in rack power — soon to surpass 200 kW. Not long ago, the […]",
+      "attachments": [
+        {
+          "url": "https://journal.uptimeinstitute.com/wp-content/uploads/2026/06/Investments-back-two-phase-cooling-featured.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "compute-habitat"
+      ]
+    },
+    {
+      "id": "https://submer.com/blog/time-to-token-the-kpi-that-will-define-ai-data-centers/",
+      "url": "https://submer.com/blog/time-to-token-the-kpi-that-will-define-ai-data-centers/",
+      "title": "Time to Token: the new KPI that will define AI datacenters | TTT",
+      "content_text": "Time to Token is emerging as a critical KPI for AI infrastructure deployment. Learn how modular design, liquid cooling, and full-stack delivery accelerate AI readiness.",
+      "attachments": [
+        {
+          "url": "https://submer.com/wp-content/uploads/2026/06/What-does-time-to-first-token-mean.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "compute-habitat"
+      ]
+    },
+    {
+      "id": "https://journal.uptimeinstitute.com/us-data-center-critics-pivot-from-moratoria-to-regulations/",
+      "url": "https://journal.uptimeinstitute.com/us-data-center-critics-pivot-from-moratoria-to-regulations/",
+      "title": "US data center critics pivot from moratoria to regulations - Uptime Institute Blog",
+      "content_text": "In April 2026, the US state of Maine’s governor vetoed a state-level data center moratorium bill, the latest in a series of similar regulatory actions across the US. Moratorium bills aim to pause data center construction long enough for local governments to establish regulations — or impose an outright ban — but most have failed […]",
+      "attachments": [
+        {
+          "url": "https://journal.uptimeinstitute.com/wp-content/uploads/2026/06/US-data-center-critics-pivot-from-moratoria-to-regs-featured.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "compute-habitat"
+      ]
+    },
+    {
+      "id": "https://journal.uptimeinstitute.com/enterprises-will-deploy-inference-in-house-if-they-can/",
+      "url": "https://journal.uptimeinstitute.com/enterprises-will-deploy-inference-in-house-if-they-can/",
+      "title": "Enterprises will deploy inference in-house — if they can - Uptime Institute Blog",
+      "content_text": "The development of large language models (LLMs) is a complex process, requiring specialized infrastructure and skills, as well as the ability to differentiate the result — since there is little value in replicating the work done by others. It is becoming clear that few organizations will choose to train their own LLMs, opting instead to […]",
+      "attachments": [
+        {
+          "url": "https://journal.uptimeinstitute.com/wp-content/uploads/2026/05/Enterprises-will-deploy-inference-in-house-featured.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "compute-habitat"
+      ]
+    },
+    {
+      "id": "https://journal.uptimeinstitute.com/capacity-allocation-and-the-next-generation-of-ai-era-kpis/",
+      "url": "https://journal.uptimeinstitute.com/capacity-allocation-and-the-next-generation-of-ai-era-kpis/",
+      "title": "Capacity allocation and the next generation of AI-era KPIs - Uptime Institute Blog",
+      "content_text": "AI workloads are reshaping data center infrastructure at an unprecedented scale. Rack densities exceeding 50 kW are becoming increasingly common. AI training clusters often operate near their peak power envelope for extended periods, placing sustained demand on facility infrastructure. At the same time, AI inference workloads exhibit different characteristics, often behaving more like traditional compute […]",
+      "attachments": [
+        {
+          "url": "https://journal.uptimeinstitute.com/wp-content/uploads/2026/05/Capacity_allocation_next_gen_AI-era_KPIs-featured.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "compute-habitat"
+      ]
+    },
+    {
+      "id": "https://journal.uptimeinstitute.com/project-approval-will-hinge-on-local-benefit-guarantees/",
+      "url": "https://journal.uptimeinstitute.com/project-approval-will-hinge-on-local-benefit-guarantees/",
+      "title": "Project approval will hinge on local benefit guarantees - Uptime Institute Blog",
+      "content_text": "In January 2026, more than 230 US-based advocacy groups signed a letter urging the US Congress to impose a complete moratorium on data center construction, pending tight regulations. This coordinated effort bears little resemblance to the data center resistance of the past. Opposition to data centers is scaling from local disputes into a national movement […]",
+      "attachments": [
+        {
+          "url": "https://journal.uptimeinstitute.com/wp-content/uploads/2026/04/Project-approval-hinge-local-benefit-guarantees-featured.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "compute-habitat"
+      ]
+    },
+    {
+      "id": "https://journal.uptimeinstitute.com/liquid-cooling-will-not-outgrow-its-high-density-niche/",
+      "url": "https://journal.uptimeinstitute.com/liquid-cooling-will-not-outgrow-its-high-density-niche/",
+      "title": "Liquid cooling will not outgrow its high-density niche - Uptime Institute Blog",
+      "content_text": "Deployment of direct liquid cooling (DLC, as cold plate or immersion systems) remains overwhelmingly concentrated in applications where air cooling is no longer a practical alternative. As a wave of AI infrastructure was being built, DLC manufacturers invested their engineering resources in maximizing cooling performance for high-performance IT — namely AI training hardware. By comparison, […]",
+      "attachments": [
+        {
+          "url": "https://journal.uptimeinstitute.com/wp-content/uploads/2026/04/Liquid-cooling-not-outgrow-high-density-niche-featured.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "compute-habitat"
+      ]
+    },
+    {
+      "id": "https://submer.com/blog/ai-infrastructure-efficiency-intelligence-per-watt/",
+      "url": "https://submer.com/blog/ai-infrastructure-efficiency-intelligence-per-watt/",
+      "title": "AI Infrastructure efficiency: maximizing intelligence per watt",
+      "content_text": "AI is no longer limited by compute, but by efficiency. Learn how intelligence per watt is reshaping AI infrastructure and datacenter design.",
+      "attachments": [
+        {
+          "url": "https://submer.com/wp-content/uploads/2026/03/submer-ai-efficiecy-intelligence-per-watt-v2.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "compute-habitat"
+      ]
+    },
+    {
+      "id": "https://submer.com/blog/events/ocp-emea-2026-ai-infrastructure-innovations/",
+      "url": "https://submer.com/blog/events/ocp-emea-2026-ai-infrastructure-innovations/",
+      "title": "Submer at OCP EMEA 2026: AI infrastructure innovations | Submer",
+      "content_text": "Discover Submer’s AI inference reference design at OCP EMEA 2026—high-density, efficient infrastructure built for scalable AI deployment.",
+      "attachments": [
+        {
+          "url": "https://submer.com/wp-content/uploads/2026/03/ai-inference-infrastructure-ocp-emea-2026-submer.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "compute-habitat"
+      ]
+    },
+    {
+      "id": "https://journal.uptimeinstitute.com/as-emissions-soar-operators-look-to-carbon-capture/",
+      "url": "https://journal.uptimeinstitute.com/as-emissions-soar-operators-look-to-carbon-capture/",
+      "title": "As emissions soar, operators look to carbon capture - Uptime Institute Blog",
+      "content_text": "During 2024 and 2025, a new trend emerged: many large data center builders and operators reported increases in their Scope 2, location- and market-based greenhouse gas (GHG) emissions inventories, reversing their efforts toward net-zero commitments. While this shift does not indicate a loss of commitment to those goals, it is an inevitable result of the […]",
+      "attachments": [
+        {
+          "url": "https://journal.uptimeinstitute.com/wp-content/uploads/2026/03/As-emissions-soar-operators-look-to-carbon-capture-featured.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "compute-habitat"
+      ]
+    },
+    {
+      "id": "https://submer.com/blog/why-full-stack-ai-infrastructure-matters/",
+      "url": "https://submer.com/blog/why-full-stack-ai-infrastructure-matters/",
+      "title": "Why full-stack AI infrastructure matters | Full-stack AI Infrastructure",
+      "content_text": "Full-stack AI infrastructure enables faster deployment, scalability, and data sovereignty. Discover why it’s critical for modern AI workloads.",
+      "attachments": [
+        {
+          "url": "https://submer.com/wp-content/uploads/2026/03/full-stack-ai-infrastructure.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "compute-habitat"
+      ]
+    },
+    {
+      "id": "https://submer.com/blog/rapid-edge-ai-infrastructure-with-zededa/",
+      "url": "https://submer.com/blog/rapid-edge-ai-infrastructure-with-zededa/",
+      "title": "Rapid Edge AI Infrastructure: A Game-Changing Inflection Point | Submer & ZEDEDA",
+      "content_text": "Discover how Submer and ZEDEDA deliver rapid edge AI infrastructure for real-time inference anywhere with modular, high-density GPU systems.",
+      "attachments": [
+        {
+          "url": "https://submer.com/wp-content/uploads/2026/03/rapid-edge-ai-infrastructure-submer-zededa.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "compute-habitat"
+      ]
+    },
+    {
+      "id": "https://submer.com/blog/press/partnering-with-zededa-to-deliver-rapid-field-deployable-integrated-edge-ai-infrastructure-anywhere/",
+      "url": "https://submer.com/blog/press/partnering-with-zededa-to-deliver-rapid-field-deployable-integrated-edge-ai-infrastructure-anywhere/",
+      "title": "ZEDEDA and Submer partner to deliver rapid field-deployable integrated Edge AI infrastructure anywhere - Submer Group",
+      "content_text": "Submer is announcing the appointment of Anupam Shrivastava as a Principal Advisor for Government & Green AI Initiatives in India.",
+      "attachments": [
+        {
+          "url": "https://submer.com/wp-content/uploads/2026/03/submer-and-zededa-edge-ai-partnership.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "compute-habitat"
+      ]
+    },
+    {
+      "id": "https://submer.com/blog/press/former-bsnl-chairman-anupam-shrivastava-as-principal-advisor-on-government-green-ai-initiatives-in-india/",
+      "url": "https://submer.com/blog/press/former-bsnl-chairman-anupam-shrivastava-as-principal-advisor-on-government-green-ai-initiatives-in-india/",
+      "title": "Submer appoints former BSNL Chairman Anupam Shrivastava as Principal Advisor on Government & Green AI Initiatives in India - Submer Group",
+      "content_text": "Submer is announcing the appointment of Anupam Shrivastava as a Principal Advisor for Government & Green AI Initiatives in India.",
+      "attachments": [
+        {
+          "url": "https://submer.com/wp-content/uploads/2026/03/anupam-shrivastava-principal-advisor.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "compute-habitat"
+      ]
+    },
+    {
+      "id": "https://submer.com/blog/ai-on-the-edge/",
+      "url": "https://submer.com/blog/ai-on-the-edge/",
+      "title": "AI on the edge: why core-to-edge infrastructure matters | Submer",
+      "content_text": "Edge AI infrastructure powers real-time applications, sovereign AI, and new telecom revenue models through distributed computing.",
+      "attachments": [
+        {
+          "url": "https://submer.com/wp-content/uploads/2026/03/edge-ai-infrastructure-core-to-edge-architecture.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "compute-habitat"
+      ]
+    },
+    {
+      "id": "https://journal.uptimeinstitute.com/ai-in-data-sorting-reality-from-hallucination/",
+      "url": "https://journal.uptimeinstitute.com/ai-in-data-sorting-reality-from-hallucination/",
+      "title": "AI in data: sorting reality from hallucination - Uptime Institute Blog",
+      "content_text": "Many people do not use the term artificial intelligence correctly: vendors, investors, and even some operators label everything from basic automation scripts to deep learning controllers as AI. This inflation of the term has commercial and strategic motives. AI branding helps attract funding, creates differentiation in the market, and positions traditional analytics as cutting-edge solutions. […]",
+      "attachments": [
+        {
+          "url": "https://journal.uptimeinstitute.com/wp-content/uploads/2026/02/AI-in-data-sorting-reality-from-hallucination-featured.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "compute-habitat"
+      ]
+    },
+    {
+      "id": "https://journal.uptimeinstitute.com/ai-and-cooling-toward-more-automation/",
+      "url": "https://journal.uptimeinstitute.com/ai-and-cooling-toward-more-automation/",
+      "title": "AI and cooling: toward more automation - Uptime Institute Blog",
+      "content_text": "AI is increasingly steering the data center industry toward new operational practices, where automation, analytics and adaptive control are paving the way for “dark” — or lights-out, unstaffed — facilities. Cooling systems, in particular, are leading this shift. Yet despite AI’s positive track record in facility operations, one persistent challenge remains: trust. In some ways, […]",
+      "attachments": [
+        {
+          "url": "https://journal.uptimeinstitute.com/wp-content/uploads/2026/01/AI-and-cooling-toward-more-automation-featured.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "compute-habitat"
+      ]
+    }
+  ]
+}

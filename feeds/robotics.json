@@ -5,14 +5,138 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/robotics.json",
   "items": [
     {
-      "id": "https://bostondynamics.com/blog/ask-a-roboticist-qa-with-josh-a-mechanical-engineer-at-boston-dynamics/",
-      "url": "https://bostondynamics.com/blog/ask-a-roboticist-qa-with-josh-a-mechanical-engineer-at-boston-dynamics/",
-      "title": "Ask a Roboticist: Q&A with Josh | Boston Dynamics",
-      "content_text": "A mechanical engineer on the Atlas team, answers your questions about building and testing robots.",
+      "id": "https://science.nasa.gov/earth/earth-observatory/ontario-wildfire-smoke-moves-east/",
+      "url": "https://science.nasa.gov/earth/earth-observatory/ontario-wildfire-smoke-moves-east/",
+      "title": "Ontario Wildfire Smoke Moves East - NASA Science",
+      "content_text": "Canadian wildfires sent plumes of smoke streaming over Ontario, Quebec, and parts of the U.S. Midwest and Northeast.",
       "attachments": [
         {
-          "url": "https://bostondynamics.com/wp-content/uploads/2023/04/josh-thumbnail.jpg",
+          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/ontario-wildfire-smoke-drifts-east/ontariofires_virs3_20260714_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
           "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/",
+      "url": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/",
+      "title": "Super Typhoon Bavi - NASA Science",
+      "content_text": "The third category 5 tropical cyclone of 2026 crossed the U.S. Northern Mariana Islands and Guam before continuing toward Asia.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/super-typhoon-bavi/typhoonbavi_vir_20260705_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/missions/new-horizons/nasas-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/",
+      "url": "https://science.nasa.gov/missions/new-horizons/nasas-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/",
+      "title": "NASA’s New Horizons Spacecraft Wakes from Hibernation in Good Health - NASA Science",
+      "content_text": "Following its longest hibernation period ever of nearly a year, NASA’s New Horizons spacecraft has emerged in good health and is ready to begin transmitting",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/psd/planetary-science-division/2026/nh-hibernation_wakeUp_062426.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/",
+      "url": "https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/",
+      "title": "NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies - NASA",
+      "content_text": "As NASA prepares for a sustained human presence on the Moon, missions will increasingly require spacecraft that can navigate and communicate without a direct",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2022/11/capstone_for_release.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/directorates/stmd/nextstep-3-a-lunar-enabling-technology/",
+      "url": "https://www.nasa.gov/directorates/stmd/nextstep-3-a-lunar-enabling-technology/",
+      "title": "NextSTEP-3",
+      "content_text": "For more information, read the Lunar Enabling Infrastructure Accelerator (LEIA) Broad Agency Announcement (BAA) NextSTEP-3 Appendix A - Draft Solicitation on",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/lunar-enabling-infrastructure-06292026.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/",
+      "url": "https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/",
+      "title": "Partners, NASA Ready for June Launch of Swift Boost Mission - NASA Science",
+      "content_text": "A mission to raise the orbit of NASA’s Swift observatory is poised for launch June 30.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/missions/swift-observatory/news/2026/launch-preview/NE201566_2611x1654.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/THcvpKWZq4M",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/earth/earth-observatory/signs-of-thaw-in-the-bering-sea/",
+      "url": "https://science.nasa.gov/earth/earth-observatory/signs-of-thaw-in-the-bering-sea/",
+      "title": "Signs of Thaw in the Bering Sea - NASA Science",
+      "content_text": "Drifting sea ice fragments near Alaska’s Saint Lawrence and Nunivak islands and colorful water around the Yukon Delta heralded the approach of the summer solstice.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/signs-of-thaw-in-the-bering-sea/alaskanunivak_721_tmo_20260603_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/",
+      "url": "https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/",
+      "title": "NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors - NASA Science",
+      "content_text": "A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/missions/a-step/34340D_0569_PSE_NASA_Goddard_Gamma-Ray_Tracker_Assembly_Process_WEB_16x9.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-equips-astronauts-industry-with-robotic-intelligence/",
+      "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-equips-astronauts-industry-with-robotic-intelligence/",
+      "title": "NASA Equips Astronauts, Industry with Robotic Intelligence  - NASA",
+      "content_text": "As NASA plans long-term missions on the Moon, the agency could use robots to perform routine tasks, allowing crew members to dedicate more time to science and",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/picknik-1.png",
+          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -50,13 +174,13 @@
       ]
     },
     {
-      "id": "https://bostondynamics.com/blog/large-behavior-models-atlas-find-new-footing/",
-      "url": "https://bostondynamics.com/blog/large-behavior-models-atlas-find-new-footing/",
-      "title": "Large Behavior Models and Atlas Find New Footing | Boston Dynamics",
-      "content_text": "Useful humanoid robots will require a long list of competencies. They will need the ability to manipulate a diverse range of objects (e.g. hard/soft, heavy/delicate, rigid/articulated, large/small), as well as to coordinate their entire bodies to reconfigure themselves, their environments, avoid obstacles, and maintain balance while responding to surprises. We believe that building AI generalist […]",
+      "id": "https://bostondynamics.com/blog/training-a-humanoid-robot-for-hard-work/",
+      "url": "https://bostondynamics.com/blog/training-a-humanoid-robot-for-hard-work/",
+      "title": "Training a Humanoid Robot for Hard Work | Boston Dynamics",
+      "content_text": "Using AI-driven behaviors, Boston Dynamics’ Atlas robot coordinates its whole body to execute complex tasks with accuracy and reliability.",
       "attachments": [
         {
-          "url": "https://bostondynamics.com/wp-content/uploads/2025/08/atlas-tri-blog.jpg",
+          "url": "https://bostondynamics.com/wp-content/uploads/2026/05/training-fridge-tech-blog.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -65,13 +189,13 @@
       ]
     },
     {
-      "id": "https://bostondynamics.com/blog/boston-dynamics-awarded-contract-to-supply-spot-to-the-dutch-ministry-of-defence/",
-      "url": "https://bostondynamics.com/blog/boston-dynamics-awarded-contract-to-supply-spot-to-the-dutch-ministry-of-defence/",
-      "title": "Boston Dynamics Awarded Contract withthe Dutch Ministry of Defence | Boston Dynamics",
-      "content_text": "Boston Dynamics is proud to announce it has been awarded a multi-year contract by the Ministry of Defence for Spot for use by the Explosive Ordnance Disposal Teams.",
+      "id": "https://bostondynamics.com/blog/deploying-robots-into-and-onto-the-field/",
+      "url": "https://bostondynamics.com/blog/deploying-robots-into-and-onto-the-field/",
+      "title": "Deploying Robots Into (and Onto) the Field | Boston Dynamics",
+      "content_text": "On Sunday July 5th, Atlas®, Boston Dynamics humanoid robot, stepped onto the field during halftime of the FIFA World Cup 2026™ Norway-Brazil round of 16 match at New York New Jersey Stadium. In the first public appearance of our production Atlas—and the first ever robotic halftime activation of the FIFA World Cup™—the robot presented the […]",
       "attachments": [
         {
-          "url": "https://bostondynamics.com/wp-content/uploads/2025/10/dutch-mod-signing.jpg",
+          "url": "https://bostondynamics.com/wp-content/uploads/2026/07/atlas-world-cup-team.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -80,13 +204,13 @@
       ]
     },
     {
-      "id": "https://bostondynamics.com/blog/spot-takes-the-stage/",
-      "url": "https://bostondynamics.com/blog/spot-takes-the-stage/",
-      "title": "Spot Takes the Stage | Boston Dynamics",
-      "content_text": "Learn how engineers program and animate complex dance performances for the agile, mobile Spot on some of the world's biggest stages.",
+      "id": "https://bostondynamics.com/blog/bridging-the-porch-gap/",
+      "url": "https://bostondynamics.com/blog/bridging-the-porch-gap/",
+      "title": "Bridging the ‘Porch Gap’ | Boston Dynamics",
+      "content_text": "Boston Dynamics is testing a last-mile delivery solution with Spot to get packages to the doorstep with less strain and greater efficiency.",
       "attachments": [
         {
-          "url": "https://bostondynamics.com/wp-content/uploads/2025/08/spot-agt-dance-1530.jpg",
+          "url": "https://bostondynamics.com/wp-content/uploads/2026/07/last-mile-delivery-loading.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -95,13 +219,13 @@
       ]
     },
     {
-      "id": "https://bostondynamics.com/blog/3-ways-robots-see-the-world/",
-      "url": "https://bostondynamics.com/blog/3-ways-robots-see-the-world/",
-      "title": "Robot Vision Systems: 3 Ways Robots See the World | Boston Dynamics",
-      "content_text": "Modern robot vision systems use visual cameras, 3D lidar scans, and other sensors to interpret, navigate, and interact with their environment.",
+      "id": "https://bostondynamics.com/blog/securing-the-fifa-world-cup-2026/",
+      "url": "https://bostondynamics.com/blog/securing-the-fifa-world-cup-2026/",
+      "title": "Securing the FIFA World Cup 2026 | Boston Dynamics",
+      "content_text": "At FIFA World Cup 2026™, Boston Dynamics' Spot robots have taken on a new security assignment: helping protect the largest sporting event in the world.",
       "attachments": [
         {
-          "url": "https://bostondynamics.com/wp-content/uploads/2022/04/vision-system-sensors.jpg",
+          "url": "https://bostondynamics.com/wp-content/uploads/2026/07/spot-fife-security.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -110,88 +234,13 @@
       ]
     },
     {
-      "id": "https://bostondynamics.com/blog/life-outside-the-box-for-the-warehouse-worker/",
-      "url": "https://bostondynamics.com/blog/life-outside-the-box-for-the-warehouse-worker/",
-      "title": "Life Outside the Box for the Warehouse Worker | Boston Dynamics",
-      "content_text": "Automated unloading tackles backbreaking labor and brings people out of hot containers in the summer, improving safety and quality of life.",
+      "id": "https://bostondynamics.com/blog/can-football-teach-a-robot-to-move/",
+      "url": "https://bostondynamics.com/blog/can-football-teach-a-robot-to-move/",
+      "title": "Can football teach a robot to move? | Boston Dynamics",
+      "content_text": "Aathletes perform amazing acts of physicality every day and that's the bar for Boston Dynamics Atlas robot. Learn how we train Atlas from human demonstration.",
       "attachments": [
         {
-          "url": "https://bostondynamics.com/wp-content/uploads/2025/07/DSC09621-scaled.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://bostondynamics.com/blog/making-atlas-see-the-world/",
-      "url": "https://bostondynamics.com/blog/making-atlas-see-the-world/",
-      "title": "Making Atlas See the World | Boston Dynamics",
-      "content_text": "The Atlas perception team at Boston Dynamics shares their insights on building agile and adaptable humanoid robotics.",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/uploads/2025/05/atlas-perception-cameras.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://bostondynamics.com/blog/see-your-facility/",
-      "url": "https://bostondynamics.com/blog/see-your-facility/",
-      "title": "See Your Facility Like Never Before | Boston Dynamics",
-      "content_text": "See what's new in the 5.0 release of Spot & Orbit from Boston Dynamics",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/uploads/2025/05/JC026130-Enhanced-NR-6240x4160-c9ca52c.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://bostondynamics.com/blog/understanding-the-data-behind-asset-reliability/",
-      "url": "https://bostondynamics.com/blog/understanding-the-data-behind-asset-reliability/",
-      "title": "The Data Driving Asset Reliability | Boston Dynamics",
-      "content_text": "Explore how automation and real-time data collection are transforming asset reliability, reducing unplanned downtime, and improving operational efficiency",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/uploads/2023/10/asset-reliability-gauges.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://bostondynamics.com/blog/getting-real-with-humanoids/",
-      "url": "https://bostondynamics.com/blog/getting-real-with-humanoids/",
-      "title": "Getting Real with Humanoids | Boston Dynamics",
-      "content_text": "Almost a year ago, we announced our new Atlas® robot—faster, stronger, more compact, and less messy. We’re designing the world’s most dynamic humanoid robot to do anything and everything, maybe even change work as we know it. How do we get there? One step at a time. At Boston Dynamics, we’ve learned a few things […]",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/uploads/2025/03/atlas-sequencing-blog.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://www.anduril.com/newsroom/",
-      "url": "https://www.anduril.com/newsroom/",
-      "title": "Anduril",
-      "content_text": "Transforming US & allied military capabilities with advanced technology.",
-      "attachments": [
-        {
-          "url": "https://www.anduril.com/images/anduril-logo-white-on-black.png",
+          "url": "https://bostondynamics.com/wp-content/uploads/2026/06/Thumbnails_16X9_TRAINING_3.png",
           "mime_type": "image/png"
         }
       ],
@@ -200,17 +249,92 @@
       ]
     },
     {
-      "id": "https://www.figure.ai/news/helix-loads-the-dishwasher",
-      "url": "https://www.figure.ai/news/helix-loads-the-dishwasher",
-      "title": "Helix Loads the Dishwasher",
-      "content_text": "Helix Loads the Dishwasher",
+      "id": "https://bostondynamics.com/blog/ask-a-roboticist-meet-chastity/",
+      "url": "https://bostondynamics.com/blog/ask-a-roboticist-meet-chastity/",
+      "title": "Ask a Roboticist: Meet Chastity | Boston Dynamics",
+      "content_text": "Chastity Kelly, a mechanical design engineer, answers questions about the design of Atlas’ foot, whether robots need shoes, and her path to robotics. Read the interview below and watch a conversation with Chastity on how Atlas strides through the world. Working at Boston Dynamics What is your role at Boston Dynamics?I’m a mechanical design engineer […]",
       "attachments": [
         {
-          "url": "https://images.ctfassets.net/qx5k8y1u9drj/2wRk1FxvA5mPvUStmShycO/ce2db2efd18b9e90005dc8b7684cd936/DISHES_1200x630__1.jpg",
+          "url": "https://bostondynamics.com/wp-content/uploads/2026/06/chastity-kelly.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://bostondynamics.com/blog/ask-a-roboticist-meet-ethan/",
+      "url": "https://bostondynamics.com/blog/ask-a-roboticist-meet-ethan/",
+      "title": "Ask a Roboticist: Meet Ethan | Boston Dynamics",
+      "content_text": "Ethan Lauer, a software engineer at Boston Dynamics, answers questions about robot perception, world modeling, and what spooks Stretch.",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/uploads/2026/04/ethan.lauer_.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/",
+      "url": "https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/",
+      "title": "Tools for Your To Do List with Spot and Gemini Robotics | Boston Dynamics",
+      "content_text": "A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/uploads/2026/03/spot-to-do-list.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://bostondynamics.com/blog/aivi-learning-now-powered-google-gemini-robotics/",
+      "url": "https://bostondynamics.com/blog/aivi-learning-now-powered-google-gemini-robotics/",
+      "title": "AIVI-Learning Is Now Powered by Google Gemini Robotics | Boston Dynamics",
+      "content_text": "We have partnered with Google Cloud and Google DeepMind to integrate Gemini and Gemini Robotics ER 1.6 into Orbit AIVI-Learning.",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/uploads/2026/04/aivi-5sboard.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://bostondynamics.com/blog/scaling-new-career-heights-with-stretch/",
+      "url": "https://bostondynamics.com/blog/scaling-new-career-heights-with-stretch/",
+      "title": "Scaling New Career Heights with Stretch | Boston Dynamics",
+      "content_text": "Boston Dynamics' employee spotlight series shares the journeys of our team members: featuring Dayme Delgado, a Field Applications Engineer.",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/uploads/2026/03/dayme-delgado-employee-spotlight.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.figure.ai/news/helix-02",
+      "url": "https://www.figure.ai/news/helix-02",
+      "title": "Introducing Helix 02: Full-Body Autonomy",
+      "content_text": "Introducing Helix 02: Full-Body Autonomy",
+      "attachments": [
+        {
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/7qpJLAT9FKWaptebSQgA0Y/4e2bdb81cbecddfd7cbea49f8ab143ac/Open_Graph_Image__4_.jpg",
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/44vnbEhANLcpntMoHQDP3a/e7e8d3a6f25137eb88ac58a0d72a57d1/Video_Cover_-_Mobile_934_x_1434px_.mp4",
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/1skqcmfKHiQiJ4k3tfCoQu/55091d58d5ede4f1827aa63370e0d09a/Video_Cover_-_Mobile_Helix.mp4",
           "mime_type": "video/mp4"
         }
       ],
@@ -219,17 +343,17 @@
       ]
     },
     {
-      "id": "https://www.figure.ai/news/scaling-helix-logistics",
-      "url": "https://www.figure.ai/news/scaling-helix-logistics",
-      "title": "Scaling Helix: a New State of the Art in Humanoid Logistics",
-      "content_text": "Scaling Helix: a New State of the Art in Humanoid Logistics",
+      "id": "https://www.figure.ai/news/introducing-figure-03",
+      "url": "https://www.figure.ai/news/introducing-figure-03",
+      "title": "Introducing Figure 03",
+      "content_text": "Introducing Figure 03",
       "attachments": [
         {
-          "url": "https://images.ctfassets.net/qx5k8y1u9drj/54nYwolcdAQ8z67JvXuo48/3642c3c4def2e21de60a4c683fb40775/OPEN_GRAPH_IMAGE__1_.jpg",
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/2z6qCDWh945rVDLS2cRRfk/60ed52a56bf8f72a0d43e161aaf23a04/Launch_-_Open_Graph_Image.jpg",
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/sS8EiNPG9h2gPtTpanjKk/bff5eb609aeebe6c385c931cb5395002/VIDEO_COVER_MOBILE.mp4",
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/7GNeZRZV6yeaNwLCXGkqpp/741bec7eaa523a53739cb3f62da3a9ac/Video_Cover_-_Mobile__2_.mp4",
           "mime_type": "video/mp4"
         }
       ],
@@ -238,17 +362,17 @@
       ]
     },
     {
-      "id": "https://www.figure.ai/news/botq",
-      "url": "https://www.figure.ai/news/botq",
-      "title": "BotQ: A High-Volume Manufacturing Facility for Humanoid Robots",
-      "content_text": "Introducing BotQ, Figure’s new high-volume manufacturing facility for humanoid robots.",
+      "id": "https://www.figure.ai/news/ramping-figure-03-production",
+      "url": "https://www.figure.ai/news/ramping-figure-03-production",
+      "title": "Ramping Figure 03 Production",
+      "content_text": "Figure has cleared the gap from prototype to scalable fleet with BotQ, our high-volume manufacturing facility.",
       "attachments": [
         {
-          "url": "https://images.ctfassets.net/qx5k8y1u9drj/8vwfX4g74TIKRyadRPuCX/eeca11446869aed120bf553664fc813d/Open_Graph_Image.jpg",
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/2mtuWCRJqrKBUajwFIUBj5/ebd7becf3859f6712a6d7e6fbedea1bc/BotQ_Ramping_F03_Prod_Open_Graph.jpg",
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/1YIcaNVYQHJiikmAtwTX5V/e65166e0bfcb21031c4c99e30f9bd5ac/Video_Cover_-_Mobile.mp4",
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/3agvhJX3Nk9T89X0zpPpZn/56c942e788323f79514be50d31ff2d75/Ramping_Video_Cover_-_Mobile.mp4",
           "mime_type": "video/mp4"
         }
       ],
@@ -257,17 +381,17 @@
       ]
     },
     {
-      "id": "https://www.figure.ai/news/project-go-big",
-      "url": "https://www.figure.ai/news/project-go-big",
-      "title": "Project Go-Big: Internet-Scale Humanoid Pretraining and Direct Human-to-Robot Transfer",
-      "content_text": "Project Go-Big: Internet-Scale Humanoid Pretraining and Direct Human-to-Robot Transfer",
+      "id": "https://www.figure.ai/news/notice-regarding-unauthorized-attempts-to-sell-figure-stock",
+      "url": "https://www.figure.ai/news/notice-regarding-unauthorized-attempts-to-sell-figure-stock",
+      "title": "Notice Regarding Unauthorized Attempts to Sell Figure Stock",
+      "content_text": "Notice Regarding Unauthorized Attempts to Sell Figure Stock",
       "attachments": [
         {
-          "url": "https://images.ctfassets.net/qx5k8y1u9drj/7p8BmuMQwpfQ0O9aHdhlzP/52f749276d2c74e9e7390962bad17253/Open_Graph_1.jpg",
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/5bGyLarlFzZmQBNDjRDgO5/7095f5814241f62d6894af9c601cfc11/Open_Graph_Image.jpg",
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/4qZ4UtLo7Q3CuEAo38J3SY/a645cf1b7ce75cd65615b801678148a9/Video_Cover_-_Mobile_01.mp4",
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/2X8QXTtf2TKK1fu3ycO6Y8/17a3a1f9e5f3ad49922c2fa79cae3ac3/Video_Cover_-_Mobile.mp4",
           "mime_type": "video/mp4"
         }
       ],
@@ -276,17 +400,17 @@
       ]
     },
     {
-      "id": "https://www.figure.ai/news/figure-announces-strategic-partnership-with-brookfield",
-      "url": "https://www.figure.ai/news/figure-announces-strategic-partnership-with-brookfield",
-      "title": "Figure Announces Strategic Partnership with Brookfield",
-      "content_text": "Figure Announces Strategic Partnership with Brookfield",
+      "id": "https://www.figure.ai/news/f-03-at-bmw",
+      "url": "https://www.figure.ai/news/f-03-at-bmw",
+      "title": "F.03 Arrives at BMW",
+      "content_text": "F03 at BMW",
       "attachments": [
         {
-          "url": "https://images.ctfassets.net/qx5k8y1u9drj/2NZHe54DbeILkjFYVfAYqb/0afbcdf9671c45a152c82c8d40124f7d/BROOKFIELD_OPEN_GRAPH_IMAGE.jpg",
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/1700HRpa34nLxPVDTY2371/5f6ce20d5d5b501c3f61179925d8efbd/Open_Graph_BMW.jpg",
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/3qehO6MwLhIjNWgr47NqsD/c3feecec797575f83942435c0a945a75/Brookfield_VIDEO_COVER_MOBILE.mp4",
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/6OuXAC8fRrofgr33IrnLse/35a41527b205e5265de070c4ad024249/Video_Cover_Mobile.mp4",
           "mime_type": "video/mp4"
         }
       ],
@@ -295,17 +419,17 @@
       ]
     },
     {
-      "id": "https://www.figure.ai/news/series-c",
-      "url": "https://www.figure.ai/news/series-c",
-      "title": "Figure Exceeds $1B in Series C Funding at $39B Post-Money Valuation",
-      "content_text": "Figure Exceeds $1B in Series C Funding at $39B Post-Money Valuation",
+      "id": "https://www.figure.ai/news/figure-signs-agreement-with-catalyst-brands",
+      "url": "https://www.figure.ai/news/figure-signs-agreement-with-catalyst-brands",
+      "title": "Figure Signs Agreement with Catalyst Brands to Scale Humanoid Operations",
+      "content_text": "Today we are announcing a commercial agreement with Catalyst Brands to deploy Figure humanoids into their distribution and logistics network.",
       "attachments": [
         {
-          "url": "https://images.ctfassets.net/qx5k8y1u9drj/2uhpHCaRAaKhZHToZMGYG/3a673f8cccb78ac8675968d8e6c3da65/Open_Graph_image__3_.jpg",
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/5Q3lhuJO5kDnbD3PG1WA6v/6b80ee311113bbd7a55a289c02103771/Open_Graph_Image_Catalyst.jpg",
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/72AaYjGofNKS4yhSkSzMRQ/0daaa5430cc21b9bc139a860345ccf5e/vidoe_cover_mobile_V2.mp4",
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/2llTTzaAEzh81GNsoi5sTj/cc76e4d03e324dbc3363eb156226d747/Video_Cover_-_Mobile_Catalys.mp4",
           "mime_type": "video/mp4"
         }
       ],
@@ -314,17 +438,17 @@
       ]
     },
     {
-      "id": "https://www.figure.ai/news/helix-learns-to-fold-laundry",
-      "url": "https://www.figure.ai/news/helix-learns-to-fold-laundry",
-      "title": "Helix Learns to Fold Laundry",
-      "content_text": "Helix Learns to Fold Laundry",
+      "id": "https://www.figure.ai/news/helix-02-bedroom-tidy",
+      "url": "https://www.figure.ai/news/helix-02-bedroom-tidy",
+      "title": "Helix 02 Bedroom Tidy",
+      "content_text": "Two Helix 02-equipped humanoids reset a bedroom in under two minutes, opening doors, hanging clothes, putting away headphones, closing a book, taking out trash, pushing a chair under a desk, and working together to make a bed.",
       "attachments": [
         {
-          "url": "https://images.ctfassets.net/qx5k8y1u9drj/2VxPzhq7dxDzEseyMqZFmF/a73064bbe899f6c614dd4ca27acebc40/Laundry_Open_Graph_Image.jpg",
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/2VXRGwCNqarI0PwDCxgY4Y/9c51567997eff0872492d200f3751fa8/BEDROOM_TIDY_OPEN_GRAPH_IMAGE.jpg",
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/4k5kS2gknNxU59RlakrOem/a92eb8e9f9cb1bd4e269fff95e28d216/Video_Cover_-_Mobile_934x1434.mp4",
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/5LT6CAPrIhLfX4qsPacJNi/5d3cdc6816fbb53304c0c5f449491529/BEDROOM_TIDY_VIDEO_COVER_MOBILE_934_X_1434_.mp4",
           "mime_type": "video/mp4"
         }
       ],
@@ -333,17 +457,17 @@
       ]
     },
     {
-      "id": "https://www.figure.ai/news/f-03-battery-development",
-      "url": "https://www.figure.ai/news/f-03-battery-development",
-      "title": "F.03 Battery Development",
-      "content_text": "F.03 Battery Development",
+      "id": "https://www.figure.ai/news/helix-02-living-room-tidy",
+      "url": "https://www.figure.ai/news/helix-02-living-room-tidy",
+      "title": "Helix 02 Living Room Tidy",
+      "content_text": "Helix 02 Living Room Tidy",
       "attachments": [
         {
-          "url": "https://images.ctfassets.net/qx5k8y1u9drj/1G5l3Bq2481A51kixdiJDN/ca0dd4e964b91032c85105c8846d0158/1200x630__1_.jpg",
+          "url": "https://images.ctfassets.net/qx5k8y1u9drj/1gK4iFf1m0fhYMuQ2j2t6K/f5c8c97eae2e293db6fdd9f696d9691b/OPEN_GRAPH_IMAGE.jpg",
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/VBHSFh040nu5QhPfnJjmj/5bcbb27856a4370cc185a1eda14627cb/934x1434.mp4",
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/2RFc80VM3tiEuhpKcBOijd/e55cfdbdfabccda11e47846c8d2e1642/Tidy_Vertical_3826B.mp4",
           "mime_type": "video/mp4"
         }
       ],
@@ -362,7 +486,7 @@
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/35FiJ5CUehHheBZvM5iQTT/7ecb4c5803e1e06c292d6e6126ec53f8/Thumbnail_1024_x_820.mp4",
+          "url": "https://videos.ctfassets.net/qx5k8y1u9drj/2IRk51tWw1vBqZ1bYfca14/d34c4c29fa4c18bf110dc0df20adcd96/Thumbnail_Video_Helix.mp4",
           "mime_type": "video/mp4"
         }
       ],
@@ -371,19 +495,10 @@
       ]
     },
     {
-      "id": "https://www.agilityrobotics.com/about/press",
-      "url": "https://www.agilityrobotics.com/about/press",
-      "title": "Agility Robotics - News & Media",
-      "content_text": "Improved Navigation on the Job",
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
       "id": "https://milremrobotics.com/news/",
       "url": "https://milremrobotics.com/news/",
       "title": "News - Milrem",
-      "content_text": "06/10/2025",
+      "content_text": "02/07/2026",
       "attachments": [
         {
           "url": "https://milremrobotics.com/wp-content/uploads/2025/01/milrem-og-image.jpg",
@@ -397,8 +512,8 @@
     {
       "id": "https://milremrobotics.com/news/page/2/",
       "url": "https://milremrobotics.com/news/page/2/",
-      "title": "News - Page 2 of 20 - Milrem",
-      "content_text": "08/05/2025",
+      "title": "News - Page 2 of 21 - Milrem",
+      "content_text": "20/11/2025",
       "attachments": [
         {
           "url": "https://milremrobotics.com/wp-content/uploads/2025/01/milrem-og-image.jpg",
@@ -412,8 +527,8 @@
     {
       "id": "https://milremrobotics.com/news/page/3/",
       "url": "https://milremrobotics.com/news/page/3/",
-      "title": "News - Page 3 of 20 - Milrem",
-      "content_text": "17/02/2025",
+      "title": "News - Page 3 of 21 - Milrem",
+      "content_text": "03/09/2025",
       "attachments": [
         {
           "url": "https://milremrobotics.com/wp-content/uploads/2025/01/milrem-og-image.jpg",
@@ -425,10 +540,10 @@
       ]
     },
     {
-      "id": "https://milremrobotics.com/news/page/20/",
-      "url": "https://milremrobotics.com/news/page/20/",
-      "title": "News - Page 20 of 20 - Milrem",
-      "content_text": "23/03/2017",
+      "id": "https://milremrobotics.com/news/page/21/",
+      "url": "https://milremrobotics.com/news/page/21/",
+      "title": "News - Page 21 of 21 - Milrem",
+      "content_text": "05/09/2017",
       "attachments": [
         {
           "url": "https://milremrobotics.com/wp-content/uploads/2025/01/milrem-og-image.jpg",
@@ -449,9 +564,18 @@
       ]
     },
     {
-      "id": "https://www.unitree.com/news/31",
-      "url": "https://www.unitree.com/news/31",
-      "title": "https://www.unitree.com/news/31",
+      "id": "https://www.unitree.com/news/38",
+      "url": "https://www.unitree.com/news/38",
+      "title": "https://www.unitree.com/news/38",
+      "content_text": "Robots",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.unitree.com/news/40",
+      "url": "https://www.unitree.com/news/40",
+      "title": "https://www.unitree.com/news/40",
       "content_text": "Robots",
       "tags": [
         "robotics"
@@ -461,6 +585,15 @@
       "id": "https://www.unitree.com/news/33",
       "url": "https://www.unitree.com/news/33",
       "title": "https://www.unitree.com/news/33",
+      "content_text": "Robots",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.unitree.com/news/31",
+      "url": "https://www.unitree.com/news/31",
+      "title": "https://www.unitree.com/news/31",
       "content_text": "Robots",
       "tags": [
         "robotics"
@@ -516,6 +649,165 @@
       "url": "https://www.unitree.com/news",
       "title": "News Center - Unitree Robotics",
       "content_text": "Robots",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/",
+      "url": "https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/",
+      "title": "NASA Identifies More Than 40 Space Technologies for Collaboration - NASA",
+      "content_text": "NASA selected 41 proposals from 37 companies to advance technologies in support of the agency’s goals to establish a long-term presence on the Moon and enable",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.unitree.com/cn/news/34",
+      "url": "https://www.unitree.com/cn/news/34",
+      "title": "https://www.unitree.com/cn/news/34",
+      "content_text": "机器人",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.unitree.com/cn/news/30",
+      "url": "https://www.unitree.com/cn/news/30",
+      "title": "https://www.unitree.com/cn/news/30",
+      "content_text": "机器人",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.ri.cmu.edu/news/",
+      "url": "https://www.ri.cmu.edu/news/",
+      "title": "News - Robotics Institute Carnegie Mellon University",
+      "content_text": "Cool stories about the Robotics Institute at CMU from all over the web.",
+      "attachments": [
+        {
+          "url": "https://www.ri.cmu.edu/app/uploads/2024/06/cmu-robotics-news.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.ubtrobot.com/en/about/news/498762019606597",
+      "url": "https://www.ubtrobot.com/en/about/news/498762019606597",
+      "title": "As Walker S Strikes the Gong, UBTECH Robotics Becomes the First Humanoid Robot  Company Listed on the Main Board of the HKEX | UBTECH Robotics",
+      "content_text": "UBTECH",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/Vision2035_en.pdf",
+      "url": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/Vision2035_en.pdf",
+      "title": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/Vision2035_en.pdf",
+      "content_text": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/Vision2035_en.pdf",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/Dash35_en.pdf",
+      "url": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/Dash35_en.pdf",
+      "title": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/Dash35_en.pdf",
+      "content_text": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/Dash35_en.pdf",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.yaskawa-global.com/category/news/feed/?post_type=post",
+      "url": "https://www.yaskawa-global.com/category/news/feed/?post_type=post",
+      "title": "Yaskawa Global SiteNews – Yaskawa Global Site",
+      "content_text": "Yaskawa Global SiteNews – Yaskawa Global Site",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.yaskawa-global.com/category/news/",
+      "url": "https://www.yaskawa-global.com/category/news/",
+      "title": "News | News | Yaskawa Global Site",
+      "content_text": "Global",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.yaskawa-global.com/newsrelease/news/179679",
+      "url": "https://www.yaskawa-global.com/newsrelease/news/179679",
+      "title": "MOTOMAN NEXT AI Robot’s Agentic Robot System Powered by Gemini Robotics | Category: News | Yaskawa Global Site",
+      "content_text": "Global",
+      "attachments": [
+        {
+          "url": "https://www.youtube.com/embed/UfB9lVh-1iU",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.yaskawa-global.com/newsrelease/news/179651",
+      "url": "https://www.yaskawa-global.com/newsrelease/news/179651",
+      "title": "Yaskawa Electric and SoftBank Corp. Validate  a Physical AI-Based Deformable Object Manipulation System | Category: News | Yaskawa Global Site",
+      "content_text": "Global",
+      "attachments": [
+        {
+          "url": "https://www.youtube.com/embed/NFWMibbtJn0",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.yaskawa-global.com/newsrelease/news/179633",
+      "url": "https://www.yaskawa-global.com/newsrelease/news/179633",
+      "title": "Establishment of European Robotics Distribution Center (ERDC) and Relocation and Expansion of YASKAWA Ristro d.o.o. | Category: News | Yaskawa Global Site",
+      "content_text": "Global",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/20260522_en.pdf",
+      "url": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/20260522_en.pdf",
+      "title": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/20260522_en.pdf",
+      "content_text": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/20260522_en.pdf",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.yaskawa-global.com/wp-content/uploads/2026/04/20260417_en.pdf",
+      "url": "https://www.yaskawa-global.com/wp-content/uploads/2026/04/20260417_en.pdf",
+      "title": "https://www.yaskawa-global.com/wp-content/uploads/2026/04/20260417_en.pdf",
+      "content_text": "7�f�}߭U`xY��j�׍�V�h�2\n! C0ʌ�~g�4��VU��Gݞ�?�Oʊ+H��}㧿�损��yE;�H~��� �4�P�ĵ��X����.��[YOM��� tĔϓ�d���1�������¾���y�y�/�_-\\.Ϊ֘m;���v���q+ʆ\\�X�x5Q)�wϳ.�}�y��Z�Ri��߽üǺ��#����}�<�\tO�g�A���9�˄���$٤/�����YV���[6�1��S��\"w�a>/����;smm�\\���B���ߟ`�����g�h,��^�T�d�6[Q�iZ�x��T�T��y\n��1���vK�A̫[�{�T�@F%5���H&�b?��;a��hV%�9֩�;;U�W�ڋ6w�hC�/Zl���J�)���Ҷ��3��j�b齎�@�I>�;1\t��).�ࣆ,�f��6ֆ��[�ЛS���\"A\t���w֤�ү�%ށ�t�*�\"0Û�v�4�O��\",���*��Zt,<�_���>����}�J�\\O�;�D�\t\\Oc���e͐�$����\n�����������qƘ:�ÓM���P������9�i�GFp1�Q���z��e�hE��Ŷ�:e���f����=XĶ�����IЬch�5��Q5�>3�V�5���*�\t��Ó\\EU8�\\��(�]c�\n��Ǝ�����+x�>_�c�c��S/�=��+<��Z|5g�繊��L̓`���'&�������Tʌ��hwW�h/��D7�V�5-�J/��>�t�8'�W���J-���Fd6V��9�G��=K��؅P���f07a�yRk����7M��우�Dl�vY��.�f��d8j��X07��X�u�/\\;����J���Gfe������g�;����|b��lذV��!$'F�?���A�bn��WY)���mw]�ts�Fi��! Y¼���",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.yaskawa-global.com/newsrelease/news/179056",
+      "url": "https://www.yaskawa-global.com/newsrelease/news/179056",
+      "title": "Announcement on Changes in Directors and Personnel Changes | Category: News | Yaskawa Global Site",
+      "content_text": "Global",
       "tags": [
         "robotics"
       ]

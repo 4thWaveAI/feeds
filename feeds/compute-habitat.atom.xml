@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>4thWave AI — Compute Habitat (Aggregated)</title>
+  <link href="https://www.4thwaveai.com"/>
+  <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/compute-habitat.atom.xml"/>
+  <id>urn:4thwaveai-feeds:compute-habitat</id>
+  <updated>Mon, 20 Jul 2026 03:56:36 +0000</updated>
+  <entry>
+    <title>Submer Group and Netceed partner to expand AI infrastructure across EMEA</title>
+    <link href="https://submer.com/blog/press/netceed-ai-infrastructure-emea/"/>
+    <id>https://submer.com/blog/press/netceed-ai-infrastructure-emea/</id>
+    <summary type="text">Submer Group partners with Netceed to expand AI infrastructure capabilities across EMEA and support telecom and data center customers.</summary>
+    <updated>Thu, 16 Jul 2026 09:22:36 +0000</updated>
+  </entry>
+  <entry>
+    <title>Advances in fine-tuning reduce total volume of AI training - Uptime Institute Blog</title>
+    <link href="https://journal.uptimeinstitute.com/advances-in-fine-tuning-reduce-total-volume-of-ai-training/"/>
+    <id>https://journal.uptimeinstitute.com/advances-in-fine-tuning-reduce-total-volume-of-ai-training/</id>
+    <summary type="text">In the early days of generative AI, much attention was focused on the process of training new models from zero. As the technology matures, organizations are increasingly looking for ways to adapt existing large language models (LLMs) to their specific requirements. Customizing existing models avoids the need to source training data, employ machine learning experts […]</summary>
+    <updated>Wed, 15 Jul 2026 22:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Submer Group announces €1B AI data center in Flix | Submer</title>
+    <link href="https://submer.com/blog/press/invest-more-than-1-billion-in-an-ai-data-center-in-flix/"/>
+    <id>https://submer.com/blog/press/invest-more-than-1-billion-in-an-ai-data-center-in-flix/</id>
+    <summary type="text">Submer Group will invest more than €1 billion to develop a sustainable AI data center in Flix, Catalonia, creating jobs and supporting AI infrastructure.</summary>
+    <updated>Sat, 11 Jul 2026 11:27:51 +0000</updated>
+  </entry>
+  <entry>
+    <title>Investments back two-phase cooling as water cold plate successor - Uptime Institute Blog</title>
+    <link href="https://journal.uptimeinstitute.com/investments-back-two-phase-cooling-as-water-cold-plate-successor/"/>
+    <id>https://journal.uptimeinstitute.com/investments-back-two-phase-cooling-as-water-cold-plate-successor/</id>
+    <summary type="text">Direct liquid cooling (DLC) has attracted significant investment over the past two years, driven largely by the massive buildout of dense AI training clusters. In the coming years, major AI hardware manufacturers are planning ever-higher computing density, with a corresponding sharp increase in rack power — soon to surpass 200 kW. Not long ago, the […]</summary>
+    <updated>Wed, 01 Jul 2026 22:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Time to Token: the new KPI that will define AI datacenters | TTT</title>
+    <link href="https://submer.com/blog/time-to-token-the-kpi-that-will-define-ai-data-centers/"/>
+    <id>https://submer.com/blog/time-to-token-the-kpi-that-will-define-ai-data-centers/</id>
+    <summary type="text">Time to Token is emerging as a critical KPI for AI infrastructure deployment. Learn how modular design, liquid cooling, and full-stack delivery accelerate AI readiness.</summary>
+    <updated>Wed, 24 Jun 2026 08:51:48 +0000</updated>
+  </entry>
+  <entry>
+    <title>US data center critics pivot from moratoria to regulations - Uptime Institute Blog</title>
+    <link href="https://journal.uptimeinstitute.com/us-data-center-critics-pivot-from-moratoria-to-regulations/"/>
+    <id>https://journal.uptimeinstitute.com/us-data-center-critics-pivot-from-moratoria-to-regulations/</id>
+    <summary type="text">In April 2026, the US state of Maine’s governor vetoed a state-level data center moratorium bill, the latest in a series of similar regulatory actions across the US. Moratorium bills aim to pause data center construction long enough for local governments to establish regulations — or impose an outright ban — but most have failed […]</summary>
+    <updated>Wed, 17 Jun 2026 22:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Enterprises will deploy inference in-house — if they can - Uptime Institute Blog</title>
+    <link href="https://journal.uptimeinstitute.com/enterprises-will-deploy-inference-in-house-if-they-can/"/>
+    <id>https://journal.uptimeinstitute.com/enterprises-will-deploy-inference-in-house-if-they-can/</id>
+    <summary type="text">The development of large language models (LLMs) is a complex process, requiring specialized infrastructure and skills, as well as the ability to differentiate the result — since there is little value in replicating the work done by others. It is becoming clear that few organizations will choose to train their own LLMs, opting instead to […]</summary>
+    <updated>Wed, 03 Jun 2026 19:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Capacity allocation and the next generation of AI-era KPIs - Uptime Institute Blog</title>
+    <link href="https://journal.uptimeinstitute.com/capacity-allocation-and-the-next-generation-of-ai-era-kpis/"/>
+    <id>https://journal.uptimeinstitute.com/capacity-allocation-and-the-next-generation-of-ai-era-kpis/</id>
+    <summary type="text">AI workloads are reshaping data center infrastructure at an unprecedented scale. Rack densities exceeding 50 kW are becoming increasingly common. AI training clusters often operate near their peak power envelope for extended periods, placing sustained demand on facility infrastructure. At the same time, AI inference workloads exhibit different characteristics, often behaving more like traditional compute […]</summary>
+    <updated>Wed, 20 May 2026 22:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Project approval will hinge on local benefit guarantees - Uptime Institute Blog</title>
+    <link href="https://journal.uptimeinstitute.com/project-approval-will-hinge-on-local-benefit-guarantees/"/>
+    <id>https://journal.uptimeinstitute.com/project-approval-will-hinge-on-local-benefit-guarantees/</id>
+    <summary type="text">In January 2026, more than 230 US-based advocacy groups signed a letter urging the US Congress to impose a complete moratorium on data center construction, pending tight regulations. This coordinated effort bears little resemblance to the data center resistance of the past. Opposition to data centers is scaling from local disputes into a national movement […]</summary>
+    <updated>Wed, 29 Apr 2026 22:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Liquid cooling will not outgrow its high-density niche - Uptime Institute Blog</title>
+    <link href="https://journal.uptimeinstitute.com/liquid-cooling-will-not-outgrow-its-high-density-niche/"/>
+    <id>https://journal.uptimeinstitute.com/liquid-cooling-will-not-outgrow-its-high-density-niche/</id>
+    <summary type="text">Deployment of direct liquid cooling (DLC, as cold plate or immersion systems) remains overwhelmingly concentrated in applications where air cooling is no longer a practical alternative. As a wave of AI infrastructure was being built, DLC manufacturers invested their engineering resources in maximizing cooling performance for high-performance IT — namely AI training hardware. By comparison, […]</summary>
+    <updated>Wed, 15 Apr 2026 22:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>AI Infrastructure efficiency: maximizing intelligence per watt</title>
+    <link href="https://submer.com/blog/ai-infrastructure-efficiency-intelligence-per-watt/"/>
+    <id>https://submer.com/blog/ai-infrastructure-efficiency-intelligence-per-watt/</id>
+    <summary type="text">AI is no longer limited by compute, but by efficiency. Learn how intelligence per watt is reshaping AI infrastructure and datacenter design.</summary>
+    <updated>Mon, 30 Mar 2026 14:43:38 +0000</updated>
+  </entry>
+  <entry>
+    <title>Submer at OCP EMEA 2026: AI infrastructure innovations | Submer</title>
+    <link href="https://submer.com/blog/events/ocp-emea-2026-ai-infrastructure-innovations/"/>
+    <id>https://submer.com/blog/events/ocp-emea-2026-ai-infrastructure-innovations/</id>
+    <summary type="text">Discover Submer’s AI inference reference design at OCP EMEA 2026—high-density, efficient infrastructure built for scalable AI deployment.</summary>
+    <updated>Thu, 26 Mar 2026 11:03:18 +0000</updated>
+  </entry>
+  <entry>
+    <title>As emissions soar, operators look to carbon capture - Uptime Institute Blog</title>
+    <link href="https://journal.uptimeinstitute.com/as-emissions-soar-operators-look-to-carbon-capture/"/>
+    <id>https://journal.uptimeinstitute.com/as-emissions-soar-operators-look-to-carbon-capture/</id>
+    <summary type="text">During 2024 and 2025, a new trend emerged: many large data center builders and operators reported increases in their Scope 2, location- and market-based greenhouse gas (GHG) emissions inventories, reversing their efforts toward net-zero commitments. While this shift does not indicate a loss of commitment to those goals, it is an inevitable result of the […]</summary>
+    <updated>Wed, 25 Mar 2026 22:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Why full-stack AI infrastructure matters | Full-stack AI Infrastructure</title>
+    <link href="https://submer.com/blog/why-full-stack-ai-infrastructure-matters/"/>
+    <id>https://submer.com/blog/why-full-stack-ai-infrastructure-matters/</id>
+    <summary type="text">Full-stack AI infrastructure enables faster deployment, scalability, and data sovereignty. Discover why it’s critical for modern AI workloads.</summary>
+    <updated>Wed, 25 Mar 2026 10:04:43 +0000</updated>
+  </entry>
+  <entry>
+    <title>Rapid Edge AI Infrastructure: A Game-Changing Inflection Point | Submer &amp; ZEDEDA</title>
+    <link href="https://submer.com/blog/rapid-edge-ai-infrastructure-with-zededa/"/>
+    <id>https://submer.com/blog/rapid-edge-ai-infrastructure-with-zededa/</id>
+    <summary type="text">Discover how Submer and ZEDEDA deliver rapid edge AI infrastructure for real-time inference anywhere with modular, high-density GPU systems.</summary>
+    <updated>Wed, 18 Mar 2026 09:41:44 +0000</updated>
+  </entry>
+  <entry>
+    <title>ZEDEDA and Submer partner to deliver rapid field-deployable integrated Edge AI infrastructure anywhere - Submer Group</title>
+    <link href="https://submer.com/blog/press/partnering-with-zededa-to-deliver-rapid-field-deployable-integrated-edge-ai-infrastructure-anywhere/"/>
+    <id>https://submer.com/blog/press/partnering-with-zededa-to-deliver-rapid-field-deployable-integrated-edge-ai-infrastructure-anywhere/</id>
+    <summary type="text">Submer is announcing the appointment of Anupam Shrivastava as a Principal Advisor for Government &amp; Green AI Initiatives in India.</summary>
+    <updated>Tue, 17 Mar 2026 12:23:02 +0000</updated>
+  </entry>
+  <entry>
+    <title>Submer appoints former BSNL Chairman Anupam Shrivastava as Principal Advisor on Government &amp; Green AI Initiatives in India - Submer Group</title>
+    <link href="https://submer.com/blog/press/former-bsnl-chairman-anupam-shrivastava-as-principal-advisor-on-government-green-ai-initiatives-in-india/"/>
+    <id>https://submer.com/blog/press/former-bsnl-chairman-anupam-shrivastava-as-principal-advisor-on-government-green-ai-initiatives-in-india/</id>
+    <summary type="text">Submer is announcing the appointment of Anupam Shrivastava as a Principal Advisor for Government &amp; Green AI Initiatives in India.</summary>
+    <updated>Thu, 12 Mar 2026 09:02:54 +0000</updated>
+  </entry>
+  <entry>
+    <title>AI on the edge: why core-to-edge infrastructure matters | Submer</title>
+    <link href="https://submer.com/blog/ai-on-the-edge/"/>
+    <id>https://submer.com/blog/ai-on-the-edge/</id>
+    <summary type="text">Edge AI infrastructure powers real-time applications, sovereign AI, and new telecom revenue models through distributed computing.</summary>
+    <updated>Fri, 06 Mar 2026 09:20:52 +0000</updated>
+  </entry>
+  <entry>
+    <title>AI in data: sorting reality from hallucination - Uptime Institute Blog</title>
+    <link href="https://journal.uptimeinstitute.com/ai-in-data-sorting-reality-from-hallucination/"/>
+    <id>https://journal.uptimeinstitute.com/ai-in-data-sorting-reality-from-hallucination/</id>
+    <summary type="text">Many people do not use the term artificial intelligence correctly: vendors, investors, and even some operators label everything from basic automation scripts to deep learning controllers as AI. This inflation of the term has commercial and strategic motives. AI branding helps attract funding, creates differentiation in the market, and positions traditional analytics as cutting-edge solutions. […]</summary>
+    <updated>Fri, 20 Feb 2026 23:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>AI and cooling: toward more automation - Uptime Institute Blog</title>
+    <link href="https://journal.uptimeinstitute.com/ai-and-cooling-toward-more-automation/"/>
+    <id>https://journal.uptimeinstitute.com/ai-and-cooling-toward-more-automation/</id>
+    <summary type="text">AI is increasingly steering the data center industry toward new operational practices, where automation, analytics and adaptive control are paving the way for “dark” — or lights-out, unstaffed — facilities. Cooling systems, in particular, are leading this shift. Yet despite AI’s positive track record in facility operations, one persistent challenge remains: trust. In some ways, […]</summary>
+    <updated>Thu, 29 Jan 2026 23:00:00 +0000</updated>
+  </entry>
+</feed>

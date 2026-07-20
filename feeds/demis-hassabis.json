@@ -5,28 +5,13 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/demis-hassabis.json",
   "items": [
     {
-      "id": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
-      "url": "https://deepmind.google/discover/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/",
-      "title": "AlphaQubit tackles one of quantum computing’s biggest challenges",
-      "content_text": "AlphaQubit is an AI-based decoder that identifies quantum computing errors with state-of-the-art accuracy.",
+      "id": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "title": "Google DeepMind and Isomorphic Labs approach to bioresilience",
+      "content_text": "Google DeepMind and Isomorphic Labs approach to bioresilience, using AI models to support prevention, detection and response.",
       "attachments": [
         {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Share_Image_-_1920_x_1080.width-1300.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "demis-hassabis"
-      ]
-    },
-    {
-      "id": "https://deepmind.google/discover/blog/",
-      "url": "https://deepmind.google/discover/blog/",
-      "title": "Blog",
-      "content_text": "Discover our latest AI breakthroughs, projects, and updates.",
-      "attachments": [
-        {
-          "url": "https://lh3.googleusercontent.com/EExFoaxzaMXaBiDlykAzkLEb5txs5aWQn6Lby4vpIXeKE60Fz4VdHOhbl1t8C0YEXJXKzux8i4fAxdb0n4UDFpns5U5VAeybnUNFc5OfnIZYJqMmzww=w1200-h630-n-nu",
+          "url": "https://lh3.googleusercontent.com/ZRyQg91pjea8kXXaGSlnZIJF90-VwnKHSBxo22e2RedCvCCszsurR8W9NHw80e1V6HtWXccbU1MI27Rtjjf963rD673XgkWK7cZe_1ekfruPgdHHVEc=w1200-h630-n-nu-rw",
           "mime_type": "image/jpeg"
         }
       ],
@@ -35,17 +20,17 @@
       ]
     },
     {
-      "id": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/",
-      "url": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/",
-      "title": "AlphaGenome: AI for better understanding the genome",
-      "content_text": "Introducing a new, unifying DNA sequence model that advances regulatory variant-effect prediction and promises to shed new light on genome function — now available via API.",
+      "id": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "title": "AI in Indian Education: Atal Innovation Mission and Google launch ATL Saathi",
+      "content_text": "Atal Innovation Mission launches ATL Saathi, a Gemini powered AI assistant empowering India's educators to nurture the next generation of innovators.",
       "attachments": [
         {
-          "url": "https://lh3.googleusercontent.com/SZkcKUQyLUhSQ06Rq-PJbxAqn1OpMeEa3khkrBVB1MGyHfxyftoqWwEb2aLP9JxX7CjhpLFODcc5zIoMoNdu0bl6ELsZV2nP9fDwZC6SYS36lzAKDw=w1200-h630-n-nu",
+          "url": "https://lh3.googleusercontent.com/0BYvIo8ObViyRtRGOYajXHdEGUFX6cKMTQ6lxys98kN0sB6H7rrTo1pdW8M4kCUGnBnidJWbIr6VvcxGKDEDD4YxOVqYRlyxj_a48uqNw_AytF7c-A=w1200-h630-n-nu-rw",
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://deepmind.google/api/blob/website/media/AlphaGenome-Figure1-Animation-000000.mp4",
+          "url": "https://www.youtube.com/embed/xJ94HFpGM4Y?enablejsapi=1&rel=0&origin=https%3A%2F%2Fdeepmind.google",
           "mime_type": "video/mp4"
         }
       ],
@@ -54,13 +39,13 @@
       ]
     },
     {
-      "id": "https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/",
-      "url": "https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/",
-      "title": "A catalogue of genetic mutations to help pinpoint the cause of diseases",
-      "content_text": "New AI tool classifies the effects of 71 million ‘missense’ mutations \nUncovering the root causes of disease is one of the greatest challenges in human genetics. With millions of possible...",
+      "id": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "title": "Securing internal systems against increasingly capable and imperfectly aligned AI",
+      "content_text": "Discover our AI Control Roadmap: a defense-in-depth system to securely manage advanced, potentially misaligned AI agents.",
       "attachments": [
         {
-          "url": "https://lh3.googleusercontent.com/JySjDTZvGqEzUfDic5QOU6Rne3r6RWpiw5JZQ9VdzK1O5C20EbAkSPURGoCmAhea_U-gyyRu4KdCZmeWSCtYjGHHMvM0jVK5fWiqOwa0rpcC5uzM=w1200-h630-n-nu",
+          "url": "https://lh3.googleusercontent.com/X6w_t9eA7TLFiq3JMp1kXlon25qi9N6O0AxPyp7j0qOIu8oz-QDsaOP-oKz7FIuqlA3W1evDbeLYssDJM_fjkqeyscPO_fHJd0xeD0IoDlHkiUQW1w=w1200-h630-n-nu-rw",
           "mime_type": "image/jpeg"
         }
       ],
@@ -69,17 +54,62 @@
       ]
     },
     {
-      "id": "https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/",
-      "url": "https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/",
-      "title": "AlphaProteo generates novel proteins for biology and health research",
-      "content_text": "New AI system designs proteins that successfully bind to target molecules, with potential for advancing drug design, disease understanding and more.",
+      "id": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "content_text": "Google DeepMind is working alongside the UK government to co-develop an AI-powered prototype to help cut application decision times by 50%.",
       "attachments": [
         {
-          "url": "https://lh3.googleusercontent.com/7RKd6r-Wc8JfMau5x9knRq9DrOKGDwS3ye4YxY0jjWGntf74y8WL0lOlktJefxwkJYw33UEf2Ph_BhQ51TIufCxPkmtCPOpakekMpnOUwVI-3R6RzQ=w1200-h630-n-nu",
+          "url": "https://lh3.googleusercontent.com/kc7RMwXGDfJAoCsgs6pUuONGMXePGbvF_q_i8i-bWBBakQ91O8VYPk8cyHfpOD1uF-lw8Mk6pd2JpXofi5n4qNoNziPol46lBMmZuxoG9NKl16CW=w1200-h630-n-nu-rw",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "demis-hassabis"
+      ]
+    },
+    {
+      "id": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "title": "Google DeepMind and partners announce multi-agent safety research funding call.",
+      "content_text": "Google DeepMind and partners are announcing a new technical research funding call of up to $10M for researchers worldwide to strengthen multi-agent safety.",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/YgqOl-h3mEKPbpttnT89PtoHDKTc1-2fbhwRgDauUPtagZVWiw0lr1IGgRUDZDqb9Ib4nhaU93T0mJSE8FFbhkDRiaT53BGLnLVdpqliTP8v5kvmwu8=w1200-h630-n-nu-rw",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "demis-hassabis"
+      ]
+    },
+    {
+      "id": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+      "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+      "title": "Gemini’s guided learning: results from a randomized controlled trial in Sierra Leone",
+      "content_text": "Google DeepMind shares results from a randomized controlled trial in Sierra Leone, measuring the impact of AI in education on student learning and engagement.",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/5g2RQPPxqVGuOzfaYj1-8r_6B-Ytp79c9mpWXzBIrk2vUhtxZmA7bMywH41h-8b0EJAdW_K4l7kqHZlfS-QTFk8kFB5MA2bgxZ4hxbuAiOuDIn3ohA=w1200-h630-n-nu-rw",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "demis-hassabis"
+      ]
+    },
+    {
+      "id": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
+      "url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
+      "title": "SIMA 2: A Gemini-Powered AI Agent for 3D Virtual Worlds",
+      "content_text": "Introducing SIMA 2, the next milestone in our research creating general and helpful AI agents. By integrating the advanced capabilities of our Gemini models, SIMA is evolving from an instruction-follower into an interactive gaming companion.",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/A5vgACWjzxaEanLkjrZSNlQDjI0SEZ4tKJqE2EtboljSRIkcbEVv4JA2H7a-BEYNoWK097hNdthFdB6h537DUVvFbAUwhWUFSzzA0E0ndr6zMC8tMA=w1200-h630-n-nu-rw",
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://deepmind.google/api/blob/website/media/GDM-ProteinDesignBlog-02-Binder-Final.mp4",
+          "url": "https://www.youtube.com/embed/Zphax4f6Rls?enablejsapi=1&rel=0&origin=https%3A%2F%2Fdeepmind.google",
           "mime_type": "video/mp4"
         }
       ],
@@ -88,32 +118,28 @@
       ]
     },
     {
-      "id": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
-      "url": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+      "id": "https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/",
+      "url": "https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/",
+      "title": "AlphaEarth Foundations helps map our planet in unprecedented detail",
+      "content_text": "New AI model integrates petabytes of Earth observation data to generate a unified data representation that revolutionizes global mapping and monitoring",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/7vH7h8I8REIlyuvVWa6rIBAuFi8Wgx2YNE5j2F1tcym5UCjH6e6KcDji_ZHvYutiLFypKUuHK-fvJ2LaGTTp_8Fxs-qLf_ul74zLW-Y5pMWiYwfskg=w1200-h630-n-nu-rw",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "demis-hassabis"
+      ]
+    },
+    {
+      "id": "https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+      "url": "https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
       "title": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms",
       "content_text": "New AI agent evolves algorithms for math and practical applications in computing by combining the creativity of large language models with automated evaluators",
       "attachments": [
         {
-          "url": "https://lh3.googleusercontent.com/tG6-MqdlvhQ-z7ENzGxR-kpGPPdPHbJ8UZtbTP66Rxi0UftTFU1yAvaBCVuigYuKvESMeEFf4jqNBVENFcZXEUnj8SSqj8zsop8UHAl0eD9A-hUCvQ=w1200-h630-n-nu",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://deepmind.google/api/blob/website/media/Code-Evolution-Illustration_compressed_iUJETbv.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "demis-hassabis"
-      ]
-    },
-    {
-      "id": "https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/",
-      "url": "https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/",
-      "title": "AI achieves silver-medal standard solving International Mathematical Olympiad problems",
-      "content_text": "Breakthrough models AlphaProof and AlphaGeometry 2 solve advanced reasoning problems in mathematics",
-      "attachments": [
-        {
-          "url": "https://lh3.googleusercontent.com/2A21eFt7wdDrmMzzkenrCTuioLWGFdzU5Ao5dPH9yPtAw6QNHxZcDmoQA2_ZriU2gMjX8mzEOtfPbMCRuL5kVzLoz6efLgqT_foBXU3pxKBXTTOXXpc=w1200-h630-n-nu",
+          "url": "https://lh3.googleusercontent.com/WKOJO9SYJP1AgXD-JJBzFDVr8Wq4N8owr1Cq5QllzipRplGrsEDUzMd7dR0BXvG9kV7Hy71QKDuLDB-CzIdCz37JH1cFYUt3hHpwPHTKVcZTIt_qTg=w1200-h630-n-nu-rw",
           "mime_type": "image/jpeg"
         }
       ],
@@ -122,48 +148,14 @@
       ]
     },
     {
-      "id": "https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/",
-      "url": "https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/",
-      "title": "Millions of new materials discovered with deep learning",
-      "content_text": "We share the discovery of 2.2 million new crystals  –  equivalent to nearly 800 years’ worth of knowledge. We introduce Graph Networks for Materials Exploration (GNoME), our new deep learning tool...",
+      "id": "https://deepmind.google/blog/",
+      "url": "https://deepmind.google/blog/",
+      "title": "News",
+      "content_text": "Discover our latest AI breakthroughs, projects, and updates.",
       "attachments": [
         {
-          "url": "https://lh3.googleusercontent.com/mq3mFiVHSVuszhJMt-Nz4jckN5qy3cAckEIdNYDPhy8UHjxk4VkGFriqo8sA76teioNQ2fC3qgMH7FJfPc0L5JJPppXiZzHP7Rl3UodlU4IC4TWw=w1200-h630-n-nu",
+          "url": "https://lh3.googleusercontent.com/myGF2ComebnEQEBnWFaEuzzYPERNzNfAwfeGpoevFpG_XUjuwukO7PaAajPYOdIJWv-oqsUGh7GvlFrviUte2DWryEZIZB4WQa3Q9NtdUq7jvJJR=w1200-h630-n-nu-rw",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "demis-hassabis"
-      ]
-    },
-    {
-      "id": "https://deepmind.google/discover/blog/accelerating-fusion-science-through-learned-plasma-control/",
-      "url": "https://deepmind.google/discover/blog/accelerating-fusion-science-through-learned-plasma-control/",
-      "title": "Accelerating fusion science through learned plasma control",
-      "content_text": "Successfully controlling the nuclear fusion plasma in a tokamak with deep reinforcement learning",
-      "attachments": [
-        {
-          "url": "https://lh3.googleusercontent.com/2enxIWCpVE9laIRzXhLngv6nvwB-M-qSubWh_uTkhaGfbY4vJnvnCLef1VKiwP_U4b0LXmVkfvJ9LXDTVN1DY0wdDesfRibd57GvjBYAgaylMQwUbQ=w1200-h630-n-nu",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "demis-hassabis"
-      ]
-    },
-    {
-      "id": "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/",
-      "url": "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/",
-      "title": "Genie 3: A New Frontier for World Models",
-      "content_text": "Today we are announcing Genie 3, a general purpose world model that can generate an unprecedented diversity of interactive environments. Given a text prompt, Genie 3 can generate dynamic worlds...",
-      "attachments": [
-        {
-          "url": "https://lh3.googleusercontent.com/pXnO9nBpgw0RnwPCDrcbdFqO0cHkaIsQYNuOyXd7L3iFrp0Mr_yLMROiWzz3EqG8W-qq-QzGPTEAs1pr75kX7SzVC-y4jnON7b7P9Bwqd19Nl-bkJYc=w1200-h630-n-nu",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://deepmind.google/api/blob/website/media/sxs_1.mp4",
-          "mime_type": "video/mp4"
         }
       ],
       "tags": [

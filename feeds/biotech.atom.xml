@@ -4,75 +4,383 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/biotech.atom.xml"/>
   <id>urn:4thwaveai-feeds:biotech</id>
-  <updated>Tue, 07 Oct 2025 05:41:21 +0000</updated>
+  <updated>Mon, 20 Jul 2026 03:40:55 +0000</updated>
   <entry>
-    <title>Jason Buenrostro named core institute member at Broad</title>
-    <link href="https://www.broadinstitute.org/news/jason-buenrostro-named-core-institute-member-broad"/>
-    <id>https://www.broadinstitute.org/news/jason-buenrostro-named-core-institute-member-broad</id>
-    <summary type="text">An expert in epigenetics and longtime member of the Broad community, Buenrostro will focus on how life experiences can alter the epigenome and increase risk of disease.</summary>
-    <updated>Tue, 30 Sep 2025 09:57:45 -0400</updated>
+    <title>NovoTags: AI-designed proteins help scientists see inside living cells | EMBL</title>
+    <link href="https://www.embl.org/news/science-technology/novotags-ai-designed-proteins-help-scientists-see-inside-living-cells/"/>
+    <id>https://www.embl.org/news/science-technology/novotags-ai-designed-proteins-help-scientists-see-inside-living-cells/</id>
+    <summary type="text">Researchers have designed synthetic and inducible proteins that bind to bright fluorescent dyes with high specificity and affinity, significantly expanding the toolkit for multicolour imaging of proteins inside cells</summary>
+    <updated>Fri, 17 Jul 2026 12:46:38 +0000</updated>
   </entry>
   <entry>
-    <title>#WhyIScience Q&amp;A: A structural biologist adopts a new role catalyzing collaborations</title>
-    <link href="https://www.broadinstitute.org/news/whyiscience-qa-structural-biologist-adopts-new-role-catalyzing-collaborations"/>
-    <id>https://www.broadinstitute.org/news/whyiscience-qa-structural-biologist-adopts-new-role-catalyzing-collaborations</id>
-    <summary type="text">A former drug discovery scientist, Gail Guo now helps advance research into novel cancer drugs as part of Broad’s alliance with Bayer.</summary>
-    <updated>Wed, 10 Sep 2025 09:22:24 -0400</updated>
+    <title>A bioengineer shifts his career to explore how life experiences change the body</title>
+    <link href="https://www.broadinstitute.org/news/bioengineer-shifts-his-career-explore-how-life-experiences-change-body"/>
+    <id>https://www.broadinstitute.org/news/bioengineer-shifts-his-career-explore-how-life-experiences-change-body</id>
+    <summary type="text">Shaped by a tumultuous childhood, Jason Buenrostro pivots from technology development to studying the biology of stress and adversity and finding new ways to boost resilience.</summary>
+    <updated>Thu, 16 Jul 2026 11:11:00 -0400</updated>
   </entry>
   <entry>
-    <title>Remembering David Baltimore</title>
-    <link href="https://www.broadinstitute.org/news/remembering-david-baltimore"/>
-    <id>https://www.broadinstitute.org/news/remembering-david-baltimore</id>
-    <summary type="text">David Baltimore served as Chair of the Broad Institute Board of Scientific Counselors, was a member of our Board of Directors, and was essential in the formation of the Broad Institute itself. We asked our Founding Director, Eric S. Lander, to share some reflections with the Broad community.</summary>
-    <updated>Mon, 08 Sep 2025 11:19:08 -0400</updated>
+    <title>Cath Brooksbank: What I’ve learned | EMBL</title>
+    <link href="https://www.embl.org/news/people-perspectives/cath-brooksbank-what-ive-learned/"/>
+    <id>https://www.embl.org/news/people-perspectives/cath-brooksbank-what-ive-learned/</id>
+    <summary type="text">Lessons on trusting your team and building a world-leading bioinformatics training programme from EMBL-EBI&#x27;s Head of Training, Cath Brooksbank</summary>
+    <updated>Thu, 16 Jul 2026 07:37:38 +0000</updated>
   </entry>
   <entry>
-    <title>Mass General Brigham launches genetic test to predict risk across eight cardiovascular conditions</title>
-    <link href="https://www.broadinstitute.org/news/mass-general-brigham-launches-genetic-test-predict-risk-across-eight-cardiovascular-conditions"/>
-    <id>https://www.broadinstitute.org/news/mass-general-brigham-launches-genetic-test-predict-risk-across-eight-cardiovascular-conditions</id>
-    <summary type="text">Developed in collaboration with Broad Clinical Labs and Mass General Brigham Laboratory for Molecular Medicine, the test provides a comprehensive view of a patient’s inherited heart disease risk. div.hero-section__author { display:none;}</summary>
-    <updated>Wed, 03 Sep 2025 17:35:14 -0400</updated>
+    <title>What All of Us means for the future of biobanks and precision medicine</title>
+    <link href="https://www.broadinstitute.org/news/what-all-us-means-future-biobanks-and-precision-medicine"/>
+    <id>https://www.broadinstitute.org/news/what-all-us-means-future-biobanks-and-precision-medicine</id>
+    <summary type="text">Genomics pioneer Stacey Gabriel describes how the Broad Institute helped enable the latest All of Us data release and shares the vision for an expanded national biobank.</summary>
+    <updated>Tue, 14 Jul 2026 09:00:02 -0400</updated>
   </entry>
   <entry>
-    <title>How massive datasets generated at Broad are powering the latest AI models in biology</title>
-    <link href="https://www.broadinstitute.org/news/how-massive-datasets-generated-broad-are-powering-latest-ai-models-biology"/>
-    <id>https://www.broadinstitute.org/news/how-massive-datasets-generated-broad-are-powering-latest-ai-models-biology</id>
-    <summary type="text">Broad scientists describe how data resources they helped build over more than a decade now form the foundation for cutting-edge AI and genome biology discoveries.</summary>
-    <updated>Wed, 03 Sep 2025 14:10:36 -0400</updated>
+    <title>Broad-led consortium receives ARPA-H award to advance gene editing for rare pediatric epilepsy</title>
+    <link href="https://www.broadinstitute.org/news/broad-led-consortium-receives-arpa-h-award-advance-gene-editing-rare-pediatric-epilepsy"/>
+    <id>https://www.broadinstitute.org/news/broad-led-consortium-receives-arpa-h-award-advance-gene-editing-rare-pediatric-epilepsy</id>
+    <summary type="text">Twelve organizations spanning gene editing science, clinical medicine, manufacturing, regulatory strategy, and patient advocacy aim to deliver first-in-human trial within three years. div.hero-section__author { display:none;}</summary>
+    <updated>Thu, 09 Jul 2026 10:15:26 -0400</updated>
   </entry>
   <entry>
-    <title>Evolved gene editor inserts entire genes in human cells</title>
-    <link href="https://www.broadinstitute.org/news/evolved-gene-editor-inserts-entire-genes-human-cells"/>
-    <id>https://www.broadinstitute.org/news/evolved-gene-editor-inserts-entire-genes-human-cells</id>
-    <summary type="text">The new system is the first to use a DNA-mobilizing enzyme called a CRISPR-associated transposase to make targeted gene-sized edits at therapeutically useful levels in human cells.</summary>
-    <updated>Thu, 15 May 2025 14:00:00 -0400</updated>
+    <title>Low-cost genome sequencing approach is powering genetics research on mental illness and many other studies</title>
+    <link href="https://www.broadinstitute.org/news/low-cost-genome-sequencing-approach-powering-genetics-research-mental-illness-and-many-other"/>
+    <id>https://www.broadinstitute.org/news/low-cost-genome-sequencing-approach-powering-genetics-research-mental-illness-and-many-other</id>
+    <summary type="text">The Blended Genome Exome approach delivers high-quality, unbiased genetic data at a quarter of the cost of the leading sequencing method.</summary>
+    <updated>Wed, 08 Jul 2026 10:06:55 -0400</updated>
   </entry>
   <entry>
-    <title>Gene editing extends lifespan in mouse model of prion disease</title>
-    <link href="https://www.broadinstitute.org/news/gene-editing-extends-lifespan-mouse-model-prion-disease"/>
-    <id>https://www.broadinstitute.org/news/gene-editing-extends-lifespan-mouse-model-prion-disease</id>
-    <summary type="text">A single-letter edit in DNA reduces levels of the disease-causing prion protein in the brain and could lead to a preventative, one-time treatment for the deadly neurodegenerative disorder.</summary>
-    <updated>Tue, 14 Jan 2025 05:00:00 -0500</updated>
+    <title>We are EMBL: Dal Nijjer on modernising science literature search | EMBL</title>
+    <link href="https://www.embl.org/news/people-perspectives/we-are-embl-dal-nijjer-on-modernising-science-literature-search/"/>
+    <id>https://www.embl.org/news/people-perspectives/we-are-embl-dal-nijjer-on-modernising-science-literature-search/</id>
+    <summary type="text">Dal Nijjer, Product Manager and Coordinator at EMBL-EBI, shares his ideas for reducing Europe PMC users’ cognitive load</summary>
+    <updated>Mon, 06 Jul 2026 08:43:39 +0000</updated>
   </entry>
   <entry>
-    <title>Scientists engineer CRISPR enzymes that evade the immune system</title>
-    <link href="https://www.broadinstitute.org/news/scientists-engineer-crispr-enzymes-evade-immune-system"/>
-    <id>https://www.broadinstitute.org/news/scientists-engineer-crispr-enzymes-evade-immune-system</id>
-    <summary type="text">The new genome-editing tools could lead to safer, more efficient gene therapies.</summary>
-    <updated>Thu, 09 Jan 2025 09:00:00 -0500</updated>
+    <title>Working together to facilitate BioSAXS experiments | EMBL</title>
+    <link href="https://www.embl.org/news/science-technology/working-together-to-facilitate-biosaxs-experiments/"/>
+    <id>https://www.embl.org/news/science-technology/working-together-to-facilitate-biosaxs-experiments/</id>
+    <summary type="text">Members of the McCarthy team at EMBL Grenoble talk about BSxCuBE-Web, a web-based interface to automate BioSAXS experiments, and how the ARISE programme contributed to this project</summary>
+    <updated>Thu, 02 Jul 2026 07:00:00 +0000</updated>
   </entry>
   <entry>
-    <title>Researchers devise new way to target and correct disease-related proteins</title>
-    <link href="https://www.broadinstitute.org/news/researchers-devise-new-way-target-and-correct-disease-related-proteins"/>
-    <id>https://www.broadinstitute.org/news/researchers-devise-new-way-target-and-correct-disease-related-proteins</id>
-    <summary type="text">Broad scientists built a diverse library of compounds and found one that stabilizes a dysfunctional protein in Crohn’s disease, demonstrating their library’s potential to uncover new therapeutic strategies.</summary>
-    <updated>Mon, 06 Jan 2025 11:17:49 -0500</updated>
+    <title>Cells, boundaries, and the emergence of biological order | EMBL</title>
+    <link href="https://www.embl.org/news/science-technology/cells-boundaries-and-the-emergence-of-biological-order/"/>
+    <id>https://www.embl.org/news/science-technology/cells-boundaries-and-the-emergence-of-biological-order/</id>
+    <summary type="text">Scientists have shown how the boundaries of biological tissues create geometric constraints that lead cells to orient in a magnet-like manner</summary>
+    <updated>Tue, 30 Jun 2026 09:01:56 +0000</updated>
   </entry>
   <entry>
-    <title>New drug triggers rapid cell death in cancer models</title>
-    <link href="https://www.broadinstitute.org/news/new-drug-triggers-rapid-cell-death-cancer-models"/>
-    <id>https://www.broadinstitute.org/news/new-drug-triggers-rapid-cell-death-cancer-models</id>
-    <summary type="text">BRD-810 inhibits the MCL1 protein and reactivates apoptosis in tumor cells, displaying therapeutic potential in animal models.</summary>
-    <updated>Tue, 29 Oct 2024 11:11:58 -0400</updated>
+    <title>EMBL Annual Report 2025 online | EMBL</title>
+    <link href="https://www.embl.org/news/embl-announcements/embl-annual-report-2025-online/"/>
+    <id>https://www.embl.org/news/embl-announcements/embl-annual-report-2025-online/</id>
+    <summary type="text">EMBL’s 2025 annual report is now online, sharing achievements across its five missions, along with key facts and figures from the year.</summary>
+    <updated>Thu, 25 Jun 2026 11:04:02 +0000</updated>
+  </entry>
+  <entry>
+    <title>Large-scale microbiome study identifies robust colorectal cancer signature | EMBL</title>
+    <link href="https://www.embl.org/news/science-technology/large-scale-microbiome-study-identifies-robust-colorectal-cancer-signature/"/>
+    <id>https://www.embl.org/news/science-technology/large-scale-microbiome-study-identifies-robust-colorectal-cancer-signature/</id>
+    <summary type="text">EMBL-led research finds a robust gut microbiome signature linked to colorectal cancer, even in early-stage tumours and tied to lower fibre intake.</summary>
+    <updated>Wed, 24 Jun 2026 15:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>EasyGrid: towards better automation in cryo-electron microscopy | EMBL</title>
+    <link href="https://www.embl.org/news/science-technology/easygrid-towards-better-automation-in-cryo-electron-microscopy/"/>
+    <id>https://www.embl.org/news/science-technology/easygrid-towards-better-automation-in-cryo-electron-microscopy/</id>
+    <summary type="text">EMBL Grenoble scientists have developed EasyGrid and EasyGrid Control, unique instruments that automate advanced microscopy sample preparation and quality control</summary>
+    <updated>Tue, 23 Jun 2026 12:39:38 +0000</updated>
+  </entry>
+  <entry>
+    <title>Scientists improve nearly every aspect of prime editing, moving it closer to treating more genetic diseases</title>
+    <link href="https://www.broadinstitute.org/news/scientists-improve-nearly-every-aspect-prime-editing-moving-it-closer-treating-more-genetic"/>
+    <id>https://www.broadinstitute.org/news/scientists-improve-nearly-every-aspect-prime-editing-moving-it-closer-treating-more-genetic</id>
+    <summary type="text">The advances in editing efficiency and delivery are important steps toward in vivo therapeutic prime editing.</summary>
+    <updated>Mon, 15 Jun 2026 05:00:00 -0400</updated>
+  </entry>
+  <entry>
+    <title>New study suggests a way to rejuvenate the immune system</title>
+    <link href="https://www.broadinstitute.org/news/new-study-suggests-way-rejuvenate-immune-system"/>
+    <id>https://www.broadinstitute.org/news/new-study-suggests-way-rejuvenate-immune-system</id>
+    <summary type="text">Stimulating the liver to produce some of the signals of the thymus can reverse age-related declines in T-cell populations and enhance response to vaccination.</summary>
+    <updated>Wed, 17 Dec 2025 11:00:59 -0500</updated>
+  </entry>
+  <entry>
+    <title>FDA approves first cancer drug based on Broad Institute science</title>
+    <link href="https://www.broadinstitute.org/news/fda-approves-first-cancer-drug-based-broad-institute-science"/>
+    <id>https://www.broadinstitute.org/news/fda-approves-first-cancer-drug-based-broad-institute-science</id>
+    <summary type="text">Collaboration between Broad Institute and Bayer leads to new treatment for a hard-to-treat type of lung cancer.</summary>
+    <updated>Thu, 20 Nov 2025 09:50:31 -0500</updated>
+  </entry>
+  <entry>
+    <title>Single prime editing system could potentially treat multiple genetic diseases</title>
+    <link href="https://www.broadinstitute.org/news/single-prime-editing-system-could-potentially-treat-multiple-genetic-diseases"/>
+    <id>https://www.broadinstitute.org/news/single-prime-editing-system-could-potentially-treat-multiple-genetic-diseases</id>
+    <summary type="text">Researchers have developed a genome-editing strategy that targets a common cause of roughly 30 percent of rare diseases and could vastly improve access to gene-editing treatments for patients.</summary>
+    <updated>Wed, 19 Nov 2025 12:01:34 -0500</updated>
+  </entry>
+  <entry>
+    <title>Prime editing treats childhood brain disease in mice</title>
+    <link href="https://www.broadinstitute.org/news/prime-editing-treats-childhood-brain-disease-mice"/>
+    <id>https://www.broadinstitute.org/news/prime-editing-treats-childhood-brain-disease-mice</id>
+    <summary type="text">Scientists use a precise form of gene editing called prime editing to correct the most common genetic mutations that cause alternating hemiplegia of childhood, a rare and severe neurological disorder that begins in infancy.</summary>
+    <updated>Mon, 21 Jul 2025 11:37:05 -0400</updated>
+  </entry>
+  <entry>
+    <title>Q&amp;A: David Liu’s bold vision to make on-demand treatments routine for life-threatening rare genetic diseases</title>
+    <link href="https://www.broadinstitute.org/news/qa-one-scientists-bold-vision-make-demand-treatments-routine-life-threatening-rare-genetic"/>
+    <id>https://www.broadinstitute.org/news/qa-one-scientists-bold-vision-make-demand-treatments-routine-life-threatening-rare-genetic</id>
+    <summary type="text">The Broad core member and gene editing pioneer describes a framework that could enable the treatment of 1,000 patients with personalized gene editing therapies by 2030.</summary>
+    <updated>Tue, 24 Jun 2025 21:14:10 -0400</updated>
+  </entry>
+  <entry>
+    <title>FDA Approves First Oral PCSK9 Inhibitor to Lower LDL Cholesterol in Adults with High Cholesterol</title>
+    <link href="http://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol"/>
+    <id>http://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol</id>
+    <summary type="text">The U.S. Food and Drug Administration approved Lipfendra (enlicitide), the first oral inhibitor of proprotein convertase subtilisin/kexin type 9 (PCSK9), as an adjunct to diet and exercise to reduce low-density lipoprotein cholesterol (LDL-C), or “bad” cholesterol, in adults with hypercholesterolemi</summary>
+  </entry>
+  <entry>
+    <title>FDA Issues Emergency Use Authorization for Drug for Short-Term Prevention of New World Screwworm in Horses</title>
+    <link href="http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-drug-short-term-prevention-new-world-screwworm-horses"/>
+    <id>http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-drug-short-term-prevention-new-world-screwworm-horses</id>
+    <summary type="text">FDA issued an EUA for Ivermectin Liquid for Horses for the short-term prevention of New World screwworm in horses.</summary>
+  </entry>
+  <entry>
+    <title>FDA Proposes Rule to Modernize Drug Manufacturing Registration</title>
+    <link href="http://www.fda.gov/news-events/press-announcements/fda-proposes-rule-modernize-drug-manufacturing-registration"/>
+    <id>http://www.fda.gov/news-events/press-announcements/fda-proposes-rule-modernize-drug-manufacturing-registration</id>
+    <summary type="text">The U.S. Food and Drug Administration today issued a proposed rule that, if finalized, would create a streamlined registration pathway for distributed manufacturing establishments that operate as a single establishment using a “hub-and-spoke” model.</summary>
+  </entry>
+  <entry>
+    <title>FDA Approves First Gene Therapy for Young Children with Sickle Cell Disease</title>
+    <link href="http://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-young-children-sickle-cell-disease"/>
+    <id>http://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-young-children-sickle-cell-disease</id>
+    <summary type="text">The U.S. Food and Drug Administration today issued a supplemental approval for Casgevy (exagamglogene autotemcel) for patients aged 2 years and older with either sickle cell disease (SCD) with recurrent vaso-occlusive crises (VOCs) or transfusion-dependent β thalassemia (TDT).</summary>
+  </entry>
+  <entry>
+    <title>FDA Approves New Treatment That Uses Donor Immune Cells to Prevent Serious Complications in Blood Cancer Patients</title>
+    <link href="http://www.fda.gov/news-events/press-announcements/fda-approves-new-treatment-uses-donor-immune-cells-prevent-serious-complications-blood-cancer"/>
+    <id>http://www.fda.gov/news-events/press-announcements/fda-approves-new-treatment-uses-donor-immune-cells-prevent-serious-complications-blood-cancer</id>
+    <summary type="text">The U.S. Food and Drug Administration today approved TREGZI, the first regulatory T (Treg) cell-based immunotherapy for improving chronic graft-versus-host disease (GVHD)-free survival in adult patients with blood cancers undergoing allogeneic hematopoietic stem cell transplantation (allo-HSCT).</summary>
+  </entry>
+  <entry>
+    <title>FDA Selects Seven Participants for PreCheck Pilot Program to Advance U.S. Drug Manufacturing</title>
+    <link href="http://www.fda.gov/news-events/press-announcements/fda-selects-seven-participants-precheck-pilot-program-advance-us-drug-manufacturing"/>
+    <id>http://www.fda.gov/news-events/press-announcements/fda-selects-seven-participants-precheck-pilot-program-advance-us-drug-manufacturing</id>
+    <summary type="text">FDA announces the selection of seven companies to participate in the FDA PreCheck Pilot Program, a new initiative designed to boost American global competitiveness, strengthen domestic drug manufacturing, and improve the resilience of the U.S. drug supply chain.</summary>
+  </entry>
+  <entry>
+    <title>FDA Proposes Rule That Would Help Hold Foreign Tobacco Product Manufacturers Accountable, Protect Public Health</title>
+    <link href="http://www.fda.gov/news-events/press-announcements/fda-proposes-rule-would-help-hold-foreign-tobacco-product-manufacturers-accountable-protect-public"/>
+    <id>http://www.fda.gov/news-events/press-announcements/fda-proposes-rule-would-help-hold-foreign-tobacco-product-manufacturers-accountable-protect-public</id>
+    <summary type="text">The U.S. Food and Drug Administration today issued a proposed rule that, if finalized, would help protect the public health of Americans, including youth, by strengthening the agency’s ability to efficiently identify illegal foreign tobacco products — including youth-appealing e-cigarettes — and con</summary>
+  </entry>
+  <entry>
+    <title>FDA Approves First Single-Dose Generic Treatment for Influenza</title>
+    <link href="http://www.fda.gov/news-events/press-announcements/fda-approves-first-single-dose-generic-treatment-influenza"/>
+    <id>http://www.fda.gov/news-events/press-announcements/fda-approves-first-single-dose-generic-treatment-influenza</id>
+    <summary type="text">The U.S. Food and Drug Administration today approved the first generic of Xofluza (baloxavir marboxil) tablets, the first single-dose treatment for acute uncomplicated influenza and prophylaxis in patients 5 years of age and older.</summary>
+  </entry>
+  <entry>
+    <title>FDA Broadens Access to Over-the-Counter Naloxone Nasal Spray for Opioid Overdose</title>
+    <link href="http://www.fda.gov/news-events/press-announcements/fda-broadens-access-over-counter-naloxone-nasal-spray-opioid-overdose"/>
+    <id>http://www.fda.gov/news-events/press-announcements/fda-broadens-access-over-counter-naloxone-nasal-spray-opioid-overdose</id>
+    <summary type="text">The U.S. Food and Drug Administration (FDA) today approved another over-the-counter (OTC) intranasal naloxone product, Rextovy, a 4 milligram (mg) naloxone hydrochloride nasal spray for the emergency treatment of opioid overdose.</summary>
+  </entry>
+  <entry>
+    <title>FDA Approves New Indication for Tzield (teplizumab) for Certain Pediatric Patients with Recently Diagnosed Stage 3 Type 1 Diabetes</title>
+    <link href="http://www.fda.gov/news-events/press-announcements/fda-approves-new-indication-tzield-teplizumab-certain-pediatric-patients-recently-diagnosed-stage-3"/>
+    <id>http://www.fda.gov/news-events/press-announcements/fda-approves-new-indication-tzield-teplizumab-certain-pediatric-patients-recently-diagnosed-stage-3</id>
+    <summary type="text">On June 12, 2026, the U.S. Food and Drug Administration granted accelerated approval to Tzield  (teplizumab) for a new indication, to delay the decline of insulin production in pediatric patients ages 8 through 17 years who have been recently diagnosed with Stage 3 type 1 diabetes (T1D).</summary>
+  </entry>
+  <entry>
+    <title>Bolton Medical Removes Relay Pro System</title>
+    <link href="http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/thoracic-stent-graft-recall-bolton-medical-removes-relay-pro-system"/>
+    <id>http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/thoracic-stent-graft-recall-bolton-medical-removes-relay-pro-system</id>
+    <summary type="text">Affected grafts may not unclasp from the delivery system. This may require conversion to open surgical repair and can result in patient death.</summary>
+  </entry>
+  <entry>
+    <title>Abiomed removes 14Fr Low Profile Introducer Kits</title>
+    <link href="http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-introducer-kit-recall-abiomed-removes-14fr-low-profile-introducer-kits"/>
+    <id>http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-introducer-kit-recall-abiomed-removes-14fr-low-profile-introducer-kits</id>
+    <summary type="text">Prolonged use of the Abiomed 14Fr Low Profile Introducer may lead to thrombus formation.</summary>
+  </entry>
+  <entry>
+    <title>Convenience Kit Correction from Arrow International</title>
+    <link href="http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-arrow-international-issues-correction-convenience-kits-containing"/>
+    <id>http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-arrow-international-issues-correction-convenience-kits-containing</id>
+    <summary type="text">Saline, Lidocaine and Bupivacaine from affected convenience kits should not be used.</summary>
+  </entry>
+  <entry>
+    <title>B. Braun Removes Kits with Bupivacaine in Dextrose Injections</title>
+    <link href="http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-b-braun-medical-inc-removes-spinal-anesthesia-kits-containing-huons"/>
+    <id>http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-b-braun-medical-inc-removes-spinal-anesthesia-kits-containing-huons</id>
+    <summary type="text">B. Braun is removing affected convenience kits containing recalled Bupivacaine Hydrochloride in Dextrose Injection components</summary>
+  </entry>
+  <entry>
+    <title>Early Alert: Ventilator Issue from Resmed</title>
+    <link href="http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-ventilator-issue-resmed"/>
+    <id>http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-ventilator-issue-resmed</id>
+    <summary type="text">Failure of an electrical component in certain Astral ventilators may cause an interruption or failure in therapy which may result in serious injury or death</summary>
+  </entry>
+  <entry>
+    <title>Baxter Issues Correction for Volera Positive Pressure Breathing Device</title>
+    <link href="http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/positive-pressure-breathing-device-correction-baxter-issues-correction-volera-positive-pressure"/>
+    <id>http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/positive-pressure-breathing-device-correction-baxter-issues-correction-volera-positive-pressure</id>
+    <summary type="text">Volara system patient circuits may leak air and medication from the nebulizer cup during therapy, leading to reduced oxygenation and ineffective nebulization.</summary>
+  </entry>
+  <entry>
+    <title>Pulmonary Valve Catheter Delivery System Removal from Medtronic</title>
+    <link href="http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/pulmonary-valve-catheter-delivery-system-recall-medtronic-removes-harmony-delivery-catheter-system"/>
+    <id>http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/pulmonary-valve-catheter-delivery-system-recall-medtronic-removes-harmony-delivery-catheter-system</id>
+    <summary type="text">The distal tip in certain lots of the Medtronic Harmony Delivery Catheter System (DCS) may detach which can require endovascular retrieval or surgical intervent</summary>
+  </entry>
+  <entry>
+    <title>Convenience Kit Issue from Medical Action Industries</title>
+    <link href="http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-medical-action-industries"/>
+    <id>http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-medical-action-industries</id>
+    <summary type="text">Particulates have the potential to be introduced into blood circulation and become lodged within blood vessels.</summary>
+  </entry>
+  <entry>
+    <title>Convenience Kits Issue from Medline</title>
+    <link href="http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kits-issue-medline"/>
+    <id>http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kits-issue-medline</id>
+    <summary type="text">Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.</summary>
+  </entry>
+  <entry>
+    <title>Infusion Pump Correction from Fresenius Kabi</title>
+    <link href="http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-pump-correction-fresenius-kabi-issues-correction-dropped-or-jarred-ivenix-large-volume"/>
+    <id>http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-pump-correction-fresenius-kabi-issues-correction-dropped-or-jarred-ivenix-large-volume</id>
+    <summary type="text">If dropped, the Ivenix pump touchscreen may become unresponsive and should be removed from use.</summary>
+  </entry>
+  <entry>
+    <title>New Alzheimer’s blood test may tell when symptoms are around the corner</title>
+    <link href="https://www.nih.gov/news-events/news-releases/new-alzheimers-blood-test-may-tell-when-symptoms-are-around-corner"/>
+    <id>https://www.nih.gov/news-events/news-releases/new-alzheimers-blood-test-may-tell-when-symptoms-are-around-corner</id>
+    <summary type="text">A novel biomarker beats the leading diagnostic blood test at predicting disease progression.</summary>
+  </entry>
+  <entry>
+    <title>NIH&#x27;s All of Us Research Program is now the largest integrated genomics and health database in the world</title>
+    <link href="https://www.nih.gov/news-events/news-releases/nihs-all-us-research-program-now-largest-integrated-genomics-health-database-world"/>
+    <id>https://www.nih.gov/news-events/news-releases/nihs-all-us-research-program-now-largest-integrated-genomics-health-database-world</id>
+    <summary type="text">Data from more than 747,000 participants is now available to scientists, powering next-generation discoveries in precision medicine.</summary>
+  </entry>
+  <entry>
+    <title>Researchers discover single-cell brain activity that underlies human speech</title>
+    <link href="https://www.nih.gov/news-events/news-releases/researchers-discover-single-cell-brain-activity-underlies-human-speech"/>
+    <id>https://www.nih.gov/news-events/news-releases/researchers-discover-single-cell-brain-activity-underlies-human-speech</id>
+    <summary type="text">With neuronal data, AI models predicted grammar, meaning, and context of spoken sentences.</summary>
+  </entry>
+  <entry>
+    <title>For adults with prediabetes, lifestyle intervention lowered risk of developing multiple chronic conditions</title>
+    <link href="https://www.nih.gov/news-events/news-releases/adults-prediabetes-lifestyle-intervention-lowered-risk-developing-multiple-chronic-conditions"/>
+    <id>https://www.nih.gov/news-events/news-releases/adults-prediabetes-lifestyle-intervention-lowered-risk-developing-multiple-chronic-conditions</id>
+    <summary type="text">NIH-supported, long-term clinical trial found no difference between metformin and placebo.</summary>
+  </entry>
+  <entry>
+    <title>NIH launches new office to advance human-based research and reduce animal use</title>
+    <link href="https://www.nih.gov/news-events/news-releases/nih-launches-new-office-advance-human-based-research-reduce-animal-use"/>
+    <id>https://www.nih.gov/news-events/news-releases/nih-launches-new-office-advance-human-based-research-reduce-animal-use</id>
+    <summary type="text">New office will coordinate efforts to develop, validate and scale animal-free research models.</summary>
+  </entry>
+  <entry>
+    <title>Dr. Raymond Jacobson selected as director of the NIH Center for Scientific Review</title>
+    <link href="https://www.nih.gov/news-events/news-releases/dr-raymond-jacobson-selected-director-nih-center-scientific-review"/>
+    <id>https://www.nih.gov/news-events/news-releases/dr-raymond-jacobson-selected-director-nih-center-scientific-review</id>
+    <summary type="text">The Center ensures NIH grant applications receive fair, independent, expert, and timely reviews.</summary>
+  </entry>
+  <entry>
+    <title>NIH research establishes new framework for the role of senescence in aging</title>
+    <link href="https://www.nih.gov/news-events/news-releases/nih-research-establishes-new-framework-role-senescence-aging"/>
+    <id>https://www.nih.gov/news-events/news-releases/nih-research-establishes-new-framework-role-senescence-aging</id>
+    <summary type="text">First large-scale atlas of senescent cells could help inform future therapies for age-related diseases.</summary>
+  </entry>
+  <entry>
+    <title>NIH researchers identify regulatory cells that shield against inflammatory bowel disease</title>
+    <link href="https://www.nih.gov/news-events/news-releases/nih-researchers-identify-regulatory-cells-shield-against-inflammatory-bowel-disease"/>
+    <id>https://www.nih.gov/news-events/news-releases/nih-researchers-identify-regulatory-cells-shield-against-inflammatory-bowel-disease</id>
+    <summary type="text">Discovery opens the door for improved diagnoses and treatments.</summary>
+  </entry>
+  <entry>
+    <title>Researchers trigger sleep’s restorative effect in parts of the awake brain</title>
+    <link href="https://www.nih.gov/news-events/news-releases/researchers-trigger-sleeps-restorative-effect-parts-awake-brain"/>
+    <id>https://www.nih.gov/news-events/news-releases/researchers-trigger-sleeps-restorative-effect-parts-awake-brain</id>
+    <summary type="text">NIH-funded study in animals offers new details about how the brain resets during sleep.</summary>
+  </entry>
+  <entry>
+    <title>NIH Selects Dr. Steven Schiff as Director of Fogarty International Center, Associate Director for International Research</title>
+    <link href="https://www.nih.gov/news-events/news-releases/nih-selects-dr-steven-schiff-director-fogarty-international-center-associate-director-international-research"/>
+    <id>https://www.nih.gov/news-events/news-releases/nih-selects-dr-steven-schiff-director-fogarty-international-center-associate-director-international-research</id>
+    <summary type="text">Dr. Schiff will serve as the ninth permanent director of FIC.</summary>
+  </entry>
+  <entry>
+    <title>Genentech: Press Releases | FDA grants Priority Review to Genentech’s Gazyva for adults with primary membranous nephropathy</title>
+    <link href="https://www.gene.com/media/press-releases/15121/2026-07-14/fda-grants-priority-review-to-genentechs"/>
+    <id>https://www.gene.com/media/press-releases/15121/2026-07-14/fda-grants-priority-review-to-genentechs</id>
+    <summary type="text">Priority review decision is based on phase III MAJESTY results, where Gazyva achieved significantly higher complete remission rates at two years compared to tacrolimus</summary>
+  </entry>
+  <entry>
+    <title>Genentech: Press Releases | Genentech and Roche Present New Data in Alzheimer’s Disease From Across Its Integrated Pharmaceutical and Diagnostics Portfolio at AAIC</title>
+    <link href="https://www.gene.com/media/press-releases/15120/2026-07-06/genentech-and-roche-present-new-data-in-"/>
+    <id>https://www.gene.com/media/press-releases/15120/2026-07-06/genentech-and-roche-present-new-data-in-</id>
+    <summary type="text">Five oral presentations in a Featured Research Session will highlight trontinemab, including new long-term data from Phase Ib/IIa Brainshuttle AD study and design of Phase III PrevenTRON study in preclinical Alzheimer’s</summary>
+  </entry>
+  <entry>
+    <title>Genentech: Press Releases | Genentech’s divarasib shows superiority in head-to-head phase III trial against approved KRAS G12C inhibitors in non-small cell lung cancer</title>
+    <link href="https://www.gene.com/media/press-releases/15119/2026-07-01/genentechs-divarasib-shows-superiority-i"/>
+    <id>https://www.gene.com/media/press-releases/15119/2026-07-01/genentechs-divarasib-shows-superiority-i</id>
+    <summary type="text">Phase III (Krascendo 1) demonstrates best-in-class potential for patients with previously treated advanced KRAS G12C non-small cell lung cancer</summary>
+  </entry>
+  <entry>
+    <title>Genentech: Press Releases | FDA GRANTS PRIORITY REVIEW TO GENENTECH’S APPLICATION FOR ENSPRYNG, THE FIRST AND ONLY AT-HOME SUBCUTANEOUS TREATMENT OPTION FOR THYROID EYE DISEASE (TED)</title>
+    <link href="https://www.gene.com/media/press-releases/15118/2026-06-29/fda-grants-priority-review-to-genentechs"/>
+    <id>https://www.gene.com/media/press-releases/15118/2026-06-29/fda-grants-priority-review-to-genentechs</id>
+    <summary type="text">The filing application is based on improvements seen across key efficacy endpoints from the global Phase III SatraGO-1 and SatraGO-2 studies, including proptosis (bulging eyes) and diplopia (double vision) in active TED</summary>
+  </entry>
+  <entry>
+    <title>Genentech: Press Releases | FDA accepts supplemental Biologics License Application for Genentech’s Lunsumio and Polivy combination for people with relapsed or refractory large B-cell lymphoma</title>
+    <link href="https://www.gene.com/media/press-releases/15117/2026-06-17/fda-accepts-supplemental-biologics-licen"/>
+    <id>https://www.gene.com/media/press-releases/15117/2026-06-17/fda-accepts-supplemental-biologics-licen</id>
+    <summary type="text">Filing acceptance based on data from the Phase III SUNMO study where subcutaneous Lunsumio VELO plus Polivy demonstrated a 59% reduction in risk of disease progression or death</summary>
+  </entry>
+  <entry>
+    <title>Genentech: Press Releases | FDA Grants Priority Review for Genentech’s Tecentriq for a Certain Type of Stage III Colon Cancer</title>
+    <link href="https://www.gene.com/media/press-releases/15116/2026-06-10/fda-grants-priority-review-for-genentech"/>
+    <id>https://www.gene.com/media/press-releases/15116/2026-06-10/fda-grants-priority-review-for-genentech</id>
+    <summary type="text">Filing acceptance is based on the Phase III Alliance ATOMIC study showing Tecentriq plus chemotherapy reduced recurrence or death risk by 50% versus chemotherapy alone.</summary>
+  </entry>
+  <entry>
+    <title>Genentech: Press Releases | FDA Accepts New Drug Application for Genentech’s Giredestrant in ER-Positive Early-Stage Breast Cancer, the First and Only Oral SERD With Positive Phase III Results in the Curative Setting</title>
+    <link href="https://www.gene.com/media/press-releases/15115/2026-06-01/fda-accepts-new-drug-application-for-gen"/>
+    <id>https://www.gene.com/media/press-releases/15115/2026-06-01/fda-accepts-new-drug-application-for-gen</id>
+    <summary type="text">Discover the latest news about our company, our products, our policies, and our people.</summary>
+  </entry>
+  <entry>
+    <title>Genentech: Press Releases | Genentech to Present New Data Advancing Its Obesity Portfolio at the American Diabetes Association’s 2026 Scientific Sessions</title>
+    <link href="https://www.gene.com/media/press-releases/15114/2026-05-31/genentech-to-present-new-data-advancing-"/>
+    <id>https://www.gene.com/media/press-releases/15114/2026-05-31/genentech-to-present-new-data-advancing-</id>
+    <summary type="text">Discover the latest news about our company, our products, our policies, and our people.</summary>
+  </entry>
+  <entry>
+    <title>Genentech: Press Releases | Genentech to Present New Data at ASCO 2026, Reinforcing Giredestrant&#x27;s Potential to Transform the Treatment Paradigm in Early Breast Cancer</title>
+    <link href="https://www.gene.com/media/press-releases/15113/2026-05-18/genentech-to-present-new-data-at-asco-20"/>
+    <id>https://www.gene.com/media/press-releases/15113/2026-05-18/genentech-to-present-new-data-at-asco-20</id>
+    <summary type="text">Discover the latest news about our company, our products, our policies, and our people.</summary>
+  </entry>
+  <entry>
+    <title>Genentech: Press Releases | FDA Approves Genentech’s Tecentriq for Adjuvant Muscle-Invasive Bladder Cancer With ctDNA-Guided Treatment</title>
+    <link href="https://www.gene.com/media/press-releases/15112/2026-05-15/fda-approves-genentechs-tecentriq-for-ad"/>
+    <id>https://www.gene.com/media/press-releases/15112/2026-05-15/fda-approves-genentechs-tecentriq-for-ad</id>
+    <summary type="text">Discover the latest news about our company, our products, our policies, and our people.</summary>
+  </entry>
+  <entry>
+    <title>News</title>
+    <link href="https://www.sanger.ac.uk/news/"/>
+    <id>https://www.sanger.ac.uk/news/</id>
+    <summary type="text">Wellcome Sanger Institute News</summary>
+  </entry>
+  <entry>
+    <title>2019 Chief Medical Officer’s Report published</title>
+    <link href="https://www.sanger.ac.uk/news_item/2019-chief-medical-officer-s-report-published/"/>
+    <id>https://www.sanger.ac.uk/news_item/2019-chief-medical-officer-s-report-published/</id>
+    <summary type="text">The 2019 report, Health, our global asset – partnering for progress features a postcard from Professor Nick Thomson, highlighting the importance of international collaboration in tracing cholera around the globe</summary>
   </entry>
 </feed>
