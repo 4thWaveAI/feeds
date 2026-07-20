@@ -5,21 +5,6 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/jeff-bezos.json",
   "items": [
     {
-      "id": "https://www.aboutamazon.com/news/company-news/amazon-earnings-q2-2026-report",
-      "url": "https://www.aboutamazon.com/news/company-news/amazon-earnings-q2-2026-report",
-      "title": "Amazon will share its Q2 2026 earnings on July 30",
-      "content_text": "On July 30, Amazon is set to hold a conference call to discuss its Q2 2026 financial results.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/3458e75/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F47%2F6d%2F7fe296e642859c7ba2a629eda3ba%2Famazon-logo-hero-images-2024.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
       "id": "https://www.aboutamazon.com/news/entertainment/prime-video-july-movies-shows-music-sports-2026",
       "url": "https://www.aboutamazon.com/news/entertainment/prime-video-july-movies-shows-music-sports-2026",
       "title": "What's new on Prime Video in July 2026, including 'Elle,' 'The Ghost in the Shell,' and live sports",
@@ -54,9 +39,28 @@
       ]
     },
     {
+      "id": "https://www.aboutamazon.com/news/entertainment/masters-of-the-universe-movie-amazon-mgm-studios",
+      "url": "https://www.aboutamazon.com/news/entertainment/masters-of-the-universe-movie-amazon-mgm-studios",
+      "title": "How to watch the 'Masters of the Universe' movie, streaming on Prime Video starting July 22",
+      "content_text": "The live-action film adaptation of the classic 1980s toy brand stars Nicholas Galitzine as Prince Adam/He-Man.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/9b393c2/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fe5%2F5f%2F16a1a4ed467f82af98246f674e98%2Funtitled-16-july-2026-at-10-35-53.png",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/X21JsHLHnY8?enablejsapi=1",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/company-news/amazon-news-today-top-stories-company",
       "url": "https://www.aboutamazon.com/news/company-news/amazon-news-today-top-stories-company",
-      "title": "What you need to know about Amazon today: July 17, 2026",
+      "title": "What you need to know about Amazon today: July 20, 2026",
       "content_text": "Here are the latest headlines from Amazon News.",
       "attachments": [
         {
@@ -99,21 +103,6 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/retail",
-      "url": "https://www.aboutamazon.com/news/retail",
-      "title": "Retail",
-      "content_text": "More information about shopping on Amazon and our selection of products and services.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
       "id": "https://www.aboutamazon.com/news/entertainment",
       "url": "https://www.aboutamazon.com/news/entertainment",
       "title": "Entertainment",
@@ -133,6 +122,21 @@
       "url": "https://www.aboutamazon.com/news/company-news",
       "title": "Company news",
       "content_text": "News and information about Amazon, Inc.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/retail",
+      "url": "https://www.aboutamazon.com/news/retail",
+      "title": "Retail",
+      "content_text": "More information about shopping on Amazon and our selection of products and services.",
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",

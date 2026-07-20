@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/research-integrity.json",
   "items": [
     {
+      "id": "https://retractionwatch.com/2026/07/20/publisher-investigating-peer-reviewer-for-alleged-bribery-scheme/",
+      "url": "https://retractionwatch.com/2026/07/20/publisher-investigating-peer-reviewer-for-alleged-bribery-scheme/",
+      "title": "Publisher investigating peer reviewer for alleged bribery scheme",
+      "content_text": "Deagreez/iStock Earlier this year, Tushar Sen, an independent researcher based in New Delhi, submitted a manuscript to Security and Privacy about the modeling of polymorphic malware. On May 15, a p…",
+      "attachments": [
+        {
+          "url": "https://retractionwatch.com/wp-content/uploads/2026/07/iStock-2216021200_credit_deagreez-e1784314619532.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "research-integrity"
+      ]
+    },
+    {
       "id": "https://retractionwatch.com/2026/07/18/weekend-reads-private-info-in-most-arxiv-preprints-why-did-george-church-decline-authorship-28-misconduct-cases-in-china/",
       "url": "https://retractionwatch.com/2026/07/18/weekend-reads-private-info-in-most-arxiv-preprints-why-did-george-church-decline-authorship-28-misconduct-cases-in-china/",
       "title": "Weekend reads: Private info in ‘most’ arXiv preprints; why did George Church decline authorship; 28 misconduct cases in China",
@@ -132,21 +147,6 @@
       "attachments": [
         {
           "url": "https://retractionwatch.com/wp-content/uploads/2026/07/statistics-and-computing-cover-.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "research-integrity"
-      ]
-    },
-    {
-      "id": "https://retractionwatch.com/2026/07/08/exclusive-sage-to-retract-multiple-articles-by-dismissed-rising-star-for-compromised-peer-review-process/",
-      "url": "https://retractionwatch.com/2026/07/08/exclusive-sage-to-retract-multiple-articles-by-dismissed-rising-star-for-compromised-peer-review-process/",
-      "title": "Exclusive: Sage to retract multiple articles by dismissed rising star for “compromised” peer-review process",
-      "content_text": "Yannick Griep, a former rising star in management research at Radboud University in the Netherlands, is set to lose an undisclosed number of articles from a journal he once edited, Retraction Watch…",
-      "attachments": [
-        {
-          "url": "https://retractionwatch.com/wp-content/uploads/2026/07/image-1.png",
           "mime_type": "image/png"
         }
       ],

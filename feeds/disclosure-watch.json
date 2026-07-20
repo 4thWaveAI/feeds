@@ -5,6 +5,111 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/disclosure-watch.json",
   "items": [
     {
+      "id": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/agn-sig-spotlight-series-21-july-2026/",
+      "url": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/agn-sig-spotlight-series-21-july-2026/",
+      "title": "AGN SIG Spotlight Series, 21 July 2026 - NASA Science",
+      "content_text": "Our Spotlight Series highlights recent advances in AGN science, with a strong emphasis on participation from early-career researchers, and includes plenty of time for community discussion following the presentations.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/cds/svs/a010000/a012100/a012102/Cen_A_Still.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/dgce-sig-seminar-23-july-2026/",
+      "url": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/dgce-sig-seminar-23-july-2026/",
+      "title": "DGCE SIG Seminar, 23 July 2026 - NASA Science",
+      "content_text": "From Micro to Macro: Connecting the Physics of Galaxy Formation Across Scales. Speaker: Drummond Fielding, New York University",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/cosmic-origins/images/dgce-sig/LH_95-DGCE.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/hwo-sig-seminar-12-august-2026/",
+      "url": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/hwo-sig-seminar-12-august-2026/",
+      "title": "HWO SIG Seminar, 12 August 2026 - NASA Science",
+      "content_text": "TBA",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/exep/resources/links/images/97_PIA17002.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ad-astra/",
+      "url": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ad-astra/",
+      "title": "Community Science (Ad ASTRA) Workshop, Sept 2026 - NASA Science",
+      "content_text": "1-3 September 2026. The Community Science (Ad ASTRA) Workshop is organized by the NASA Astrophysics Division to engage the community in defining future large, strategic astrophysics missions.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/physics-of-the-cosmos/images/hubble/NGC%202174.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/gw-sig-seminar-23-july-2026/",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/gw-sig-seminar-23-july-2026/",
+      "title": "GW SIG Seminar, 23 July 2026 - NASA Science",
+      "content_text": "GW SIG Seminar on LISA Preparatory Science and LISA Science Gaps. Details TBA",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/physics-of-the-cosmos/images/gwsig/ligo20160211d.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/habitable-worlds-observatory-sig-seminar-12-aug-2026/",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/habitable-worlds-observatory-sig-seminar-12-aug-2026/",
+      "title": "Habitable Worlds Observatory SIG Seminar, 12 Aug 2026 - NASA Science",
+      "content_text": "Habitable Worlds Observatory SIG Seminar. Details TBA",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/cds/general/images/2023/07/jpegpia17999.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/ad-astra/",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/ad-astra/",
+      "title": "Community Science (Ad ASTRA) Workshop, Sept 2026 - NASA Science",
+      "content_text": "1-3 September 2026. The Community Science (Ad ASTRA) Workshop is organized by the NASA Astrophysics Division.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/physics-of-the-cosmos/images/misc/Westerlund-2-heic1509a.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
       "id": "https://science.nasa.gov/astrophysics/programs/exep/resources/exoplanet-meetings/2026-sagan-summer-workshop/",
       "url": "https://science.nasa.gov/astrophysics/programs/exep/resources/exoplanet-meetings/2026-sagan-summer-workshop/",
       "title": "2026 Sagan Summer Workshop - Exoplanets with Roman Surveys: Microlensing and Transits - NASA Science",
@@ -35,119 +140,14 @@
       ]
     },
     {
-      "id": "https://science.nasa.gov/resource/viking-50-years-on-mars-poster/",
-      "url": "https://science.nasa.gov/resource/viking-50-years-on-mars-poster/",
-      "title": "Viking: 50 Years on Mars — Poster - NASA Science",
-      "content_text": "Throughout history, Mars had been in sight, but never within reach — until July 20, 1976, when NASA’s Viking 1 lander touched down safely and began",
+      "id": "https://www.nasa.gov/podcasts/universo-curioso-de-la-nasa/artemis-ii-el-regreso-de-la-humanidad-a-la-luna/",
+      "url": "https://www.nasa.gov/podcasts/universo-curioso-de-la-nasa/artemis-ii-el-regreso-de-la-humanidad-a-la-luna/",
+      "title": "Artemis II: El regreso de la humanidad a la Luna",
+      "content_text": "Acompáñanos en esta edición especial de Universo curioso de la NASA mientras hacemos un recorrido por la misión Artemis II de principio a fin.",
       "attachments": [
         {
-          "url": "https://assets.science.nasa.gov/content/dam/science/missions/viking/viking-—-50-years-on-mars-poster/Viking%2050%20Poster_Front_Digital.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
-      "title": "NASA Pushes New Wing Design to Find Structural Limits - NASA",
-      "content_text": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/AFRC2025-0136-1632/AFRC2025-0136-1632~large.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/",
-      "url": "https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/",
-      "title": "The Growing Crescent of Mars as NASA’s Psyche Mission Approaches - NASA Science",
-      "content_text": "This composite of images taken by NASA’s Psyche mission shows the crescent of Mars grow as the spacecraft approached the planet for a gravity assist from May",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26586/PIA26586.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/01/uc-s03-working-file-horizontal-v02-2.png",
           "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/",
-      "url": "https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/",
-      "title": "Establishing a VTE Risk Score for Astronauts Algorithm - NASA",
-      "content_text": "In April 2026, NASA’s Office of the Chief Health and Medical Officer (OCHMO) initiated a working group to review updated VTE case information, additional data",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/10-1177-1358863x221086619-fig2.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/gallery/nasas-viking-mission-to-mars/",
-      "url": "https://science.nasa.gov/gallery/nasas-viking-mission-to-mars/",
-      "title": "NASA's Viking Mission",
-      "content_text": "A gallery of images from NASA's Viking mission to Mars which, among its many \"firsts\" sent the first image from the surface of another planet back to Earth.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/PIA09703/PIA09703~large.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/",
-      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/",
-      "title": "NASA Awards Facilities Support Services Contract for Ames Research Center  - NASA",
-      "content_text": "CONTRACT RELEASE",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/image-article/nasas-chandra-and-ixpe-study-pulsar-in-lighthouse-nebula/",
-      "url": "https://www.nasa.gov/image-article/nasas-chandra-and-ixpe-study-pulsar-in-lighthouse-nebula/",
-      "title": "NASA's Chandra and IXPE Study Pulsar in Lighthouse Nebula - NASA",
-      "content_text": "This composite image, released on July 9, 2026, shows the region around a pulsar – a neutron star with a strong magnetic field that spins incredibly fast –",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/lighthouse-lg.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-de-comunicacion-al-lanzamiento-del-telescopio-espacial-roman/",
-      "url": "https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-de-comunicacion-al-lanzamiento-del-telescopio-espacial-roman/",
-      "title": "La NASA invita a los medios de comunicación al lanzamiento del telescopio espacial Roman - NASA",
-      "content_text": "Read this release in English here.",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/roman.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [

@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/biotech.json",
   "items": [
     {
+      "id": "https://www.embl.org/news/science-technology/scientists-map-how-the-flu-virus-rewires-the-human-cell-from-the-inside/",
+      "url": "https://www.embl.org/news/science-technology/scientists-map-how-the-flu-virus-rewires-the-human-cell-from-the-inside/",
+      "title": "Scientists map how the flu virus rewires the human cell from the inside | EMBL",
+      "content_text": "EMBL Hamburg researchers and their collaborators have gained new insights into how the influenza A virus reprograms cellular machinery",
+      "attachments": [
+        {
+          "url": "https://www.embl.org/news/wp-content/uploads/2026/07/Kosinski_fluVirus.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "biotech"
+      ]
+    },
+    {
       "id": "https://www.embl.org/news/science-technology/novotags-ai-designed-proteins-help-scientists-see-inside-living-cells/",
       "url": "https://www.embl.org/news/science-technology/novotags-ai-designed-proteins-help-scientists-see-inside-living-cells/",
       "title": "NovoTags: AI-designed proteins help scientists see inside living cells | EMBL",
@@ -136,21 +151,6 @@
       "attachments": [
         {
           "url": "https://www.embl.org/news/wp-content/uploads/2026/06/Shreya_Featured_ErzbergerPolarisedBounary.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "biotech"
-      ]
-    },
-    {
-      "id": "https://www.embl.org/news/embl-announcements/embl-annual-report-2025-online/",
-      "url": "https://www.embl.org/news/embl-announcements/embl-annual-report-2025-online/",
-      "title": "EMBL Annual Report 2025 online | EMBL",
-      "content_text": "EMBL’s 2025 annual report is now online, sharing achievements across its five missions, along with key facts and figures from the year.",
-      "attachments": [
-        {
-          "url": "https://www.embl.org/news/wp-content/uploads/2026/06/Mock-up_EMBL-Annual-report2025.jpg",
           "mime_type": "image/jpeg"
         }
       ],

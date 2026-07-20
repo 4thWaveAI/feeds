@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/structural-battery-composites.atom.xml"/>
   <id>urn:4thwaveai-feeds:structural-battery-composites</id>
-  <updated>Mon, 20 Jul 2026 04:57:32 +0000</updated>
+  <updated>Mon, 20 Jul 2026 14:40:41 +0000</updated>
   <entry>
     <title>The biggest problem with solid-state batteries may finally be solved</title>
     <link href="https://www.sciencedaily.com/releases/2026/07/260710003533.htm"/>
@@ -84,6 +84,12 @@
     <summary type="text">Two studies highlight the ways in which artificial intelligence can be used to improve ionizable lipid design for lipid nanoparticle-mediated mRNA delivery.</summary>
   </entry>
   <entry>
+    <title>Relaxor-like ferroelectric response and achiral–chiral switching in an amorphous molecular solid - Nature Communications</title>
+    <link href="https://www.nature.com/articles/s41467-026-75838-4"/>
+    <id>https://www.nature.com/articles/s41467-026-75838-4</id>
+    <summary type="text">Relaxor ferroelectrics provide a fertile platform for reconfigurable electronics, yet their fluctuating dipolar networks lack intrinsic mechanisms for symmetry modulation. Using a salicylideneaniline derivative that undergoes a UV-triggered achiral-to-chiral transition the authors show that structural disorder reshapes coupled chiroptical and polarization dynamics.</summary>
+  </entry>
+  <entry>
     <title>Automated and Scalable SEM Image Analysis of Perovskite Solar Cell Materials via a Deep Segmentation Framework - npj Computational Materials</title>
     <link href="https://www.nature.com/articles/s41524-026-02211-w"/>
     <id>https://www.nature.com/articles/s41524-026-02211-w</id>
@@ -96,21 +102,15 @@
     <summary type="text">Scientific Reports ( 2026 ) Cite this article</summary>
   </entry>
   <entry>
-    <title>Computational insights into the 5-fluorouracil loading efficiency of chitosan-PLGA nanocarrier in water - Scientific Reports</title>
-    <link href="https://www.nature.com/articles/s41598-026-62202-1"/>
-    <id>https://www.nature.com/articles/s41598-026-62202-1</id>
+    <title>First observation of novel satellites using high-resolution XR-HERFD measurement of Zn Kα emission - Scientific Reports</title>
+    <link href="https://www.nature.com/articles/s41598-026-62154-6"/>
+    <id>https://www.nature.com/articles/s41598-026-62154-6</id>
     <summary type="text">Scientific Reports ( 2026 ) Cite this article</summary>
   </entry>
   <entry>
-    <title>Enhanced energy storage in tungsten bronze-based ferroelectrics and MLCCs via a multi-coating engineering - Nature Communications</title>
-    <link href="https://www.nature.com/articles/s41467-026-75708-z"/>
-    <id>https://www.nature.com/articles/s41467-026-75708-z</id>
-    <summary type="text">The authors construct tungsten bronze–perovskite composites with a SiO₂ coating, forming a dual-core-shell architecture. This design yields a high energy density of 23.2 J/cm³ and 92.8% efficiency in multilayer ceramic capacitors, due to enhanced polarization and breakdown strength, alongside excellent thermal and fatigue stability.</summary>
-  </entry>
-  <entry>
-    <title>Multimodal graph-based deep learning for predicting heat of combustion as a key hazard indicator under GHS/CLP standards - Scientific Reports</title>
-    <link href="https://www.nature.com/articles/s41598-026-60540-8"/>
-    <id>https://www.nature.com/articles/s41598-026-60540-8</id>
+    <title>Long term metal release risk of lithium slag based mine backfill under different pH conditions - Scientific Reports</title>
+    <link href="https://www.nature.com/articles/s41598-026-62949-7"/>
+    <id>https://www.nature.com/articles/s41598-026-62949-7</id>
     <summary type="text">Scientific Reports ( 2026 ) Cite this article</summary>
   </entry>
 </feed>

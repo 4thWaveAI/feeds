@@ -320,6 +320,24 @@
       ]
     },
     {
+      "id": "https://digital-strategy.ec.europa.eu/en/news/commission-publishes-guidelines-transparency-obligations-providers-and-deployers-certain-ai-systems",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-publishes-guidelines-transparency-obligations-providers-and-deployers-certain-ai-systems",
+      "title": "Commission publishes guidelines on transparency obligations for providers and deployers of certain AI systems",
+      "content_text": "Today, the European Commission published guidelines to assist providers and deployers of artificial intelligence (AI) systems in meeting the AI Act's transparency obligations, which start to apply on 2 August 2026.",
+      "tags": [
+        "ai-policy-ethics-standards"
+      ]
+    },
+    {
+      "id": "https://digital-strategy.ec.europa.eu/en/news/commission-fines-aliexpress-eu550-million-breaching-digital-services-act",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-fines-aliexpress-eu550-million-breaching-digital-services-act",
+      "title": "Commission fines AliExpress €550 million for breaching the Digital Services Act",
+      "content_text": "Today, the European Commission fined AliExpress €550 million for breaching its obligations under the Digital Services Act (DSA) to diligently assess and mitigate risks relating to the sale of illegal, unsafe or counterfeit products on its e-commerce platform.",
+      "tags": [
+        "ai-policy-ethics-standards"
+      ]
+    },
+    {
       "id": "https://digital-strategy.ec.europa.eu/en/news/commission-accepts-xs-action-plan-comply-digital-services-act",
       "url": "https://digital-strategy.ec.europa.eu/en/news/commission-accepts-xs-action-plan-comply-digital-services-act",
       "title": "Commission accepts X’s action plan to comply with Digital Services Act",
@@ -329,10 +347,10 @@
       ]
     },
     {
-      "id": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-addictive-design-instagram-and-facebook-breach-digital-services-act",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-addictive-design-instagram-and-facebook-breach-digital-services-act",
-      "title": "Commission preliminarily finds the addictive design of Instagram and Facebook in breach of the Digital Services Act",
-      "content_text": "The European Commission has preliminarily found Meta in breach of the Digital Services Act for the addictive design of Instagram and Facebook.",
+      "id": "https://digital-strategy.ec.europa.eu/en/news/digital-technologies-power-europes-clean-energy-transition",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/digital-technologies-power-europes-clean-energy-transition",
+      "title": "Digital technologies to power Europe's clean energy transition",
+      "content_text": "The European Commission adopted the Electrification Action Plan and proposed an amendment to Regulation (EU) 2019/943 to future-proof electricity bills in the EU.",
       "tags": [
         "ai-policy-ethics-standards"
       ]
@@ -356,19 +374,19 @@
       ]
     },
     {
-      "id": "https://digital-strategy.ec.europa.eu/en/news/eu-and-india-strengthen-strategic-partnership-third-trade-and-technology-council",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/eu-and-india-strengthen-strategic-partnership-third-trade-and-technology-council",
-      "title": "EU and India strengthen strategic partnership with third Trade and Technology Council",
-      "content_text": "The European Union and India held the third meeting of their Trade and Technology Council (TTC) in Brussels, reaffirming the TTC as a central platform for cooperation on trade, technology and security.",
+      "id": "https://digital-strategy.ec.europa.eu/en/news/commission-accepts-xs-corrective-measures-terminate-breaches-dsa",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-accepts-xs-corrective-measures-terminate-breaches-dsa",
+      "title": "Commission accepts X's corrective measures to terminate breaches of the DSA",
+      "content_text": "The European Commission has accepted X’s action plan to comply with transparency obligations and researchers’ access to data, under the Digital Services Act.",
       "tags": [
         "ai-policy-ethics-standards"
       ]
     },
     {
-      "id": "https://digital-strategy.ec.europa.eu/en/news/commission-accepts-xs-corrective-measures-terminate-breaches-dsa",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-accepts-xs-corrective-measures-terminate-breaches-dsa",
-      "title": "Commission accepts X's corrective measures to terminate breaches of the DSA",
-      "content_text": "The European Commission has accepted X’s action plan to comply with transparency obligations and researchers’ access to data, under the Digital Services Act.",
+      "id": "https://digital-strategy.ec.europa.eu/en/news/eu-and-india-strengthen-strategic-partnership-third-trade-and-technology-council",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/eu-and-india-strengthen-strategic-partnership-third-trade-and-technology-council",
+      "title": "EU and India strengthen strategic partnership with third Trade and Technology Council",
+      "content_text": "The European Union and India held the third meeting of their Trade and Technology Council (TTC) in Brussels, reaffirming the TTC as a central platform for cooperation on trade, technology and security.",
       "tags": [
         "ai-policy-ethics-standards"
       ]
@@ -393,6 +411,33 @@
       "url": "https://digital-strategy.ec.europa.eu/en/news/team-europe-wins-1st-ever-international-cybersecurity-challenge-women",
       "title": "Team Europe wins 1st ever International Cybersecurity Challenge for women | ENISA",
       "content_text": "Back to News",
+      "tags": [
+        "ai-policy-ethics-standards"
+      ]
+    },
+    {
+      "id": "https://digital-strategy.ec.europa.eu/en/news/eu-agrees-simplify-ai-rules-boost-innovation-and-ban-nudification-apps-protect-citizens",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/eu-agrees-simplify-ai-rules-boost-innovation-and-ban-nudification-apps-protect-citizens",
+      "title": "EU agrees to simplify AI rules to boost innovation and ban ‘nudification' apps to protect citizens",
+      "content_text": "The European Commission welcomes the political agreement reached between the European Parliament and the Council of the EU on simpler, innovation-friendly rules for artificial intelligence (AI).",
+      "tags": [
+        "ai-policy-ethics-standards"
+      ]
+    },
+    {
+      "id": "https://digital-strategy.ec.europa.eu/en/news/supporting-implementation-ai-act-clear-guidelines",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/supporting-implementation-ai-act-clear-guidelines",
+      "title": "Supporting the implementation of the AI Act with clear guidelines",
+      "content_text": "The AI Office is preparing guidelines to ensure a smooth implementation of the AI Act.",
+      "tags": [
+        "ai-policy-ethics-standards"
+      ]
+    },
+    {
+      "id": "https://digital-strategy.ec.europa.eu/en/news/commission-presents-eu-action-plan-cybersecurity-and-artificial-intelligence",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-presents-eu-action-plan-cybersecurity-and-artificial-intelligence",
+      "title": "Commission presents EU Action Plan on Cybersecurity and Artificial Intelligence",
+      "content_text": "The European Commission has presented an Action Plan for a structured response to address the risks and harness the opportunities of advanced artificial intelligence (AI) models for cybersecurity.",
       "tags": [
         "ai-policy-ethics-standards"
       ]
@@ -437,6 +482,15 @@
       ]
     },
     {
+      "id": "https://www.miit.gov.cn/xwfb/mtbd/wzbd/art/2026/art_810b809dc0c4454ca8186b06757333b1.html",
+      "url": "https://www.miit.gov.cn/xwfb/mtbd/wzbd/art/2026/art_810b809dc0c4454ca8186b06757333b1.html",
+      "title": "“促进全球人工智能朝着向上向善、造福人类的方向发展”——习近平主席出席二〇二六世界人工 智能大会暨人工智能全球治理高级别会议系列活动纪实",
+      "content_text": "7月17日的上海，大国外交的华章、科技创新的盛景，交相辉映。",
+      "tags": [
+        "ai-policy-ethics-standards"
+      ]
+    },
+    {
       "id": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_7bfe4f7a022845169593a56ba76c156e.html",
       "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_7bfe4f7a022845169593a56ba76c156e.html",
       "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -455,55 +509,25 @@
       ]
     },
     {
-      "id": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_eff1f6a667254e58876fa95279c2766d.html",
-      "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_eff1f6a667254e58876fa95279c2766d.html",
-      "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主席声明（全文）",
-      "content_text": "新华社上海7月17日电",
-      "tags": [
-        "ai-policy-ethics-standards"
-      ]
-    },
-    {
-      "id": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_a8506c203b154204a180159cc9c2a483.html",
-      "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_a8506c203b154204a180159cc9c2a483.html",
-      "title": "习近平会见哈萨克斯坦总统托卡耶夫",
-      "content_text": "习近平会见哈萨克斯坦总统托卡耶夫",
-      "tags": [
-        "ai-policy-ethics-standards"
-      ]
-    },
-    {
-      "id": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_d2bba792900e48ba84936216946d590c.html",
-      "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_d2bba792900e48ba84936216946d590c.html",
-      "title": "习近平会见泰国总理阿努廷",
-      "content_text": "习近平会见泰国总理阿努廷",
-      "tags": [
-        "ai-policy-ethics-standards"
-      ]
-    },
-    {
-      "id": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_25d95485635c4b9a9e71607a1fc720b5.html",
-      "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_25d95485635c4b9a9e71607a1fc720b5.html",
-      "title": "习近平会见柬埔寨首相洪玛奈",
-      "content_text": "习近平会见柬埔寨首相洪玛奈",
-      "tags": [
-        "ai-policy-ethics-standards"
-      ]
-    },
-    {
-      "id": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_091cd145bbf6498ebf8869d3e8f9641c.html",
-      "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_091cd145bbf6498ebf8869d3e8f9641c.html",
-      "title": "习近平会见联合国秘书长古特雷斯",
-      "content_text": "习近平会见联合国秘书长古特雷斯",
-      "tags": [
-        "ai-policy-ethics-standards"
-      ]
-    },
-    {
       "id": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_7bfe4f7a022845169593a56ba76c156e.html",
       "url": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_7bfe4f7a022845169593a56ba76c156e.html",
       "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
       "content_text": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+      "tags": [
+        "ai-policy-ethics-standards"
+      ]
+    },
+    {
+      "id": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_b6e07e126a124eee8a0a8c5f57631056.html",
+      "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_b6e07e126a124eee8a0a8c5f57631056.html",
+      "title": "2026年全国工业和信息化主管部门负责同志座谈会在京召开",
+      "content_text": "2026年全国工业和信息化主管部门负责同志座谈会在京召开",
+      "attachments": [
+        {
+          "url": "http://www.miit.gov.cn/cms_files/filemanager/1226211233/video/20267/3b2710cb4dc840779878cb7f1f2bc3cc.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
       "tags": [
         "ai-policy-ethics-standards"
       ]
@@ -522,6 +546,33 @@
       "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_a1f6eb5be6e64c639706dae019e50d19.html",
       "title": "李乐成会见沙特通信和信息技术大臣阿卜杜拉·苏瓦哈",
       "content_text": "2026年7月14日，工业和信息化部部长李乐成在京会见沙特通信和信息技术大臣阿卜杜拉·苏瓦哈，双方就深化中沙信息通信领域合作进行深入交流。",
+      "tags": [
+        "ai-policy-ethics-standards"
+      ]
+    },
+    {
+      "id": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_a1dcaacc0394430fa13197ef3946dece.html",
+      "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_a1dcaacc0394430fa13197ef3946dece.html",
+      "title": "工业和信息化部举行“亚太经合组织（APEC）2026年数字和人工智能部长会议及数字周相关活动新闻通气会”",
+      "content_text": "2026年7月10日，工业和信息化部举行“亚太经合组织（APEC）2026年数字和人工智能部长会议及数字周相关活动新闻通气会”。工业和信息化部副部长熊继军，APEC中国高官、外交部国际经济司参赞程烈，工业和信息化部国际合作司副司长张晓雷，国家数据局国际数据治理合作司司长宋宪荣，四川省人民政府副秘书长、办公厅主任杨昕，成都市人民政府副市长许兴国出席新闻通气会，介绍有关情况并回答记者提问。本次新闻通气会由工业和信息化部新闻发言人、办公厅副主任龚宪主持。",
+      "tags": [
+        "ai-policy-ethics-standards"
+      ]
+    },
+    {
+      "id": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_c3864a22fe084e328c7ba09acb89d8b9.html",
+      "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_c3864a22fe084e328c7ba09acb89d8b9.html",
+      "title": "习近平对重庆彭水县山体崩塌作出重要指示",
+      "content_text": "习近平对重庆彭水县山体崩塌作出重要指示强调 科学组织搜救 加强监测预警和巡查排险 切实保障人民群众生命财产安全 李强作出批示",
+      "tags": [
+        "ai-policy-ethics-standards"
+      ]
+    },
+    {
+      "id": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_091cd145bbf6498ebf8869d3e8f9641c.html",
+      "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_091cd145bbf6498ebf8869d3e8f9641c.html",
+      "title": "习近平会见联合国秘书长古特雷斯",
+      "content_text": "习近平会见联合国秘书长古特雷斯",
       "tags": [
         "ai-policy-ethics-standards"
       ]

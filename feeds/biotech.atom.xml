@@ -4,7 +4,14 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/biotech.atom.xml"/>
   <id>urn:4thwaveai-feeds:biotech</id>
-  <updated>Mon, 20 Jul 2026 04:55:34 +0000</updated>
+  <updated>Mon, 20 Jul 2026 14:39:32 +0000</updated>
+  <entry>
+    <title>Scientists map how the flu virus rewires the human cell from the inside | EMBL</title>
+    <link href="https://www.embl.org/news/science-technology/scientists-map-how-the-flu-virus-rewires-the-human-cell-from-the-inside/"/>
+    <id>https://www.embl.org/news/science-technology/scientists-map-how-the-flu-virus-rewires-the-human-cell-from-the-inside/</id>
+    <summary type="text">EMBL Hamburg researchers and their collaborators have gained new insights into how the influenza A virus reprograms cellular machinery</summary>
+    <updated>Mon, 20 Jul 2026 09:02:13 +0000</updated>
+  </entry>
   <entry>
     <title>NovoTags: AI-designed proteins help scientists see inside living cells | EMBL</title>
     <link href="https://www.embl.org/news/science-technology/novotags-ai-designed-proteins-help-scientists-see-inside-living-cells/"/>
@@ -67,13 +74,6 @@
     <id>https://www.embl.org/news/science-technology/cells-boundaries-and-the-emergence-of-biological-order/</id>
     <summary type="text">Scientists have shown how the boundaries of biological tissues create geometric constraints that lead cells to orient in a magnet-like manner</summary>
     <updated>Tue, 30 Jun 2026 09:01:56 +0000</updated>
-  </entry>
-  <entry>
-    <title>EMBL Annual Report 2025 online | EMBL</title>
-    <link href="https://www.embl.org/news/embl-announcements/embl-annual-report-2025-online/"/>
-    <id>https://www.embl.org/news/embl-announcements/embl-annual-report-2025-online/</id>
-    <summary type="text">EMBL’s 2025 annual report is now online, sharing achievements across its five missions, along with key facts and figures from the year.</summary>
-    <updated>Thu, 25 Jun 2026 11:04:02 +0000</updated>
   </entry>
   <entry>
     <title>Large-scale microbiome study identifies robust colorectal cancer signature | EMBL</title>

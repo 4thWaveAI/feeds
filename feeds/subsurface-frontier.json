@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/subsurface-frontier.json",
   "items": [
     {
+      "id": "https://www.bgs.ac.uk/news/building-europes-geological-future/",
+      "url": "https://www.bgs.ac.uk/news/building-europes-geological-future/",
+      "title": "Building Europe’s geological future - British Geological Survey",
+      "content_text": "BGS scientists are contributing to a continent-wide initiative that is strengthening collaboration across borders to tackle shared subsurface challenges and unlock new opportunities.",
+      "attachments": [
+        {
+          "url": "https://www.bgs.ac.uk/wp-content/uploads/2026/07/IMG_9048.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "subsurface-frontier"
+      ]
+    },
+    {
       "id": "https://www.bgs.ac.uk/news/delving-deep-into-mountains-for-future-water-security/",
       "url": "https://www.bgs.ac.uk/news/delving-deep-into-mountains-for-future-water-security/",
       "title": "Delving deep into mountains for future water security - British Geological Survey",
@@ -133,21 +148,6 @@
         {
           "url": "https://www.bgs.ac.uk/wp-content/uploads/2026/07/Subsea_Cable_iStock-1362710800.jpg",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "subsurface-frontier"
-      ]
-    },
-    {
-      "id": "https://www.bgs.ac.uk/news/uk-critical-minerals-intelligence-centre-makes-recommendations-for-the-next-uk-criticality-assessment/",
-      "url": "https://www.bgs.ac.uk/news/uk-critical-minerals-intelligence-centre-makes-recommendations-for-the-next-uk-criticality-assessment/",
-      "title": "UK Critical Minerals Intelligence Centre makes recommendations for the next UK criticality assessment - British Geological Survey",
-      "content_text": "CMIC has outlined the enhancements made to the next assessment update to ensure it is better tailored to the structure of the UK economy.",
-      "attachments": [
-        {
-          "url": "https://www.bgs.ac.uk/wp-content/uploads/2026/06/P1071047.webp",
-          "mime_type": "image/webp"
         }
       ],
       "tags": [

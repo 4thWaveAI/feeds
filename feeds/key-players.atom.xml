@@ -4,7 +4,14 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/key-players.atom.xml"/>
   <id>urn:4thwaveai-feeds:key-players</id>
-  <updated>Mon, 20 Jul 2026 05:08:12 +0000</updated>
+  <updated>Mon, 20 Jul 2026 14:48:16 +0000</updated>
+  <entry>
+    <title>Microsoft expands Azure AI and HPC infrastructure with AMD - The Official Microsoft Blog</title>
+    <link href="https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/"/>
+    <id>https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/</id>
+    <summary type="text">AI workloads are scaling faster than any single infrastructure approach can support — with more models, new agent-driven workloads and surging compute demand driving the need for greater specialization across the stack. To meet this need, Microsoft continues to evolve Azure’s infrastructure, including expanding its AI fleet with AMD’s most advanced AI and high-performance computing...</summary>
+    <updated>Mon, 20 Jul 2026 13:00:02 +0000</updated>
+  </entry>
   <entry>
     <title>The latest in our company transformation - The Official Microsoft Blog</title>
     <link href="https://blogs.microsoft.com/blog/2026/07/06/the-latest-in-our-company-transformation/"/>
@@ -67,13 +74,6 @@
     <id>https://blogs.microsoft.com/blog/2026/05/21/from-ai-pilots-to-enterprise-impact-why-execution-is-the-new-differentiator/</id>
     <summary type="text">As the pace of change accelerates, organizations are moving quickly from AI experimentation to enterprise-scale transformation. Leaders are prioritizing measurable outcomes, faster time to value and repeatability across the business. But many are encountering the same reality: the challenge is no longer deciding whether to invest in AI — it’s scaling adoption and delivering consistent,...</summary>
     <updated>Thu, 21 May 2026 11:02:33 +0000</updated>
-  </entry>
-  <entry>
-    <title>How Frontier Firms are rebuilding the operating model for the age of AI - The Official Microsoft Blog</title>
-    <link href="https://blogs.microsoft.com/blog/2026/05/05/how-frontier-firms-are-rebuilding-the-operating-model-for-the-age-of-ai/"/>
-    <id>https://blogs.microsoft.com/blog/2026/05/05/how-frontier-firms-are-rebuilding-the-operating-model-for-the-age-of-ai/</id>
-    <summary type="text">Updated May 11, 2026: The post was updated to reflect that third-party plugins will be available starting May 12, 2026. Spend time with any software engineering team right now and you’ll see something worth paying attention to. Over the last few years, the way software gets built has moved through four distinct patterns of human-agent...</summary>
-    <updated>Tue, 05 May 2026 10:00:01 +0000</updated>
   </entry>
   <entry>
     <title>Major League Soccer returns to Apple TV tomorrow</title>

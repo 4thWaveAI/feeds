@@ -5,6 +5,36 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/gsel-esports-ai.json",
   "items": [
     {
+      "id": "https://esports.gg/news/counter-strike-2/all-cs2-updates/",
+      "url": "https://esports.gg/news/counter-strike-2/all-cs2-updates/",
+      "title": "Every major Counter-Strike 2 update, explained",
+      "content_text": "Valve is traditionally slow to release big CS2 updates, but time after time, we receive fundamental changes to the game. They shape the experience for casual and pro players alike.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2023/09/CS2-VAC-was-unable-to-verify-game-session-error.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/valorant/valorant-maps-entry-frag-part-three/",
+      "url": "https://esports.gg/news/valorant/valorant-maps-entry-frag-part-three/",
+      "title": "All VALORANT Maps explained: From Ascent to Summit",
+      "content_text": "What's your favorite map feature?",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2023/09/All-VALORANT-Maps-explained-From-Ascent-to-Summit.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
       "id": "https://esports.gg/news/counter-strike-2/most-popular-maps-cs2/",
       "url": "https://esports.gg/news/counter-strike-2/most-popular-maps-cs2/",
       "title": "All CS2 maps explained",
@@ -140,36 +170,6 @@
       ]
     },
     {
-      "id": "https://esports.gg/news/fgc/fatal-fury-city-of-the-wolves-release-date-features-and-more/",
-      "url": "https://esports.gg/news/fgc/fatal-fury-city-of-the-wolves-release-date-features-and-more/",
-      "title": "FATAL FURY: City of the Wolves Characters: Full Roster & DLC List (July 2026)",
-      "content_text": "Here's the complete list of FATAL FURY: City of the Wolves characters.",
-      "attachments": [
-        {
-          "url": "https://media.esports.gg/uploads/2026/06/FATAL-FURY-City-of-the-Wolves-Characters-Full-Roster-DLC-List-July-2026.avif",
-          "mime_type": "image/avif"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
-      "id": "https://esports.gg/news/mobile-legends-bang-bang/msc-2026-ewc-schedule-results-livestream/",
-      "url": "https://esports.gg/news/mobile-legends-bang-bang/msc-2026-ewc-schedule-results-livestream/",
-      "title": "MSC 2026 Esports World Cup: Format, schedule, results, and more",
-      "content_text": "Here is a complete guide to MSC 2026 at the Esports World Cup, including match results, schedules, and key information.",
-      "attachments": [
-        {
-          "url": "https://media.esports.gg/uploads/2026/07/MSC-2026-Esports-World-Cup-Format-schedule-results-and-more.avif",
-          "mime_type": "image/avif"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
       "id": "https://esportsinsider.com/2026/07/new-counter-strike-2-comms-rule-debate",
       "url": "https://esportsinsider.com/2026/07/new-counter-strike-2-comms-rule-debate",
       "title": "Is Counter-Strike 2 going soft? Esports fans react to new comms rule and debate hate speech vs. trash talk",
@@ -293,7 +293,7 @@
       "id": "https://esports.gg/news/",
       "url": "https://esports.gg/news/",
       "title": "News Archives",
-      "content_text": "The Counter-Strike 2 (CS2) community has clear preferences for map picks in pro and casual play. The reasons often lie in the balance between two team roles and the variety of strategies.",
+      "content_text": "Valve is traditionally slow to release big CS2 updates, but time after time, we receive fundamental changes to the game. They shape the experience for casual and pro players alike.",
       "tags": [
         "gsel-esports-ai"
       ]

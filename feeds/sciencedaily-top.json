@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sciencedaily-top.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2026/07/260719231758.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719231758.htm",
+      "title": "Some dinosaurs could rise like giants until they grew too big",
+      "content_text": "Two elephant-sized South American sauropods were unusually well built for standing on their hind legs. Digital tests showed that their robust femurs handled the enormous forces better than those of larger species, especially while the dinosaurs were young. The upright pose may have helped them reach treetops, frighten predators, or impress potential mates.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/two-neuquensaurus-stand-on-hind-legs.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm",
       "url": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm",
       "title": "The mysterious hum heard around the world may finally have an explanation",
@@ -20,6 +35,51 @@
       ]
     },
     {
+      "id": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm",
+      "title": "An ordinary laptop solved a problem thought to require a quantum computer",
+      "content_text": "A quantum problem once described as impossible for classical computers has now been solved using relatively modest hardware. Researchers used tensor networks to compress the overwhelming wave function created by hundreds of entangled qubits, allowing some calculations to run on a laptop. Their results matched both theoretical predictions and simulations performed with a quantum computer. The method could open new paths for exploring quantum dynamics and materials.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/universe-simulation-laptop-computer.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/07/260719035939.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719035939.htm",
+      "title": "Earth’s waters are quietly running out of oxygen, scientists warn",
+      "content_text": "Oxygen is disappearing from oceans, lakes, rivers, and coastal waters at an alarming rate, threatening aquatic life and weakening the natural processes that help regulate Earth’s climate. Scientists warn that this widespread deoxygenation is closely connected to other major planetary threats, including warming, pollution, biodiversity loss, and ocean acidification.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/ocean-oxygen-carbon-dioxide-bubbles.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
+      "title": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
+      "content_text": "Researchers have uncovered a surprising culprit behind sleep loss in Alzheimer’s disease: the brain’s own immune cells. In mice with amyloid plaques, overactive microglia triggered inflammation that kept the brain from getting enough deep, restorative sleep. Temporarily removing most of these cells restored more than two hours of sleep per day, even though the plaques remained unchanged.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/sleep-man-brain-spine-nervous-system.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2026/07/260719035927.htm",
       "url": "https://www.sciencedaily.com/releases/2026/07/260719035927.htm",
       "title": "Coffee may help the body fight stress and aging through a hidden cellular switch",
@@ -27,6 +87,21 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/woman-enjoying-morning-coffee-and-sunshine.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/07/260718010200.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010200.htm",
+      "title": "UCLA scientists develop mineral sunscreen without the chalky white cast",
+      "content_text": "Scientists have redesigned zinc oxide particles to create a mineral sunscreen that protects against ultraviolet radiation without leaving such a noticeable white cast. The SPF 30 formula could make sunscreen easier and more appealing to use across a wider range of skin tones.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/woman-applying-sunblock-cream.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -80,6 +155,21 @@
       ]
     },
     {
+      "id": "https://www.sciencedaily.com/releases/2026/07/260718010147.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010147.htm",
+      "title": "Scientists found two powerful new ways to destroy forever chemicals",
+      "content_text": "Scientists are testing two promising ways to destroy PFAS, the stubborn “forever chemicals” that can accumulate in water and resist normal treatment. One method uses collapsing vapor bubbles to generate extreme heat and reactive molecules, while the other uses cold plasma and rising gas bubbles to pull PFAS to the surface and break them apart.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/plasma-plus-cavitation-destroys-toxic-pollutants.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2026/07/260718010142.htm",
       "url": "https://www.sciencedaily.com/releases/2026/07/260718010142.htm",
       "title": "Scientists identify the rare meteorite that killed the dinosaurs 66 million years ago",
@@ -87,6 +177,21 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/huge-asteroid-meteor-slams-into-earth.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/07/260718010140.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010140.htm",
+      "title": "Scientists discover a protein that protects the brain from Alzheimer’s damage",
+      "content_text": "A protein called SORLA may act as a powerful defense against the toxic tau tangles involved in Alzheimer’s disease. Mice with extra SORLA had less tau accumulation, less brain atrophy, and healthier connections between neurons, while mice without it experienced more severe damage. The findings also revealed a possible drug target that could help control harmful activity in supporting brain cells.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/brain-shield-dementia-protection.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -192,111 +297,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/monster-star-supermassive-black-hole-formation.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/07/260716023559.htm",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260716023559.htm",
-      "title": "A shattered asteroid may have bombarded Earth 800 million years ago",
-      "content_text": "A catastrophic asteroid breakup may have triggered a huge wave of impacts across the inner solar system about 800 million years ago. The debris was launched from near a gravitational gateway controlled by Jupiter, sending fragments toward Earth, the Moon, and Mars. The bombardment may explain ancient lunar craters and could have contributed to major climate and biological changes on Earth.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/cosmic-collision.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/07/260716023552.htm",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260716023552.htm",
-      "title": "Scientists tested 39 sweeteners and found unexpected gut effects",
-      "content_text": "A large laboratory study found that many commonly used sweeteners can directly change the growth of gut bacteria. Researchers identified more than 100 cases in which sweeteners behaved differently when combined with medications, caffeine, or flavorings. The combination of isosteviol and the antidepressant duloxetine was especially disruptive, reducing beneficial bacteria and overall microbial diversity.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/bacteria-intestinal-microbiome-in-digestive-tract.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/07/260715083552.htm",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260715083552.htm",
-      "title": "New “living plastic” self-destructs in just 6 days without leaving microplastics",
-      "content_text": "Researchers have created self-destructing living plastic that uses engineered bacteria to completely break itself down when activated. The material degrades in just six days without creating microplastics, offering a potential new solution for single-use plastic waste.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/dirty-paper-plate-biodegradable-plastic-utensils.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/07/260715083551.htm",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260715083551.htm",
-      "title": "Koalas nearly went extinct before humans arrived, DNA study reveals",
-      "content_text": "A major DNA study has rewritten the koala&apos;s evolutionary story, revealing that the species suffered a dramatic population collapse about 100,000 years ago, long before humans arrived in Australia. By calculating the koala&apos;s mutation rate for the first time and analyzing hundreds of genomes, researchers discovered that every living koala traces back to a small group that survived extreme climate shifts and later repopulated eastern Australia.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/koala-stare.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/07/260715083546.htm",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260715083546.htm",
-      "title": "Scientists just discovered a lost branch of Australia’s marsupials",
-      "content_text": "Fossils from Queensland suggest a newly recognized marsupial order may have survived in Australia for around 35 million years, rewriting part of the story of how the continent&apos;s unique mammals evolved. The discovery challenges the idea that Australia&apos;s marsupials all came from a single straightforward ancestral lineage.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/keeunamorphia.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/07/260715083542.htm",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260715083542.htm",
-      "title": "This sugar-coated therapy boosted survival against deadly brain cancer by 50% in mice",
-      "content_text": "A new experimental treatment may have found a way to outsmart glioblastoma’s toughest defense: the blood-brain barrier. Researchers used sugar-coated nanoparticles to ferry genetic instructions that restore a key tumor-suppressing protein directly into brain cancer cells. In mouse studies, the therapy increased median survival by 50% while shrinking tumors without noticeable damage to other organs.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/glioblastoma-nanomedicine.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/07/260715083538.htm",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260715083538.htm",
-      "title": "Sun-like star caught after eating one of its own planets",
-      "content_text": "A distant Sun-like star appears to have devoured one of its planets, leaving behind a surprising chemical fingerprint. Researchers found an unusually high concentration of lithium, a strong sign that planetary material was mixed into the star. Careful comparisons with dozens of similar stars confirmed the signal is highly unusual, and scientists think a massive brown dwarf companion may have helped send the planet on its fatal plunge.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/illustration-of-planetary-engulfment.webp",
           "mime_type": "image/webp"
         }
       ],

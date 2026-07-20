@@ -4,7 +4,14 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai</id>
-  <updated>Mon, 20 Jul 2026 04:53:27 +0000</updated>
+  <updated>Mon, 20 Jul 2026 14:37:22 +0000</updated>
+  <entry>
+    <title>Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin</title>
+    <link href="https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/"/>
+    <id>https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/</id>
+    <summary type="text">The pharmaceutical company has demonstrated how AI can transform how drugs discovery and is now scaling AI across R&amp;D to accelerate the discovery of next-generation medicines.</summary>
+    <updated>Mon, 20 Jul 2026 10:59:23 +0000</updated>
+  </entry>
   <entry>
     <title>NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI</title>
     <link href="https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/"/>
@@ -221,13 +228,6 @@
     <id>https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/</id>
     <summary type="text">NVIDIA Vera exemplifies a new class of CPU, architected for the era of agents and being adopted by AI innovators including Perplexity; NVIDIA CPU roadmap continues with the NVIDIA Rosa CPU and its Rigel core.</summary>
     <updated>Tue, 07 Jul 2026 15:00:52 +0000</updated>
-  </entry>
-  <entry>
-    <title>NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community</title>
-    <link href="https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/"/>
-    <id>https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/</id>
-    <summary type="text">New LeRobot integrations give developers open access to NVIDIA Isaac GR00T 1.7, Isaac Teleop, datasets and robotics workflows, with NVIDIA Cosmos 3 integration planned to bring frontier world models to open robotics development.</summary>
-    <updated>Tue, 07 Jul 2026 06:00:26 +0000</updated>
   </entry>
   <entry>
     <title>Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more</title>

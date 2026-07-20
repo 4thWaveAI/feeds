@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/key-players.json",
   "items": [
     {
+      "id": "https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/",
+      "url": "https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/",
+      "title": "Microsoft expands Azure AI and HPC infrastructure with AMD - The Official Microsoft Blog",
+      "content_text": "AI workloads are scaling faster than any single infrastructure approach can support — with more models, new agent-driven workloads and surging compute demand driving the need for greater specialization across the stack. To meet this need, Microsoft continues to evolve Azure’s infrastructure, including expanding its AI fleet with AMD’s most advanced AI and high-performance computing...",
+      "attachments": [
+        {
+          "url": "https://blogs.microsoft.com/wp-content/uploads/2026/07/OMB-Azure-AMD-Hero-1024x576.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "key-players"
+      ]
+    },
+    {
       "id": "https://blogs.microsoft.com/blog/2026/07/06/the-latest-in-our-company-transformation/",
       "url": "https://blogs.microsoft.com/blog/2026/07/06/the-latest-in-our-company-transformation/",
       "title": "The latest in our company transformation - The Official Microsoft Blog",
@@ -140,28 +155,13 @@
       ]
     },
     {
-      "id": "https://blogs.microsoft.com/blog/2026/05/05/how-frontier-firms-are-rebuilding-the-operating-model-for-the-age-of-ai/",
-      "url": "https://blogs.microsoft.com/blog/2026/05/05/how-frontier-firms-are-rebuilding-the-operating-model-for-the-age-of-ai/",
-      "title": "How Frontier Firms are rebuilding the operating model for the age of AI - The Official Microsoft Blog",
-      "content_text": "Updated May 11, 2026: The post was updated to reflect that third-party plugins will be available starting May 12, 2026. Spend time with any software engineering team right now and you’ll see something worth paying attention to. Over the last few years, the way software gets built has moved through four distinct patterns of human-agent...",
-      "attachments": [
-        {
-          "url": "https://blogs.microsoft.com/wp-content/uploads/2026/05/OMB-WTI-Hero-4_28_26-1024x576.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "key-players"
-      ]
-    },
-    {
       "id": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
       "url": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
       "title": "Major League Soccer returns to Apple TV tomorrow",
       "content_text": "Following a monthlong break for the FIFA World Cup, Major League Soccer returns to Apple TV tomorrow, July 16.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/tile/Apple-2026-MLS-Season-Restart-hero-lp.jpg.og.jpg?202607162318=",
+          "url": "https://www.apple.com/newsroom/images/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/tile/Apple-2026-MLS-Season-Restart-hero-lp.jpg.og.jpg?202607162316=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -176,7 +176,7 @@
       "content_text": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/tile/Apple-Arcade-Madden-NFL-27-Arcade-Edition-trailer-lp.jpg.og.jpg?202607162322=",
+          "url": "https://www.apple.com/newsroom/images/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/tile/Apple-Arcade-Madden-NFL-27-Arcade-Edition-trailer-lp.jpg.og.jpg?202607162318=",
           "mime_type": "image/jpeg"
         },
         {
@@ -195,7 +195,7 @@
       "content_text": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/logos/quick-reads-logos/Apple-TV-Friday-Night-Baseball.jpg.og.jpg?202607162318=",
+          "url": "https://www.apple.com/newsroom/images/logos/quick-reads-logos/Apple-TV-Friday-Night-Baseball.jpg.og.jpg?202607162319=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -210,7 +210,7 @@
       "content_text": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2026/07/apple-scores-record-89-emmy-award-nominations/tile/Apple-TV-Emmy-nominations-Widows-Bay-lp.jpg.og.jpg?202607162317=",
+          "url": "https://www.apple.com/newsroom/images/2026/07/apple-scores-record-89-emmy-award-nominations/tile/Apple-TV-Emmy-nominations-Widows-Bay-lp.jpg.og.jpg?202607162316=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -225,7 +225,7 @@
       "content_text": "Apple announced a new six-year commitment with Broadcom to design and produce custom silicon components and cutting-edge wireless connectivity technologies.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202607162317=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202607162316=",
           "mime_type": "image/jpeg"
         }
       ],

@@ -4,7 +4,21 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/gsel-esports-ai.atom.xml"/>
   <id>urn:4thwaveai-feeds:gsel-esports-ai</id>
-  <updated>Mon, 20 Jul 2026 04:58:27 +0000</updated>
+  <updated>Mon, 20 Jul 2026 14:41:53 +0000</updated>
+  <entry>
+    <title>Every major Counter-Strike 2 update, explained</title>
+    <link href="https://esports.gg/news/counter-strike-2/all-cs2-updates/"/>
+    <id>https://esports.gg/news/counter-strike-2/all-cs2-updates/</id>
+    <summary type="text">Valve is traditionally slow to release big CS2 updates, but time after time, we receive fundamental changes to the game. They shape the experience for casual and pro players alike.</summary>
+    <updated>Mon, 20 Jul 2026 13:15:57 +0000</updated>
+  </entry>
+  <entry>
+    <title>All VALORANT Maps explained: From Ascent to Summit</title>
+    <link href="https://esports.gg/news/valorant/valorant-maps-entry-frag-part-three/"/>
+    <id>https://esports.gg/news/valorant/valorant-maps-entry-frag-part-three/</id>
+    <summary type="text">What&#x27;s your favorite map feature?</summary>
+    <updated>Mon, 20 Jul 2026 11:14:30 +0000</updated>
+  </entry>
   <entry>
     <title>All CS2 maps explained</title>
     <link href="https://esports.gg/news/counter-strike-2/most-popular-maps-cs2/"/>
@@ -69,20 +83,6 @@
     <updated>Fri, 17 Jul 2026 19:59:09 +0000</updated>
   </entry>
   <entry>
-    <title>FATAL FURY: City of the Wolves Characters: Full Roster &amp; DLC List (July 2026)</title>
-    <link href="https://esports.gg/news/fgc/fatal-fury-city-of-the-wolves-release-date-features-and-more/"/>
-    <id>https://esports.gg/news/fgc/fatal-fury-city-of-the-wolves-release-date-features-and-more/</id>
-    <summary type="text">Here&#x27;s the complete list of FATAL FURY: City of the Wolves characters.</summary>
-    <updated>Fri, 17 Jul 2026 19:18:56 +0000</updated>
-  </entry>
-  <entry>
-    <title>MSC 2026 Esports World Cup: Format, schedule, results, and more</title>
-    <link href="https://esports.gg/news/mobile-legends-bang-bang/msc-2026-ewc-schedule-results-livestream/"/>
-    <id>https://esports.gg/news/mobile-legends-bang-bang/msc-2026-ewc-schedule-results-livestream/</id>
-    <summary type="text">Here is a complete guide to MSC 2026 at the Esports World Cup, including match results, schedules, and key information.</summary>
-    <updated>Fri, 17 Jul 2026 18:56:23 +0000</updated>
-  </entry>
-  <entry>
     <title>Is Counter-Strike 2 going soft? Esports fans react to new comms rule and debate hate speech vs. trash talk</title>
     <link href="https://esportsinsider.com/2026/07/new-counter-strike-2-comms-rule-debate"/>
     <id>https://esportsinsider.com/2026/07/new-counter-strike-2-comms-rule-debate</id>
@@ -139,6 +139,6 @@
     <title>News Archives</title>
     <link href="https://esports.gg/news/"/>
     <id>https://esports.gg/news/</id>
-    <summary type="text">The Counter-Strike 2 (CS2) community has clear preferences for map picks in pro and casual play. The reasons often lie in the balance between two team roles and the variety of strategies.</summary>
+    <summary type="text">Valve is traditionally slow to release big CS2 updates, but time after time, we receive fundamental changes to the game. They shape the experience for casual and pro players alike.</summary>
   </entry>
 </feed>

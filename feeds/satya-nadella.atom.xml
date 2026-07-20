@@ -4,7 +4,14 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/satya-nadella.atom.xml"/>
   <id>urn:4thwaveai-feeds:satya-nadella</id>
-  <updated>Mon, 20 Jul 2026 04:57:47 +0000</updated>
+  <updated>Mon, 20 Jul 2026 14:41:06 +0000</updated>
+  <entry>
+    <title>Microsoft expands Azure AI and HPC infrastructure with AMD - The Official Microsoft Blog</title>
+    <link href="https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/"/>
+    <id>https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/</id>
+    <summary type="text">AI workloads are scaling faster than any single infrastructure approach can support — with more models, new agent-driven workloads and surging compute demand driving the need for greater specialization across the stack. To meet this need, Microsoft continues to evolve Azure’s infrastructure, including expanding its AI fleet with AMD’s most advanced AI and high-performance computing...</summary>
+    <updated>Mon, 20 Jul 2026 13:00:02 +0000</updated>
+  </entry>
   <entry>
     <title>The latest in our company transformation - The Official Microsoft Blog</title>
     <link href="https://blogs.microsoft.com/blog/2026/07/06/the-latest-in-our-company-transformation/"/>
@@ -20,18 +27,10 @@
     <updated>Thu, 02 Jul 2026 12:59:05 +0000</updated>
   </entry>
   <entry>
-    <title>Inside Microsoft’s two-decade push to cut water intensity while scaling for growth - The Official Microsoft Blog</title>
-    <link href="https://blogs.microsoft.com/blog/2026/06/24/inside-microsofts-two-decade-push-to-cut-water-intensity-while-scaling-for-growth/"/>
-    <id>https://blogs.microsoft.com/blog/2026/06/24/inside-microsofts-two-decade-push-to-cut-water-intensity-while-scaling-for-growth/</id>
-    <summary type="text">Microsoft on advancing water stewardship in datacenters, while scaling AI and progressing toward a 2030 water positive goal.</summary>
-    <updated>Wed, 24 Jun 2026 12:01:13 +0000</updated>
-  </entry>
-  <entry>
-    <title>Rethinking cloud operations with agentic observability - The Official Microsoft Blog</title>
-    <link href="https://blogs.microsoft.com/blog/2026/06/23/rethinking-cloud-operations-with-agentic-observability/"/>
-    <id>https://blogs.microsoft.com/blog/2026/06/23/rethinking-cloud-operations-with-agentic-observability/</id>
-    <summary type="text">Cloud operations are entering a new era as AI-driven and autonomous agents become a larger part of modern software systems. As software becomes increasingly agentic, the challenge is no longer just managing greater scale and complexity. Operators must also contend with systems that evolve faster, act more autonomously and interact across an expanding network of...</summary>
-    <updated>Tue, 23 Jun 2026 15:45:05 +0000</updated>
+    <title>Executive Vice President, Cloud + AI</title>
+    <link href="https://blogs.microsoft.com/blog/author/scottguthrie/"/>
+    <id>https://blogs.microsoft.com/blog/author/scottguthrie/</id>
+    <summary type="text">Jul 20, 2026 | Scott Guthrie - Executive Vice President, Cloud + AI</summary>
   </entry>
   <entry>
     <title>Microsoft Corporate Blogs, Author at The Official Microsoft Blog</title>

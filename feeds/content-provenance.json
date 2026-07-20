@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/content-provenance.json",
   "items": [
     {
+      "id": "https://iptc.org/news/iptc-at-w3c-odrl-workshop-2026/",
+      "url": "https://iptc.org/news/iptc-at-w3c-odrl-workshop-2026/",
+      "title": "Towards ODRL 3.0: IPTC's RightsML at W3C ODRL Workshop - IPTC",
+      "content_text": "IPTC is the global standards body of the news media. We provide the technical foundation for the news ecosystem.",
+      "attachments": [
+        {
+          "url": "https://iptc.org/wp-content/uploads/2026/07/Screenshot-2026-07-20-at-16.00.27.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "content-provenance"
+      ]
+    },
+    {
       "id": "https://iptc.org/news/iptc-c2pa-content-credentials-faqs-released/",
       "url": "https://iptc.org/news/iptc-c2pa-content-credentials-faqs-released/",
       "title": "IPTC publishes Frequently Asked Questions on C2PA Content Credentials - IPTC",
@@ -133,21 +148,6 @@
         {
           "url": "https://iptc.org/wp-content/uploads/2026/05/67183dd2-5094-422f-920d-369fffe075bf.jpeg",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "content-provenance"
-      ]
-    },
-    {
-      "id": "https://iptc.org/news/toronto-media-provenance-summit-2026/",
-      "url": "https://iptc.org/news/toronto-media-provenance-summit-2026/",
-      "title": "\"The news industry is the spiritiual core of C2PA\": the IPTC Media Provenance Summit in Toronto - IPTC",
-      "content_text": "IPTC is the global standards body of the news media. We provide the technical foundation for the news ecosystem.",
-      "attachments": [
-        {
-          "url": "https://iptc.org/wp-content/uploads/2026/04/IMG_4176-1024x507.png",
-          "mime_type": "image/png"
         }
       ],
       "tags": [

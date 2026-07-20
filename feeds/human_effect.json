@@ -5,6 +5,36 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/human_effect.json",
   "items": [
     {
+      "id": "https://spectrum.ieee.org/led-light-pollution",
+      "url": "https://spectrum.ieee.org/led-light-pollution",
+      "title": "We’re Squandering LEDs’ Potential to Save Our Night Skies",
+      "content_text": "Bad decisions have turned efficient technology into a driver of light pollution. There is a better way",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=67480571&width=1200&height=600&coordinates=0%2C125%2C0%2C125",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://aiforgood.itu.int/ray-kurzweil-at-ai-for-good-global-summit-2026-we-will-not-be-replaced-by-ai-we-will-merge-with-it/",
+      "url": "https://aiforgood.itu.int/ray-kurzweil-at-ai-for-good-global-summit-2026-we-will-not-be-replaced-by-ai-we-will-merge-with-it/",
+      "title": "Ray Kurzweil at AI for Good Global Summit 2026: \"We will not be replaced by AI — we will merge with it\"",
+      "content_text": "Connect with 55K+ AI enthusiasts",
+      "attachments": [
+        {
+          "url": "https://s41721.pcdn.co/wp-content/uploads/2026/07/16x9-banner-1024x576.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
       "url": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
       "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
@@ -440,21 +470,6 @@
       ]
     },
     {
-      "id": "https://aiforgood.itu.int/the-youth-zone-changes-register-girls-in-ict-day-opens-ai-for-goods-third-day/",
-      "url": "https://aiforgood.itu.int/the-youth-zone-changes-register-girls-in-ict-day-opens-ai-for-goods-third-day/",
-      "title": "The Youth Zone Changes Register: Girls in ICT Day Opens AI for Good's Third Day",
-      "content_text": "GENEVA, 9 July 2026 - International Girls in ICT Day 2026 was marked today by the Youth Zone at the AI for Good Global Summit 2026, under the theme \"AI for Development.\" Jointly organised by the @International Telecommunication Union and the United Kingdom, the event brought together up to 60 Geneva-based girls for a day woven of inspiration and exchange.",
-      "attachments": [
-        {
-          "url": "https://s41721.pcdn.co/wp-content/uploads/2026/07/AI-for-Good-GlobalSummit26_Day3_Youth-Zone-_01-GirlsInICT_01-14-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
       "id": "https://noetic.org/blog/ervin-laszlo-tribute/",
       "url": "https://noetic.org/blog/ervin-laszlo-tribute/",
       "title": "Tribute to Ervin László – IONS",
@@ -830,6 +845,36 @@
       ]
     },
     {
+      "id": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+      "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+      "title": "The Download: AI hiring biases, and weather data sabotage",
+      "content_text": "Plus: SpaceX is negotiating to sell the Pentagon AI compute.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/ai-slant1b.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "title": "AI is more likely than humans to form biases when hiring",
+      "content_text": "AI doesn’t just learn stereotypes from its training. It can cook up new ones, too.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/ai-slant1b.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
       "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
       "title": "The Download: perimenopause misinformation and China’s latest AI leap",
@@ -852,51 +897,6 @@
       "attachments": [
         {
           "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-2210176273.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-      "title": "The risk of weather data sabotage is rising",
-      "content_text": "Prediction markets and a move toward AI forecasting are starting to put the accuracy of weather predictions at risk. Here’s what we can do to safeguard them.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/fantastical-tornado3a.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
-      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
-      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-      "content_text": "Plus: Elon Musk discreetly bought a $1 billion gas turbine firm to power Grok.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/spar-red.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
-      "url": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
-      "title": "Why heat pumps are still so hot in the US",
-      "content_text": "A key tax credit in the US ended, but heat pump sales are still going strong.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/technician-installing-a-modern-air-conditioning-sy-2026-03-20-06-17-16-utc.jpg?resize=1200%2C600",
           "mime_type": "image/jpeg"
         }
       ],

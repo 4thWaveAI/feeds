@@ -24,96 +24,6 @@
       ]
     },
     {
-      "id": "https://wmo.int/media/news/AirborneDustBulletinJuly25",
-      "url": "https://wmo.int/media/news/AirborneDustBulletinJuly25",
-      "title": "WMO highlights sand and dust storm hotspots, impacts and research",
-      "content_text": "Geneva, Switzerland (WMO) – Some parts of the world, including China and the US-Mexican border, experienced record- breaking sand and dust storms in 2025, impacting health and the environment and disrupting economic activities and transport. However, overall average dust concentrations were similar to 2024, according to a new report from the World Meteorological Organization (WMO).",
-      "attachments": [
-        {
-          "url": "https://wmo.int/sites/default/files/2026-07/fig5a-americas-case%20%281%29.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "climate-environment"
-      ]
-    },
-    {
-      "id": "https://wmo.int/media/news/ocean-warming-marine-heatwaves-and-sea-level-rise-pose-increasing-risk-south-west-pacific-region",
-      "url": "https://wmo.int/media/news/ocean-warming-marine-heatwaves-and-sea-level-rise-pose-increasing-risk-south-west-pacific-region",
-      "title": "Ocean warming, marine heatwaves and sea-level rise pose increasing risk in South-West Pacific region",
-      "content_text": "SINGAPORE/GENEVA, 7 July 2026 (WMO) – The vast ocean expanse in the South-West Pacific is becoming hotter and more acidic, harming local economies and marine ecosystems, whilst rising sea levels threaten vulnerable coastal communities and low-lying island nations, according to a new report from the World Meteorological Organization (WMO).",
-      "attachments": [
-        {
-          "url": "https://wmo.int/sites/default/files/2026-07/adrian-smith-d779xu7rxQs-unsplash.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "climate-environment"
-      ]
-    },
-    {
-      "id": "https://wmo.int/media/news/el-nino-forecast-intensify-increasing-likelihood-of-extreme-weather",
-      "url": "https://wmo.int/media/news/el-nino-forecast-intensify-increasing-likelihood-of-extreme-weather",
-      "title": "El Niño is forecast to intensify, increasing likelihood of extreme weather",
-      "content_text": "Geneva, Switzerland (WMO) - El Niño conditions have developed in the tropical Pacific and are forecast to strengthen rapidly over the coming months, increasing the likelihood of heatwaves, droughts, heavy rainfall and other extreme weather events in many parts of the world, according to the World Meteorological Organization (WMO).",
-      "attachments": [
-        {
-          "url": "https://wmo.int/sites/default/files/2026-07/Thumbnails%202026.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "climate-environment"
-      ]
-    },
-    {
-      "id": "https://wmo.int/media/news/eu-oceaneye-initiative-offers-pivotal-moment-strengthening-global-ocean-observation",
-      "url": "https://wmo.int/media/news/eu-oceaneye-initiative-offers-pivotal-moment-strengthening-global-ocean-observation",
-      "title": "EU OceanEye initiative offers a pivotal moment for strengthening global ocean observation",
-      "content_text": "The Global Ocean Observing System (GOOS) and its long-standing European regional alliance EuroGOOS welcome the European Commission’s OceanEye initiative as a major step for Europe’s contribution to global ocean observation and intelligence.",
-      "attachments": [
-        {
-          "url": "https://wmo.int/sites/default/files/2026-07/53873176270_816ee39969_o.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "climate-environment"
-      ]
-    },
-    {
-      "id": "https://wmo.int/media/news/world-needs-strong-wmo-says-celeste-saulo",
-      "url": "https://wmo.int/media/news/world-needs-strong-wmo-says-celeste-saulo",
-      "title": "The world needs a strong WMO, says Celeste Saulo",
-      "content_text": "WMO remains one of the most effective examples of technical cooperation in the multilateral system, WMO Secretary-General Celeste Saulo told the closing session of Executive Council (EC), which agreed on a number of resolutions to fine-tune and strengthen the work of the 193-Member UN specialized agency.",
-      "attachments": [
-        {
-          "url": "https://wmo.int/sites/default/files/2026-06/55350270655_6a51e903c3_o.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "climate-environment"
-      ]
-    },
-    {
-      "id": "https://wmo.int/media/news/western-europe-has-hottest-june-record",
-      "url": "https://wmo.int/media/news/western-europe-has-hottest-june-record",
-      "title": "Western Europe has hottest June on record",
-      "content_text": "June 2026 was the hottest June recorded for western Europe and the second warmest globally, driven by the highest sea surface temperatures (SSTs) on record for the month, according to the monthly update from the Copernicus Climate Change Service (C3S), implemented by the European Centre for Medium-Range Weather Forecasts (ECMWF).",
-      "attachments": [
-        {
-          "url": "https://wmo.int/sites/default/files/2026-07/DAVID%20%20MONTERO%20RODRIGUEZ-Spain-PROTECCION%20SOLAR.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "climate-environment"
-      ]
-    },
-    {
       "id": "https://science.nasa.gov/news/",
       "url": "https://science.nasa.gov/news/",
       "title": "Lunar Science Stories - NASA Science",
@@ -414,6 +324,21 @@
       ]
     },
     {
+      "id": "https://www.ecmwf.int/en/about/media-centre/news/2026/machine-learning-opens-new-opportunities-global-reanalysis",
+      "url": "https://www.ecmwf.int/en/about/media-centre/news/2026/machine-learning-opens-new-opportunities-global-reanalysis",
+      "title": "Machine learning opens new opportunities for global reanalysis",
+      "content_text": "A prototype machine-learning reanalysis trained directly on observations reconstructs more than four decades of atmospheric conditions, opening new possibilities for future reanalysis production.",
+      "attachments": [
+        {
+          "url": "https://www.ecmwf.int/sites/default/files/2026-07/AIFS-DOP-screenshot-circle-690.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "climate-environment"
+      ]
+    },
+    {
       "id": "https://www.ecmwf.int/en/about/media-centre/news/2026/ecmwf-opens-call-proposals-sewa",
       "url": "https://www.ecmwf.int/en/about/media-centre/news/2026/ecmwf-opens-call-proposals-sewa",
       "title": "ECMWF opens Call for Proposals for SEWA regional pilots on impact-based forecasting in Africa",
@@ -549,14 +474,14 @@
       ]
     },
     {
-      "id": "https://www.ecmwf.int/en/about/media-centre/news/2026/ecmwf-joins-reap",
-      "url": "https://www.ecmwf.int/en/about/media-centre/news/2026/ecmwf-joins-reap",
-      "title": "ECMWF joins global partnership to strengthen early warning systems",
-      "content_text": "ECMWF joins the Risk-informed Early Action Partnership (REAP) to strengthen early warning systems and anticipatory action.",
+      "id": "https://www.unep.org/news-and-stories/story/shoot-moon-can-space-exploration-be-sustainable",
+      "url": "https://www.unep.org/news-and-stories/story/shoot-moon-can-space-exploration-be-sustainable",
+      "title": "Shoot for the Moon: Can space exploration be sustainable?",
+      "content_text": "As lunar exploration is regaining momentum, the sustainability of space launches has come into the spotlight.",
       "attachments": [
         {
-          "url": "https://www.ecmwf.int/sites/default/files/2026-06/Flooding-AdobeStock-690.png",
-          "mime_type": "image/png"
+          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2026-07/mike-petrucci-uIf6H1or1nE-unsplash.jpg?h=2100bcb1&itok=MkaVzygy",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [

@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.json",
   "items": [
     {
+      "id": "https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/",
+      "url": "https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/",
+      "title": "Microsoft expands Azure AI and HPC infrastructure with AMD - The Official Microsoft Blog",
+      "content_text": "AI workloads are scaling faster than any single infrastructure approach can support — with more models, new agent-driven workloads and surging compute demand driving the need for greater specialization across the stack. To meet this need, Microsoft continues to evolve Azure’s infrastructure, including expanding its AI fleet with AMD’s most advanced AI and high-performance computing...",
+      "attachments": [
+        {
+          "url": "https://blogs.microsoft.com/wp-content/uploads/2026/07/OMB-Azure-AMD-Hero-1024x576.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "satya-nadella"
+      ]
+    },
+    {
       "id": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
       "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
       "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
@@ -17,21 +32,6 @@
       ],
       "tags": [
         "jensen-huang"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/company-news/amazon-earnings-q2-2026-report",
-      "url": "https://www.aboutamazon.com/news/company-news/amazon-earnings-q2-2026-report",
-      "title": "Amazon will share its Q2 2026 earnings on July 30",
-      "content_text": "On July 30, Amazon is set to hold a conference call to discuss its Q2 2026 financial results.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/3458e75/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F47%2F6d%2F7fe296e642859c7ba2a629eda3ba%2Famazon-logo-hero-images-2024.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
       ]
     },
     {
@@ -167,36 +167,6 @@
       ]
     },
     {
-      "id": "https://blogs.microsoft.com/blog/2026/06/24/inside-microsofts-two-decade-push-to-cut-water-intensity-while-scaling-for-growth/",
-      "url": "https://blogs.microsoft.com/blog/2026/06/24/inside-microsofts-two-decade-push-to-cut-water-intensity-while-scaling-for-growth/",
-      "title": "Inside Microsoft’s two-decade push to cut water intensity while scaling for growth - The Official Microsoft Blog",
-      "content_text": "Microsoft on advancing water stewardship in datacenters, while scaling AI and progressing toward a 2030 water positive goal.",
-      "attachments": [
-        {
-          "url": "https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-Water-Efficiency-Hero-Featured-Image-1024x682.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "satya-nadella"
-      ]
-    },
-    {
-      "id": "https://blogs.microsoft.com/blog/2026/06/23/rethinking-cloud-operations-with-agentic-observability/",
-      "url": "https://blogs.microsoft.com/blog/2026/06/23/rethinking-cloud-operations-with-agentic-observability/",
-      "title": "Rethinking cloud operations with agentic observability - The Official Microsoft Blog",
-      "content_text": "Cloud operations are entering a new era as AI-driven and autonomous agents become a larger part of modern software systems. As software becomes increasingly agentic, the challenge is no longer just managing greater scale and complexity. Operators must also contend with systems that evolve faster, act more autonomously and interact across an expanding network of...",
-      "attachments": [
-        {
-          "url": "https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-Hero-6_23-Post-1024x683.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "satya-nadella"
-      ]
-    },
-    {
       "id": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
       "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
       "title": "Securing internal systems against increasingly capable and imperfectly aligned AI",
@@ -272,9 +242,28 @@
       ]
     },
     {
+      "id": "https://www.aboutamazon.com/news/entertainment/masters-of-the-universe-movie-amazon-mgm-studios",
+      "url": "https://www.aboutamazon.com/news/entertainment/masters-of-the-universe-movie-amazon-mgm-studios",
+      "title": "How to watch the 'Masters of the Universe' movie, streaming on Prime Video starting July 22",
+      "content_text": "The live-action film adaptation of the classic 1980s toy brand stars Nicholas Galitzine as Prince Adam/He-Man.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/9b393c2/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fe5%2F5f%2F16a1a4ed467f82af98246f674e98%2Funtitled-16-july-2026-at-10-35-53.png",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/X21JsHLHnY8?enablejsapi=1",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/company-news/amazon-news-today-top-stories-company",
       "url": "https://www.aboutamazon.com/news/company-news/amazon-news-today-top-stories-company",
-      "title": "What you need to know about Amazon today: July 17, 2026",
+      "title": "What you need to know about Amazon today: July 20, 2026",
       "content_text": "Here are the latest headlines from Amazon News.",
       "attachments": [
         {
@@ -729,6 +718,21 @@
       ]
     },
     {
+      "id": "https://blogs.microsoft.com/blog/author/scottguthrie/",
+      "url": "https://blogs.microsoft.com/blog/author/scottguthrie/",
+      "title": "Executive Vice President, Cloud + AI",
+      "content_text": "Jul 20, 2026 | Scott Guthrie - Executive Vice President, Cloud + AI",
+      "attachments": [
+        {
+          "url": "https://secure.gravatar.com/avatar/673c92a01873eaa2479d9b87513b5912?s=500&d=mm&r=g",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "satya-nadella"
+      ]
+    },
+    {
       "id": "https://blogs.microsoft.com/blog/author/cdemaria/",
       "url": "https://blogs.microsoft.com/blog/author/cdemaria/",
       "title": "Microsoft Corporate Blogs, Author at The Official Microsoft Blog",
@@ -795,7 +799,7 @@
       "content_text": "Discover more stories from Apple Newsroom that showcase the creators, developers, and innovators leaving the world better than they found it.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1784244557713=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1784244169238=",
           "mime_type": "image/jpeg"
         }
       ],
