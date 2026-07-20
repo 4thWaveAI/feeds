@@ -2,89 +2,190 @@ name: Update Area Feeds (AI/Robotics/Quantum/Biotech/Nanotech)
 
 on:
   workflow_dispatch: {}
+
+  # Run four times per day.
+  # Minute 17 avoids GitHub's busiest top-of-hour scheduling period.
   schedule:
-    - cron: "*/30 * * * *"  # every 30 minutes
+    - cron: "17 */6 * * *"
+
+  # Rebuild when the source registry, builder, or this workflow changes.
   push:
-    branches: [ main ]
+    branches:
+      - main
     paths:
-      - 'feeds.yaml'
-      - 'scripts/**'
-      - '.github/workflows/update-area-feeds.yml'
+      - "feeds.yaml"
+      - "scripts/**"
+      - ".github/workflows/update-area-feeds.yml"
 
-# Prevent overlapping runs on the same ref
+# Only one complete feed build may run at a time.
+# A newer run waits instead of cancelling a healthy run already in progress.
 concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
+  group: update-area-feeds-main
+  cancel-in-progress: false
 
-# Needed to push updated feeds back to the repo
+# Required so the workflow can save generated feeds back to the repository.
 permissions:
   contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+
+    # The expanded source library contains hundreds of sources and may take hours.
+    # GitHub allows a maximum of 360 minutes for this setting.
+    timeout-minutes: 330
 
     steps:
-      - name: Checkout (full history for safe pushes)
+      - name: Checkout full repository history
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          persist-credentials: true  # use GITHUB_TOKEN for push
+          persist-credentials: true
 
-      - name: Set up Git (identity & safe directory)
+      - name: Configure Git
+        shell: bash
         run: |
-          git config user.name  "github-actions[bot]"
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
           cache: "pip"
           cache-dependency-path: scripts/requirements.txt
 
-      - name: Install deps
+      - name: Install dependencies
+        shell: bash
         run: |
+          set -euo pipefail
+
           python -m pip install --upgrade pip
           pip install -r scripts/requirements.txt
 
-      - name: Build area feeds
-        run: |
-          python scripts/update_feeds.py
-
-      - name: Ensure feeds directory exists (no-op if present)
-        run: |
-          mkdir -p feeds
-
-      - name: Gzip latest feeds (keep originals)
+      - name: Validate feed configuration
         shell: bash
         run: |
+          set -euo pipefail
+
+          python - <<'PY'
+          from pathlib import Path
+          import yaml
+
+          config_path = Path("feeds.yaml")
+          config = yaml.safe_load(config_path.read_text(encoding="utf-8"))
+
+          if not isinstance(config, dict):
+              raise SystemExit("feeds.yaml must contain a YAML mapping.")
+
+          areas = config.get("areas")
+
+          if not isinstance(areas, dict) or not areas:
+              raise SystemExit(
+                  "feeds.yaml must contain a non-empty 'areas' mapping."
+              )
+
+          source_count = 0
+
+          for area_name, sources in areas.items():
+              if not isinstance(sources, list):
+                  raise SystemExit(
+                      f"Area {area_name!r} must contain a list of sources."
+                  )
+
+              for source_number, source in enumerate(sources, start=1):
+                  if not isinstance(source, dict):
+                      raise SystemExit(
+                          f"Area {area_name!r}, source {source_number} "
+                          "must be a YAML mapping."
+                      )
+
+                  missing = [
+                      field
+                      for field in ("index", "base")
+                      if not source.get(field)
+                  ]
+
+                  if missing:
+                      raise SystemExit(
+                          f"Area {area_name!r}, source {source_number} "
+                          f"is missing: {', '.join(missing)}"
+                      )
+
+              source_count += len(sources)
+
+          print(
+              f"Configuration valid: "
+              f"{len(areas)} areas and {source_count} sources."
+          )
+          PY
+
+      - name: Build area feeds
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          python scripts/update_feeds.py
+
+      - name: Ensure feeds directory exists
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          mkdir -p feeds
+
+      - name: Gzip generated feeds
+        shell: bash
+        run: |
+          set -euo pipefail
           shopt -s nullglob
-          for f in feeds/*.xml feeds/*.atom.xml feeds/*.json; do
-            [ -e "$f" ] && gzip -kf "$f"
+
+          for file in feeds/*.xml feeds/*.json; do
+            gzip -kf "$file"
           done
 
-      - name: Commit generated files (only if changes)
+      - name: Commit generated files
+        shell: bash
         run: |
+          set -euo pipefail
+
           git add -A
-          if ! git diff --cached --quiet; then
-            git commit -m "chore: update feeds & index [skip ci]"
-            # Retry push to avoid rare race with concurrent runs
-            for i in 1 2 3; do
-              git pull --rebase --autostash origin "${GITHUB_REF_NAME:-main}" || true
-              if git push origin "HEAD:${GITHUB_REF_NAME:-main}"; then
-                exit 0
-              fi
-              echo "Push failed, retry $i/3…"
-              sleep 3
-            done
-            echo "Push failed after retries"; exit 1
-          else
-            echo "No changes to commit."
+
+          if git diff --cached --quiet; then
+            echo "No generated feed changes to commit."
+            exit 0
           fi
 
-      - name: Lightweight repo GC (best-effort)
+          git commit -m "chore: update feeds & index [skip ci]"
+
+          for attempt in 1 2 3; do
+            echo "Push attempt ${attempt} of 3"
+
+            git pull \
+              --rebase \
+              --autostash \
+              origin \
+              "${GITHUB_REF_NAME:-main}" || true
+
+            if git push origin "HEAD:${GITHUB_REF_NAME:-main}"; then
+              echo "Generated feeds pushed successfully."
+              exit 0
+            fi
+
+            if [ "$attempt" -lt 3 ]; then
+              echo "Push did not succeed; waiting before retry."
+              sleep 10
+            fi
+          done
+
+          echo "Push failed after three attempts."
+          exit 1
+
+      - name: Lightweight repository cleanup
+        if: always()
+        shell: bash
         run: |
           git gc --prune=now || true
