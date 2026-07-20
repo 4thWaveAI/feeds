@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/health-medicine.atom.xml"/>
   <id>urn:4thwaveai-feeds:health-medicine</id>
-  <updated>Mon, 20 Jul 2026 14:47:38 +0000</updated>
+  <updated>Mon, 20 Jul 2026 18:51:55 +0000</updated>
   <entry>
     <title>Newsroom</title>
     <link href="https://www.who.int/mega-menu/news/all-news"/>
@@ -108,16 +108,10 @@
     <summary type="text">Federated Learning (FL) holds the potential to advance equality in health by enabling diverse institutions to collaboratively train deep learning (DL) models, even with limited data. However, the significant resource requirements of FL often exclude centres with limited computational infrastructure, further widening existing healthcare disparities. To address this issue, we propose a Green AI-oriented adaptive layer-freezing strategy designed to reduce energy consumption and computational load while maintaining model performance. We tested our approach using different federated architectures for Magnetic Resonance Imaging (MRI)-to-Computed Tomography (CT) conversion. The proposed adaptive strategy optimises the federated training by selectively freezing the encoder weights based on the mon</summary>
   </entry>
   <entry>
-    <title>Together for Every Child: Malawi&#x27;s Journey Toward a Polio-Free Future</title>
-    <link href="https://www.afro.who.int/countries/malawi/news/together-every-child-malawis-journey-toward-polio-free-future"/>
-    <id>https://www.afro.who.int/countries/malawi/news/together-every-child-malawis-journey-toward-polio-free-future</id>
-    <summary type="text">Following the detection of circulating vaccine-derived poliovirus type 2 (cVDPV2) in environmental surveillance samples in Blantyre, and its subsequent confirmation among children in the community, Malawi rapidly activated a comprehensive outbreak response. The Ministry of Health, with support from the World Health Organization (WHO), the Global Polio Eradication Initiative (GPEI), and partners, launched a nationwide response with one clear objective: protect every child and stop the virus before it spreads.</summary>
-  </entry>
-  <entry>
-    <title>Barefoot doctors bring health care closer to communities in Eritrea</title>
-    <link href="https://www.afro.who.int/countries/eritrea/news/barefoot-doctors-bring-health-care-closer-communities-eritrea"/>
-    <id>https://www.afro.who.int/countries/eritrea/news/barefoot-doctors-bring-health-care-closer-communities-eritrea</id>
-    <summary type="text">Keren, Eritrea—Every morning, 28-year-old Amatazgi Gumbot opens her small health consultation point in the village of Shasharama in Keren, the capital of Anseba Region in northern Eritrea, before heading out to meet residents in neighbouring villages. Amatazgi is one of Eritrea’s barefoot doctors, bringing health services closer to people living in some of the country’s most remote areas.</summary>
+    <title>Zambia Launches Final Round of Polio Vaccination Campaign Targeting 3.9 Million Children</title>
+    <link href="https://www.afro.who.int/countries/zambia/news/zambia-launches-final-round-polio-vaccination-campaign-targeting-39-million-children"/>
+    <id>https://www.afro.who.int/countries/zambia/news/zambia-launches-final-round-polio-vaccination-campaign-targeting-39-million-children</id>
+    <summary type="text">19 July 2026 – LUSAKA, Zambia. The Government of the Republic of Zambia, through the Ministry of Health, in partnership with the World Health Organization (WHO), Rotary International, UNICEF and other partners of the Global Polio Eradication Initiative (GPEI), has launched the final round of the Sub-National Immunization Activities (SIA) polio campaign targeting about 3.9 million children under the age of five.</summary>
   </entry>
   <entry>
     <title>Mental health leaders commit to expanding rights-based care across West and Central Africa</title>
@@ -132,10 +126,16 @@
     <summary type="text">Asmara—Eritrea’s National Health Laboratory is strengthening its genomic sequencing capacity to improve disease surveillance and generate critical scientific data for public health. This technology enables scientists to analyse viruses, bacteria and parasites in depth, helping them better understand how pathogens evolve, detect antimicrobial and drug resistance, and guide public health interventions more effectively.</summary>
   </entry>
   <entry>
-    <title>Uganda begins countdown to end of Ebola outbreak</title>
-    <link href="https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak"/>
-    <id>https://www.afro.who.int/countries/uganda/news/uganda-begins-countdown-end-ebola-outbreak</id>
-    <summary type="text">Uganda has today entered the 42-day countdown to the end of its Ebola outbreak after the last confirmed case tested negative for the virus for a second time and was discharged from care, marking an important milestone in the country&#x27;s response.</summary>
+    <title>Together for Every Child: Malawi&#x27;s Journey Toward a Polio-Free Future</title>
+    <link href="https://www.afro.who.int/countries/malawi/news/together-every-child-malawis-journey-toward-polio-free-future"/>
+    <id>https://www.afro.who.int/countries/malawi/news/together-every-child-malawis-journey-toward-polio-free-future</id>
+    <summary type="text">Following the detection of circulating vaccine-derived poliovirus type 2 (cVDPV2) in environmental surveillance samples in Blantyre, and its subsequent confirmation among children in the community, Malawi rapidly activated a comprehensive outbreak response. The Ministry of Health, with support from the World Health Organization (WHO), the Global Polio Eradication Initiative (GPEI), and partners, launched a nationwide response with one clear objective: protect every child and stop the virus before it spreads.</summary>
+  </entry>
+  <entry>
+    <title>Barefoot doctors bring health care closer to communities in Eritrea</title>
+    <link href="https://www.afro.who.int/countries/eritrea/news/barefoot-doctors-bring-health-care-closer-communities-eritrea"/>
+    <id>https://www.afro.who.int/countries/eritrea/news/barefoot-doctors-bring-health-care-closer-communities-eritrea</id>
+    <summary type="text">Keren, Eritrea—Every morning, 28-year-old Amatazgi Gumbot opens her small health consultation point in the village of Shasharama in Keren, the capital of Anseba Region in northern Eritrea, before heading out to meet residents in neighbouring villages. Amatazgi is one of Eritrea’s barefoot doctors, bringing health services closer to people living in some of the country’s most remote areas.</summary>
   </entry>
   <entry>
     <title>In the frontlines of a safe and dignified Ebola outbreak response in Uganda</title>

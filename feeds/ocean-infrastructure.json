@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ocean-infrastructure.json",
   "items": [
     {
+      "id": "https://oceanobservatories.org/2026/07/new-research-powered-by-ooi-data-july-2026/",
+      "url": "https://oceanobservatories.org/2026/07/new-research-powered-by-ooi-data-july-2026/",
+      "title": "New Research Powered by OOI Data: July 2026 - Ocean Observatories Initiative",
+      "content_text": "Spatial Variability in Year-to-Year, Near-Bottom Hypoxia Over the United States Pacific Northwest Continental Shelf Authors: J. A. Barth and S. W. Coleman Each summer, strong coastal winds drive nutrient-rich deep water onto the Pacific Northwest continental shelf through a process known as coastal upwelling. While these nutrients support one of…",
+      "attachments": [
+        {
+          "url": "https://oceanobservatories.org/wp-content/uploads/2026/07/SeanColemantrawlCTD-jackbarth_16aug2023-scaled.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ocean-infrastructure"
+      ]
+    },
+    {
       "id": "https://oceanobservatories.org/2026/06/new-to-ooi-start-here/",
       "url": "https://oceanobservatories.org/2026/06/new-to-ooi-start-here/",
       "title": "New to OOI? Start Here. - Ocean Observatories Initiative",
@@ -132,21 +147,6 @@
       "attachments": [
         {
           "url": "https://oceanobservatories.org/wp-content/uploads/2026/04/Picture2.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ocean-infrastructure"
-      ]
-    },
-    {
-      "id": "https://oceanobservatories.org/2026/04/active-protothrusts-and-fluid-highways-seismic-noise-reveals-hidden-subduction-dynamics-in-cascadia/",
-      "url": "https://oceanobservatories.org/2026/04/active-protothrusts-and-fluid-highways-seismic-noise-reveals-hidden-subduction-dynamics-in-cascadia/",
-      "title": "Active Protothrusts and Fluid Highways: Seismic Noise Reveals Hidden Subduction Dynamics in Cascadia - Ocean Observatories Initiative",
-      "content_text": "This first of a kind study by Kidiwela et al., (2026) “Active protothrusts and fluid highways: Seismic noise reveals hidden subduction dynamics in Cascadia” (1) applies ambient seismic noise interferometry to a decade of RCA broadband seismometer data at Slope Base and Southern Hydrate Ridge, and on Ocean Networks Canada…",
-      "attachments": [
-        {
-          "url": "https://oceanobservatories.org/wp-content/uploads/2026/04/Picture1.png",
           "mime_type": "image/png"
         }
       ],

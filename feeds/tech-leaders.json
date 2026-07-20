@@ -5,6 +5,25 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.json",
   "items": [
     {
+      "id": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+      "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+      "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+      "content_text": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/siggraph-featured-still-1920x1080-1.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/5451751_26Sigg_Promo_Pack_1280x720_v03.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
       "id": "https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/",
       "url": "https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/",
       "title": "Microsoft expands Azure AI and HPC infrastructure with AMD - The Official Microsoft Blog",
@@ -17,6 +36,21 @@
       ],
       "tags": [
         "satya-nadella"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
+      "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
+      "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
+      "content_text": "The pharmaceutical company has demonstrated how AI can transform how drugs discovery and is now scaling AI across R&D to accelerate the discovery of next-generation medicines.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Image-7-1680x1120.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
       ]
     },
     {
@@ -57,40 +91,6 @@
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/robotics-jetson-T3000-T2000-jhh-japan-1280x680-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jensen-huang"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
-      "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
-      "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
-      "content_text": "NVIDIA and its partners in Japan are this week showcasing the AI ecosystem's latest advancements. Check back here for updates.",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/0715-Physical-AI-Activation-and-BaC-LDA_8618.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/warpage_0713-2.mp4?_=1",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "jensen-huang"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
-      "url": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
-      "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
-      "content_text": "Learn how NVIDIA Nemotron open models help enterprises build specialized AI they can trust, control and customize with accuracy, efficiency and flexibility.",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/nemotron-labs-open-models-blog-feature-image.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -227,13 +227,13 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/entertainment/boys-of-tommen-prime-video",
-      "url": "https://www.aboutamazon.com/news/entertainment/boys-of-tommen-prime-video",
-      "title": "Prime Video announces further casting for ‘Boys of Tommen,’ a series based on the bestselling books",
-      "content_text": "Producers behind ‘The Summer I Turned Pretty,' ‘Twilight,' and ‘Off Campus’ are bringing Chloe Walsh’s romantic drama novels to the screen.",
+      "id": "https://www.aboutamazon.com/news/retail/amazon-prime-young-adults-cash-back-rewards",
+      "url": "https://www.aboutamazon.com/news/retail/amazon-prime-young-adults-cash-back-rewards",
+      "title": "Prime for Young Adults introduces 5% cash back on dorm and apartment essentials, just in time for move-in",
+      "content_text": "From today through September 15, Prime for Young Adults members can earn 5% cash back on home, kitchen, and office purchases—on top of existing categories like beauty, apparel, and electronics.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/d4b21db/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fea%2Fa0%2Fef17c15e4b58a6cb5c637815688e%2Fhero-2000x1125-6-1.jpg",
+          "url": "https://assets.aboutamazon.com/dims4/default/b0d9de1/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Feb%2F95%2F29ee0db347a38b2d4c02e2ef2461%2Fpya-otc-hero-v2-lm-2.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -355,6 +355,21 @@
       ]
     },
     {
+      "id": "https://nvidianews.nvidia.com/news/nvidia-agent-toolkit-expands-with-new-omniverse-libraries-putting-ai-agents-to-work-building-simulation-ready-worlds",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-agent-toolkit-expands-with-new-omniverse-libraries-putting-ai-agents-to-work-building-simulation-ready-worlds",
+      "title": "NVIDIA Agent Toolkit Expands With New Omniverse Libraries, Putting AI Agents to Work Building Simulation-Ready Worlds",
+      "content_text": "NVIDIA today announced that NVIDIA Agent Toolkit now includes NVIDIA Omniverse™ libraries — a collection of software components that give AI agents tools and skills to add physical AI capabilities to existing applications and prepare 3D content for simulation.",
+      "attachments": [
+        {
+          "url": "https://iprsoftwaremedia.com/219/files/202607/7da24036858337008646d9a6a3752ac4/6a5aaa273d63320eee00f8a6_nvidia-omniverse-libraries/nvidia-omniverse-libraries_65052a7c-b8c9-4405-8de6-07ab084378a4-prv.jpg?v=65052a7c-b8c9-4405-8de6-07ab084378a4",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
       "id": "https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure",
       "url": "https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure",
       "title": "Japan Government, Industrial Leaders and NVIDIA Launch the World’s First National AI Infrastructure",
@@ -400,10 +415,10 @@
       ]
     },
     {
-      "id": "https://blogs.nvidia.com/blog/category/enterprise/",
-      "url": "https://blogs.nvidia.com/blog/category/enterprise/",
-      "title": "AI Infrastructure Archives",
-      "content_text": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building...",
+      "id": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "url": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "title": "AI Archives",
+      "content_text": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics....",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2026/03/nvidia-kv-2026-ari.jpg",
@@ -415,10 +430,10 @@
       ]
     },
     {
-      "id": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "url": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "title": "AI Archives",
-      "content_text": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era....",
+      "id": "https://blogs.nvidia.com/blog/category/enterprise/supercomputing/",
+      "url": "https://blogs.nvidia.com/blog/category/enterprise/supercomputing/",
+      "title": "Supercomputing Archives",
+      "content_text": "Erin Davis calls it the “SuperDuperPOD.” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI...",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2026/03/nvidia-kv-2026-ari.jpg",
@@ -769,7 +784,7 @@
       "content_text": "The official source for news about Apple, from Apple. Read press releases, get updates, watch video and download images.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202607162316=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202607201759=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -784,7 +799,7 @@
       "content_text": "The source for news about Apple Services. Get updates on the latest Apple Arcade games, Apple Originals on TV+, Podcasts, Books, and more from Apple Newsroom.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1784243811003=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1784570400865=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -799,7 +814,7 @@
       "content_text": "Discover more stories from Apple Newsroom that showcase the creators, developers, and innovators leaving the world better than they found it.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1784244169238=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1784570402493=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -895,21 +910,6 @@
       "url": "https://about.fb.com/news/tag/well-being/",
       "title": "Youth Well-Being Articles, Resources, & Tools for Parents & Teens | Meta Newsroom",
       "content_text": "Stay informed with the latest youth well-being news and resources from Meta. Including topics on mental health, digital wellness, and teen safety.",
-      "attachments": [
-        {
-          "url": "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "mark-zuckerberg"
-      ]
-    },
-    {
-      "id": "https://about.fb.com/news/category/data-and-privacy/",
-      "url": "https://about.fb.com/news/category/data-and-privacy/",
-      "title": "Data and Privacy News | Meta Newsroom",
-      "content_text": "Data and Privacy News | Meta Newsroom",
       "attachments": [
         {
           "url": "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200",

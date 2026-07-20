@@ -4,13 +4,27 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.atom.xml"/>
   <id>urn:4thwaveai-feeds:tech-leaders</id>
-  <updated>Mon, 20 Jul 2026 15:03:46 +0000</updated>
+  <updated>Mon, 20 Jul 2026 19:05:41 +0000</updated>
+  <entry>
+    <title>At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI</title>
+    <link href="https://blogs.nvidia.com/blog/siggraph-news-2026/"/>
+    <id>https://blogs.nvidia.com/blog/siggraph-news-2026/</id>
+    <summary type="text">From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.</summary>
+    <updated>Mon, 20 Jul 2026 15:00:53 +0000</updated>
+  </entry>
   <entry>
     <title>Microsoft expands Azure AI and HPC infrastructure with AMD - The Official Microsoft Blog</title>
     <link href="https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/"/>
     <id>https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/</id>
     <summary type="text">AI workloads are scaling faster than any single infrastructure approach can support — with more models, new agent-driven workloads and surging compute demand driving the need for greater specialization across the stack. To meet this need, Microsoft continues to evolve Azure’s infrastructure, including expanding its AI fleet with AMD’s most advanced AI and high-performance computing...</summary>
     <updated>Mon, 20 Jul 2026 13:00:02 +0000</updated>
+  </entry>
+  <entry>
+    <title>Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin</title>
+    <link href="https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/"/>
+    <id>https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/</id>
+    <summary type="text">The pharmaceutical company has demonstrated how AI can transform how drugs discovery and is now scaling AI across R&amp;D to accelerate the discovery of next-generation medicines.</summary>
+    <updated>Mon, 20 Jul 2026 10:59:23 +0000</updated>
   </entry>
   <entry>
     <title>NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI</title>
@@ -32,20 +46,6 @@
     <id>https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/</id>
     <summary type="text">New NVIDIA Blackwell-powered T3000 and T2000 modules, paired with new NVIDIA Jetson software memory optimization and agent skills, help partners and customers move advanced robotics, visual AI and edge workloads onto compact, power-efficient systems.</summary>
     <updated>Wed, 15 Jul 2026 23:00:54 +0000</updated>
-  </entry>
-  <entry>
-    <title>NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry</title>
-    <link href="https://blogs.nvidia.com/blog/japan-ecosystem-2026/"/>
-    <id>https://blogs.nvidia.com/blog/japan-ecosystem-2026/</id>
-    <summary type="text">NVIDIA and its partners in Japan are this week showcasing the AI ecosystem&#x27;s latest advancements. Check back here for updates.</summary>
-    <updated>Wed, 15 Jul 2026 10:51:37 +0000</updated>
-  </entry>
-  <entry>
-    <title>Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize</title>
-    <link href="https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/"/>
-    <id>https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/</id>
-    <summary type="text">Learn how NVIDIA Nemotron open models help enterprises build specialized AI they can trust, control and customize with accuracy, efficiency and flexibility.</summary>
-    <updated>Tue, 14 Jul 2026 16:45:13 +0000</updated>
   </entry>
   <entry>
     <title>AI in Indian Education: Atal Innovation Mission and Google launch ATL Saathi</title>
@@ -104,11 +104,11 @@
     <updated>Tue, 09 Jun 2026 13:00:00 +0000</updated>
   </entry>
   <entry>
-    <title>Prime Video announces further casting for ‘Boys of Tommen,’ a series based on the bestselling books</title>
-    <link href="https://www.aboutamazon.com/news/entertainment/boys-of-tommen-prime-video"/>
-    <id>https://www.aboutamazon.com/news/entertainment/boys-of-tommen-prime-video</id>
-    <summary type="text">Producers behind ‘The Summer I Turned Pretty,&#x27; ‘Twilight,&#x27; and ‘Off Campus’ are bringing Chloe Walsh’s romantic drama novels to the screen.</summary>
-    <updated>Wed, 11 Feb 2026 11:00:00 +0000</updated>
+    <title>Prime for Young Adults introduces 5% cash back on dorm and apartment essentials, just in time for move-in</title>
+    <link href="https://www.aboutamazon.com/news/retail/amazon-prime-young-adults-cash-back-rewards"/>
+    <id>https://www.aboutamazon.com/news/retail/amazon-prime-young-adults-cash-back-rewards</id>
+    <summary type="text">From today through September 15, Prime for Young Adults members can earn 5% cash back on home, kitchen, and office purchases—on top of existing categories like beauty, apparel, and electronics.</summary>
+    <updated>Thu, 19 Mar 2026 12:55:01 +0000</updated>
   </entry>
   <entry>
     <title>How to watch the &#x27;Masters of the Universe&#x27; movie, streaming on Prime Video starting July 22</title>
@@ -160,6 +160,12 @@
     <updated>Wed, 14 May 2025 00:00:00 +0000</updated>
   </entry>
   <entry>
+    <title>NVIDIA Agent Toolkit Expands With New Omniverse Libraries, Putting AI Agents to Work Building Simulation-Ready Worlds</title>
+    <link href="https://nvidianews.nvidia.com/news/nvidia-agent-toolkit-expands-with-new-omniverse-libraries-putting-ai-agents-to-work-building-simulation-ready-worlds"/>
+    <id>https://nvidianews.nvidia.com/news/nvidia-agent-toolkit-expands-with-new-omniverse-libraries-putting-ai-agents-to-work-building-simulation-ready-worlds</id>
+    <summary type="text">NVIDIA today announced that NVIDIA Agent Toolkit now includes NVIDIA Omniverse™ libraries — a collection of software components that give AI agents tools and skills to add physical AI capabilities to existing applications and prepare 3D content for simulation.</summary>
+  </entry>
+  <entry>
     <title>Japan Government, Industrial Leaders and NVIDIA Launch the World’s First National AI Infrastructure</title>
     <link href="https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure"/>
     <id>https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure</id>
@@ -178,16 +184,16 @@
     <summary type="text">NVIDIA today announced that leading Japanese enterprises, startups and research institutions are building industry-specialized AI models and applications with NVIDIA Nemotron™ open models, data and libraries, accelerating the development of AI tailored to Japan’s language, industries and workforce.</summary>
   </entry>
   <entry>
-    <title>AI Infrastructure Archives</title>
-    <link href="https://blogs.nvidia.com/blog/category/enterprise/"/>
-    <id>https://blogs.nvidia.com/blog/category/enterprise/</id>
-    <summary type="text">Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building...</summary>
-  </entry>
-  <entry>
     <title>AI Archives</title>
     <link href="https://blogs.nvidia.com/blog/category/generative-ai/"/>
     <id>https://blogs.nvidia.com/blog/category/generative-ai/</id>
-    <summary type="text">Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era....</summary>
+    <summary type="text">From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics....</summary>
+  </entry>
+  <entry>
+    <title>Supercomputing Archives</title>
+    <link href="https://blogs.nvidia.com/blog/category/enterprise/supercomputing/"/>
+    <id>https://blogs.nvidia.com/blog/category/enterprise/supercomputing/</id>
+    <summary type="text">Erin Davis calls it the “SuperDuperPOD.” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI...</summary>
   </entry>
   <entry>
     <title>Robotics Archives</title>
@@ -380,11 +386,5 @@
     <link href="https://about.fb.com/news/tag/well-being/"/>
     <id>https://about.fb.com/news/tag/well-being/</id>
     <summary type="text">Stay informed with the latest youth well-being news and resources from Meta. Including topics on mental health, digital wellness, and teen safety.</summary>
-  </entry>
-  <entry>
-    <title>Data and Privacy News | Meta Newsroom</title>
-    <link href="https://about.fb.com/news/category/data-and-privacy/"/>
-    <id>https://about.fb.com/news/category/data-and-privacy/</id>
-    <summary type="text">Data and Privacy News | Meta Newsroom</summary>
   </entry>
 </feed>

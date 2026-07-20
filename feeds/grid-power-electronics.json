@@ -5,21 +5,6 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/grid-power-electronics.json",
   "items": [
     {
-      "id": "https://www.energy.gov/oe/events/2026-electromagnetic-transient-emt-simulation-workshop",
-      "url": "https://www.energy.gov/oe/events/2026-electromagnetic-transient-emt-simulation-workshop",
-      "title": "2026 Electromagnetic Transient (EMT) Simulation Workshop",
-      "content_text": "NERC, in collaboration with OE and ORNL, will host the 2026 Electromagnetic Transient (EMT) Simulation Workshop on Aug. 18-21, 2026, in Washington, D.C. Researchers, consultants, utilities, system operators, and reliability organizations will explore advancements in EMT simulations, including modeling, simulation techniques, input data structure, and automation tools to support evolving industry needs. This workshop will also feature hands-on tutorials on EMT simulation that is supported by DOE i2x.",
-      "attachments": [
-        {
-          "url": "https://www.energy.gov/sites/default/files/2025-04/white-fallback_0.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "grid-power-electronics"
-      ]
-    },
-    {
       "id": "https://www.utilitydive.com/news/best-buy-adds-more-solar-generation-to-portfolio/825634/",
       "url": "https://www.utilitydive.com/news/best-buy-adds-more-solar-generation-to-portfolio/825634/",
       "title": "Best Buy adds more solar generation to portfolio",
@@ -53,7 +38,7 @@
       "id": "https://www.utilitydive.com/news/ai-data-center-growth-utilities-generation-plans/825541/",
       "url": "https://www.utilitydive.com/news/ai-data-center-growth-utilities-generation-plans/825541/",
       "title": "AI data center growth could force US utilities to rethink generation plans, BofA says",
-      "content_text": "Bank of America analysts project data center demand will outpace planned utility capacity additions by more than 100 GW through 2030, increasing reliance on on-site gas generation and battery storage.",
+      "content_text": "Data center demand will outpace planned utility capacity additions by more than 100 GW through 2030, increasing reliance on on-site gas generation and battery storage, Bank of America analysts project.",
       "attachments": [
         {
           "url": "https://imgproxy.divecdn.com/6x0Lfeufbwjve2OkpO4H8Ch-jMU1CovXNG_edcCzxys/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS82STVBMzM4NmIuanBn.webp",

@@ -5,6 +5,36 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/human_effect.json",
   "items": [
     {
+      "id": "https://spectrum.ieee.org/ieee-program-girls-india-stem",
+      "url": "https://spectrum.ieee.org/ieee-program-girls-india-stem",
+      "title": "IEEE Program Helps Girls In India See a Future In STEM",
+      "content_text": "Hands-on projects and role models open doors for STEM careers",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/a-group-of-university-student-volunteers-posing-together-in-matching-tee-shirts.jpg?id=67499901&width=1200&height=600&coordinates=0%2C125%2C0%2C125",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.pewresearch.org/short-reads/2026/07/20/how-global-energy-production-is-changing-in-6-charts/",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/20/how-global-energy-production-is-changing-in-6-charts/",
+      "title": "How global energy production is changing, in 6 charts",
+      "content_text": "Fossil fuels still dominate global electricity, but wind and solar are surging. In 2025, renewables outpaced coal worldwide for the first time, supplying 34% of electricity.",
+      "attachments": [
+        {
+          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/SR_26.07.20_GlobalEnergyTrends_featured.png?w=1200&h=628&crop=1",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://spectrum.ieee.org/led-light-pollution",
       "url": "https://spectrum.ieee.org/led-light-pollution",
       "title": "We’re Squandering LEDs’ Potential to Save Our Night Skies",
@@ -170,21 +200,6 @@
       ]
     },
     {
-      "id": "https://www.pewresearch.org/journalism/2026/07/16/acknowledgments-engagement/",
-      "url": "https://www.pewresearch.org/journalism/2026/07/16/acknowledgments-engagement/",
-      "title": "Acknowledgments",
-      "content_text": "|",
-      "attachments": [
-        {
-          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/PJ_26.07.16_engagement_featured.png?w=1200&h=628&crop=1",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
       "id": "https://spectrum.ieee.org/fishery-satellite-surveillance",
       "url": "https://spectrum.ieee.org/fishery-satellite-surveillance",
       "title": "Why Indonesia’s Fisheries Future Hinges On Data Integrity and Trust",
@@ -313,36 +328,6 @@
         {
           "url": "https://s41721.pcdn.co/wp-content/uploads/2026/07/5b08c48d-f033-40df-88e9-a8bc18c2ff88-scaled-1.webp",
           "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/nokia-phones-history",
-      "url": "https://spectrum.ieee.org/nokia-phones-history",
-      "title": "Inside Nokia’s Race to Catch the iPhone and Android Wave",
-      "content_text": "How the iPhone and then Android killed the feature phone",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/two-young-girls-stand-in-front-of-a-glass-case-containing-2000-era-cellphones-behind-them-is-a-display-that-says-nokia.jpg?id=67118775&width=1200&height=600&coordinates=0%2C911%2C0%2C912",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
-      "url": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
-      "title": "Inside X Square Robot’s Bold Plan for Real Home Robots",
-      "content_text": "X Square Robot’s open embodied AI stack unifies data, world models, and action",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/humanoid-robot-folding-laundry-on-a-neatly-made-bed-in-a-sunlit-bedroom.png?id=67111698&width=1200&height=600&coordinates=0%2C42%2C0%2C43",
-          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -837,6 +822,21 @@
       "attachments": [
         {
           "url": "https://www.oii.ox.ac.uk/wp-content/uploads/2026/04/AdobeStock_1918308986-700x395.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "title": "China’s AI models have Trump’s AI world at war with itself",
+      "content_text": "Kimi and other free models from China have again been seen as a wake-up call. But for what?",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-2194586709.jpg?resize=1200%2C600",
           "mime_type": "image/jpeg"
         }
       ],

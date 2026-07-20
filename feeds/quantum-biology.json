@@ -488,6 +488,15 @@
       ]
     },
     {
+      "id": "https://www.nature.com/articles/s41598-026-40510-w",
+      "url": "https://www.nature.com/articles/s41598-026-40510-w",
+      "title": "Distinct conformational dynamics of the type-2 Angiotensin II receptor bound to Angiotensin II and Angiotensin (1–7) - Scientific Reports",
+      "content_text": "Scientific Reports ( 2026 ) Cite this article",
+      "tags": [
+        "quantum-biology"
+      ]
+    },
+    {
       "id": "https://www.nature.com/articles/s41467-026-75824-w",
       "url": "https://www.nature.com/articles/s41467-026-75824-w",
       "title": "Structural basis of PLPP3-mediated lipid phosphate dephosphorylation and its role in melanoma - Nature Communications",
@@ -543,15 +552,6 @@
       "url": "https://www.nature.com/articles/s41467-026-75327-8",
       "title": "Confidence-guided cryo-EM map optimisation with LocScale-2.0 - Nature Communications",
       "content_text": "Cryo-EM maps often contain uneven signal, with strong structural features alongside weak but biologically important context. Here, authors present LocScale-2.0, which co-visualises high -resolution and contextual features while providing confidence scores f or interpretation.",
-      "tags": [
-        "quantum-biology"
-      ]
-    },
-    {
-      "id": "https://www.nature.com/articles/s41467-026-74944-7",
-      "url": "https://www.nature.com/articles/s41467-026-74944-7",
-      "title": "β-arrestin recruitment facilitates a direct association with G proteins - Nature Communications",
-      "content_text": "GPCRs help cells sense and respond to their environment, with G proteins and β-arrestins serving as critical signaling effectors. Here, authors show that G proteins can directly bind β-arrestins and define key cellular and biochemical requirements for these interactions.",
       "tags": [
         "quantum-biology"
       ]

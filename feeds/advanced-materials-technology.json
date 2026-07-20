@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/advanced-materials-technology.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2026/07/260718010147.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010147.htm",
+      "title": "Scientists found two powerful new ways to destroy forever chemicals",
+      "content_text": "Scientists are testing two promising ways to destroy PFAS, the stubborn “forever chemicals” that can accumulate in water and resist normal treatment. One method uses collapsing vapor bubbles to generate extreme heat and reactive molecules, while the other uses cold plasma and rising gas bubbles to pull PFAS to the surface and break them apart.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/plasma-plus-cavitation-destroys-toxic-pollutants.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "advanced-materials-technology"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
       "url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
       "title": "Scientists built a camera that can track invisible particles in 3D",
@@ -162,21 +177,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/harvesting-uv-light-from-sunlight-solid-state-material.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "advanced-materials-technology"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/06/260621060304.htm",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260621060304.htm",
-      "title": "A tiny diamond defect could reveal a mysterious new kind of magnetism",
-      "content_text": "A newly proposed quantum sensing technique could make it much easier to identify one of physics’ newest and most intriguing classes of magnets: altermagnets. These unusual materials, discovered only a few years ago, appear to combine the speed and efficiency of antiferromagnets with some of the useful electronic properties of traditional magnets, making them promising candidates for next-generation electronics.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/atomic-structure-of-altermagnets.webp",
           "mime_type": "image/webp"
         }
       ],

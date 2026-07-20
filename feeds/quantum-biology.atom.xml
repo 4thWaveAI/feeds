@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/quantum-biology.atom.xml"/>
   <id>urn:4thwaveai-feeds:quantum-biology</id>
-  <updated>Mon, 20 Jul 2026 15:01:12 +0000</updated>
+  <updated>Mon, 20 Jul 2026 19:03:38 +0000</updated>
   <entry>
     <title>2010 TSC Tucson ARIZONA</title>
     <link href="https://consciousness.arizona.edu/news/2010-tsc-tucson-arizona"/>
@@ -215,6 +215,12 @@
     <summary type="text">β-structure formation gives structural proteins their strength and flexibility, but the mechanisms controlling its formation are still not fully understood. Here, the authors designed β-hairpin peptides that switch from a disordered to a β-structured state upon sodium dodecyl sulfate exposure, offering a tunable platform for biomaterial design.</summary>
   </entry>
   <entry>
+    <title>Distinct conformational dynamics of the type-2 Angiotensin II receptor bound to Angiotensin II and Angiotensin (1–7) - Scientific Reports</title>
+    <link href="https://www.nature.com/articles/s41598-026-40510-w"/>
+    <id>https://www.nature.com/articles/s41598-026-40510-w</id>
+    <summary type="text">Scientific Reports ( 2026 ) Cite this article</summary>
+  </entry>
+  <entry>
     <title>Structural basis of PLPP3-mediated lipid phosphate dephosphorylation and its role in melanoma - Nature Communications</title>
     <link href="https://www.nature.com/articles/s41467-026-75824-w"/>
     <id>https://www.nature.com/articles/s41467-026-75824-w</id>
@@ -249,12 +255,6 @@
     <link href="https://www.nature.com/articles/s41467-026-75327-8"/>
     <id>https://www.nature.com/articles/s41467-026-75327-8</id>
     <summary type="text">Cryo-EM maps often contain uneven signal, with strong structural features alongside weak but biologically important context. Here, authors present LocScale-2.0, which co-visualises high -resolution and contextual features while providing confidence scores f or interpretation.</summary>
-  </entry>
-  <entry>
-    <title>β-arrestin recruitment facilitates a direct association with G proteins - Nature Communications</title>
-    <link href="https://www.nature.com/articles/s41467-026-74944-7"/>
-    <id>https://www.nature.com/articles/s41467-026-74944-7</id>
-    <summary type="text">GPCRs help cells sense and respond to their environment, with G proteins and β-arrestins serving as critical signaling effectors. Here, authors show that G proteins can directly bind β-arrestins and define key cellular and biochemical requirements for these interactions.</summary>
   </entry>
   <entry>
     <title>Transversal fault tolerant distributed quantum computing operations - Nature Communications</title>

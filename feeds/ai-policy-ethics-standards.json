@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai-policy-ethics-standards.json",
   "items": [
     {
+      "id": "https://www.nist.gov/news-events/events/2026/08/forensic-science-standards-synergy-summit",
+      "url": "https://www.nist.gov/news-events/events/2026/08/forensic-science-standards-synergy-summit",
+      "title": "Forensic Science Standards Synergy Summit",
+      "content_text": "An official website of the United States government",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/07/20/shutterstock_2608441967.jpg?itok=VdEugWWd",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai-policy-ethics-standards"
+      ]
+    },
+    {
       "id": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-approves-final-order-against-truheight-deceptive-unsubstantiated-advertising-supplements-kids",
       "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-approves-final-order-against-truheight-deceptive-unsubstantiated-advertising-supplements-kids",
       "title": "FTC Approves Final Order Against TruHeight for Deceptive and Unsubstantiated Advertising of Supplements for Kids and Teens",
@@ -147,21 +162,6 @@
       "attachments": [
         {
           "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2025/07/25/CHIPS%20Xcelerate%202X-fullcolor.png?itok=0uAutXTW",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai-policy-ethics-standards"
-      ]
-    },
-    {
-      "id": "https://www.nist.gov/news-events/events/2026/09/plastic-composition-analysis-workshop-identifying-reference-material-data",
-      "url": "https://www.nist.gov/news-events/events/2026/09/plastic-composition-analysis-workshop-identifying-reference-material-data",
-      "title": "Plastic Composition Analysis Workshop: Identifying reference material, data, and measurement needs",
-      "content_text": "This two-day virtual workshop will bring together experts to identify critical challenges in plastic composition anal",
-      "attachments": [
-        {
-          "url": "https://www.nist.gov/themes/custom/nist_www/img/homepage/nist_mark.png",
           "mime_type": "image/png"
         }
       ],

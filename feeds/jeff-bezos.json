@@ -24,13 +24,13 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/entertainment/boys-of-tommen-prime-video",
-      "url": "https://www.aboutamazon.com/news/entertainment/boys-of-tommen-prime-video",
-      "title": "Prime Video announces further casting for ‘Boys of Tommen,’ a series based on the bestselling books",
-      "content_text": "Producers behind ‘The Summer I Turned Pretty,' ‘Twilight,' and ‘Off Campus’ are bringing Chloe Walsh’s romantic drama novels to the screen.",
+      "id": "https://www.aboutamazon.com/news/retail/amazon-prime-young-adults-cash-back-rewards",
+      "url": "https://www.aboutamazon.com/news/retail/amazon-prime-young-adults-cash-back-rewards",
+      "title": "Prime for Young Adults introduces 5% cash back on dorm and apartment essentials, just in time for move-in",
+      "content_text": "From today through September 15, Prime for Young Adults members can earn 5% cash back on home, kitchen, and office purchases—on top of existing categories like beauty, apparel, and electronics.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/d4b21db/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fea%2Fa0%2Fef17c15e4b58a6cb5c637815688e%2Fhero-2000x1125-6-1.jpg",
+          "url": "https://assets.aboutamazon.com/dims4/default/b0d9de1/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Feb%2F95%2F29ee0db347a38b2d4c02e2ef2461%2Fpya-otc-hero-v2-lm-2.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -103,6 +103,21 @@
       ]
     },
     {
+      "id": "https://www.aboutamazon.com/news/retail",
+      "url": "https://www.aboutamazon.com/news/retail",
+      "title": "Retail",
+      "content_text": "More information about shopping on Amazon and our selection of products and services.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/entertainment",
       "url": "https://www.aboutamazon.com/news/entertainment",
       "title": "Entertainment",
@@ -133,40 +148,10 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/retail",
-      "url": "https://www.aboutamazon.com/news/retail",
-      "title": "Retail",
-      "content_text": "More information about shopping on Amazon and our selection of products and services.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
       "id": "https://www.aboutamazon.com/news/aws",
       "url": "https://www.aboutamazon.com/news/aws",
       "title": "AWS",
       "content_text": "If you're an inventor, you'll love being an Amazonian. From day one at Amazon, you'll take ownership of projects that have a direct impact on our customers.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/amazon-leo",
-      "url": "https://www.aboutamazon.com/news/amazon-leo",
-      "title": "Amazon Leo",
-      "content_text": "26 results - showing results 1 - 12",
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",

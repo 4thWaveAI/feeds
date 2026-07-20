@@ -476,6 +476,21 @@
       ]
     },
     {
+      "id": "https://www.w3.org/news/2026/proposed-advancement-of-webauthn-3-to-w3c-recommendation/",
+      "url": "https://www.w3.org/news/2026/proposed-advancement-of-webauthn-3-to-w3c-recommendation/",
+      "title": "Proposed Advancement of Web Authentication: An API for accessing Public Key Credentials Level 3 to W3C Recommendation",
+      "content_text": "This specification defines an API enabling the creation and use of strong, attested, scoped, public key-based credentials by web applications, for the purpose of strongly authenticating users.",
+      "attachments": [
+        {
+          "url": "https://www.w3.org/assets/website-2021/images/w3c-opengraph-image.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "standards-bodies"
+      ]
+    },
+    {
       "id": "https://www.w3.org/news/2026/first-public-working-draft-character-model-for-the-world-wide-web-string-matching/",
       "url": "https://www.w3.org/news/2026/first-public-working-draft-character-model-for-the-world-wide-web-string-matching/",
       "title": "First Public Working Draft: Character Model for the World Wide Web: String Matching",
@@ -600,21 +615,6 @@
       "url": "https://www.w3.org/news/2026/first-public-working-draft-verifiable-credential-forgery-defense-v1-0/",
       "title": "First Public Working Draft: Verifiable Credential Forgery Defense v1.0",
       "content_text": "This specification describes a mechanism for issuers of verifiable credentials to publish indexed lists of compact cryptographic witnesses.",
-      "attachments": [
-        {
-          "url": "https://www.w3.org/assets/website-2021/images/w3c-opengraph-image.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "standards-bodies"
-      ]
-    },
-    {
-      "id": "https://www.w3.org/news/2026/w3c-opens-inclusion-fund-and-invited-expert-fund-for-tpac-2026/",
-      "url": "https://www.w3.org/news/2026/w3c-opens-inclusion-fund-and-invited-expert-fund-for-tpac-2026/",
-      "title": "W3C opens Inclusion Fund and Invited Expert Fund for TPAC 2026",
-      "content_text": "W3C opens applications for travel support for TPAC 2026 to help reduce barriers for participation and increase diversity at TPAC, acknowledging the positive contributions of participants and Invited Experts who have shown commitment through their positive contributions to the work of W3C groups.",
       "attachments": [
         {
           "url": "https://www.w3.org/assets/website-2021/images/w3c-opengraph-image.png",

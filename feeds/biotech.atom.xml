@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/biotech.atom.xml"/>
   <id>urn:4thwaveai-feeds:biotech</id>
-  <updated>Mon, 20 Jul 2026 14:39:32 +0000</updated>
+  <updated>Mon, 20 Jul 2026 18:40:17 +0000</updated>
   <entry>
     <title>Scientists map how the flu virus rewires the human cell from the inside | EMBL</title>
     <link href="https://www.embl.org/news/science-technology/scientists-map-how-the-flu-virus-rewires-the-human-cell-from-the-inside/"/>
@@ -192,6 +192,12 @@
     <summary type="text">On June 12, 2026, the U.S. Food and Drug Administration granted accelerated approval to Tzield  (teplizumab) for a new indication, to delay the decline of insulin production in pediatric patients ages 8 through 17 years who have been recently diagnosed with Stage 3 type 1 diabetes (T1D).</summary>
   </entry>
   <entry>
+    <title>Early Alert: Intravascular Administration Set Issue from Baxter</title>
+    <link href="http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-intravascular-administration-set-issue-baxter"/>
+    <id>http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-intravascular-administration-set-issue-baxter</id>
+    <summary type="text">Baxter administration sets may have air bubbles in the drip chamber and tubing, which may result in air being delivered through the IV line to the patient.</summary>
+  </entry>
+  <entry>
     <title>Bolton Medical Removes Relay Pro System</title>
     <link href="http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/thoracic-stent-graft-recall-bolton-medical-removes-relay-pro-system"/>
     <id>http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/thoracic-stent-graft-recall-bolton-medical-removes-relay-pro-system</id>
@@ -244,12 +250,6 @@
     <link href="http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kits-issue-medline"/>
     <id>http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kits-issue-medline</id>
     <summary type="text">Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.</summary>
-  </entry>
-  <entry>
-    <title>Infusion Pump Correction from Fresenius Kabi</title>
-    <link href="http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-pump-correction-fresenius-kabi-issues-correction-dropped-or-jarred-ivenix-large-volume"/>
-    <id>http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-pump-correction-fresenius-kabi-issues-correction-dropped-or-jarred-ivenix-large-volume</id>
-    <summary type="text">If dropped, the Ivenix pump touchscreen may become unresponsive and should be removed from use.</summary>
   </entry>
   <entry>
     <title>New Alzheimer’s blood test may tell when symptoms are around the corner</title>

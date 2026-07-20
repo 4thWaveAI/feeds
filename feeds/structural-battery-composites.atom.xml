@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/structural-battery-composites.atom.xml"/>
   <id>urn:4thwaveai-feeds:structural-battery-composites</id>
-  <updated>Mon, 20 Jul 2026 14:40:41 +0000</updated>
+  <updated>Mon, 20 Jul 2026 18:41:29 +0000</updated>
   <entry>
     <title>The biggest problem with solid-state batteries may finally be solved</title>
     <link href="https://www.sciencedaily.com/releases/2026/07/260710003533.htm"/>
@@ -66,6 +66,12 @@
     <summary type="text">Scientists have developed a fuel cell that uses microbes in soil to produce electricity. The device can power underground sensors for tasks like monitoring moisture or detecting touch, without needing batteries or solar panels. It works in both dry and wet conditions and even lasts longer than similar technologies. This could pave the way for sustainable, low-maintenance sensors in farming and environmental monitoring.</summary>
   </entry>
   <entry>
+    <title>Sensing before drinking - Nature Water</title>
+    <link href="https://www.nature.com/articles/s44221-026-00673-2"/>
+    <id>https://www.nature.com/articles/s44221-026-00673-2</id>
+    <summary type="text">Access to safe drinking water remains a global challenge. A low-cost, self-powered floating device points to a new direction in smart water treatment by unifying contaminant detection and disinfection in a single platform.</summary>
+  </entry>
+  <entry>
     <title>Building chemical stability with mechanics - Nature Energy</title>
     <link href="https://www.nature.com/articles/s41560-026-02044-3"/>
     <id>https://www.nature.com/articles/s41560-026-02044-3</id>
@@ -78,10 +84,16 @@
     <summary type="text">The ion transport in polymer electrolytes requires a multi-scale and quantified analysis. An integrated methodology combining solid-state exchange nuclear magnetic resonance (NMR) and Markov chain analysis enables contribution analysis of distinct lithium-ion pathways in composite polymer electrolytes based on rigid polyanions, revealing fast and synergistic ion transport mechanisms.</summary>
   </entry>
   <entry>
-    <title>AI meets high-throughput screening of LNPs - Nature Biomedical Engineering</title>
-    <link href="https://www.nature.com/articles/s41551-026-01737-0"/>
-    <id>https://www.nature.com/articles/s41551-026-01737-0</id>
-    <summary type="text">Two studies highlight the ways in which artificial intelligence can be used to improve ionizable lipid design for lipid nanoparticle-mediated mRNA delivery.</summary>
+    <title>Civil additive manufacturing: foundations and frontiers of the modern construction industry - npj Advanced Manufacturing</title>
+    <link href="https://www.nature.com/articles/s44334-026-00094-9"/>
+    <id>https://www.nature.com/articles/s44334-026-00094-9</id>
+    <summary type="text">npj Advanced Manufacturing ( 2026 ) Cite this article</summary>
+  </entry>
+  <entry>
+    <title>Improving thermal shock resistance of segmented thermoelectric devices via metal foam integration - Nature Communications</title>
+    <link href="https://www.nature.com/articles/s41467-026-75761-8"/>
+    <id>https://www.nature.com/articles/s41467-026-75761-8</id>
+    <summary type="text">This work proposes a Ni foam composite solder layer, which not only optimizes the solder’s thermal expansion coefficient but also exhibits substantial plastic deformation during thermal shock, synergistically mitigating interfacial thermal stress.</summary>
   </entry>
   <entry>
     <title>Relaxor-like ferroelectric response and achiral–chiral switching in an amorphous molecular solid - Nature Communications</title>
@@ -90,27 +102,15 @@
     <summary type="text">Relaxor ferroelectrics provide a fertile platform for reconfigurable electronics, yet their fluctuating dipolar networks lack intrinsic mechanisms for symmetry modulation. Using a salicylideneaniline derivative that undergoes a UV-triggered achiral-to-chiral transition the authors show that structural disorder reshapes coupled chiroptical and polarization dynamics.</summary>
   </entry>
   <entry>
-    <title>Automated and Scalable SEM Image Analysis of Perovskite Solar Cell Materials via a Deep Segmentation Framework - npj Computational Materials</title>
-    <link href="https://www.nature.com/articles/s41524-026-02211-w"/>
-    <id>https://www.nature.com/articles/s41524-026-02211-w</id>
-    <summary type="text">npj Computational Materials ( 2026 ) Cite this article</summary>
+    <title>Neural dynamics of temporal interference stimulation monitoring by soft liquid metal interfaces across neural systems - Nature Communications</title>
+    <link href="https://www.nature.com/articles/s41467-026-75244-w"/>
+    <id>https://www.nature.com/articles/s41467-026-75244-w</id>
+    <summary type="text">Temporal interference stimulation enables non-invasive deep brain modulation, but its physiological effects remain unclear. Here, the authors developed a soft liquid metal neural interface to investigate TIS across brain organoids and mouse brains, revealing changes in neural dynamics</summary>
   </entry>
   <entry>
-    <title>Unmasking of a valuable and sustainable waste of Rosa damascena petals distillation and antibacterial activity of its complex with β-cyclodextrin - Scientific Reports</title>
-    <link href="https://www.nature.com/articles/s41598-026-62717-7"/>
-    <id>https://www.nature.com/articles/s41598-026-62717-7</id>
-    <summary type="text">Scientific Reports ( 2026 ) Cite this article</summary>
-  </entry>
-  <entry>
-    <title>First observation of novel satellites using high-resolution XR-HERFD measurement of Zn Kα emission - Scientific Reports</title>
-    <link href="https://www.nature.com/articles/s41598-026-62154-6"/>
-    <id>https://www.nature.com/articles/s41598-026-62154-6</id>
-    <summary type="text">Scientific Reports ( 2026 ) Cite this article</summary>
-  </entry>
-  <entry>
-    <title>Long term metal release risk of lithium slag based mine backfill under different pH conditions - Scientific Reports</title>
-    <link href="https://www.nature.com/articles/s41598-026-62949-7"/>
-    <id>https://www.nature.com/articles/s41598-026-62949-7</id>
+    <title>Effect of O2 content on AC surface flashover and surface degradation of Al2O3-filled epoxy resin in C4F7N/CO2/O2 ternary gas mixtures - Scientific Reports</title>
+    <link href="https://www.nature.com/articles/s41598-026-62924-2"/>
+    <id>https://www.nature.com/articles/s41598-026-62924-2</id>
     <summary type="text">Scientific Reports ( 2026 ) Cite this article</summary>
   </entry>
 </feed>
