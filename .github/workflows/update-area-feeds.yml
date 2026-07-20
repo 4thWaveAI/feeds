@@ -4,11 +4,11 @@ on:
   workflow_dispatch: {}
 
   # Run four times per day.
-  # Minute 17 avoids GitHub's busiest top-of-hour scheduling period.
   schedule:
     - cron: "17 */6 * * *"
 
-  # Rebuild when the source registry, builder, or this workflow changes.
+  # Rebuild when the source registry, builder,
+  # or this workflow changes.
   push:
     branches:
       - main
@@ -17,13 +17,13 @@ on:
       - "scripts/**"
       - ".github/workflows/update-area-feeds.yml"
 
-# Only one complete feed build may run at a time.
-# A newer run waits instead of cancelling a healthy run already in progress.
+# Allow only one complete feed build at a time.
+# New runs wait instead of cancelling an active build.
 concurrency:
   group: update-area-feeds-main
   cancel-in-progress: false
 
-# Required so the workflow can save generated feeds back to the repository.
+# Permit the workflow to save generated feeds.
 permissions:
   contents: write
 
@@ -31,8 +31,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    # The expanded source library contains hundreds of sources and may take hours.
-    # GitHub allows a maximum of 360 minutes for this setting.
+    # Allow enough time for hundreds of feed sources.
     timeout-minutes: 330
 
     steps:
@@ -76,16 +75,21 @@ jobs:
           import yaml
 
           config_path = Path("feeds.yaml")
-          config = yaml.safe_load(config_path.read_text(encoding="utf-8"))
+          config = yaml.safe_load(
+              config_path.read_text(encoding="utf-8")
+          )
 
           if not isinstance(config, dict):
-              raise SystemExit("feeds.yaml must contain a YAML mapping.")
+              raise SystemExit(
+                  "feeds.yaml must contain a YAML mapping."
+              )
 
           areas = config.get("areas")
 
           if not isinstance(areas, dict) or not areas:
               raise SystemExit(
-                  "feeds.yaml must contain a non-empty 'areas' mapping."
+                  "feeds.yaml must contain a non-empty "
+                  "'areas' mapping."
               )
 
           source_count = 0
@@ -93,14 +97,19 @@ jobs:
           for area_name, sources in areas.items():
               if not isinstance(sources, list):
                   raise SystemExit(
-                      f"Area {area_name!r} must contain a list of sources."
+                      f"Area {area_name!r} must contain "
+                      "a list of sources."
                   )
 
-              for source_number, source in enumerate(sources, start=1):
+              for source_number, source in enumerate(
+                  sources,
+                  start=1
+              ):
                   if not isinstance(source, dict):
                       raise SystemExit(
-                          f"Area {area_name!r}, source {source_number} "
-                          "must be a YAML mapping."
+                          f"Area {area_name!r}, "
+                          f"source {source_number} must "
+                          "be a YAML mapping."
                       )
 
                   missing = [
@@ -111,15 +120,17 @@ jobs:
 
                   if missing:
                       raise SystemExit(
-                          f"Area {area_name!r}, source {source_number} "
-                          f"is missing: {', '.join(missing)}"
+                          f"Area {area_name!r}, "
+                          f"source {source_number} is missing: "
+                          f"{', '.join(missing)}"
                       )
 
               source_count += len(sources)
 
           print(
-              f"Configuration valid: "
-              f"{len(areas)} areas and {source_count} sources."
+              "Configuration valid: "
+              f"{len(areas)} areas and "
+              f"{source_count} sources."
           )
           PY
 
@@ -159,24 +170,39 @@ jobs:
             exit 0
           fi
 
-          git commit -m "chore: update feeds & index [skip ci]"
+          git commit \
+            -m "chore: update feeds & index [skip ci]"
+
+          branch="${GITHUB_REF_NAME:-main}"
 
           for attempt in 1 2 3; do
-            echo "Push attempt ${attempt} of 3"
+            echo \
+              "Synchronize and push attempt " \
+              "${attempt} of 3"
 
-            git pull \
-              --rebase \
-              --autostash \
-              origin \
-              "${GITHUB_REF_NAME:-main}" || true
+            git fetch origin "$branch"
 
-            if git push origin "HEAD:${GITHUB_REF_NAME:-main}"; then
-              echo "Generated feeds pushed successfully."
+            if ! git rebase "origin/$branch"; then
+              echo "Rebase conflict detected."
+              echo \
+                "Stopping instead of reporting " \
+                "a false success."
+
+              git rebase --abort || true
+              exit 1
+            fi
+
+            if git push origin "HEAD:$branch"; then
+              echo \
+                "Generated feeds pushed successfully."
               exit 0
             fi
 
             if [ "$attempt" -lt 3 ]; then
-              echo "Push did not succeed; waiting before retry."
+              echo \
+                "Remote changed before push; " \
+                "waiting before retry."
+
               sleep 10
             fi
           done
