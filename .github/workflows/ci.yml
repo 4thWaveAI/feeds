@@ -17,6 +17,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          show-progress: false
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -29,20 +31,19 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          python -m pip install --upgrade pip
-          pip install -r scripts/requirements.txt
-
-      - name: Compile Python
-        shell: bash
-        run: |
-          set -euo pipefail
-          python -m compileall -q scripts
+          python -m pip install --quiet -r scripts/requirements.txt
 
       - name: Validate feed registry
         shell: bash
         run: |
           set -euo pipefail
           python scripts/validate_feeds_config.py
+
+      - name: Compile Python
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m compileall -q scripts
 
       - name: Validate committed feed outputs
         shell: bash
