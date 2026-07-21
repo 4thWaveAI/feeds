@@ -1,8 +1,14 @@
 name: Archive weekly feeds
 
 on:
-  schedule: [ { cron: "0 6 * * 0" } ]   # Sundays 06:00 UTC
-  workflow_dispatch: {}                 # allow manual run
+  schedule:
+    - cron: "0 6 * * 0" # Sundays 06:00 UTC
+  workflow_dispatch: {}
+
+# Archive commits must not race feed-generation commits.
+concurrency:
+  group: feed-writers-main
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -10,9 +16,21 @@ permissions:
 jobs:
   archive:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout full repository history
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Configure Git
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
 
       - name: Make dated archive folder
         shell: bash
@@ -20,37 +38,93 @@ jobs:
           set -euo pipefail
           DATE_TAG="$(date -u +%Y/%m/%d)"
           mkdir -p "archive/${DATE_TAG}"
-          echo "DATE_TAG=${DATE_TAG}" >> $GITHUB_ENV
+          echo "DATE_TAG=${DATE_TAG}" >> "$GITHUB_ENV"
 
       - name: Copy latest feeds
         shell: bash
         run: |
+          set -euo pipefail
           shopt -s nullglob
-          cp -f feeds/*.xml "archive/${DATE_TAG}/" || true
-          cp -f feeds/*.atom.xml "archive/${DATE_TAG}/" || true
-          cp -f feeds/*.json "archive/${DATE_TAG}/" || true
+          files=(feeds/*.xml feeds/*.json)
+          if [ "${#files[@]}" -eq 0 ]; then
+            echo "No feed files found to archive."
+            exit 1
+          fi
+          cp -f "${files[@]}" "archive/${DATE_TAG}/"
 
-      - name: Gzip archive copies (keep originals too)
+      - name: Gzip archive copies
         shell: bash
         run: |
+          set -euo pipefail
           shopt -s nullglob
-          for f in archive/${DATE_TAG}/*; do
-            gzip -kf "$f"
+          for file in "archive/${DATE_TAG}"/*; do
+            gzip -kf "$file"
           done
 
-      - name: Prune old archive files (keep ~120 days)
+      - name: Prune snapshots older than 120 days
         shell: bash
         run: |
-          # delete files older than 120 days, then empty dirs
-          find archive -type f -mtime +120 -delete || true
-          find archive -type d -empty -delete || true
+          set -euo pipefail
+          python - <<'PY'
+          from datetime import date, timedelta
+          from pathlib import Path
+          import shutil
+
+          root = Path("archive")
+          cutoff = date.today() - timedelta(days=120)
+
+          for day_dir in root.glob("[0-9][0-9][0-9][0-9]/[0-9][0-9]/[0-9][0-9]"):
+              try:
+                  snapshot_date = date(
+                      int(day_dir.parts[-3]),
+                      int(day_dir.parts[-2]),
+                      int(day_dir.parts[-1]),
+                  )
+              except ValueError:
+                  continue
+
+              if snapshot_date < cutoff:
+                  print(f"Removing expired snapshot: {day_dir}")
+                  shutil.rmtree(day_dir)
+
+          for directory in sorted(root.glob("**/*"), reverse=True):
+              if directory.is_dir() and not any(directory.iterdir()):
+                  directory.rmdir()
+          PY
 
       - name: Commit archive snapshot
         shell: bash
         run: |
-          set -e
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          set -euo pipefail
           git add archive
-          git commit -m "archive: snapshot ${DATE_TAG} [skip ci]" || echo "No changes"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No archive changes to commit."
+            exit 0
+          fi
+
+          git commit -m "archive: snapshot ${DATE_TAG} [skip ci]"
+          branch="${GITHUB_REF_NAME:-main}"
+
+          for attempt in 1 2 3; do
+            echo "Synchronize and push attempt ${attempt} of 3"
+            git fetch origin "$branch"
+
+            if ! git rebase "origin/$branch"; then
+              echo "Rebase conflict detected; stopping instead of reporting false success."
+              git rebase --abort || true
+              exit 1
+            fi
+
+            if git push origin "HEAD:$branch"; then
+              echo "Archive snapshot pushed successfully."
+              exit 0
+            fi
+
+            if [ "$attempt" -lt 3 ]; then
+              sleep 10
+            fi
+          done
+
+          echo "Push failed after three attempts."
+          exit 1
