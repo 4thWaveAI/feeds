@@ -3,9 +3,12 @@ name: Alert on Failure
 on:
   workflow_run:
     workflows:
-      - Update Boston Dynamics RSS
       - Update Area Feeds (AI/Robotics/Quantum/Biotech/Nanotech)
-    types: [completed]
+      - Manual Full Feed Rebuild (legacy space entry point)
+      - Archive weekly feeds
+      - ci
+    types:
+      - completed
 
 permissions:
   contents: read
@@ -15,8 +18,9 @@ jobs:
   create-issue-on-failure:
     if: ${{ github.event.workflow_run.conclusion == 'failure' }}
     runs-on: ubuntu-latest
+
     steps:
-      - name: Open/append failure issue
+      - name: Open or append failure issue
         uses: actions/github-script@v7
         with:
           script: |
@@ -28,38 +32,55 @@ jobs:
               `Run: ${run.html_url}`,
               `Branch: ${run.head_branch}`,
               `Event: ${run.event}`,
-              `Commit: ${run.head_sha}`
+              `Commit: ${run.head_sha}`,
+              `Conclusion: ${run.conclusion}`
             ].join('\n');
 
-            // Ensure label exists (idempotent)
             const labelName = 'ci-failure';
             try {
               await github.rest.issues.getLabel({ owner, repo, name: labelName });
             } catch {
               await github.rest.issues.createLabel({
-                owner, repo, name: labelName, color: 'B60205', description: 'CI workflow failure'
+                owner,
+                repo,
+                name: labelName,
+                color: 'B60205',
+                description: 'Automated workflow failure'
               });
             }
 
-            // Find existing issue for this workflow
             const { data: issues } = await github.rest.issues.listForRepo({
-              owner, repo, state: 'open', labels: labelName, per_page: 100
+              owner,
+              repo,
+              state: 'open',
+              labels: labelName,
+              per_page: 100
             });
-            const existing = issues.find(i => i.title === title);
+            const existing = issues.find(issue => issue.title === title);
 
             if (existing) {
-              await github.rest.issues.createComment({ owner, repo, issue_number: existing.number, body });
+              await github.rest.issues.createComment({
+                owner,
+                repo,
+                issue_number: existing.number,
+                body
+              });
             } else {
               await github.rest.issues.create({
-                owner, repo, title, body, labels: [labelName]
+                owner,
+                repo,
+                title,
+                body,
+                labels: [labelName]
               });
             }
 
   close-issue-on-recovery:
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
+
     steps:
-      - name: Close failure issue if open
+      - name: Close failure issue after recovery
         uses: actions/github-script@v7
         with:
           script: |
@@ -70,15 +91,26 @@ jobs:
             const labelName = 'ci-failure';
 
             const { data: issues } = await github.rest.issues.listForRepo({
-              owner, repo, state: 'open', labels: labelName, per_page: 100
+              owner,
+              repo,
+              state: 'open',
+              labels: labelName,
+              per_page: 100
             });
-            const existing = issues.find(i => i.title === title);
+            const existing = issues.find(issue => issue.title === title);
+
             if (existing) {
               await github.rest.issues.createComment({
-                owner, repo, issue_number: existing.number,
+                owner,
+                repo,
+                issue_number: existing.number,
                 body: `✅ Recovery: ${run.html_url}`
               });
               await github.rest.issues.update({
-                owner, repo, issue_number: existing.number, state: 'closed'
+                owner,
+                repo,
+                issue_number: existing.number,
+                state: 'closed',
+                state_reason: 'completed'
               });
             }
