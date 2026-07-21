@@ -3,7 +3,8 @@
 **Future-Tech Media & Intelligence Platform**  
 Tracking the Five Frontiers: **AI • Robotics • Quantum • Biotech • Nanotech • Human Effect**
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/4thwaveai-feeds/4thwaveai-feeds/update-area-feeds.yml?label=Build)](../../actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/4thWaveAI/feeds/update-area-feeds.yml?branch=main&label=Feed%20Build)](../../actions/workflows/update-area-feeds.yml)
+[![CI Status](https://img.shields.io/github/actions/workflow/status/4thWaveAI/feeds/ci.yml?branch=main&label=Validation)](../../actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![License](https://img.shields.io/badge/License-BSL%20→%20Apache%202.0-green)
 ![GitHub Pages](https://img.shields.io/badge/Powered%20by-GitHub%20Pages-orange)
@@ -33,6 +34,14 @@ Plus: **The Human Effect** — how it all changes us.
   - 🎮 **Esports** (GSEL: Global Scholastic Esports League)
   - 🔬 **Research** (AI, Robotics, Nano, Biotech Institutes)
   - 🚀 **Space Tech** (what comes next)
+
+### Pipeline safeguards
+
+- The complete registry rebuilds every six hours.
+- Every workflow that writes generated files shares one concurrency lock.
+- The former hourly space-only writer is now a manual **full** rebuild and cannot replace the global directory with a partial index.
+- CI validates the registry, Python syntax, every committed XML/JSON feed, and the completeness of `index.html`.
+- Workflow failures open a GitHub issue automatically and close it after recovery.
 
 ---
 
@@ -76,4 +85,3 @@ Plus: **The Human Effect** — how it all changes us.
                       │  Space Tech │
                       │   & Beyond  │
                       └─────────────┘
-
