@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: read
+  pull-requests: write
 
 jobs:
   validate:
@@ -34,10 +35,46 @@ jobs:
           python -m pip install --quiet -r scripts/requirements.txt
 
       - name: Validate feed registry
+        id: registry
+        continue-on-error: true
         shell: bash
         run: |
-          set -euo pipefail
-          python scripts/validate_feeds_config.py
+          set -o pipefail
+          python scripts/validate_feeds_config.py 2>&1 | tee registry-validation.log
+
+      - name: Report registry validation failure
+        if: ${{ steps.registry.outcome == 'failure' && github.event_name == 'pull_request' }}
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const marker = '<!-- feed-registry-validation-report -->';
+            const report = fs.readFileSync('registry-validation.log', 'utf8');
+            const body = `${marker}\n## Feed registry validation report\n\n\`\`\`text\n${report.slice(0, 60000)}\n\`\`\``;
+            const { owner, repo } = context.repo;
+            const issue_number = context.issue.number;
+            const { data: comments } = await github.rest.issues.listComments({
+              owner,
+              repo,
+              issue_number,
+              per_page: 100
+            });
+            const existing = comments.find(comment => comment.body?.includes(marker));
+            if (existing) {
+              await github.rest.issues.updateComment({
+                owner,
+                repo,
+                comment_id: existing.id,
+                body
+              });
+            } else {
+              await github.rest.issues.createComment({ owner, repo, issue_number, body });
+            }
+
+      - name: Stop after registry validation failure
+        if: ${{ steps.registry.outcome == 'failure' }}
+        shell: bash
+        run: exit 1
 
       - name: Compile Python
         shell: bash
