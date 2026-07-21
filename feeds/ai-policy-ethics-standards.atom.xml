@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai-policy-ethics-standards.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai-policy-ethics-standards</id>
-  <updated>Tue, 21 Jul 2026 04:03:36 +0000</updated>
+  <updated>Tue, 21 Jul 2026 08:59:08 +0000</updated>
   <entry>
     <title>Founders of Celsius Network Ordered to Pay $16.5 Million to Resolve FTC Charges</title>
     <link href="https://www.ftc.gov/news-events/news/press-releases/2026/07/founders-celsius-network-ordered-pay-165-million-resolve-ftc-charges"/>
@@ -162,10 +162,40 @@
     <summary type="text">Today, the European Commission fined AliExpress €550 million for breaching its obligations under the Digital Services Act (DSA) to diligently assess and mitigate risks relating to the sale of illegal, unsafe or counterfeit products on its e-commerce platform.</summary>
   </entry>
   <entry>
+    <title>Commission accepts X’s action plan to comply with Digital Services Act</title>
+    <link href="https://digital-strategy.ec.europa.eu/en/news/commission-accepts-xs-action-plan-comply-digital-services-act"/>
+    <id>https://digital-strategy.ec.europa.eu/en/news/commission-accepts-xs-action-plan-comply-digital-services-act</id>
+    <summary type="text">The European Commission has accepted X’s action plan to comply with transparency obligations and researchers’ access to data, under the Digital Services Act.</summary>
+  </entry>
+  <entry>
     <title>Digital technologies to power Europe&#x27;s clean energy transition</title>
     <link href="https://digital-strategy.ec.europa.eu/en/news/digital-technologies-power-europes-clean-energy-transition"/>
     <id>https://digital-strategy.ec.europa.eu/en/news/digital-technologies-power-europes-clean-energy-transition</id>
     <summary type="text">The European Commission adopted the Electrification Action Plan and proposed an amendment to Regulation (EU) 2019/943 to future-proof electricity bills in the EU.</summary>
+  </entry>
+  <entry>
+    <title>2026 Rule of Law Report strengthens Europe&#x27;s prosperity, security and democratic resilience</title>
+    <link href="https://digital-strategy.ec.europa.eu/en/news/2026-rule-law-report-strengthens-europes-prosperity-security-and-democratic-resilience"/>
+    <id>https://digital-strategy.ec.europa.eu/en/news/2026-rule-law-report-strengthens-europes-prosperity-security-and-democratic-resilience</id>
+    <summary type="text">The European Commission published its seventh annual Rule of Law Report, assessing the state of the rule of law across all EU Member States, as well as four candidate countries: Albania, Montenegro, North Macedonia and Serbia.</summary>
+  </entry>
+  <entry>
+    <title>Commission provides guidance to Google for AI interoperability on Android and sharing of Google Search data under the Digital Markets Act</title>
+    <link href="https://digital-strategy.ec.europa.eu/en/news/commission-provides-guidance-google-ai-interoperability-android-and-sharing-google-search-data"/>
+    <id>https://digital-strategy.ec.europa.eu/en/news/commission-provides-guidance-google-ai-interoperability-android-and-sharing-google-search-data</id>
+    <summary type="text">The European Commission has issued two sets of binding specification measures to Google under the Digital Markets Act.</summary>
+  </entry>
+  <entry>
+    <title>Commission accepts X&#x27;s corrective measures to terminate breaches of the DSA</title>
+    <link href="https://digital-strategy.ec.europa.eu/en/news/commission-accepts-xs-corrective-measures-terminate-breaches-dsa"/>
+    <id>https://digital-strategy.ec.europa.eu/en/news/commission-accepts-xs-corrective-measures-terminate-breaches-dsa</id>
+    <summary type="text">The European Commission has accepted X’s action plan to comply with transparency obligations and researchers’ access to data, under the Digital Services Act.</summary>
+  </entry>
+  <entry>
+    <title>EU and India strengthen strategic partnership with third Trade and Technology Council</title>
+    <link href="https://digital-strategy.ec.europa.eu/en/news/eu-and-india-strengthen-strategic-partnership-third-trade-and-technology-council"/>
+    <id>https://digital-strategy.ec.europa.eu/en/news/eu-and-india-strengthen-strategic-partnership-third-trade-and-technology-council</id>
+    <summary type="text">The European Union and India held the third meeting of their Trade and Technology Council (TTC) in Brussels, reaffirming the TTC as a central platform for cooperation on trade, technology and security.</summary>
   </entry>
   <entry>
     <title>Commission approves €659 million German State aid for four new semiconductor facilities</title>
@@ -178,6 +208,24 @@
     <link href="https://digital-strategy.ec.europa.eu/en/news/team-europe-wins-1st-ever-international-cybersecurity-challenge-women"/>
     <id>https://digital-strategy.ec.europa.eu/en/news/team-europe-wins-1st-ever-international-cybersecurity-challenge-women</id>
     <summary type="text">Back to News</summary>
+  </entry>
+  <entry>
+    <title>EU agrees to simplify AI rules to boost innovation and ban ‘nudification&#x27; apps to protect citizens</title>
+    <link href="https://digital-strategy.ec.europa.eu/en/news/eu-agrees-simplify-ai-rules-boost-innovation-and-ban-nudification-apps-protect-citizens"/>
+    <id>https://digital-strategy.ec.europa.eu/en/news/eu-agrees-simplify-ai-rules-boost-innovation-and-ban-nudification-apps-protect-citizens</id>
+    <summary type="text">The European Commission welcomes the political agreement reached between the European Parliament and the Council of the EU on simpler, innovation-friendly rules for artificial intelligence (AI).</summary>
+  </entry>
+  <entry>
+    <title>Supporting the implementation of the AI Act with clear guidelines</title>
+    <link href="https://digital-strategy.ec.europa.eu/en/news/supporting-implementation-ai-act-clear-guidelines"/>
+    <id>https://digital-strategy.ec.europa.eu/en/news/supporting-implementation-ai-act-clear-guidelines</id>
+    <summary type="text">The AI Office is preparing guidelines to ensure a smooth implementation of the AI Act.</summary>
+  </entry>
+  <entry>
+    <title>Commission presents EU Action Plan on Cybersecurity and Artificial Intelligence</title>
+    <link href="https://digital-strategy.ec.europa.eu/en/news/commission-presents-eu-action-plan-cybersecurity-and-artificial-intelligence"/>
+    <id>https://digital-strategy.ec.europa.eu/en/news/commission-presents-eu-action-plan-cybersecurity-and-artificial-intelligence</id>
+    <summary type="text">The European Commission has presented an Action Plan for a structured response to address the risks and harness the opportunities of advanced artificial intelligence (AI) models for cybersecurity.</summary>
   </entry>
   <entry>
     <title>How do AI models persuade? Exploring the levers of AI-enabled persuasion through large-scale experiments | AISI Work</title>
@@ -198,22 +246,10 @@
     <summary type="text">1</summary>
   </entry>
   <entry>
-    <title>“促进全球人工智能朝着向上向善、造福人类的方向发展”——习近平主席出席二〇二六世界人工 智能大会暨人工智能全球治理高级别会议系列活动纪实</title>
-    <link href="https://www.miit.gov.cn/xwfb/mtbd/wzbd/art/2026/art_810b809dc0c4454ca8186b06757333b1.html"/>
-    <id>https://www.miit.gov.cn/xwfb/mtbd/wzbd/art/2026/art_810b809dc0c4454ca8186b06757333b1.html</id>
-    <summary type="text">7月17日的上海，大国外交的华章、科技创新的盛景，交相辉映。</summary>
-  </entry>
-  <entry>
-    <title>习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话</title>
-    <link href="https://www.miit.gov.cn/xwfb/szyw/art/2026/art_7bfe4f7a022845169593a56ba76c156e.html"/>
-    <id>https://www.miit.gov.cn/xwfb/szyw/art/2026/art_7bfe4f7a022845169593a56ba76c156e.html</id>
-    <summary type="text">习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话</summary>
-  </entry>
-  <entry>
-    <title>习近平在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上的主旨讲话（全文）</title>
-    <link href="https://www.miit.gov.cn/xwfb/szyw/art/2026/art_127e069252e14ddb971fd6226c552e05.html"/>
-    <id>https://www.miit.gov.cn/xwfb/szyw/art/2026/art_127e069252e14ddb971fd6226c552e05.html</id>
-    <summary type="text">新华社上海7月17日电</summary>
+    <title>“培养德智体美劳全面发展的社会主义建设者和接班人”——习近平总书记的重要论述指引基础教育改革发展开创新局面</title>
+    <link href="https://www.miit.gov.cn/xwfb/szyw/art/2026/art_453858c118734ddf80b8dfb06d9f04a1.html"/>
+    <id>https://www.miit.gov.cn/xwfb/szyw/art/2026/art_453858c118734ddf80b8dfb06d9f04a1.html</id>
+    <summary type="text">新华社北京7月21日电 题：“培养德智体美劳全面发展的社会主义建设者和接班人”——习近平总书记的重要论述指引基础教育改革发展开创新局面</summary>
   </entry>
   <entry>
     <title>习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话</title>
@@ -256,6 +292,18 @@
     <link href="https://www.miit.gov.cn/xwfb/szyw/art/2026/art_74274d15fec94306b6d7b7f80ae1b2fd.html"/>
     <id>https://www.miit.gov.cn/xwfb/szyw/art/2026/art_74274d15fec94306b6d7b7f80ae1b2fd.html</id>
     <summary type="text">李强主持召开国务院常务会议 听取对服务业扩能提质和“六张网”规划建设督查情况汇报 审议通过《知识产权保护和运用“十五五”规划》 研究优化社会保障体系有关工作 听取2025年度中央预算执行和其他财政收支审计查出问题整改工作建议汇报</summary>
+  </entry>
+  <entry>
+    <title>习近平会见联合国秘书长古特雷斯</title>
+    <link href="https://www.miit.gov.cn/xwfb/szyw/art/2026/art_091cd145bbf6498ebf8869d3e8f9641c.html"/>
+    <id>https://www.miit.gov.cn/xwfb/szyw/art/2026/art_091cd145bbf6498ebf8869d3e8f9641c.html</id>
+    <summary type="text">习近平会见联合国秘书长古特雷斯</summary>
+  </entry>
+  <entry>
+    <title>习近平会见柬埔寨首相洪玛奈</title>
+    <link href="https://www.miit.gov.cn/xwfb/szyw/art/2026/art_25d95485635c4b9a9e71607a1fc720b5.html"/>
+    <id>https://www.miit.gov.cn/xwfb/szyw/art/2026/art_25d95485635c4b9a9e71607a1fc720b5.html</id>
+    <summary type="text">习近平会见柬埔寨首相洪玛奈</summary>
   </entry>
   <entry>
     <title>习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话_中央网络安全和信息化委员会办公室</title>

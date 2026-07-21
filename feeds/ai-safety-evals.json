@@ -50,21 +50,6 @@
       ]
     },
     {
-      "id": "https://www.nist.gov/news-events/events/2026/07/nist-postmortem-toxicology-testing-and-death-reporting-certificates",
-      "url": "https://www.nist.gov/news-events/events/2026/07/nist-postmortem-toxicology-testing-and-death-reporting-certificates",
-      "title": "NIST Postmortem Toxicology Testing and Death Reporting (Certificates) Workshop",
-      "content_text": "The National Institute of Standards and Technology (NIST), in support of the",
-      "attachments": [
-        {
-          "url": "https://www.nist.gov/themes/custom/nist_www/img/homepage/nist_mark.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai-safety-evals"
-      ]
-    },
-    {
       "id": "https://www.nist.gov/news-events/events/2026/07/osacseized-drugs-and-toxicology-sac-meetings",
       "url": "https://www.nist.gov/news-events/events/2026/07/osacseized-drugs-and-toxicology-sac-meetings",
       "title": "OSAC/Seized Drugs and Toxicology SAC Meetings",
@@ -102,6 +87,21 @@
       "attachments": [
         {
           "url": "https://www.nist.gov/themes/custom/nist_www/img/homepage/nist_mark.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai-safety-evals"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/events/2026/07/additive-construction-path-standardization-continues",
+      "url": "https://www.nist.gov/news-events/events/2026/07/additive-construction-path-standardization-continues",
+      "title": "Additive Construction – The Path to Standardization Continues",
+      "content_text": "An official website of the United States government",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/05/26/Add_Constructionblank.png?itok=Zk1zyL4c",
           "mime_type": "image/png"
         }
       ],

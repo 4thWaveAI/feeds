@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.json",
   "items": [
     {
+      "id": "https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/",
+      "url": "https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/",
+      "title": "Why Maine's Sandy Shorelines Turn Jagged - NASA Science",
+      "content_text": "Differences in the underlying bedrock and how rivers distribute sediment make the coastlines west of Portland look unlike those northeast of the city.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/why-maine's-sandy-shorelines-turn-jagged/mainecoast_oli2_20250831_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
       "url": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
       "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
@@ -107,21 +122,6 @@
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2026/07/10-1177-1358863x221086619-fig2.jpg",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/",
-      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/",
-      "title": "NASA Awards Facilities Support Services Contract for Ames Research Center  - NASA",
-      "content_text": "CONTRACT RELEASE",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp",
-          "mime_type": "image/webp"
         }
       ],
       "tags": [

@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/quantum-biology.atom.xml"/>
   <id>urn:4thwaveai-feeds:quantum-biology</id>
-  <updated>Tue, 21 Jul 2026 04:14:12 +0000</updated>
+  <updated>Tue, 21 Jul 2026 09:07:56 +0000</updated>
   <entry>
     <title>2010 TSC Tucson ARIZONA</title>
     <link href="https://consciousness.arizona.edu/news/2010-tsc-tucson-arizona"/>
@@ -257,6 +257,18 @@
     <summary type="text">Protein sequences are abundant in repeating segments, both as exact copies and as approximate segments with mutations. These repeats are important for protein structure and function, motivating decades of algorithmic work on repeat identification. Recent work has shown that protein language models (PLMs) identify repeats, by examining their behavior in masked-token prediction. To elucidate their internal mechanisms, we investigate how PLMs detect both exact and approximate repeats. We find that the mechanism for approximate repeats functionally subsumes that of exact repeats. We then characterize this mechanism, revealing two main stages: PLMs first build feature representations using both general positional attention heads and biologically specialized components, such as neurons that enco</summary>
   </entry>
   <entry>
+    <title>Mechanistic studies of the human NIPA2 transporter - Nature Communications</title>
+    <link href="https://www.nature.com/articles/s41467-026-75832-w"/>
+    <id>https://www.nature.com/articles/s41467-026-75832-w</id>
+    <summary type="text">Here the authors show that the human NIPA2 transporter – a highly conserved member of the Drug Drug/Metabolite Transporter family linked to neurological disease – functions as a nucleotide transporter and may use a distinct translocation mechanism.</summary>
+  </entry>
+  <entry>
+    <title>Symmetry-driven gating of TRPM8 by PIP2 and menthol - Nature Communications</title>
+    <link href="https://www.nature.com/articles/s41467-026-75793-0"/>
+    <id>https://www.nature.com/articles/s41467-026-75793-0</id>
+    <summary type="text">TRPM8 ion channels are central to cold and menthol sensation. Here, the authors present various cryo-EM structures of TRPM8, including a two-fold symmetric intermediate and a menthol-bound sensitized conformation, revealing how PIP2 and cooling agonists allosterically activate TRPM8.</summary>
+  </entry>
+  <entry>
     <title>Theoretical chronobiology of circadian timing—gold mine or minefield? - npj Biological Timing and Sleep</title>
     <link href="https://www.nature.com/articles/s44323-026-00090-4"/>
     <id>https://www.nature.com/articles/s44323-026-00090-4</id>
@@ -302,18 +314,6 @@
     <title>Design and Optimization of AlGaN/GaN Graded Barrier MOS-HEMT Biosensor for Breast Cancer Biomolecule detection - Scientific Reports</title>
     <link href="https://www.nature.com/articles/s41598-026-61687-0"/>
     <id>https://www.nature.com/articles/s41598-026-61687-0</id>
-    <summary type="text">Scientific Reports ( 2026 ) Cite this article</summary>
-  </entry>
-  <entry>
-    <title>Collective surfing of single cells on a chemo-attractant wave using multiscale Eulerian velocity vector field - Scientific Reports</title>
-    <link href="https://www.nature.com/articles/s41598-026-61774-2"/>
-    <id>https://www.nature.com/articles/s41598-026-61774-2</id>
-    <summary type="text">Scientific Reports ( 2026 ) Cite this article</summary>
-  </entry>
-  <entry>
-    <title>Consideration of electromagnetic wave interference on microorganism inactivation on reflective surfaces - Scientific Reports</title>
-    <link href="https://www.nature.com/articles/s41598-026-62300-0"/>
-    <id>https://www.nature.com/articles/s41598-026-62300-0</id>
     <summary type="text">Scientific Reports ( 2026 ) Cite this article</summary>
   </entry>
   <entry>

@@ -733,10 +733,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.15302",
-      "url": "https://arxiv.org/abs/2607.15302",
-      "title": "Estimating Time-Dependent COVID-19 Parameters Using Kolmogorov-Arnold Network and Fourier Series",
-      "content_text": "We introduce a novel method for estimating COVID-19 time-varying parameters. These parameters are in the context of an SIRD compartmental differential equations. The time-dependent parameters are the transmission rate $β(t)$, recovery rate $γ(t)$, and mortality rate $μ(t)$. The method harnesses the novel Kolmogorov-Arnold Network (KAN), which is a type of artificial neural network. In KAN, we learn activation functions that are represented using Fourier series, hence the abbreviation KAN-F. We define three KAN-F functions $\\widehatβ$, $\\widehatγ$, $\\widehatμ$ that model the true parameters $β(t)$, $γ(t)$, $μ(t)$, respectively. The objective loss function that has to be minimized is subject to Physics-Informed Neural Network (PINN) or Epi-DNN. We estimate the COVID-19 time-dependent paramet",
+      "id": "https://arxiv.org/abs/2607.16517",
+      "url": "https://arxiv.org/abs/2607.16517",
+      "title": "Emergent topological structure in spontaneous brain-organoid activity",
+      "content_text": "Neural activity is widely held to organize on low-dimensional structure embedded in a high-dimensional state space. Persistent homology reads such structure directly from the pattern of pairwise correlations, without assuming in advance which variables are relevant. We apply persistent homology to microelectrode-array (MEA) recordings of spontaneous activity from human (Lancaster) and mouse (Paşca) cortical organoids, spanning $26$--$234$ simultaneously sorted units, and ask whether topological data analysis resolves structure at the node counts that neural recordings actually deliver. Building weighted networks in correlation space and characterizing them by Vietoris--Rips filtration, we find that the first homology ($H_1$, loops) rises significantly above a rate- and population-preservin",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -748,10 +748,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.15308",
-      "url": "https://arxiv.org/abs/2607.15308",
-      "title": "Structural Compression for Phylogenetic Inference under Alignment Instability and Indel-Rich Evolution",
-      "content_text": "Phylogenetic inference traditionally relies on aligned characters under substitution models, but this framework becomes less reliable when alignments are unstable or when evolution is dominated by insertions, deletions, repeats, and other structural changes. We adapt Ladderpath as an alignment-free distance approach for phylogenetic inference. Motivated by algorithmic information theory, Ladderpath decomposes sequences into derived, reusable units (``ladderons'', rather than fixed-length $k$-mers) organized hierarchically, from which pairwise distances are computed. The premise is that shared derived sequence structure, including repeated or reused segments that are poorly represented by column-wise substitutions, can retain phylogenetic information. The bacteriophage T7 known lineage, the",
+      "id": "https://arxiv.org/abs/2607.16531",
+      "url": "https://arxiv.org/abs/2607.16531",
+      "title": "The Origins of Transient Bimodality",
+      "content_text": "Many dynamical systems exhibit diverse modes of behavior. In biology, such modes can represent individual or cell fates. While the emergence of multimodality is commonly studied, transient bimodality is much less well understood. Under transient bimodality, a system moving from a well-defined initial to a final state transiently undergoes a bifurcation into multiple probability modes. This noise-driven phenomenon can significantly impact processes such as cell differentiation and speciation in the presence of changing environmental conditions. We detail a theoretical approach for understanding transient bimodality connecting results from ecology, optics, chemical reaction networks and cell biology, propose a ``minimal model'' of transient bimodality and derive a general criterion for its p",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -763,10 +763,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.15309",
-      "url": "https://arxiv.org/abs/2607.15309",
-      "title": "DyneTrion: A Spatio-temporally Coherent Generative Emulator for Protein Dynamics Across Timescales",
-      "content_text": "Proteins function through coordinated motion across multiple spatial and temporal scales, underpinning processes such as ligand binding, allostery, and catalysis. However, accessing long-timescale conformational change through molecular dynamics (MD) simulations remains prohibitively expensive for systematic exploration across diverse systems. Here, we present DyneTrion, a generative protein dynamics emulator that jointly enforces geometric symmetry, structural consistency and temporal coherence within a single framework. DyneTrion uses a tri-attention architecture that integrates invariant point attention (IPA) for SE(3)-robust geometric updates, spatial attention anchored to a reference conformation to preserve structural integrity, and temporal attention to model correlated evolution ac",
+      "id": "https://arxiv.org/abs/2607.16595",
+      "url": "https://arxiv.org/abs/2607.16595",
+      "title": "Orientation Reading by Production Vision-Language Models on Optotype Charts: A Controlled Multi-Model Evaluation Across Reasoning Modes, Prompts, and Access Modalities",
+      "content_text": "OBJECTIVES: Vision-language models are increasingly used to interpret medical and everyday images through consumer chat interfaces, yet their ability to read orientation - the single perceptual operation tested by the tumbling-E acuity optotype - is poorly characterized on the surfaces through which they are actually used. METHODS: We evaluated four production vision-language models (referred to as Claude, GPT, GROK, and Gemini) through their consumer chat interfaces on a locked set of seven optotype charts: four uniform tumbling-E charts (one per cardinal orientation), two mixed-orientation tumbling-E charts, and one Snellen letter chart as a specificity control. Each model was run in two reasoning modes (Fast and Thinking) under two prompt variants (with and without an explicit orientati",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -778,10 +778,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.15445",
-      "url": "https://arxiv.org/abs/2607.15445",
-      "title": "A New Method to Predict the Effect of an Intervention in the Host Population to Reduce the Magnitude of an Outbreak of a Vector-Borne Infection",
-      "content_text": "In this paper, we propose a new model to estimate the impact of an intervention on human hosts of a vector-borne infection, such as dengue, which occurs in yearly outbreaks of different magnitudes. The model applies to these outbreaks and, in fact, is independent of their intensity, that is, it does not require the steady-state assumption. The model takes as input the officially reported age-dependent number of cases of a vector-borne infection. It is deterministic and does not account for stochasticity. Our objective is to estimate the impact of the intervention (the efficacy), and we rely on the observed fact that the age distribution of the proportion of cases of the infections transmitted by the same vector is independent of both the intensity of transmission and the geographic area st",
+      "id": "https://arxiv.org/abs/2607.16659",
+      "url": "https://arxiv.org/abs/2607.16659",
+      "title": "The Positive Experience Principle: Forecasting Conscious Choices with AI Embeddings",
+      "content_text": "A fundamental challenge in the science of consciousness is the lack of a universal, predictive framework for motivated behavior. While existing theories excel at describing specific mechanisms, from neural pathways to computational models, they do not provide a foundational principle that explains the consistent direction of conscious systems toward certain states and away from others. To address this gap, we propose the Positive Experience Principle (PEP), a unifying principle stating that conscious systems have an inherent tendency to move toward states of higher positive subjective experience. This tendency is quantified by a Positive Experience Value (PEV), a scalar metric derived from the physical configurations defined by our earlier Universal Consciousness Code (UCC) theory. The PEP",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -793,10 +793,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.15463",
-      "url": "https://arxiv.org/abs/2607.15463",
-      "title": "BODIESReg: An Open-Source Pipeline for Registering 3D Body Scans Using Pose-Aligned Initialization",
-      "content_text": "Biomechanical models are used to quantify and optimize human movement in clinical rehabilitation, sports science, and occupational health. Personalizing these models requires accurate identification of anatomical landmarks and body segment parameters, which can be derived from 3D body surface scans. Registering these surfaces to a canonical template is essential for automated landmark detection and model scaling. However, fitting parametric body models to real-world 3D point clouds remains challenging: non-linear optimization can converge to suboptimal solutions when target poses deviate substantially from the default pose of a template. We present BODIESReg, an open-source registration pipeline that addresses this initialization problem by constructing a pose-aligned mesh before distance ",
+      "id": "https://arxiv.org/abs/2607.16809",
+      "url": "https://arxiv.org/abs/2607.16809",
+      "title": "Evolutionary dynamics in public goods games with general frequency-dependent returns",
+      "content_text": "The public goods game serves as a significant paradigm for investigating the emergence and maintenance of cooperation in conflicting situations. In the traditional public goods game, the multiplication factor characterizing the synergy effect of common efforts is typically assumed to be constant. In real-world scenarios, however, investment returns are often dynamic and vary with the strategic composition of the interaction group. To date, the evolutionary dynamics of the public goods game with such frequency-dependent returns have remained not fully understood. In this work, we introduce a general frequency-dependent multiplication factor that depends on the strategy composition within the game group. Through theoretical analysis, we derive the mathematical conditions under which cooperat",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -808,10 +808,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.15625",
-      "url": "https://arxiv.org/abs/2607.15625",
-      "title": "Classes of phylogenetic networks that are robust to root placement",
-      "content_text": "Standard phylogenetic reconstruction techniques often yield unrooted phylogenetic networks; these are subsequently rooted to infer evolutionary history. A common problem in this process is to determine the structural classes to which the resulting network will belong. In this paper, we investigate unrooted networks in which the choice of any root results in a valid rooted phylogenetic network, a property we define as {\\em robustly orientable}. We then establish a strict structural condition for this class, specifically, that an unrooted network is robustly orientable if and only if it contains no sink components. We also show that if an unrooted network is level-$2$ or less, or if it is tree-based, then it is robustly orientable. Furthermore, we define an unrooted network to be {\\em robust",
+      "id": "https://arxiv.org/abs/2607.17000",
+      "url": "https://arxiv.org/abs/2607.17000",
+      "title": "Laboratory Trajectories Improve Kidney Failure Risk Estimation",
+      "content_text": "Accurate kidney failure risk assessment is critical to timely intervention in chronic kidney disease (CKD). Existing equations (e.g. Kidney Failure Risk Equation; KFRE) rely on single laboratory measurements to estimate short- and long-term kidney failure risk, leaving longitudinal laboratory patterns unused. Here we introduce Clalit Longitudinal Assessment of Risk of Kidney Failure (CLARK), an interpretable longitudinal extension of latest-value methods which incorporates routinely collected repeat laboratory measures. We develop CLARK using data from 5.4 million individuals, identifying 270,009 patients with CKD to create one of the largest longitudinal CKD cohorts to date, with 12,087 kidney replacement therapy initiation events and a median follow-up of 10.4 years. Across laboratory co",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -823,10 +823,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.15631",
-      "url": "https://arxiv.org/abs/2607.15631",
-      "title": "STSBench: A Large-Scale Dataset for Modeling Neuronal Activity in the Dorsal Stream of Primate Visual Cortex",
-      "content_text": "The primate visual system is typically divided into two streams - the ventral stream, responsible for object recognition, and the dorsal stream, responsible for encoding spatial relations and motion. Recent studies have shown that convolutional neural networks (CNNs) pretrained on object recognition tasks are remarkably effective at predicting neuronal responses in the ventral stream, shedding light on the neural mechanisms underlying object recognition. However, similar models of the dorsal stream remain underdeveloped due to the lack of large scale datasets encompassing dorsal stream areas. To address this gap, we present STSBench, a dataset of large-scale, single neuron recordings from over 2,000 neurons in the superior temporal sulcus (STS), a nearly 50-fold increase over existing dors",
+      "id": "https://arxiv.org/abs/2607.17004",
+      "url": "https://arxiv.org/abs/2607.17004",
+      "title": "Post-transcriptional Regulation of Stochastic Gene Expression Conditioned on Large Deviations",
+      "content_text": "Gene expression is a stochastic process that gives rise to large fluctuations in protein levels leading to phenotypic heterogeneity in clonal cell populations; post-transcriptional regulation plays a crucial role in controlling the level of phenotypic variability within a population, which is directly tied to cell-fate decisions. As such, substantial efforts have been directed towards quantitatively modeling the effects of various post-transcriptional mechanisms on the strength of fluctuations in protein levels (noise). However, the corresponding effects of post-transcriptional regulation on the occurrence of rare events corresponding to large deviations are far less explored and have only been considered for a special model. Here, we take a general model of post-transcriptional regulation",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -838,10 +838,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.15693",
-      "url": "https://arxiv.org/abs/2607.15693",
-      "title": "Toward a mechanistic understanding of inference in visual cortex and diffusion models",
-      "content_text": "We describe a model of perceptual inference in primary visual cortex (V1) equivalent to a minimal diffusion model whose function can be readily understood from its parameters. The model is based on sparse coding with a non-factorial prior over latent variables in the form of an unconstrained, pairwise interaction matrix, extending standard sparse coding inference to a general recurrent dynamical system. We efficiently train these recurrent dynamics using a denoising score-matching objective and implicit differentiation. After training on natural images, the learned interaction matrix mirrors the structure of horizontal connections in superficial layers of V1 that link neurons of similar orientation tuning. This model exhibits exceptionally good denoising performance, restoring image featur",
+      "id": "https://arxiv.org/abs/2607.17096",
+      "url": "https://arxiv.org/abs/2607.17096",
+      "title": "Network Characteristics of Individual Pigments in Cyanobacterial Photosystem II Core Complexes",
+      "content_text": "Part of the excitation energy transfer (EET) characteristics of the photosystem II (PSII) comes from the interconnection between pigments. To understand the correlation between the EET and the pigments' interaction structure, we construct a network from the EET rates, which are related to both the distance between the pigments (chlorophylls and pheophytins) and their spatial orientations. Especially, we investigate how well the PS II core complex's EET functionality can be explained by using only the network topology in Thermosynechococcus vulcanus 1.9 Å. Starting from the Förster theory, we construct a network of EET pathways. For an analysis of the network structure, we calculate common network-structural measures like betweenness centrality, eigenvector centrality and weighted clusterin",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -853,10 +853,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.15836",
-      "url": "https://arxiv.org/abs/2607.15836",
-      "title": "Evolutionary path dependence of semantic complexity",
-      "content_text": "Attempts to quantify biological complexity often consider intrinsic structural properties at a chosen hierarchical level and resolution, such as counts of body parts and their degree of differentiation. These measures are inherently \\emph{syntactic}, being concerned with the information needed to specify an arrangement rather than the biological functions performed. Syntactic complexity alone is therefore not sophisticated enough of a measure to fully address the role of complexity as either a driver or consequence of evolution. We propose to study the counterpart, \\emph{semantic} complexity: the subset of structural features whose variation has a measurable effect on organismal fitness. We illustrate this distinction in a simple mathematical model of tagmosis with functional constraints, ",
+      "id": "https://arxiv.org/abs/2607.17227",
+      "url": "https://arxiv.org/abs/2607.17227",
+      "title": "Harmonised benchmarking of foundation models for single-cell and spatial transcriptomics reveals context-dependent generalisation",
+      "content_text": "Single-cell and spatial foundation models promise transferable biological representations, yet their generality remains largely untested across modalities, biological domains and analytical tasks. We benchmarked six representative models, Nicheformer, CellPLM, scGPT-spatial, GenePT, scELMo and Novae, using a harmonised framework spanning scRNA-seq, spatial transcriptomics and Perturb-seq. We evaluated zero-shot and continually pretrained clustering, supervised annotation, marker-gene concordance and perturbation prediction. Model performance was strongly conditional: expression-trained cell-level transformers best resolved many cell-identity tasks, spatial and graph-aware models better preserved tissue architecture, and language-derived gene embeddings were competitive for selected perturb",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -868,10 +868,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.15975",
-      "url": "https://arxiv.org/abs/2607.15975",
-      "title": "A phenomenological multiscale framework for orientational interactions and viscoelasticity in migrating epithelial monolayers",
-      "content_text": "Collective migration of epithelial monolayers emerges from the interplay between mechanical interactions and biochemical signalling. Here, we present a phenomenological mechanobiological framework linking cell-scale orientational interactions to tissue-scale mechanics. We distinguish reversible and irreversible head-on and glancing collisions, showing that reversible interactions store orientational mechanical energy while preserving collision geometry, whereas irreversible interactions dissipate energy and alter cell orientation. The balance between energy storage and dissipation governs collective migration, mechanical feedback, and density-dependent processes including cell jamming and live cell extrusion. These interactions regulate cell elasticity, contractility, and adhesion, thereby",
+      "id": "https://arxiv.org/abs/2607.17405",
+      "url": "https://arxiv.org/abs/2607.17405",
+      "title": "Evaluating Conformal Reliability of Pathway-Level Transcriptomic Signatures Under Cross-Cohort Shift in Sepsis Mortality Prediction",
+      "content_text": "Blood transcriptomic profiling enables prognostic modeling by capturing the host immune response at the molecular level. Yet, the within-cohort evaluation strategies employed by many transcriptomic models inadequately reflect deployment across independent hospitals. Outside deployment scenarios introduce a cohort shift that can substantially degrade predictive performance and reliability of uncertainty estimates. We present a framework for evaluating transcriptomic sepsis mortality prediction under realistic cross-cohort deployment, systematically comparing gene-level, pathway-level and hybrid molecular representations. Four publicly available whole-blood transcriptomic cohorts consisting of 936 patients and 248 mortality events were harmonized into a shared 7,660-gene feature space and ev",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",

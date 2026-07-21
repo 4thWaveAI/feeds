@@ -174,6 +174,21 @@
       ]
     },
     {
+      "id": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/marine-heatwave-intensified-impacts-of-storm-babet-by-9-20-new-study-finds",
+      "url": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/marine-heatwave-intensified-impacts-of-storm-babet-by-9-20-new-study-finds",
+      "title": "Marine heatwave intensified impacts of Storm Babet by 9-20%, new study finds",
+      "content_text": "Author: Met Office",
+      "attachments": [
+        {
+          "url": "https://www.metoffice.gov.uk/api/images/file/close-up-of-ocean-waves-1024x512.jpg?prefix=images&prefix=images",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "climate-environment"
+      ]
+    },
+    {
       "id": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/climate-extremes-are-becoming-the-new-normal-for-the-uk",
       "url": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/climate-extremes-are-becoming-the-new-normal-for-the-uk",
       "title": "Climate extremes are becoming the new ‘normal’ for the UK",
@@ -301,21 +316,6 @@
       "attachments": [
         {
           "url": "https://www.metoffice.gov.uk/api/images/file/sunshine-and-clouds-heatwave-weather-1024x512.jpg?prefix=images",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "climate-environment"
-      ]
-    },
-    {
-      "id": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/a-largely-settled-period-before-another-potential-heatwave-early-next-week",
-      "url": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/a-largely-settled-period-before-another-potential-heatwave-early-next-week",
-      "title": "A largely settled period before another potential heatwave early next week",
-      "content_text": "Author: Met Office",
-      "attachments": [
-        {
-          "url": "https://www.metoffice.gov.uk/api/images/file/summerjpg-1024x577.jpg?prefix=images&prefix=images&prefix=images",
           "mime_type": "image/jpeg"
         }
       ],
@@ -467,6 +467,21 @@
         {
           "url": "https://www.ecmwf.int/sites/default/files/2026-06/ecmwf-annual-report-2025-cover-690px.png",
           "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "climate-environment"
+      ]
+    },
+    {
+      "id": "https://www.unep.org/news-and-stories/story/big-ideas-how-make-global-energy-system-more-sustainable",
+      "url": "https://www.unep.org/news-and-stories/story/big-ideas-how-make-global-energy-system-more-sustainable",
+      "title": "Big ideas: How to make the global energy system more sustainable",
+      "content_text": "Climate change scientist Debora Ley discusses how the world can break its addiction to fossil fuels and give more people access to clean, reliable electricity.",
+      "attachments": [
+        {
+          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2026-07/20230703_Noor%20Solare%20Inger%20Andersen%20Visit_Morocco_UNEP_Duncan%20Moore_1760.jpg?h=5d6b4972&itok=h6mAM4q0",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
