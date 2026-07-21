@@ -7,8 +7,7 @@ on:
   schedule:
     - cron: "17 */6 * * *"
 
-  # Rebuild when the source registry, builder,
-  # or this workflow changes.
+  # Rebuild when the registry, builder, validators, or workflow changes.
   push:
     branches:
       - main
@@ -17,21 +16,17 @@ on:
       - "scripts/**"
       - ".github/workflows/update-area-feeds.yml"
 
-# Allow only one complete feed build at a time.
-# New runs wait instead of cancelling an active build.
+# Every workflow that commits generated feed files shares one lock.
 concurrency:
-  group: update-area-feeds-main
+  group: feed-writers-main
   cancel-in-progress: false
 
-# Permit the workflow to save generated feeds.
 permissions:
   contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
-    # Allow enough time for hundreds of feed sources.
     timeout-minutes: 330
 
     steps:
@@ -45,7 +40,6 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
@@ -61,99 +55,32 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-
           python -m pip install --upgrade pip
           pip install -r scripts/requirements.txt
 
-      - name: Validate feed configuration
+      - name: Validate feed registry
         shell: bash
         run: |
           set -euo pipefail
+          python scripts/validate_feeds_config.py
 
-          python - <<'PY'
-          from pathlib import Path
-          import yaml
-
-          config_path = Path("feeds.yaml")
-          config = yaml.safe_load(
-              config_path.read_text(encoding="utf-8")
-          )
-
-          if not isinstance(config, dict):
-              raise SystemExit(
-                  "feeds.yaml must contain a YAML mapping."
-              )
-
-          areas = config.get("areas")
-
-          if not isinstance(areas, dict) or not areas:
-              raise SystemExit(
-                  "feeds.yaml must contain a non-empty "
-                  "'areas' mapping."
-              )
-
-          source_count = 0
-
-          for area_name, sources in areas.items():
-              if not isinstance(sources, list):
-                  raise SystemExit(
-                      f"Area {area_name!r} must contain "
-                      "a list of sources."
-                  )
-
-              for source_number, source in enumerate(
-                  sources,
-                  start=1
-              ):
-                  if not isinstance(source, dict):
-                      raise SystemExit(
-                          f"Area {area_name!r}, "
-                          f"source {source_number} must "
-                          "be a YAML mapping."
-                      )
-
-                  missing = [
-                      field
-                      for field in ("index", "base")
-                      if not source.get(field)
-                  ]
-
-                  if missing:
-                      raise SystemExit(
-                          f"Area {area_name!r}, "
-                          f"source {source_number} is missing: "
-                          f"{', '.join(missing)}"
-                      )
-
-              source_count += len(sources)
-
-          print(
-              "Configuration valid: "
-              f"{len(areas)} areas and "
-              f"{source_count} sources."
-          )
-          PY
-
-      - name: Build area feeds
+      - name: Build all area feeds
         shell: bash
         run: |
           set -euo pipefail
-
           python scripts/update_feeds.py
 
-      - name: Ensure feeds directory exists
+      - name: Validate generated outputs
         shell: bash
         run: |
           set -euo pipefail
-
-          mkdir -p feeds
+          python scripts/validate_generated_feeds.py
 
       - name: Gzip generated feeds
         shell: bash
         run: |
           set -euo pipefail
           shopt -s nullglob
-
           for file in feeds/*.xml feeds/*.json; do
             gzip -kf "$file"
           done
@@ -162,7 +89,6 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-
           git add -A
 
           if git diff --cached --quiet; then
@@ -170,39 +96,26 @@ jobs:
             exit 0
           fi
 
-          git commit \
-            -m "chore: update feeds & index [skip ci]"
-
+          git commit -m "chore: update feeds & index [skip ci]"
           branch="${GITHUB_REF_NAME:-main}"
 
           for attempt in 1 2 3; do
-            echo \
-              "Synchronize and push attempt " \
-              "${attempt} of 3"
-
+            echo "Synchronize and push attempt ${attempt} of 3"
             git fetch origin "$branch"
 
             if ! git rebase "origin/$branch"; then
-              echo "Rebase conflict detected."
-              echo \
-                "Stopping instead of reporting " \
-                "a false success."
-
+              echo "Rebase conflict detected; stopping instead of reporting false success."
               git rebase --abort || true
               exit 1
             fi
 
             if git push origin "HEAD:$branch"; then
-              echo \
-                "Generated feeds pushed successfully."
+              echo "Generated feeds pushed successfully."
               exit 0
             fi
 
             if [ "$attempt" -lt 3 ]; then
-              echo \
-                "Remote changed before push; " \
-                "waiting before retry."
-
+              echo "Remote changed before push; waiting before retry."
               sleep 10
             fi
           done
@@ -213,5 +126,4 @@ jobs:
       - name: Lightweight repository cleanup
         if: always()
         shell: bash
-        run: |
-          git gc --prune=now || true
+        run: git gc --prune=now || true
