@@ -4,7 +4,28 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.atom.xml"/>
   <id>urn:4thwaveai-feeds:tech-leaders</id>
-  <updated>Tue, 21 Jul 2026 14:53:19 +0000</updated>
+  <updated>Tue, 21 Jul 2026 20:30:56 +0000</updated>
+  <entry>
+    <title>Introducing Gemini 3.5 Flash Cyber</title>
+    <link href="https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/"/>
+    <id>https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/</id>
+    <summary type="text">Google introduces Gemini 3.5 Flash Cyber to help defenders find, validate, and patch software vulnerabilities quickly and efficiently.</summary>
+    <updated>Tue, 21 Jul 2026 16:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide</title>
+    <link href="https://blogs.nvidia.com/blog/vera-rubin/"/>
+    <id>https://blogs.nvidia.com/blog/vera-rubin/</id>
+    <summary type="text">Backed by 300 global partners, Vera Rubin is ramping up worldwide. NVIDIA partners CoreWeave, Google Cloud, Microsoft Azure and Mistral are among many deploying Vera Rubin, which delivers benchmark leadership on performance per watt and lowest token costs.</summary>
+    <updated>Tue, 21 Jul 2026 15:36:43 +0000</updated>
+  </entry>
+  <entry>
+    <title>Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories</title>
+    <link href="https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/"/>
+    <id>https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/</id>
+    <summary type="text">Next-generation NVIDIA Spectrum-X Ethernet connects hundreds of thousands of GPUs with the performance, resilience and efficiency needed for gigascale AI, with AI infrastructure leaders already adopting.</summary>
+    <updated>Tue, 21 Jul 2026 15:00:20 +0000</updated>
+  </entry>
   <entry>
     <title>At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI</title>
     <link href="https://blogs.nvidia.com/blog/siggraph-news-2026/"/>
@@ -27,25 +48,11 @@
     <updated>Mon, 20 Jul 2026 10:59:23 +0000</updated>
   </entry>
   <entry>
-    <title>NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI</title>
-    <link href="https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/"/>
-    <id>https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/</id>
-    <summary type="text">Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.</summary>
-    <updated>Fri, 17 Jul 2026 15:00:14 +0000</updated>
-  </entry>
-  <entry>
     <title>Google DeepMind and Isomorphic Labs approach to bioresilience</title>
     <link href="https://deepmind.google/blog/our-approach-to-bioresilience/"/>
     <id>https://deepmind.google/blog/our-approach-to-bioresilience/</id>
     <summary type="text">Google DeepMind and Isomorphic Labs approach to bioresilience, using AI models to support prevention, detection and response.</summary>
     <updated>Thu, 16 Jul 2026 11:00:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI</title>
-    <link href="https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/"/>
-    <id>https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/</id>
-    <summary type="text">New NVIDIA Blackwell-powered T3000 and T2000 modules, paired with new NVIDIA Jetson software memory optimization and agent skills, help partners and customers move advanced robotics, visual AI and edge workloads onto compact, power-efficient systems.</summary>
-    <updated>Wed, 15 Jul 2026 23:00:54 +0000</updated>
   </entry>
   <entry>
     <title>AI in Indian Education: Atal Innovation Mission and Google launch ATL Saathi</title>
@@ -88,13 +95,6 @@
     <id>https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/</id>
     <summary type="text">Google DeepMind and partners are announcing a new technical research funding call of up to $10M for researchers worldwide to strengthen multi-agent safety.</summary>
     <updated>Thu, 11 Jun 2026 12:00:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>Gemini’s guided learning: results from a randomized controlled trial in Sierra Leone</title>
-    <link href="https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/"/>
-    <id>https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/</id>
-    <summary type="text">Google DeepMind shares results from a randomized controlled trial in Sierra Leone, measuring the impact of AI in education on student learning and engagement.</summary>
-    <updated>Tue, 09 Jun 2026 13:00:00 +0000</updated>
   </entry>
   <entry>
     <title>Prime for Young Adults introduces 5% cash back on dorm and apartment essentials, just in time for move-in</title>
@@ -178,34 +178,28 @@
     <summary type="text">NVIDIA today announced that Japan’s physical AI leaders are building on the NVIDIA Cosmos™, NVIDIA Isaac™, NVIDIA Metropolis and NVIDIA Jetson™ platforms to accelerate the deployment of intelligent machines across manufacturing, mobility, infrastructure and robotics.</summary>
   </entry>
   <entry>
-    <title>Japan’s Enterprises and Startups Build Industry-Specialized AI With NVIDIA Nemotron Open Models</title>
-    <link href="https://nvidianews.nvidia.com/news/japans-enterprises-and-startups-build-industry-specialized-ai-with-nvidia-nemotron-open-models"/>
-    <id>https://nvidianews.nvidia.com/news/japans-enterprises-and-startups-build-industry-specialized-ai-with-nvidia-nemotron-open-models</id>
-    <summary type="text">NVIDIA today announced that leading Japanese enterprises, startups and research institutions are building industry-specialized AI models and applications with NVIDIA Nemotron™ open models, data and libraries, accelerating the development of AI tailored to Japan’s language, industries and workforce.</summary>
-  </entry>
-  <entry>
     <title>AI Archives</title>
     <link href="https://blogs.nvidia.com/blog/category/generative-ai/"/>
     <id>https://blogs.nvidia.com/blog/category/generative-ai/</id>
     <summary type="text">From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics....</summary>
   </entry>
   <entry>
+    <title>AI Infrastructure Archives</title>
+    <link href="https://blogs.nvidia.com/blog/category/enterprise/"/>
+    <id>https://blogs.nvidia.com/blog/category/enterprise/</id>
+    <summary type="text">Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building...</summary>
+  </entry>
+  <entry>
+    <title>Networking Archives</title>
+    <link href="https://blogs.nvidia.com/blog/category/enterprise/intelligent-networking/"/>
+    <id>https://blogs.nvidia.com/blog/category/enterprise/intelligent-networking/</id>
+    <summary type="text">AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier...</summary>
+  </entry>
+  <entry>
     <title>Supercomputing Archives</title>
     <link href="https://blogs.nvidia.com/blog/category/enterprise/supercomputing/"/>
     <id>https://blogs.nvidia.com/blog/category/enterprise/supercomputing/</id>
     <summary type="text">Erin Davis calls it the “SuperDuperPOD.” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI...</summary>
-  </entry>
-  <entry>
-    <title>Robotics Archives</title>
-    <link href="https://blogs.nvidia.com/blog/category/robotics/"/>
-    <id>https://blogs.nvidia.com/blog/category/robotics/</id>
-    <summary type="text">General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation...</summary>
-  </entry>
-  <entry>
-    <title>Gaming Archives</title>
-    <link href="https://blogs.nvidia.com/blog/category/gaming/"/>
-    <id>https://blogs.nvidia.com/blog/category/gaming/</id>
-    <summary type="text">Onimusha: Way of the Sword is coming to GeForce NOW at launch, with the playable demo available this week. It’s joined by Denshattack! rolling in...</summary>
   </entry>
   <entry>
     <title>&lt;![CDATA[OpenAI News]]&gt;</title>
@@ -259,7 +253,7 @@
     <title>OpenAI Newsroom | AI Adoption</title>
     <link href="https://openai.com/news/ai-adoption/"/>
     <id>https://openai.com/news/ai-adoption/</id>
-    <summary type="text">AI Adoption Jul 14, 2026</summary>
+    <summary type="text">AI Adoption Jul 21, 2026</summary>
   </entry>
   <entry>
     <title>OpenAI Newsroom | Applied AI</title>
@@ -386,5 +380,11 @@
     <link href="https://about.fb.com/news/tag/well-being/"/>
     <id>https://about.fb.com/news/tag/well-being/</id>
     <summary type="text">Stay informed with the latest youth well-being news and resources from Meta. Including topics on mental health, digital wellness, and teen safety.</summary>
+  </entry>
+  <entry>
+    <title>Data and Privacy News | Meta Newsroom</title>
+    <link href="https://about.fb.com/news/category/data-and-privacy/"/>
+    <id>https://about.fb.com/news/category/data-and-privacy/</id>
+    <summary type="text">Data and Privacy News | Meta Newsroom</summary>
   </entry>
 </feed>

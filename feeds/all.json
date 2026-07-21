@@ -5,14 +5,59 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
-      "id": "https://www.nasa.gov/centers-and-facilities/grants-2/",
-      "url": "https://www.nasa.gov/centers-and-facilities/grants-2/",
-      "title": "Grants - NASA",
-      "content_text": "To submit a request, visit NASA General Information Request Form and complete the form. You will receive an automated email with the most commonly requested",
+      "id": "https://science.nasa.gov/researchers/solicitations/roses-2025/roses-25-c-2-solar-system-science-corrections/",
+      "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/roses-25-c-2-solar-system-science-corrections/",
+      "title": "ROSES-25 C.2 Solar System Science Corrections - NASA Science",
+      "content_text": "C.2 Solar System Science solicits proposals for research, data analysis, data preservation, and tools that support investigations to help ascertain the",
       "attachments": [
         {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/nasa-meatball-11-black-background.jpg",
+          "url": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/nebulae/supernova-remnant/N132D.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
           "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-65-new-opportunity-c-4-planetary-science-enabling-facilities/",
+      "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-65-new-opportunity-c-4-planetary-science-enabling-facilities/",
+      "title": "Amendment 65: New Opportunity: C.4 Planetary Science Enabling Facilities - NASA Science",
+      "content_text": "C.4 The Planetary Science Enabling Facilities (PSEF) program element solicits proposals for experimental and analytical research facilities to be made",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/nebulae/planetary/Stingray%20Nebula.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://esportsinsider.com/2026/07/esports-ai-controversy",
+      "url": "https://esportsinsider.com/2026/07/esports-ai-controversy",
+      "title": "I am not convinced that hunting for AI is going to solve esports biggest issues",
+      "content_text": "With Mobile Legends: Bang Bang recently accused of having AI in its menu, I got to thinking: Who cares really? Is it impacting esports?",
+      "attachments": [
+        {
+          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/fatal-fury-AI.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/missions/nisar/us-india-satellite-delivers-data-reveals-hummingbird-in-antarctica/",
+      "url": "https://www.nasa.gov/missions/nisar/us-india-satellite-delivers-data-reveals-hummingbird-in-antarctica/",
+      "title": "US-India Satellite Delivers Data, Reveals ‘Hummingbird’ in Antarctica - NASA",
+      "content_text": "As of July 20, the public can access data from the two powerful radar instruments aboard the NISAR (NASA-ISRO Synthetic Aperture Radar) satellite. Teams in",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/1-pia26617-nisar-nunatak-main.png",
+          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -20,18 +65,322 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/general/establishing-crew-exposure-limits-of-martian-dust/",
-      "url": "https://www.nasa.gov/general/establishing-crew-exposure-limits-of-martian-dust/",
-      "title": "Establishing Crew Exposure Limits of Martian Dust - NASA",
-      "content_text": "Human exploration of Mars will expose crews to a persistent, fine particulate environment whose physicochemical properties and health implications remain only",
+      "id": "https://www.nasa.gov/general/nasa-langley-celebrates-community-through-music-with-symphony-under-the-stars-event/",
+      "url": "https://www.nasa.gov/general/nasa-langley-celebrates-community-through-music-with-symphony-under-the-stars-event/",
+      "title": "NASA Langley Celebrates Community through Music with ‘Symphony Under the Stars’ Event  - NASA",
+      "content_text": "NASA Langley’s “Stars, Stripes, and Supernovas – Symphony Under the Stars” event brought employees, families, and community members together for an",
       "attachments": [
         {
-          "url": "https://www.nasa.gov/wp-content/uploads/2023/06/3d-printed-habitat-challenge-3.jpg",
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/lrc-2026-ocio-p-02171.jpg",
           "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/concertforsocial.mp4",
+          "mime_type": "video/mp4"
         }
       ],
       "tags": [
         "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.pewresearch.org/short-reads/2026/07/21/what-do-people-in-middle-income-countries-think-about-cuts-to-us-humanitarian-aid/",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/21/what-do-people-in-middle-income-countries-think-about-cuts-to-us-humanitarian-aid/",
+      "title": "What do people in middle-income countries think about cuts to U.S. humanitarian aid?",
+      "content_text": "In 16 middle-income countries surveyed, many people are unsure how U.S. humanitarian aid cuts will affect them, though those with opinions lean negative.",
+      "attachments": [
+        {
+          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/SR_26.07.21_foriegn-aid-survey_featured.png?w=1200&h=628&crop=1",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.pewresearch.org/short-reads/2026/07/21/us-foreign-aid-is-plunging-in-second-trump-administration/",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/21/us-foreign-aid-is-plunging-in-second-trump-administration/",
+      "title": "U.S. foreign aid is plunging in second Trump administration",
+      "content_text": "U.S. foreign aid fell to its lowest inflation-adjusted level in over two decades in fiscal 2025, dropping to $47.3 billion — more than $24 billion less than the prior year.",
+      "attachments": [
+        {
+          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/SR_26.07.21_foreign-aid_featured.jpg?w=1200&h=628&crop=1",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/overwatch/overwatch-reveals-shions-original-face-and-hashimoto-elders-in-new-story/",
+      "url": "https://esports.gg/news/overwatch/overwatch-reveals-shions-original-face-and-hashimoto-elders-in-new-story/",
+      "title": "Overwatch reveals Shion's original face and Hashimoto elders in new story",
+      "content_text": "Overwatch's new Shion short story titled \"Ambush\" revealed Shion's original omnic form plus the names and personalities of the Hashimoto elders.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/07/Overwatch-Shion-Ambush-Story-Comic-Article-By-Esportsgg-Images-Via-Blizzard-Entertainment-July-21-2026-3.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/ai-agent-benchmark",
+      "url": "https://spectrum.ieee.org/ai-agent-benchmark",
+      "title": "Why AI Needs a \"Genie Coefficient\"",
+      "content_text": "Proposing a new metric for whether AI does what you actually want",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/cartoon-digital-genie-emerging-from-a-smartphone-towering-over-a-surprised-user.png?id=67508222&width=1200&height=600&coordinates=0%2C166%2C0%2C167",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/happening-today-sservi-forum/",
+      "url": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/happening-today-sservi-forum/",
+      "title": "HAPPENING TODAY! SSERVI Forum - NASA Science",
+      "content_text": "The NASA Solar System Exploration Research Virtual Institute (SSERVI) is pleased to announce the 2026 Exploration Science Forum. NASA Ames Research Center, Moffett Field, CA & Virtual. 21 July 2026",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/astro/programs/cosmic-origins/news/2026/images/SSERVI-Forum-21-July-2026.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+      "title": "Introducing Gemini 3.5 Flash Cyber",
+      "content_text": "Google introduces Gemini 3.5 Flash Cyber to help defenders find, validate, and patch software vulnerabilities quickly and efficiently.",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/esSD0-kSrZ8K07XxNkSKL3OGlcx1Cf3M-qiQut0q_vArHMiK2L1CpUIGVkjuQrhu_m0g8UMVflVQpDp7VFAJSubDdCjSXsPJPDeK-PUtaPbqA8W1=w1200-h630-n-nu-rw",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/vera-rubin/",
+      "url": "https://blogs.nvidia.com/blog/vera-rubin/",
+      "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
+      "content_text": "Backed by 300 global partners, Vera Rubin is ramping up worldwide. NVIDIA partners CoreWeave, Google Cloud, Microsoft Azure and Mistral are among many deploying Vera Rubin, which delivers benchmark leadership on performance per watt and lowest token costs.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/vera-tech-blog-vera-rubin-nvl72-1920x1080-1-1680x945.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/niac-2026-selections/",
+      "url": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/niac-2026-selections/",
+      "title": "NIAC 2026 Selections",
+      "content_text": "Saptarshi BandyopadhyayDimming the Sun (DimSun) Using Controllable Dust Cloud to Reduce Solar InsolationNASA Jet Propulsion LaboratoryPasadena, CA",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/05/2026-web-graphic-banner-ph-i-final.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection/",
+      "url": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection/",
+      "title": "Precision Astrometry",
+      "content_text": "The scientific goal is to enable a new method for observing gravitational waves at low frequencies, based on the astrometric GW signature -- gravitational",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-stankus-2.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/directorates/stmd/mapping-alien-continents-achieving-optical-vlbi-for-exoplanet-imaging/",
+      "url": "https://www.nasa.gov/directorates/stmd/mapping-alien-continents-achieving-optical-vlbi-for-exoplanet-imaging/",
+      "title": "Mapping Alien Continents",
+      "content_text": "Paul StankusBrookhaven Science Associates",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-stankus-1.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/interworld-slingshot-resource-surveys/",
+      "url": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/interworld-slingshot-resource-surveys/",
+      "title": "Interworld Slingshot Resource",
+      "content_text": "Pablo Sobron SanchezSETI Institute",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-sobron.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/directorates/stmd/niac/robotically-assembled-electromagnetic-metamaterials-for-long-range-space-situational-awareness/",
+      "url": "https://www.nasa.gov/directorates/stmd/niac/robotically-assembled-electromagnetic-metamaterials-for-long-range-space-situational-awareness/",
+      "title": "Robotically Assembled Electromagnetic Metamaterials",
+      "content_text": "David SmithDuke University",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-smith.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/directorates/stmd/photophoretic-tracers-for-near-space-remote-sensing-at-30-100-km-altitudes/",
+      "url": "https://www.nasa.gov/directorates/stmd/photophoretic-tracers-for-near-space-remote-sensing-at-30-100-km-altitudes/",
+      "title": "Photophoretic tracers",
+      "content_text": "This concept addresses a major gap in current sensing capabilities. The mesosphere and upper stratosphere play a key role in atmospheric dynamics,",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-schafer.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/directorates/stmd/niac/actively-steerable-femtosat-constellations-for-in-situ-exploration-of-saturns-rings-atmosphere-and-magnetosphere/",
+      "url": "https://www.nasa.gov/directorates/stmd/niac/actively-steerable-femtosat-constellations-for-in-situ-exploration-of-saturns-rings-atmosphere-and-magnetosphere/",
+      "title": "Actively Steerable Femtosat Constellations",
+      "content_text": "Michael RubensteinNorthwestern University, Chicago",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-rubenstein.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/directorates/stmd/niac/praxis-planetary-rings-autonomous-exploration-with-in-situ-sampling/",
+      "url": "https://www.nasa.gov/directorates/stmd/niac/praxis-planetary-rings-autonomous-exploration-with-in-situ-sampling/",
+      "title": "PRAXIS",
+      "content_text": "Humanity has never touched the particles of a planetary ring, but if we were able to get close enough and sample them, it will transform understanding of ring",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-quadrelli.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/coilable-stacked-solar-sails-for-very-high-delta-v-missions/",
+      "url": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/coilable-stacked-solar-sails-for-very-high-delta-v-missions/",
+      "title": "solar sails",
+      "content_text": "The goal of the proposed program is to enable the next generation of solar sails featuring very high characteristic acceleration--potentially up to 2",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-davoyan.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
+      "url": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
+      "title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
+      "content_text": "Next-generation NVIDIA Spectrum-X Ethernet connects hundreds of thousands of GPUs with the performance, resilience and efficiency needed for gigascale AI, with AI infrastructure leaders already adopting.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/ethernet-spectrum-x-corp-blog-1920x1080-5205700.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
+      "url": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
+      "title": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI | NVIDIA Technical Blog",
+      "content_text": "What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale. These factories are now tasked with…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-rubin-gpu.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/",
+      "url": "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/",
+      "title": "NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI | NVIDIA Technical Blog",
+      "content_text": "Agentic AI shifts more of the critical execution path onto the CPU. Agents operate in sandboxes to execute code, invoke tools, retrieve context, interact with databases, and analyze results before…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/Vera-CPU-e1783372749296.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/",
+      "url": "https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/",
+      "title": "Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72 | NVIDIA Technical Blog",
+      "content_text": "Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token falls…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/World-Record.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "ai"
       ]
     },
     {
@@ -62,6 +411,21 @@
       ],
       "tags": [
         "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://www.ftc.gov/news-events/news/press-releases/2026/07/student-loan-forgiveness-scammer-permanently-banned-debt-relief-industry-telemarketing",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/student-loan-forgiveness-scammer-permanently-banned-debt-relief-industry-telemarketing",
+      "title": "Student Loan Forgiveness Scammer Permanently Banned from Debt Relief Industry and Telemarketing",
+      "content_text": "Dennise Merdjanian, an operator of a student loan debt forgiveness scheme, will be permanently banned from the debt relief industry and telemarketing und",
+      "attachments": [
+        {
+          "url": "https://www.ftc.gov/themes/custom/ftc_uswds/img/ftc_social_share_default_en.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai-policy-ethics-standards"
       ]
     },
     {
@@ -98,7 +462,7 @@
       "id": "https://esports.gg/news/league-of-legends/blg-bin-break-health-concerns/",
       "url": "https://esports.gg/news/league-of-legends/blg-bin-break-health-concerns/",
       "title": "BLG Bin to take a temporary break amid health concerns",
-      "content_text": "Due to health concerns, BLG top laner Bin will be taking a break from competitive League of Legends ahead of the LPL Split 3.",
+      "content_text": "Due to health concerns, BLG top laner Bin will be taking a break from competitive League of Legends ahead of LPL Split 3.",
       "attachments": [
         {
           "url": "https://media.esports.gg/uploads/2026/07/blg-bin.avif",
@@ -122,21 +486,6 @@
       ],
       "tags": [
         "gsel-esports-ai"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/agn-sig-spotlight-series-21-july-2026/",
-      "url": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/agn-sig-spotlight-series-21-july-2026/",
-      "title": "AGN SIG Spotlight Series, 21 July 2026 - NASA Science",
-      "content_text": "Our Spotlight Series highlights recent advances in AGN science, with a strong emphasis on participation from early-career researchers, and includes plenty of time for community discussion following the presentations.",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/cds/svs/a010000/a012100/a012102/Cen_A_Still.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
       ]
     },
     {
@@ -167,21 +516,6 @@
       ],
       "tags": [
         "gsel-esports-ai"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/",
-      "url": "https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/",
-      "title": "Why Maine's Sandy Shorelines Turn Jagged - NASA Science",
-      "content_text": "Differences in the underlying bedrock and how rivers distribute sediment make the coastlines west of Portland look unlike those northeast of the city.",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/why-maine's-sandy-shorelines-turn-jagged/mainecoast_oli2_20250831_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
       ]
     },
     {
@@ -275,36 +609,6 @@
       ]
     },
     {
-      "id": "https://science.nasa.gov/blogs/science-news/2026/07/20/nasa-funded-study-shows-how-controlled-burns-help-sequoias-survive-wildfires/",
-      "url": "https://science.nasa.gov/blogs/science-news/2026/07/20/nasa-funded-study-shows-how-controlled-burns-help-sequoias-survive-wildfires/",
-      "title": "NASA-Funded Study Shows How Controlled Burns Help Sequoias Survive Wildfires - NASA Science",
-      "content_text": "A new study, funded by NASA, found that giant sequoias were nearly four times more likely to survive extreme wildfires in forests that have been managed with prescribed burns, which decrease tree mortality.",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/esd/esnt/GiantSequoias.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-64-new-opportunity-a-15-biosphere/",
-      "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-64-new-opportunity-a-15-biosphere/",
-      "title": "Amendment 64: New Opportunity: A.15 Biosphere - NASA Science",
-      "content_text": "NASA's Biosphere research area focuses on research that provides foundational knowledge on interactions between and within terrestrial and aquatic ecosystems,",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/cds/svs/a010000/a012700/a012774/sphere_map_1080.00001_print.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
       "id": "https://phys.org/news/2026-07-acid-resistant-nanocage-gastric-cancer.html",
       "url": "https://phys.org/news/2026-07-acid-resistant-nanocage-gastric-cancer.html",
       "title": "Acid-resistant nanocage shows promise for targeted gastric cancer therapy",
@@ -320,21 +624,6 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
-      "url": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
-      "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
-      "content_text": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform new generations of fuel-saving aircraft power systems.",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/fia-saab.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://esports.gg/news/fortnite/fortnite-obsession-skins/",
       "url": "https://esports.gg/news/fortnite/fortnite-obsession-skins/",
       "title": "Fortnite's latest Sprite trailer features an 'Obsession' crossover – could skins be next?",
@@ -347,55 +636,6 @@
       ],
       "tags": [
         "gsel-esports-ai"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xr-sig-seminar-7-august-2026/",
-      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xr-sig-seminar-7-august-2026/",
-      "title": "XR SIG Seminar, 7 August 2026 - NASA Science",
-      "content_text": "A TDAMM Mission Concept Offered by the X-ray Timing Science Analysis Group: the Dynamic Extreme Universe in X-rays (DEUS-X) Machine",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/cds/svs/a010000/a013200/a013214/NICERNightMovesnolabels.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/earth/new-nasa-earth-missions-gear-up-to-start-science-flights/",
-      "url": "https://science.nasa.gov/earth/new-nasa-earth-missions-gear-up-to-start-science-flights/",
-      "title": "New NASA Earth Missions Gear Up to Start Science Flights   - NASA Science",
-      "content_text": "The first of six new airborne campaigns will hit the skies this summer.",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/esd/articles/2026/LRC-2026-OCIO_P-01034.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/esd/articles/2026/Trimmed%20banner%20v2%201.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.ftc.gov/news-events/news/press-releases/2026/07/founders-celsius-network-ordered-pay-165-million-resolve-ftc-charges",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/founders-celsius-network-ordered-pay-165-million-resolve-ftc-charges",
-      "title": "Founders of Celsius Network Ordered to Pay $16.5 Million to Resolve FTC Charges",
-      "content_text": "Alexander Mashinsky, the former CEO of cryptocurrency platform Celsius Network Inc.",
-      "attachments": [
-        {
-          "url": "https://www.ftc.gov/themes/custom/ftc_uswds/img/ftc_social_share_default_en.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai-policy-ethics-standards"
       ]
     },
     {
@@ -459,21 +699,6 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/",
-      "url": "https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/",
-      "title": "From Hampton to Mars: How NASA Langley Helped Land on the Red Planet - NASA",
-      "content_text": "Fifty years ago, NASA’s Viking 1 and 2 landers made the first successful landings on Mars, opening a new era in planetary exploration. Behind that achievement",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2025/07/e1-viking-1-pia00381.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories/",
       "url": "https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories/",
       "title": "NVIDIA NVLink: The Scale-Up Network for AI Factories | NVIDIA Technical Blog",
@@ -524,21 +749,6 @@
       ],
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "https://esports.gg/news/counter-strike-2/bounty-summer-2026-qualifier-details-results/",
-      "url": "https://esports.gg/news/counter-strike-2/bounty-summer-2026-qualifier-details-results/",
-      "title": "Bounty Summer’s qualifier kicks off the new CS2 season: Tons of matches to test fresh rosters",
-      "content_text": "It's always intriguing to follow the qualifiers of the BLAST Bounty tournament series. The online mayhem at the season’s start often treats us to big surprises!",
-      "attachments": [
-        {
-          "url": "https://media.esports.gg/uploads/2026/07/cs2-Bounty-summer-2026-qualifier-cover.avif",
-          "mime_type": "image/avif"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
       ]
     },
     {
@@ -677,21 +887,6 @@
       ]
     },
     {
-      "id": "https://science.nasa.gov/earth/earth-observatory/shaping-the-emerald-city/",
-      "url": "https://science.nasa.gov/earth/earth-observatory/shaping-the-emerald-city/",
-      "title": "Shaping the Emerald City - NASA Science",
-      "content_text": "The hills and basins of Seattle, Washington, have been sculpted by glaciers and modified by humans.",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/shaping-the-emerald-city/ISS074-E-723719_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html",
       "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
@@ -719,209 +914,6 @@
       ],
       "tags": [
         "nanotech"
-      ]
-    },
-    {
-      "id": "https://retractionwatch.com/2026/07/18/weekend-reads-private-info-in-most-arxiv-preprints-why-did-george-church-decline-authorship-28-misconduct-cases-in-china/",
-      "url": "https://retractionwatch.com/2026/07/18/weekend-reads-private-info-in-most-arxiv-preprints-why-did-george-church-decline-authorship-28-misconduct-cases-in-china/",
-      "title": "Weekend reads: Private info in ‘most’ arXiv preprints; why did George Church decline authorship; 28 misconduct cases in China",
-      "content_text": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: ‘Disappointed’: Cochrane journal asked researchers to publish article…",
-      "attachments": [
-        {
-          "url": "https://retractionwatch.com/wp-content/uploads/2024/01/rw.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "research-integrity"
-      ]
-    },
-    {
-      "id": "https://eprijournal.com/restarting-nuclear-power-plants-preserving-and-restoring-value/",
-      "url": "https://eprijournal.com/restarting-nuclear-power-plants-preserving-and-restoring-value/",
-      "title": "Restarting Nuclear Power Plants: Preserving and Restoring Value - EPRI Journal",
-      "content_text": "Share this article:Recent growth in electricity demand, expanding carbon-free energy goals, and renewed concerns about energy security are driving utilities to reconsider nuclear power plants that have been permanently shut down or are approaching retirement. EPRI examines the technical, regulatory, and business factors that influence whether these facilities can return to service and what steps […]",
-      "attachments": [
-        {
-          "url": "http://eprijournal.com/wp-content/uploads/2026/07/2026.06_EJ-AS_433512435.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "grid-water-compute"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
-      "title": "NASA Pushes New Wing Design to Find Structural Limits - NASA",
-      "content_text": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/AFRC2025-0136-1632/AFRC2025-0136-1632~large.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://esportsinsider.com/2026/07/fgc-needs-more-hayao",
-      "url": "https://esportsinsider.com/2026/07/fgc-needs-more-hayao",
-      "title": "The FGC has become too serious and we need more people like Hayao",
-      "content_text": "The FGC has been real serious recently, and we need more whimsy, even if it comes in the form of a shocking tweet from Hayao.",
-      "attachments": [
-        {
-          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/hayao.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
-      "id": "https://esportsinsider.com/2026/07/ewc-valorant-pressure-org-accusations",
-      "url": "https://esportsinsider.com/2026/07/ewc-valorant-pressure-org-accusations",
-      "title": "“Maybe it’s not actually voluntary\": Are esports organizations pressuring VALORANT pros to compete in the EWC? Or does the issue go deeper than that?",
-      "content_text": "Are VALORANT pros being pressured to compete in the EWC or risk losing their role on the team? A finance professional weighs in.",
-      "attachments": [
-        {
-          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/Esports_World_Cup_2026_VALORANT.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
-      "url": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
-      "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
-      "content_text": "Her algorithm enables robots to install antennas on satellites",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/a-young-woman-with-blonde-hair-softly-smiling-next-to-a-pair-of-collaborative-robot-arms.jpg?id=67499761&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.pewresearch.org/short-reads/2026/07/17/majorities-of-americans-say-key-financial-milestones-are-harder-for-todays-young-adults-to-reach/",
-      "url": "https://www.pewresearch.org/short-reads/2026/07/17/majorities-of-americans-say-key-financial-milestones-are-harder-for-todays-young-adults-to-reach/",
-      "title": "Majorities of Americans say key financial milestones are harder for today’s young adults to reach",
-      "content_text": "Most Americans say it’s harder for young adults to find a job, buy a house, pay for college and save for their future than it was for their parents' generation.",
-      "attachments": [
-        {
-          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/SR_26.07.18_young-adult_featured.png?w=1200&h=628&crop=1",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/blogs/psyche/2026/07/17/nasas-psyche-mission-delivers-mars-flyby-data-time-lapse-video/",
-      "url": "https://science.nasa.gov/blogs/psyche/2026/07/17/nasas-psyche-mission-delivers-mars-flyby-data-time-lapse-video/",
-      "title": "NASA’s Psyche Mission Delivers Mars Flyby Data, Time-lapse Video  - NASA Science",
-      "content_text": "When NASA’s Psyche spacecraft flew by Mars for a gravity assist on May 15, 2026, it gave the mission team an opportunity to test instruments and prep for science they’ll conduct when reaching the metal-rich asteroid Psyche in 2029, and collect images and a time-lapse video of the Mars encounter.",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26749/E2_PIA26749_Psyche_Imager_Mars_Mosaic1_F247E.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/6_cH5-daLjg",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "climate-environment"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2026-07-thinner-wires-faster-electrons-quantum.html",
-      "url": "https://phys.org/news/2026-07-thinner-wires-faster-electrons-quantum.html",
-      "title": "Thinner wires, faster electrons: Quantum material challenges copper at chip scale",
-      "content_text": "Electrical interconnects may very well be the unsung heroes of modern microchips. These tiny wires—typically made of copper due to its high conductivity—string together the billions of transistors that drive our computers and electronic devices. But as the technology advances and additional transistors are piled on, the components must shrink to the nanoscale. And that's when copper begins to fail.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2026/too-thin-to-fail-an-al.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
-      "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
-      "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
-      "content_text": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/inline-1784235912807.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://www.etsi.org/newsroom/news/etsi-mission-critical-10th-plugtests-report-unveiled/",
-      "url": "https://www.etsi.org/newsroom/news/etsi-mission-critical-10th-plugtests-report-unveiled/",
-      "title": "ETSI Mission Critical 10th Plugtests Report Unveiled - ETSI",
-      "content_text": "More than 250 participants from around the world gathered to discuss advancing the transition to quantum-safe security.",
-      "attachments": [
-        {
-          "url": "https://www.etsi.org/wp-content/uploads/header-mcx-plugtest-news-1png.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "standards-bodies"
-      ]
-    },
-    {
-      "id": "https://www.nist.gov/news-events/events/2026/08/forensic-science-standards-synergy-summit",
-      "url": "https://www.nist.gov/news-events/events/2026/08/forensic-science-standards-synergy-summit",
-      "title": "Forensic Science Standards Synergy Summit",
-      "content_text": "An official website of the United States government",
-      "attachments": [
-        {
-          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/07/20/shutterstock_2608441967.jpg?itok=VdEugWWd",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai-policy-ethics-standards"
-      ]
-    },
-    {
-      "id": "https://www.embl.org/news/science-technology/novotags-ai-designed-proteins-help-scientists-see-inside-living-cells/",
-      "url": "https://www.embl.org/news/science-technology/novotags-ai-designed-proteins-help-scientists-see-inside-living-cells/",
-      "title": "NovoTags: AI-designed proteins help scientists see inside living cells | EMBL",
-      "content_text": "Researchers have designed synthetic and inducible proteins that bind to bright fluorescent dyes with high specificity and affinity, significantly expanding the toolkit for multicolour imaging of proteins inside cells",
-      "attachments": [
-        {
-          "url": "https://www.embl.org/news/wp-content/uploads/2026/07/NovoTag_2.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.embl.org/news/wp-content/uploads/2026/07/NovoTag_withLogo.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "biotech"
       ]
     }
   ]

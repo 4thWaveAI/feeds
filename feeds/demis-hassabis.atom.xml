@@ -4,7 +4,14 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/demis-hassabis.atom.xml"/>
   <id>urn:4thwaveai-feeds:demis-hassabis</id>
-  <updated>Tue, 21 Jul 2026 14:32:22 +0000</updated>
+  <updated>Tue, 21 Jul 2026 20:01:14 +0000</updated>
+  <entry>
+    <title>Introducing Gemini 3.5 Flash Cyber</title>
+    <link href="https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/"/>
+    <id>https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/</id>
+    <summary type="text">Google introduces Gemini 3.5 Flash Cyber to help defenders find, validate, and patch software vulnerabilities quickly and efficiently.</summary>
+    <updated>Tue, 21 Jul 2026 16:00:00 +0000</updated>
+  </entry>
   <entry>
     <title>Google DeepMind and Isomorphic Labs approach to bioresilience</title>
     <link href="https://deepmind.google/blog/our-approach-to-bioresilience/"/>
@@ -39,13 +46,6 @@
     <id>https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/</id>
     <summary type="text">Google DeepMind and partners are announcing a new technical research funding call of up to $10M for researchers worldwide to strengthen multi-agent safety.</summary>
     <updated>Thu, 11 Jun 2026 12:00:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>Gemini’s guided learning: results from a randomized controlled trial in Sierra Leone</title>
-    <link href="https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/"/>
-    <id>https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/</id>
-    <summary type="text">Google DeepMind shares results from a randomized controlled trial in Sierra Leone, measuring the impact of AI in education on student learning and engagement.</summary>
-    <updated>Tue, 09 Jun 2026 13:00:00 +0000</updated>
   </entry>
   <entry>
     <title>SIMA 2: A Gemini-Powered AI Agent for 3D Virtual Worlds</title>

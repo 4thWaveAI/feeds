@@ -5,6 +5,96 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.json",
   "items": [
     {
+      "id": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+      "title": "Introducing Gemini 3.5 Flash Cyber",
+      "content_text": "Google introduces Gemini 3.5 Flash Cyber to help defenders find, validate, and patch software vulnerabilities quickly and efficiently.",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/esSD0-kSrZ8K07XxNkSKL3OGlcx1Cf3M-qiQut0q_vArHMiK2L1CpUIGVkjuQrhu_m0g8UMVflVQpDp7VFAJSubDdCjSXsPJPDeK-PUtaPbqA8W1=w1200-h630-n-nu-rw",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/vera-rubin/",
+      "url": "https://blogs.nvidia.com/blog/vera-rubin/",
+      "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
+      "content_text": "Backed by 300 global partners, Vera Rubin is ramping up worldwide. NVIDIA partners CoreWeave, Google Cloud, Microsoft Azure and Mistral are among many deploying Vera Rubin, which delivers benchmark leadership on performance per watt and lowest token costs.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/vera-tech-blog-vera-rubin-nvl72-1920x1080-1-1680x945.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
+      "url": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
+      "title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
+      "content_text": "Next-generation NVIDIA Spectrum-X Ethernet connects hundreds of thousands of GPUs with the performance, resilience and efficiency needed for gigascale AI, with AI infrastructure leaders already adopting.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/ethernet-spectrum-x-corp-blog-1920x1080-5205700.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
+      "url": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
+      "title": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI | NVIDIA Technical Blog",
+      "content_text": "What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale. These factories are now tasked with…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-rubin-gpu.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/",
+      "url": "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/",
+      "title": "NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI | NVIDIA Technical Blog",
+      "content_text": "Agentic AI shifts more of the critical execution path onto the CPU. Agents operate in sandboxes to execute code, invoke tools, retrieve context, interact with databases, and analyze results before…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/Vera-CPU-e1783372749296.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/",
+      "url": "https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/",
+      "title": "Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72 | NVIDIA Technical Blog",
+      "content_text": "Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token falls…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/World-Record.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories/",
       "url": "https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories/",
       "title": "NVIDIA NVLink: The Scale-Up Network for AI Factories | NVIDIA Technical Blog",
@@ -246,21 +336,6 @@
       ]
     },
     {
-      "id": "https://developer.nvidia.com/blog/building-faster-cryptography-with-carryless-multiplication-in-nvidia-cuda-13-3/",
-      "url": "https://developer.nvidia.com/blog/building-faster-cryptography-with-carryless-multiplication-in-nvidia-cuda-13-3/",
-      "title": "Building Faster Cryptography with Carryless Multiplication in NVIDIA CUDA 13.3 | NVIDIA Technical Blog",
-      "content_text": "For over fifteen years, x86 CPUs have shipped with a dedicated hardware instruction for carryless multiplication. It’s a small but stubborn primitive that sits underneath authenticated encryption…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/CUDA-Tile-Flash-Attention.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
       "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
       "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
@@ -280,21 +355,6 @@
       ]
     },
     {
-      "id": "https://developer.nvidia.com/blog/lessons-from-the-leaderboard-what-5000-kagglers-taught-us-about-improving-ai-reasoning/",
-      "url": "https://developer.nvidia.com/blog/lessons-from-the-leaderboard-what-5000-kagglers-taught-us-about-improving-ai-reasoning/",
-      "title": "Lessons From the Leaderboard: What 5,000+ Kagglers Taught Us About Improving AI Reasoning | NVIDIA Technical Blog",
-      "content_text": "The NVIDIA Nemotron Model Reasoning Challenge invited the Kaggle community to explore a focused question: What techniques can improve reasoning accuracy when everyone starts from the same open model…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/image7-1.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
       "url": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
       "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
@@ -303,25 +363,6 @@
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/nemotron-labs-open-models-blog-feature-image.jpg",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
-      "url": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
-      "title": "How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo | NVIDIA Technical Blog",
-      "content_text": "Coding AI agents are becoming practical operators for long-running machine learning (ML) workflows. They can inspect repositories, set up runtimes, resolve build issues, launch experiments…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/agentic-ai-rl-gym.webp",
-          "mime_type": "image/webp"
-        },
-        {
-          "url": "https://www.youtube.com/embed/qP0uXRbg9hc?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
-          "mime_type": "video/mp4"
         }
       ],
       "tags": [
@@ -423,25 +464,6 @@
       ]
     },
     {
-      "id": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/",
-      "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
-      "content_text": "Plus, tap into ‘NTE: Neverness to Everness’ with a new update, alongside three new games joining the cloud this week.",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/gfn-thursday-7-9-blog-1920x1080-no-copy.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/JolML6h3Lhw?feature=oembed",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "https://www.amazon.science/blog/capturing-token-ids-during-agentic-interactions-for-better-reinforcement-learning",
       "url": "https://www.amazon.science/blog/capturing-token-ids-during-agentic-interactions-for-better-reinforcement-learning",
       "title": "Capturing token IDs during agentic interactions for better reinforcement learning",
@@ -484,25 +506,6 @@
         {
           "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/07/Flint-TWLIFB-1200x627-1.jpg",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
-      "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
-      "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
-      "content_text": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform.  LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x […]",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Nemotron_LangChain-scaled.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/Yy3JH6dDugc?feature=oembed",
-          "mime_type": "video/mp4"
         }
       ],
       "tags": [
@@ -694,21 +697,6 @@
       ]
     },
     {
-      "id": "https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding/",
-      "url": "https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding/",
-      "title": "Boost Inference Performance up to 15x on NVIDIA Blackwell Using DFlash Speculative Decoding | NVIDIA Technical Blog",
-      "content_text": "As AI systems move from single-turn interactions to coordinated multiagent workflows, low-latency inference becomes increasingly important. Autoregressive LLMs generate tokens sequentially…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/cuda-python.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
       "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
       "title": "Securing internal systems against increasingly capable and imperfectly aligned AI",
@@ -747,36 +735,6 @@
         {
           "url": "https://lh3.googleusercontent.com/kc7RMwXGDfJAoCsgs6pUuONGMXePGbvF_q_i8i-bWBBakQ91O8VYPk8cyHfpOD1uF-lw8Mk6pd2JpXofi5n4qNoNziPol46lBMmZuxoG9NKl16CW=w1200-h630-n-nu-rw",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance/",
-      "url": "https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance/",
-      "title": "NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance | NVIDIA Technical Blog",
-      "content_text": "NVIDIA delivered a clean sweep in MLPerf Training v6.0, the latest edition of industry-standard AI training benchmarks developed by the MLCommons consortium. NVIDIA achieved the fastest time to train…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/image1-7.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/nvidia-achieves-leading-agentic-coding-performance-on-first-agentic-ai-benchmark/",
-      "url": "https://developer.nvidia.com/blog/nvidia-achieves-leading-agentic-coding-performance-on-first-agentic-ai-benchmark/",
-      "title": "NVIDIA Achieves Leading Agentic Coding Performance on First Agentic AI Benchmark | NVIDIA Technical Blog",
-      "content_text": "AI agents have fundamentally changed the complexity of inference workloads. Until now, the industry has struggled to define a standard for measuring how inference systems perform under these…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/ai-agent-1.webp",
-          "mime_type": "image/webp"
         }
       ],
       "tags": [
@@ -836,21 +794,6 @@
       "attachments": [
         {
           "url": "https://cdn.amazon.science/dims4/default/fa00a22/2147483647/strip/true/crop/1094x574+0+21/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F8a%2F97%2Fdd1611c14a58ad73344c5ddeffdd%2Fnitro-hypervisor.png",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
-      "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
-      "title": "Gemini’s guided learning: results from a randomized controlled trial in Sierra Leone",
-      "content_text": "Google DeepMind shares results from a randomized controlled trial in Sierra Leone, measuring the impact of AI in education on student learning and engagement.",
-      "attachments": [
-        {
-          "url": "https://lh3.googleusercontent.com/5g2RQPPxqVGuOzfaYj1-8r_6B-Ytp79c9mpWXzBIrk2vUhtxZmA7bMywH41h-8b0EJAdW_K4l7kqHZlfS-QTFk8kFB5MA2bgxZ4hxbuAiOuDIn3ohA=w1200-h630-n-nu-rw",
           "mime_type": "image/jpeg"
         }
       ],
@@ -946,6 +889,55 @@
         {
           "url": "https://cdn.amazon.science/7e/ae/d07eb6f949099374eb6a5e32592f/mathresearch-01-16x9.mp4",
           "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
+      "url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
+      "title": "SIMA 2: A Gemini-Powered AI Agent for 3D Virtual Worlds",
+      "content_text": "Introducing SIMA 2, the next milestone in our research creating general and helpful AI agents. By integrating the advanced capabilities of our Gemini models, SIMA is evolving from an instruction-follower into an interactive gaming companion.",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/A5vgACWjzxaEanLkjrZSNlQDjI0SEZ4tKJqE2EtboljSRIkcbEVv4JA2H7a-BEYNoWK097hNdthFdB6h537DUVvFbAUwhWUFSzzA0E0ndr6zMC8tMA=w1200-h630-n-nu-rw",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/Zphax4f6Rls?enablejsapi=1&rel=0&origin=https%3A%2F%2Fdeepmind.google",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://www.palladyneai.com/blog/autonomous-swarming-takes-flight-the-next-era-of-uav-operations/",
+      "url": "https://www.palladyneai.com/blog/autonomous-swarming-takes-flight-the-next-era-of-uav-operations/",
+      "title": "Autonomous Swarming Takes Flight: The Next Era of UAV Operations",
+      "content_text": "How Palladyne AI's edge-based swarming redefines UAV operations. True drone teamwork that boosts agility, resilience, and mission efficiency.",
+      "attachments": [
+        {
+          "url": "https://www.palladyneai.com/wp-content/uploads/2025/10/swarm-blog2.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://www.amazon.science/news/amazon-and-carnegie-mellon-university-launch-strategic-ai-innovation-hub",
+      "url": "https://www.amazon.science/news/amazon-and-carnegie-mellon-university-launch-strategic-ai-innovation-hub",
+      "title": "Amazon and Carnegie Mellon University launch strategic AI Innovation Hub",
+      "content_text": "The collaboration will advance research in generative AI, robotics, natural-language processing and cloud computing while fostering innovation in foundational and emerging technologies.",
+      "attachments": [
+        {
+          "url": "https://cdn.amazon.science/dims4/default/7235c4c/2147483647/strip/true/crop/6192x3251+0+439/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2Fdd%2F9a%2F5878665045f592c243f09de99c60%2Fua-191007d-fall-foliage-0007-1.jpg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [

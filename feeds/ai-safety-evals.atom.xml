@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai-safety-evals.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai-safety-evals</id>
-  <updated>Tue, 21 Jul 2026 14:44:32 +0000</updated>
+  <updated>Tue, 21 Jul 2026 20:16:04 +0000</updated>
   <entry>
     <title>Spotlight: Test Your Robot’s Skills in NIST’s Global Online Competition</title>
     <link href="https://www.nist.gov/news-events/news/2026/06/spotlight-test-your-robots-skills-nists-global-online-competition"/>
@@ -220,6 +220,12 @@
     <summary type="text">The length of tasks frontier models can autonomously complete in our narrow cyber suite has been doubling every few months. This doubling rate has become faster over time, and recent models exceeded our previous trends.</summary>
   </entry>
   <entry>
+    <title>Expenditure Horizon: Measuring Optimization Ability, with an Application to NanoGPT</title>
+    <link href="https://metr.org/blog/2026-07-21-expenditure-horizon/"/>
+    <id>https://metr.org/blog/2026-07-21-expenditure-horizon/</id>
+    <summary type="text">We propose a measure of an AI agent’s optimization ability with an &quot;expenditure horizon.&quot; We give an empirical illustration from the NanoGPT speedrun.</summary>
+  </entry>
+  <entry>
     <title>Frontier Risk Report (February to March 2026)</title>
     <link href="https://metr.org/blog/2026-05-19-frontier-risk-report/"/>
     <id>https://metr.org/blog/2026-05-19-frontier-risk-report/</id>
@@ -272,12 +278,6 @@
     <link href="https://metr.org/blog/2025-08-20-forecasting-impacts-of-ai-acceleration/"/>
     <id>https://metr.org/blog/2025-08-20-forecasting-impacts-of-ai-acceleration/</id>
     <summary type="text">AI agents are improving rapidly at autonomous software development and machine learning tasks, and, if recent trends hold, may match human researchers at challenging months-long research projects in under a decade. Some economic models predict that automation of AI research by AI agents could increase the pace of further progress dramatically, with many years of progress at the current rate being compressed into months. AI developers have identified this as a key capability to monitor and prepare for, since the national security implications and societal impacts of such rapid progress could be enormous.</summary>
-  </entry>
-  <entry>
-    <title>Research Update: Algorithmic vs. Holistic Evaluation</title>
-    <link href="https://metr.org/blog/2025-08-12-research-update-towards-reconciling-slowdown-with-time-horizons/"/>
-    <id>https://metr.org/blog/2025-08-12-research-update-towards-reconciling-slowdown-with-time-horizons/</id>
-    <summary type="text">Many AI benchmarks use algorithmic scoring to evaluate how well AI systems perform on some set of tasks. However, AI systems often produce code that scores well but isn&#x27;t production-ready due to issues with test coverage, formatting, and code quality. This helps explain why AI tools show less productivity improvement than expected despite strong performance on coding benchmarks.</summary>
   </entry>
   <entry>
     <title>Blog – Apollo Research</title>

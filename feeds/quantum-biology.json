@@ -614,6 +614,15 @@
       ]
     },
     {
+      "id": "https://www.nature.com/articles/s41467-026-75573-w",
+      "url": "https://www.nature.com/articles/s41467-026-75573-w",
+      "title": "Nucleotide flipping correlates with fluorescence activation in the RhoBAST imaging platform - Nature Communications",
+      "content_text": "RhoBAST (Rhodamine Binding Aptamer for Super-resolution Imaging Techniques) is a fluorogenic RNA aptamer and binds to the tetramethylrhodamine (TMR) in the fluorophore-quencher conjugate TMR-dinitroaniline (TMR-DN). Here, the authors determined the free-form structure of RhoBAST, along with its ligand-bound complexes with TMR-DN and related analogs TMR and 5-TAMRA.",
+      "tags": [
+        "quantum-biology"
+      ]
+    },
+    {
       "id": "https://www.nature.com/articles/s41467-026-75793-0",
       "url": "https://www.nature.com/articles/s41467-026-75793-0",
       "title": "Symmetry-driven gating of TRPM8 by PIP2 and menthol - Nature Communications",
@@ -699,21 +708,6 @@
       "url": "https://www.nature.com/articles/s41467-026-75824-w",
       "title": "Structural basis of PLPP3-mediated lipid phosphate dephosphorylation and its role in melanoma - Nature Communications",
       "content_text": "Phospholipid phosphatases (PLPPs) dephosphorylate lipid phosphates to regulate diverse cellular processes. Here, the authors present the cryoEM structure of PLPP3, providing mechanistic insights into lipid phosphate metabolism and its relevance to melanoma.",
-      "tags": [
-        "quantum-biology"
-      ]
-    },
-    {
-      "id": "https://www.nature.com/articles/s41467-026-74810-6",
-      "url": "https://www.nature.com/articles/s41467-026-74810-6",
-      "title": "Mechanism of actin thin filament pointed-end elongation by leiomodin - Nature Communications",
-      "content_text": "Here, cryo-EM structures reveal how two leiomodin molecules cooperate to recruit actin subunits at the pointed end and maintain uniform thin filament length in striated muscle sarcomeres.",
-      "attachments": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-74810-6/MediaObjects/41467_2026_74810_Fig1_HTML.png",
-          "mime_type": "image/png"
-        }
-      ],
       "tags": [
         "quantum-biology"
       ]

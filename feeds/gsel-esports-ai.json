@@ -5,6 +5,36 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/gsel-esports-ai.json",
   "items": [
     {
+      "id": "https://esportsinsider.com/2026/07/esports-ai-controversy",
+      "url": "https://esportsinsider.com/2026/07/esports-ai-controversy",
+      "title": "I am not convinced that hunting for AI is going to solve esports biggest issues",
+      "content_text": "With Mobile Legends: Bang Bang recently accused of having AI in its menu, I got to thinking: Who cares really? Is it impacting esports?",
+      "attachments": [
+        {
+          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/fatal-fury-AI.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/overwatch/overwatch-reveals-shions-original-face-and-hashimoto-elders-in-new-story/",
+      "url": "https://esports.gg/news/overwatch/overwatch-reveals-shions-original-face-and-hashimoto-elders-in-new-story/",
+      "title": "Overwatch reveals Shion's original face and Hashimoto elders in new story",
+      "content_text": "Overwatch's new Shion short story titled \"Ambush\" revealed Shion's original omnic form plus the names and personalities of the Hashimoto elders.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/07/Overwatch-Shion-Ambush-Story-Comic-Article-By-Esportsgg-Images-Via-Blizzard-Entertainment-July-21-2026-3.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
       "id": "https://esports.gg/news/mobile-legends-bang-bang/mlbb-ai-generated-main-menu-layla-backlash/",
       "url": "https://esports.gg/news/mobile-legends-bang-bang/mlbb-ai-generated-main-menu-layla-backlash/",
       "title": "MLBB backtracks after fans outrage over AI-generated main menu in advanced server",
@@ -38,7 +68,7 @@
       "id": "https://esports.gg/news/league-of-legends/blg-bin-break-health-concerns/",
       "url": "https://esports.gg/news/league-of-legends/blg-bin-break-health-concerns/",
       "title": "BLG Bin to take a temporary break amid health concerns",
-      "content_text": "Due to health concerns, BLG top laner Bin will be taking a break from competitive League of Legends ahead of the LPL Split 3.",
+      "content_text": "Due to health concerns, BLG top laner Bin will be taking a break from competitive League of Legends ahead of LPL Split 3.",
       "attachments": [
         {
           "url": "https://media.esports.gg/uploads/2026/07/blg-bin.avif",
@@ -155,21 +185,6 @@
       ]
     },
     {
-      "id": "https://esports.gg/news/counter-strike-2/bounty-summer-2026-qualifier-details-results/",
-      "url": "https://esports.gg/news/counter-strike-2/bounty-summer-2026-qualifier-details-results/",
-      "title": "Bounty Summer’s qualifier kicks off the new CS2 season: Tons of matches to test fresh rosters",
-      "content_text": "It's always intriguing to follow the qualifiers of the BLAST Bounty tournament series. The online mayhem at the season’s start often treats us to big surprises!",
-      "attachments": [
-        {
-          "url": "https://media.esports.gg/uploads/2026/07/cs2-Bounty-summer-2026-qualifier-cover.avif",
-          "mime_type": "image/avif"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
       "id": "https://esportsinsider.com/2026/07/fgc-needs-more-hayao",
       "url": "https://esportsinsider.com/2026/07/fgc-needs-more-hayao",
       "title": "The FGC has become too serious and we need more people like Hayao",
@@ -177,21 +192,6 @@
       "attachments": [
         {
           "url": "https://esportsinsider.com/wp-content/uploads/2026/07/hayao.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
-      "id": "https://esportsinsider.com/2026/07/ewc-valorant-pressure-org-accusations",
-      "url": "https://esportsinsider.com/2026/07/ewc-valorant-pressure-org-accusations",
-      "title": "“Maybe it’s not actually voluntary\": Are esports organizations pressuring VALORANT pros to compete in the EWC? Or does the issue go deeper than that?",
-      "content_text": "Are VALORANT pros being pressured to compete in the EWC or risk losing their role on the team? A finance professional weighs in.",
-      "attachments": [
-        {
-          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/Esports_World_Cup_2026_VALORANT.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -278,7 +278,7 @@
       "id": "https://esportsinsider.com/esports-titles",
       "url": "https://esportsinsider.com/esports-titles",
       "title": "Games Archives - Esports Insider",
-      "content_text": "LoL esports is usually a battle between China and Korea at the top. MSI completely threw that script away.",
+      "content_text": "It was a huge bummer when Smash was removed from the Evo lineup, but I think it saved the Smash scene in the long run.",
       "attachments": [
         {
           "url": "https://esportsinsider.com/wp-content/uploads/2025/01/esi_logo_white.jpg",
@@ -293,7 +293,7 @@
       "id": "https://esports.gg/news/",
       "url": "https://esports.gg/news/",
       "title": "News Archives",
-      "content_text": "Fans are upset about the recent MLBB Advanced Server update that adds a 3D model of Layla that seems to be generated by AI.",
+      "content_text": "Overwatch's new Shion short story titled \"Ambush\" revealed Shion's original omnic form plus the names and personalities of the Hashimoto elders.",
       "tags": [
         "gsel-esports-ai"
       ]

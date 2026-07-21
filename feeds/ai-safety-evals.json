@@ -479,6 +479,21 @@
       ]
     },
     {
+      "id": "https://metr.org/blog/2026-07-21-expenditure-horizon/",
+      "url": "https://metr.org/blog/2026-07-21-expenditure-horizon/",
+      "title": "Expenditure Horizon: Measuring Optimization Ability, with an Application to NanoGPT",
+      "content_text": "We propose a measure of an AI agent’s optimization ability with an \"expenditure horizon.\" We give an empirical illustration from the NanoGPT speedrun.",
+      "attachments": [
+        {
+          "url": "https://metr.org/assets/images/expenditure-horizon/eh-schematic-up.svg",
+          "mime_type": "image/svg+xml"
+        }
+      ],
+      "tags": [
+        "ai-safety-evals"
+      ]
+    },
+    {
       "id": "https://metr.org/blog/2026-05-19-frontier-risk-report/",
       "url": "https://metr.org/blog/2026-05-19-frontier-risk-report/",
       "title": "Frontier Risk Report (February to March 2026)",
@@ -606,21 +621,6 @@
       "attachments": [
         {
           "url": "https://metr.org/assets/images/forecasting-impacts/probability-of-acceleration.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai-safety-evals"
-      ]
-    },
-    {
-      "id": "https://metr.org/blog/2025-08-12-research-update-towards-reconciling-slowdown-with-time-horizons/",
-      "url": "https://metr.org/blog/2025-08-12-research-update-towards-reconciling-slowdown-with-time-horizons/",
-      "title": "Research Update: Algorithmic vs. Holistic Evaluation",
-      "content_text": "Many AI benchmarks use algorithmic scoring to evaluate how well AI systems perform on some set of tasks. However, AI systems often produce code that scores well but isn't production-ready due to issues with test coverage, formatting, and code quality. This helps explain why AI tools show less productivity improvement than expected despite strong performance on coding benchmarks.",
-      "attachments": [
-        {
-          "url": "https://metr.org/assets/images/holistic-vs-algo-scoring/sankey.png",
           "mime_type": "image/png"
         }
       ],

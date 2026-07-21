@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/health-medicine.atom.xml"/>
   <id>urn:4thwaveai-feeds:health-medicine</id>
-  <updated>Tue, 21 Jul 2026 14:41:10 +0000</updated>
+  <updated>Tue, 21 Jul 2026 20:12:29 +0000</updated>
   <entry>
     <title>Newsroom</title>
     <link href="https://www.who.int/mega-menu/news/all-news"/>
@@ -126,12 +126,6 @@
     <summary type="text">Bio-heat transfer models play a fundamental role in predicting temperature fields during laser-induced thermal therapy (LITT). Among continuum bio-heat transfer models, the Pennes equation remains the most widely adopted formulation. However, by representing blood perfusion as an isotropic volumetric source, it neglects the directional transport of thermal energy associated with blood flow. The Wulff model overcomes this limitation by incorporating blood averaged enthalpy transport directly into the heat flux. Despite its physical significance, the derivation of the Wulff formulation and the assumptions required to obtain its governing equation remain only briefly discussed in the original work. The aim of the present work is twofold. First, the physical formulation originally proposed by </summary>
   </entry>
   <entry>
-    <title>Uganda safeguards essential health services during Ebola outbreak response</title>
-    <link href="https://www.afro.who.int/countries/uganda/news/uganda-safeguards-essential-health-services-during-ebola-outbreak-response"/>
-    <id>https://www.afro.who.int/countries/uganda/news/uganda-safeguards-essential-health-services-during-ebola-outbreak-response</id>
-    <summary type="text">Kampala—At a health clinic in Arua, a border town in northern Uganda, staff are on high alert after unsuspectingly attending to a patient who was later diagnosed with Ebola disease caused by the Bundibugyo virus. It was 8 May 2026, before the outbreak was declared in neighbouring Democratic Republic of Congo, and the staff’s index of suspicion was low. After the patient asked to be discharged, she travelled to Kampala, Uganda’s capital city, where she tested positive for the virus.</summary>
-  </entry>
-  <entry>
     <title>Access to care for severe chronic diseases in Africa growing: new report</title>
     <link href="https://www.afro.who.int/countries/zambia/news/access-care-severe-chronic-diseases-africa-growing-new-report"/>
     <id>https://www.afro.who.int/countries/zambia/news/access-care-severe-chronic-diseases-africa-growing-new-report</id>
@@ -184,6 +178,12 @@
     <link href="https://www.afro.who.int/news/statements"/>
     <id>https://www.afro.who.int/news/statements</id>
     <summary type="text">Statements | WHO | Regional Office for Africa</summary>
+  </entry>
+  <entry>
+    <title>Uganda safeguards essential health services during Ebola outbreak response</title>
+    <link href="https://www.afro.who.int/countries/uganda/news/uganda-safeguards-essential-health-services-during-ebola-outbreak-response"/>
+    <id>https://www.afro.who.int/countries/uganda/news/uganda-safeguards-essential-health-services-during-ebola-outbreak-response</id>
+    <summary type="text">Kampala—At a health clinic in Arua, a border town in northern Uganda, staff are on high alert after unsuspectingly attending to a patient who was later diagnosed with Ebola disease caused by the Bundibugyo virus. It was 8 May 2026, before the outbreak was declared in neighbouring Democratic Republic of Congo, and the staff’s index of suspicion was low. After the patient asked to be discharged, she travelled to Kampala, Uganda’s capital city, where she tested positive for the virus.</summary>
   </entry>
   <entry>
     <title>NHS England » News</title>

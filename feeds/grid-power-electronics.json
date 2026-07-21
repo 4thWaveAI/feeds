@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/grid-power-electronics.json",
   "items": [
     {
+      "id": "https://www.energy.gov/cmei/femp/events/2026-federal-utility-partnership-working-group-fupwg-seminar",
+      "url": "https://www.energy.gov/cmei/femp/events/2026-federal-utility-partnership-working-group-fupwg-seminar",
+      "title": "2026 Federal Utility Partnership Working Group (FUPWG) Seminar",
+      "content_text": "The Federal Utility Partnership Working Group (FUPWG) Seminar meets to share best practices, success stories, case studies, information about Federal Energy Management Program (FEMP) activities, and other business.",
+      "attachments": [
+        {
+          "url": "https://www.energy.gov/sites/default/files/2025-04/white-fallback_0.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "grid-power-electronics"
+      ]
+    },
+    {
       "id": "https://www.energy.gov/oe/events/2026-electromagnetic-transient-emt-simulation-workshop",
       "url": "https://www.energy.gov/oe/events/2026-electromagnetic-transient-emt-simulation-workshop",
       "title": "2026 Electromagnetic Transient (EMT) Simulation Workshop",
@@ -20,6 +35,36 @@
       ]
     },
     {
+      "id": "https://www.utilitydive.com/news/srp-marigold-project-board-energy-storage/825813/",
+      "url": "https://www.utilitydive.com/news/srp-marigold-project-board-energy-storage/825813/",
+      "title": "SRP to propose mixed-resource project to its board in September",
+      "content_text": "The Marigold Energy Center, about 45 miles south of Phoenix, would include 400 MW of battery storage, 600 MW of solar generation, up to 675 MW of gas generation and a new substation.",
+      "attachments": [
+        {
+          "url": "https://imgproxy.divecdn.com/DexCp1hLDtDItSqbeRMRwBYuaCYsKWi-NhyfrW32ZFM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTQ2OTgwMTg5LmpwZw==.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "grid-power-electronics"
+      ]
+    },
+    {
+      "id": "https://www.utilitydive.com/news/carbon-dioxide-emissions-electric-power-eia/825805/",
+      "url": "https://www.utilitydive.com/news/carbon-dioxide-emissions-electric-power-eia/825805/",
+      "title": "CO2 emissions from US power sector rose 4% last year",
+      "content_text": "The rise in emissions was linked to increased electricity generation and coal use, the U.S. Energy Information Administration said.",
+      "attachments": [
+        {
+          "url": "https://imgproxy.divecdn.com/XCX_ESxO1NnnOYq5ngn6wqtpjeKv220Ad8SguROe3l0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9LZW50dWNreV9jb2FsX3BsYW50LmpwZw==.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "grid-power-electronics"
+      ]
+    },
+    {
       "id": "https://www.utilitydive.com/news/americas-next-industrial-boom-runs-electricity/824507/",
       "url": "https://www.utilitydive.com/news/americas-next-industrial-boom-runs-electricity/824507/",
       "title": "3 practical steps to ensure the US industrial boom runs on electricity",
@@ -27,6 +72,51 @@
       "attachments": [
         {
           "url": "https://imgproxy.divecdn.com/QIvYn7WipBM1OAn9P93weVSyi0tcLAQvq78qVdfNK6c/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDIxMTIwNl9OQVRIQU4tSEVMRUlORV9OT1JNQUwtU0wyUy00OF9oaTV3eXcuanBn.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "grid-power-electronics"
+      ]
+    },
+    {
+      "id": "https://www.utilitydive.com/news/us-data-centers-could-4x-water-use-by-2028-double-electricity-by-2030-khi/825774/",
+      "url": "https://www.utilitydive.com/news/us-data-centers-could-4x-water-use-by-2028-double-electricity-by-2030-khi/825774/",
+      "title": "US data center electricity use could more than double by 2030: report",
+      "content_text": "Policy responses “reflect a tension between furthering state-level economic development interests and balancing local community health and environmental concerns,” the Kansas Health Institute report states.",
+      "attachments": [
+        {
+          "url": "https://imgproxy.divecdn.com/5brpWjGpHVPJZja9hDL2REY4DLwx-Ahqe6JhlAmknRo/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ1MDI1ODQyLmpwZw==.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "grid-power-electronics"
+      ]
+    },
+    {
+      "id": "https://www.utilitydive.com/news/ferc-data-center-pjm-transmission-costs/825760/",
+      "url": "https://www.utilitydive.com/news/ferc-data-center-pjm-transmission-costs/825760/",
+      "title": "FERC fails to shield PJM consumers from data center transmission costs: ratepayer advocates",
+      "content_text": "The Federal Energy Regulatory Commission’s large load “show cause” order for the PJM Interconnection fails to address cost allocation of network upgrades, advocates from five states said.",
+      "attachments": [
+        {
+          "url": "https://imgproxy.divecdn.com/8I64TuMltGqEWqfON9raZpJCJ3NhzwOYSsDnMvb0UpY/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS82STVBMzQzNWIuanBn.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "grid-power-electronics"
+      ]
+    },
+    {
+      "id": "https://www.utilitydive.com/news/215b-in-annual-energy-cost-savings-starts-with-heat-pumps-aceee/825794/",
+      "url": "https://www.utilitydive.com/news/215b-in-annual-energy-cost-savings-starts-with-heat-pumps-aceee/825794/",
+      "title": "$215B in annual energy cost savings starts with heat pumps: ACEEE",
+      "content_text": "Building and other electric efficiency measures would reduce growing peak demand by 20% on average through 2050, according to the American Council for an Energy-Efficient Economy.",
+      "attachments": [
+        {
+          "url": "https://imgproxy.divecdn.com/5n0SNWYNtg1pqL29nnpR80eSWCicilJJMJAtibf7FKE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTQ4NDUyOTY4XzEuanBn.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -87,81 +177,6 @@
       "attachments": [
         {
           "url": "https://imgproxy.divecdn.com/6x0Lfeufbwjve2OkpO4H8Ch-jMU1CovXNG_edcCzxys/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS82STVBMzM4NmIuanBn.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "grid-power-electronics"
-      ]
-    },
-    {
-      "id": "https://www.utilitydive.com/news/pjm-capacity-auction-governance-ferc-swett/825508/",
-      "url": "https://www.utilitydive.com/news/pjm-capacity-auction-governance-ferc-swett/825508/",
-      "title": "PJM capacity auction results compound ‘alarm bells’: FERC Chairman Swett",
-      "content_text": "At its monthly meeting, FERC set data center reliability standard deadlines, ordered CAISO and SPP to report on “seams” issues and advanced a complaint over cost recovery for a New Jersey power line.",
-      "attachments": [
-        {
-          "url": "https://imgproxy.divecdn.com/0f3zryg-cz5Eib3YNe1cGqm8hk046n7ejr2YVqzHddk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzE2MS5wbmc=.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "grid-power-electronics"
-      ]
-    },
-    {
-      "id": "https://www.utilitydive.com/news/renewables-remain-cheapest-lcoe-rising-lazard/825443/",
-      "url": "https://www.utilitydive.com/news/renewables-remain-cheapest-lcoe-rising-lazard/825443/",
-      "title": "Renewables remain cheapest, but their LCOE is rising: Lazard",
-      "content_text": "Utility-scale solar’s levelized cost of electricity ranges between $40/MWh and $98/MWh, while combined cycle gas ranges between $51/MWh and $129/MWh, said a report from Lazard.",
-      "attachments": [
-        {
-          "url": "https://imgproxy.divecdn.com/lGuTo-b4i0fh_kt_HROcyeDXma6JKDRqIti3fvjYz1o/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Sb3NhbW9uZF9zb2xhci5qcGc=.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "grid-power-electronics"
-      ]
-    },
-    {
-      "id": "https://www.utilitydive.com/news/google-inks-deal-for-massive-arkansas-solar-and-storage-project/825432/",
-      "url": "https://www.utilitydive.com/news/google-inks-deal-for-massive-arkansas-solar-and-storage-project/825432/",
-      "title": "Google inks deal for massive Arkansas solar and storage project",
-      "content_text": "With a target completion date of 2029, the project is expected to deliver 2.5 GW of generation and 2.9 GWh of battery storage to the regional grid, the tech giant said.",
-      "attachments": [
-        {
-          "url": "https://imgproxy.divecdn.com/RorDEKXy1iONxEGmYOA4ecgIkf_voiOJxrjWKMd4qOc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Hb29nbGVfZGF0YV9jZW50ZXIuanBn.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "grid-power-electronics"
-      ]
-    },
-    {
-      "id": "https://www.utilitydive.com/news/data-center-interconnection-ferc-large-load-show-cause/824501/",
-      "url": "https://www.utilitydive.com/news/data-center-interconnection-ferc-large-load-show-cause/824501/",
-      "title": "What data center developers need to know about FERC’s large load directives",
-      "content_text": "The June 18 show cause orders finally take aim at the load interconnection mess. But the customers who get power faster will be the ones who show up ready to flex, writes Shalin Savalia, a senior electrical engineer.",
-      "attachments": [
-        {
-          "url": "https://imgproxy.divecdn.com/7Xp2rO5JHvgX2czqogJi35vQAxceGPtuPf3fmnbtOlE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9WZXJub25fZGF0YV9jZW50ZXJfY29uc3RydWN0aW9uLmpwZw==.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "grid-power-electronics"
-      ]
-    },
-    {
-      "id": "https://www.utilitydive.com/news/indiana-urc-affordability-utility-roe-tracker/825409/",
-      "url": "https://www.utilitydive.com/news/indiana-urc-affordability-utility-roe-tracker/825409/",
-      "title": "Indiana regulators investigate utility ROEs, ‘trackers’ in affordability review",
-      "content_text": "AES, American Electric Power, CenterPoint Energy, Duke Energy and NiSource could be affected under a “more consumer-oriented utility commission policy,” Paul Patterson, a Glenrock Associates equity analyst, told Utility Dive.",
-      "attachments": [
-        {
-          "url": "https://imgproxy.divecdn.com/c8fkh9zc26M5vRTJgNxahoIzCNTLhfBbm3gWKqj6q1o/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NaWtlX0JyYXVuLmpwZw==.webp",
           "mime_type": "image/webp"
         }
       ],

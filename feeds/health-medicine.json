@@ -251,21 +251,6 @@
       ]
     },
     {
-      "id": "https://www.afro.who.int/countries/uganda/news/uganda-safeguards-essential-health-services-during-ebola-outbreak-response",
-      "url": "https://www.afro.who.int/countries/uganda/news/uganda-safeguards-essential-health-services-during-ebola-outbreak-response",
-      "title": "Uganda safeguards essential health services during Ebola outbreak response",
-      "content_text": "Kampala—At a health clinic in Arua, a border town in northern Uganda, staff are on high alert after unsuspectingly attending to a patient who was later diagnosed with Ebola disease caused by the Bundibugyo virus. It was 8 May 2026, before the outbreak was declared in neighbouring Democratic Republic of Congo, and the staff’s index of suspicion was low. After the patient asked to be discharged, she travelled to Kampala, Uganda’s capital city, where she tested positive for the virus.",
-      "attachments": [
-        {
-          "url": "https://www.afro.who.int/sites/default/files/styles/teaser_thumbnail_600x600_/public/2026-07/DSC09408.jpg?itok=pKrkRhbs",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "health-medicine"
-      ]
-    },
-    {
       "id": "https://www.afro.who.int/countries/zambia/news/access-care-severe-chronic-diseases-africa-growing-new-report",
       "url": "https://www.afro.who.int/countries/zambia/news/access-care-severe-chronic-diseases-africa-growing-new-report",
       "title": "Access to care for severe chronic diseases in Africa growing: new report",
@@ -393,6 +378,21 @@
       "attachments": [
         {
           "url": "https://www.afro.who.int/sites/default/files/Logo%20EN.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "health-medicine"
+      ]
+    },
+    {
+      "id": "https://www.afro.who.int/countries/uganda/news/uganda-safeguards-essential-health-services-during-ebola-outbreak-response",
+      "url": "https://www.afro.who.int/countries/uganda/news/uganda-safeguards-essential-health-services-during-ebola-outbreak-response",
+      "title": "Uganda safeguards essential health services during Ebola outbreak response",
+      "content_text": "Kampala—At a health clinic in Arua, a border town in northern Uganda, staff are on high alert after unsuspectingly attending to a patient who was later diagnosed with Ebola disease caused by the Bundibugyo virus. It was 8 May 2026, before the outbreak was declared in neighbouring Democratic Republic of Congo, and the staff’s index of suspicion was low. After the patient asked to be discharged, she travelled to Kampala, Uganda’s capital city, where she tested positive for the virus.",
+      "attachments": [
+        {
+          "url": "https://www.afro.who.int/sites/default/files/styles/teaser_thumbnail_600x600_/public/2026-07/DSC09408.jpg?itok=pKrkRhbs",
           "mime_type": "image/jpeg"
         }
       ],

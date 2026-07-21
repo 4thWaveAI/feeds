@@ -4,13 +4,13 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.atom.xml"/>
   <id>urn:4thwaveai-feeds:videos</id>
-  <updated>Tue, 21 Jul 2026 14:53:19 +0000</updated>
+  <updated>Tue, 21 Jul 2026 20:30:56 +0000</updated>
   <entry>
-    <title>New NASA Earth Missions Gear Up to Start Science Flights   - NASA Science</title>
-    <link href="https://science.nasa.gov/earth/new-nasa-earth-missions-gear-up-to-start-science-flights/"/>
-    <id>https://science.nasa.gov/earth/new-nasa-earth-missions-gear-up-to-start-science-flights/</id>
-    <summary type="text">The first of six new airborne campaigns will hit the skies this summer.</summary>
-    <updated>Mon, 20 Jul 2026 14:25:11 -0400</updated>
+    <title>NASA Langley Celebrates Community through Music with ‘Symphony Under the Stars’ Event  - NASA</title>
+    <link href="https://www.nasa.gov/general/nasa-langley-celebrates-community-through-music-with-symphony-under-the-stars-event/"/>
+    <id>https://www.nasa.gov/general/nasa-langley-celebrates-community-through-music-with-symphony-under-the-stars-event/</id>
+    <summary type="text">NASA Langley’s “Stars, Stripes, and Supernovas – Symphony Under the Stars” event brought employees, families, and community members together for an</summary>
+    <updated>Tue, 21 Jul 2026 14:00:43 -0400</updated>
   </entry>
   <entry>
     <title>At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI</title>
@@ -62,13 +62,6 @@
     <updated>Wed, 15 Jul 2026 10:51:37 +0000</updated>
   </entry>
   <entry>
-    <title>How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/"/>
-    <id>https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/</id>
-    <summary type="text">Coding AI agents are becoming practical operators for long-running machine learning (ML) workflows. They can inspect repositories, set up runtimes, resolve build issues, launch experiments…</summary>
-    <updated>Tue, 14 Jul 2026 16:00:00 +0000</updated>
-  </entry>
-  <entry>
     <title>AI in Indian Education: Atal Innovation Mission and Google launch ATL Saathi</title>
     <link href="https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/"/>
     <id>https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/</id>
@@ -76,25 +69,11 @@
     <updated>Tue, 14 Jul 2026 07:00:00 +0000</updated>
   </entry>
   <entry>
-    <title>GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server</title>
-    <link href="https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/"/>
-    <id>https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/</id>
-    <summary type="text">Plus, tap into ‘NTE: Neverness to Everness’ with a new update, alongside three new games joining the cloud this week.</summary>
-    <updated>Thu, 09 Jul 2026 13:00:55 +0000</updated>
-  </entry>
-  <entry>
     <title>Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance | NVIDIA Technical Blog</title>
     <link href="https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/"/>
     <id>https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/</id>
     <summary type="text">Agentic systems often face a trade-off between accuracy and cost. The highest-performing proprietary frontier models and harnesses provide top accuracy but are expensive. Fine-tuning offers one way to…</summary>
     <updated>Wed, 08 Jul 2026 18:17:59 +0000</updated>
-  </entry>
-  <entry>
-    <title>NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness</title>
-    <link href="https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/"/>
-    <id>https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/</id>
-    <summary type="text">NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform.  LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x […]</summary>
-    <updated>Wed, 08 Jul 2026 15:00:27 +0000</updated>
   </entry>
   <entry>
     <title>SkillOpt turns AI agent skills into trainable assets</title>
@@ -285,7 +264,7 @@
     <title>Road to VR</title>
     <link href="https://www.roadtovr.com/feed/"/>
     <id>https://www.roadtovr.com/feed/</id>
-    <summary type="text">South Korean eyewear brand Gentle Monster is set to launch its first pair of smart glasses this fall, and it’s hoping to make waves with a rash of new physical retail locations across North America and Europe. The News As reported by Maeil Business Newspaper, Gentle Monster is set to dramatically increase its overseas stores […]</summary>
+    <summary type="text">We at Road to VR have been asking ourselves: how do we offer the most value to our readers? That question led to an experiment over the last few months that changed the way we structured each article, with the goal of making them more useful to you. Now, we’d like to hear your thoughts. […]</summary>
   </entry>
   <entry>
     <title>Latest Meta Company News | Meta Newsroom</title>
@@ -392,5 +371,23 @@ Through world-renowned Meetings, peer-reviewed journals, webinars, workshops, ad
     <link href="https://www.bas.ac.uk/news/study-finds-surface-melt-can-strengthen-antarctic-ice-shelves-while-seawater-infiltration-weakens-them/"/>
     <id>https://www.bas.ac.uk/news/study-finds-surface-melt-can-strengthen-antarctic-ice-shelves-while-seawater-infiltration-weakens-them/</id>
     <summary type="text">New research led by British Antarctic Survey provides fresh insights into how cracks and fractures develop in ice and how future sea-level rise may unfold.</summary>
+  </entry>
+  <entry>
+    <title>From Vacuum to Lab: A Student’s Journey Towards Real-World Application  – ASPIRE Research Center</title>
+    <link href="https://aspire.usu.edu/from-vacuum-to-lab-a-students-journey-towards-real-world-application/"/>
+    <id>https://aspire.usu.edu/from-vacuum-to-lab-a-students-journey-towards-real-world-application/</id>
+    <summary type="text">In the classroom, students have the opportunity to learn and practice specific concepts in a controlled situation, sometimes referred to as a vacuum. Yet in the real-world, many concepts and skills must be considered simultaneously to arrive at a solution. Whitney Walpole, a mechanical engineering student at ASPIRE, is discovering what it takes to answer real-world questions.</summary>
+  </entry>
+  <entry>
+    <title>From Student to Alumni: Software Engineer Makes a Real-World Impact at ASPIRE – ASPIRE Research Center</title>
+    <link href="https://aspire.usu.edu/from-student-to-alumni-software-engineer-makes-a-real-world-impact-at-aspire/"/>
+    <id>https://aspire.usu.edu/from-student-to-alumni-software-engineer-makes-a-real-world-impact-at-aspire/</id>
+    <summary type="text">Managing a fleet of electric buses requires tracking not only the buses but also the electric vehicle chargers themselves in order to track overall purchasing and maintenance costs and power loads. With so many moving parts, this can be difficult and time consuming to do. However, Max Ramsdell, a software engineer at ASPIRE, led a team to find a way to make it easier for electric fleets.</summary>
+  </entry>
+  <entry>
+    <title>Prepping the Future Workforce: ASPIRE’s High School Internships – ASPIRE Research Center</title>
+    <link href="https://aspire.usu.edu/prepping-the-future-workforce-aspires-high-school-internships/"/>
+    <id>https://aspire.usu.edu/prepping-the-future-workforce-aspires-high-school-internships/</id>
+    <summary type="text">What should I study? What career do I want to pursue?</summary>
   </entry>
 </feed>

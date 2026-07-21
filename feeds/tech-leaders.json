@@ -5,6 +5,51 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.json",
   "items": [
     {
+      "id": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+      "title": "Introducing Gemini 3.5 Flash Cyber",
+      "content_text": "Google introduces Gemini 3.5 Flash Cyber to help defenders find, validate, and patch software vulnerabilities quickly and efficiently.",
+      "attachments": [
+        {
+          "url": "https://lh3.googleusercontent.com/esSD0-kSrZ8K07XxNkSKL3OGlcx1Cf3M-qiQut0q_vArHMiK2L1CpUIGVkjuQrhu_m0g8UMVflVQpDp7VFAJSubDdCjSXsPJPDeK-PUtaPbqA8W1=w1200-h630-n-nu-rw",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "demis-hassabis"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/vera-rubin/",
+      "url": "https://blogs.nvidia.com/blog/vera-rubin/",
+      "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
+      "content_text": "Backed by 300 global partners, Vera Rubin is ramping up worldwide. NVIDIA partners CoreWeave, Google Cloud, Microsoft Azure and Mistral are among many deploying Vera Rubin, which delivers benchmark leadership on performance per watt and lowest token costs.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/vera-tech-blog-vera-rubin-nvl72-1920x1080-1-1680x945.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
+      "url": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
+      "title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
+      "content_text": "Next-generation NVIDIA Spectrum-X Ethernet connects hundreds of thousands of GPUs with the performance, resilience and efficiency needed for gigascale AI, with AI infrastructure leaders already adopting.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/ethernet-spectrum-x-corp-blog-1920x1080-5205700.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
       "id": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
       "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
       "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
@@ -54,21 +99,6 @@
       ]
     },
     {
-      "id": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
-      "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
-      "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
-      "content_text": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/inline-1784235912807.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "jensen-huang"
-      ]
-    },
-    {
       "id": "https://deepmind.google/blog/our-approach-to-bioresilience/",
       "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
       "title": "Google DeepMind and Isomorphic Labs approach to bioresilience",
@@ -81,21 +111,6 @@
       ],
       "tags": [
         "demis-hassabis"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
-      "url": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
-      "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
-      "content_text": "New NVIDIA Blackwell-powered T3000 and T2000 modules, paired with new NVIDIA Jetson software memory optimization and agent skills, help partners and customers move advanced robotics, visual AI and edge workloads onto compact, power-efficient systems.",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/robotics-jetson-T3000-T2000-jhh-japan-1280x680-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jensen-huang"
       ]
     },
     {
@@ -185,21 +200,6 @@
       "attachments": [
         {
           "url": "https://lh3.googleusercontent.com/YgqOl-h3mEKPbpttnT89PtoHDKTc1-2fbhwRgDauUPtagZVWiw0lr1IGgRUDZDqb9Ib4nhaU93T0mJSE8FFbhkDRiaT53BGLnLVdpqliTP8v5kvmwu8=w1200-h630-n-nu-rw",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "demis-hassabis"
-      ]
-    },
-    {
-      "id": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
-      "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
-      "title": "Gemini’s guided learning: results from a randomized controlled trial in Sierra Leone",
-      "content_text": "Google DeepMind shares results from a randomized controlled trial in Sierra Leone, measuring the impact of AI in education on student learning and engagement.",
-      "attachments": [
-        {
-          "url": "https://lh3.googleusercontent.com/5g2RQPPxqVGuOzfaYj1-8r_6B-Ytp79c9mpWXzBIrk2vUhtxZmA7bMywH41h-8b0EJAdW_K4l7kqHZlfS-QTFk8kFB5MA2bgxZ4hxbuAiOuDIn3ohA=w1200-h630-n-nu-rw",
           "mime_type": "image/jpeg"
         }
       ],
@@ -400,14 +400,14 @@
       ]
     },
     {
-      "id": "https://nvidianews.nvidia.com/news/japans-enterprises-and-startups-build-industry-specialized-ai-with-nvidia-nemotron-open-models",
-      "url": "https://nvidianews.nvidia.com/news/japans-enterprises-and-startups-build-industry-specialized-ai-with-nvidia-nemotron-open-models",
-      "title": "Japan’s Enterprises and Startups Build Industry-Specialized AI With NVIDIA Nemotron Open Models",
-      "content_text": "NVIDIA today announced that leading Japanese enterprises, startups and research institutions are building industry-specialized AI models and applications with NVIDIA Nemotron™ open models, data and libraries, accelerating the development of AI tailored to Japan’s language, industries and workforce.",
+      "id": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "url": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "title": "AI Archives",
+      "content_text": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics....",
       "attachments": [
         {
-          "url": "https://iprsoftwaremedia.com/219/files/202607/c8a6311b98926bc3df93a25ecb1a8164/6a5708423d633247f6bf707d_japan-enterprises-startups-nemotron-open-models/japan-enterprises-startups-nemotron-open-models_5cb86e2d-be05-445a-a4c8-d2f389b9adb5-prv.png?v=5cb86e2d-be05-445a-a4c8-d2f389b9adb5",
-          "mime_type": "image/png"
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/03/nvidia-kv-2026-ari.jpg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -415,10 +415,25 @@
       ]
     },
     {
-      "id": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "url": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "title": "AI Archives",
-      "content_text": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics....",
+      "id": "https://blogs.nvidia.com/blog/category/enterprise/",
+      "url": "https://blogs.nvidia.com/blog/category/enterprise/",
+      "title": "AI Infrastructure Archives",
+      "content_text": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building...",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/03/nvidia-kv-2026-ari.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/enterprise/intelligent-networking/",
+      "url": "https://blogs.nvidia.com/blog/category/enterprise/intelligent-networking/",
+      "title": "Networking Archives",
+      "content_text": "AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier...",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2026/03/nvidia-kv-2026-ari.jpg",
@@ -445,36 +460,6 @@
       ]
     },
     {
-      "id": "https://blogs.nvidia.com/blog/category/robotics/",
-      "url": "https://blogs.nvidia.com/blog/category/robotics/",
-      "title": "Robotics Archives",
-      "content_text": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation...",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/03/nvidia-kv-2026-ari.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jensen-huang"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/category/gaming/",
-      "url": "https://blogs.nvidia.com/blog/category/gaming/",
-      "title": "Gaming Archives",
-      "content_text": "Onimusha: Way of the Sword is coming to GeForce NOW at launch, with the playable demo available this week. It’s joined by Denshattack! rolling in...",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/03/nvidia-kv-2026-ari.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jensen-huang"
-      ]
-    },
-    {
       "id": "https://openai.com/news/rss.xml",
       "url": "https://openai.com/news/rss.xml",
       "title": "<![CDATA[OpenAI News]]>",
@@ -490,7 +475,7 @@
       "content_text": "Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
       "attachments": [
         {
-          "url": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+          "url": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
           "mime_type": "image/png"
         }
       ],
@@ -505,7 +490,7 @@
       "content_text": "Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
       "attachments": [
         {
-          "url": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+          "url": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
           "mime_type": "image/png"
         }
       ],
@@ -520,7 +505,7 @@
       "content_text": "Product Jul 9, 2026",
       "attachments": [
         {
-          "url": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+          "url": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
           "mime_type": "image/png"
         }
       ],
@@ -535,7 +520,7 @@
       "content_text": "Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
       "attachments": [
         {
-          "url": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+          "url": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
           "mime_type": "image/png"
         }
       ],
@@ -550,7 +535,7 @@
       "content_text": "Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
       "attachments": [
         {
-          "url": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+          "url": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
           "mime_type": "image/png"
         }
       ],
@@ -565,7 +550,7 @@
       "content_text": "OpenAI news related to security",
       "attachments": [
         {
-          "url": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+          "url": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
           "mime_type": "image/png"
         }
       ],
@@ -580,7 +565,7 @@
       "content_text": "Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
       "attachments": [
         {
-          "url": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+          "url": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
           "mime_type": "image/png"
         }
       ],
@@ -592,10 +577,10 @@
       "id": "https://openai.com/news/ai-adoption/",
       "url": "https://openai.com/news/ai-adoption/",
       "title": "OpenAI Newsroom | AI Adoption",
-      "content_text": "AI Adoption Jul 14, 2026",
+      "content_text": "AI Adoption Jul 21, 2026",
       "attachments": [
         {
-          "url": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+          "url": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
           "mime_type": "image/png"
         }
       ],
@@ -610,7 +595,7 @@
       "content_text": "Applied AI Jun 23, 2026",
       "attachments": [
         {
-          "url": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+          "url": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
           "mime_type": "image/png"
         }
       ],
@@ -625,7 +610,7 @@
       "content_text": "Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
       "attachments": [
         {
-          "url": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+          "url": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
           "mime_type": "image/png"
         }
       ],
@@ -784,7 +769,7 @@
       "content_text": "The official source for news about Apple, from Apple. Read press releases, get updates, watch video and download images.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202607202327=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202607202325=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -814,7 +799,7 @@
       "content_text": "Discover more stories from Apple Newsroom that showcase the creators, developers, and innovators leaving the world better than they found it.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1784590025777=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1784590218182=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -910,6 +895,21 @@
       "url": "https://about.fb.com/news/tag/well-being/",
       "title": "Youth Well-Being Articles, Resources, & Tools for Parents & Teens | Meta Newsroom",
       "content_text": "Stay informed with the latest youth well-being news and resources from Meta. Including topics on mental health, digital wellness, and teen safety.",
+      "attachments": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "mark-zuckerberg"
+      ]
+    },
+    {
+      "id": "https://about.fb.com/news/category/data-and-privacy/",
+      "url": "https://about.fb.com/news/category/data-and-privacy/",
+      "title": "Data and Privacy News | Meta Newsroom",
+      "content_text": "Data and Privacy News | Meta Newsroom",
       "attachments": [
         {
           "url": "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200",

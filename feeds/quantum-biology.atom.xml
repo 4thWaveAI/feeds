@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/quantum-biology.atom.xml"/>
   <id>urn:4thwaveai-feeds:quantum-biology</id>
-  <updated>Tue, 21 Jul 2026 14:51:22 +0000</updated>
+  <updated>Tue, 21 Jul 2026 20:28:30 +0000</updated>
   <entry>
     <title>2010 TSC Tucson ARIZONA</title>
     <link href="https://consciousness.arizona.edu/news/2010-tsc-tucson-arizona"/>
@@ -263,6 +263,12 @@
     <summary type="text">Here the authors show that the human NIPA2 transporter – a highly conserved member of the Drug Drug/Metabolite Transporter family linked to neurological disease – functions as a nucleotide transporter and may use a distinct translocation mechanism.</summary>
   </entry>
   <entry>
+    <title>Nucleotide flipping correlates with fluorescence activation in the RhoBAST imaging platform - Nature Communications</title>
+    <link href="https://www.nature.com/articles/s41467-026-75573-w"/>
+    <id>https://www.nature.com/articles/s41467-026-75573-w</id>
+    <summary type="text">RhoBAST (Rhodamine Binding Aptamer for Super-resolution Imaging Techniques) is a fluorogenic RNA aptamer and binds to the tetramethylrhodamine (TMR) in the fluorophore-quencher conjugate TMR-dinitroaniline (TMR-DN). Here, the authors determined the free-form structure of RhoBAST, along with its ligand-bound complexes with TMR-DN and related analogs TMR and 5-TAMRA.</summary>
+  </entry>
+  <entry>
     <title>Symmetry-driven gating of TRPM8 by PIP2 and menthol - Nature Communications</title>
     <link href="https://www.nature.com/articles/s41467-026-75793-0"/>
     <id>https://www.nature.com/articles/s41467-026-75793-0</id>
@@ -309,12 +315,6 @@
     <link href="https://www.nature.com/articles/s41467-026-75824-w"/>
     <id>https://www.nature.com/articles/s41467-026-75824-w</id>
     <summary type="text">Phospholipid phosphatases (PLPPs) dephosphorylate lipid phosphates to regulate diverse cellular processes. Here, the authors present the cryoEM structure of PLPP3, providing mechanistic insights into lipid phosphate metabolism and its relevance to melanoma.</summary>
-  </entry>
-  <entry>
-    <title>Mechanism of actin thin filament pointed-end elongation by leiomodin - Nature Communications</title>
-    <link href="https://www.nature.com/articles/s41467-026-74810-6"/>
-    <id>https://www.nature.com/articles/s41467-026-74810-6</id>
-    <summary type="text">Here, cryo-EM structures reveal how two leiomodin molecules cooperate to recruit actin subunits at the pointed end and maintain uniform thin filament length in striated muscle sarcomeres.</summary>
   </entry>
   <entry>
     <title>Transversal fault tolerant distributed quantum computing operations - Nature Communications</title>

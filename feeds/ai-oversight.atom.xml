@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai-oversight.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai-oversight</id>
-  <updated>Tue, 21 Jul 2026 14:52:23 +0000</updated>
+  <updated>Tue, 21 Jul 2026 20:29:27 +0000</updated>
   <entry>
     <title>NIST Receives New Patent for Microbe-Killing Water Heater</title>
     <link href="https://www.nist.gov/news-events/news/2026/07/nist-receives-new-patent-microbe-killing-water-heater"/>
@@ -200,6 +200,12 @@ We think these posts will be useful to readers who are interested in digging int
     <updated>Fri, 18 Oct 2024 15:46:02 +0000</updated>
   </entry>
   <entry>
+    <title>Expenditure Horizon: Measuring Optimization Ability, with an Application to NanoGPT</title>
+    <link href="https://metr.org/blog/2026-07-21-expenditure-horizon/"/>
+    <id>https://metr.org/blog/2026-07-21-expenditure-horizon/</id>
+    <summary type="text">We propose a measure of an AI agent’s optimization ability with an &quot;expenditure horizon.&quot; We give an empirical illustration from the NanoGPT speedrun.</summary>
+  </entry>
+  <entry>
     <title>Because 8 ≈ e², Anthropic&#x27;s researcher uplift is plausibly &gt;2x</title>
     <link href="https://metr.org/notes/2026-07-08-anthropic-researcher-uplift/"/>
     <id>https://metr.org/notes/2026-07-08-anthropic-researcher-uplift/</id>
@@ -252,11 +258,5 @@ We think these posts will be useful to readers who are interested in digging int
     <link href="https://metr.org/notes/2026-04-21-ai-rd-nanogpt-progress/"/>
     <id>https://metr.org/notes/2026-04-21-ai-rd-nanogpt-progress/</id>
     <summary type="text">Classifying human and agent contributions to the NanoGPT speedrun, and what publicly tracked challenges can tell us about AI R&amp;D acceleration.</summary>
-  </entry>
-  <entry>
-    <title>MirrorCode: Evidence that AI can already do some weeks-long coding tasks</title>
-    <link href="https://metr.org/blog/2026-04-10-mirrorcode-preliminary-results/"/>
-    <id>https://metr.org/blog/2026-04-10-mirrorcode-preliminary-results/</id>
-    <summary type="text">Early results from MirrorCode benchmark with METR: AI agents can complete weeks-long coding tasks, including reimplementing a 16,000-line codebase.</summary>
   </entry>
 </feed>

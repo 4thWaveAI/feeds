@@ -4,7 +4,14 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/grid-power-electronics.atom.xml"/>
   <id>urn:4thwaveai-feeds:grid-power-electronics</id>
-  <updated>Tue, 21 Jul 2026 14:43:43 +0000</updated>
+  <updated>Tue, 21 Jul 2026 20:15:23 +0000</updated>
+  <entry>
+    <title>2026 Federal Utility Partnership Working Group (FUPWG) Seminar</title>
+    <link href="https://www.energy.gov/cmei/femp/events/2026-federal-utility-partnership-working-group-fupwg-seminar"/>
+    <id>https://www.energy.gov/cmei/femp/events/2026-federal-utility-partnership-working-group-fupwg-seminar</id>
+    <summary type="text">The Federal Utility Partnership Working Group (FUPWG) Seminar meets to share best practices, success stories, case studies, information about Federal Energy Management Program (FEMP) activities, and other business.</summary>
+    <updated>Thu, 25 Jun 2026 15:14:21 -0400</updated>
+  </entry>
   <entry>
     <title>2026 Electromagnetic Transient (EMT) Simulation Workshop</title>
     <link href="https://www.energy.gov/oe/events/2026-electromagnetic-transient-emt-simulation-workshop"/>
@@ -13,10 +20,40 @@
     <updated>Mon, 08 Jun 2026 13:54:44 -0400</updated>
   </entry>
   <entry>
+    <title>SRP to propose mixed-resource project to its board in September</title>
+    <link href="https://www.utilitydive.com/news/srp-marigold-project-board-energy-storage/825813/"/>
+    <id>https://www.utilitydive.com/news/srp-marigold-project-board-energy-storage/825813/</id>
+    <summary type="text">The Marigold Energy Center, about 45 miles south of Phoenix, would include 400 MW of battery storage, 600 MW of solar generation, up to 675 MW of gas generation and a new substation.</summary>
+  </entry>
+  <entry>
+    <title>CO2 emissions from US power sector rose 4% last year</title>
+    <link href="https://www.utilitydive.com/news/carbon-dioxide-emissions-electric-power-eia/825805/"/>
+    <id>https://www.utilitydive.com/news/carbon-dioxide-emissions-electric-power-eia/825805/</id>
+    <summary type="text">The rise in emissions was linked to increased electricity generation and coal use, the U.S. Energy Information Administration said.</summary>
+  </entry>
+  <entry>
     <title>3 practical steps to ensure the US industrial boom runs on electricity</title>
     <link href="https://www.utilitydive.com/news/americas-next-industrial-boom-runs-electricity/824507/"/>
     <id>https://www.utilitydive.com/news/americas-next-industrial-boom-runs-electricity/824507/</id>
     <summary type="text">Long-term electricity procurement, on-site generation, efficiency and flexibility can give manufacturers more ways to manage their energy bills, writes the World Wildlife Fund’s Cihang Yuan.</summary>
+  </entry>
+  <entry>
+    <title>US data center electricity use could more than double by 2030: report</title>
+    <link href="https://www.utilitydive.com/news/us-data-centers-could-4x-water-use-by-2028-double-electricity-by-2030-khi/825774/"/>
+    <id>https://www.utilitydive.com/news/us-data-centers-could-4x-water-use-by-2028-double-electricity-by-2030-khi/825774/</id>
+    <summary type="text">Policy responses “reflect a tension between furthering state-level economic development interests and balancing local community health and environmental concerns,” the Kansas Health Institute report states.</summary>
+  </entry>
+  <entry>
+    <title>FERC fails to shield PJM consumers from data center transmission costs: ratepayer advocates</title>
+    <link href="https://www.utilitydive.com/news/ferc-data-center-pjm-transmission-costs/825760/"/>
+    <id>https://www.utilitydive.com/news/ferc-data-center-pjm-transmission-costs/825760/</id>
+    <summary type="text">The Federal Energy Regulatory Commission’s large load “show cause” order for the PJM Interconnection fails to address cost allocation of network upgrades, advocates from five states said.</summary>
+  </entry>
+  <entry>
+    <title>$215B in annual energy cost savings starts with heat pumps: ACEEE</title>
+    <link href="https://www.utilitydive.com/news/215b-in-annual-energy-cost-savings-starts-with-heat-pumps-aceee/825794/"/>
+    <id>https://www.utilitydive.com/news/215b-in-annual-energy-cost-savings-starts-with-heat-pumps-aceee/825794/</id>
+    <summary type="text">Building and other electric efficiency measures would reduce growing peak demand by 20% on average through 2050, according to the American Council for an Energy-Efficient Economy.</summary>
   </entry>
   <entry>
     <title>Best Buy adds more solar generation to portfolio</title>
@@ -41,36 +78,6 @@
     <link href="https://www.utilitydive.com/news/ai-data-center-growth-utilities-generation-plans/825541/"/>
     <id>https://www.utilitydive.com/news/ai-data-center-growth-utilities-generation-plans/825541/</id>
     <summary type="text">Data center demand will outpace planned utility capacity additions by more than 100 GW through 2030, increasing reliance on on-site gas generation and battery storage, Bank of America analysts project.</summary>
-  </entry>
-  <entry>
-    <title>PJM capacity auction results compound ‘alarm bells’: FERC Chairman Swett</title>
-    <link href="https://www.utilitydive.com/news/pjm-capacity-auction-governance-ferc-swett/825508/"/>
-    <id>https://www.utilitydive.com/news/pjm-capacity-auction-governance-ferc-swett/825508/</id>
-    <summary type="text">At its monthly meeting, FERC set data center reliability standard deadlines, ordered CAISO and SPP to report on “seams” issues and advanced a complaint over cost recovery for a New Jersey power line.</summary>
-  </entry>
-  <entry>
-    <title>Renewables remain cheapest, but their LCOE is rising: Lazard</title>
-    <link href="https://www.utilitydive.com/news/renewables-remain-cheapest-lcoe-rising-lazard/825443/"/>
-    <id>https://www.utilitydive.com/news/renewables-remain-cheapest-lcoe-rising-lazard/825443/</id>
-    <summary type="text">Utility-scale solar’s levelized cost of electricity ranges between $40/MWh and $98/MWh, while combined cycle gas ranges between $51/MWh and $129/MWh, said a report from Lazard.</summary>
-  </entry>
-  <entry>
-    <title>Google inks deal for massive Arkansas solar and storage project</title>
-    <link href="https://www.utilitydive.com/news/google-inks-deal-for-massive-arkansas-solar-and-storage-project/825432/"/>
-    <id>https://www.utilitydive.com/news/google-inks-deal-for-massive-arkansas-solar-and-storage-project/825432/</id>
-    <summary type="text">With a target completion date of 2029, the project is expected to deliver 2.5 GW of generation and 2.9 GWh of battery storage to the regional grid, the tech giant said.</summary>
-  </entry>
-  <entry>
-    <title>What data center developers need to know about FERC’s large load directives</title>
-    <link href="https://www.utilitydive.com/news/data-center-interconnection-ferc-large-load-show-cause/824501/"/>
-    <id>https://www.utilitydive.com/news/data-center-interconnection-ferc-large-load-show-cause/824501/</id>
-    <summary type="text">The June 18 show cause orders finally take aim at the load interconnection mess. But the customers who get power faster will be the ones who show up ready to flex, writes Shalin Savalia, a senior electrical engineer.</summary>
-  </entry>
-  <entry>
-    <title>Indiana regulators investigate utility ROEs, ‘trackers’ in affordability review</title>
-    <link href="https://www.utilitydive.com/news/indiana-urc-affordability-utility-roe-tracker/825409/"/>
-    <id>https://www.utilitydive.com/news/indiana-urc-affordability-utility-roe-tracker/825409/</id>
-    <summary type="text">AES, American Electric Power, CenterPoint Energy, Duke Energy and NiSource could be affected under a “more consumer-oriented utility commission policy,” Paul Patterson, a Glenrock Associates equity analyst, told Utility Dive.</summary>
   </entry>
   <entry>
     <title>Home Page</title>

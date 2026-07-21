@@ -335,6 +335,21 @@
       ]
     },
     {
+      "id": "https://metr.org/blog/2026-07-21-expenditure-horizon/",
+      "url": "https://metr.org/blog/2026-07-21-expenditure-horizon/",
+      "title": "Expenditure Horizon: Measuring Optimization Ability, with an Application to NanoGPT",
+      "content_text": "We propose a measure of an AI agent’s optimization ability with an \"expenditure horizon.\" We give an empirical illustration from the NanoGPT speedrun.",
+      "attachments": [
+        {
+          "url": "https://metr.org/assets/images/expenditure-horizon/eh-schematic-up.svg",
+          "mime_type": "image/svg+xml"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
       "id": "https://metr.org/notes/2026-07-08-anthropic-researcher-uplift/",
       "url": "https://metr.org/notes/2026-07-08-anthropic-researcher-uplift/",
       "title": "Because 8 ≈ e², Anthropic's researcher uplift is plausibly >2x",
@@ -462,21 +477,6 @@
       "attachments": [
         {
           "url": "https://metr.org/assets/images/ai-rd-nanogpt-progress/timeline_provenance.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai-oversight"
-      ]
-    },
-    {
-      "id": "https://metr.org/blog/2026-04-10-mirrorcode-preliminary-results/",
-      "url": "https://metr.org/blog/2026-04-10-mirrorcode-preliminary-results/",
-      "title": "MirrorCode: Evidence that AI can already do some weeks-long coding tasks",
-      "content_text": "Early results from MirrorCode benchmark with METR: AI agents can complete weeks-long coding tasks, including reimplementing a 16,000-line codebase.",
-      "attachments": [
-        {
-          "url": "https://metr.org/assets/images/blog_thumbnails/mirrorcode_thumbnail.png",
           "mime_type": "image/png"
         }
       ],

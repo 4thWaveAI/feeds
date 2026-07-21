@@ -5,6 +5,51 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/human_effect.json",
   "items": [
     {
+      "id": "https://www.pewresearch.org/short-reads/2026/07/21/what-do-people-in-middle-income-countries-think-about-cuts-to-us-humanitarian-aid/",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/21/what-do-people-in-middle-income-countries-think-about-cuts-to-us-humanitarian-aid/",
+      "title": "What do people in middle-income countries think about cuts to U.S. humanitarian aid?",
+      "content_text": "In 16 middle-income countries surveyed, many people are unsure how U.S. humanitarian aid cuts will affect them, though those with opinions lean negative.",
+      "attachments": [
+        {
+          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/SR_26.07.21_foriegn-aid-survey_featured.png?w=1200&h=628&crop=1",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.pewresearch.org/short-reads/2026/07/21/us-foreign-aid-is-plunging-in-second-trump-administration/",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/21/us-foreign-aid-is-plunging-in-second-trump-administration/",
+      "title": "U.S. foreign aid is plunging in second Trump administration",
+      "content_text": "U.S. foreign aid fell to its lowest inflation-adjusted level in over two decades in fiscal 2025, dropping to $47.3 billion — more than $24 billion less than the prior year.",
+      "attachments": [
+        {
+          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/SR_26.07.21_foreign-aid_featured.jpg?w=1200&h=628&crop=1",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/ai-agent-benchmark",
+      "url": "https://spectrum.ieee.org/ai-agent-benchmark",
+      "title": "Why AI Needs a \"Genie Coefficient\"",
+      "content_text": "Proposing a new metric for whether AI does what you actually want",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/cartoon-digital-genie-emerging-from-a-smartphone-towering-over-a-surprised-user.png?id=67508222&width=1200&height=600&coordinates=0%2C166%2C0%2C167",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://spectrum.ieee.org/ieee-program-girls-india-stem",
       "url": "https://spectrum.ieee.org/ieee-program-girls-india-stem",
       "title": "IEEE Program Helps Girls In India See a Future In STEM",
@@ -170,36 +215,6 @@
       ]
     },
     {
-      "id": "https://www.pewresearch.org/journalism/2026/07/16/engagement-in-public-life-is-linked-with-americans-views-of-politics-news/",
-      "url": "https://www.pewresearch.org/journalism/2026/07/16/engagement-in-public-life-is-linked-with-americans-views-of-politics-news/",
-      "title": "Engagement in public life is linked with Americans’ views of politics, news",
-      "content_text": "Americans who participate more in public life are more interested in politics – and more likely to have positive feelings about the state of their local communities.",
-      "attachments": [
-        {
-          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/PJ_26.07.16_engagement_featured.png?w=1200&h=628&crop=1",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.pewresearch.org/journalism/2026/07/16/highly-engaged-americans-know-more-about-politics/",
-      "url": "https://www.pewresearch.org/journalism/2026/07/16/highly-engaged-americans-know-more-about-politics/",
-      "title": "Highly engaged Americans know more about politics",
-      "content_text": "People who are highly engaged in public life are more likely than those who are less engaged to correctly answer several factual questions about politics.",
-      "attachments": [
-        {
-          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/PJ_26.07.16_engagement_featured.png?w=1200&h=628&crop=1",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
       "id": "https://spectrum.ieee.org/fishery-satellite-surveillance",
       "url": "https://spectrum.ieee.org/fishery-satellite-surveillance",
       "title": "Why Indonesia’s Fisheries Future Hinges On Data Integrity and Trust",
@@ -298,21 +313,6 @@
         {
           "url": "https://spectrum.ieee.org/media-library/glossy-red-robot-devil-standing-on-a-bundle-of-dynamite-against-blue-glow-background.png?id=67163741&width=1200&height=600&coordinates=0%2C750%2C0%2C750",
           "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/panasonic-camcorder-ieee-milstone",
-      "url": "https://spectrum.ieee.org/panasonic-camcorder-ieee-milstone",
-      "title": "Panasonic’s PV-460 Camcorder Stabilized Shaky Videos",
-      "content_text": "Its “anti-jitter” tech is in all modern cameras",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/a-panasonic-pv-460-vhs-camcorder.jpg?id=67124801&width=1200&height=600&coordinates=0%2C250%2C0%2C250",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [

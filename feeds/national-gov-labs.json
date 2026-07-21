@@ -155,6 +155,21 @@
       ]
     },
     {
+      "id": "https://www.nsf.gov/news/podcast-new-treatment-fight-deadliest-cancer",
+      "url": "https://www.nsf.gov/news/podcast-new-treatment-fight-deadliest-cancer",
+      "title": "Podcast: New treatment to fight deadliest cancer",
+      "content_text": "U.S. National Science Foundation-supported professor Neil Forbes discusses how the bacteria salmonella can be modified for treatment against some of the deadliest cancers...",
+      "attachments": [
+        {
+          "url": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media/images/DFPod_GraphicForNSFNews_NewApproachToCancerTreatment_240x160.jpg?itok=iAz0lZDK",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "national-gov-labs"
+      ]
+    },
+    {
       "id": "https://www.nsf.gov/news/podcast-new-security-communications-materials",
       "url": "https://www.nsf.gov/news/podcast-new-security-communications-materials",
       "title": "Podcast: New security and communications materials",
@@ -282,21 +297,6 @@
       "attachments": [
         {
           "url": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/NSF_NQVL_hero%202026.png?itok=zBBhkIw8",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "national-gov-labs"
-      ]
-    },
-    {
-      "id": "https://www.nsf.gov/news/nsf-statement-executive-order-ushering-next-frontier-quantum",
-      "url": "https://www.nsf.gov/news/nsf-statement-executive-order-ushering-next-frontier-quantum",
-      "title": "NSF statement on Executive Order: Ushering in the Next Frontier of Quantum Innovation",
-      "content_text": "The U.S. National Science Foundation supports the Administration’s commitment to securing American leadership in quantum information science and technology. This executive order reflects a clear-eyed…",
-      "attachments": [
-        {
-          "url": "https://www.nsf.gov/themes/custom/nsf_theme/logo-200x200.png",
           "mime_type": "image/png"
         }
       ],
