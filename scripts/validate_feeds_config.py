@@ -12,7 +12,8 @@ import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG = ROOT / "feeds.yaml"
-AREA_SLUG = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
+# Hyphens are preferred. Underscores remain valid for legacy public feed URLs.
+AREA_SLUG = re.compile(r"^[a-z0-9]+(?:[-_][a-z0-9]+)*$")
 
 
 def is_http_url(value: object) -> bool:
@@ -63,6 +64,10 @@ def main() -> int:
         for area_name, sources in areas.items():
             if not isinstance(area_name, str) or not AREA_SLUG.fullmatch(area_name):
                 errors.append(f"invalid area slug: {area_name!r}")
+            elif "_" in area_name:
+                warnings.append(
+                    f"[{area_name}] uses a legacy underscore; preserve it until a redirect-backed migration is planned"
+                )
 
             if not isinstance(sources, list):
                 errors.append(f"[{area_name}] must be a list of source mappings")
