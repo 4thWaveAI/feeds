@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
+      "id": "https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/",
+      "url": "https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/",
+      "title": "Why Maine's Sandy Shorelines Turn Jagged - NASA Science",
+      "content_text": "Differences in the underlying bedrock and how rivers distribute sediment make the coastlines west of Portland look unlike those northeast of the city.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/why-maine's-sandy-shorelines-turn-jagged/mainecoast_oli2_20250831_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
       "id": "https://esports.gg/news/overwatch/new-overwatch-lucio-skin-enters-heroes-of-the-storm/",
       "url": "https://esports.gg/news/overwatch/new-overwatch-lucio-skin-enters-heroes-of-the-storm/",
       "title": "New Overwatch Lucio skin enters Heroes of the Storm!",
@@ -905,21 +920,6 @@
       ],
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2026-07-graphene-nanoribbons-survive-gamma-revealing.html",
-      "url": "https://phys.org/news/2026-07-graphene-nanoribbons-survive-gamma-revealing.html",
-      "title": "Graphene nanoribbons survive gamma radiation, revealing potential sensors for fusion reactors",
-      "content_text": "University of Arizona researchers have demonstrated a promising new application for graphene nanoribbons, a nanoscale semiconductor material with the potential to withstand extreme environments. The team's findings could help clear a key hurdle to bringing fusion energy to the electric grid.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2026/quantum-materials-disc.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
       ]
     }
   ]

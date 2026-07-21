@@ -4,7 +4,14 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Tue, 21 Jul 2026 03:09:08 +0000</updated>
+  <updated>Tue, 21 Jul 2026 04:15:39 +0000</updated>
+  <entry>
+    <title>Why Maine&#x27;s Sandy Shorelines Turn Jagged - NASA Science</title>
+    <link href="https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/"/>
+    <id>https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/</id>
+    <summary type="text">Differences in the underlying bedrock and how rivers distribute sediment make the coastlines west of Portland look unlike those northeast of the city.</summary>
+    <updated>Tue, 21 Jul 2026 00:00:00 -0400</updated>
+  </entry>
   <entry>
     <title>New Overwatch Lucio skin enters Heroes of the Storm!</title>
     <link href="https://esports.gg/news/overwatch/new-overwatch-lucio-skin-enters-heroes-of-the-storm/"/>
@@ -417,12 +424,5 @@
     <id>https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem/</id>
     <summary type="text">Capcom’s RE ENGINE team set out to bring path tracing into two shipping titles at once, Resident Evil Requiem and PRAGMATA, each with a different visual identity. Over two years, the RE ENGINE team…</summary>
     <updated>Thu, 16 Jul 2026 22:59:09 +0000</updated>
-  </entry>
-  <entry>
-    <title>Graphene nanoribbons survive gamma radiation, revealing potential sensors for fusion reactors</title>
-    <link href="https://phys.org/news/2026-07-graphene-nanoribbons-survive-gamma-revealing.html"/>
-    <id>https://phys.org/news/2026-07-graphene-nanoribbons-survive-gamma-revealing.html</id>
-    <summary type="text">University of Arizona researchers have demonstrated a promising new application for graphene nanoribbons, a nanoscale semiconductor material with the potential to withstand extreme environments. The team&#x27;s findings could help clear a key hurdle to bringing fusion energy to the electric grid.</summary>
-    <updated>Thu, 16 Jul 2026 16:23:15 -0400</updated>
   </entry>
 </feed>
