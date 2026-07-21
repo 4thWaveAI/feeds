@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/biotech.json",
   "items": [
     {
+      "id": "https://www.broadinstitute.org/news/broad-institute-boston-childrens-hospital-and-jackson-laboratory-launch-center-therapeutic",
+      "url": "https://www.broadinstitute.org/news/broad-institute-boston-childrens-hospital-and-jackson-laboratory-launch-center-therapeutic",
+      "title": "Broad Institute, Boston Children’s Hospital, and The Jackson Laboratory launch the Center for Therapeutic Genetics, a non-profit effort to develop genetic medicines for rare and ultra-rare diseases",
+      "content_text": "The new collaboration aims to develop precision medicines, including base and prime editing, to treat patients with rare diseases, using infrastructure and repeatable practices the center will share with others. div.hero-section__author { display:none;}",
+      "attachments": [
+        {
+          "url": "https://www.broadinstitute.org/files/longstory/News_CTG-logo-collage_main-ext_071526_v2.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "biotech"
+      ]
+    },
+    {
       "id": "https://www.embl.org/news/science-technology/scientists-map-how-the-flu-virus-rewires-the-human-cell-from-the-inside/",
       "url": "https://www.embl.org/news/science-technology/scientists-map-how-the-flu-virus-rewires-the-human-cell-from-the-inside/",
       "title": "Scientists map how the flu virus rewires the human cell from the inside | EMBL",
@@ -186,21 +201,6 @@
         {
           "url": "https://www.youtube.com/embed/8BNmp_BDZng",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "biotech"
-      ]
-    },
-    {
-      "id": "https://www.broadinstitute.org/news/scientists-improve-nearly-every-aspect-prime-editing-moving-it-closer-treating-more-genetic",
-      "url": "https://www.broadinstitute.org/news/scientists-improve-nearly-every-aspect-prime-editing-moving-it-closer-treating-more-genetic",
-      "title": "Scientists improve nearly every aspect of prime editing, moving it closer to treating more genetic diseases",
-      "content_text": "The advances in editing efficiency and delivery are important steps toward in vivo therapeutic prime editing.",
-      "attachments": [
-        {
-          "url": "https://www.broadinstitute.org/files/longstory/News_Liu-story_ext-main_061026_v1%20%281%29.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -568,10 +568,10 @@
       ]
     },
     {
-      "id": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kits-issue-medline",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kits-issue-medline",
-      "title": "Convenience Kits Issue from Medline",
-      "content_text": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
+      "id": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-medical-action-industries",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-medical-action-industries",
+      "title": "Convenience Kit Issue from Medical Action Industries",
+      "content_text": "Particulates have the potential to be introduced into blood circulation and become lodged within blood vessels.",
       "attachments": [
         {
           "url": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",

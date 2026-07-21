@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/standards-bodies.atom.xml"/>
   <id>urn:4thwaveai-feeds:standards-bodies</id>
-  <updated>Tue, 21 Jul 2026 09:00:53 +0000</updated>
+  <updated>Tue, 21 Jul 2026 14:42:38 +0000</updated>
   <entry>
     <title>ETSI Mission Critical 10th Plugtests Report Unveiled - ETSI</title>
     <link href="https://www.etsi.org/newsroom/news/etsi-mission-critical-10th-plugtests-report-unveiled/"/>
@@ -227,6 +227,12 @@
     <summary type="text">After a number of years of work, the initial rollout of a modern suite of tools for editing and publishing RFCs, including an entirely new rfc-editor.org website, will take place in May 2026.</summary>
   </entry>
   <entry>
+    <title>W3C Invites Implementations of EPUB 3.4, EPUB Reading Systems 3.4 and EPUB Accessibility 1.2</title>
+    <link href="https://www.w3.org/news/2026/w3c-invites-implementations-of-epub-3-4-epub-reading-systems-3-4-and-epub-accessibility-1-2/"/>
+    <id>https://www.w3.org/news/2026/w3c-invites-implementations-of-epub-3-4-epub-reading-systems-3-4-and-epub-accessibility-1-2/</id>
+    <summary type="text">EPUB® 3 defines a distribution and interchange format for digital publications and documents. The EPUB format provides a means of representing, packaging, and encoding structured and semantically enhanced web content — including HTML, CSS, SVG, and other resources — for distribution in a single-file container.</summary>
+  </entry>
+  <entry>
     <title>Proposed Advancement of Web Authentication: An API for accessing Public Key Credentials Level 3 to W3C Recommendation</title>
     <link href="https://www.w3.org/news/2026/proposed-advancement-of-webauthn-3-to-w3c-recommendation/"/>
     <id>https://www.w3.org/news/2026/proposed-advancement-of-webauthn-3-to-w3c-recommendation/</id>
@@ -279,12 +285,6 @@
     <link href="https://www.w3.org/news/2026/group-note-draft-w3c-standards-vulnerability-disclosure-handling-process-and-policy/"/>
     <id>https://www.w3.org/news/2026/group-note-draft-w3c-standards-vulnerability-disclosure-handling-process-and-policy/</id>
     <summary type="text">This document defines how to report suspected security vulnerabilities in W3C standards and specifications (technical reports), so that issues can be triaged, confirmed, and resolved through the appropriate W3C processes.</summary>
-  </entry>
-  <entry>
-    <title>First Public Working Draft: Verifiable Credential Forgery Defense v1.0</title>
-    <link href="https://www.w3.org/news/2026/first-public-working-draft-verifiable-credential-forgery-defense-v1-0/"/>
-    <id>https://www.w3.org/news/2026/first-public-working-draft-verifiable-credential-forgery-defense-v1-0/</id>
-    <summary type="text">This specification describes a mechanism for issuers of verifiable credentials to publish indexed lists of compact cryptographic witnesses.</summary>
   </entry>
   <entry>
     <title>News</title>

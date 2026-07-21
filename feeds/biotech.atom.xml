@@ -4,7 +4,14 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/biotech.atom.xml"/>
   <id>urn:4thwaveai-feeds:biotech</id>
-  <updated>Tue, 21 Jul 2026 08:51:26 +0000</updated>
+  <updated>Tue, 21 Jul 2026 14:30:06 +0000</updated>
+  <entry>
+    <title>Broad Institute, Boston Children’s Hospital, and The Jackson Laboratory launch the Center for Therapeutic Genetics, a non-profit effort to develop genetic medicines for rare and ultra-rare diseases</title>
+    <link href="https://www.broadinstitute.org/news/broad-institute-boston-childrens-hospital-and-jackson-laboratory-launch-center-therapeutic"/>
+    <id>https://www.broadinstitute.org/news/broad-institute-boston-childrens-hospital-and-jackson-laboratory-launch-center-therapeutic</id>
+    <summary type="text">The new collaboration aims to develop precision medicines, including base and prime editing, to treat patients with rare diseases, using infrastructure and repeatable practices the center will share with others. div.hero-section__author { display:none;}</summary>
+    <updated>Tue, 21 Jul 2026 08:00:33 -0400</updated>
+  </entry>
   <entry>
     <title>Scientists map how the flu virus rewires the human cell from the inside | EMBL</title>
     <link href="https://www.embl.org/news/science-technology/scientists-map-how-the-flu-virus-rewires-the-human-cell-from-the-inside/"/>
@@ -88,13 +95,6 @@
     <id>https://www.embl.org/news/science-technology/easygrid-towards-better-automation-in-cryo-electron-microscopy/</id>
     <summary type="text">EMBL Grenoble scientists have developed EasyGrid and EasyGrid Control, unique instruments that automate advanced microscopy sample preparation and quality control</summary>
     <updated>Tue, 23 Jun 2026 12:39:38 +0000</updated>
-  </entry>
-  <entry>
-    <title>Scientists improve nearly every aspect of prime editing, moving it closer to treating more genetic diseases</title>
-    <link href="https://www.broadinstitute.org/news/scientists-improve-nearly-every-aspect-prime-editing-moving-it-closer-treating-more-genetic"/>
-    <id>https://www.broadinstitute.org/news/scientists-improve-nearly-every-aspect-prime-editing-moving-it-closer-treating-more-genetic</id>
-    <summary type="text">The advances in editing efficiency and delivery are important steps toward in vivo therapeutic prime editing.</summary>
-    <updated>Mon, 15 Jun 2026 05:00:00 -0400</updated>
   </entry>
   <entry>
     <title>New study suggests a way to rejuvenate the immune system</title>
@@ -246,10 +246,10 @@
     <summary type="text">The distal tip in certain lots of the Medtronic Harmony Delivery Catheter System (DCS) may detach which can require endovascular retrieval or surgical intervent</summary>
   </entry>
   <entry>
-    <title>Convenience Kits Issue from Medline</title>
-    <link href="http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kits-issue-medline"/>
-    <id>http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kits-issue-medline</id>
-    <summary type="text">Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.</summary>
+    <title>Convenience Kit Issue from Medical Action Industries</title>
+    <link href="http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-medical-action-industries"/>
+    <id>http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-medical-action-industries</id>
+    <summary type="text">Particulates have the potential to be introduced into blood circulation and become lodged within blood vessels.</summary>
   </entry>
   <entry>
     <title>New Alzheimer’s blood test may tell when symptoms are around the corner</title>

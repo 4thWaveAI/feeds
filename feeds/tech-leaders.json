@@ -233,7 +233,7 @@
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://www.youtube.com/embed/X21JsHLHnY8?enablejsapi=1",
+          "url": "https://www.youtube.com/embed/lBnfz93v27Q?enablejsapi=1",
           "mime_type": "video/mp4"
         }
       ],
@@ -244,7 +244,7 @@
     {
       "id": "https://www.aboutamazon.com/news/company-news/amazon-news-today-top-stories-company",
       "url": "https://www.aboutamazon.com/news/company-news/amazon-news-today-top-stories-company",
-      "title": "What you need to know about Amazon today: July 20, 2026",
+      "title": "What you need to know about Amazon today: July 21, 2026",
       "content_text": "Here are the latest headlines from Amazon News.",
       "attachments": [
         {
@@ -291,21 +291,6 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/entertainment/stream-nba-prime-video",
-      "url": "https://www.aboutamazon.com/news/entertainment/stream-nba-prime-video",
-      "title": "How to watch the NBA Summer League on Prime Video",
-      "content_text": "Prime Video will stream the NBA SoFI Play-In Tournament, as well select games from the first two rounds.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/e856a8d/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fb4%2F5d%2F15638b284498b6ee18465644034f%2Fnba-summer-hero-amazon-news-lt-071526.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
       "id": "https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/",
       "url": "https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/",
       "title": "AlphaEarth Foundations helps map our planet in unprecedented detail",
@@ -344,6 +329,25 @@
         {
           "url": "https://assets.aboutamazon.com/dims4/default/102c8e1/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F9c%2F6c%2F26a25c5643c0b0867d2b3a1c7ef8%2Fwnba-2026-schedule-update-hero.jpg",
           "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/company-news/what-is-amazon-business",
+      "url": "https://www.aboutamazon.com/news/company-news/what-is-amazon-business",
+      "title": "Everything you need to know about Amazon Business and how it helps 11 million organizations save time and money",
+      "content_text": "Amazon Business drives over $60 billion in annualized gross sales, helping more than 11 million organizations worldwide simplify business buying. Here's what it is and how it works.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/eb7fa64/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ffc%2F64%2Feeadb2c24a4e899970723ce55e98%2Famazon-business-still.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/Yl0wwa1Tzo4?enablejsapi=1",
+          "mime_type": "video/mp4"
         }
       ],
       "tags": [
@@ -780,7 +784,7 @@
       "content_text": "The official source for news about Apple, from Apple. Read press releases, get updates, watch video and download images.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202607210140=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202607202327=",
           "mime_type": "image/jpeg"
         }
       ],

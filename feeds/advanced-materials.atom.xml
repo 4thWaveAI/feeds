@@ -4,13 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/advanced-materials.atom.xml"/>
   <id>urn:4thwaveai-feeds:advanced-materials</id>
-  <updated>Tue, 21 Jul 2026 08:58:26 +0000</updated>
-  <entry>
-    <title>Call for Abstracts</title>
-    <link href="https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting/call-for-abstracts"/>
-    <id>https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting/call-for-abstracts</id>
-    <summary type="text">Links to the Call for Papers, Program, and Tutorial Sessions for each symposium planned</summary>
-  </entry>
+  <updated>Tue, 21 Jul 2026 14:40:14 +0000</updated>
   <entry>
     <title>2026 MRS Fall Meeting &amp;amp; Exhibit</title>
     <link href="https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting"/>
@@ -61,6 +55,12 @@ Through world-renowned Meetings, peer-reviewed journals, webinars, workshops, ad
     <title>MRS TV</title>
     <link href="https://www.mrs.org/publications-digital-content/news/mrs-tv"/>
     <id>https://www.mrs.org/publications-digital-content/news/mrs-tv</id>
+    <summary type="text">Welcome</summary>
+  </entry>
+  <entry>
+    <title>Press Room | Materials Research Society</title>
+    <link href="https://www.mrs.org/publications-digital-content/news/press-room"/>
+    <id>https://www.mrs.org/publications-digital-content/news/press-room</id>
     <summary type="text">Welcome</summary>
   </entry>
 </feed>

@@ -5,15 +5,6 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/advanced-materials.json",
   "items": [
     {
-      "id": "https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting/call-for-abstracts",
-      "url": "https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting/call-for-abstracts",
-      "title": "Call for Abstracts",
-      "content_text": "Links to the Call for Papers, Program, and Tutorial Sessions for each symposium planned",
-      "tags": [
-        "advanced-materials"
-      ]
-    },
-    {
       "id": "https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting",
       "url": "https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting",
       "title": "2026 MRS Fall Meeting &amp; Exhibit",
@@ -114,6 +105,15 @@
       "id": "https://www.mrs.org/publications-digital-content/news/mrs-tv",
       "url": "https://www.mrs.org/publications-digital-content/news/mrs-tv",
       "title": "MRS TV",
+      "content_text": "Welcome",
+      "tags": [
+        "advanced-materials"
+      ]
+    },
+    {
+      "id": "https://www.mrs.org/publications-digital-content/news/press-room",
+      "url": "https://www.mrs.org/publications-digital-content/news/press-room",
+      "title": "Press Room | Materials Research Society",
       "content_text": "Welcome",
       "tags": [
         "advanced-materials"

@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/programmable-finance.json",
   "items": [
     {
+      "id": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721_1~8c6ba4c5fb.en.html",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721_1~8c6ba4c5fb.en.html",
+      "title": "ECB appoints Boris Kisselevsky as Director General Secretariat",
+      "content_text": "Our monetary policy strategy, the tools we use and the impact they have",
+      "attachments": [
+        {
+          "url": "https://www.ecb.europa.eu/press/shared/img/socialmedia/social-default.jpg?0ef1632c35edede913681bb76af694a4=",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "programmable-finance"
+      ]
+    },
+    {
       "id": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html",
       "title": "July 2026 euro area bank lending survey",
@@ -192,21 +207,6 @@
       "attachments": [
         {
           "url": "https://www.ecb.europa.eu/press/shared/img/socialmedia/social-default.jpg?0ef1632c35edede913681bb76af694a4=",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "programmable-finance"
-      ]
-    },
-    {
-      "id": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260702~c56db179c3.en.html",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260702~c56db179c3.en.html",
-      "title": "Interview with Les Échos",
-      "content_text": "Our monetary policy strategy, the tools we use and the impact they have",
-      "attachments": [
-        {
-          "url": "https://www.ecb.europa.eu/press/inter/shared/img/socialmedia/social-default.jpg?58a9573de993c82d3c9e0b84d422b52a=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -764,6 +764,21 @@
       ]
     },
     {
+      "id": "https://www.bankofengland.co.uk/speech/2026/july/nathanael-benjamin-speech-at-omfif",
+      "url": "https://www.bankofengland.co.uk/speech/2026/july/nathanael-benjamin-speech-at-omfif",
+      "title": "It’s all about the role of money - speech by Nathanaël Benjamin",
+      "content_text": "Given at OMFIF Economic and Monetary Policy Institute",
+      "attachments": [
+        {
+          "url": "https://www.bankofengland.co.uk/-/media/boe/images/logo/boe-default",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "programmable-finance"
+      ]
+    },
+    {
       "id": "https://www.bankofengland.co.uk/speech/2026/july/david-bailey-speech-at-the-international-finance-and-banking-society-conference",
       "url": "https://www.bankofengland.co.uk/speech/2026/july/david-bailey-speech-at-the-international-finance-and-banking-society-conference",
       "title": "The role of research in Prudential Regulation − speech by David Bailey",
@@ -873,21 +888,6 @@
       "url": "https://www.bankofengland.co.uk/speech/2026/june/alan-taylor-speech-at-the-barclays-and-centre-for-economic-policy-research",
       "title": "Central reservations − speech by Alan Taylor",
       "content_text": "Given at the Barclays-CEPR Monetary Policy Forum, London",
-      "attachments": [
-        {
-          "url": "https://www.bankofengland.co.uk/-/media/boe/images/logo/boe-default",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "programmable-finance"
-      ]
-    },
-    {
-      "id": "https://www.bankofengland.co.uk/speech/2026/june/shoib-khan-speech-at-the-airmic-annual-conference-2026",
-      "url": "https://www.bankofengland.co.uk/speech/2026/june/shoib-khan-speech-at-the-airmic-annual-conference-2026",
-      "title": "It’s Coming Home − speech by Shoib Khan",
-      "content_text": "Given at Airmic Annual Conference 2026",
       "attachments": [
         {
           "url": "https://www.bankofengland.co.uk/-/media/boe/images/logo/boe-default",

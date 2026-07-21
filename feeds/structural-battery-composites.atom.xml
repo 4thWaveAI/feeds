@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/structural-battery-composites.atom.xml"/>
   <id>urn:4thwaveai-feeds:structural-battery-composites</id>
-  <updated>Tue, 21 Jul 2026 08:53:32 +0000</updated>
+  <updated>Tue, 21 Jul 2026 14:32:03 +0000</updated>
   <entry>
     <title>The biggest problem with solid-state batteries may finally be solved</title>
     <link href="https://www.sciencedaily.com/releases/2026/07/260710003533.htm"/>
@@ -66,6 +66,12 @@
     <summary type="text">Scientists have developed a fuel cell that uses microbes in soil to produce electricity. The device can power underground sensors for tasks like monitoring moisture or detecting touch, without needing batteries or solar panels. It works in both dry and wet conditions and even lasts longer than similar technologies. This could pave the way for sustainable, low-maintenance sensors in farming and environmental monitoring.</summary>
   </entry>
   <entry>
+    <title>Electron orbitals choose a direction - Nature Physics</title>
+    <link href="https://www.nature.com/articles/s41567-026-03358-5"/>
+    <id>https://www.nature.com/articles/s41567-026-03358-5</id>
+    <summary type="text">Orbital order is difficult to isolate because it often intertwines with lattice and magnetic transitions. Now, a study on an intermetallic compound reveals a surface 5d-orbital order through its electronic band structure and real-space fingerprints.</summary>
+  </entry>
+  <entry>
     <title>Sensing before drinking - Nature Water</title>
     <link href="https://www.nature.com/articles/s44221-026-00673-2"/>
     <id>https://www.nature.com/articles/s44221-026-00673-2</id>
@@ -76,12 +82,6 @@
     <link href="https://www.nature.com/articles/s41560-026-02044-3"/>
     <id>https://www.nature.com/articles/s41560-026-02044-3</id>
     <summary type="text">Stack pressure strongly influences degradation pathways in lithium-ion batteries, yet its optimal value remains poorly understood. Now, a high-precision stack pressure control and dilatometry system reveals an optimal pressure window that suppresses key degradation pathways and doubles battery lifetime.</summary>
-  </entry>
-  <entry>
-    <title>Fast lithium-ion transport in polymer electrolytes with rigid polyanions - Nature Nanotechnology</title>
-    <link href="https://www.nature.com/articles/s41565-026-02229-7"/>
-    <id>https://www.nature.com/articles/s41565-026-02229-7</id>
-    <summary type="text">The ion transport in polymer electrolytes requires a multi-scale and quantified analysis. An integrated methodology combining solid-state exchange nuclear magnetic resonance (NMR) and Markov chain analysis enables contribution analysis of distinct lithium-ion pathways in composite polymer electrolytes based on rigid polyanions, revealing fast and synergistic ion transport mechanisms.</summary>
   </entry>
   <entry>
     <title>On the nature of chemical short-range order evolution - Nature Communications</title>
@@ -102,15 +102,15 @@
     <summary type="text">Scientific Reports ( 2026 ) Cite this article</summary>
   </entry>
   <entry>
-    <title>Fluorescence characteristics and bioimaging application of carbon dots extracted from sugar mill flue gas - Scientific Reports</title>
-    <link href="https://www.nature.com/articles/s41598-026-63274-9"/>
-    <id>https://www.nature.com/articles/s41598-026-63274-9</id>
+    <title>Performance evaluation and optimization of powder mixed EDM of Inconel 718 using composite electrodes and the VIKOR method - Scientific Reports</title>
+    <link href="https://www.nature.com/articles/s41598-026-62571-7"/>
+    <id>https://www.nature.com/articles/s41598-026-62571-7</id>
     <summary type="text">Scientific Reports ( 2026 ) Cite this article</summary>
   </entry>
   <entry>
-    <title>A green synthesis of Sm doped NiO nano catalyst as dual functional material for photocatalytic degradation and electrochemical sensing - Scientific Reports</title>
-    <link href="https://www.nature.com/articles/s41598-026-58585-w"/>
-    <id>https://www.nature.com/articles/s41598-026-58585-w</id>
+    <title>Synthesis and high-temperature behavior of RE site doped (REₓᴵRE₁₋ₓᴵᴵ)₂Zr₂O₇ ceramics for advanced thermal barrier coating applications - Scientific Reports</title>
+    <link href="https://www.nature.com/articles/s41598-026-62746-2"/>
+    <id>https://www.nature.com/articles/s41598-026-62746-2</id>
     <summary type="text">Scientific Reports ( 2026 ) Cite this article</summary>
   </entry>
 </feed>

@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/jeff-bezos.atom.xml"/>
   <id>urn:4thwaveai-feeds:jeff-bezos</id>
-  <updated>Tue, 21 Jul 2026 08:54:03 +0000</updated>
+  <updated>Tue, 21 Jul 2026 14:32:43 +0000</updated>
   <entry>
     <title>Prime for Young Adults introduces 5% cash back on dorm and apartment essentials, just in time for move-in</title>
     <link href="https://www.aboutamazon.com/news/retail/amazon-prime-young-adults-cash-back-rewards"/>
@@ -20,7 +20,7 @@
     <updated>Thu, 22 Jan 2026 14:00:01 +0000</updated>
   </entry>
   <entry>
-    <title>What you need to know about Amazon today: July 20, 2026</title>
+    <title>What you need to know about Amazon today: July 21, 2026</title>
     <link href="https://www.aboutamazon.com/news/company-news/amazon-news-today-top-stories-company"/>
     <id>https://www.aboutamazon.com/news/company-news/amazon-news-today-top-stories-company</id>
     <summary type="text">Here are the latest headlines from Amazon News.</summary>
@@ -34,13 +34,6 @@
     <updated>Fri, 26 Sep 2025 19:38:42 +0000</updated>
   </entry>
   <entry>
-    <title>How to watch the NBA Summer League on Prime Video</title>
-    <link href="https://www.aboutamazon.com/news/entertainment/stream-nba-prime-video"/>
-    <id>https://www.aboutamazon.com/news/entertainment/stream-nba-prime-video</id>
-    <summary type="text">Prime Video will stream the NBA SoFI Play-In Tournament, as well select games from the first two rounds.</summary>
-    <updated>Wed, 13 Aug 2025 18:00:14 +0000</updated>
-  </entry>
-  <entry>
     <title>How to watch the WNBA on Prime Video</title>
     <link href="https://www.aboutamazon.com/news/entertainment/wnba-schedule-prime-video"/>
     <id>https://www.aboutamazon.com/news/entertainment/wnba-schedule-prime-video</id>
@@ -48,10 +41,17 @@
     <updated>Thu, 27 Mar 2025 19:04:03 +0000</updated>
   </entry>
   <entry>
-    <title>Entertainment</title>
-    <link href="https://www.aboutamazon.com/news/entertainment"/>
-    <id>https://www.aboutamazon.com/news/entertainment</id>
-    <summary type="text">Stories about the latest apps and games, movies, TV shows, and music available from Amazon Prime Video, Amazon Music, and Kindle.</summary>
+    <title>Everything you need to know about Amazon Business and how it helps 11 million organizations save time and money</title>
+    <link href="https://www.aboutamazon.com/news/company-news/what-is-amazon-business"/>
+    <id>https://www.aboutamazon.com/news/company-news/what-is-amazon-business</id>
+    <summary type="text">Amazon Business drives over $60 billion in annualized gross sales, helping more than 11 million organizations worldwide simplify business buying. Here&#x27;s what it is and how it works.</summary>
+    <updated>Thu, 13 Apr 2023 11:55:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Retail</title>
+    <link href="https://www.aboutamazon.com/news/retail"/>
+    <id>https://www.aboutamazon.com/news/retail</id>
+    <summary type="text">More information about shopping on Amazon and our selection of products and services.</summary>
   </entry>
   <entry>
     <title>Company news</title>
@@ -60,10 +60,10 @@
     <summary type="text">News and information about Amazon, Inc.</summary>
   </entry>
   <entry>
-    <title>Retail</title>
-    <link href="https://www.aboutamazon.com/news/retail"/>
-    <id>https://www.aboutamazon.com/news/retail</id>
-    <summary type="text">More information about shopping on Amazon and our selection of products and services.</summary>
+    <title>Entertainment</title>
+    <link href="https://www.aboutamazon.com/news/entertainment"/>
+    <id>https://www.aboutamazon.com/news/entertainment</id>
+    <summary type="text">Stories about the latest apps and games, movies, TV shows, and music available from Amazon Prime Video, Amazon Music, and Kindle.</summary>
   </entry>
   <entry>
     <title>AWS</title>

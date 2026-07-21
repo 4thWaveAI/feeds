@@ -5,6 +5,51 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.json",
   "items": [
     {
+      "id": "https://www.nasa.gov/centers-and-facilities/grants-2/",
+      "url": "https://www.nasa.gov/centers-and-facilities/grants-2/",
+      "title": "Grants - NASA",
+      "content_text": "To submit a request, visit NASA General Information Request Form and complete the form. You will receive an automated email with the most commonly requested",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/nasa-meatball-11-black-background.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/general/establishing-crew-exposure-limits-of-martian-dust/",
+      "url": "https://www.nasa.gov/general/establishing-crew-exposure-limits-of-martian-dust/",
+      "title": "Establishing Crew Exposure Limits of Martian Dust - NASA",
+      "content_text": "Human exploration of Mars will expose crews to a persistent, fine particulate environment whose physicochemical properties and health implications remain only",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/06/3d-printed-habitat-challenge-3.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/a-new-compact-instrument-enables-high-fidelity-measurements-of-energetic-particles-on-cubesats/",
+      "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/a-new-compact-instrument-enables-high-fidelity-measurements-of-energetic-particles-on-cubesats/",
+      "title": "A New Compact Instrument Enables High-Fidelity Measurements of Energetic Particles on CubeSats - NASA Science",
+      "content_text": "“Most CubeSats can observe particles from only a single direction, so they have to spin in order to build up a full picture — and that takes a few seconds,",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/cds/science-enabling-technology/technology-highlights/2026/22-01235-31-12213.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/",
       "url": "https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/",
       "title": "Why Maine's Sandy Shorelines Turn Jagged - NASA Science",
@@ -91,36 +136,6 @@
       "attachments": [
         {
           "url": "https://images-assets.nasa.gov/image/AFRC2025-0136-1632/AFRC2025-0136-1632~large.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/",
-      "url": "https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/",
-      "title": "The Growing Crescent of Mars as NASA’s Psyche Mission Approaches - NASA Science",
-      "content_text": "This composite of images taken by NASA’s Psyche mission shows the crescent of Mars grow as the spacecraft approached the planet for a gravity assist from May",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26586/PIA26586.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/",
-      "url": "https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/",
-      "title": "Establishing a VTE Risk Score for Astronauts Algorithm - NASA",
-      "content_text": "In April 2026, NASA’s Office of the Chief Health and Medical Officer (OCHMO) initiated a working group to review updated VTE case information, additional data",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/10-1177-1358863x221086619-fig2.jpg",
           "mime_type": "image/jpeg"
         }
       ],

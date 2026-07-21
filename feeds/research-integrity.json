@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/research-integrity.json",
   "items": [
     {
+      "id": "https://retractionwatch.com/2026/07/21/exclusive-medical-student-in-nepal-behind-busy-research-factory/",
+      "url": "https://retractionwatch.com/2026/07/21/exclusive-medical-student-in-nepal-behind-busy-research-factory/",
+      "title": "Exclusive: Medical student in Nepal behind busy research factory",
+      "content_text": "A second-year medical student in Nepal is at the center of an international research network churning out everything from systematic reviews and meta-analyses to case reports and database studies, …",
+      "attachments": [
+        {
+          "url": "https://retractionwatch.com/wp-content/uploads/2026/07/mahato-headshot-linkedin.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "research-integrity"
+      ]
+    },
+    {
       "id": "https://retractionwatch.com/2026/07/20/publisher-investigating-peer-reviewer-for-alleged-bribery-scheme/",
       "url": "https://retractionwatch.com/2026/07/20/publisher-investigating-peer-reviewer-for-alleged-bribery-scheme/",
       "title": "Publisher investigating peer reviewer for alleged bribery scheme",
@@ -133,21 +148,6 @@
         {
           "url": "https://retractionwatch.com/wp-content/uploads/2024/01/rw.jpeg",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "research-integrity"
-      ]
-    },
-    {
-      "id": "https://retractionwatch.com/2026/07/09/the-exploitation-still-remains-stats-journal-associate-editors-resign-over-3000-publishing-charge/",
-      "url": "https://retractionwatch.com/2026/07/09/the-exploitation-still-remains-stats-journal-associate-editors-resign-over-3000-publishing-charge/",
-      "title": "‘The exploitation still remains’: Stats journal associate editors resign over $3,000 publishing charge",
-      "content_text": "Eighteen associate editors of the journal Statistics and Computing have announced they will resign after Springer Nature announced the journal would require a fee to publish.  In a July 8 stat…",
-      "attachments": [
-        {
-          "url": "https://retractionwatch.com/wp-content/uploads/2026/07/statistics-and-computing-cover-.png",
-          "mime_type": "image/png"
         }
       ],
       "tags": [

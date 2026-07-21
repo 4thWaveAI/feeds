@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai-safety-evals.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai-safety-evals</id>
-  <updated>Tue, 21 Jul 2026 09:02:23 +0000</updated>
+  <updated>Tue, 21 Jul 2026 14:44:32 +0000</updated>
   <entry>
     <title>Spotlight: Test Your Robot’s Skills in NIST’s Global Online Competition</title>
     <link href="https://www.nist.gov/news-events/news/2026/06/spotlight-test-your-robots-skills-nists-global-online-competition"/>
@@ -160,6 +160,12 @@
     <updated>Mon, 29 May 2023 10:24:00 +0000</updated>
   </entry>
   <entry>
+    <title>Cheating behaviour in frontier model evaluations  | AISI Work</title>
+    <link href="https://www.aisi.gov.uk/blog/cheating-behaviour-in-frontier-model-evaluations"/>
+    <id>https://www.aisi.gov.uk/blog/cheating-behaviour-in-frontier-model-evaluations</id>
+    <summary type="text">We find cheating behaviour in all of our capability evaluations, and outline the implications as models grow more capable.</summary>
+  </entry>
+  <entry>
     <title>How Far Behind the Frontier are Leading Open Weight Models on Cyber? | AISI Work</title>
     <link href="https://www.aisi.gov.uk/blog/how-far-behind-the-frontier-are-leading-open-weight-models-on-cyber"/>
     <id>https://www.aisi.gov.uk/blog/how-far-behind-the-frontier-are-leading-open-weight-models-on-cyber</id>
@@ -212,12 +218,6 @@
     <link href="https://www.aisi.gov.uk/blog/how-fast-is-autonomous-ai-cyber-capability-advancing"/>
     <id>https://www.aisi.gov.uk/blog/how-fast-is-autonomous-ai-cyber-capability-advancing</id>
     <summary type="text">The length of tasks frontier models can autonomously complete in our narrow cyber suite has been doubling every few months. This doubling rate has become faster over time, and recent models exceeded our previous trends.</summary>
-  </entry>
-  <entry>
-    <title>Partnering with Microsoft to strengthen frontier AI safety | AISI Work</title>
-    <link href="https://www.aisi.gov.uk/blog/partnering-with-microsoft-to-strengthen-frontier-ai-safety"/>
-    <id>https://www.aisi.gov.uk/blog/partnering-with-microsoft-to-strengthen-frontier-ai-safety</id>
-    <summary type="text">A new collaboration on high-risk capability evaluation, safeguard testing, and societal resilience research.</summary>
   </entry>
   <entry>
     <title>Frontier Risk Report (February to March 2026)</title>
