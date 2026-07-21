@@ -1,13 +1,16 @@
-name: Update Space & Defense Feeds (space-tech + space-force)
+name: Manual Full Feed Rebuild (legacy space entry point)
 
 on:
+  # This workflow used to filter feeds.yaml down to only space-tech and
+  # space-force, then run the full builder. That unintentionally rewrote
+  # index.html and feeds/all.* with only two areas. Keep a manual recovery
+  # entry point, but always rebuild the complete registry.
   workflow_dispatch: {}
-  schedule:
-    - cron: "0 * * * *"   # hourly
 
+# All jobs that commit generated feed files share one repository-wide lock.
 concurrency:
-  group: space-defense
-  cancel-in-progress: true
+  group: feed-writers-main
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -15,55 +18,85 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 330
 
     steps:
-      - name: Checkout
+      - name: Checkout full repository history
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
-      - name: Setup Python
+      - name: Configure Git
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: scripts/requirements.txt
 
-      - name: Install Python deps
+      - name: Install dependencies
+        shell: bash
         run: |
+          set -euo pipefail
           python -m pip install --upgrade pip
-          if [ -f scripts/requirements.txt ]; then pip install -r scripts/requirements.txt; \
-          elif [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install -r scripts/requirements.txt
 
-      - name: Install yq (YAML CLI)
+      - name: Build all area feeds
+        shell: bash
         run: |
-          sudo curl -L -o /usr/local/bin/yq https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_amd64
-          sudo chmod +x /usr/local/bin/yq
-          yq --version
-
-      - name: Backup original feeds.yaml
-        run: cp feeds.yaml feeds.yaml.bak
-
-      # Keep only the two areas we want to build
-      - name: Filter feeds.yaml to only space-tech & space-force
-        run: |
-          echo "Before filter:"; yq '.areas | keys' feeds.yaml
-          yq -i '
-            .areas |= with_entries(
-              select(.key == "space-tech" or .key == "space-force")
-            )
-          ' feeds.yaml
-          echo "After filter:"; yq '.areas | keys' feeds.yaml
-
-      - name: Build area feeds (filtered)
-        run: |
+          set -euo pipefail
           python scripts/update_feeds.py
 
-      - name: Restore original feeds.yaml
-        if: always()
-        run: mv -f feeds.yaml.bak feeds.yaml
+      - name: Gzip generated feeds
+        shell: bash
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+          for file in feeds/*.xml feeds/*.json; do
+            gzip -kf "$file"
+          done
 
       - name: Commit generated files
+        shell: bash
         run: |
-          git config --global user.name  "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          set -euo pipefail
           git add -A
-          git diff --cached --quiet || git commit -m "chore: update space & defense feeds [skip ci]"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No generated feed changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: manual full feed rebuild [skip ci]"
+          branch="${GITHUB_REF_NAME:-main}"
+
+          for attempt in 1 2 3; do
+            echo "Synchronize and push attempt ${attempt} of 3"
+            git fetch origin "$branch"
+
+            if ! git rebase "origin/$branch"; then
+              echo "Rebase conflict detected; stopping instead of reporting false success."
+              git rebase --abort || true
+              exit 1
+            fi
+
+            if git push origin "HEAD:$branch"; then
+              echo "Generated feeds pushed successfully."
+              exit 0
+            fi
+
+            if [ "$attempt" -lt 3 ]; then
+              sleep 10
+            fi
+          done
+
+          echo "Push failed after three attempts."
+          exit 1
