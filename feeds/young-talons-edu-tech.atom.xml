@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/young-talons-edu-tech.atom.xml"/>
   <id>urn:4thwaveai-feeds:young-talons-edu-tech</id>
-  <updated>Mon, 20 Jul 2026 21:13:00 +0000</updated>
+  <updated>Tue, 21 Jul 2026 02:44:47 +0000</updated>
   <entry>
     <title>News Archives</title>
     <link href="https://hechingerreport.org/category/news/"/>
@@ -46,5 +46,53 @@
     <link href="https://news.mit.edu/topic/black-holes"/>
     <id>https://news.mit.edu/topic/black-holes</id>
     <summary type="text">Physicists have found signs of colliding black holes that are themselves products of previous black hole smash-ups.</summary>
+  </entry>
+  <entry>
+    <title>Become an Insider | EdTech Magazine</title>
+    <link href="https://edtechmagazine.com/k12/cdw_subscription_v3/register-web?form=insider"/>
+    <id>https://edtechmagazine.com/k12/cdw_subscription_v3/register-web?form=insider</id>
+    <summary type="text">Become an Insider | EdTech Magazine</summary>
+  </entry>
+  <entry>
+    <title>EdTech Magazine</title>
+    <link href="https://edtechmagazine.com/k12/"/>
+    <id>https://edtechmagazine.com/k12/</id>
+    <summary type="text">Technology Solutions That Drive Education</summary>
+  </entry>
+  <entry>
+    <title>Log in | EdTech Magazine</title>
+    <link href="https://edtechmagazine.com/k12/user"/>
+    <id>https://edtechmagazine.com/k12/user</id>
+    <summary type="text">Log in | EdTech Magazine</summary>
+  </entry>
+  <entry>
+    <title>State By State | EdTech Magazine</title>
+    <link href="https://edtechmagazine.com/k12/states"/>
+    <id>https://edtechmagazine.com/k12/states</id>
+    <summary type="text">State By State | EdTech Magazine</summary>
+  </entry>
+  <entry>
+    <title>Features | EdTech Magazine</title>
+    <link href="https://edtechmagazine.com/k12/features"/>
+    <id>https://edtechmagazine.com/k12/features</id>
+    <summary type="text">Features | EdTech Magazine</summary>
+  </entry>
+  <entry>
+    <title>Tips &amp; Tactics | EdTech Magazine</title>
+    <link href="https://edtechmagazine.com/k12/tips-tactics"/>
+    <id>https://edtechmagazine.com/k12/tips-tactics</id>
+    <summary type="text">Tips &amp; Tactics | EdTech Magazine</summary>
+  </entry>
+  <entry>
+    <title>Video | EdTech Magazine</title>
+    <link href="https://edtechmagazine.com/k12/media/videos"/>
+    <id>https://edtechmagazine.com/k12/media/videos</id>
+    <summary type="text">Video | EdTech Magazine</summary>
+  </entry>
+  <entry>
+    <title>ConnectIT</title>
+    <link href="https://edtechmagazine.com/k12/connect-it"/>
+    <id>https://edtechmagazine.com/k12/connect-it</id>
+    <summary type="text">ConnectIT</summary>
   </entry>
 </feed>

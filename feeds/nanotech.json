@@ -5,6 +5,36 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
+      "id": "https://phys.org/news/2026-07-molecules-carbon-nanotubes-clumping-electricity.html",
+      "url": "https://phys.org/news/2026-07-molecules-carbon-nanotubes-clumping-electricity.html",
+      "title": "Molecules stop carbon nanotubes clumping, unlocking record heat-to-electricity performance",
+      "content_text": "QUT researchers have overcome a challenge that has limited next-generation energy-harvesting materials for more than two decades, opening the door to more powerful wearable electronics and new ways of turning wasted heat into electricity. The breakthrough centers on carbon nanotubes, which are flexible, conductive microscopic rods that have long shown promise for wearable technologies but have been difficult to control.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/unlocking-a-long-sough-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2026-07-carbon-nanotube-reveals-smart-sensors.html",
+      "url": "https://phys.org/news/2026-07-carbon-nanotube-reveals-smart-sensors.html",
+      "title": "Carbon nanotube model reveals how smart sensors perform at aircraft-like extremes",
+      "content_text": "Researchers from Skoltech, in collaboration with the Harbin Institute of Technology and Jiangsu University (China), have published a study presenting the first empirical model to explain and predict the sensing behavior of hierarchical tri-phase carbon nanotube systems across a wide temperature range (from -170°C (-274°F) to 90°C (194°F)). The study has been published in the Carbon journal.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/carbon-fiber.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://phys.org/news/2026-07-acid-resistant-nanocage-gastric-cancer.html",
       "url": "https://phys.org/news/2026-07-acid-resistant-nanocage-gastric-cancer.html",
       "title": "Acid-resistant nanocage shows promise for targeted gastric cancer therapy",
@@ -125,21 +155,6 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2026-07-nanoscale-gaps-reveal-atom-thin.html",
-      "url": "https://phys.org/news/2026-07-nanoscale-gaps-reveal-atom-thin.html",
-      "title": "Nanoscale gaps reveal new design rule for atom-thin chips and memory",
-      "content_text": "Researchers at the College of Design and Engineering at the National University of Singapore have identified a key design principle for building reliable electronics from materials only one atomic layer thick, giving engineers a clearer way to control unwanted electrical leakage in future ultra-small devices.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/nus-cde-researchers-re.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
       "id": "https://phys.org/news/2026-07-quantum-currents-nano-soccer-ball.html",
       "url": "https://phys.org/news/2026-07-quantum-currents-nano-soccer-ball.html",
       "title": "Quantum currents turn a nano 'soccer ball' into a powerful molecular electromagnet",
@@ -162,21 +177,6 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/stealth-anticancer-nan.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2026-07-technique-ultra-thin-material-stacks.html",
-      "url": "https://phys.org/news/2026-07-technique-ultra-thin-material-stacks.html",
-      "title": "New technique for building ultra-thin material stacks promises quantum breakthrough",
-      "content_text": "Scientists have unveiled a new fabrication technique for the ultra-clean manufacturing of 2D heterostructures—materials just a few atoms thick—that could be used in quantum technology and electronics. Experts from Southampton and Singapore say the method could be used to develop next-generation devices that accelerate research in quantum computing.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/scientists-unveil-tech.jpg",
           "mime_type": "image/jpeg"
         }
       ],

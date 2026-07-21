@@ -5,6 +5,36 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/gsel-esports-ai.json",
   "items": [
     {
+      "id": "https://esports.gg/news/overwatch/new-overwatch-lucio-skin-enters-heroes-of-the-storm/",
+      "url": "https://esports.gg/news/overwatch/new-overwatch-lucio-skin-enters-heroes-of-the-storm/",
+      "title": "New Overwatch Lucio skin enters Heroes of the Storm!",
+      "content_text": "The Ruby Chromesthesia Lucio skin can now be unlocked in Heroes of the Storm. The patch also introduces the mighty Slapathur ability!",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/07/overwatch-lucio-skin-heroes-of-the-storm-2026-article-by-esportsgg-screenshots-by-esportsgg-ruby-Cchromesthesia-lucio-july-2026-heroes-of-the-storm-patch-notes-5.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esportsinsider.com/2026/07/fatal-fury-dlc-schedule-sauce-debate",
+      "url": "https://esportsinsider.com/2026/07/fatal-fury-dlc-schedule-sauce-debate",
+      "title": "Fatal Fury: City of the Wolves has an insane DLC schedule, but it may not be enough to bring the sauce",
+      "content_text": "Fatal Fury: City of the Wolves devs are going ham with the DLC, dropping tons of characters. But do they have the sauce?",
+      "attachments": [
+        {
+          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/fatal-fury-city-of-the-wolves-kenshiro.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
       "id": "https://esports.gg/news/fortnite/fortnite-obsession-skins/",
       "url": "https://esports.gg/news/fortnite/fortnite-obsession-skins/",
       "title": "Fortnite's latest Sprite trailer features an 'Obsession' crossover – could skins be next?",
@@ -140,21 +170,6 @@
       ]
     },
     {
-      "id": "https://esports.gg/news/fortnite/all-jam-tracks-ever-released-in-fortnite/",
-      "url": "https://esports.gg/news/fortnite/all-jam-tracks-ever-released-in-fortnite/",
-      "title": "All Fortnite Festival songs ever released",
-      "content_text": "Here is every Jam Track in Fortnite Festival.",
-      "attachments": [
-        {
-          "url": "https://media.esports.gg/uploads/2023/12/All-Jam-Tracks.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
       "id": "https://esportsinsider.com/2026/07/fgc-needs-more-hayao",
       "url": "https://esportsinsider.com/2026/07/fgc-needs-more-hayao",
       "title": "The FGC has become too serious and we need more people like Hayao",
@@ -230,25 +245,10 @@
       ]
     },
     {
-      "id": "https://esportsinsider.com/2026/07/combo-contest-smash-tournament",
-      "url": "https://esportsinsider.com/2026/07/combo-contest-smash-tournament",
-      "title": "The Combo Contest is unironically my favorite Super Smash Bros. tournament of all time",
-      "content_text": "The Combo Contest is an often overlooked tournament that embodies everything it means to be a Smash player.",
-      "attachments": [
-        {
-          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/combo-contest-smash.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
       "id": "https://esportsinsider.com/top-stories",
       "url": "https://esportsinsider.com/top-stories",
       "title": "Top Stories Archives - Esports Insider",
-      "content_text": "LoL esports is usually a battle between China and Korea at the top. MSI completely threw that script away.",
+      "content_text": "The Combo Contest is an often overlooked tournament that embodies everything it means to be a Smash player.",
       "attachments": [
         {
           "url": "https://esportsinsider.com/wp-content/uploads/2025/01/esi_logo_white.jpg",
@@ -263,7 +263,7 @@
       "id": "https://esportsinsider.com/latest-news",
       "url": "https://esportsinsider.com/latest-news",
       "title": "Latest News Archives - Esports Insider",
-      "content_text": "EA Head of Esports Monica Dinsmore discusses cross-title operations, mobile growth, sports crossover and future Esports World Cup titles.",
+      "content_text": "VALORANT took a massive hit in the viewership department compared to last year. Is the esports scene dying?",
       "attachments": [
         {
           "url": "https://esportsinsider.com/wp-content/uploads/2025/01/esi_logo_white.jpg",
@@ -278,7 +278,7 @@
       "id": "https://esportsinsider.com/esports-titles",
       "url": "https://esportsinsider.com/esports-titles",
       "title": "Games Archives - Esports Insider",
-      "content_text": "It was a huge bummer when Smash was removed from the Evo lineup, but I think it saved the Smash scene in the long run.",
+      "content_text": "LoL esports is usually a battle between China and Korea at the top. MSI completely threw that script away.",
       "attachments": [
         {
           "url": "https://esportsinsider.com/wp-content/uploads/2025/01/esi_logo_white.jpg",
@@ -293,7 +293,7 @@
       "id": "https://esports.gg/news/",
       "url": "https://esports.gg/news/",
       "title": "News Archives",
-      "content_text": "Fortnite skins based on the film Obsession have become a real possibility following a recent collaboration with the film!",
+      "content_text": "The Ruby Chromesthesia Lucio skin can now be unlocked in Heroes of the Storm. The patch also introduces the mighty Slapathur ability!",
       "tags": [
         "gsel-esports-ai"
       ]

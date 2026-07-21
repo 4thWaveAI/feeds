@@ -5,6 +5,66 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
+      "id": "https://esports.gg/news/overwatch/new-overwatch-lucio-skin-enters-heroes-of-the-storm/",
+      "url": "https://esports.gg/news/overwatch/new-overwatch-lucio-skin-enters-heroes-of-the-storm/",
+      "title": "New Overwatch Lucio skin enters Heroes of the Storm!",
+      "content_text": "The Ruby Chromesthesia Lucio skin can now be unlocked in Heroes of the Storm. The patch also introduces the mighty Slapathur ability!",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/07/overwatch-lucio-skin-heroes-of-the-storm-2026-article-by-esportsgg-screenshots-by-esportsgg-ruby-Cchromesthesia-lucio-july-2026-heroes-of-the-storm-patch-notes-5.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esportsinsider.com/2026/07/fatal-fury-dlc-schedule-sauce-debate",
+      "url": "https://esportsinsider.com/2026/07/fatal-fury-dlc-schedule-sauce-debate",
+      "title": "Fatal Fury: City of the Wolves has an insane DLC schedule, but it may not be enough to bring the sauce",
+      "content_text": "Fatal Fury: City of the Wolves devs are going ham with the DLC, dropping tons of characters. But do they have the sauce?",
+      "attachments": [
+        {
+          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/fatal-fury-city-of-the-wolves-kenshiro.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2026-07-molecules-carbon-nanotubes-clumping-electricity.html",
+      "url": "https://phys.org/news/2026-07-molecules-carbon-nanotubes-clumping-electricity.html",
+      "title": "Molecules stop carbon nanotubes clumping, unlocking record heat-to-electricity performance",
+      "content_text": "QUT researchers have overcome a challenge that has limited next-generation energy-harvesting materials for more than two decades, opening the door to more powerful wearable electronics and new ways of turning wasted heat into electricity. The breakthrough centers on carbon nanotubes, which are flexible, conductive microscopic rods that have long shown promise for wearable technologies but have been difficult to control.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/unlocking-a-long-sough-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2026-07-carbon-nanotube-reveals-smart-sensors.html",
+      "url": "https://phys.org/news/2026-07-carbon-nanotube-reveals-smart-sensors.html",
+      "title": "Carbon nanotube model reveals how smart sensors perform at aircraft-like extremes",
+      "content_text": "Researchers from Skoltech, in collaboration with the Harbin Institute of Technology and Jiangsu University (China), have published a study presenting the first empirical model to explain and predict the sensing behavior of hierarchical tri-phase carbon nanotube systems across a wide temperature range (from -170°C (-274°F) to 90°C (194°F)). The study has been published in the Carbon journal.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/carbon-fiber.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://science.nasa.gov/blogs/science-news/2026/07/20/nasa-funded-study-shows-how-controlled-burns-help-sequoias-survive-wildfires/",
       "url": "https://science.nasa.gov/blogs/science-news/2026/07/20/nasa-funded-study-shows-how-controlled-burns-help-sequoias-survive-wildfires/",
       "title": "NASA-Funded Study Shows How Controlled Burns Help Sequoias Survive Wildfires - NASA Science",
@@ -542,21 +602,6 @@
       ]
     },
     {
-      "id": "https://esports.gg/news/fortnite/all-jam-tracks-ever-released-in-fortnite/",
-      "url": "https://esports.gg/news/fortnite/all-jam-tracks-ever-released-in-fortnite/",
-      "title": "All Fortnite Festival songs ever released",
-      "content_text": "Here is every Jam Track in Fortnite Festival.",
-      "attachments": [
-        {
-          "url": "https://media.esports.gg/uploads/2023/12/All-Jam-Tracks.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
       "id": "https://phys.org/news/2026-07-nanoparticles-immune-molecules-blood.html",
       "url": "https://phys.org/news/2026-07-nanoparticles-immune-molecules-blood.html",
       "title": "Nanoparticles could remove harmful immune molecules from blood",
@@ -870,51 +915,6 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/2026/quantum-materials-disc.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/",
-      "url": "https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/",
-      "title": "NASA Study Finds Near-Earth Asteroid Is Actually Comet - NASA",
-      "content_text": "New research led by scientists at NASA’s Jet Propulsion Laboratory in Southern California has revealed the identity of a puzzling near-Earth object by",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/1-pia21259.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://esportsinsider.com/2026/07/new-counter-strike-2-comms-rule-debate",
-      "url": "https://esportsinsider.com/2026/07/new-counter-strike-2-comms-rule-debate",
-      "title": "Is Counter-Strike 2 going soft? Esports fans react to new comms rule and debate hate speech vs. trash talk",
-      "content_text": "A newly-added rule states that what you say to your own teammates is no longer off-limits to TOs. Will this stop trash talking?",
-      "attachments": [
-        {
-          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/dota-2-faze.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2026-07-brain-nanopore-device-current-memory.html",
-      "url": "https://phys.org/news/2026-07-brain-nanopore-device-current-memory.html",
-      "title": "Brain-inspired nanopore device uses current-induced heating for memory operations",
-      "content_text": "Some researchers are leaning into biology for inspiration in computing. In particular, neuromorphic computing offers a brain-inspired approach to hardware that replaces traditional binary processing with systems that function more like neurons and synapses. Now, a new study, published in Nature Communications, describes an innovative design for a fluidic memristor that uses its own self-heating mechanism to induce a history-dependent memory effect.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/brain-inspired-nanopor.jpg",
           "mime_type": "image/jpeg"
         }
       ],
