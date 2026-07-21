@@ -1,20 +1,51 @@
 name: ci
+
 on:
   pull_request:
   push:
-    branches: [ main ]
+    branches:
+      - main
+
+permissions:
+  contents: read
 
 jobs:
-  syntax:
-    name: syntax
+  validate:
+    name: Validate repository
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: Install deps (best-effort)
+          cache: "pip"
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install dependencies
+        shell: bash
         run: |
-          if [ -f requirements.txt ]; then pip install -r requirements.txt || true; fi
-      - name: Compile all Python (syntax check)
-        run: python -m compileall -q .
+          set -euo pipefail
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Compile Python
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m compileall -q scripts
+
+      - name: Validate feed registry
+        shell: bash
+        run: |
+          set -euo pipefail
+          python scripts/validate_feeds_config.py
+
+      - name: Validate committed feed outputs
+        shell: bash
+        run: |
+          set -euo pipefail
+          python scripts/validate_generated_feeds.py
