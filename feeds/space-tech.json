@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.json",
   "items": [
     {
+      "id": "https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/",
+      "url": "https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/",
+      "title": "NISAR’s L-Band Radar Reveals ‘Hummingbird’ in Antarctica - NASA Science",
+      "content_text": "Data from the Earth-orbiting U.S.-India NISAR (NASA-ISRO Synthetic Aperture Radar) satellite’s L-band radar was used to produce an image of Nunatak",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26617/PIA26617.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/missions/nisar/us-india-satellite-delivers-data-reveals-hummingbird-in-antarctica/",
       "url": "https://www.nasa.gov/missions/nisar/us-india-satellite-delivers-data-reveals-hummingbird-in-antarctica/",
       "title": "US-India Satellite Delivers Data, Reveals ‘Hummingbird’ in Antarctica - NASA",
@@ -129,36 +144,6 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/directorates/stmd/niac/actively-steerable-femtosat-constellations-for-in-situ-exploration-of-saturns-rings-atmosphere-and-magnetosphere/",
-      "url": "https://www.nasa.gov/directorates/stmd/niac/actively-steerable-femtosat-constellations-for-in-situ-exploration-of-saturns-rings-atmosphere-and-magnetosphere/",
-      "title": "Actively Steerable Femtosat Constellations",
-      "content_text": "Michael RubensteinNorthwestern University, Chicago",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-rubenstein.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/directorates/stmd/niac/praxis-planetary-rings-autonomous-exploration-with-in-situ-sampling/",
-      "url": "https://www.nasa.gov/directorates/stmd/niac/praxis-planetary-rings-autonomous-exploration-with-in-situ-sampling/",
-      "title": "PRAXIS",
-      "content_text": "Humanity has never touched the particles of a planetary ring, but if we were able to get close enough and sample them, it will transform understanding of ring",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-quadrelli.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/",
       "url": "https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/",
       "title": "NASA Study Finds Near-Earth Asteroid Is Actually Comet - NASA",
@@ -258,13 +243,13 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-13-mission-to-space-station/",
-      "url": "https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-13-mission-to-space-station/",
-      "title": "NASA Sets Briefings for SpaceX Crew-13 Mission to Space Station - NASA",
-      "content_text": "Mission leadership will provide an overview of NASA’s SpaceX Crew‑13 mission at 12 p.m. EDT. Next, crew members will discuss their training and mission",
+      "id": "https://www.nasa.gov/news-release/nasa-to-host-media-briefing-on-roman-telescope-launching-next-month/",
+      "url": "https://www.nasa.gov/news-release/nasa-to-host-media-briefing-on-roman-telescope-launching-next-month/",
+      "title": "NASA to Host Media Briefing on Roman Telescope, Launching Next Month - NASA",
+      "content_text": "The Roman telescope is managed at NASA Goddard with participation by the agency’s Jet Propulsion Laboratory in Southern California; Caltech/IPAC in Pasadena,",
       "attachments": [
         {
-          "url": "https://images-assets.nasa.gov/image/jsc2026e040446/jsc2026e040446~large.jpg",
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/ksc-20260626-ph-ser01-0004large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -273,13 +258,13 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-de-comunicacion-al-lanzamiento-del-telescopio-espacial-roman/",
-      "url": "https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-de-comunicacion-al-lanzamiento-del-telescopio-espacial-roman/",
-      "title": "La NASA invita a los medios de comunicación al lanzamiento del telescopio espacial Roman - NASA",
-      "content_text": "Read this release in English here.",
+      "id": "https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-13-mission-to-space-station/",
+      "url": "https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-13-mission-to-space-station/",
+      "title": "NASA Sets Briefings for SpaceX Crew-13 Mission to Space Station - NASA",
+      "content_text": "Mission leadership will provide an overview of NASA’s SpaceX Crew‑13 mission at 12 p.m. EDT. Next, crew members will discuss their training and mission",
       "attachments": [
         {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/roman.jpg",
+          "url": "https://images-assets.nasa.gov/image/jsc2026e040446/jsc2026e040446~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],

@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/jensen-huang.json",
   "items": [
     {
+      "id": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
+      "url": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
+      "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
+      "content_text": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capable AI systems. In front of an audience of Wistron […]",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/wistron-event-july2026-kv-3840x2160-1-scaled.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
       "id": "https://blogs.nvidia.com/blog/vera-rubin/",
       "url": "https://blogs.nvidia.com/blog/vera-rubin/",
       "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
@@ -47,21 +62,6 @@
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/5451751_26Sigg_Promo_Pack_1280x720_v03.mp4",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "jensen-huang"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
-      "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
-      "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
-      "content_text": "The pharmaceutical company has demonstrated how AI can transform how drugs discovery and is now scaling AI across R&D to accelerate the discovery of next-generation medicines.",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Image-7-1680x1120.png",
-          "mime_type": "image/png"
         }
       ],
       "tags": [

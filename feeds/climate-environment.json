@@ -5,18 +5,29 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/climate-environment.json",
   "items": [
     {
-      "id": "https://science.nasa.gov/blogs/psyche/2026/07/17/nasas-psyche-mission-delivers-mars-flyby-data-time-lapse-video/",
-      "url": "https://science.nasa.gov/blogs/psyche/2026/07/17/nasas-psyche-mission-delivers-mars-flyby-data-time-lapse-video/",
-      "title": "NASA’s Psyche Mission Delivers Mars Flyby Data, Time-lapse Video  - NASA Science",
-      "content_text": "When NASA’s Psyche spacecraft flew by Mars for a gravity assist on May 15, 2026, it gave the mission team an opportunity to test instruments and prep for science they’ll conduct when reaching the metal-rich asteroid Psyche in 2029, and collect images and a time-lapse video of the Mars encounter.",
+      "id": "https://science.nasa.gov/blogs/science-news/2026/07/20/nasa-funded-study-shows-how-controlled-burns-help-sequoias-survive-wildfires/",
+      "url": "https://science.nasa.gov/blogs/science-news/2026/07/20/nasa-funded-study-shows-how-controlled-burns-help-sequoias-survive-wildfires/",
+      "title": "NASA-Funded Study Shows How Controlled Burns Help Sequoias Survive Wildfires - NASA Science",
+      "content_text": "A new study, funded by NASA, found that giant sequoias were nearly four times more likely to survive extreme wildfires in forests that have been managed with prescribed burns, which decrease tree mortality.",
       "attachments": [
         {
-          "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26749/E2_PIA26749_Psyche_Imager_Mars_Mosaic1_F247E.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
-        },
+          "url": "https://assets.science.nasa.gov/content/dam/science/esd/esnt/GiantSequoias.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "climate-environment"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/blogs/planetary-expeditions/2026/07/14/utah-helicopter-flights-test-nasas-davinci-mission-to-venus/",
+      "url": "https://science.nasa.gov/blogs/planetary-expeditions/2026/07/14/utah-helicopter-flights-test-nasas-davinci-mission-to-venus/",
+      "title": "Utah Helicopter Flights Test NASA’s DAVINCI Mission to Venus - NASA Science",
+      "content_text": "To prepare their spacecraft for Venus, NASA's DAVINCI scientists traveled to the most Venus-like place on Earth.",
+      "attachments": [
         {
-          "url": "https://www.youtube.com/embed/6_cH5-daLjg",
-          "mime_type": "video/mp4"
+          "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar-system/planetary-expeditions/2026-07-davinci-vadix/Brent%20Bos%20VADIX%20DAVINCI.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [

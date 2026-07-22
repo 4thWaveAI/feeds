@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/energy-nuclear-batteries.json",
   "items": [
     {
+      "id": "https://www.energy.gov/cmei/femp/events/2026-federal-utility-partnership-working-group-fupwg-seminar",
+      "url": "https://www.energy.gov/cmei/femp/events/2026-federal-utility-partnership-working-group-fupwg-seminar",
+      "title": "2026 Federal Utility Partnership Working Group (FUPWG) Seminar",
+      "content_text": "The Federal Utility Partnership Working Group (FUPWG) Seminar meets to share best practices, success stories, case studies, information about Federal Energy Management Program (FEMP) activities, and other business.",
+      "attachments": [
+        {
+          "url": "https://www.energy.gov/sites/default/files/2025-04/white-fallback_0.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "energy-nuclear-batteries"
+      ]
+    },
+    {
       "id": "https://www.quantumscape.com/resources/blog/amplifying-innovation-the-qs-approach-to-technology-development/",
       "url": "https://www.quantumscape.com/resources/blog/amplifying-innovation-the-qs-approach-to-technology-development/",
       "title": "Amplifying Innovation: The QS approach to technology development",
@@ -368,8 +383,8 @@
       ]
     },
     {
-      "id": "https://www.oecd-nea.org/jcms/j_231/portail-application?text=&opSearch=true&jsp=plugins%2FMainPlugin%2Fjsp%2Fsearch%2FcustomQuery.jsp&types=generated.Event&dateDebutChoice=07%2F21%2F2026&sort=customDate&reverse=true",
-      "url": "https://www.oecd-nea.org/jcms/j_231/portail-application?text=&opSearch=true&jsp=plugins%2FMainPlugin%2Fjsp%2Fsearch%2FcustomQuery.jsp&types=generated.Event&dateDebutChoice=07%2F21%2F2026&sort=customDate&reverse=true",
+      "id": "https://www.oecd-nea.org/jcms/j_231/portail-application?text=&opSearch=true&jsp=plugins%2FMainPlugin%2Fjsp%2Fsearch%2FcustomQuery.jsp&types=generated.Event&dateDebutChoice=07%2F22%2F2026&sort=customDate&reverse=true",
+      "url": "https://www.oecd-nea.org/jcms/j_231/portail-application?text=&opSearch=true&jsp=plugins%2FMainPlugin%2Fjsp%2Fsearch%2FcustomQuery.jsp&types=generated.Event&dateDebutChoice=07%2F22%2F2026&sort=customDate&reverse=true",
       "title": "Query results",
       "content_text": "Portail Page d'Accueil du canal JCMS",
       "tags": [

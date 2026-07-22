@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/health-medicine.atom.xml"/>
   <id>urn:4thwaveai-feeds:health-medicine</id>
-  <updated>Tue, 21 Jul 2026 20:12:29 +0000</updated>
+  <updated>Wed, 22 Jul 2026 04:03:53 +0000</updated>
   <entry>
     <title>Newsroom</title>
     <link href="https://www.who.int/mega-menu/news/all-news"/>
@@ -66,16 +66,23 @@
     <summary type="text">The latest WHO Disease Outbreak News (DONs) provide information on confirmed and potential acute public health events of concern across all hazards.</summary>
   </entry>
   <entry>
-    <title>Sensitivity of silicon-to-water dose conversion and Bragg-peak metrics to stopping-power datasets in proton dosimetry</title>
-    <link href="https://arxiv.org/abs/2607.16441"/>
-    <id>https://arxiv.org/abs/2607.16441</id>
-    <summary type="text">Accurate proton dosimetry requires consistent stopping-power data for detector-to-water conversion and Monte Carlo radiation transport. We quantify the sensitivity of water-to-silicon stopping-power ratios, converted dose-to-water distributions, and Bragg-peak metrics to the stopping-power dataset for a 67.5 MeV pristine proton beam in water. PHITS simulations used SRIM-2013, PSTAR/NIST, ATIMA, and TDDFT-Penn stopping powers up to 10 MeV, together with a common SBETHE-based extension at higher energies. The water-to-silicon stopping-power ratio showed relative entrance-to-distal variations of 17.40%$-$22.10%. Conversion of normalized PTW silicon-diode percentage-depth-ionization data yielded relative percentage-depth-dose curves with a common maximum at 36.86 mm, consistent with the experi</summary>
+    <title>BART Online Open-Source Sequence Toolbox for Computational MRI</title>
+    <link href="https://arxiv.org/abs/2607.19099"/>
+    <id>https://arxiv.org/abs/2607.19099</id>
+    <summary type="text">Purpose In advanced computational MRI techniques, acquisition and reconstruction techniques are jointly designed. For reproducibility, it is therefore important to provide an open implementation of both. At the same time, any use in a clinical environment usually requires a close integration with the MRI scanner. Ensuring long-time reproducibility and maintenance then poses additional challenges. In this work, we aim to provide a fully integrated open-source framework that can meet these demands.
+  Methods A software framework to develop pulse sequences is added to the BART toolbox. In addition, a vendor-specific driver sequence is developed that can be used to run the sequence on a clinical MRI scanner enabling online adjustment of all relevant sequence parameters. Using the Pulseq format</summary>
   </entry>
   <entry>
-    <title>Continuous 3-D Latent Diffusion for Medical Generation and Reconstruction</title>
-    <link href="https://arxiv.org/abs/2607.16491"/>
-    <id>https://arxiv.org/abs/2607.16491</id>
-    <summary type="text">High-resolution three-dimensional (3-D) medical diffusion models remain constrained by the cost of processing full volumes, even when denoising is performed in a compact latent space. We introduce a continuous 3-D latent diffusion model (LDM) framework for computed tomography (CT) and magnetic resonance imaging (MRI) generation and measurement-guided reconstruction. Its central component is a compact autoencoder (AE) with a coordinate-conditioned local implicit image function (LIIF) decoder that represents a volume as a continuous function of spatial coordinates. By evaluating the convolutional decoder once on the latent grid and restricting repeated computation to a lightweight implicit head, the proposed design avoids overlapping sub-volume decoding while remaining differentiable for inv</summary>
+    <title>Improving Punching &quot;Power&quot;: Reconsidering the roles of initial strike velocity and effective mass</title>
+    <link href="https://arxiv.org/abs/2607.18276"/>
+    <id>https://arxiv.org/abs/2607.18276</id>
+    <summary type="text">We review the principal features of one-dimensional, elastic collisions pertinent to modeling strike-mediated impacts in martial arts and combat sports contexts. Arguing for the post-collision velocity of a stationary, target mass as a useful proxy for determining overall punch efficacy, we demonstrate that pre-collision velocities for real strikes are bounded, such that speed prior to impact has a more limited effect on the impulse experienced by said target than suggested by supporting literature. We find that the value of incoming, &quot;effective&quot; mass -- despite eluding uniform establishment criteria or measurement protocols across the same body of literature -- exerts an independent influence on the target velocity which can, in principle, match or exceed that of the strike speed. We perf</summary>
+  </entry>
+  <entry>
+    <title>An in vivo validation dataset for dynamic volumetric MRI</title>
+    <link href="https://arxiv.org/abs/2602.08918"/>
+    <id>https://arxiv.org/abs/2602.08918</id>
+    <summary type="text">Dynamic volumetric MRI provides valuable information on in vivo motion and biomechanics, with applications spanning cardiac, musculoskeletal, or pulmonary imaging, amongst others. Developing reconstruction methods for time-resolved volumetric MRI is challenging due to the inherently slow acquisition process of MRI, which makes it an active area of research. However, in vivo validation of these methods remains challenging due to the lack of publicly available datasets with fully sampled ground-truth images. Here, we present a publicly available in vivo dataset designed to facilitate the development and validation of dynamic volumetric MRI reconstruction algorithms. Controlled and repeatable deformations of the muscles in the thigh were induced using a pneumatic pressure cuff, enabling the a</summary>
   </entry>
   <entry>
     <title>Theoretical derivation of blood velocity from TOF-MRA based artery centerline</title>
@@ -84,40 +91,10 @@
     <summary type="text">Time-of-flight magnetic resonance angiography (TOF-MRA) is widely used for structural vascular imaging, but extracting functional hemodynamics like blood velocity typically requires supplementary phase-contrast scans. This study proposes a novel, physics-informed computational framework to extract variable fluid velocity directly from standard TOF-MRA signal profiles. We analytically expand the Bloch equations into Bloch-McConnell flow equations, establishing a mathematical relationship between the spatial decay of longitudinal magnetization and fluid velocity. To validate this derivation and overcome the limitations of constant-velocity assumptions, a MATLAB simulation framework was developed to model fluid flow in two variable-geometry flowing tube cases i.e continuous tapering and focal</summary>
   </entry>
   <entry>
-    <title>Imaging of ultrasound specularity at cortical bone interfaces to detect unbalanced remodeling: A preliminary study</title>
-    <link href="https://arxiv.org/abs/2607.16791"/>
-    <id>https://arxiv.org/abs/2607.16791</id>
-    <summary type="text">The region near the interface between cortical bone and the medullary cavity (the endosteal surface) is of particular interest for the early detection of osteoporosis. This region is typically the first to exhibit signs of unbalanced remodeling (enlarged pores and increased surface roughness). In this study, we analyze ultrasound reflection at the endosteal surface to introduce a novel potential biomarker of cortical bone health based on specularity. Our hypothesis is that increased pore size and surface roughness enhance ultrasound scattering, thereby reducing specular reflection. We reconstruct maps of specularity by combining a signal processing technique initially designed to enhance specular reflectors in soft tissues with a beamforming technique that accounts for refraction at bone s</summary>
-  </entry>
-  <entry>
-    <title>Portable surrogate-free 4D MRI from standard fast multi-slice 2D MRI via implicit neural representations</title>
-    <link href="https://arxiv.org/abs/2607.17906"/>
-    <id>https://arxiv.org/abs/2607.17906</id>
-    <summary type="text">Four-dimensional MRI (4D MRI) characterizes respiratory organ motion, yet existing reconstruction pipelines are tightly coupled to specific acquisition platforms (e.g., non-Cartesian trajectories with self-gating, vendor-specific navigators, or external respiratory hardware), limiting broad adoption across diverse clinical and research settings, including low-field, open-bore, and non-supine imaging. We present SIMPLE-4D (Surrogate-free, IMplicit, PortabLE 4D MRI), a software-first portable workflow that operates entirely on reconstructed slices from standard fast multi-slice 2D MRI and requires no pulse-sequence modification, no non-Cartesian trajectory, no navigator, and no external hardware. SIMPLE-4D combines an acquisition-agnostic front end consuming standard 2D protocols, a surrogat</summary>
-  </entry>
-  <entry>
-    <title>Review of oxygen measurement and relevance to the mechanisms of FLASH radiotherapy</title>
-    <link href="https://arxiv.org/abs/2607.17974"/>
-    <id>https://arxiv.org/abs/2607.17974</id>
-    <summary type="text">FLASH radiotherapy (FLASH-RT) is the phenomenon of relative sparing of normal tissue when ultra-high dose rates (UHDR) are used compared with conventional dose rates (CDR) as clinically used. Despite extensive investigation, the underlying mechanisms remain unexplained. Among the proposed hypotheses, tissue oxygen has consistently been a central theme because oxygen is the most dominant factor known to modulate radiation-induced damage. The factors implicated in FLASH sparing include the baseline partial pressure of oxygen (pO2), transient radiolytic oxygen consumption (ROC), and oxygen-dependent changes in the chemistry of reactive oxygen species (ROS) that vary with dose rate. This review synthesizes current evidence on in vivo oxygen measurement techniques, highlighting their capabiliti</summary>
-  </entry>
-  <entry>
-    <title>Quantitative Infrared Thermographic Assessment of Hand Cooling Dynamics During Controlled Contact with Metal Plates</title>
-    <link href="https://arxiv.org/abs/2607.16536"/>
-    <id>https://arxiv.org/abs/2607.16536</id>
-    <summary type="text">This study investigates the spatiotemporal thermal response of human hands during controlled contact cooling using short wave infrared (SWIR), mid wave infrared (MWIR), and long wave infrared (LWIR) thermography. Three participants simultaneously placed one hand on a cooling metal plate and the contralateral hand on a reference plate maintained near room temperature. Temperature evolution was analyzed in five anatomical regions, including the distal finger, proximal finger, vessel associated region, non vessel region, and forearm. Quantitative metrics, including temperature variation, bilateral temperature difference, initial cooling rate, and frequency-domain amplitude, were extracted from the thermal image sequences. The results showed that the finger regions exhibited the largest temper</summary>
-  </entry>
-  <entry>
-    <title>Feasibility of Continuous Ventricular Volumetric Quantification in Arrhythmias using Real-Time 3D CMR-MOTUS</title>
-    <link href="https://arxiv.org/abs/2603.04233"/>
-    <id>https://arxiv.org/abs/2603.04233</id>
-    <summary type="text">Conventional cardiovascular magnetic resonance (CMR) cine imaging combines data across multiple heartbeats, an assumption that can fail in arrhythmia because beat-to-beat variation causes motion artifacts and obscures functional heterogeneity. Although 2D real-time cine resolves individual beats, stacked slices are suboptimal for capturing complex 3D cardiac dynamics. We investigated continuous beat-to-beat volumetric quantification in patients with premature ventricular contractions (PVCs) using free-running 3D real-time CMR. CMR-MOTUS was extended to jointly reconstruct time-resolved 3D motion fields and a motion-corrected reference image from continuously acquired data without breath-holding or ECG gating. Data were acquired with a variable-density Cartesian trajectory and either 3D spo</summary>
-  </entry>
-  <entry>
-    <title>AI-Assisted Hyperspectral Interferometry and Single-Cell Dispersion Imaging</title>
-    <link href="https://arxiv.org/abs/2601.00997"/>
-    <id>https://arxiv.org/abs/2601.00997</id>
-    <summary type="text">Interferometry techniques are essential for extracting phase information from optical systems enabling precise measurements of dispersion and highly sensitive detection of perturbations. While phase sensing offers enhanced sensitivity compared to conventional spectroscopy methods, this sensitivity often makes systems more vulnerable to external factors such as vibrations, introducing instability and noise. In this work, we demonstrate a broadband and AI-enhanced interferometry method, denoted general polarization common-path interferometry (GPCPI) that relaxes the polarization constraints of traditional common-path interferometry. The polarization decoupling feature enables simultaneous amplitude and phase measurements supplemented with deep neural autoencoders to detect phase anomalies in</summary>
+    <title>Spatiotemporally decoupled super-oscillatory microscopy enables label-free reconstruction of human ciliary waveforms</title>
+    <link href="https://arxiv.org/abs/2512.13432"/>
+    <id>https://arxiv.org/abs/2512.13432</id>
+    <summary type="text">Imaging native motile cilia requires label-free contrast, sub-diffraction spatial discrimination, and millisecond temporal sampling. We introduce Super-Oscillatory Label-free Inertia-free Scanning (SOLIS) microscopy, in which a static multilevel diffractive optical element generates compressed super-oscillatory probes and a high-speed digital micromirror device addresses the probes without translated-stage motion. A complete 25-position scan produces one acquisition-window-averaged map every 3.58 ms, corresponding to 279 reconstructed fps. On nanofabricated line-pair targets, SOLIS retained measurable label-free contrast at a 253 nm period and resolved representative modulation at 270 nm. In differentiated primary human nasal epithelial cultures, SOLIS distinguished adjacent ciliary maxima</summary>
   </entry>
   <entry>
     <title>The Wulff bio-heat transfer model revisited: directional blood enthalpy transport, the biological Peclet number, and implications for laser-induced thermal therapy</title>

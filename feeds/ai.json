@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.json",
   "items": [
     {
+      "id": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
+      "url": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
+      "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
+      "content_text": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capable AI systems. In front of an audience of Wistron […]",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/wistron-event-july2026-kv-3840x2160-1-scaled.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
       "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
       "title": "Introducing Gemini 3.5 Flash Cyber",
@@ -362,21 +377,6 @@
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/nemotron-labs-open-models-blog-feature-image.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
-      "url": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
-      "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
-      "content_text": "From benchmark to production, NVIDIA Blackwell NVL72 delivers the highest performance per watt to maximize revenue and the lowest token cost to maximize profit margins.",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/performance-per-watt-ai-infra-efficiency.jpg",
           "mime_type": "image/jpeg"
         }
       ],

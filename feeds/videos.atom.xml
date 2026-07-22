@@ -4,7 +4,14 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.atom.xml"/>
   <id>urn:4thwaveai-feeds:videos</id>
-  <updated>Tue, 21 Jul 2026 20:30:56 +0000</updated>
+  <updated>Wed, 22 Jul 2026 04:15:53 +0000</updated>
+  <entry>
+    <title>A Week of Smoky Skies Across North America - NASA Science</title>
+    <link href="https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/"/>
+    <id>https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/</id>
+    <summary type="text">Brown carbon, emitted by wildland fires and tracked over the span of a week in July 2026, worsened air quality in parts of the U.S. and Canada.</summary>
+    <updated>Wed, 22 Jul 2026 00:00:00 -0400</updated>
+  </entry>
   <entry>
     <title>NASA Langley Celebrates Community through Music with ‘Symphony Under the Stars’ Event  - NASA</title>
     <link href="https://www.nasa.gov/general/nasa-langley-celebrates-community-through-music-with-symphony-under-the-stars-event/"/>
@@ -25,13 +32,6 @@
     <id>https://developer.nvidia.com/blog/integrate-nvidia-omniverse-rtx-sensor-simulation-into-existing-apps/</id>
     <summary type="text">Developers building 3D, design, simulation, robotics, and industrial digital twin applications need ways to bring physical AI capabilities into the tools and services they already use.</summary>
     <updated>Mon, 20 Jul 2026 15:00:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>NASA’s Psyche Mission Delivers Mars Flyby Data, Time-lapse Video  - NASA Science</title>
-    <link href="https://science.nasa.gov/blogs/psyche/2026/07/17/nasas-psyche-mission-delivers-mars-flyby-data-time-lapse-video/"/>
-    <id>https://science.nasa.gov/blogs/psyche/2026/07/17/nasas-psyche-mission-delivers-mars-flyby-data-time-lapse-video/</id>
-    <summary type="text">When NASA’s Psyche spacecraft flew by Mars for a gravity assist on May 15, 2026, it gave the mission team an opportunity to test instruments and prep for science they’ll conduct when reaching the metal-rich asteroid Psyche in 2029, and collect images and a time-lapse video of the Mars encounter.</summary>
-    <updated>Fri, 17 Jul 2026 13:07:24 -0400</updated>
   </entry>
   <entry>
     <title>NovoTags: AI-designed proteins help scientists see inside living cells | EMBL</title>

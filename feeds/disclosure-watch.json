@@ -5,6 +5,40 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/disclosure-watch.json",
   "items": [
     {
+      "id": "https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/",
+      "title": "A Week of Smoky Skies Across North America - NASA Science",
+      "content_text": "Brown carbon, emitted by wildland fires and tracked over the span of a week in July 2026, worsened air quality in parts of the U.S. and Canada.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-week-of-smoky-skies-across-north-america/nambrowncarbon_geos5_20260720_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-week-of-smoky-skies-across-north-america/nambrowncarbon_geos5_20260720.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/",
+      "url": "https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/",
+      "title": "NISAR’s L-Band Radar Reveals ‘Hummingbird’ in Antarctica - NASA Science",
+      "content_text": "Data from the Earth-orbiting U.S.-India NISAR (NASA-ISRO Synthetic Aperture Radar) satellite’s L-band radar was used to produce an image of Nunatak",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26617/PIA26617.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
       "id": "https://science.nasa.gov/researchers/solicitations/roses-2025/roses-25-c-2-solar-system-science-corrections/",
       "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/roses-25-c-2-solar-system-science-corrections/",
       "title": "ROSES-25 C.2 Solar System Science Corrections - NASA Science",
@@ -84,14 +118,14 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/niac-2026-selections/",
-      "url": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/niac-2026-selections/",
-      "title": "NIAC 2026 Selections",
-      "content_text": "Saptarshi BandyopadhyayDimming the Sun (DimSun) Using Controllable Dust Cloud to Reduce Solar InsolationNASA Jet Propulsion LaboratoryPasadena, CA",
+      "id": "https://www.nasa.gov/people/richard-papasin/",
+      "url": "https://www.nasa.gov/people/richard-papasin/",
+      "title": "Richard Papasin - NASA",
+      "content_text": "Title: Division Chief (Acting) of Intelligent Systems",
       "attachments": [
         {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/05/2026-web-graphic-banner-ph-i-final.png",
-          "mime_type": "image/png"
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/richard-papasin.jpg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -99,44 +133,14 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection/",
-      "url": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection/",
-      "title": "Precision Astrometry",
-      "content_text": "The scientific goal is to enable a new method for observing gravitational waves at low frequencies, based on the astrometric GW signature -- gravitational",
+      "id": "https://www.nasa.gov/news-release/nasa-to-host-media-briefing-on-roman-telescope-launching-next-month/",
+      "url": "https://www.nasa.gov/news-release/nasa-to-host-media-briefing-on-roman-telescope-launching-next-month/",
+      "title": "NASA to Host Media Briefing on Roman Telescope, Launching Next Month - NASA",
+      "content_text": "The Roman telescope is managed at NASA Goddard with participation by the agency’s Jet Propulsion Laboratory in Southern California; Caltech/IPAC in Pasadena,",
       "attachments": [
         {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-stankus-2.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/directorates/stmd/mapping-alien-continents-achieving-optical-vlbi-for-exoplanet-imaging/",
-      "url": "https://www.nasa.gov/directorates/stmd/mapping-alien-continents-achieving-optical-vlbi-for-exoplanet-imaging/",
-      "title": "Mapping Alien Continents",
-      "content_text": "Paul StankusBrookhaven Science Associates",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-stankus-1.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/interworld-slingshot-resource-surveys/",
-      "url": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/interworld-slingshot-resource-surveys/",
-      "title": "Interworld Slingshot Resource",
-      "content_text": "Pablo Sobron SanchezSETI Institute",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-sobron.png",
-          "mime_type": "image/png"
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/ksc-20260626-ph-ser01-0004large.jpg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [

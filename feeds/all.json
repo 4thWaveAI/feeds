@@ -5,6 +5,85 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
+      "id": "https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/",
+      "title": "A Week of Smoky Skies Across North America - NASA Science",
+      "content_text": "Brown carbon, emitted by wildland fires and tracked over the span of a week in July 2026, worsened air quality in parts of the U.S. and Canada.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-week-of-smoky-skies-across-north-america/nambrowncarbon_geos5_20260720_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-week-of-smoky-skies-across-north-america/nambrowncarbon_geos5_20260720.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://esportsinsider.com/2026/07/single-player-games-esports",
+      "url": "https://esportsinsider.com/2026/07/single-player-games-esports",
+      "title": "Single-player games deserve more attention in esports",
+      "content_text": "League of Legends and Counter-Strike 2 seem to get all the love, but single-player games deserve way more attention.",
+      "attachments": [
+        {
+          "url": "https://esportsinsider.com/wp-content/uploads/2026/05/genesis-x3-cody.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/",
+      "url": "https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/",
+      "title": "NISAR’s L-Band Radar Reveals ‘Hummingbird’ in Antarctica - NASA Science",
+      "content_text": "Data from the Earth-orbiting U.S.-India NISAR (NASA-ISRO Synthetic Aperture Radar) satellite’s L-band radar was used to produce an image of Nunatak",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26617/PIA26617.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2026-07-ruthenium-nanoparticles-captured-perchlorate-harmless.html",
+      "url": "https://phys.org/news/2026-07-ruthenium-nanoparticles-captured-perchlorate-harmless.html",
+      "title": "Ruthenium nanoparticles convert captured perchlorate into harmless chloride in water treatment waste",
+      "content_text": "For decades, water utilities have relied on giant tanks filled with ion-exchange resin beads to remove perchlorate, a harmful industrial pollutant, from drinking water. The system works by attracting negatively charged perchlorate ions to positively charged resin beads, allowing purified water to flow out of the tanks. But the process leaves behind a difficult problem: resin beads loaded with perchlorate that must be regenerated or disposed of as hazardous waste.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/-drinking-water.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
+      "url": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
+      "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
+      "content_text": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capable AI systems. In front of an audience of Wistron […]",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/wistron-event-july2026-kv-3840x2160-1-scaled.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "https://science.nasa.gov/researchers/solicitations/roses-2025/roses-25-c-2-solar-system-science-corrections/",
       "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/roses-25-c-2-solar-system-science-corrections/",
       "title": "ROSES-25 C.2 Solar System Science Corrections - NASA Science",
@@ -37,7 +116,7 @@
     {
       "id": "https://esportsinsider.com/2026/07/esports-ai-controversy",
       "url": "https://esportsinsider.com/2026/07/esports-ai-controversy",
-      "title": "I am not convinced that hunting for AI is going to solve esports biggest issues",
+      "title": "I am not convinced that hunting for AI is going to solve esports' biggest issues",
       "content_text": "With Mobile Legends: Bang Bang recently accused of having AI in its menu, I got to thinking: Who cares really? Is it impacting esports?",
       "attachments": [
         {
@@ -271,36 +350,6 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-schafer.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/directorates/stmd/niac/actively-steerable-femtosat-constellations-for-in-situ-exploration-of-saturns-rings-atmosphere-and-magnetosphere/",
-      "url": "https://www.nasa.gov/directorates/stmd/niac/actively-steerable-femtosat-constellations-for-in-situ-exploration-of-saturns-rings-atmosphere-and-magnetosphere/",
-      "title": "Actively Steerable Femtosat Constellations",
-      "content_text": "Michael RubensteinNorthwestern University, Chicago",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-rubenstein.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/directorates/stmd/niac/praxis-planetary-rings-autonomous-exploration-with-in-situ-sampling/",
-      "url": "https://www.nasa.gov/directorates/stmd/niac/praxis-planetary-rings-autonomous-exploration-with-in-situ-sampling/",
-      "title": "PRAXIS",
-      "content_text": "Humanity has never touched the particles of a planetary ring, but if we were able to get close enough and sample them, it will transform understanding of ring",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-quadrelli.png",
           "mime_type": "image/png"
         }
       ],
@@ -609,6 +658,21 @@
       ]
     },
     {
+      "id": "https://science.nasa.gov/blogs/science-news/2026/07/20/nasa-funded-study-shows-how-controlled-burns-help-sequoias-survive-wildfires/",
+      "url": "https://science.nasa.gov/blogs/science-news/2026/07/20/nasa-funded-study-shows-how-controlled-burns-help-sequoias-survive-wildfires/",
+      "title": "NASA-Funded Study Shows How Controlled Burns Help Sequoias Survive Wildfires - NASA Science",
+      "content_text": "A new study, funded by NASA, found that giant sequoias were nearly four times more likely to survive extreme wildfires in forests that have been managed with prescribed burns, which decrease tree mortality.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/esd/esnt/GiantSequoias.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "climate-environment"
+      ]
+    },
+    {
       "id": "https://phys.org/news/2026-07-acid-resistant-nanocage-gastric-cancer.html",
       "url": "https://phys.org/news/2026-07-acid-resistant-nanocage-gastric-cancer.html",
       "title": "Acid-resistant nanocage shows promise for targeted gastric cancer therapy",
@@ -854,66 +918,6 @@
       ],
       "tags": [
         "research-integrity"
-      ]
-    },
-    {
-      "id": "https://www.embl.org/news/science-technology/scientists-map-how-the-flu-virus-rewires-the-human-cell-from-the-inside/",
-      "url": "https://www.embl.org/news/science-technology/scientists-map-how-the-flu-virus-rewires-the-human-cell-from-the-inside/",
-      "title": "Scientists map how the flu virus rewires the human cell from the inside | EMBL",
-      "content_text": "EMBL Hamburg researchers and their collaborators have gained new insights into how the influenza A virus reprograms cellular machinery",
-      "attachments": [
-        {
-          "url": "https://www.embl.org/news/wp-content/uploads/2026/07/Kosinski_fluVirus.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "biotech"
-      ]
-    },
-    {
-      "id": "https://aiforgood.itu.int/ray-kurzweil-at-ai-for-good-global-summit-2026-we-will-not-be-replaced-by-ai-we-will-merge-with-it/",
-      "url": "https://aiforgood.itu.int/ray-kurzweil-at-ai-for-good-global-summit-2026-we-will-not-be-replaced-by-ai-we-will-merge-with-it/",
-      "title": "Ray Kurzweil at AI for Good Global Summit 2026: \"We will not be replaced by AI — we will merge with it\"",
-      "content_text": "Connect with 55K+ AI enthusiasts",
-      "attachments": [
-        {
-          "url": "https://s41721.pcdn.co/wp-content/uploads/2026/07/16x9-banner-1024x576.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html",
-      "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
-      "content_text": "Our monetary policy strategy, the tools we use and the impact they have",
-      "attachments": [
-        {
-          "url": "https://www.ecb.europa.eu/press/shared/img/socialmedia/social-default.jpg?0ef1632c35edede913681bb76af694a4=",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "programmable-finance"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2026-07-nanoparticles-immune-molecules-blood.html",
-      "url": "https://phys.org/news/2026-07-nanoparticles-immune-molecules-blood.html",
-      "title": "Nanoparticles could remove harmful immune molecules from blood",
-      "content_text": "The immune system, the body's defense network against infections and injuries, can sometimes become too active. In these cases, it can produce too many immune mediators, fragments of genetic material or proteins that regulate immune responses.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/nanoparticles-could-re.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
       ]
     }
   ]

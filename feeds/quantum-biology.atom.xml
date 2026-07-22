@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/quantum-biology.atom.xml"/>
   <id>urn:4thwaveai-feeds:quantum-biology</id>
-  <updated>Tue, 21 Jul 2026 20:28:30 +0000</updated>
+  <updated>Wed, 22 Jul 2026 04:13:45 +0000</updated>
   <entry>
     <title>2010 TSC Tucson ARIZONA</title>
     <link href="https://consciousness.arizona.edu/news/2010-tsc-tucson-arizona"/>
@@ -76,185 +76,142 @@
     <updated>Thu, 04 Sep 2025 05:00:00 -0700</updated>
   </entry>
   <entry>
-    <title>Feedback-mediated circulation and persistence of stochastic fluctuations in gene regulatory circuits</title>
-    <link href="https://arxiv.org/abs/2607.17743"/>
-    <id>https://arxiv.org/abs/2607.17743</id>
-    <summary type="text">Feedback plays a significant role in biochemical networks that govern a multitude of cellular functions, including development, adaptation, and homeostasis. Yet, how feedback topology controls stochastic fluctuations remains incompletely understood. Here, we develop a theoretical framework for two-node feedback motifs composed of activating and repressive regulatory interactions between two transcription factors. Under the linear noise approximation, we identify a feedback-driven contribution to node-wise fluctuations, termed cyclic noise, that arises specifically from loop closure. Cyclic noise is the component of fluctuations that circulates through the regulatory circuit. Its sign and magnitude distinguish whether feedback amplifies or attenuates node-wise fluctuations. We further show </summary>
+    <title>Deterministic cascade coarsening in a Bistable Gene Toggle model</title>
+    <link href="https://arxiv.org/abs/2607.18891"/>
+    <id>https://arxiv.org/abs/2607.18891</id>
+    <summary type="text">We investigate deterministic coarsening dynamics in a spatially extended bistable gene toggle model with diffusive coupling. Unlike classical curvature-driven coarsening, where domain walls move continuously and annihilate gradually, the present system exhibits a qualitatively different mechanism. The domain walls remain pinned for long intervals and disappear abruptly through collective cascade events. The density of domain walls decays approximately as $ρ(t)\sim t^{-δ}$, but the coarsening exhibits clear log-periodic oscillations superimposed on the power-law behavior. For all values of the promoter strength $α$ considered, the measured exponent satisfies $δ&lt;0.5$, indicating a systematic deviation from the classical Allen--Cahn prediction $δ=1/2$ for curvature-driven coarsening. We show </summary>
   </entry>
   <entry>
-    <title>Emergent topological structure in spontaneous brain-organoid activity</title>
-    <link href="https://arxiv.org/abs/2607.16517"/>
-    <id>https://arxiv.org/abs/2607.16517</id>
-    <summary type="text">Neural activity is widely held to organize on low-dimensional structure embedded in a high-dimensional state space. Persistent homology reads such structure directly from the pattern of pairwise correlations, without assuming in advance which variables are relevant. We apply persistent homology to microelectrode-array (MEA) recordings of spontaneous activity from human (Lancaster) and mouse (Paşca) cortical organoids, spanning $26$--$234$ simultaneously sorted units, and ask whether topological data analysis resolves structure at the node counts that neural recordings actually deliver. Building weighted networks in correlation space and characterizing them by Vietoris--Rips filtration, we find that the first homology ($H_1$, loops) rises significantly above a rate- and population-preservin</summary>
+    <title>Energy Conversion, Fluctuation Suppression, and Information Transfer in the Thermodynamic Performance of Kinesin</title>
+    <link href="https://arxiv.org/abs/2607.18905"/>
+    <id>https://arxiv.org/abs/2607.18905</id>
+    <summary type="text">Kinesin is a molecular motor that transports intracellular cargoes along microtubules. Recent studies have quantified kinesin performance using various efficiencies within the framework of stochastic thermodynamics; however, quantitative comparisons remain difficult because different models and assumptions have been employed. As a result, it remains unclear which aspect of kinesin performance, if any, is thermodynamically optimized. Here, we systematically compare multiple thermodynamic efficiencies within a single kinesin-cargo model. To this end, we construct a thermodynamically consistent two-state kinesin-cargo model that retains both the discrete stepping of kinesin and its coupling to the cargo. Assuming a separation of time scales between the motor and the cargo, we derive analytica</summary>
   </entry>
   <entry>
-    <title>The Origins of Transient Bimodality</title>
-    <link href="https://arxiv.org/abs/2607.16531"/>
-    <id>https://arxiv.org/abs/2607.16531</id>
-    <summary type="text">Many dynamical systems exhibit diverse modes of behavior. In biology, such modes can represent individual or cell fates. While the emergence of multimodality is commonly studied, transient bimodality is much less well understood. Under transient bimodality, a system moving from a well-defined initial to a final state transiently undergoes a bifurcation into multiple probability modes. This noise-driven phenomenon can significantly impact processes such as cell differentiation and speciation in the presence of changing environmental conditions. We detail a theoretical approach for understanding transient bimodality connecting results from ecology, optics, chemical reaction networks and cell biology, propose a ``minimal model&#x27;&#x27; of transient bimodality and derive a general criterion for its p</summary>
+    <title>Efficient quantum transport in disordered Floquet networks</title>
+    <link href="https://arxiv.org/abs/2607.19278"/>
+    <id>https://arxiv.org/abs/2607.19278</id>
+    <summary type="text">We propose a mechanism for fast and efficient quantum transport through disordered networks with variable on-site energies, inspired by photosynthetic complexes. The mechanism relies on an interplay between inter-site couplings of the network and driving by external vibrations. Two design principles are shown to ensure close-to-perfect transport despite the disorder, namely a reflection symmetry in Floquet-Hilbert space and the existence of a dominant doublet or triplet of Floquet states.</summary>
   </entry>
   <entry>
-    <title>On the Information Required for Feedback Control</title>
-    <link href="https://arxiv.org/abs/2607.16639"/>
-    <id>https://arxiv.org/abs/2607.16639</id>
-    <summary type="text">Biological systems across scales, along with many engineering problems, must control noisy systems with limited information. Here we study information-limited feedback control of stochastic systems to achieve target steady states, and derive a lower bound on the information rate from controlled system to controller. This framework allows us to obtain performance-information Pareto frontiers for wide-ranging control problems with limited information. For systems with state-independent passive dynamics, the bound is saturated by an explicit optimal control protocol which probabilistically time-reverses the passive dynamics. We showcase these results through applications to nonlinear particle localization, microbial navigation, and experimentally realized information engines.</summary>
+    <title>Conditions for Darwinian evolution in compartmentalized autocatalytic reaction networks</title>
+    <link href="https://arxiv.org/abs/2211.03155"/>
+    <id>https://arxiv.org/abs/2211.03155</id>
+    <summary type="text">The first forms of life likely consisted of protocells endowed with metabolism, growth, and division. Such systems may have evolved due to variation and heredity in their chemical composition, even before the advent of genetics. However, whether compositional heredity is robust enough to sustain evolution by natural selection remains unknown, especially given that early compartmentalization cycles were likely imperfect, potentially disrupting stable inheritance across generations. Here, we show that multistable autocatalytic reaction networks can maintain heritable compositional states across a broad class of growth-division regimes, including continuous, serial, symmetric division, and multi-fragmentation cycles. We further identify parameter domains that preserve stable inheritance in th</summary>
   </entry>
   <entry>
-    <title>Floquet Driving of Enzymatic Reactions: Counting Statistics and Long-Time Currents</title>
-    <link href="https://arxiv.org/abs/2607.17072"/>
-    <id>https://arxiv.org/abs/2607.17072</id>
-    <summary type="text">Technologies for artificially controlling chemical reaction systems, such as optogenetics, are rapidly advancing, making it increasingly important to understand reaction dynamics under time-dependent control. When the modulation of reaction rates is periodic in time, the Floquet formalism provides a systematic framework. We develop a Floquet theory for classical stochastic processes that enables the calculation of the current and its counting statistics under such periodic modulation. In particular, we formulate the theory in terms of a counting field and derive general expressions for the first cumulant and the corresponding current. The current is expressed using the effective Floquet generator and the kicked state, and we further obtain general asymptotic expressions for the current in </summary>
+    <title>Landing-Induced Viscoelastic Changes in an Anthropomimetic Foot Joint Structure are Modulated by Foot Structure and Posture</title>
+    <link href="https://arxiv.org/abs/2601.14634"/>
+    <id>https://arxiv.org/abs/2601.14634</id>
+    <summary type="text">How skeletal architecture and landing posture shape the immediate post-impact viscoelastic response of the foot remains incompletely understood, in part because cadaveric specimens are ill-suited to repeated impact testing across postures. In this study, we developed an anthropomimetic foot joint structure aimed at replicating the skeletal geometry of the human foot. Using a vertical drop apparatus that simulates landing and a viscoelastic system-identification model, we investigated how skeletal structure and posture modulate the apparent post-impact viscoelastic response. The results show that the multi-jointed anthropomimetic structure exhibited a higher damping ratio than simplified flat and rigid feet. Moreover, ankle dorsiflexion and toe extension systematically shifted the identifie</summary>
   </entry>
   <entry>
-    <title>How genome redundancy can promote evolutionary innovation</title>
-    <link href="https://arxiv.org/abs/2607.17687"/>
-    <id>https://arxiv.org/abs/2607.17687</id>
-    <summary type="text">Polyploidy is defined as the existence of more than two complete sets of homologous chromosomes. Despite it being a widespread phenomenon across the tree of life, its role as either an evolutionary innovation or a dead end is still debated. Here, we investigate how under varying selective pressures the degree of ploidy interacts with two key biological factors: the mode of inheritance and the genotype-phenotype mapping. Through a minimal evolutionary model we find that polyploidy is especially advantageous during abrupt environmental changes, confirming that polyploidization is often associated with ecological upheavals. We observe that stochastic inheritance combined with a nonlinear (maximum-based) genotype-phenotype mapping maximizes both phenotypic exploitation and landscape exploratio</summary>
+    <title>Force Geometry and Irreversibility in Nonequilibrium Overdamped Dynamics</title>
+    <link href="https://arxiv.org/abs/2603.29416"/>
+    <id>https://arxiv.org/abs/2603.29416</id>
+    <summary type="text">Recent experiments have revealed heterogeneous dissipation in optically trapped systems, often anticorrelated with local positional fluctuations, exposing a structural gap in the scalar stochastic thermodynamic description. While the scalar framework successfully quantifies dissipation through currents and entropy production rates, it does not reveal the underlying vectorial force geometry that shapes spatial dissipation patterns. Here, we bridge this gap by identifying force geometry as an organizing principle for nonequilibrium thermodynamics, introducing force alignment as a geometric determinant of irreversibility. We show that entropy production depends not only on force magnitudes but also on the relative orientation between deterministic driving forces and entropic gradients, vanish</summary>
   </entry>
   <entry>
-    <title>Review of oxygen measurement and relevance to the mechanisms of FLASH radiotherapy</title>
-    <link href="https://arxiv.org/abs/2607.17974"/>
-    <id>https://arxiv.org/abs/2607.17974</id>
-    <summary type="text">FLASH radiotherapy (FLASH-RT) is the phenomenon of relative sparing of normal tissue when ultra-high dose rates (UHDR) are used compared with conventional dose rates (CDR) as clinically used. Despite extensive investigation, the underlying mechanisms remain unexplained. Among the proposed hypotheses, tissue oxygen has consistently been a central theme because oxygen is the most dominant factor known to modulate radiation-induced damage. The factors implicated in FLASH sparing include the baseline partial pressure of oxygen (pO2), transient radiolytic oxygen consumption (ROC), and oxygen-dependent changes in the chemistry of reactive oxygen species (ROS) that vary with dose rate. This review synthesizes current evidence on in vivo oxygen measurement techniques, highlighting their capabiliti</summary>
+    <title>Noise-Induced Transitions and Coherence Resonance in a 5D Conductance-Based Neuronal Model</title>
+    <link href="https://arxiv.org/abs/2605.04088"/>
+    <id>https://arxiv.org/abs/2605.04088</id>
+    <summary type="text">Intrinsic channel noise is an important source of variability in neuronal dynamics, but its state-dependent and boundary-constrained nature can be difficult to represent numerically. Here, we investigate the effects of bounded multiplicative noise applied to the slow M-current gating variable in a five-dimensional conductance-based model of a CA1 pyramidal neuron. We employ a full-truncation semi-implicit Euler scheme to control boundary violations and perform Monte Carlo parameter sweeps, time-step checks, burst-detection sensitivity analyses, and conductance perturbations. In subthreshold regimes, noise induces firing and produces an intermediate-noise minimum in the coefficient of variation, consistent with coherence resonance. In the deep subthreshold regime, the burst rate exhibits mo</summary>
   </entry>
   <entry>
-    <title>Advancing flight physics through natural adaptation and animal learning</title>
-    <link href="https://arxiv.org/abs/2409.10067"/>
-    <id>https://arxiv.org/abs/2409.10067</id>
-    <summary type="text">Fluid dynamics, and flight in particular, is a domain where organisms challenge our understanding of its physics. Integrating the current knowledge of animal flight, we propose to revisit the use of live animals to study physical phenomena. After a short description of the physics of flight, we examine the broad literature on animal flight focusing on studies of living animals. We start out reviewing the diverse animal species studied so far and then focus on the experimental techniques used to study them quantitatively. Our network analysis reveals how the three clades of animals performing powered flight - insects, birds and bats - are studied using substantially different combinations of measurement techniques. We then combine these insights with a new paradigm for increasing our physic</summary>
+    <title>A First Bound on the Moffat Energy and Thorium--229 Clock as a Probe of the Nonlocal Time-Energy Structure</title>
+    <link href="https://arxiv.org/abs/2607.18333"/>
+    <id>https://arxiv.org/abs/2607.18333</id>
+    <summary type="text">The new Thorium--229 nuclear clocks give us a new laboratory system in which to test if modification of the Time-Energy uncertainty principle is correct. In this paper we derive the nonlocal Time-Energy uncertainty principle and then apply the published $^{229}$Th nuclear clock data as a first probe of the nonlocality scale \(E_M\). We note that since these experiments were not designed to test nonlocal quantum field theory the constraints are interpreted as motivating bounds and not definitive exclusions. By using the direct clock-energy channel, we find conservative lower bounds on \(E_M\) at the tens of MeV scale, with optimistic present-data estimates reaching the hundred MeV scale. Including the known nuclear sensitivity enhancement of the $^{229}$Th transition gives us stronger model</summary>
   </entry>
   <entry>
-    <title>Adaptive High-Level Tight Control of Prostate Cancer: A Path from From Terminal Disease to Chronic Condition</title>
-    <link href="https://arxiv.org/abs/2410.16005"/>
-    <id>https://arxiv.org/abs/2410.16005</id>
-    <summary type="text">Metastatic prostate cancer is one of the leading causes of cancer-related morbidity and mortality worldwide. It is characterized by a high mortality rate and a poor prognosis. In this work, we explore how a clinical oncologist can apply a Stackelberg game-theoretic framework to prolong metastatic prostate cancer survival, or even make it chronic in duration. We utilize a Bayesian optimization approach to identify the optimal adaptive chemotherapeutic treatment policy for a single drug (Abiraterone) to maximize the time before the patient begins to show symptoms. We show that, with precise adaptive optimization of drug delivery, it is possible to significantly prolong the cancer suppression period, potentially converting metastatic prostate cancer from a terminal disease to a chronic diseas</summary>
+    <title>Phase-Selective Amplitude Amplification for Constrained Optimization</title>
+    <link href="https://arxiv.org/abs/2607.18338"/>
+    <id>https://arxiv.org/abs/2607.18338</id>
+    <summary type="text">This work introduces a variant of Grover amplitude amplification using stabilizer and blade qubits to improve boosting robustness across objective distributions. We give geometric intuition, example simulations, and discuss limitations. Formal performance bounds and larger-scale validation are left for future research.</summary>
   </entry>
   <entry>
-    <title>AI-Assisted Hyperspectral Interferometry and Single-Cell Dispersion Imaging</title>
-    <link href="https://arxiv.org/abs/2601.00997"/>
-    <id>https://arxiv.org/abs/2601.00997</id>
-    <summary type="text">Interferometry techniques are essential for extracting phase information from optical systems enabling precise measurements of dispersion and highly sensitive detection of perturbations. While phase sensing offers enhanced sensitivity compared to conventional spectroscopy methods, this sensitivity often makes systems more vulnerable to external factors such as vibrations, introducing instability and noise. In this work, we demonstrate a broadband and AI-enhanced interferometry method, denoted general polarization common-path interferometry (GPCPI) that relaxes the polarization constraints of traditional common-path interferometry. The polarization decoupling feature enables simultaneous amplitude and phase measurements supplemented with deep neural autoencoders to detect phase anomalies in</summary>
+    <title>Probing gravitational interaction between milligram optomechanical oscillators operating in the quantum regime</title>
+    <link href="https://arxiv.org/abs/2607.18351"/>
+    <id>https://arxiv.org/abs/2607.18351</id>
+    <summary type="text">We present an ongoing optomechanical experiment aimed at detecting gravitational interaction between milligram-scale oscillators, and exploring its interplay with quantum mechanics. The setup employs two microfabricated oscillators coupled via gravity and read out through a high-finesse optical cavity, at ultra-cryogenic temperature. Finite element simulations, noise modelling, and sensitivity estimates demonstrate that gravitational coupling can be detected with integration times ranging from minutes to hours. The experiment establishes a realistic platform for probing gravitational effects in systems approaching the quantum regime.</summary>
   </entry>
   <entry>
-    <title>Emergence of generic first-passage time distributions for large Markovian networks</title>
-    <link href="https://arxiv.org/abs/2602.18265"/>
-    <id>https://arxiv.org/abs/2602.18265</id>
-    <summary type="text">First-passage times are often the most relevant aspect of a complex Markovian network because they signify when information processing has resulted in a definite decision. Previous studies have shown that for kinetic proofreading networks in the limit of large network size the first-passage time distribution converges either to a delta or to an exponential distribution. Remarkably, these two forms correspond to the two extreme distributions of minimal and maximal entropy for a fixed mean, respectively. Here we build on the connection between first-passage times and graph theory to show that these two limits are not model-specific, but arise generically in Markovian networks from the distribution of the eigenvalues of the generator matrix. A deterministic peak emerges when infinitely many e</summary>
+    <title>Nishimori Threshold Estimation for Bayesian Inference and $\mathbb{Z}_q$ Surface Code Decoding</title>
+    <link href="https://arxiv.org/abs/2607.18374"/>
+    <id>https://arxiv.org/abs/2607.18374</id>
+    <summary type="text">In quantum error correction, the error threshold provides essential quantitative guidance for the ability to bring about fault-tolerance through decoding the effects of incoherent noise, weak measurement or inference. However, the numerical value of an error threshold is typically only accessible through large-scale numerical simulations of the underlying noise model. Here we introduce an analytical estimate of error thresholds falling into the Nishimori universality class via a Fourier--Walsh projection scheme that maps the critical point of the underlying disorder-free statistical-mechanics model to the Born-disordered Nishimori critical point. Using a minimal replica theory approach, this closed-form estimate is obtained from a projection of the exact replicated single-bond weight which</summary>
   </entry>
   <entry>
-    <title>Stochastic Resetting Accelerates Reinforcement Learning Beyond Random Search</title>
-    <link href="https://arxiv.org/abs/2603.16842"/>
-    <id>https://arxiv.org/abs/2603.16842</id>
-    <summary type="text">Stochastic resetting -- intermittently returning a process to a fixed reference state -- has emerged as an effective mechanism for optimizing first-passage properties. Existing theory largely treats processes that search but do not learn: the searcher follows fixed dynamics, accumulating no knowledge between resets. Here we ask how stochastic resetting interacts with reinforcement learning, where the underlying dynamics adapt through experience. In tabular grid environments, we find that resetting can accelerate learning even when it does not reduce the search time of a diffusive agent. Our results reveal a distinct additional mechanism through which resetting speeds the propagation of reward information. We show that deterministic, sharp resetting accelerates learning more than the stocha</summary>
+    <title>Adlam&#x27;s Frame: comment on &quot;Wigner&#x27;s Frame&quot;</title>
+    <link href="https://arxiv.org/abs/2607.18383"/>
+    <id>https://arxiv.org/abs/2607.18383</id>
+    <summary type="text">Recent no-go theorems based on extended Wigner&#x27;s Friend scenarios (EWFS) reveal a deep tension between the universal validity of quantum theory and local friendliness (LF), the conjunction of three natural assumptions: the absoluteness of observed events, locality, and no-superdeterminism. In a recent work, Adlam argues that this tension can be dissolved by appealing to quantum reference frames (QRFs). We present and critically assess her proposal. We show that her proposed resolution does not arise from QRFs, but instead relies on three independent modifications: certain degrees of freedom are always definite, observers can flip upon measuring spins, and the outcomes the superobservers record and use to test the inequalities are not their friends&#x27; observed results. The proposal and the ar</summary>
   </entry>
   <entry>
-    <title>Relativistic bound-state solutions for a non-central Schi{ö}berg-type hyperbolic potential with double ring-shaped angular terms</title>
-    <link href="https://arxiv.org/abs/2607.16265"/>
-    <id>https://arxiv.org/abs/2607.16265</id>
-    <summary type="text">Singular interactions can reshape quantum spectra by changing admissible wavefunction domains. In this study, we investigate this mechanism in the Klein--Gordon equation for a non-central Schiöberg-type hyperbolic potential with double ring-shaped angular barriers. Equal scalar and vector couplings separate the radial and angular dynamics. We solve the angular equation exactly and treat the radial equation with the Greene--Aldrich approximation, obtaining Jacobi-polynomial wavefunctions and an implicit relativistic quantization condition. The equatorial inverse-square singularity splits configuration space into reflection-related sectors with identical angular spectra. Reducing the barrier to zero within one sector retains only odd-parity states, unlike the regular full-domain problem, whi</summary>
+    <title>Remote entanglement need not be the bottleneck for modular trapped-ion quantum computing</title>
+    <link href="https://arxiv.org/abs/2607.18387"/>
+    <id>https://arxiv.org/abs/2607.18387</id>
+    <summary type="text">Modularity underpins classical computing; as quantum processors encounter limits on fabrication yield, reliability, and size, they will need it just as acutely. The bottleneck to linking modules is producing shared entanglement at sufficient rate, density, and fidelity. Trapped ions hold the best demonstrated photonic links, yet they rely on bulky collection optics that cap how densely links can be packed, and their performance trails local gates by two orders of magnitude in rate and fidelity. We synthesize several enabling results $\unicode{x2014}$ single-photon heralding, coherent recoil correction, projective distillation, and trap-integrated photonics $\unicode{x2014}$ into one comprehensive architecture that substantially narrows this gap. Single-photon heralding leads to linear scal</summary>
   </entry>
   <entry>
-    <title>EPIC-CIM: Training Convolutional Neural Networks on a Coherent Ising Machine via Equilibrium Propagation</title>
-    <link href="https://arxiv.org/abs/2607.16271"/>
-    <id>https://arxiv.org/abs/2607.16271</id>
-    <summary type="text">Quantum convolutional neural networks, due to the involvement of quantum measurements and discrete quantum state evolution, face inherent training challenges associated with non-differentiable operations and discrete optimization dynamics, which make conventional gradient-based learning difficult to apply effectively. In this context, energy-based learning provides a promising alternative by reformulating network training as an energy minimization process without explicit gradient backpropagation.In this framework, input data are processed through convolutional operations, followed by quantum sampling to generate intermediate binary representations, while the output layer also relies on quantum sampling to produce final predictions. The overall network energy is composed of convolutional f</summary>
+    <title>Calculus of Robinet: completely positive reconstruction of time-averaged diffusive quantum trajectories</title>
+    <link href="https://arxiv.org/abs/2607.18392"/>
+    <id>https://arxiv.org/abs/2607.18392</id>
+    <summary type="text">Truly continuous quantum trajectories, obtained from homodyne or heterodyne readouts, can only ever be reconstructed approximately. The continuous measurement signal, needed for exact reconstruction, is averaged over bins of finite time $Δt$ during any analog to digital conversion step. The best reconstruction possible, knowing only this discrete record, was introduced recently and dubbed the Robinet state. In this article, we show how the Robinet state can be computed with a numerical discretization scheme that is completely positive, accurate to arbitrarily high order in $Δt$, and that does not rely on any other external solver. Our derivation relies on a dilation of the stochastic master equation into a system + transmission line setup, constructed in such a way that measuring what we c</summary>
   </entry>
   <entry>
-    <title>QR-SPPS: Quantum-Native Retail Supply Chain Risk Simulation via VQE, ADAPT-VQE Counterfactual Policy Ranking, and DOS-QPE Boltzmann Tail Risk Quantification</title>
-    <link href="https://arxiv.org/abs/2607.16275"/>
-    <id>https://arxiv.org/abs/2607.16275</id>
-    <summary type="text">Classical supply chain risk models treat node failures as statistically independent events, systematically underestimating correlated cascade failures across multi-tier supplier networks. We present QR-SPPS (Quantum-Native Retail Shock Propagation and Policy Stress Simulator), a quantum-native framework for retail supply chain risk analysis implemented on the Qiskit ecosystem using OpenFermion-based Ising Hamiltonian encoding. A 40-node, four-tier supply network is mapped to a 40-qubit Hamiltonian with ZZ coupling terms representing correlated supplier dependencies. A hardware-efficient Variational Quantum Eigensolver (VQE) computes the stress ground state, revealing entangled cascade failures that differ substantially from classical Monte Carlo predictions. We further introduce the applic</summary>
+    <title>Magic-protected entanglement and Clifford-irreducible structure in magic state space</title>
+    <link href="https://arxiv.org/abs/2607.18400"/>
+    <id>https://arxiv.org/abs/2607.18400</id>
+    <summary type="text">We develop a Clifford-orbit framework for studying magic-protected entanglement, which we refer to as magical entanglement: the part of bipartite entanglement that remains after optimal stabilizer simplification. This construction leverages residual entanglement under Clifford reduction as a state-level organizing principle for magic state space. It defines canonical representatives, spectra, and ranks that characterize the Clifford-irreducible structure of a state. We identify two regimes of the magic-entanglement interplay. In the $T$-magic regime, local nonstabilizer resources can coexist with entanglement, but the protected component remains weak and state-dependent. In the $W$-magic regime, by contrast, entanglement is Clifford-irreducibly tied to nonstabilizerness, producing typical,</summary>
   </entry>
   <entry>
-    <title>Intelligence-Guided Adaptive Purification for DDoS-Resilient Quantum Networks: A CUDA-Q based Study</title>
-    <link href="https://arxiv.org/abs/2607.16276"/>
-    <id>https://arxiv.org/abs/2607.16276</id>
-    <summary type="text">Quantum-repeater networks require adaptive control policies that balance entanglement generation rate, end-to-end fidelity, purification overhead, and memory-induced latency. This tradeoff becomes more complex when the classical control plane is degraded by cyber anomalies or denial-of-service traffic. We develop a CUDA-Q/SeQUeNCe co-simulation workflow for studying adaptive entanglement purification in heterogeneous linear repeater chains. CUDA-Q noisy quantum kernels are used to estimate primitive entanglement purification and swapping behavior, while SeQUeNCe provides an event-layer model for stochastic link generation, waiting-time-dependent memory decay, purification failure, and end-to-end swapping. Under stationary conditions, we compare no purification, local threshold purification</summary>
+    <title>Monolithic printed-circuit board RF-trap for electrons</title>
+    <link href="https://arxiv.org/abs/2607.18401"/>
+    <id>https://arxiv.org/abs/2607.18401</id>
+    <summary type="text">Qubits encoded in the spin of trapped electrons have been proposed as a promising novel platform for quantum information processing. While trapping of electrons has been largely carried out in Penning traps for precision measurement purposes, it is desirable to use linear Paul traps instead, leaning on the successes of trapped ion quantum processors. Here we present a Paul trap for electrons made of a single printed circuit board. Our approach requires no assembly and the rigid design minimizes manufacturing intolerances. We characterize the trap performance and observe trapped electron lifetimes of 2.13 ms and secular frequencies of up to 90 MHz.</summary>
   </entry>
   <entry>
-    <title>A Hybrid Classical-Quantum Approach for Multi-Constrained Location Optimization Problem</title>
-    <link href="https://arxiv.org/abs/2607.16277"/>
-    <id>https://arxiv.org/abs/2607.16277</id>
-    <summary type="text">The Maximal Covering Location Problem (MCLP) is an NP-hard Combinatorial Optimization Problem (COP) that aims to determine the optimal facility placements that maximize total coverage. It is characterized by both equality and inequality constraints, which ensure correct coverage but significantly increase the complexity of exploring the solution space as instance size grows. Hybrid quantum-classical approaches might offer a promising alternative to classical optimization methods by enabling the exploration of complex energy landscapes through quantum superposition and probabilistic sampling. In this work, the MCLP is formulated as a Quadratic Unconstrained Binary Optimization (QUBO) model, where constraint embedding plays a critical role in solution quality. In particular, Unbalanced Penal</summary>
+    <title>Reducing entanglement with a Hamiltonian derived Clifford transformation</title>
+    <link href="https://arxiv.org/abs/2607.18404"/>
+    <id>https://arxiv.org/abs/2607.18404</id>
+    <summary type="text">Recently (Physica Scripta, 100(10):105401, 2025), an algorithm was introduced that deterministically generates a Clifford transformation from the Qubit Coupled Cluster (QCC) algorithm which we call Q-Cliff (QCC+Clifford). There, it was shown that Q-Cliff could be utilized to generate a hardware efficient version of the QCC ansatz. Here, we examine and refine these techniques and show that Q-Cliff can be utilized to generate efficient classical and quantum approximations to the ground states of chemical systems. The algorithm generates an efficient variational method that generally has accuracy between MP2 and CISD with $O(N^6)$. Furthermore, we show through DMRG calculations that the entanglement between qubits is reduced significantly and therefore the accuracy for a given bond dimension </summary>
   </entry>
   <entry>
-    <title>Number Fluctuations and Entanglement-Spectrum Participation in Monitored Free Fermions</title>
-    <link href="https://arxiv.org/abs/2607.16278"/>
-    <id>https://arxiv.org/abs/2607.16278</id>
-    <summary type="text">Monitored free-fermion chains show a crossover in entanglement scaling as the measurement rate is increased, from a subextensive weak-monitoring regime to an area law at strong monitoring. I test, using trajectory-resolved correlation-matrix simulations of chains up to $L=96$, whether two diagnostics built from the single-particle entanglement spectrum add practical value: the bipartite particle-number fluctuation $F_A=\sum_kν_k(1-ν_k)$ and a participation-style effective number of entangling modes $\mathcal{M}_A=\exp[-\sum_k w_k\ln w_k]$, with $w_k\proptoν_k(1-ν_k)$. Both quantities track the crossover, decreasing monotonically with measurement probability and losing system-size dependence in the strongly monitored regime. However, at the level of trajectory- and time-averaged steady-stat</summary>
+    <title>Bright Telecom Spin-Photon Interface in Silicon Photonics</title>
+    <link href="https://arxiv.org/abs/2607.18435"/>
+    <id>https://arxiv.org/abs/2607.18435</id>
+    <summary type="text">Silicon is an attractive host for scalable quantum photonics, but the absence of bright telecom-band emitters with optically addressable spin states has limited its use for spin-photon interfaces. Here we demonstrate the Al1-center, an aluminum--carbon defect in silicon, as a bright waveguide-integrated single-photon emitter with a ground-state spin. Using isotopically purified silicon-on-insulator nanophotonic devices, we isolate individual Al1-centers and observe high-purity single-photon emission with $g^{(2)}(0)=0.04$ without background subtraction. Time-resolved photoluminescence spectroscopy reveals a fast excited-state lifetime of 135 ns, nearly an order of magnitude shorter than the benchmark provided by the well-studied T-center. Resonant photoluminescence excitation measurements </summary>
   </entry>
   <entry>
-    <title>A Novel Hybrid Quantum Reservoir Computing (nHQRC) for Phase Transition Detection in Non-Equilibrium Dynamical Systems</title>
-    <link href="https://arxiv.org/abs/2607.16281"/>
-    <id>https://arxiv.org/abs/2607.16281</id>
-    <summary type="text">The analysis of highly non-linear stochastic data within non-equilibrium dynamical systems requires computational frameworks capable of detecting latent phase transitions before systemic structural breakdowns occur. Traditional Variational Quantum Algorithms (VQAs) are frequently bottlenecked by vanishing gradients, the barren plateau problem, and prohibitive training overheads. In this paper, we propose a novel Hybrid Quantum Reservoir Computing (nHQRC) framework, which bypasses these limitations by employing a frozen, disordered Transverse-Field Ising Model (TFIM) to project time-dependent stochastic driving forces into an exponentially large Hilbert space. To resolve the physical phase multi-wrapping vulnerabilities present in baseline quantum reservoir models, we introduce a lookahead-</summary>
+    <title>Equivariant Continuous Normalizing Flows with Offline Sampling for Fermionic Ground State Estimation</title>
+    <link href="https://arxiv.org/abs/2607.18486"/>
+    <id>https://arxiv.org/abs/2607.18486</id>
+    <summary type="text">We introduce a framework for fermionic variational Monte Carlo (VMC) in which a continuous normalizing flow (CNF) refines a fixed antisymmetric base wavefunction. The flow is implemented as a permutation-equivariant neural ODE, a smooth, topology-preserving map that learns correlations not captured by the base; equivariance preserves the antisymmetry of the base, so the flow can in principle improve any antisymmetric ansatz that can be sampled efficiently. We demonstrate this using Slater and Jastrow-Slater bases, though more expressive choices are admissible. Exact samples from the flow&#x27;s Born distribution are obtained by pushing pre-cached base samples through the forward ODE, requiring no Markov chain Monte Carlo (MCMC) at training time. The base samples are generated offline and reused</summary>
   </entry>
   <entry>
-    <title>The Quantum Correction to Gaussian Information Geometry is the Killing Form of the Symplectic Algebra</title>
-    <link href="https://arxiv.org/abs/2607.16376"/>
-    <id>https://arxiv.org/abs/2607.16376</id>
-    <summary type="text">On the admissible cone $\mathcal C_Ω=\{Σ\in\mathrm{Sym}^+(2n):Σ+iΩ\ge0\}$ of Gaussian covariance matrices, the classical Bures--Wasserstein transport metric, the Fisher--Rao information metric, and the quantum Bures metric are individually well understood, but their mutual relationship is obscured by the operator equations defining them. Working with the contravariant (dual) metrics, we show that the exact difference between the dual quantum Bures metric and the dual Fisher--Rao metric is independent of the covariance matrix: it is identically the trace form, proportional to the Killing form, of the symplectic algebra $\mathfrak{sp}(2n,\mathbb R)$, pulled back through the isomorphism $X\mapstoΩX$. The signature of this form on the Cartan decomposition reproduces the anisotropic stiffening </summary>
+    <title>Engineering T7 RNA Polymerase for High-Purity In Vitro Transcription</title>
+    <link href="https://arxiv.org/abs/2607.18468"/>
+    <id>https://arxiv.org/abs/2607.18468</id>
+    <summary type="text">In vitro transcription using bacteriophage T7 RNA polymerase (T7 RNAP) is the gold-standard platform for RNA production in both research and therapeutic applications. Despite its high processivity and promoter specificity, T7 RNAP generates multiple RNA by-products, including double-stranded RNA, 3&#x27;-extended transcripts, abortive RNAs, and prematurely terminated products. These impurities reduce RNA yield, complicate downstream purification, and raise safety concerns for RNA-based therapeutics by activating adverse innate immune pathways. Although reaction optimization and downstream purification strategies can mitigate these issues, they typically involve trade-offs between RNA purity and yield. Enzyme engineering has therefore emerged as a powerful upstream strategy to suppress by-produc</summary>
   </entry>
   <entry>
-    <title>Hamiltonian Lift of Bures--Wasserstein Covariance Dynamics with a Spectral Floor</title>
-    <link href="https://arxiv.org/abs/2607.16380"/>
-    <id>https://arxiv.org/abs/2607.16380</id>
-    <summary type="text">Covariance dynamics on the positive-definite cone are commonly described by gradient flows, which encode dissipative relaxation but obscure the underlying phase-space structure. We construct a finite-dimensional Hamiltonian lift of covariance dynamics on Sym$^+_n$ equipped with the Bures--Wasserstein metric. The natural mechanical Lagrangian yields canonical momentum $Π=\tfrac12 L_Σ[\dotΣ]$, where $L_Σ$ is the Lyapunov operator, and explicit Hamiltonian $\mathcal{H}(Σ,Π) = 2{\rm tr}(ΠΣΠ)+V(Σ)$. Adding Rayleigh dissipation recovers the Bures--Wasserstein gradient flow in the overdamped limit. For a spectral-floor and trace-control potential, the quadratic fluctuation Hamiltonian around the isotropic equilibrium separates trace and traceless modes; the baseline stiffness diverges as $(s-ν)^{</summary>
+    <title>GEqTrain: A Configuration-Driven Framework for Retargeting Equivariant Graph Neural Networks Across 3D Scientific Tasks</title>
+    <link href="https://arxiv.org/abs/2607.19083"/>
+    <id>https://arxiv.org/abs/2607.19083</id>
+    <summary type="text">Equivariant graph neural networks provide a powerful modeling language for three-dimensional scientific data, but their reuse is often limited by implementations tied to specific tasks, outputs, and training regimes. We present GEqTrain, a configuration-driven framework that separates dataset semantics, model composition, and training objectives. Raw data are mapped to typed node-, edge-, and graph-level fields, while model stacks, losses, and training workflows are assembled declaratively through Hydra configurations. A shared equivariant backbone and training infrastructure can therefore be retargeted to a new task primarily through configuration. We demonstrate this flexibility on three different problems handled within one software stack: coarse-grained-to-atomistic backmapping of biom</summary>
   </entry>
   <entry>
-    <title>The Norton Theorem for Quantum Circuits and Systems</title>
-    <link href="https://arxiv.org/abs/2607.16385"/>
-    <id>https://arxiv.org/abs/2607.16385</id>
-    <summary type="text">It is well known that classical analog circuits and systems benefit from the powerful Thevenin and Norton theorems. These theorems enable rigorous and exact mathematical simplification and representation of the effect of the rest of a system on the part we want to focus on. We show that there are corresponding versions of a &quot;Quantum Norton Theorem&quot; that enable exact simplification and reduction for quantum circuits and systems, not just for one port, but also for multiport and even open quantum systems. We demonstrate the method on two level systems, chains, system environment partitions, Lindblad examples, and Grover search. The Grover examples show how the reduced network isolates the bright pole governing ideal search and exposes how diagonal disorder transfers spectral weight into dark</summary>
+    <title>Agentic AI-assisted coding offers a unique opportunity to instill epistemic grounding during software development</title>
+    <link href="https://arxiv.org/abs/2604.21744"/>
+    <id>https://arxiv.org/abs/2604.21744</id>
+    <summary type="text">The capabilities of AI-assisted coding are progressing at breakneck speed. Chat-based vibe coding has evolved into fully fledged AI-assisted, agentic software development using agent scaffolds where the human developer creates a plan that agentic AIs implement. One current trend is utilizing documents beyond this plan document, such as project and method-scoped documents. Here we propose GROUNDING.md, a community-governed, field-scoped epistemic grounding document, using mass spectrometry-based proteomics as an example. We have drafted a file specific to proteomics: proteomics_GROUNDING.md (available at https://github.com/OmicsGrounding/proteomics-grounding) to demonstrate what a GROUNDING.md would look like. This explicit field-scoped grounding document encodes Hard Constraints (non-negot</summary>
   </entry>
   <entry>
-    <title>Sample-based quantum diagonalization approach for open-shell transition-metal complexes in gas and implicit-solvent</title>
-    <link href="https://arxiv.org/abs/2607.16389"/>
-    <id>https://arxiv.org/abs/2607.16389</id>
-    <summary type="text">Open-shell $3d$ transition-metal complexes challenge electronic-structure methods because competing spin states, charge transfer, and solvation jointly determine their energetics. Here, we combine sample-based quantum diagonalization (SQD) with the integral-equation-formalism polarizable continuum model (IEF-PCM), extending SQD to correlated open-shell transition-metal systems in a dielectric environment.
-  We investigate the octahedrally coordinated $\mathrm{[Co(H_2O)_5CO_2]^{2+/3+}}$ complex across two oxidation states, four spin multiplicities, and a metal-ligand dissociation coordinate. We study the Co(III) singlet and quintet states and the Co(II) doublet and quartet states, incorporating open-shell references into SQD-IEF-PCM through an outer self-consistent reaction-field loop. Usin</summary>
-  </entry>
-  <entry>
-    <title>Dissipative Stabilization of Floquet-Engineered Many-Body Order</title>
-    <link href="https://arxiv.org/abs/2607.16391"/>
-    <id>https://arxiv.org/abs/2607.16391</id>
-    <summary type="text">Floquet driving underlies Hamiltonian and gate engineering, and produces dynamical orders with no equilibrium counterpart. These phenomena are, however, transient in well-isolated systems. We show that statically coupled dissipative auxiliaries cool the system toward low-energy states of the Floquet-engineered Hamiltonian, stabilizing orders in the steady state. The excess energy density is controllably small at high drive frequency and weak coupling and is captured by rate theory based on Fermi&#x27;s Golden Rule. We numerically confirm robust cooling in a Floquet-engineered transverse-field Ising chain in both phases, and demonstrate discrete time-crystalline order, with a period-doubled magnetization response, in the steady state of a long-range Ising chain. Our results provide a rare analyt</summary>
-  </entry>
-  <entry>
-    <title>Network Characteristics of Individual Pigments in Cyanobacterial Photosystem II Core Complexes</title>
-    <link href="https://arxiv.org/abs/2607.17096"/>
-    <id>https://arxiv.org/abs/2607.17096</id>
-    <summary type="text">Part of the excitation energy transfer (EET) characteristics of the photosystem II (PSII) comes from the interconnection between pigments. To understand the correlation between the EET and the pigments&#x27; interaction structure, we construct a network from the EET rates, which are related to both the distance between the pigments (chlorophylls and pheophytins) and their spatial orientations. Especially, we investigate how well the PS II core complex&#x27;s EET functionality can be explained by using only the network topology in Thermosynechococcus vulcanus 1.9 Å. Starting from the Förster theory, we construct a network of EET pathways. For an analysis of the network structure, we calculate common network-structural measures like betweenness centrality, eigenvector centrality and weighted clusterin</summary>
-  </entry>
-  <entry>
-    <title>The energy landscape of DNA-binding proteins along the genome</title>
-    <link href="https://arxiv.org/abs/2607.17753"/>
-    <id>https://arxiv.org/abs/2607.17753</id>
-    <summary type="text">Reconstructing the energy profile of DNA-binding proteins along the genome requires an algorithm that quantifies efficiently the binding free energy. We assembled a dataset of protein structures and DNA binding sites, together with their binding energies, and used it to train a machine-learning algorithm that learns a latent invariant representation of the protein interface and of the DNA sequence, combining them to predict the free energy. After validating the method, we used it to determine the energy profile of a single-domain transcription factor (PU.1) sliding on mammalian chromosomes, predicting its binding regions and quantifying the statistical properties that determine their stability and their kinetic accessibility.</summary>
-  </entry>
-  <entry>
-    <title>Reshaping Biomolecular Structure Prediction through Strategic Conformational Exploration with HelixFold-S1</title>
-    <link href="https://arxiv.org/abs/2507.09251"/>
-    <id>https://arxiv.org/abs/2507.09251</id>
-    <summary type="text">Generating large ensembles of candidate conformations is standard for improving biomolecular structure prediction. Yet aimless sampling is inefficient and costly, producing many redundant conformations with limited diversity, particularly for complex multimeric assemblies. Here, we present HelixFold-S1, a guided planning approach specifically designed to enhance the structural prediction of biomolecular complexes by strategically targeting the most informative regions of conformational space to produce accurate conformations. For each complex, predicted inter-chain contact probabilities serve as a blueprint of the conformational space, guiding computational effort toward higher-probability, low-redundancy contacts that constrain structure generation. Across diverse biomolecular complex ben</summary>
-  </entry>
-  <entry>
-    <title>ATP-Independent Entropy-Driven dsRNA Unwinding by DDX3X Revealed by Coarse-Grained Simulations and Deep Learning</title>
-    <link href="https://arxiv.org/abs/2512.08367"/>
-    <id>https://arxiv.org/abs/2512.08367</id>
-    <summary type="text">DEAD-box RNA helicases (DDXs) are traditionally known as ATP-dependent motors that unwind double-stranded RNA (dsRNA). Recent experiments, however, show that some DDXs promote dsRNA unwinding even in the absence of ATP, raising a fundamental question about the physical mechanism underlying ATP-independent strand separation. Here, we develop a minimal, physics-based coarse-grained RNA model and incorporate weak, specific interactions between DDX3X and dsRNA, revealing the inherently stochastic nature of unwinding events. The unwinding process must overcome an energy barrier, but thermal fluctuations and entropy gain provide a driving force for RNA remodeling. We identify that dsRNA separation proceeds through rare yet obligatory strand-displacing intermediates facilitated by DDX3X. By combi</summary>
-  </entry>
-  <entry>
-    <title>The proportional scaling of mRNA and ribosome concentrations controls eukaryotic cell growth</title>
-    <link href="https://arxiv.org/abs/2508.14997"/>
-    <id>https://arxiv.org/abs/2508.14997</id>
-    <summary type="text">Cell growth underlies nearly all eukaryotic physiology, yet its quantitative principles remain unclear. Using single-molecule ribosome tracking, spike-in RNA sequencing, and quantitative proteomics across 15 nutrient-limited conditions in budding yeast, we define how growth is controlled in the budding yeast Saccharomyces cerevisiae. Ribosome concentration scales linearly with growth rate, while peptide elongation speed remains constant at ~9 amino acids/s. While elongation is not a regulatory lever, total mRNA concentration increases proportionally with ribosomes to accelerate growth. A simple kinetic model of mRNA-ribosome binding accurately predicts the fraction of active ribosomes, growth rate, and responses to transcriptional or size perturbations. Consistent with this model, transien</summary>
-  </entry>
-  <entry>
-    <title>Induction Meets Biology: Mechanisms of Repeat Detection in Protein Language Models</title>
-    <link href="https://arxiv.org/abs/2602.23179"/>
-    <id>https://arxiv.org/abs/2602.23179</id>
-    <summary type="text">Protein sequences are abundant in repeating segments, both as exact copies and as approximate segments with mutations. These repeats are important for protein structure and function, motivating decades of algorithmic work on repeat identification. Recent work has shown that protein language models (PLMs) identify repeats, by examining their behavior in masked-token prediction. To elucidate their internal mechanisms, we investigate how PLMs detect both exact and approximate repeats. We find that the mechanism for approximate repeats functionally subsumes that of exact repeats. We then characterize this mechanism, revealing two main stages: PLMs first build feature representations using both general positional attention heads and biologically specialized components, such as neurons that enco</summary>
+    <title>The bacterial mechanosensitive channel MscM gates through concerted changes in its transmembrane and cytoplasmic domains - Nature Communications</title>
+    <link href="https://www.nature.com/articles/s41467-026-75798-9"/>
+    <id>https://www.nature.com/articles/s41467-026-75798-9</id>
+    <summary type="text">Mechanosensitive channels in bacteria provide protection against hypoosmotic shock. Here, the authors use cryo-electron microscopy to reveal the gating mechanism of MscS-like channel EcMscM, showing that the conformations of the transmembrane and cytoplasmic domains are coupled.</summary>
   </entry>
   <entry>
     <title>Mechanistic studies of the human NIPA2 transporter - Nature Communications</title>
@@ -309,12 +266,6 @@
     <link href="https://www.nature.com/articles/s41598-026-40510-w"/>
     <id>https://www.nature.com/articles/s41598-026-40510-w</id>
     <summary type="text">Scientific Reports ( 2026 ) Cite this article</summary>
-  </entry>
-  <entry>
-    <title>Structural basis of PLPP3-mediated lipid phosphate dephosphorylation and its role in melanoma - Nature Communications</title>
-    <link href="https://www.nature.com/articles/s41467-026-75824-w"/>
-    <id>https://www.nature.com/articles/s41467-026-75824-w</id>
-    <summary type="text">Phospholipid phosphatases (PLPPs) dephosphorylate lipid phosphates to regulate diverse cellular processes. Here, the authors present the cryoEM structure of PLPP3, providing mechanistic insights into lipid phosphate metabolism and its relevance to melanoma.</summary>
   </entry>
   <entry>
     <title>Transversal fault tolerant distributed quantum computing operations - Nature Communications</title>
@@ -375,5 +326,53 @@
     <link href="https://www.nature.com/articles/s42005-026-02746-w"/>
     <id>https://www.nature.com/articles/s42005-026-02746-w</id>
     <summary type="text">Coherent many-body interactions bring the quantum nature that is key to exploring quantum applications with multipartite entanglement. This work studies a nonlinear tripartite coupling mechanism in a hybrid quantum system, which provides an experimentally promising and reliable platform for manipulating few-body entangled quantum states.</summary>
+  </entry>
+  <entry>
+    <title>Find an expert | University of Surrey</title>
+    <link href="https://www.surrey.ac.uk/news/experts"/>
+    <id>https://www.surrey.ac.uk/news/experts</id>
+    <summary type="text">The University of Surrey is home to authoritative voices in a number of areas – including artificial intelligence, nutrition, business and veterinary medicine.</summary>
+  </entry>
+  <entry>
+    <title>Surrey Speaks podcast | University of Surrey</title>
+    <link href="https://www.surrey.ac.uk/news/surrey-speaks-podcast"/>
+    <id>https://www.surrey.ac.uk/news/surrey-speaks-podcast</id>
+    <summary type="text">As part of Surrey Speaks season 3, experience the cutting edge of technology with Will AI...? - a new series that will delve into the fascinating world of artificial intelligence.</summary>
+  </entry>
+  <entry>
+    <title>UKRI needs to change to facilitate interdisciplinary working, says Jim Al-Khalili | University of Surrey</title>
+    <link href="https://www.surrey.ac.uk/news/ukri-needs-change-facilitate-interdisciplinary-working-says-jim-al-khalili"/>
+    <id>https://www.surrey.ac.uk/news/ukri-needs-change-facilitate-interdisciplinary-working-says-jim-al-khalili</id>
+    <summary type="text">When it comes to interdisciplinary working, industry is in the lead, universities “get it” and are moving in the right direction, but the UK’s funding bodies are lagging behind, which holds back the whole research infrastructure.</summary>
+  </entry>
+  <entry>
+    <title>The university making quantum science more accessible | University of Surrey</title>
+    <link href="https://www.surrey.ac.uk/news/university-making-quantum-science-more-accessible"/>
+    <id>https://www.surrey.ac.uk/news/university-making-quantum-science-more-accessible</id>
+    <summary type="text">The way plants capture sunlight, the way birds use a built-in compass when they migrate and the way our DNA makes use of atoms being in two places at once are all examples of the exciting new field of quantum biology.</summary>
+  </entry>
+  <entry>
+    <title>Enzymes could be key to understanding how DNA mutates, quantum biologists find | University of Surrey</title>
+    <link href="https://www.surrey.ac.uk/news/enzymes-could-be-key-understanding-how-dna-mutates-quantum-biologists-find"/>
+    <id>https://www.surrey.ac.uk/news/enzymes-could-be-key-understanding-how-dna-mutates-quantum-biologists-find</id>
+    <summary type="text">Enzymes, which are crucial to controlling how cells replicate in the human body, could be the very ingredient that encourages DNA to spontaneously mutate – causing potentially permanent genetic errors, according to new research from the University of Surrey.</summary>
+  </entry>
+  <entry>
+    <title>Surrey&#x27;s QS ranking progress built on record graduate employability scores | University of Surrey</title>
+    <link href="https://www.surrey.ac.uk/news/surreys-qs-ranking-progress-built-record-graduate-employability-scores"/>
+    <id>https://www.surrey.ac.uk/news/surreys-qs-ranking-progress-built-record-graduate-employability-scores</id>
+    <summary type="text">The University of Surrey has moved up 16 places in the QS World University Rankings 2027, reaching 246 th globally and demonstrating continued, measurable progress in its ambition to be recognised among the world’s leading universities.</summary>
+  </entry>
+  <entry>
+    <title>Campus Map.Pdf</title>
+    <link href="https://www.surrey.ac.uk/sites/default/files/2025-08/campus-map.pdf"/>
+    <id>https://www.surrey.ac.uk/sites/default/files/2025-08/campus-map.pdf</id>
+    <summary type="text">Campus Map.Pdf</summary>
+  </entry>
+  <entry>
+    <title>Uos Modern Slavery Statement 2026.Pdf</title>
+    <link href="https://www.surrey.ac.uk/sites/default/files/2026-02/UoS-Modern-Slavery-Statement-2026.pdf"/>
+    <id>https://www.surrey.ac.uk/sites/default/files/2026-02/UoS-Modern-Slavery-Statement-2026.pdf</id>
+    <summary type="text">Uos Modern Slavery Statement 2026.Pdf</summary>
   </entry>
 </feed>

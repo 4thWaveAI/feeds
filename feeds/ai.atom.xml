@@ -4,7 +4,14 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai</id>
-  <updated>Tue, 21 Jul 2026 19:56:25 +0000</updated>
+  <updated>Wed, 22 Jul 2026 03:52:06 +0000</updated>
+  <entry>
+    <title>Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems</title>
+    <link href="https://blogs.nvidia.com/blog/wistron-manufacturing-texas/"/>
+    <id>https://blogs.nvidia.com/blog/wistron-manufacturing-texas/</id>
+    <summary type="text">The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capable AI systems. In front of an audience of Wistron […]</summary>
+    <updated>Tue, 21 Jul 2026 22:35:45 +0000</updated>
+  </entry>
   <entry>
     <title>Introducing Gemini 3.5 Flash Cyber</title>
     <link href="https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/"/>
@@ -165,13 +172,6 @@
     <id>https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/</id>
     <summary type="text">Learn how NVIDIA Nemotron open models help enterprises build specialized AI they can trust, control and customize with accuracy, efficiency and flexibility.</summary>
     <updated>Tue, 14 Jul 2026 16:45:13 +0000</updated>
-  </entry>
-  <entry>
-    <title>Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency</title>
-    <link href="https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/"/>
-    <id>https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/</id>
-    <summary type="text">From benchmark to production, NVIDIA Blackwell NVL72 delivers the highest performance per watt to maximize revenue and the lowest token cost to maximize profit margins.</summary>
-    <updated>Tue, 14 Jul 2026 15:00:20 +0000</updated>
   </entry>
   <entry>
     <title>AI in Indian Education: Atal Innovation Mission and Google launch ATL Saathi</title>

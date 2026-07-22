@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
+      "id": "https://phys.org/news/2026-07-ruthenium-nanoparticles-captured-perchlorate-harmless.html",
+      "url": "https://phys.org/news/2026-07-ruthenium-nanoparticles-captured-perchlorate-harmless.html",
+      "title": "Ruthenium nanoparticles convert captured perchlorate into harmless chloride in water treatment waste",
+      "content_text": "For decades, water utilities have relied on giant tanks filled with ion-exchange resin beads to remove perchlorate, a harmful industrial pollutant, from drinking water. The system works by attracting negatively charged perchlorate ions to positively charged resin beads, allowing purified water to flow out of the tanks. But the process leaves behind a difficult problem: resin beads loaded with perchlorate that must be regenerated or disposed of as hazardous waste.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/-drinking-water.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://phys.org/news/2026-07-molecules-carbon-nanotubes-clumping-electricity.html",
       "url": "https://phys.org/news/2026-07-molecules-carbon-nanotubes-clumping-electricity.html",
       "title": "Molecules stop carbon nanotubes clumping, unlocking record heat-to-electricity performance",
@@ -162,21 +177,6 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/2026/goal-a-nano-soccer-bal.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2026-07-stealth-anticancer-nanoparticles-mussel-proteins.html",
-      "url": "https://phys.org/news/2026-07-stealth-anticancer-nanoparticles-mussel-proteins.html",
-      "title": "Stealth anticancer nanoparticles made from mussel proteins that 'lie in wait and attack only cancer cells'",
-      "content_text": "Pancreatic cancer is considered one of the deadliest cancers because it is often diagnosed late and is difficult to treat. However, a South Korean research team has developed \"smart nanoparticles\" that remain hidden in normal tissue but shed their protective coating and release anticancer drugs once they reach tumor tissue. This drug delivery technology is attracting attention for its potential to reduce the side effects of cancer treatment while significantly improving treatment efficacy.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/stealth-anticancer-nan.jpg",
           "mime_type": "image/jpeg"
         }
       ],

@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/robotics.atom.xml"/>
   <id>urn:4thwaveai-feeds:robotics</id>
-  <updated>Tue, 21 Jul 2026 19:57:16 +0000</updated>
+  <updated>Wed, 22 Jul 2026 03:53:16 +0000</updated>
   <entry>
     <title>solar sails</title>
     <link href="https://www.nasa.gov/directorates/stmd/niac/niac-studies/coilable-stacked-solar-sails-for-very-high-delta-v-missions/"/>
@@ -67,6 +67,78 @@
     <id>https://science.nasa.gov/earth/earth-observatory/signs-of-thaw-in-the-bering-sea/</id>
     <summary type="text">Drifting sea ice fragments near Alaska’s Saint Lawrence and Nunivak islands and colorful water around the Yukon Delta heralded the approach of the summer solstice.</summary>
     <updated>Mon, 22 Jun 2026 00:01:00 -0400</updated>
+  </entry>
+  <entry>
+    <title>News | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/news/"/>
+    <id>https://bostondynamics.com/news/</id>
+    <summary type="text">Discover the latest news about Boston Dynamics and stay up to date with what we’ve been working on. Explore product news, media coverage, and more.</summary>
+  </entry>
+  <entry>
+    <title>Blogs | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/"/>
+    <id>https://bostondynamics.com/blog/</id>
+    <summary type="text">Stay up to date on the latest trends in robotics and other industry insights from the Boston Dynamics blog.</summary>
+  </entry>
+  <entry>
+    <title>Training a Humanoid Robot for Hard Work | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/training-a-humanoid-robot-for-hard-work/"/>
+    <id>https://bostondynamics.com/blog/training-a-humanoid-robot-for-hard-work/</id>
+    <summary type="text">Using AI-driven behaviors, Boston Dynamics’ Atlas robot coordinates its whole body to execute complex tasks with accuracy and reliability.</summary>
+  </entry>
+  <entry>
+    <title>Deploying Robots Into (and Onto) the Field | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/deploying-robots-into-and-onto-the-field/"/>
+    <id>https://bostondynamics.com/blog/deploying-robots-into-and-onto-the-field/</id>
+    <summary type="text">On Sunday July 5th, Atlas®, Boston Dynamics humanoid robot, stepped onto the field during halftime of the FIFA World Cup 2026™ Norway-Brazil round of 16 match at New York New Jersey Stadium. In the first public appearance of our production Atlas—and the first ever robotic halftime activation of the FIFA World Cup™—the robot presented the […]</summary>
+  </entry>
+  <entry>
+    <title>Bridging the ‘Porch Gap’ | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/bridging-the-porch-gap/"/>
+    <id>https://bostondynamics.com/blog/bridging-the-porch-gap/</id>
+    <summary type="text">Boston Dynamics is testing a last-mile delivery solution with Spot to get packages to the doorstep with less strain and greater efficiency.</summary>
+  </entry>
+  <entry>
+    <title>Securing the FIFA World Cup 2026 | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/securing-the-fifa-world-cup-2026/"/>
+    <id>https://bostondynamics.com/blog/securing-the-fifa-world-cup-2026/</id>
+    <summary type="text">At FIFA World Cup 2026™, Boston Dynamics&#x27; Spot robots have taken on a new security assignment: helping protect the largest sporting event in the world.</summary>
+  </entry>
+  <entry>
+    <title>Can football teach a robot to move? | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/can-football-teach-a-robot-to-move/"/>
+    <id>https://bostondynamics.com/blog/can-football-teach-a-robot-to-move/</id>
+    <summary type="text">Aathletes perform amazing acts of physicality every day and that&#x27;s the bar for Boston Dynamics Atlas robot. Learn how we train Atlas from human demonstration.</summary>
+  </entry>
+  <entry>
+    <title>Ask a Roboticist: Meet Chastity | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/ask-a-roboticist-meet-chastity/"/>
+    <id>https://bostondynamics.com/blog/ask-a-roboticist-meet-chastity/</id>
+    <summary type="text">Chastity Kelly, a mechanical design engineer, answers questions about the design of Atlas’ foot, whether robots need shoes, and her path to robotics. Read the interview below and watch a conversation with Chastity on how Atlas strides through the world. Working at Boston Dynamics What is your role at Boston Dynamics?I’m a mechanical design engineer […]</summary>
+  </entry>
+  <entry>
+    <title>Ask a Roboticist: Meet Ethan | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/ask-a-roboticist-meet-ethan/"/>
+    <id>https://bostondynamics.com/blog/ask-a-roboticist-meet-ethan/</id>
+    <summary type="text">Ethan Lauer, a software engineer at Boston Dynamics, answers questions about robot perception, world modeling, and what spooks Stretch.</summary>
+  </entry>
+  <entry>
+    <title>Tools for Your To Do List with Spot and Gemini Robotics | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/"/>
+    <id>https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/</id>
+    <summary type="text">A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.</summary>
+  </entry>
+  <entry>
+    <title>AIVI-Learning Is Now Powered by Google Gemini Robotics | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/aivi-learning-now-powered-google-gemini-robotics/"/>
+    <id>https://bostondynamics.com/blog/aivi-learning-now-powered-google-gemini-robotics/</id>
+    <summary type="text">We have partnered with Google Cloud and Google DeepMind to integrate Gemini and Gemini Robotics ER 1.6 into Orbit AIVI-Learning.</summary>
+  </entry>
+  <entry>
+    <title>Scaling New Career Heights with Stretch | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/scaling-new-career-heights-with-stretch/"/>
+    <id>https://bostondynamics.com/blog/scaling-new-career-heights-with-stretch/</id>
+    <summary type="text">Boston Dynamics&#x27; employee spotlight series shares the journeys of our team members: featuring Dayme Delgado, a Field Applications Engineer.</summary>
   </entry>
   <entry>
     <title>Introducing Helix 02: Full-Body Autonomy</title>
@@ -301,77 +373,5 @@
     <link href="https://arxiv.org/abs/2607.16512"/>
     <id>https://arxiv.org/abs/2607.16512</id>
     <summary type="text">In this work, a stochastic time series-based framework is introduced for multicopter propeller damage diagnosis using functionally pooled autoregressive (FP-AR) models. The framework addresses damage detection, motor-level identification, and damage magnitude estimation using only standard inertial measurement unit data, without requiring additional sensors. Functional pooling provides a compact representation of system dynamics across varying operating conditions and supports reliable model estimation from short data records. Damage detection is performed through statistical testing of prediction residuals, damage identification through model selection, and damage quantification through a Bayesian inference scheme that provides posterior estimates and uncertainty bounds. The framework is </summary>
-  </entry>
-  <entry>
-    <title>Comparative Analysis of Linepack Impact in Hydrogen and Natural Gas Networks under Dynamic Operating Conditions</title>
-    <link href="https://arxiv.org/abs/2607.16527"/>
-    <id>https://arxiv.org/abs/2607.16527</id>
-    <summary type="text">Linepack is a critical buffer in gas networks, providing short-term storage and operational flexibility. This paper presents a comparative dynamic analysis of the linepack impact in hydrogen (H2) and natural gas (CH4) networks under compressor contingency conditions. A three-day dynamic simulation is conducted for a CH4 network and a H2 network integrated with a power system. Two cases are investigated: Case 1 with identical and Case 2 with different pipe inner diameters in CH4 and H2 networks. The results in both cases show that H2 exhibits faster transient recovery after the compressor contingency, although its linepack is less than that of CH4. On the other hand, depending on the selected pipe diameter, pressure losses in the two networks can differ significantly. With identical pipe di</summary>
-  </entry>
-  <entry>
-    <title>Dynamic Speed Limit Control of Connected Automated Vehicles in Freeway Networks Considering Traffic Composition Uncertainty</title>
-    <link href="https://arxiv.org/abs/2607.16615"/>
-    <id>https://arxiv.org/abs/2607.16615</id>
-    <summary type="text">Dynamic speed limit control has emerged as a promising strategy to improve freeway sustainability in mixed traffic environments with connected automated vehicles (CAVs). However, most existing approaches assume that the CAV penetration rate is deterministic and can be accurately known throughout the control horizon. In reality, the penetration rate has inherent observation errors, leading to uncertainty in mixed traffic composition, which in turn degrades control performance. To overcome this limitation, this study proposes a novel model predictive control (MPC) framework for dynamic CAV speed limit control in freeway networks that explicitly incorporates traffic composition uncertainty into both flow prediction and control optimization. An uncertainty-aware macroscopic mixed traffic model</summary>
-  </entry>
-  <entry>
-    <title>Cooperative MARL-Based Energy-Efficient Power Control for Two-Hop Relaying Networks</title>
-    <link href="https://arxiv.org/abs/2607.16703"/>
-    <id>https://arxiv.org/abs/2607.16703</id>
-    <summary type="text">In this paper, we study a cooperative game in the cooperative communication network, where each relay makes decisions autonomously and aims to achieve the same optimization objective of maximizing energy efficiency. We consider the non-ideal situation where instantaneous channel state information (CSI) is difficult to obtain and only partially observable outdated CSI is available. To solve this game problem, we define a delayed reward-based state-action value function and propose a multi-agent deep Q network learning framework. Then, we prove analytically that utilities obtained by game-theoretic approaches with the instantaneous CSI serve as upper bounds for those of the proposed method. Simulation results reveal that our approach considerably outperforms its potential alternatives and is</summary>
-  </entry>
-  <entry>
-    <title>Driver Behavior Under Traffic Complexity: Variance Decomposition and Cross-Driver Generalization for Driver Monitoring</title>
-    <link href="https://arxiv.org/abs/2607.16847"/>
-    <id>https://arxiv.org/abs/2607.16847</id>
-    <summary type="text">Understanding why a traffic situation is demanding for the human driver is central to safe and comfortable partially automated driving. Existing complexity metrics characterize only external environmental factors, while driver monitoring systems detect only endogenous states such as distraction. Neither side captures how external demands translate into driver-perceived situational load. Driver behavior serves as the natural bridge between both, and this paper investigates the inverse inference problem of estimating traffic complexity from behavioral signals. A systematic screening of 175 behavioral features across five domains (gaze, head pose, longitudinal control, guiding fixation, scanning strategy) is applied to data from 20 drivers in real urban traffic. Of these, 31 features exhibit </summary>
-  </entry>
-  <entry>
-    <title>Learning to Stay Fresh: A Self-Learning Semantic Framework for Underwater Internet of Things</title>
-    <link href="https://arxiv.org/abs/2607.16902"/>
-    <id>https://arxiv.org/abs/2607.16902</id>
-    <summary type="text">The emerging paradigm of Non-Conventional Internet of Things (NC IoT), which focuses on the usefulness of information rather than high-volume data collection and transmission, will be a dominant paradigm in the next generation of wireless systems. On the downside, the absence of standardized protocols and the heterogeneity of underwater nodes, coupled with the unique constraints of acoustic communication (e.g., propagation delays and bandwidth limitations), pose significant interoperability challenges for Underwater Internet of Things (UIoT) networks. In this paper, we introduce a pioneering self-learning semantic framework that addresses these issues by leveraging a three-layer architecture using a novel Semantic Bayesian Optimization (SBO) approach integrated with Multi-Transmission Baye</summary>
-  </entry>
-  <entry>
-    <title>A conditional no-go for resource-free magic-axis measurement on a static surface code</title>
-    <link href="https://arxiv.org/abs/2607.16968"/>
-    <id>https://arxiv.org/abs/2607.16968</id>
-    <summary type="text">Under stated assumptions, a static surface-code patch that adds no fold or \mbox{self-dual} structure cannot perform the magic-axis check that magic-state cultivation relies on while still accepting often. This is a conditional no-go. Fault-tolerant machines spend much of their cost making magic states, and cultivation makes them in place by measuring the magic axis, which every known construction does through a fold or \mbox{self-dual} patch that it is folklore to call necessary. We test the folklore. The no-go says that a useful check must pay for the magic axis somewhere. It can add a charge-converting resource, it can leave the dilute regime of its accepted history, or it can accept only exponentially rarely. For a single stabilizer-measurement transcript this is proved outright, from </summary>
-  </entry>
-  <entry>
-    <title>34</title>
-    <link href="https://www.unitree.com/cn/news/34"/>
-    <id>https://www.unitree.com/cn/news/34</id>
-    <summary type="text">机器人</summary>
-  </entry>
-  <entry>
-    <title>30</title>
-    <link href="https://www.unitree.com/cn/news/30"/>
-    <id>https://www.unitree.com/cn/news/30</id>
-    <summary type="text">机器人</summary>
-  </entry>
-  <entry>
-    <title>News - Robotics Institute Carnegie Mellon University</title>
-    <link href="https://www.ri.cmu.edu/news/"/>
-    <id>https://www.ri.cmu.edu/news/</id>
-    <summary type="text">Cool stories about the Robotics Institute at CMU from all over the web.</summary>
-  </entry>
-  <entry>
-    <title>As Walker S Strikes the Gong, UBTECH Robotics Becomes the First Humanoid Robot  Company Listed on the Main Board of the HKEX | UBTECH Robotics</title>
-    <link href="https://www.ubtrobot.com/en/about/news/498762019606597"/>
-    <id>https://www.ubtrobot.com/en/about/news/498762019606597</id>
-    <summary type="text">UBTECH</summary>
-  </entry>
-  <entry>
-    <title>Vision2035 En.Pdf</title>
-    <link href="https://www.yaskawa-global.com/wp-content/uploads/2026/05/Vision2035_en.pdf"/>
-    <id>https://www.yaskawa-global.com/wp-content/uploads/2026/05/Vision2035_en.pdf</id>
-    <summary type="text">Vision2035 En.Pdf</summary>
-  </entry>
-  <entry>
-    <title>Dash35 En.Pdf</title>
-    <link href="https://www.yaskawa-global.com/wp-content/uploads/2026/05/Dash35_en.pdf"/>
-    <id>https://www.yaskawa-global.com/wp-content/uploads/2026/05/Dash35_en.pdf</id>
-    <summary type="text">Dash35 En.Pdf</summary>
   </entry>
 </feed>

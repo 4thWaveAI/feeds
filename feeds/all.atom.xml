@@ -4,7 +4,42 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.atom.xml"/>
   <id>urn:4thwaveai-feeds:all</id>
-  <updated>Tue, 21 Jul 2026 20:30:56 +0000</updated>
+  <updated>Wed, 22 Jul 2026 04:15:53 +0000</updated>
+  <entry>
+    <title>A Week of Smoky Skies Across North America - NASA Science</title>
+    <link href="https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/"/>
+    <id>https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/</id>
+    <summary type="text">Brown carbon, emitted by wildland fires and tracked over the span of a week in July 2026, worsened air quality in parts of the U.S. and Canada.</summary>
+    <updated>Wed, 22 Jul 2026 00:00:00 -0400</updated>
+  </entry>
+  <entry>
+    <title>Single-player games deserve more attention in esports</title>
+    <link href="https://esportsinsider.com/2026/07/single-player-games-esports"/>
+    <id>https://esportsinsider.com/2026/07/single-player-games-esports</id>
+    <summary type="text">League of Legends and Counter-Strike 2 seem to get all the love, but single-player games deserve way more attention.</summary>
+    <updated>Wed, 22 Jul 2026 00:58:29 +0000</updated>
+  </entry>
+  <entry>
+    <title>NISAR’s L-Band Radar Reveals ‘Hummingbird’ in Antarctica - NASA Science</title>
+    <link href="https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/"/>
+    <id>https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/</id>
+    <summary type="text">Data from the Earth-orbiting U.S.-India NISAR (NASA-ISRO Synthetic Aperture Radar) satellite’s L-band radar was used to produce an image of Nunatak</summary>
+    <updated>Tue, 21 Jul 2026 20:33:08 -0400</updated>
+  </entry>
+  <entry>
+    <title>Ruthenium nanoparticles convert captured perchlorate into harmless chloride in water treatment waste</title>
+    <link href="https://phys.org/news/2026-07-ruthenium-nanoparticles-captured-perchlorate-harmless.html"/>
+    <id>https://phys.org/news/2026-07-ruthenium-nanoparticles-captured-perchlorate-harmless.html</id>
+    <summary type="text">For decades, water utilities have relied on giant tanks filled with ion-exchange resin beads to remove perchlorate, a harmful industrial pollutant, from drinking water. The system works by attracting negatively charged perchlorate ions to positively charged resin beads, allowing purified water to flow out of the tanks. But the process leaves behind a difficult problem: resin beads loaded with perchlorate that must be regenerated or disposed of as hazardous waste.</summary>
+    <updated>Tue, 21 Jul 2026 19:40:01 -0400</updated>
+  </entry>
+  <entry>
+    <title>Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems</title>
+    <link href="https://blogs.nvidia.com/blog/wistron-manufacturing-texas/"/>
+    <id>https://blogs.nvidia.com/blog/wistron-manufacturing-texas/</id>
+    <summary type="text">The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capable AI systems. In front of an audience of Wistron […]</summary>
+    <updated>Tue, 21 Jul 2026 22:35:45 +0000</updated>
+  </entry>
   <entry>
     <title>ROSES-25 C.2 Solar System Science Corrections - NASA Science</title>
     <link href="https://science.nasa.gov/researchers/solicitations/roses-2025/roses-25-c-2-solar-system-science-corrections/"/>
@@ -20,7 +55,7 @@
     <updated>Tue, 21 Jul 2026 16:14:27 -0400</updated>
   </entry>
   <entry>
-    <title>I am not convinced that hunting for AI is going to solve esports biggest issues</title>
+    <title>I am not convinced that hunting for AI is going to solve esports&#x27; biggest issues</title>
     <link href="https://esportsinsider.com/2026/07/esports-ai-controversy"/>
     <id>https://esportsinsider.com/2026/07/esports-ai-controversy</id>
     <summary type="text">With Mobile Legends: Bang Bang recently accused of having AI in its menu, I got to thinking: Who cares really? Is it impacting esports?</summary>
@@ -130,20 +165,6 @@
     <id>https://www.nasa.gov/directorates/stmd/photophoretic-tracers-for-near-space-remote-sensing-at-30-100-km-altitudes/</id>
     <summary type="text">This concept addresses a major gap in current sensing capabilities. The mesosphere and upper stratosphere play a key role in atmospheric dynamics,</summary>
     <updated>Tue, 21 Jul 2026 11:23:43 -0400</updated>
-  </entry>
-  <entry>
-    <title>Actively Steerable Femtosat Constellations</title>
-    <link href="https://www.nasa.gov/directorates/stmd/niac/actively-steerable-femtosat-constellations-for-in-situ-exploration-of-saturns-rings-atmosphere-and-magnetosphere/"/>
-    <id>https://www.nasa.gov/directorates/stmd/niac/actively-steerable-femtosat-constellations-for-in-situ-exploration-of-saturns-rings-atmosphere-and-magnetosphere/</id>
-    <summary type="text">Michael RubensteinNorthwestern University, Chicago</summary>
-    <updated>Tue, 21 Jul 2026 11:23:41 -0400</updated>
-  </entry>
-  <entry>
-    <title>PRAXIS</title>
-    <link href="https://www.nasa.gov/directorates/stmd/niac/praxis-planetary-rings-autonomous-exploration-with-in-situ-sampling/"/>
-    <id>https://www.nasa.gov/directorates/stmd/niac/praxis-planetary-rings-autonomous-exploration-with-in-situ-sampling/</id>
-    <summary type="text">Humanity has never touched the particles of a planetary ring, but if we were able to get close enough and sample them, it will transform understanding of ring</summary>
-    <updated>Tue, 21 Jul 2026 11:23:38 -0400</updated>
   </entry>
   <entry>
     <title>solar sails</title>
@@ -286,6 +307,13 @@
     <updated>Mon, 20 Jul 2026 17:20:05 -0400</updated>
   </entry>
   <entry>
+    <title>NASA-Funded Study Shows How Controlled Burns Help Sequoias Survive Wildfires - NASA Science</title>
+    <link href="https://science.nasa.gov/blogs/science-news/2026/07/20/nasa-funded-study-shows-how-controlled-burns-help-sequoias-survive-wildfires/"/>
+    <id>https://science.nasa.gov/blogs/science-news/2026/07/20/nasa-funded-study-shows-how-controlled-burns-help-sequoias-survive-wildfires/</id>
+    <summary type="text">A new study, funded by NASA, found that giant sequoias were nearly four times more likely to survive extreme wildfires in forests that have been managed with prescribed burns, which decrease tree mortality.</summary>
+    <updated>Mon, 20 Jul 2026 16:25:04 -0400</updated>
+  </entry>
+  <entry>
     <title>Acid-resistant nanocage shows promise for targeted gastric cancer therapy</title>
     <link href="https://phys.org/news/2026-07-acid-resistant-nanocage-gastric-cancer.html"/>
     <id>https://phys.org/news/2026-07-acid-resistant-nanocage-gastric-cancer.html</id>
@@ -396,33 +424,5 @@
     <id>https://retractionwatch.com/2026/07/20/publisher-investigating-peer-reviewer-for-alleged-bribery-scheme/</id>
     <summary type="text">Deagreez/iStock Earlier this year, Tushar Sen, an independent researcher based in New Delhi, submitted a manuscript to Security and Privacy about the modeling of polymorphic malware. On May 15, a p…</summary>
     <updated>Mon, 20 Jul 2026 10:00:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>Scientists map how the flu virus rewires the human cell from the inside | EMBL</title>
-    <link href="https://www.embl.org/news/science-technology/scientists-map-how-the-flu-virus-rewires-the-human-cell-from-the-inside/"/>
-    <id>https://www.embl.org/news/science-technology/scientists-map-how-the-flu-virus-rewires-the-human-cell-from-the-inside/</id>
-    <summary type="text">EMBL Hamburg researchers and their collaborators have gained new insights into how the influenza A virus reprograms cellular machinery</summary>
-    <updated>Mon, 20 Jul 2026 09:02:13 +0000</updated>
-  </entry>
-  <entry>
-    <title>Ray Kurzweil at AI for Good Global Summit 2026: &quot;We will not be replaced by AI — we will merge with it&quot;</title>
-    <link href="https://aiforgood.itu.int/ray-kurzweil-at-ai-for-good-global-summit-2026-we-will-not-be-replaced-by-ai-we-will-merge-with-it/"/>
-    <id>https://aiforgood.itu.int/ray-kurzweil-at-ai-for-good-global-summit-2026-we-will-not-be-replaced-by-ai-we-will-merge-with-it/</id>
-    <summary type="text">Connect with 55K+ AI enthusiasts</summary>
-    <updated>Mon, 20 Jul 2026 08:05:18 +0000</updated>
-  </entry>
-  <entry>
-    <title>Survey on the Access to Finance of Enterprises: lending conditions tightened</title>
-    <link href="https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html"/>
-    <id>https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html</id>
-    <summary type="text">Our monetary policy strategy, the tools we use and the impact they have</summary>
-    <updated>Mon, 20 Jul 2026 00:00:00 -0000</updated>
-  </entry>
-  <entry>
-    <title>Nanoparticles could remove harmful immune molecules from blood</title>
-    <link href="https://phys.org/news/2026-07-nanoparticles-immune-molecules-blood.html"/>
-    <id>https://phys.org/news/2026-07-nanoparticles-immune-molecules-blood.html</id>
-    <summary type="text">The immune system, the body&#x27;s defense network against infections and injuries, can sometimes become too active. In these cases, it can produce too many immune mediators, fragments of genetic material or proteins that regulate immune responses.</summary>
-    <updated>Sat, 18 Jul 2026 13:40:01 -0400</updated>
   </entry>
 </feed>
