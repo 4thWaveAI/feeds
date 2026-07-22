@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/gsel-esports-ai.json",
   "items": [
     {
+      "id": "https://esports.gg/news/mobile-legends-bang-bang/msc-2026-ewc-schedule-results-livestream/",
+      "url": "https://esports.gg/news/mobile-legends-bang-bang/msc-2026-ewc-schedule-results-livestream/",
+      "title": "MSC 2026 Esports World Cup: Format, schedule, results, and more",
+      "content_text": "Here is a complete guide to MSC 2026 at the Esports World Cup, including match results, schedules, and key information.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/07/MSC-2026-Esports-World-Cup-Format-schedule-results-and-more.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
       "id": "https://esportsinsider.com/2026/07/single-player-games-esports",
       "url": "https://esportsinsider.com/2026/07/single-player-games-esports",
       "title": "Single-player games deserve more attention in esports",
@@ -170,21 +185,6 @@
       ]
     },
     {
-      "id": "https://esports.gg/news/mobile-legends-bang-bang/team-vitality-back-to-back-mwi-ewc-2026-win/",
-      "url": "https://esports.gg/news/mobile-legends-bang-bang/team-vitality-back-to-back-mwi-ewc-2026-win/",
-      "title": "Team Vitality Celebrates MWI at EWC 2026 win by eating giant croissants",
-      "content_text": "Team Vitality wins a back-to-back MWI at EWC 2026 championship title after defeating NAVI PH in a six-round series.",
-      "attachments": [
-        {
-          "url": "https://media.esports.gg/uploads/2026/07/Team-Vitality-Celebrates-MWI-at-EWC-2026-Win-By-Eating-Giant-Croissants.avif",
-          "mime_type": "image/avif"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
       "id": "https://esportsinsider.com/2026/07/souith-american-dota-2-playtime-esports-world-cup",
       "url": "https://esportsinsider.com/2026/07/souith-american-dota-2-playtime-esports-world-cup",
       "title": "South American Dota 2 just got dealt one of its worst blows yet after PlayTime's scandal at the Esports World Cup",
@@ -293,7 +293,7 @@
       "id": "https://esports.gg/news/",
       "url": "https://esports.gg/news/",
       "title": "News Archives",
-      "content_text": "Overwatch's new Shion short story titled \"Ambush\" revealed Shion's original omnic form plus the names and personalities of the Hashimoto elders.",
+      "content_text": "Here is a complete guide to MSC 2026 at the Esports World Cup, including match results, schedules, and key information.",
       "tags": [
         "gsel-esports-ai"
       ]

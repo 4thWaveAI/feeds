@@ -425,6 +425,21 @@
       ]
     },
     {
+      "id": "https://www.riken.jp/en/news_pubs/research_news/closeup/2026/20260722_1/index.html",
+      "url": "https://www.riken.jp/en/news_pubs/research_news/closeup/2026/20260722_1/index.html",
+      "title": "AI for Science: Breaking the boundaries of what science can achieve",
+      "content_text": "Matoko Taiji talks about",
+      "attachments": [
+        {
+          "url": "https://www.riken.jp/news-pubs-en/research-news-en/2026-research-en/2026_ai_th3.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "national-gov-labs"
+      ]
+    },
+    {
       "id": "https://www.riken.jp/en/news_pubs/research_news/pr/2026/20260625_1/index.html",
       "url": "https://www.riken.jp/en/news_pubs/research_news/pr/2026/20260625_1/index.html",
       "title": "A magnetic field that kills superconductivity can also bring it back",
@@ -553,21 +568,6 @@
         {
           "url": "https://www.riken.jp/news-pubs-en/research-news-en/2026-research-en/pr/20260415_1_sns.png",
           "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "national-gov-labs"
-      ]
-    },
-    {
-      "id": "https://www.riken.jp/en/news_pubs/research_news/rr/20260424_2/index.html",
-      "url": "https://www.riken.jp/en/news_pubs/research_news/rr/20260424_2/index.html",
-      "title": "How to make dark modes briefly bright",
-      "content_text": "RIKEN researchers have used synthetic magnetism to engineer dark modes in non-Hermitian quantum systems.",
-      "attachments": [
-        {
-          "url": "https://www.riken.jp/news-pubs-en/research-news-en/2026-research-en/RRFY202534_tw.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [

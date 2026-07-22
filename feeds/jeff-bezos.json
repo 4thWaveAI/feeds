@@ -5,24 +5,9 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/jeff-bezos.json",
   "items": [
     {
-      "id": "https://www.aboutamazon.com/news/retail/amazon-prime-young-adults-cash-back-rewards",
-      "url": "https://www.aboutamazon.com/news/retail/amazon-prime-young-adults-cash-back-rewards",
-      "title": "Prime for Young Adults introduces 5% cash back on dorm and apartment essentials, just in time for move-in",
-      "content_text": "From today through September 15, Prime for Young Adults members can earn 5% cash back on home, kitchen, and office purchases—on top of existing categories like beauty, apparel, and electronics.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/b0d9de1/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Feb%2F95%2F29ee0db347a38b2d4c02e2ef2461%2Fpya-otc-hero-v2-lm-2.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
       "id": "https://www.aboutamazon.com/news/entertainment/masters-of-the-universe-movie-amazon-mgm-studios",
       "url": "https://www.aboutamazon.com/news/entertainment/masters-of-the-universe-movie-amazon-mgm-studios",
-      "title": "How to watch the 'Masters of the Universe' movie, streaming on Prime Video starting July 22",
+      "title": "How to watch the 'Masters of the Universe' movie, streaming now on Prime Video",
       "content_text": "The live-action film adaptation of the classic 1980s toy brand stars Nicholas Galitzine as Prince Adam/He-Man.",
       "attachments": [
         {
@@ -41,26 +26,11 @@
     {
       "id": "https://www.aboutamazon.com/news/company-news/amazon-news-today-top-stories-company",
       "url": "https://www.aboutamazon.com/news/company-news/amazon-news-today-top-stories-company",
-      "title": "What you need to know about Amazon today: July 21, 2026",
+      "title": "What you need to know about Amazon today: July 22, 2026",
       "content_text": "Here are the latest headlines from Amazon News.",
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/0c3d16b/2147483647/strip/true/crop/2000x1000+0+71/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff9%2F0f%2F389802e048e19f038163aa9dfcca%2Famazon-news-today-hero-v1-lm-012025.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/retail/amazon-orders-savings-discounts-shopping",
-      "url": "https://www.aboutamazon.com/news/retail/amazon-orders-savings-discounts-shopping",
-      "title": "Amazon’s commitment to low prices every day",
-      "content_text": "Amazon offers the lowest prices every day across the widest selection of products—plus extra savings for Prime members.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/3e0af27/2147483647/strip/true/crop/2550x1275+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fda%2Fbf%2F8b79b1d146fe967150652a8433f7%2Fcvr-hero-2550x1434-2.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -76,6 +46,36 @@
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/102c8e1/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F9c%2F6c%2F26a25c5643c0b0867d2b3a1c7ef8%2Fwnba-2026-schedule-update-hero.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/community/amazon-disaster-relief-programs-hubs-portal",
+      "url": "https://www.aboutamazon.com/news/community/amazon-disaster-relief-programs-hubs-portal",
+      "title": "How Amazon’s Disaster Relief hubs help communities when every minute counts",
+      "content_text": "Amazon donates and delivers emergency supplies to American Red Cross, World Central Kitchen, and other nonprofits from our Disaster Relief hubs.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/70f961c/2147483647/strip/true/crop/6720x3360+0+210/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F67%2Fe1%2Fea63e59a4423b2d0eb7bd138b8bf%2Fatl7-0912.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/community/amazon-wildfire-disaster-relief",
+      "url": "https://www.aboutamazon.com/news/community/amazon-wildfire-disaster-relief",
+      "title": "Amazon opens first Canada Disaster Relief hub and bolsters California hub to support wildfire relief efforts",
+      "content_text": "A new wildfire hub in Edmonton, Alberta, will join Amazon's California facility as the company prepares for increasingly severe fire seasons.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/06a0e15/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F44%2F7d%2F3f97f43543289e4ed66cac151b54%2Fabout-amazon-hero-amazon-news-as-20260720-amazon-news-as-20260720.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -103,6 +103,36 @@
       ]
     },
     {
+      "id": "https://www.aboutamazon.com/news/entertainment",
+      "url": "https://www.aboutamazon.com/news/entertainment",
+      "title": "Entertainment",
+      "content_text": "Stories about the latest apps and games, movies, TV shows, and music available from Amazon Prime Video, Amazon Music, and Kindle.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/community",
+      "url": "https://www.aboutamazon.com/news/community",
+      "title": "Community",
+      "content_text": "We look for uniquely Amazonian and innovative ways to make positive, lasting impacts and encourage our employees to champion causes they care about.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/retail",
       "url": "https://www.aboutamazon.com/news/retail",
       "title": "Retail",
@@ -122,36 +152,6 @@
       "url": "https://www.aboutamazon.com/news/company-news",
       "title": "Company news",
       "content_text": "News and information about Amazon, Inc.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/entertainment",
-      "url": "https://www.aboutamazon.com/news/entertainment",
-      "title": "Entertainment",
-      "content_text": "Stories about the latest apps and games, movies, TV shows, and music available from Amazon Prime Video, Amazon Music, and Kindle.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/aws",
-      "url": "https://www.aboutamazon.com/news/aws",
-      "title": "AWS",
-      "content_text": "If you're an inventor, you'll love being an Amazonian. From day one at Amazon, you'll take ownership of projects that have a direct impact on our customers.",
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",

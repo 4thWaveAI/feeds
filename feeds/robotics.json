@@ -654,10 +654,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16267",
-      "url": "https://arxiv.org/abs/2607.16267",
-      "title": "HyperDCM: Dynamic Cluster Memory Replay in Hyperbolic Space for Continual Robotic Navigation Across Scenes",
-      "content_text": "Continual learning in visual navigation remains challenging due to catastrophic forgetting and the difficulties associated with adapting to diverse and evolving environments. To address these issues, we propose Hyperbolic Dynamic Cluster Memory (HyperDCM), a structure-aware memory mechanism that enhances diffusion policy-based navigation through scene graph modeling and principled memory replay. HyperDCM extracts semantic scene triples from RGB observations using large vision-language models, encodes them into scene graph embeddings via a Relational Graph Convolutional Network (R-GCN), and projects the embeddings into hyperbolic space to enhance structural separability and retention in continual navigation. A dynamic clustering and structure-sensitive update strategy selects representative",
+      "id": "https://arxiv.org/abs/2607.18362",
+      "url": "https://arxiv.org/abs/2607.18362",
+      "title": "FARO: Feasibility-Aware Robot Motion Optimization",
+      "content_text": "Fast planning of novel behaviors in unseen scenarios remains a fundamental challenge in robotics. The high-dimensional, hybrid, and underactuated nature of humanoid loco-manipulation continues to hinder the realization of this goal. In this paper, we address this challenge by proposing a nested kino-dynamic framework for rapid feasibility checking and dynamically consistent trajectory generation given a candidate contact sequence. By integrating this module with a feasibility-guided tree search and a Large Language Model (LLM)-based contact plan sampling strategy, we demonstrate that the proposed framework can substantially improve the search process. Furthermore, we show that the generated trajectories can be tracked using a reinforcement learning (RL)-based controller and show that the r",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -669,10 +669,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16302",
-      "url": "https://arxiv.org/abs/2607.16302",
-      "title": "Control Design for a Rideable Animatronic Two-Wheeled Robot with Quadruped Form",
-      "content_text": "In recent years, motorcycle popularity has been declining, particularly among the younger generations. To rekindle interest in motorcycles among this demographic, we developed a rideable two-wheeled robot equipped with four limbs as a future partner mobility concept and intended for use in public events. The character reproduced by this robot carries the protagonist on its back and exhibits a dynamic quadrupedal gait. To maximize the riding experience, we aimed to match the robot's weight and size to the character's specifications while ensuring rider safety and enabling expressive movements of limbs, wrists, ankles, and facial features. However, achieving locomotion solely through limb movement would require excessive motor output and increased limb strength, resulting in higher weight an",
+      "id": "https://arxiv.org/abs/2607.18365",
+      "url": "https://arxiv.org/abs/2607.18365",
+      "title": "Towards Torque-Driven Reinforcement Learning for Quadruped Locomotion",
+      "content_text": "Reinforcement learning (RL) for legged robots is advancing locomotion, demonstrating its ability to adapt to new and challenging terrain. Traditionally, these RL locomotion frameworks are position-based, making the policy less adaptable to terrain types and requiring state estimation techniques in the observation space, i.e., linear velocity. Moreover, these RL frameworks often use small, lightweight quadrupeds that are limited in their viability for high-complexity tasks due to hardware constraints. This work explores an RL torque control framework for heavyweight high-torque quadrupeds. The RL framework in this paper can traverse rough terrain and effectively track a desired linear velocity without requiring knowledge of the agent's current velocity. Using Nvidia's Isaac Sim and Isaac La",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -684,10 +684,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16310",
-      "url": "https://arxiv.org/abs/2607.16310",
-      "title": "Real-Time sEMG-Based Telecontrol of an Assistive Robotic Arm Using a 1D Convolutional Neural Network",
-      "content_text": "Motor impairments affecting the upper limb significantly reduce autonomy in daily activities, particularly for tasks involving object manipulation. Assistive robotic arms offer a promising solution, provided they can be controlled in an intuitive, reliable, and responsive manner. Among human--machine interface approaches, surface electromyography (sEMG) enables non-invasive access to muscle activity and thus to the user's motor intentions. This work proposes a real-time sEMG-based interface for the teleoperation of an assistive robotic arm. The system relies on four-channel sEMG acquisition, signal preprocessing, segmentation into sliding windows, and classification using a one-dimensional convolutional neural network (CNN). Several real-time strategies are investigated, including threshol",
+      "id": "https://arxiv.org/abs/2607.18488",
+      "url": "https://arxiv.org/abs/2607.18488",
+      "title": "The Open Ant: A Robot Platform for Reinforcement Learning Research",
+      "content_text": "Reinforcement learning (RL) research has demonstrated success in both physical and simulated domains; however, the predominant methodology remains rooted in simulations. The predominance of simulations makes translating research to physical reality uncertain for both algorithms and researchers. We propose a physical platform that is designed to simplify the transition. In this paper, we present the Open Ant: a physical variant of the commonly used Gymnasium Ant environment, along with a simulation. We demonstrate that competent walking policies can be learned from scratch in approximately one hour directly from the physical robot's experience for two substantially different RL algorithms: SARSA($λ$) and Soft Actor-Critic (SAC). Separately, we show policies that were learned in simulation t",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -699,10 +699,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16341",
-      "url": "https://arxiv.org/abs/2607.16341",
-      "title": "S.E.A.G.R: A Socially and Emotionally Aware Greeting Robot Framework with Dual-Layer Cultural and Affective Modulation",
-      "content_text": "This paper presents SEAGR (Socially and Emotionally Aware Greeting Robot), a robotic greeting framework designed for human-robot interaction environments involving users from diverse cultural backgrounds and different emotional states. Since greeting behaviour strongly influences first impressions, user comfort, and trust, robots operating in public spaces must be able to interact in a socially appropriate and adaptive manner. However, many existing systems still rely on static greeting routines that do not account for cultural variation, emotional context, or interpersonal distance. SEAGR introduces a dual-layer modulation framework in which cultural identity determines the appropriate greeting type, while affective cues influence how that greeting is executed. The system combines context",
+      "id": "https://arxiv.org/abs/2607.18517",
+      "url": "https://arxiv.org/abs/2607.18517",
+      "title": "Beyond Fixed Goal Delivery: Online POMDP Planning for Target Interception in Crowds",
+      "content_text": "Target interception in crowded environments requires reaching a moving objective while navigating among multiple uncertain human agents. Since human navigation intent is not directly observable, the robot must reason over multiple possible future interaction outcomes. We formulate interception in crowds as a partially observable Markov decision process and solve it online using tree search under a fixed computational budget. In this setting, the action-space structure directly shapes the search tree and how computational effort is allocated. We perform a controlled comparison between a sequential path-speed planner, which first plans a spatial path and then modulates speed along it, and a unified planner that jointly branches over steering and speed within tree search. Across simulations w",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -714,10 +714,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16366",
-      "url": "https://arxiv.org/abs/2607.16366",
-      "title": "PRISM: Multimodal Terrain Mapping for Rover Navigation in Unstructured Environments",
-      "content_text": "Robotic navigation in unstructured environments requires robust situational awareness to safely traverse hazards such as steep slopes and rocky terrain. To address this challenge, perception systems increasingly rely on multimodal sensor fusion. Specifically, integrating thermal imagery with standard optical and depth sensors enhances terrain differentiation, directly improving the reliability of mapping algorithms. This paper presents PRISM, a multimodal perception system for terrain mapping in unstructured settings. PRISM leverages a custom sensor suite to capture aligned RGB, depth, and thermal (RGB-D-T) imagery. At its core is OmniUnet, a novel vision transformer-based network specifically designed for multimodal semantic terrain segmentation. We validated the proposed system using two",
+      "id": "https://arxiv.org/abs/2607.18527",
+      "url": "https://arxiv.org/abs/2607.18527",
+      "title": "DASH Robot: Minimalistic Design and Optimal Aerial-Terrestrial Locomotion via Contact-Implicit Control",
+      "content_text": "We present a novel and minimalistic design of an aerial-terrestrial robot DASH: Ducted Aerial Spring Hopper. The goal is to enable both aerial and ground locomotion capabilities on a unified mobile robot that is mechanically-minimalistic, locomotion-versatile, and energy-efficient. We propose an organic integration of ducted fan co-axial body with a springy leg at the bottom for realization. The ducted fan module provides thrust-vectoring as the main actuation for agile flying; when it is combined with the light-weight spring leg, the robot realizes highly efficient ground hopping with energy circulation. Moreover, to realize optimal locomotion with two modes, we employ a contact-implicit model predictive controller to automatically choose locomotion modes and actuation. We successfully va",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -729,10 +729,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16428",
-      "url": "https://arxiv.org/abs/2607.16428",
-      "title": "Back to the museum: Investigation of the acceptance of Android Andrea with and without emotion simulation in a museum",
-      "content_text": "For a second time, the android robot Andrea was set up at a public museum in Germany for six consecutive days to have conversations with visitors, fully autonomously. Building on previously gathered qualitative results, the robot was now capable of engaging in multi-lingual conversation with the visitors about the museum context. The robot was prepared with context information about the museum in general and its surrounding exhibits this time. The robot featured a slightly artificial sounding voice that was previously evaluated as congruent with its gender-ambiguous but very humanlike design. Three experimental conditions were implemented, in which either (1) the robot simulated no emotions, (2) the robots emotions were determined by ChatGPT 4.1, or (3) the WASABI emotion simulation archit",
+      "id": "https://arxiv.org/abs/2607.18578",
+      "url": "https://arxiv.org/abs/2607.18578",
+      "title": "Two-Stage Extrinsic Calibration of a Static Line-Scanning Lidar with a Rotary Platform",
+      "content_text": "A line-scanning lidar yields range and azimuth values in a fixed plane. To perceive surrounding objects in 3D, there must be relative motion between the lidar plane and the object. Thus, using a rotating base-platform is promising for industrial applications where objects need to be scanned or inspected precisely, and is the main focus of this work. In the rotary platform setup, a 3D point cloud of an object can be constructed if the axis of rotation and the precise motion about that axis are known. However, this setup gives rise to the following problem: how can the axis of rotation of the platform be accurately identified with respect to the lidar coordinate system? It is referred to as the calibration problem in the robotics community. Any inaccuracy in this transformation directly affe",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -744,10 +744,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16471",
-      "url": "https://arxiv.org/abs/2607.16471",
-      "title": "Linear Stability Analysis of an INDI Pitch-Rate Controller under Model Mismatch for a Tilt-Rotor VTOL UAV",
-      "content_text": "Incremental Nonlinear Dynamic Inversion (INDI) is attractive for unmanned aerial vehicle (UAV) flight control because it reduces dependence on a full aerodynamic model while retaining strong disturbance-rejection capability. For a tilt-rotor vertical takeoff and landing (VTOL) architecture, however, the admissible model-mismatch range of the fast inner loop is still not characterized analytically in a parameter-explicit way. This paper isolates the pitch-rate/elevon subchannel of an existing cascaded INDI controller and studies its linear stability under model mismatch. A closed-form fifth-order transfer function is derived for the full controller-estimator-actuator-plant interconnection, and stability is characterized through the Routh-Hurwitz criterion over a parameterized linear model. ",
+      "id": "https://arxiv.org/abs/2607.18580",
+      "url": "https://arxiv.org/abs/2607.18580",
+      "title": "STeP: Signal Temporal Logic for Precise Specifications for Action Generation with Vision Language Models",
+      "content_text": "Vision-language-action (VLA) models have shown impressive generalization, but often lack interpretability and can struggle to follow precise natural language instructions that encode spatial, temporal, and logical requirements. We propose a hierarchical framework that uses Signal Temporal Logic (STL) as a shared representation connecting high-level language understanding with low-level robot execution. A high-level policy leverages a VLM to decompose language instructions into high-level subtasks, generate STL specifications for each subtask, and choose a low-level policy for executing each subtask. The STL specifications translate language-derived intent into precise constraints, and the low-level policy selection determines whether those constraints are enforced directly through STL-guid",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -759,10 +759,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16501",
-      "url": "https://arxiv.org/abs/2607.16501",
-      "title": "Certifiable Safe Model-Based Reinforcement Learning with Control-Affine Dynamics Approximation",
-      "content_text": "Safe model-based reinforcement learning (RL) often bridges control-theoretic analysis and RL for robots to safely explore (partially) unknown system dynamics while deriving control actions for task efficiency. The control performance and safety assurance typically rely on prior knowledge of partially modeled nominal system dynamics and the data-driven models that compensate for residual model uncertainties. However, existing methods often overlook the structure of residual model uncertainties (e.g., components affine in control), which could lead to overly conservative robot behaviors or invalid safety guarantees under the safe learning-based controllers. This paper proposes a safe reinforcement learning framework that learns control-affine dynamics with a certifiable data-driven safe poli",
+      "id": "https://arxiv.org/abs/2607.18586",
+      "url": "https://arxiv.org/abs/2607.18586",
+      "title": "Bridging the Sim-to-Real Gap under Real-Time Constraints in Autonomous Racing",
+      "content_text": "Autonomous racing exposes the sim-to-real gap under extreme operating conditions characterized by high speed, tight stability margins, and stringent real-time constraints. Although simulation is indispensable for development, controllers that perform well in simulation often degrade abruptly on physical platforms due to interacting effects of dynamics mismatch, estimation delay, and execution-layer latency. This paper frames sim-to-real transfer in autonomous racing as a full-stack, real-time systems problem. We introduce a structured three-layer perspective (Physical/Cyber/Execution) to analyze how mismatches propagate and amplify through closed-loop feedback. We present diagnostic metrics beyond nominal lap time, including performance flip, stability-oriented measures, sensitivity to del",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -774,10 +774,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16506",
-      "url": "https://arxiv.org/abs/2607.16506",
-      "title": "Foresight Residual RL for Long-Horizon Robot Manipulation with Vision-Language-Action Models",
-      "content_text": "Vision-Language-Action (VLA) policies offer strong general-purpose manipulation priors, but often fail on tight-tolerance, contact-rich assembly due to long-horizon credit assignment and subtask coupling: a state that is geometrically successful for the current skill can be brittle for downstream skills. We show this failure mode in residual reinforcement learning (RL) over a frozen VLA base policy: constant sparse success rewards improve each subtask in isolation yet yield little or no gain when skills are chained, because terminal state quality is uncontrolled. We propose Foresight Residual RL, which optimizes handoff quality by augmenting each subtask's sparse success reward with an offline-estimated foresight value -- the probability of future subtask success conditioned on the termina",
+      "id": "https://arxiv.org/abs/2607.18604",
+      "url": "https://arxiv.org/abs/2607.18604",
+      "title": "Intelligent Multi-UAV Navigation in ITNTNs: A Hierarchical LLM Approach",
+      "content_text": "The deployment of high-speed Uncrewed Aerial Vehicles (UAVs) in 3D aerial highways necessitates robust coordination of physical flight kinematics and multi-tier network handovers. While Deep Reinforcement Learning (DRL) offers rapid tactical control, it lacks the zero-shot strategic reasoning required to quickly adapt to dynamic Integrated Terrestrial and Non-Terrestrial Networks (ITNTNs). Conversely, Large Language Models (LLMs) excel at semantic reasoning but suffer from high inference latency, rendering them unsuitable for real-time aerodynamic control. To bridge this gap, we propose a novel Hierarchical LLM-driven control framework. A massive cloud-based LLM deployed on a High-Altitude Platform Station (HAPS) manages slow-timescale global load balancing, while lightweight edge-LLMs on ",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -789,10 +789,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16508",
-      "url": "https://arxiv.org/abs/2607.16508",
-      "title": "Differentiable Reinforcement Learning for Path Tracking by an Agile Fish-Like Robot",
-      "content_text": "Fish-like swimming has inspired the design of several dozens if not hundreds of bioinspired robots in the last few decades. But the control and motion planning of such robots has been challenging due to the poorly modeled fluid-structure interaction and the nonlinear underactuated dynamics of such robots. While reinforcement learning has allowed significant advances in the context of ground and aerial robots, the lack of a suitable simulation environment with appropriate computational speed and accuracy have prevented similar progress for fish-like robots. We address this two-fold problem by developing a simulation platform that approximates the motion of our fish-like robot with computational efficiency. Then the motion control and path tracking by the robot is performed using PID control",
+      "id": "https://arxiv.org/abs/2607.18606",
+      "url": "https://arxiv.org/abs/2607.18606",
+      "title": "On the Limits of Sampling-Based Reachability: Geometry, Dynamics, and Sample Complexity",
+      "content_text": "Reachability analysis is central to safety-critical control, robotics, and neural network verification, but classical computational methods, such as Hamilton--Jacobi reachability and set propagation, scale poorly with state dimension. Sampling-based methods have emerged as a promising alternative, often providing finite-sample guarantees that bound the probability-mass left uncovered. However, an explicit account of how the geometry of the initial set, the dynamics, and the sampling law affect the accuracy of the estimator is not fully available in the literature. We study this by casting sampling-based reachable-set recovery as geometric support estimation over a family of problems specified by an initial set, its dynamics, and a sampling law. First, we identify two regularity properties,",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -819,10 +819,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16386",
-      "url": "https://arxiv.org/abs/2607.16386",
-      "title": "An Interactive Interface for Control Integration in Mid-Fidelity Wind Farm Simulation",
-      "content_text": "Wind farm control (WFC) plays a crucial role in mitigating the wake effect, the negative aerodynamic interactions among wind turbines. Recent advances in data-driven control and artificial intelligence offer new opportunities to design more intelligent WFC systems, motivating the need for a tool that supports interactive design and validation in simulation. To address this, we present ffconnect, a general, open-source Python-based interface for FAST.Farm, a mid-fidelity wind farm simulator. Compared to prior work, ffconnect introduces a restructured Application Programming Interface (API) with enriched state access and supports integrating FAST.Farm with modern scientific computing and machine learning ecosystems by building entirely on Python. In experiments, ffconnect shows negligible ru",
+      "id": "https://arxiv.org/abs/2607.18439",
+      "url": "https://arxiv.org/abs/2607.18439",
+      "title": "Learnable Sequential Memory in Coupled Oscillator Networks",
+      "content_text": "The Hopfield network established that static memories can be stored as energy minima of a recurrent dynamical system, yet real intelligent agents must navigate \\emph{sequences} of memories rather than isolated snapshots.Biological cortex addresses this through a separation of timescales: fast synaptic dynamics encode individual states while slow neuromodulatory processes govern transitions between them. Inspired by this multi-timescale organization, we propose a sequential memory architecture that is fully continuous, admits exponential storage capacity, and is learnable in the sense that the transition structure is carried by a separate routing matrix -- decoupled from the stored patterns, driven by the input context, and free to be chosen, optimized, or learned from data rather than hard",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -834,10 +834,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16505",
-      "url": "https://arxiv.org/abs/2607.16505",
-      "title": "A 0.74-mW K$_u$-band Cryogenic SiGe LNA in 130-nm BiCMOS with 14-K Noise Temperature for Scalable Quantum Readout",
-      "content_text": "This paper presents a sub-milliwatt K$_u$-band cryogenic low-noise amplifier (LNA) implemented in GlobalFoundries (GF) 130CBIC SiGe BiCMOS, intended for a sub-Kelvin qubit readout chain integrating a JPA and SiGe LNA on the Still stage. The four-stage cascode LNA features balun-coupled interstage matching with a Q-enhanced resonance tank controlled by 2-bit switches tank for frequency tuning and a voltage-controlled cross-coupled negative-$g_m$ cell. The operating point of the Q-cell is optimized at each temperature stage to achieve the best in-band performance under a stable condition. Characterized at 2.5 K for the initial demonstration, the LNA achieves an average noise temperature of $\\sim$14 K across 12-18 GHz and 28 dB peak gain around 16.5 GHz, while consuming only 0.74 mW. To the a",
+      "id": "https://arxiv.org/abs/2607.18500",
+      "url": "https://arxiv.org/abs/2607.18500",
+      "title": "Large-Signal Stability Analysis of Optimization-Based Secondary Control for Distributed Energy Resources",
+      "content_text": "This article develops a large-signal stability analysis for a sampled-data optimization-based secondary controller for distributed energy resources (DERs) in power systems. The induced closed loop combines nonlinear inverter power-flow dynamics, filtered active and reactive power measurements, constrained optimization updates, and interpolation-based actuation between sampling instants. We study this optimization-in-the-loop nonlinear sampled-data system beyond local linearization. The analysis provides computable bounds on the voltage, filtered reactive power, and the secondary control input. We further characterize steady-state operating points and establish how the optimizer objectives and constraints connect voltage regulation with equal per-unitized reactive power sharing. Finally, in",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -849,10 +849,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16510",
-      "url": "https://arxiv.org/abs/2607.16510",
-      "title": "Distributed Adaptive Estimation of Unknown Nonlinear Systems without Input Sharing",
-      "content_text": "This paper studies distributed adaptive state estimation for discrete-time nonlinear systems with unknown source dynamics over directed communication networks. Each sensing agent estimates the source state using only local measurements and information exchanged with neighboring agents, enabling a fully distributed implementation without requiring shared excitation or control inputs. A normalized adaptive estimation scheme is proposed to identify unknown linear and nonlinear dynamics while ensuring robust discrete-time adaptation. A Lyapunov-based analysis establishes input-to-state stability (ISS) of the estimation error dynamics, guaranteeing bounded adaptive parameters under bounded disturbances and asymptotic convergence of the estimation errors in the disturbance-free case under suitab",
+      "id": "https://arxiv.org/abs/2607.18565",
+      "url": "https://arxiv.org/abs/2607.18565",
+      "title": "Integrity-Gated Eco-CACC: Epistemic Admissibility for Cooperative Driving at Signalized Intersections",
+      "content_text": "Eco-Cooperative Adaptive Cruise Control (Eco-CACC) systems rely on accurate localization, signal timing, and interaction awareness to optimize energy consumption at signalized intersections. Existing approaches typically assume that the internal world model used for optimization remains valid, making them vulnerable when sensing outages or semantic inconsistencies invalidate planning premises. This letter proposes an Integrity-Gated Eco-CACC framework that explicitly monitors the consistency between internal vehicle beliefs and external sensing. A unified integrity metric is constructed by combining positional innovation, observability loss, and semantic inconsistencies. The resulting trust score regulates control authority, enabling a transition between nominal eco-driving and a safety-do",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -864,10 +864,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16512",
-      "url": "https://arxiv.org/abs/2607.16512",
-      "title": "A Unified Statistical Framework for Multicopter Propeller Damage Diagnosis Based on Functionally Pooled Models and Bayesian Quantification: Experimental Flight Test Assessment",
-      "content_text": "In this work, a stochastic time series-based framework is introduced for multicopter propeller damage diagnosis using functionally pooled autoregressive (FP-AR) models. The framework addresses damage detection, motor-level identification, and damage magnitude estimation using only standard inertial measurement unit data, without requiring additional sensors. Functional pooling provides a compact representation of system dynamics across varying operating conditions and supports reliable model estimation from short data records. Damage detection is performed through statistical testing of prediction residuals, damage identification through model selection, and damage quantification through a Bayesian inference scheme that provides posterior estimates and uncertainty bounds. The framework is ",
+      "id": "https://arxiv.org/abs/2607.18653",
+      "url": "https://arxiv.org/abs/2607.18653",
+      "title": "Stochastic Capacity Accreditation: Incentivizing Resource Adequacy under Weather Uncertainty",
+      "content_text": "High penetrations of variable renewable energy introduce significant resource adequacy challenges, particularly when weather-driven uncertainty affects renewable availability, electricity demand, and the effective capacity of thermal generators. Existing capacity credit accreditation methods often neglect these correlated weather effects, which may overstate firm capacity, distort long-term investment decisions, and weaken reliability outcomes in electricity market with price caps. This paper proposes a two-stage stochastic optimization framework for capacity accreditation that explicitly captures uncertainty in wind, solar, and temperature-dependent thermal derating. Using five years of ERCOT demand and renewable availability data, we compare the proposed stochastic capacity credit method",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",

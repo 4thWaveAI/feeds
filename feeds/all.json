@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
+      "id": "https://esports.gg/news/mobile-legends-bang-bang/msc-2026-ewc-schedule-results-livestream/",
+      "url": "https://esports.gg/news/mobile-legends-bang-bang/msc-2026-ewc-schedule-results-livestream/",
+      "title": "MSC 2026 Esports World Cup: Format, schedule, results, and more",
+      "content_text": "Here is a complete guide to MSC 2026 at the Esports World Cup, including match results, schedules, and key information.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/07/MSC-2026-Esports-World-Cup-Format-schedule-results-and-more.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
       "id": "https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/",
       "url": "https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/",
       "title": "A Week of Smoky Skies Across North America - NASA Science",
@@ -20,7 +35,7 @@
         }
       ],
       "tags": [
-        "disclosure-watch"
+        "space-tech"
       ]
     },
     {
@@ -75,7 +90,7 @@
       "content_text": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capable AI systems. In front of an audience of Wistron […]",
       "attachments": [
         {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/wistron-event-july2026-kv-3840x2160-1-scaled.jpg",
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Wistron_D1_Grand_Opening_Ceremony-Factory_Tour-21-MY-edit-scaled.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -335,21 +350,6 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-smith.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/directorates/stmd/photophoretic-tracers-for-near-space-remote-sensing-at-30-100-km-altitudes/",
-      "url": "https://www.nasa.gov/directorates/stmd/photophoretic-tracers-for-near-space-remote-sensing-at-30-100-km-altitudes/",
-      "title": "Photophoretic tracers",
-      "content_text": "This concept addresses a major gap in current sensing capabilities. The mesosphere and upper stratosphere play a key role in atmospheric dynamics,",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-schafer.png",
           "mime_type": "image/png"
         }
       ],
@@ -718,21 +718,6 @@
       ]
     },
     {
-      "id": "https://esports.gg/news/mobile-legends-bang-bang/team-vitality-back-to-back-mwi-ewc-2026-win/",
-      "url": "https://esports.gg/news/mobile-legends-bang-bang/team-vitality-back-to-back-mwi-ewc-2026-win/",
-      "title": "Team Vitality Celebrates MWI at EWC 2026 win by eating giant croissants",
-      "content_text": "Team Vitality wins a back-to-back MWI at EWC 2026 championship title after defeating NAVI PH in a six-round series.",
-      "attachments": [
-        {
-          "url": "https://media.esports.gg/uploads/2026/07/Team-Vitality-Celebrates-MWI-at-EWC-2026-Win-By-Eating-Giant-Croissants.avif",
-          "mime_type": "image/avif"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
       "id": "https://esportsinsider.com/2026/07/souith-american-dota-2-playtime-esports-world-cup",
       "url": "https://esportsinsider.com/2026/07/souith-american-dota-2-playtime-esports-world-cup",
       "title": "South American Dota 2 just got dealt one of its worst blows yet after PlayTime's scandal at the Esports World Cup",
@@ -918,6 +903,21 @@
       ],
       "tags": [
         "research-integrity"
+      ]
+    },
+    {
+      "id": "https://www.embl.org/news/science-technology/scientists-map-how-the-flu-virus-rewires-the-human-cell-from-the-inside/",
+      "url": "https://www.embl.org/news/science-technology/scientists-map-how-the-flu-virus-rewires-the-human-cell-from-the-inside/",
+      "title": "Scientists map how the flu virus rewires the human cell from the inside | EMBL",
+      "content_text": "EMBL Hamburg researchers and their collaborators have gained new insights into how the influenza A virus reprograms cellular machinery",
+      "attachments": [
+        {
+          "url": "https://www.embl.org/news/wp-content/uploads/2026/07/Kosinski_fluVirus.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "biotech"
       ]
     }
   ]

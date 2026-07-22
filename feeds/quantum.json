@@ -755,10 +755,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16265",
-      "url": "https://arxiv.org/abs/2607.16265",
-      "title": "Relativistic bound-state solutions for a non-central Schi{ö}berg-type hyperbolic potential with double ring-shaped angular terms",
-      "content_text": "Singular interactions can reshape quantum spectra by changing admissible wavefunction domains. In this study, we investigate this mechanism in the Klein--Gordon equation for a non-central Schiöberg-type hyperbolic potential with double ring-shaped angular barriers. Equal scalar and vector couplings separate the radial and angular dynamics. We solve the angular equation exactly and treat the radial equation with the Greene--Aldrich approximation, obtaining Jacobi-polynomial wavefunctions and an implicit relativistic quantization condition. The equatorial inverse-square singularity splits configuration space into reflection-related sectors with identical angular spectra. Reducing the barrier to zero within one sector retains only odd-parity states, unlike the regular full-domain problem, whi",
+      "id": "https://arxiv.org/abs/2607.18333",
+      "url": "https://arxiv.org/abs/2607.18333",
+      "title": "A First Bound on the Moffat Energy and Thorium--229 Clock as a Probe of the Nonlocal Time-Energy Structure",
+      "content_text": "The new Thorium--229 nuclear clocks give us a new laboratory system in which to test if modification of the Time-Energy uncertainty principle is correct. In this paper we derive the nonlocal Time-Energy uncertainty principle and then apply the published $^{229}$Th nuclear clock data as a first probe of the nonlocality scale \\(E_M\\). We note that since these experiments were not designed to test nonlocal quantum field theory the constraints are interpreted as motivating bounds and not definitive exclusions. By using the direct clock-energy channel, we find conservative lower bounds on \\(E_M\\) at the tens of MeV scale, with optimistic present-data estimates reaching the hundred MeV scale. Including the known nuclear sensitivity enhancement of the $^{229}$Th transition gives us stronger model",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -770,10 +770,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16271",
-      "url": "https://arxiv.org/abs/2607.16271",
-      "title": "EPIC-CIM: Training Convolutional Neural Networks on a Coherent Ising Machine via Equilibrium Propagation",
-      "content_text": "Quantum convolutional neural networks, due to the involvement of quantum measurements and discrete quantum state evolution, face inherent training challenges associated with non-differentiable operations and discrete optimization dynamics, which make conventional gradient-based learning difficult to apply effectively. In this context, energy-based learning provides a promising alternative by reformulating network training as an energy minimization process without explicit gradient backpropagation.In this framework, input data are processed through convolutional operations, followed by quantum sampling to generate intermediate binary representations, while the output layer also relies on quantum sampling to produce final predictions. The overall network energy is composed of convolutional f",
+      "id": "https://arxiv.org/abs/2607.18338",
+      "url": "https://arxiv.org/abs/2607.18338",
+      "title": "Phase-Selective Amplitude Amplification for Constrained Optimization",
+      "content_text": "This work introduces a variant of Grover amplitude amplification using stabilizer and blade qubits to improve boosting robustness across objective distributions. We give geometric intuition, example simulations, and discuss limitations. Formal performance bounds and larger-scale validation are left for future research.",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -785,10 +785,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16275",
-      "url": "https://arxiv.org/abs/2607.16275",
-      "title": "QR-SPPS: Quantum-Native Retail Shock Propagation and Policy Stress Simulator",
-      "content_text": "Classical supply chain risk models treat node failures as statistically independent events, systematically underestimating correlated cascade failures across multi-tier supplier networks. We present QR-SPPS (Quantum-Native Retail Shock Propagation and Policy Stress Simulator), a quantum-native framework for retail supply chain risk analysis implemented on the Qiskit ecosystem using OpenFermion-based Ising Hamiltonian encoding. A 40-node, four-tier supply network is mapped to a 40-qubit Hamiltonian with ZZ coupling terms representing correlated supplier dependencies. A hardware-efficient Variational Quantum Eigensolver (VQE) computes the stress ground state, revealing entangled cascade failures that differ substantially from classical Monte Carlo predictions. We further introduce the applic",
+      "id": "https://arxiv.org/abs/2607.18351",
+      "url": "https://arxiv.org/abs/2607.18351",
+      "title": "Probing gravitational interaction between milligram optomechanical oscillators operating in the quantum regime",
+      "content_text": "We present an ongoing optomechanical experiment aimed at detecting gravitational interaction between milligram-scale oscillators, and exploring its interplay with quantum mechanics. The setup employs two microfabricated oscillators coupled via gravity and read out through a high-finesse optical cavity, at ultra-cryogenic temperature. Finite element simulations, noise modelling, and sensitivity estimates demonstrate that gravitational coupling can be detected with integration times ranging from minutes to hours. The experiment establishes a realistic platform for probing gravitational effects in systems approaching the quantum regime.",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -800,10 +800,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16276",
-      "url": "https://arxiv.org/abs/2607.16276",
-      "title": "Intelligence-Guided Adaptive Purification for DDoS-Resilient Quantum Networks: A CUDA-Q based Study",
-      "content_text": "Quantum-repeater networks require adaptive control policies that balance entanglement generation rate, end-to-end fidelity, purification overhead, and memory-induced latency. This tradeoff becomes more complex when the classical control plane is degraded by cyber anomalies or denial-of-service traffic. We develop a CUDA-Q/SeQUeNCe co-simulation workflow for studying adaptive entanglement purification in heterogeneous linear repeater chains. CUDA-Q noisy quantum kernels are used to estimate primitive entanglement purification and swapping behavior, while SeQUeNCe provides an event-layer model for stochastic link generation, waiting-time-dependent memory decay, purification failure, and end-to-end swapping. Under stationary conditions, we compare no purification, local threshold purification",
+      "id": "https://arxiv.org/abs/2607.18374",
+      "url": "https://arxiv.org/abs/2607.18374",
+      "title": "Nishimori Threshold Estimation for Bayesian Inference and $\\mathbb{Z}_q$ Surface Code Decoding",
+      "content_text": "In quantum error correction, the error threshold provides essential quantitative guidance for the ability to bring about fault-tolerance through decoding the effects of incoherent noise, weak measurement or inference. However, the numerical value of an error threshold is typically only accessible through large-scale numerical simulations of the underlying noise model. Here we introduce an analytical estimate of error thresholds falling into the Nishimori universality class via a Fourier--Walsh projection scheme that maps the critical point of the underlying disorder-free statistical-mechanics model to the Born-disordered Nishimori critical point. Using a minimal replica theory approach, this closed-form estimate is obtained from a projection of the exact replicated single-bond weight which",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -815,10 +815,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16277",
-      "url": "https://arxiv.org/abs/2607.16277",
-      "title": "A Hybrid Classical-Quantum Approach for Multi-Constrained Location Optimization Problem",
-      "content_text": "The Maximal Covering Location Problem (MCLP) is an NP-hard Combinatorial Optimization Problem (COP) that aims to determine the optimal facility placements that maximize total coverage. It is characterized by both equality and inequality constraints, which ensure correct coverage but significantly increase the complexity of exploring the solution space as instance size grows. Hybrid quantum-classical approaches might offer a promising alternative to classical optimization methods by enabling the exploration of complex energy landscapes through quantum superposition and probabilistic sampling. In this work, the MCLP is formulated as a Quadratic Unconstrained Binary Optimization (QUBO) model, where constraint embedding plays a critical role in solution quality. In particular, Unbalanced Penal",
+      "id": "https://arxiv.org/abs/2607.18383",
+      "url": "https://arxiv.org/abs/2607.18383",
+      "title": "Adlam's Frame: comment on \"Wigner's Frame\"",
+      "content_text": "Recent no-go theorems based on extended Wigner's Friend scenarios (EWFS) reveal a deep tension between the universal validity of quantum theory and local friendliness (LF), the conjunction of three natural assumptions: the absoluteness of observed events, locality, and no-superdeterminism. In a recent work, Adlam argues that this tension can be dissolved by appealing to quantum reference frames (QRFs). We present and critically assess her proposal. We show that her proposed resolution does not arise from QRFs, but instead relies on three independent modifications: certain degrees of freedom are always definite, observers can flip upon measuring spins, and the outcomes the superobservers record and use to test the inequalities are not their friends' observed results. The proposal and the ar",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -830,10 +830,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16278",
-      "url": "https://arxiv.org/abs/2607.16278",
-      "title": "Number Fluctuations and Entanglement-Spectrum Participation in Monitored Free Fermions",
-      "content_text": "On finite system sizes, monitored one-dimensional free-fermion chains display a broad crossover in entanglement scaling as the measurement rate increases, from sub-extensive behavior at weak monitoring toward an area law at strong monitoring. Analytical field theory and recent large-scale simulations indicate that this apparent change is not a finite-rate transition in the thermodynamic limit. I test, using trajectory-resolved correlation-matrix simulations (chains up to $L=96$ and up to 128 Born-rule trajectories per parameter point), whether two quantities built from the single-particle entanglement spectrum are useful finite-size diagnostics: the bipartite particle-number fluctuation $F_A=\\sum_kν_k(1-ν_k)$ and a participation-style effective number of entangling modes, $\\mathcal{M}_A=\\e",
+      "id": "https://arxiv.org/abs/2607.18387",
+      "url": "https://arxiv.org/abs/2607.18387",
+      "title": "Remote entanglement need not be the bottleneck for modular trapped-ion quantum computing",
+      "content_text": "Modularity underpins classical computing; as quantum processors encounter limits on fabrication yield, reliability, and size, they will need it just as acutely. The bottleneck to linking modules is producing shared entanglement at sufficient rate, density, and fidelity. Trapped ions hold the best demonstrated photonic links, yet they rely on bulky collection optics that cap how densely links can be packed, and their performance trails local gates by two orders of magnitude in rate and fidelity. We synthesize several enabling results $\\unicode{x2014}$ single-photon heralding, coherent recoil correction, projective distillation, and trap-integrated photonics $\\unicode{x2014}$ into one comprehensive architecture that substantially narrows this gap. Single-photon heralding leads to linear scal",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -845,10 +845,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16281",
-      "url": "https://arxiv.org/abs/2607.16281",
-      "title": "A Novel Hybrid Quantum Reservoir Computing (nHQRC) for Phase Transition Detection in Non-Equilibrium Dynamical Systems",
-      "content_text": "The analysis of highly non-linear stochastic data within non-equilibrium dynamical systems requires computational frameworks capable of detecting latent phase transitions before systemic structural breakdowns occur. Traditional Variational Quantum Algorithms (VQAs) are frequently bottlenecked by vanishing gradients, the barren plateau problem, and prohibitive training overheads. In this paper, we propose a novel Hybrid Quantum Reservoir Computing (nHQRC) framework, which bypasses these limitations by employing a frozen, disordered Transverse-Field Ising Model (TFIM) to project time-dependent stochastic driving forces into an exponentially large Hilbert space. To resolve the physical phase multi-wrapping vulnerabilities present in baseline quantum reservoir models, we introduce a lookahead-",
+      "id": "https://arxiv.org/abs/2607.18392",
+      "url": "https://arxiv.org/abs/2607.18392",
+      "title": "Calculus of Robinet: completely positive reconstruction of time-averaged diffusive quantum trajectories",
+      "content_text": "Truly continuous quantum trajectories, obtained from homodyne or heterodyne readouts, can only ever be reconstructed approximately. The continuous measurement signal, needed for exact reconstruction, is averaged over bins of finite time $Δt$ during any analog to digital conversion step. The best reconstruction possible, knowing only this discrete record, was introduced recently and dubbed the Robinet state. In this article, we show how the Robinet state can be computed with a numerical discretization scheme that is completely positive, accurate to arbitrarily high order in $Δt$, and that does not rely on any other external solver. Our derivation relies on a dilation of the stochastic master equation into a system + transmission line setup, constructed in such a way that measuring what we c",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -860,10 +860,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16376",
-      "url": "https://arxiv.org/abs/2607.16376",
-      "title": "The Quantum Correction to Gaussian Information Geometry is the Killing Form of the Symplectic Algebra",
-      "content_text": "On the admissible cone $\\mathcal C_Ω=\\{Σ\\in\\mathrm{Sym}^+(2n):Σ+iΩ\\ge0\\}$ of Gaussian covariance matrices, the classical Bures--Wasserstein transport metric, the Fisher--Rao information metric, and the quantum Bures metric are individually well understood, but their mutual relationship is obscured by the operator equations defining them. Working with the contravariant (dual) metrics, we show that the exact difference between the dual quantum Bures metric and the dual Fisher--Rao metric is independent of the covariance matrix: it is identically the trace form, proportional to the Killing form, of the symplectic algebra $\\mathfrak{sp}(2n,\\mathbb R)$, pulled back through the isomorphism $X\\mapstoΩX$. The signature of this form on the Cartan decomposition reproduces the anisotropic stiffening ",
+      "id": "https://arxiv.org/abs/2607.18400",
+      "url": "https://arxiv.org/abs/2607.18400",
+      "title": "Magic-protected entanglement and Clifford-irreducible structure in magic state space",
+      "content_text": "We develop a Clifford-orbit framework for studying magic-protected entanglement, which we refer to as magical entanglement: the part of bipartite entanglement that remains after optimal stabilizer simplification. This construction leverages residual entanglement under Clifford reduction as a state-level organizing principle for magic state space. It defines canonical representatives, spectra, and ranks that characterize the Clifford-irreducible structure of a state. We identify two regimes of the magic-entanglement interplay. In the $T$-magic regime, local nonstabilizer resources can coexist with entanglement, but the protected component remains weak and state-dependent. In the $W$-magic regime, by contrast, entanglement is Clifford-irreducibly tied to nonstabilizerness, producing typical,",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -875,10 +875,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16380",
-      "url": "https://arxiv.org/abs/2607.16380",
-      "title": "Hamiltonian Lift of Bures--Wasserstein Covariance Dynamics with a Spectral Floor",
-      "content_text": "Covariance dynamics on the positive-definite cone are commonly described by gradient flows, which encode dissipative relaxation but obscure the underlying phase-space structure. We construct a finite-dimensional Hamiltonian lift of covariance dynamics on Sym$^+_n$ equipped with the Bures--Wasserstein metric. The natural mechanical Lagrangian yields canonical momentum $Π=\\tfrac12 L_Σ[\\dotΣ]$, where $L_Σ$ is the Lyapunov operator, and explicit Hamiltonian $\\mathcal{H}(Σ,Π) = 2{\\rm tr}(ΠΣΠ)+V(Σ)$. Adding Rayleigh dissipation recovers the Bures--Wasserstein gradient flow in the overdamped limit. For a spectral-floor and trace-control potential, the quadratic fluctuation Hamiltonian around the isotropic equilibrium separates trace and traceless modes; the baseline stiffness diverges as $(s-ν)^{",
+      "id": "https://arxiv.org/abs/2607.18401",
+      "url": "https://arxiv.org/abs/2607.18401",
+      "title": "Monolithic printed-circuit board RF-trap for electrons",
+      "content_text": "Qubits encoded in the spin of trapped electrons have been proposed as a promising novel platform for quantum information processing. While trapping of electrons has been largely carried out in Penning traps for precision measurement purposes, it is desirable to use linear Paul traps instead, leaning on the successes of trapped ion quantum processors. Here we present a Paul trap for electrons made of a single printed circuit board. Our approach requires no assembly and the rigid design minimizes manufacturing intolerances. We characterize the trap performance and observe trapped electron lifetimes of 2.13 ms and secular frequencies of up to 90 MHz.",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -890,10 +890,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16385",
-      "url": "https://arxiv.org/abs/2607.16385",
-      "title": "The Norton Theorem for Quantum Circuits and Systems",
-      "content_text": "It is well known that classical analog circuits and systems benefit from the powerful Thevenin and Norton theorems. These theorems enable rigorous and exact mathematical simplification and representation of the effect of the rest of a system on the part we want to focus on. We show that there are corresponding versions of a \"Quantum Norton Theorem\" that enable exact simplification and reduction for quantum circuits and systems, not just for one port, but also for multiport and even open quantum systems. We demonstrate the method on two level systems, chains, system environment partitions, Lindblad examples, and Grover search. The Grover examples show how the reduced network isolates the bright pole governing ideal search and exposes how diagonal disorder transfers spectral weight into dark",
+      "id": "https://arxiv.org/abs/2607.18404",
+      "url": "https://arxiv.org/abs/2607.18404",
+      "title": "Reducing entanglement with a Hamiltonian derived Clifford transformation",
+      "content_text": "Recently (Physica Scripta, 100(10):105401, 2025), an algorithm was introduced that deterministically generates a Clifford transformation from the Qubit Coupled Cluster (QCC) algorithm which we call Q-Cliff (QCC+Clifford). There, it was shown that Q-Cliff could be utilized to generate a hardware efficient version of the QCC ansatz. Here, we examine and refine these techniques and show that Q-Cliff can be utilized to generate efficient classical and quantum approximations to the ground states of chemical systems. The algorithm generates an efficient variational method that generally has accuracy between MP2 and CISD with $O(N^6)$. Furthermore, we show through DMRG calculations that the entanglement between qubits is reduced significantly and therefore the accuracy for a given bond dimension ",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",

@@ -5,8 +5,8 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/future-of-work-labor.json",
   "items": [
     {
-      "id": "https://ec.europa.eu/eurostat/news/news-articles",
-      "url": "https://ec.europa.eu/eurostat/news/news-articles",
+      "id": "https://ec.europa.eu/eurostat/en/news/news-articles",
+      "url": "https://ec.europa.eu/eurostat/en/news/news-articles",
       "title": "News articles - Eurostat",
       "content_text": "News articles - Eurostat",
       "tags": [
@@ -14,8 +14,8 @@
       ]
     },
     {
-      "id": "https://ec.europa.eu/eurostat/news/euro-indicators",
-      "url": "https://ec.europa.eu/eurostat/news/euro-indicators",
+      "id": "https://ec.europa.eu/eurostat/en/news/euro-indicators",
+      "url": "https://ec.europa.eu/eurostat/en/news/euro-indicators",
       "title": "Euro indicators - Eurostat",
       "content_text": "Euro indicators - Eurostat",
       "tags": [
@@ -23,8 +23,8 @@
       ]
     },
     {
-      "id": "https://ec.europa.eu/eurostat/news/podcasts",
-      "url": "https://ec.europa.eu/eurostat/news/podcasts",
+      "id": "https://ec.europa.eu/eurostat/en/news/podcasts",
+      "url": "https://ec.europa.eu/eurostat/en/news/podcasts",
       "title": "Podcasts - Eurostat",
       "content_text": "Podcasts - Eurostat",
       "tags": [
@@ -32,8 +32,8 @@
       ]
     },
     {
-      "id": "https://ec.europa.eu/eurostat/news/events-webinars",
-      "url": "https://ec.europa.eu/eurostat/news/events-webinars",
+      "id": "https://ec.europa.eu/eurostat/en/news/events-webinars",
+      "url": "https://ec.europa.eu/eurostat/en/news/events-webinars",
       "title": "Events and webinars - Eurostat",
       "content_text": "Events and webinars - Eurostat",
       "tags": [
@@ -41,10 +41,73 @@
       ]
     },
     {
-      "id": "https://ec.europa.eu/eurostat/news/release-calendar",
-      "url": "https://ec.europa.eu/eurostat/news/release-calendar",
+      "id": "https://ec.europa.eu/eurostat/en/news/release-calendar",
+      "url": "https://ec.europa.eu/eurostat/en/news/release-calendar",
       "title": "Release calendar - Eurostat",
       "content_text": "Sign up to receive our weekly release calendar by email into your inbox.",
+      "tags": [
+        "future-of-work-labor"
+      ]
+    },
+    {
+      "id": "https://www.ons.gov.uk/releases/privaterentandhousepricesukjuly2026",
+      "url": "https://www.ons.gov.uk/releases/privaterentandhousepricesukjuly2026",
+      "title": "Private rent and house prices, UK: July 2026\n      - Office for National Statistics",
+      "content_text": "Cookies are small files stored on your device when you visit a website. We use some essential cookies to make this website work.",
+      "tags": [
+        "future-of-work-labor"
+      ]
+    },
+    {
+      "id": "https://www.ons.gov.uk/releases/contributionstothe12monthrateofcpihbyimportintensityjune2026",
+      "url": "https://www.ons.gov.uk/releases/contributionstothe12monthrateofcpihbyimportintensityjune2026",
+      "title": "Contributions to the 12-month rate of CPI(H) by import intensity: June 2026\n      - Office for National Statistics",
+      "content_text": "Cookies are small files stored on your device when you visit a website. We use some essential cookies to make this website work.",
+      "tags": [
+        "future-of-work-labor"
+      ]
+    },
+    {
+      "id": "https://www.ons.gov.uk/releases/deathsregisteredweeklyinenglandandwalesprovisionalweekending10july2026",
+      "url": "https://www.ons.gov.uk/releases/deathsregisteredweeklyinenglandandwalesprovisionalweekending10july2026",
+      "title": "Deaths registered weekly in England and Wales, provisional: week ending 10 July 2026\n      - Office for National Statistics",
+      "content_text": "Cookies are small files stored on your device when you visit a website. We use some essential cookies to make this website work.",
+      "tags": [
+        "future-of-work-labor"
+      ]
+    },
+    {
+      "id": "https://www.ons.gov.uk/releases/producerpriceinflationukjune2026includingservicesapriltojune2026",
+      "url": "https://www.ons.gov.uk/releases/producerpriceinflationukjune2026includingservicesapriltojune2026",
+      "title": "Producer price inflation, UK: June 2026 including services, April to June 2026\n      - Office for National Statistics",
+      "content_text": "Cookies are small files stored on your device when you visit a website. We use some essential cookies to make this website work.",
+      "tags": [
+        "future-of-work-labor"
+      ]
+    },
+    {
+      "id": "https://www.ons.gov.uk/releases/producerpriceinflationukjune2026includingservicesapriltojune2026timeseries",
+      "url": "https://www.ons.gov.uk/releases/producerpriceinflationukjune2026includingservicesapriltojune2026timeseries",
+      "title": "Producer price inflation, UK: June 2026, including services, April to June 2026 time series\n      - Office for National Statistics",
+      "content_text": "Cookies are small files stored on your device when you visit a website. We use some essential cookies to make this website work.",
+      "tags": [
+        "future-of-work-labor"
+      ]
+    },
+    {
+      "id": "https://www.ons.gov.uk/releases/consumerpriceinflationukjune2026timeseries",
+      "url": "https://www.ons.gov.uk/releases/consumerpriceinflationukjune2026timeseries",
+      "title": "Consumer price inflation, UK: June 2026 time series\n      - Office for National Statistics",
+      "content_text": "Cookies are small files stored on your device when you visit a website. We use some essential cookies to make this website work.",
+      "tags": [
+        "future-of-work-labor"
+      ]
+    },
+    {
+      "id": "https://www.ons.gov.uk/releases/consumerpriceinflationukjune2026",
+      "url": "https://www.ons.gov.uk/releases/consumerpriceinflationukjune2026",
+      "title": "Consumer price inflation, UK: June 2026\n      - Office for National Statistics",
+      "content_text": "Cookies are small files stored on your device when you visit a website. We use some essential cookies to make this website work.",
       "tags": [
         "future-of-work-labor"
       ]
@@ -71,69 +134,6 @@
       "id": "https://www.ons.gov.uk/releases/labourforcesurveyqualityupdatejuly2026",
       "url": "https://www.ons.gov.uk/releases/labourforcesurveyqualityupdatejuly2026",
       "title": "Labour Force Survey quality update: July 2026\n      - Office for National Statistics",
-      "content_text": "Cookies are small files stored on your device when you visit a website. We use some essential cookies to make this website work.",
-      "tags": [
-        "future-of-work-labor"
-      ]
-    },
-    {
-      "id": "https://www.ons.gov.uk/releases/uklabourmarketjuly2026",
-      "url": "https://www.ons.gov.uk/releases/uklabourmarketjuly2026",
-      "title": "UK Labour Market: July 2026\n      - Office for National Statistics",
-      "content_text": "Cookies are small files stored on your device when you visit a website. We use some essential cookies to make this website work.",
-      "tags": [
-        "future-of-work-labor"
-      ]
-    },
-    {
-      "id": "https://www.ons.gov.uk/releases/publicsectorfinancesukjune2026timeseries",
-      "url": "https://www.ons.gov.uk/releases/publicsectorfinancesukjune2026timeseries",
-      "title": "Public sector finances, UK: June 2026 time series\n      - Office for National Statistics",
-      "content_text": "Cookies are small files stored on your device when you visit a website. We use some essential cookies to make this website work.",
-      "tags": [
-        "future-of-work-labor"
-      ]
-    },
-    {
-      "id": "https://www.ons.gov.uk/releases/labourmarketstatisticstimeseriesjuly2026",
-      "url": "https://www.ons.gov.uk/releases/labourmarketstatisticstimeseriesjuly2026",
-      "title": "Labour market statistics time series: July 2026\n      - Office for National Statistics",
-      "content_text": "Cookies are small files stored on your device when you visit a website. We use some essential cookies to make this website work.",
-      "tags": [
-        "future-of-work-labor"
-      ]
-    },
-    {
-      "id": "https://www.ons.gov.uk/releases/labourmarketintheregionsoftheukjuly2026",
-      "url": "https://www.ons.gov.uk/releases/labourmarketintheregionsoftheukjuly2026",
-      "title": "Labour market in the regions of the UK: July 2026\n      - Office for National Statistics",
-      "content_text": "Cookies are small files stored on your device when you visit a website. We use some essential cookies to make this website work.",
-      "tags": [
-        "future-of-work-labor"
-      ]
-    },
-    {
-      "id": "https://www.ons.gov.uk/releases/aiinukbusinesses",
-      "url": "https://www.ons.gov.uk/releases/aiinukbusinesses",
-      "title": "Artificial intelligence in UK businesses: 2023 to 2026 \n      - Office for National Statistics",
-      "content_text": "Cookies are small files stored on your device when you visit a website. We use some essential cookies to make this website work.",
-      "tags": [
-        "future-of-work-labor"
-      ]
-    },
-    {
-      "id": "https://www.ons.gov.uk/releases/publicopinionsandsocialtrendsgreatbritainjune2026",
-      "url": "https://www.ons.gov.uk/releases/publicopinionsandsocialtrendsgreatbritainjune2026",
-      "title": "Public opinions and social trends, Great Britain: June 2026\n      - Office for National Statistics",
-      "content_text": "Cookies are small files stored on your device when you visit a website. We use some essential cookies to make this website work.",
-      "tags": [
-        "future-of-work-labor"
-      ]
-    },
-    {
-      "id": "https://www.ons.gov.uk/releases/deathsregisteredmonthlyinenglandandwalesjune2026",
-      "url": "https://www.ons.gov.uk/releases/deathsregisteredmonthlyinenglandandwalesjune2026",
-      "title": "Deaths registered monthly in England and Wales: June 2026\n      - Office for National Statistics",
       "content_text": "Cookies are small files stored on your device when you visit a website. We use some essential cookies to make this website work.",
       "tags": [
         "future-of-work-labor"

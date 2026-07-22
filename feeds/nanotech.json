@@ -515,10 +515,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16439",
-      "url": "https://arxiv.org/abs/2607.16439",
-      "title": "Atomically precise triple-step staircase on a vicinal silicon surface: Is it Si(5 5 7), Si(7 7 10) or Si(8 8 11)?",
-      "content_text": "Scanning tunneling microscopy studies of periodic arrays of triple steps fabricated on single-crystalline Si(5 5 7) wafers demonstrate several possible atomic structures of consecutive steps and Si(1 1 1) terraces maintaining the same periodicity on micrometer-sized surface areas. Detailed analysis of the atomically resolved data reveals the formation of Si(8 8 11) triple-step staircase with a period of 18b=5.99 nm in projection onto the terrace plane, where b=0.333 nm is the distance between atomic rows for the Si(1 1 1)1x1 surface. Schematic models for several possible configurations of either 7x7 or 5x5-reconstructed terraces and triple steps are proposed.",
+      "id": "https://arxiv.org/abs/2607.18403",
+      "url": "https://arxiv.org/abs/2607.18403",
+      "title": "Towards a universal model for spin-orbit coupled Wannier Hamiltonians",
+      "content_text": "While machine learning interatomic potentials (MLiPs) have matured to revolutionize material science, deep learning models for electronic structure are just beginning to emerge and restricted, almost exclusively, to non-orthogonal basis Hamiltonians. We introduce G(Wa)NN, the first deep-learning model capable of generating the electronic Hamiltonian of solid-state systems in an orthogonal Wannier basis. G(Wa)NN is trained on an unprecedented, diverse dataset of more than 111K Wannier Hamiltonians (150M+ hopping matrices) spanning 69 elements. The combination of optimized inference and linear-scaling methods for orthogonal Hamiltonians unlock transport simulations at massive scales (10K+ atoms). Crucially, the framework supports local finetuning, allowing users to adapt the base model to cu",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -530,10 +530,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16454",
-      "url": "https://arxiv.org/abs/2607.16454",
-      "title": "Valley polarization, Rashba interaction, and weak altermagnetism in inversion-asymmetric MnPS$_\\text{3}|$WS$_\\text{2}$ van der Waals heterostructures",
-      "content_text": "The deliberate breaking of inversion ($\\mathcal{P}$) symmetry in antiferromagnets has recently emerged as an effective means to induce various features, such as the emergence of Berry curvature, spin-valley locking, magnetoelectric coupling, and the transition from conventional antiferromagnetism to altermagnetism. Conversely, in non-magnetic systems, inversion symmetry breaking in the presence of strong spin-orbit interaction (SOI) gives rise to momentum-dependent spin splitting via the Rashba effect, enabling tunable spin polarization through external electric fields. Motivated by recent advances in two-dimensional materials, we perform first-principles calculations based on density functional theory to investigate the van der Waals (vdW) heterostructure formed by a $\\mathcal{P}$-symmetr",
+      "id": "https://arxiv.org/abs/2607.18420",
+      "url": "https://arxiv.org/abs/2607.18420",
+      "title": "Electron escape probability in high-efficiency photocathodes measured by reverse-injection photovoltage",
+      "content_text": "The characterization of electron transfer through the emitting surface is of crucial importance for optimizing existing and developing new photocathodes. Here we propose and develop a method for the direct determination of the electron escape probability in high-efficiency semiconductor photocathodes. The proposed method is based on the variations in the surface photovoltage upon the injection of emitted photoelectrons back into a photocathode (``reverse injection\"), which is induced by the polarity reversal of the external electric field. We demonstrate the method on \\textit{p}-GaN(Cs,O) photocathodes with negative effective electron affinity by measuring the evolution of photoemission quantum efficiency upon the reverse injection of emitted electrons.",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -545,10 +545,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16483",
-      "url": "https://arxiv.org/abs/2607.16483",
-      "title": "Bond reconstruction and vacancy clustering in monolayer silicon carbide from first principles",
-      "content_text": "Bond reconstruction in vacancy-related structures affects their formation energies, symmetries, and electronic and optical properties. Using density functional theory, we investigate bond reconstruction mechanisms of monovacancies and vacancy aggregates in monolayer silicon carbide. Multiple bond descriptors reveal that isolated monovacancies undergo both in-plane reconstruction and out-of-plane distortion, which together shape their stability and electronic structure. For compact vacancy aggregates, we show that bond reconstruction acts as a key stabilization mechanism. However, in carbon monovacancy, reconstruction suppresses optical activity. In contrast, a highly stable aggregate composed of three carbon vacancies surrounding a silicon vacancy emerges as a promising infrared color-cent",
+      "id": "https://arxiv.org/abs/2607.18423",
+      "url": "https://arxiv.org/abs/2607.18423",
+      "title": "Long Non-Exponential PL Decay from Localized Defect States in Monolayer WSe$_2$ at Low Temperature",
+      "content_text": "We investigate the recombination dynamics of localized defect emission in monolayer WSe$_2$ using time-resolved photoluminescence over the temperature range from 4 to 120 K. The defect emission comprises a dominant sub-nanosecond exponential component and two weak, long-lived power-law channels extending from a few nanoseconds to several hundred nanoseconds. The power-law relaxation admits an interpretation in terms of continuous distributions of recombination lifetimes associated with an inhomogeneous ensemble of localized states. Temperature-dependent measurements were performed to examine the thermal detrapping mechanisms governing these long-lived channels. Spin-resolved electronic-structure and optical-transition calculations provide microscopic insight into the localized states and t",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -560,10 +560,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16486",
-      "url": "https://arxiv.org/abs/2607.16486",
-      "title": "Instability-Avoiding Active Learning for Cluster Expansions in Complex Multielement Materials",
-      "content_text": "The high efficiency of cluster expansions make them appealing for studying chemical disorder in complex composition spaces such as in multi-principal element alloys (MPEAs). Several works have attempted to address the rapidly growing training cost with number of chemical species through active learning, transfer learning, and chemical embedding. However, many composition spaces have large regions where the host lattice becomes dynamical unstable, which are often avoided a priori so as to not generate expensive but inapplicable training data. Here, we demonstrate a procedure for integrating stability classification within an active learning workflow to autonomously avoid calculations for unstable structures. Our workflow augments the stability classification procedure with Mahalanobis dista",
+      "id": "https://arxiv.org/abs/2607.18472",
+      "url": "https://arxiv.org/abs/2607.18472",
+      "title": "Vacancy Diffusion Across FeCrAl Alloy Composition Space for Accident-Tolerant Fuel Cladding",
+      "content_text": "Iron-chromium-aluminium (FeCrAl) alloys are leading candidates for accident-tolerant fuel cladding in light-water reactors, where their superior high-temperature oxidation resistance promises to extend coping times during loss-of-coolant accidents. The in-reactor lifetime of cladding is ultimately governed by radiation-induced microstructural evolution of which point defect transport is the dominant mechanism, however, this remains poorly understood. Here, we use a species-resolved kinetic Monte Carlo (KMC) model for vacancy diffusion in FeCrAl, parameterised by linear surrogate models trained on a database of migration barriers generated through the Hop-Decorate workflow. By sampling compositions spanning the Fe-rich to Cr-rich range of the Fe-Cr-Al system, we map how the local chemical e",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -575,10 +575,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16495",
-      "url": "https://arxiv.org/abs/2607.16495",
-      "title": "Phase nucleation and evolution pathways of a nanostructured Inconel 725 alloy during heat treatment",
-      "content_text": "Physical vapor deposition enables the fabrication of nanostructured superalloys with unique defect architectures, yet their phase evolution pathways can differ significantly from those of conventionally processed alloys. In this study, the effects of solution and aging treatments on phase selection and segregation behavior in sputtered Inconel 725 films with an initially uniform columnar nanotwinned structure were systematically investigated. Direct aging at relatively low temperatures promoted extensive δ-phase precipitation at twin boundaries and defect-rich regions, which depleted Nb from the γ matrix and suppressed γ'/γ\" precipitation. In contrast, high-temperature solution treatment induced recrystallization and eliminated the nanotwinned structure, significantly reducing δ-phase prec",
+      "id": "https://arxiv.org/abs/2607.18524",
+      "url": "https://arxiv.org/abs/2607.18524",
+      "title": "Data-Efficient Training of Linear ACE Potentials through Leverage-Guided Subset Selection of ASSYST Structure Pools",
+      "content_text": "The construction of machine-learned interatomic potentials (MLIPs) is often limited by the cost of generating large density-functional-theory (DFT) training datasets. For systematically generated structure pools such as ASSYST, a central practical question is how many configurations must be labeled to achieve reliable accuracy. Here we assess geometry-based, label-free subset selection for training linear Atomic Cluster Expansion (ACE) potentials. Using statistical leverage scores and CUR-type sampling, we compare leverage-guided selection against random, energy-based, and force-based baselines under controlled iterative protocols. Elemental Al provides the primary benchmark, with Cu and Al-Cu alloys used for transfer validation. Leverage-guided subsets recover plateau-level energy and for",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -590,10 +590,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16566",
-      "url": "https://arxiv.org/abs/2607.16566",
-      "title": "Signal amplification in simple metal-insulator transition devices",
-      "content_text": "Signal dissipation in large-scale neural networks can lead to information loss and ultimately to computational failures, necessitating local signal amplification at neuron - synapse connections. In biological nervous systems, axons are responsible for local signal amplification. Translating axon functionality into hardware, i.e., the ability to amplify and transmit signals without loss, is non-trivial because emulating the human brain implies building networks composed of ~10 billion interconnected neurons, each requiring a dedicated compact and scalable amplifier. Here, we demonstrate signal amplification in simple two-terminal devices made of a metal-insulator transition material. By operating the devices on the verge of the phase transition and taking advantage of negative differential ",
+      "id": "https://arxiv.org/abs/2607.18590",
+      "url": "https://arxiv.org/abs/2607.18590",
+      "title": "Battery Material Comparisons Should Refocus on Diffusivity with Best Practices",
+      "content_text": "The continuous demand for improved batteries motivates the discovery and advancement of materials with improved transport. Ionic diffusivity is the relevant material property where its measurement depends on accurate assessment of the active material length-scale, generally from the mass-specific surface area. In this perspective, we argue for renewed focus on diffusivity comparisons. A procedural review of 303 recent open-access publications about battery material development revealed two aspects: (1) 49% of publications support structure-property transport claims using diffusivity values and (2) of those reporting diffusivity values, 15% clearly stated that the length scale was measured after grinding-alone or stated that grinding was not used at all. Diffusivity assessment rationally re",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -605,10 +605,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16570",
-      "url": "https://arxiv.org/abs/2607.16570",
-      "title": "Mapping Order in Semicrystalline Polymers using Machine Learning of Nanobeam Electron Diffraction",
-      "content_text": "Organic mixed ionic electronic conductors (OMIECs) are a promising class of polymer materials for applications spanning neuromorphic computation to energy efficient electronics and bioelectronics. Despite being highly tunable, the relationship between structural features and key performance properties such as charge carrier mobility is poorly understood. Scanning nanodiffraction in the transmission electron microscope (TEM) is a powerful probe for elucidating this structure-property relationship, but produces large, noisy datasets that are difficult to interpret because polymer reflections exhibit several distinct morphologies. To address the complexity, we trained a machine learning (ML) model to detect these polymer diffraction peaks and their intensities from synthetic data. Compared to",
+      "id": "https://arxiv.org/abs/2607.18591",
+      "url": "https://arxiv.org/abs/2607.18591",
+      "title": "GQD-AdsNet: Graph Neural Networks Unlock Rapid Exploration of Transition Metal Adsorption on Graphene Quantum Dots",
+      "content_text": "In recent years, interest in single-atom catalysts supported on carbon-based structures has grown considerably due to their high catalytic activity and efficient uses of metal atoms. However, the design and characterization of these materials through first-principles calculations are computationally expensive, limiting the exploration of a large number of possible configurations. Here, we developed a framework based on graph neural networks (GNNs) to predict the adsorption energies of transition metals on graphene quantum dots (GQDs). The model was trained using data obtained from density functional theory calculations and achieved an $R^2$ of 0.906 with an MAE of 0.101 eV, while reducing computational cost by roughly six orders of magnitude relative to DFT. This methodology provides an ef",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -620,10 +620,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16579",
-      "url": "https://arxiv.org/abs/2607.16579",
-      "title": "Ordinary Disordered Materials Can Carry Hyperuniform Physical Fields",
-      "content_text": "Fluctuations in disordered matter play a central role in determining material properties and physical responses. Recent studies have identified an exotic class of systems known as structurally hyperuniform materials, in which large-scale density fluctuations are anomalously suppressed through special spatial organization of particles, phases, or microstructural features. Here we demonstrate that ordinary, structurally nonhyperuniform disordered materials can nevertheless support hyperuniform physical scalar, vector, and tensor fields such as charge, bound current, vorticity, defect density, and stress. We develop a general theoretical framework in which a physical field is generated from a more primitive parent field through a local physical operator. In Fourier space, the spectrum of the ",
+      "id": "https://arxiv.org/abs/2607.18594",
+      "url": "https://arxiv.org/abs/2607.18594",
+      "title": "Data-driven Design of Metal-Organic Frameworks with Tunable Negative Thermal Expansion",
+      "content_text": "Materials with negative thermal expansion (NTE) are essential for applications requiring precise control of thermal expansion. Owing to their exceptional chemical tunability, flexible architectures, and low-energy lattice vibrations, metal-organic frameworks (MOFs) represent a rich platform for exploring NTE. However, uncovering the structural motifs that govern NTE across the enormous MOF design space remains experimentally challenging, and large-scale first-principles phonon calculations are computationally prohibitive. Here, we comprehensively evaluate the factors influencing NTE in MOFs by utilizing a high-throughput workflow based on MACE-MP-MOF0, a machine learning interatomic potential fine-tuned for MOFs with near-ab initio accuracy, to construct PhononMOFdb, a database of phonons,",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -635,10 +635,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16583",
-      "url": "https://arxiv.org/abs/2607.16583",
-      "title": "Harnessing disorder to decouple extension and shear in kirigami metamaterials",
-      "content_text": "Kirigami turns stiff sheets into compliant, shape-morphing structures, but its reliance on periodic cut patterns comes at a cost: correlated panel rotations couple extension to shear, so stretching one axis drives a parasitic shear that cannot be suppressed, and also confine anisotropic stiffness to a narrow, discrete set of responses that cannot be tuned independently. Biological tissues overcome an analogous constraint through controlled disorder, such as graded fiber orientations in skin and hierarchical anisotropy in myocardium, achieving direction-dependent mechanics unavailable to regular architectures. Here, we show that engineered disorder is a design degree of freedom for kirigami, with stochastic kirigami accessing a continuous and far broader region of mechanical response than p",
+      "id": "https://arxiv.org/abs/2607.18750",
+      "url": "https://arxiv.org/abs/2607.18750",
+      "title": "Alchemical thermodynamic integration for ab initio free-energy calculations in solutions",
+      "content_text": "We develop an alchemical thermodynamic integration scheme that couples ab initio force calculators on the fly during Monte Carlo and molecular dynamics simulations. The implementation is validated against existing hybrid-Hamiltonian approaches. The scheme yields ab initio free energies of high-pressure Fe-Ni and ambient Li-Na liquid solutions that agree with previous calculations and reproduce the experimentally observed Li-Na miscibility gap. The code has an efficiency comparable to standard ab initio molecular dynamics. These results establish this scheme as a practical alchemical-integration framework for first-principles free-energy calculations in solutions.",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -650,10 +650,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.16589",
-      "url": "https://arxiv.org/abs/2607.16589",
-      "title": "Beyond Janus Atomic Ordering: High-Throughput First-Principles Search for Hidden MoSO Monolayer Structures",
-      "content_text": "Despite the growing interest in two-dimensional (2D) MoSO systems, existing studies have exclusively focused on conventional Janus structures. In this work, we perform high-throughput first-principles calculations to explore novel stable 2D MoSO monolayers. Combined with random sampling strategy, graph theory and group theory, we successfully screen out three novel non-Janus 2D MoSO monolayers from 1325 candidate structures, namely Reversed 2H-MoSO, Hybrid 2H-MoSO, and Hybrid 1T'-MoSO. Compared with Janus MoSO monolayers, the non-Janus MoSO counterparts possess lower binding energies, varying from -4.38 to -4.51 eV/atom. A systematic combination of dynamic, thermodynamic, and mechanical stability analyses corroborates their excellent structural robustness. Ab initio molecular dynamics (AIM",
+      "id": "https://arxiv.org/abs/2607.18925",
+      "url": "https://arxiv.org/abs/2607.18925",
+      "title": "Phase equilibria in MnSb2Te4-GeSb2Te4 system and magnetic properties of Mn1-xGexSb2Te4 solid solutions",
+      "content_text": "As a sister compound of the antiferromagnetic topological insulator MnBi2Te4, MnSb2Te4 is also a candidate for exotic magnetic topological phases. On the other hand, the structurally analogous but nonmagnetic phase-change material GeSb2Te4 is also known to exhibit nontrivial band topology. Motivated by their shared crystal structure, the similar ionic radii of Mn2+ and Ge2+, and the opportunity to explore the interplay between magnetism and topology, here we investigate the effects of Ge substitution at Mn sites in MnSb2Te4. The Mn1-xGexSb2Te4 solid solutions were synthesized via high-temperature solid-state reaction and characterized for composition, structure, phase behavior, and magnetism using SEM-EDS, PXRD, DTA, and SQUID. Ge substitution was successful across the full composition ran",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
