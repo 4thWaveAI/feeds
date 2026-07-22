@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/research-integrity.json",
   "items": [
     {
+      "id": "https://retractionwatch.com/2026/07/22/journal-retracts-breast-cancer-paper-10-years-after-sleuth-flagged-issues/",
+      "url": "https://retractionwatch.com/2026/07/22/journal-retracts-breast-cancer-paper-10-years-after-sleuth-flagged-issues/",
+      "title": "Journal retracts breast cancer paper 10 years after sleuth flagged issues",
+      "content_text": "A biomedical journal has retracted a paper by a cancer researcher who sued her former institution over misconduct allegations. The action comes a decade after a sleuth first raised concerns about t…",
+      "attachments": [
+        {
+          "url": "https://retractionwatch.com/wp-content/uploads/2026/07/JEM_cover.gif",
+          "mime_type": "image/gif"
+        }
+      ],
+      "tags": [
+        "research-integrity"
+      ]
+    },
+    {
       "id": "https://retractionwatch.com/2026/07/21/exclusive-medical-student-in-nepal-behind-busy-research-factory/",
       "url": "https://retractionwatch.com/2026/07/21/exclusive-medical-student-in-nepal-behind-busy-research-factory/",
       "title": "Exclusive: Medical student in Nepal behind busy research factory",
@@ -132,21 +147,6 @@
       "attachments": [
         {
           "url": "https://retractionwatch.com/wp-content/uploads/2026/07/cochrane-esm-cover.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "research-integrity"
-      ]
-    },
-    {
-      "id": "https://retractionwatch.com/2026/07/11/weekend-reads-neuroscientist-found-not-guilty-of-misconduct-when-editors-revolt-a-waffle-house-study-walkback/",
-      "url": "https://retractionwatch.com/2026/07/11/weekend-reads-neuroscientist-found-not-guilty-of-misconduct-when-editors-revolt-a-waffle-house-study-walkback/",
-      "title": "Weekend reads: Neuroscientist found not guilty of misconduct; when editors revolt; a Waffle House study walkback",
-      "content_text": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: Ethics journal retracts paper by high school student for AI, peer rev…",
-      "attachments": [
-        {
-          "url": "https://retractionwatch.com/wp-content/uploads/2024/01/rw.jpeg",
           "mime_type": "image/jpeg"
         }
       ],

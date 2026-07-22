@@ -283,6 +283,21 @@
       ]
     },
     {
+      "id": "http://www.fda.gov/news-events/press-announcements/fda-takes-further-steps-remove-outdated-authorizations-color-additives-food",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-takes-further-steps-remove-outdated-authorizations-color-additives-food",
+      "title": "FDA Takes Further Steps to Remove Outdated Authorizations for Color Additives in Food",
+      "content_text": "The U.S. Food and Drug Administration today announced two actions targeting petroleum-based color additives in food, continuing the agency’s broader efforts to Make America Healthy Again.",
+      "attachments": [
+        {
+          "url": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "biotech"
+      ]
+    },
+    {
       "id": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol",
       "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol",
       "title": "FDA Approves First Oral PCSK9 Inhibitor to Lower LDL Cholesterol in Adults with High Cholesterol",
@@ -407,21 +422,6 @@
       "url": "http://www.fda.gov/news-events/press-announcements/fda-broadens-access-over-counter-naloxone-nasal-spray-opioid-overdose",
       "title": "FDA Broadens Access to Over-the-Counter Naloxone Nasal Spray for Opioid Overdose",
       "content_text": "The U.S. Food and Drug Administration (FDA) today approved another over-the-counter (OTC) intranasal naloxone product, Rextovy, a 4 milligram (mg) naloxone hydrochloride nasal spray for the emergency treatment of opioid overdose.",
-      "attachments": [
-        {
-          "url": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "biotech"
-      ]
-    },
-    {
-      "id": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-indication-tzield-teplizumab-certain-pediatric-patients-recently-diagnosed-stage-3",
-      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-indication-tzield-teplizumab-certain-pediatric-patients-recently-diagnosed-stage-3",
-      "title": "FDA Approves New Indication for Tzield (teplizumab) for Certain Pediatric Patients with Recently Diagnosed Stage 3 Type 1 Diabetes",
-      "content_text": "On June 12, 2026, the U.S. Food and Drug Administration granted accelerated approval to Tzield  (teplizumab) for a new indication, to delay the decline of insulin production in pediatric patients ages 8 through 17 years who have been recently diagnosed with Stage 3 type 1 diabetes (T1D).",
       "attachments": [
         {
           "url": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
@@ -568,10 +568,10 @@
       ]
     },
     {
-      "id": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kits-issue-medline",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kits-issue-medline",
-      "title": "Convenience Kits Issue from Medline",
-      "content_text": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
+      "id": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-medical-action-industries",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-medical-action-industries",
+      "title": "Convenience Kit Issue from Medical Action Industries",
+      "content_text": "Particulates have the potential to be introduced into blood circulation and become lodged within blood vessels.",
       "attachments": [
         {
           "url": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",

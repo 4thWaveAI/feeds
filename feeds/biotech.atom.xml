@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/biotech.atom.xml"/>
   <id>urn:4thwaveai-feeds:biotech</id>
-  <updated>Wed, 22 Jul 2026 08:51:45 +0000</updated>
+  <updated>Wed, 22 Jul 2026 14:28:49 +0000</updated>
   <entry>
     <title>Broad Institute, Boston Children’s Hospital, and The Jackson Laboratory launch the Center for Therapeutic Genetics, a non-profit effort to develop genetic medicines for rare and ultra-rare diseases</title>
     <link href="https://www.broadinstitute.org/news/broad-institute-boston-childrens-hospital-and-jackson-laboratory-launch-center-therapeutic"/>
@@ -132,6 +132,12 @@
     <updated>Tue, 24 Jun 2025 21:14:10 -0400</updated>
   </entry>
   <entry>
+    <title>FDA Takes Further Steps to Remove Outdated Authorizations for Color Additives in Food</title>
+    <link href="http://www.fda.gov/news-events/press-announcements/fda-takes-further-steps-remove-outdated-authorizations-color-additives-food"/>
+    <id>http://www.fda.gov/news-events/press-announcements/fda-takes-further-steps-remove-outdated-authorizations-color-additives-food</id>
+    <summary type="text">The U.S. Food and Drug Administration today announced two actions targeting petroleum-based color additives in food, continuing the agency’s broader efforts to Make America Healthy Again.</summary>
+  </entry>
+  <entry>
     <title>FDA Approves First Oral PCSK9 Inhibitor to Lower LDL Cholesterol in Adults with High Cholesterol</title>
     <link href="http://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol"/>
     <id>http://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol</id>
@@ -184,12 +190,6 @@
     <link href="http://www.fda.gov/news-events/press-announcements/fda-broadens-access-over-counter-naloxone-nasal-spray-opioid-overdose"/>
     <id>http://www.fda.gov/news-events/press-announcements/fda-broadens-access-over-counter-naloxone-nasal-spray-opioid-overdose</id>
     <summary type="text">The U.S. Food and Drug Administration (FDA) today approved another over-the-counter (OTC) intranasal naloxone product, Rextovy, a 4 milligram (mg) naloxone hydrochloride nasal spray for the emergency treatment of opioid overdose.</summary>
-  </entry>
-  <entry>
-    <title>FDA Approves New Indication for Tzield (teplizumab) for Certain Pediatric Patients with Recently Diagnosed Stage 3 Type 1 Diabetes</title>
-    <link href="http://www.fda.gov/news-events/press-announcements/fda-approves-new-indication-tzield-teplizumab-certain-pediatric-patients-recently-diagnosed-stage-3"/>
-    <id>http://www.fda.gov/news-events/press-announcements/fda-approves-new-indication-tzield-teplizumab-certain-pediatric-patients-recently-diagnosed-stage-3</id>
-    <summary type="text">On June 12, 2026, the U.S. Food and Drug Administration granted accelerated approval to Tzield  (teplizumab) for a new indication, to delay the decline of insulin production in pediatric patients ages 8 through 17 years who have been recently diagnosed with Stage 3 type 1 diabetes (T1D).</summary>
   </entry>
   <entry>
     <title>Early Alert: Intravascular Administration Set Issue from Baxter</title>
@@ -246,10 +246,10 @@
     <summary type="text">The distal tip in certain lots of the Medtronic Harmony Delivery Catheter System (DCS) may detach which can require endovascular retrieval or surgical intervent</summary>
   </entry>
   <entry>
-    <title>Convenience Kits Issue from Medline</title>
-    <link href="http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kits-issue-medline"/>
-    <id>http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kits-issue-medline</id>
-    <summary type="text">Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.</summary>
+    <title>Convenience Kit Issue from Medical Action Industries</title>
+    <link href="http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-medical-action-industries"/>
+    <id>http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-medical-action-industries</id>
+    <summary type="text">Particulates have the potential to be introduced into blood circulation and become lodged within blood vessels.</summary>
   </entry>
   <entry>
     <title>New Alzheimer’s blood test may tell when symptoms are around the corner</title>

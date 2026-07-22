@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/human_effect.json",
   "items": [
     {
+      "id": "https://aiforgood.itu.int/planetary-intelligence-ai-for-the-21st-century-earth-will-marshalls-case-for-a-smarter-planet/",
+      "url": "https://aiforgood.itu.int/planetary-intelligence-ai-for-the-21st-century-earth-will-marshalls-case-for-a-smarter-planet/",
+      "title": "Planetary Intelligence, AI for the 21st Century Earth: Will Marshall's Case for a Smarter Planet",
+      "content_text": "A new image of every point on the Earth’s landmass, captured once every 24 hours, with the ability to zoom in on specific locations at higher resolution.",
+      "attachments": [
+        {
+          "url": "https://s41721.pcdn.co/wp-content/uploads/2026/07/Celia-dont-touch-2026-07-21T163233.807.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://www.pewresearch.org/short-reads/2026/07/21/what-do-people-in-middle-income-countries-think-about-cuts-to-us-humanitarian-aid/",
       "url": "https://www.pewresearch.org/short-reads/2026/07/21/what-do-people-in-middle-income-countries-think-about-cuts-to-us-humanitarian-aid/",
       "title": "What do people in middle-income countries think about cuts to U.S. humanitarian aid?",
@@ -440,21 +455,6 @@
       ]
     },
     {
-      "id": "https://aiforgood.itu.int/day-3-at-the-ai-for-good-global-summit-deployment-creative-production-and-youth-led-innovation-move-into-focus/",
-      "url": "https://aiforgood.itu.int/day-3-at-the-ai-for-good-global-summit-deployment-creative-production-and-youth-led-innovation-move-into-focus/",
-      "title": "Day 3 at the AI for Good Global Summit: Deployment, creative production and youth-led innovation move into focus",
-      "content_text": "Connect with 55K+ AI enthusiasts",
-      "attachments": [
-        {
-          "url": "https://s41721.pcdn.co/wp-content/uploads/2026/07/AI-for-Good-Global-Summit26_Day3_CentreStage_Raise-film-screening_03-21.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
       "id": "https://noetic.org/blog/ervin-laszlo-tribute/",
       "url": "https://noetic.org/blog/ervin-laszlo-tribute/",
       "title": "Tribute to Ervin László – IONS",
@@ -815,6 +815,36 @@
       ]
     },
     {
+      "id": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+      "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+      "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+      "content_text": "Plus: France has become the first EU country to ban social media for under-15s.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/260708_RomanCoronagraph.gif?resize=1200%2C600",
+          "mime_type": "image/gif"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
+      "url": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
+      "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
+      "content_text": "The Nancy Grace Roman Space Telescope will be the first space telescope to use an “active coronagraph” to block out unwanted starlight.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/260708_RomanCoronagraph.gif?resize=1200%2C600",
+          "mime_type": "image/gif"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
       "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
       "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
@@ -867,36 +897,6 @@
       "attachments": [
         {
           "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/ai-slant1b.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-      "title": "AI is more likely than humans to form biases when hiring",
-      "content_text": "AI doesn’t just learn stereotypes from its training. It can cook up new ones, too.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/ai-slant1b.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
-      "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
-      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
-      "content_text": "Plus: China's AI gap with the US may have just narrowed.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-2210176273.jpg?resize=1200%2C600",
           "mime_type": "image/jpeg"
         }
       ],

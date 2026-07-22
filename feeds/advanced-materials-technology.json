@@ -5,6 +5,36 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/advanced-materials-technology.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
+      "title": "A strange quantum effect dramatically boosts energy transfer",
+      "content_text": "Researchers discovered a proton-assisted mechanism that greatly improves how triplet energy moves between quantum dots and nearby molecules. The proton briefly shifts position, helps coordinate electron movement, and then returns to where it started. This quantum-driven shuttle could offer a powerful new way to tune solar cells, lasers, and catalytic reactions.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/proton-shuttle-assisted-triplet-energy-transfer.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "advanced-materials-technology"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/07/260718010149.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010149.htm",
+      "title": "New programmable photonic chip can control how fast light moves",
+      "content_text": "Scientists have created a programmable optical chip that can slow light on demand, giving engineers far greater control over how optical signals propagate through a circuit. The technology could provide the delays, synchronization, and buffering functions needed to make light-based computing more practical. A single chip could eventually perform several tasks that currently require separate devices, potentially reducing energy use, cost, and complexity in AI servers and data centers.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/programmable-crit-photonic-integrated-circuit.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "advanced-materials-technology"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2026/07/260718010147.htm",
       "url": "https://www.sciencedaily.com/releases/2026/07/260718010147.htm",
       "title": "Scientists found two powerful new ways to destroy forever chemicals",
@@ -147,36 +177,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/wave-function-sound-technology.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "advanced-materials-technology"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/06/260621052413.htm",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260621052413.htm",
-      "title": "Simple water trick slashes diesel engine pollution by over 60%",
-      "content_text": "A surprisingly simple fuel modification could help tackle one of diesel engines’ biggest problems: pollution. Researchers reviewing studies from around the world found that mixing small amounts of water into diesel fuel can dramatically reduce harmful emissions, including nitrogen oxides and soot, while maintaining or even improving engine efficiency.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/car-exhaust-pipe-smoke.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "advanced-materials-technology"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/06/260623083058.htm",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260623083058.htm",
-      "title": "New solid-state material converts sunlight into higher-energy UV light",
-      "content_text": "A new sunlight-powered material can convert visible light into higher-energy UV light, overcoming a challenge that has frustrated scientists for years. The breakthrough could enable cleaner air purification, solar-driven chemistry, and advanced manufacturing technologies using nothing more than natural sunlight.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/harvesting-uv-light-from-sunlight-solid-state-material.webp",
           "mime_type": "image/webp"
         }
       ],

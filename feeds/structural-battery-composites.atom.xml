@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/structural-battery-composites.atom.xml"/>
   <id>urn:4thwaveai-feeds:structural-battery-composites</id>
-  <updated>Wed, 22 Jul 2026 08:52:54 +0000</updated>
+  <updated>Wed, 22 Jul 2026 14:31:10 +0000</updated>
   <entry>
     <title>The biggest problem with solid-state batteries may finally be solved</title>
     <link href="https://www.sciencedaily.com/releases/2026/07/260710003533.htm"/>
@@ -90,9 +90,21 @@
     <summary type="text">The authors design carbon nanodots with minute-scale red phosphorescence through combination of excited-state engineering and machine learning optimization, opening opportunities for low-energy optoelectronic devices.</summary>
   </entry>
   <entry>
+    <title>Enhanced piezoelectric response of polyvinylidene fluoride/Cloisite 30B nanofiber actuators - Scientific Reports</title>
+    <link href="https://www.nature.com/articles/s41598-026-63596-8"/>
+    <id>https://www.nature.com/articles/s41598-026-63596-8</id>
+    <summary type="text">Scientific Reports ( 2026 ) Cite this article</summary>
+  </entry>
+  <entry>
     <title>Temperature influence on the mechanical properties of CFRP laminates evaluated by DIC - Scientific Reports</title>
     <link href="https://www.nature.com/articles/s41598-026-62311-x"/>
     <id>https://www.nature.com/articles/s41598-026-62311-x</id>
+    <summary type="text">Scientific Reports ( 2026 ) Cite this article</summary>
+  </entry>
+  <entry>
+    <title>Response surface modeling of oxidized polyethylene drag reduction for hydraulic fracturing - Scientific Reports</title>
+    <link href="https://www.nature.com/articles/s41598-026-63189-5"/>
+    <id>https://www.nature.com/articles/s41598-026-63189-5</id>
     <summary type="text">Scientific Reports ( 2026 ) Cite this article</summary>
   </entry>
   <entry>
@@ -100,17 +112,5 @@
     <link href="https://www.nature.com/articles/s41598-026-60148-y"/>
     <id>https://www.nature.com/articles/s41598-026-60148-y</id>
     <summary type="text">Scientific Reports ( 2026 ) Cite this article</summary>
-  </entry>
-  <entry>
-    <title>Histidine-functionalized mixed-linker ZIF-8 for enhanced copper immobilization and efficient 1,2,3-triazole synthesis - Scientific Reports</title>
-    <link href="https://www.nature.com/articles/s41598-026-63444-9"/>
-    <id>https://www.nature.com/articles/s41598-026-63444-9</id>
-    <summary type="text">Scientific Reports ( 2026 ) Cite this article</summary>
-  </entry>
-  <entry>
-    <title>Chirality induced by supramolecular self-assembly of fluorinated π-conjugated carbon dots for bright circularly polarized electroluminescent light-emitting diodes - Nature Communications</title>
-    <link href="https://www.nature.com/articles/s41467-026-75758-3"/>
-    <id>https://www.nature.com/articles/s41467-026-75758-3</id>
-    <summary type="text">Circularly polarized light-emitting diodes (CP-LEDs) using carbon dots are promising but limited by weak intrinsic chirality and lack of controllable structure, hindering applications. Shi et al. create chiral supramolecular CD assemblies enabling CP-LEDs with high dissymmetry and luminance.</summary>
   </entry>
 </feed>

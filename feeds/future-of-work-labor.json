@@ -5,8 +5,8 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/future-of-work-labor.json",
   "items": [
     {
-      "id": "https://ec.europa.eu/eurostat/en/news/news-articles",
-      "url": "https://ec.europa.eu/eurostat/en/news/news-articles",
+      "id": "https://ec.europa.eu/eurostat/news/news-articles",
+      "url": "https://ec.europa.eu/eurostat/news/news-articles",
       "title": "News articles - Eurostat",
       "content_text": "News articles - Eurostat",
       "tags": [
@@ -14,8 +14,8 @@
       ]
     },
     {
-      "id": "https://ec.europa.eu/eurostat/en/news/euro-indicators",
-      "url": "https://ec.europa.eu/eurostat/en/news/euro-indicators",
+      "id": "https://ec.europa.eu/eurostat/news/euro-indicators",
+      "url": "https://ec.europa.eu/eurostat/news/euro-indicators",
       "title": "Euro indicators - Eurostat",
       "content_text": "Euro indicators - Eurostat",
       "tags": [
@@ -23,8 +23,8 @@
       ]
     },
     {
-      "id": "https://ec.europa.eu/eurostat/en/news/podcasts",
-      "url": "https://ec.europa.eu/eurostat/en/news/podcasts",
+      "id": "https://ec.europa.eu/eurostat/news/podcasts",
+      "url": "https://ec.europa.eu/eurostat/news/podcasts",
       "title": "Podcasts - Eurostat",
       "content_text": "Podcasts - Eurostat",
       "tags": [
@@ -32,8 +32,8 @@
       ]
     },
     {
-      "id": "https://ec.europa.eu/eurostat/en/news/events-webinars",
-      "url": "https://ec.europa.eu/eurostat/en/news/events-webinars",
+      "id": "https://ec.europa.eu/eurostat/news/events-webinars",
+      "url": "https://ec.europa.eu/eurostat/news/events-webinars",
       "title": "Events and webinars - Eurostat",
       "content_text": "Events and webinars - Eurostat",
       "tags": [
@@ -41,8 +41,8 @@
       ]
     },
     {
-      "id": "https://ec.europa.eu/eurostat/en/news/release-calendar",
-      "url": "https://ec.europa.eu/eurostat/en/news/release-calendar",
+      "id": "https://ec.europa.eu/eurostat/news/release-calendar",
+      "url": "https://ec.europa.eu/eurostat/news/release-calendar",
       "title": "Release calendar - Eurostat",
       "content_text": "Sign up to receive our weekly release calendar by email into your inbox.",
       "tags": [

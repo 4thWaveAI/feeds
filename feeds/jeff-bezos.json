@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/jeff-bezos.json",
   "items": [
     {
+      "id": "https://www.aboutamazon.com/news/entertainment/lily-allen-documentary-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/lily-allen-documentary-prime-video",
+      "title": "Prime Video announces Lily Allen documentary, coming to streaming in 2027",
+      "content_text": "The upcoming film will chart the life and work of Lily Allen, from her early years through to 'West End Girl.'",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/d968362/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F8a%2Fa5%2F2aa28ac641f18764d28b9cbd734a%2Funtitled-21-july-2026-at-10-43-30-1.png",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/entertainment/masters-of-the-universe-movie-amazon-mgm-studios",
       "url": "https://www.aboutamazon.com/news/entertainment/masters-of-the-universe-movie-amazon-mgm-studios",
       "title": "How to watch the 'Masters of the Universe' movie, streaming now on Prime Video",
@@ -31,21 +46,6 @@
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/0c3d16b/2147483647/strip/true/crop/2000x1000+0+71/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff9%2F0f%2F389802e048e19f038163aa9dfcca%2Famazon-news-today-hero-v1-lm-012025.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/entertainment/wnba-schedule-prime-video",
-      "url": "https://www.aboutamazon.com/news/entertainment/wnba-schedule-prime-video",
-      "title": "How to watch the WNBA on Prime Video",
-      "content_text": "Prime Video will stream 30 WNBA regular-season games, featuring stars like Caitlin Clark, A'ja Wilson, and 2026 No. 1 pick Azzi Fudd.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/102c8e1/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F9c%2F6c%2F26a25c5643c0b0867d2b3a1c7ef8%2Fwnba-2026-schedule-update-hero.jpg",
           "mime_type": "image/jpeg"
         }
       ],

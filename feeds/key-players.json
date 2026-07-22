@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/key-players.json",
   "items": [
     {
+      "id": "https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/",
+      "url": "https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/",
+      "title": "Powering America's Genesis Mission: Microsoft's commitment to scientific discovery - The Official Microsoft Blog",
+      "content_text": "Today, we’re excited to share a long-term commitment to the Department of Energy’s (DOE) Genesis Mission, backed by a $60 million investment designed to accelerate AI for science and the breakthroughs it can deliver for the country. This deepened commitment includes Microsoft’s new Scientific Partnership Advancing Research & Knowledge coordination hub and program office, otherwise...",
+      "attachments": [
+        {
+          "url": "https://blogs.microsoft.com/wp-content/uploads/2026/07/GettyImages-1413606459-1024x540.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "key-players"
+      ]
+    },
+    {
       "id": "https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/",
       "url": "https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/",
       "title": "Microsoft expands Azure AI and HPC infrastructure with AMD - The Official Microsoft Blog",
@@ -140,28 +155,13 @@
       ]
     },
     {
-      "id": "https://blogs.microsoft.com/blog/2026/05/21/from-ai-pilots-to-enterprise-impact-why-execution-is-the-new-differentiator/",
-      "url": "https://blogs.microsoft.com/blog/2026/05/21/from-ai-pilots-to-enterprise-impact-why-execution-is-the-new-differentiator/",
-      "title": "From AI pilots to enterprise impact: Why execution is the new differentiator - The Official Microsoft Blog",
-      "content_text": "As the pace of change accelerates, organizations are moving quickly from AI experimentation to enterprise-scale transformation. Leaders are prioritizing measurable outcomes, faster time to value and repeatability across the business. But many are encountering the same reality: the challenge is no longer deciding whether to invest in AI — it’s scaling adoption and delivering consistent,...",
-      "attachments": [
-        {
-          "url": "https://blogs.microsoft.com/wp-content/uploads/2026/05/OMB-5_21_26-Hero-Art-1024x576.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "key-players"
-      ]
-    },
-    {
       "id": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
       "url": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
       "title": "Major League Soccer returns to Apple TV tomorrow",
       "content_text": "Following a monthlong break for the FIFA World Cup, Major League Soccer returns to Apple TV tomorrow, July 16.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/tile/Apple-2026-MLS-Season-Restart-hero-lp.jpg.og.jpg?202607162318=",
+          "url": "https://www.apple.com/newsroom/images/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/tile/Apple-2026-MLS-Season-Restart-hero-lp.jpg.og.jpg?202607162316=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -195,7 +195,7 @@
       "content_text": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/logos/quick-reads-logos/Apple-TV-Friday-Night-Baseball.jpg.og.jpg?202607210146=",
+          "url": "https://www.apple.com/newsroom/images/logos/quick-reads-logos/Apple-TV-Friday-Night-Baseball.jpg.og.jpg?202607162318=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -210,7 +210,7 @@
       "content_text": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2026/07/apple-scores-record-89-emmy-award-nominations/tile/Apple-TV-Emmy-nominations-Widows-Bay-lp.jpg.og.jpg?202607162319=",
+          "url": "https://www.apple.com/newsroom/images/2026/07/apple-scores-record-89-emmy-award-nominations/tile/Apple-TV-Emmy-nominations-Widows-Bay-lp.jpg.og.jpg?202607162317=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -255,7 +255,7 @@
       "content_text": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2026/06/apple-announces-changes-to-ios-in-brazil/tile/Apple-App-Store-compliance-hero-lp.jpg.og.jpg?202606301701=",
+          "url": "https://www.apple.com/newsroom/images/2026/06/apple-announces-changes-to-ios-in-brazil/tile/Apple-App-Store-compliance-hero-lp.jpg.og.jpg?202607210140=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -270,7 +270,7 @@
       "content_text": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/tile/Apple-services-hero-lp.jpg.og.jpg?202606301700=",
+          "url": "https://www.apple.com/newsroom/images/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/tile/Apple-services-hero-lp.jpg.og.jpg?202607210144=",
           "mime_type": "image/jpeg"
         },
         {
@@ -289,7 +289,7 @@
       "content_text": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/tile/Apple-development-tools-hero-260608-lp.jpg.og.jpg?202606301659=",
+          "url": "https://www.apple.com/newsroom/images/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/tile/Apple-development-tools-hero-260608-lp.jpg.og.jpg?202606301701=",
           "mime_type": "image/jpeg"
         },
         {
@@ -308,7 +308,7 @@
       "content_text": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/tile/Apple-OS-27-updates-260608-lp.jpg.og.jpg?202606301659=",
+          "url": "https://www.apple.com/newsroom/images/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/tile/Apple-OS-27-updates-260608-lp.jpg.og.jpg?202606301701=",
           "mime_type": "image/jpeg"
         },
         {

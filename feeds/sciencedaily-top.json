@@ -5,6 +5,66 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/sciencedaily-top.json",
   "items": [
     {
+      "id": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
+      "title": "A strange quantum effect dramatically boosts energy transfer",
+      "content_text": "Researchers discovered a proton-assisted mechanism that greatly improves how triplet energy moves between quantum dots and nearby molecules. The proton briefly shifts position, helps coordinate electron movement, and then returns to where it started. This quantum-driven shuttle could offer a powerful new way to tune solar cells, lasers, and catalytic reactions.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/proton-shuttle-assisted-triplet-energy-transfer.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm",
+      "title": "MIT’s new lidar chip could give self-driving cars a wider view",
+      "content_text": "MIT engineers have found a way to give chip-based lidar a wider, clearer view without relying on moving parts. Their design uses differently shaped antennas that can sit close together without scrambling one another’s signals. In tests, the system sharply reduced interference while steering a single precise beam across a broad field of view.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/mit-array-of-integrated-antennas.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/07/260722032108.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032108.htm",
+      "title": "Scientists revive a powerful antibiotic that superbugs had defeated",
+      "content_text": "Scientists have found a way to revive vancomycin, a powerful antibiotic that some dangerous bacteria have learned to resist. Instead of creating an entirely new drug, researchers paired vancomycin with a small molecule called pghi-4, which blocks a bacterial enzyme linked to resistance. The combination restored the antibiotic’s ability to kill drug-resistant E. faecium, raising hopes that similar chemical helpers could rescue other failing medicines.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/antibiotic-resistance-fighting-bacteria.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/07/260722032105.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032105.htm",
+      "title": "Ancient ferns turned Triassic Europe into a wildfire inferno",
+      "content_text": "Ancient fern savannahs may have transformed parts of Europe into a wildfire-prone inferno during the end-Triassic mass extinction. New fossil evidence suggests the ferns repeatedly regrew after fires, creating fresh fuel that helped prolong the devastation.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/triassic-inferno.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2026/07/260721000847.htm",
       "url": "https://www.sciencedaily.com/releases/2026/07/260721000847.htm",
       "title": "Scientists found mystery bacteria inside one of the ocean’s most elusive whales",
@@ -12,6 +72,36 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/stranded-pygmy-sperm-whale.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/07/260721000844.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260721000844.htm",
+      "title": "Lab-grown mini brains may predict which Alzheimer’s treatments will work",
+      "content_text": "Miniature brain models grown from patients’ cells revealed striking differences in how Alzheimer’s-related tissue responds to an antidepressant. The organoids and the particles they release could eventually guide more personalized treatments and provide new clues for diagnosing the disease.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/fluorescent-image-of-brain-organoid.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "sciencedaily-top"
+      ]
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/07/260721000839.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260721000839.htm",
+      "title": "Colorectal cancer warning signs younger adults should never ignore",
+      "content_text": "Colorectal cancer is now the leading cause of cancer death among people under 50, and cases in younger adults continue to rise. Warning signs can include persistent bowel changes, recurring rectal bleeding, dark or narrow stools, unexplained weight loss, and fatigue. These symptoms often have harmless causes, but they should not be dismissed, especially when they are new or ongoing. Early detection can greatly improve treatment outcomes.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/woman-toilet-paper-digestion-stomach-ibs.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -207,96 +297,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/quantum-gravity-curved-spacetime.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/07/260719035942.htm",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260719035942.htm",
-      "title": "Dying Sun-like stars may kick themselves through space",
-      "content_text": "Dying Sun-like stars may not fade away quietly. As blobs of gas erupt unevenly from their swollen surfaces, each burst gives the star a tiny push in the opposite direction. Thousands of these random kicks could eventually break apart distant stellar pairs or, in rare cases, drive two stars into a violent collision.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/dying-red-giant-stars-eject-mass.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/07/260719035939.htm",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260719035939.htm",
-      "title": "Earth’s waters are quietly running out of oxygen, scientists warn",
-      "content_text": "Oxygen is disappearing from oceans, lakes, rivers, and coastal waters at an alarming rate, threatening aquatic life and weakening the natural processes that help regulate Earth’s climate. Scientists warn that this widespread deoxygenation is closely connected to other major planetary threats, including warming, pollution, biodiversity loss, and ocean acidification.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/ocean-oxygen-carbon-dioxide-bubbles.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
-      "title": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
-      "content_text": "Researchers have uncovered a surprising culprit behind sleep loss in Alzheimer’s disease: the brain’s own immune cells. In mice with amyloid plaques, overactive microglia triggered inflammation that kept the brain from getting enough deep, restorative sleep. Temporarily removing most of these cells restored more than two hours of sleep per day, even though the plaques remained unchanged.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/sleep-man-brain-spine-nervous-system.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/07/260719035927.htm",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260719035927.htm",
-      "title": "Coffee may help the body fight stress and aging through a hidden cellular switch",
-      "content_text": "Scientists may have uncovered one reason coffee is repeatedly associated with healthier aging and lower disease risk. Compounds in coffee appear to activate NR4A1, a receptor that helps protect cells from stress, inflammation, and damage. These protective effects disappeared when the receptor was removed, strengthening the connection. Surprisingly, plant-based compounds such as caffeic acid seemed far more active than caffeine itself.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/woman-enjoying-morning-coffee-and-sunshine.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/07/260718010200.htm",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260718010200.htm",
-      "title": "UCLA scientists develop mineral sunscreen without the chalky white cast",
-      "content_text": "Scientists have redesigned zinc oxide particles to create a mineral sunscreen that protects against ultraviolet radiation without leaving such a noticeable white cast. The SPF 30 formula could make sunscreen easier and more appealing to use across a wider range of skin tones.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/woman-applying-sunblock-cream.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "sciencedaily-top"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/07/260718010158.htm",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260718010158.htm",
-      "title": "Common antidepressant may ease long COVID’s crushing fatigue",
-      "content_text": "A low-cost antidepressant may offer new hope for people struggling with long COVID fatigue. In a randomized clinical trial involving 399 adults, fluvoxamine significantly reduced fatigue and improved quality of life compared with a placebo, making it one of the first medications to show meaningful benefits for this disabling condition.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/tired-woman-long-term-illness-fatigue.webp",
           "mime_type": "image/webp"
         }
       ],

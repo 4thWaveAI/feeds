@@ -5,6 +5,25 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.json",
   "items": [
     {
+      "id": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
+      "url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
+      "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
+      "content_text": "Medical device leaders are already building on NVIDIA’s new Medical Physics Simulation framework — giving surgical robots the virtual experience they need before interacting with patients.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/medical-physica-simulation.png",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/catheter_2_v4.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/",
       "url": "https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/",
       "title": "A Week of Smoky Skies Across North America - NASA Science",
@@ -745,7 +764,7 @@
       "id": "https://www.roadtovr.com/feed/",
       "url": "https://www.roadtovr.com/feed/",
       "title": "Road to VR",
-      "content_text": "We at Road to VR have been asking ourselves: how do we offer the most value to our readers? That question led to an experiment over the last few months that changed the way we structured each article, with the goal of making them more useful to you. Now, we’d like to hear your thoughts. […]",
+      "content_text": "Meta announced it’s partnering with Microsoft to bring a “starter edition” of its cloud-based XBOX Game Pass to Horizon+, Meta’s own VR game subscription service. In the coming weeks, Meta also says it’s pushing out Xbox gamepad emulation for Quest’s Touch controllers too. The News The new Xbox Game Pass addition brings a library of 50+ […]",
       "attachments": [
         {
           "url": "https://www.youtube.com/embed/Fx1UDR-mOYc?feature=oembed",
@@ -795,6 +814,25 @@
       ]
     },
     {
+      "id": "https://news.skhynix.com/en/2026-chungbuk-sr-forum/",
+      "url": "https://news.skhynix.com/en/2026-chungbuk-sr-forum/",
+      "title": "“AI Is Transforming Seniors’ Daily Lives”: SK hynix Explores AI Solutions for an Aging Society at the Chungbuk SR Forum | SK hynix Newsroom",
+      "content_text": "Kiosks are appearing in store after store, and smartphone apps have become more familiar than face-to-face service. As digital technology weaves its way into every corner of daily life, living has grown more convenient — yet it is also an",
+      "attachments": [
+        {
+          "url": "https://d18r0a86za96sg.cloudfront.net/wp-content/uploads/2026/07/15053837/Chungbuk-SR-Forum_THM_680x400.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/8fA69wKAYps?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "semiconductors-chips"
+      ]
+    },
+    {
       "id": "https://www.mrs.org/publications-digital-content/news/mrs-youtube",
       "url": "https://www.mrs.org/publications-digital-content/news/mrs-youtube",
       "title": "Materials Research Society",
@@ -835,7 +873,7 @@
       "content_text": "Supermodel and UNEP Goodwill Ambassador Amber Valletta travels to Tunisia, where denim manufacturers are striving to lighten their environmental footprint.",
       "attachments": [
         {
-          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2026-06/55338512605_3c87109d33_k.jpg?h=dd7bef35&itok=EZdYWg4N",
+          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2026-06/55338512605_3c87109d33_k.jpg?h=dd7bef35&itok=JibtrJgu",
           "mime_type": "image/jpeg"
         },
         {
@@ -854,7 +892,7 @@
       "content_text": "Atlantic salmon are returning to Canada’s rivers thanks to an Indigenous-led restoration effort that is reviving ecosystems, cultural traditions and endangered fish populations.",
       "attachments": [
         {
-          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2026-06/20250925UNEP%20Decade-Restoration_Canada%20Salmon%20Restoration_Todd%20Brown_51.jpg?h=1fbb8f5b&itok=H0aELRPh",
+          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2026-06/20250925UNEP%20Decade-Restoration_Canada%20Salmon%20Restoration_Todd%20Brown_51.jpg?h=1fbb8f5b&itok=Hn93cIIY",
           "mime_type": "image/jpeg"
         },
         {
@@ -892,7 +930,7 @@
       "content_text": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/tile/Apple-services-hero-lp.jpg.og.jpg?202606301700=",
+          "url": "https://www.apple.com/newsroom/images/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/tile/Apple-services-hero-lp.jpg.og.jpg?202607210144=",
           "mime_type": "image/jpeg"
         },
         {
@@ -911,7 +949,7 @@
       "content_text": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/tile/Apple-development-tools-hero-260608-lp.jpg.og.jpg?202606301659=",
+          "url": "https://www.apple.com/newsroom/images/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/tile/Apple-development-tools-hero-260608-lp.jpg.og.jpg?202606301701=",
           "mime_type": "image/jpeg"
         },
         {
@@ -930,7 +968,7 @@
       "content_text": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/tile/Apple-OS-27-updates-260608-lp.jpg.og.jpg?202606301659=",
+          "url": "https://www.apple.com/newsroom/images/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/tile/Apple-OS-27-updates-260608-lp.jpg.og.jpg?202606301701=",
           "mime_type": "image/jpeg"
         },
         {
@@ -1083,36 +1121,6 @@
       "attachments": [
         {
           "url": "https://www.youtube.com/embed/djXb6MrB1-0?feature=oembed",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "enabling-tools"
-      ]
-    },
-    {
-      "id": "https://aspire.usu.edu/from-student-to-alumni-software-engineer-makes-a-real-world-impact-at-aspire/",
-      "url": "https://aspire.usu.edu/from-student-to-alumni-software-engineer-makes-a-real-world-impact-at-aspire/",
-      "title": "From Student to Alumni: Software Engineer Makes a Real-World Impact at ASPIRE – ASPIRE Research Center",
-      "content_text": "Managing a fleet of electric buses requires tracking not only the buses but also the electric vehicle chargers themselves in order to track overall purchasing and maintenance costs and power loads. With so many moving parts, this can be difficult and time consuming to do. However, Max Ramsdell, a software engineer at ASPIRE, led a team to find a way to make it easier for electric fleets.",
-      "attachments": [
-        {
-          "url": "https://www.youtube.com/embed/VWm8as_-Iv4?feature=oembed",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "enabling-tools"
-      ]
-    },
-    {
-      "id": "https://aspire.usu.edu/prepping-the-future-workforce-aspires-high-school-internships/",
-      "url": "https://aspire.usu.edu/prepping-the-future-workforce-aspires-high-school-internships/",
-      "title": "Prepping the Future Workforce: ASPIRE’s High School Internships – ASPIRE Research Center",
-      "content_text": "What should I study? What career do I want to pursue?",
-      "attachments": [
-        {
-          "url": "https://www.youtube.com/embed/PAflcGb0lF8?feature=oembed",
           "mime_type": "video/mp4"
         }
       ],

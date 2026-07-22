@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
+      "id": "https://news.fnal.gov/2026/07/u-s-department-of-energy-invests-in-fermilab-projects-to-accelerate-ai-enabled-scientific-discovery/",
+      "url": "https://news.fnal.gov/2026/07/u-s-department-of-energy-invests-in-fermilab-projects-to-accelerate-ai-enabled-scientific-discovery/",
+      "title": "U.S. Department of Energy invests in Fermilab projects to accelerate AI-enabled scientific discovery",
+      "content_text": "The awards will support Fermilab projects by leveraging AI to boost innovation and technology development, advance DOE’s Genesis Mission and accelerate scientific discovery.",
+      "attachments": [
+        {
+          "url": "https://news.fnal.gov/wp-content/uploads/2026/07/26-0132-05.hr_.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "national-gov-labs"
+      ]
+    },
+    {
       "id": "https://esports.gg/news/mobile-legends-bang-bang/msc-2026-ewc-schedule-results-livestream/",
       "url": "https://esports.gg/news/mobile-legends-bang-bang/msc-2026-ewc-schedule-results-livestream/",
       "title": "MSC 2026 Esports World Cup: Format, schedule, results, and more",
@@ -17,6 +32,220 @@
       ],
       "tags": [
         "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
+      "url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
+      "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
+      "content_text": "Medical device leaders are already building on NVIDIA’s new Medical Physics Simulation framework — giving surgical robots the virtual experience they need before interacting with patients.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/medical-physica-simulation.png",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/catheter_2_v4.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/lily-allen-documentary-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/lily-allen-documentary-prime-video",
+      "title": "Prime Video announces Lily Allen documentary, coming to streaming in 2027",
+      "content_text": "The upcoming film will chart the life and work of Lily Allen, from her early years through to 'West End Girl.'",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/d968362/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F8a%2Fa5%2F2aa28ac641f18764d28b9cbd734a%2Funtitled-21-july-2026-at-10-43-30-1.png",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://combinedmaritimeforces.com/2026/07/22/international-maritime-law-institute-conducts-new-staff-enhancement-training-for-cmf/",
+      "url": "https://combinedmaritimeforces.com/2026/07/22/international-maritime-law-institute-conducts-new-staff-enhancement-training-for-cmf/",
+      "title": "International Maritime Law Institute Conducts New Staff Enhancement Training for CMF",
+      "content_text": "MANAMA, Bahrain (July 22, 2026) – The International Maritime Law Institute (IMLI), part of the International Maritime Organization, conducted virtual staff enhancement training (SET) for Combined M…",
+      "attachments": [
+        {
+          "url": "https://i0.wp.com/combinedmaritimeforces.com/wp-content/uploads/2026/02/ctf-154-india.png?fit=1200%2C1200&ssl=1",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "conflict-watch"
+      ]
+    },
+    {
+      "id": "https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/",
+      "url": "https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/",
+      "title": "Powering America's Genesis Mission: Microsoft's commitment to scientific discovery - The Official Microsoft Blog",
+      "content_text": "Today, we’re excited to share a long-term commitment to the Department of Energy’s (DOE) Genesis Mission, backed by a $60 million investment designed to accelerate AI for science and the breakthroughs it can deliver for the country. This deepened commitment includes Microsoft’s new Scientific Partnership Advancing Research & Knowledge coordination hub and program office, otherwise...",
+      "attachments": [
+        {
+          "url": "https://blogs.microsoft.com/wp-content/uploads/2026/07/GettyImages-1413606459-1024x540.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "satya-nadella"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/gw-sig-seminar-23-july-2026/",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/gw-sig-seminar-23-july-2026/",
+      "title": "GW SIG Seminar, 23 July 2026 - NASA Science",
+      "content_text": "GW SIG Seminar on LISA Preparatory Science and LISA Science Gaps. Speakers: Ira Thorpe, NASA LISA Project Scientist, and Ann Hornschemeier Cardiff, NASA LISA Deputy Project Scientist",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/physics-of-the-cosmos/images/gwsig/ligo20160211d.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xr-sig-seminar-24-july-2026/",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xr-sig-seminar-24-july-2026/",
+      "title": "XR SIG Seminar, 24 July 2026 - NASA Science",
+      "content_text": "Hybrid CMOS Detectors for Future X-ray Missions. Speaker: Abraham D. Falcone, Penn State University. 1:00pm – 2:00pm ET",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/cds/svs/a010000/a013200/a013214/NICERNightMovesnolabels.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xr-sig-seminar-7-august-2026/",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xr-sig-seminar-7-august-2026/",
+      "title": "XR SIG Seminar, 7 August 2026 - NASA Science",
+      "content_text": "A TDAMM Mission Concept Offered by the X-ray Timing Science Analysis Group: the Dynamic Extreme Universe in X-rays (DEUS-X) Machine",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/cds/svs/a010000/a013200/a013214/NICERNightMovesnolabels.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/habitable-worlds-observatory-sig-seminar-12-aug-2026/",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/habitable-worlds-observatory-sig-seminar-12-aug-2026/",
+      "title": "Habitable Worlds Observatory SIG Seminar, 12 Aug 2026 - NASA Science",
+      "content_text": "Habitable Worlds Observatory SIG Seminar. Details TBA",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/cds/general/images/2023/07/jpegpia17999.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/ad-astra/",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/ad-astra/",
+      "title": "Community Science (Ad ASTRA) Workshop, Sept 2026 - NASA Science",
+      "content_text": "1-3 September 2026. The Community Science (Ad ASTRA) Workshop is organized by the NASA Astrophysics Division.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/physics-of-the-cosmos/images/misc/Westerlund-2-heic1509a.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/dgce-sig-seminar-23-july-2026/",
+      "url": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/dgce-sig-seminar-23-july-2026/",
+      "title": "DGCE SIG Seminar, 23 July 2026 - NASA Science",
+      "content_text": "From Micro to Macro: Connecting the Physics of Galaxy Formation Across Scales. Speaker: Drummond Fielding, New York University",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/cosmic-origins/images/dgce-sig/LH_95-DGCE.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/hwo-sig-seminar-12-august-2026/",
+      "url": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/hwo-sig-seminar-12-august-2026/",
+      "title": "HWO SIG Seminar, 12 August 2026 - NASA Science",
+      "content_text": "TBA",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/exep/resources/links/images/97_PIA17002.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ad-astra/",
+      "url": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ad-astra/",
+      "title": "Community Science (Ad ASTRA) Workshop, Sept 2026 - NASA Science",
+      "content_text": "1-3 September 2026. The Community Science (Ad ASTRA) Workshop is organized by the NASA Astrophysics Division to engage the community in defining future large, strategic astrophysics missions.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/physics-of-the-cosmos/images/hubble/NGC%202174.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://retractionwatch.com/2026/07/22/journal-retracts-breast-cancer-paper-10-years-after-sleuth-flagged-issues/",
+      "url": "https://retractionwatch.com/2026/07/22/journal-retracts-breast-cancer-paper-10-years-after-sleuth-flagged-issues/",
+      "title": "Journal retracts breast cancer paper 10 years after sleuth flagged issues",
+      "content_text": "A biomedical journal has retracted a paper by a cancer researcher who sued her former institution over misconduct allegations. The action comes a decade after a sleuth first raised concerns about t…",
+      "attachments": [
+        {
+          "url": "https://retractionwatch.com/wp-content/uploads/2026/07/JEM_cover.gif",
+          "mime_type": "image/gif"
+        }
+      ],
+      "tags": [
+        "research-integrity"
+      ]
+    },
+    {
+      "id": "https://aiforgood.itu.int/planetary-intelligence-ai-for-the-21st-century-earth-will-marshalls-case-for-a-smarter-planet/",
+      "url": "https://aiforgood.itu.int/planetary-intelligence-ai-for-the-21st-century-earth-will-marshalls-case-for-a-smarter-planet/",
+      "title": "Planetary Intelligence, AI for the 21st Century Earth: Will Marshall's Case for a Smarter Planet",
+      "content_text": "A new image of every point on the Earth’s landmass, captured once every 24 hours, with the ability to zoom in on specific locations at higher resolution.",
+      "attachments": [
+        {
+          "url": "https://s41721.pcdn.co/wp-content/uploads/2026/07/Celia-dont-touch-2026-07-21T163233.807.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
       ]
     },
     {
@@ -69,6 +298,21 @@
       ]
     },
     {
+      "id": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "content_text": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
+      "attachments": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_Social_share_1920x1080_Opt_1.width-1300.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "https://phys.org/news/2026-07-ruthenium-nanoparticles-captured-perchlorate-harmless.html",
       "url": "https://phys.org/news/2026-07-ruthenium-nanoparticles-captured-perchlorate-harmless.html",
       "title": "Ruthenium nanoparticles convert captured perchlorate into harmless chloride in water treatment waste",
@@ -96,36 +340,6 @@
       ],
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/researchers/solicitations/roses-2025/roses-25-c-2-solar-system-science-corrections/",
-      "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/roses-25-c-2-solar-system-science-corrections/",
-      "title": "ROSES-25 C.2 Solar System Science Corrections - NASA Science",
-      "content_text": "C.2 Solar System Science solicits proposals for research, data analysis, data preservation, and tools that support investigations to help ascertain the",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/nebulae/supernova-remnant/N132D.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-65-new-opportunity-c-4-planetary-science-enabling-facilities/",
-      "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-65-new-opportunity-c-4-planetary-science-enabling-facilities/",
-      "title": "Amendment 65: New Opportunity: C.4 Planetary Science Enabling Facilities - NASA Science",
-      "content_text": "C.4 The Planetary Science Enabling Facilities (PSEF) program element solicits proposals for experimental and analytical research facilities to be made",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/nebulae/planetary/Stingray%20Nebula.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
       ]
     },
     {
@@ -238,21 +452,6 @@
       ]
     },
     {
-      "id": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/happening-today-sservi-forum/",
-      "url": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/happening-today-sservi-forum/",
-      "title": "HAPPENING TODAY! SSERVI Forum - NASA Science",
-      "content_text": "The NASA Solar System Exploration Research Virtual Institute (SSERVI) is pleased to announce the 2026 Exploration Science Forum. NASA Ames Research Center, Moffett Field, CA & Virtual. 21 July 2026",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/astro/programs/cosmic-origins/news/2026/images/SSERVI-Forum-21-July-2026.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
       "id": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
       "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
       "title": "Introducing Gemini 3.5 Flash Cyber",
@@ -343,21 +542,6 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/directorates/stmd/niac/robotically-assembled-electromagnetic-metamaterials-for-long-range-space-situational-awareness/",
-      "url": "https://www.nasa.gov/directorates/stmd/niac/robotically-assembled-electromagnetic-metamaterials-for-long-range-space-situational-awareness/",
-      "title": "Robotically Assembled Electromagnetic Metamaterials",
-      "content_text": "David SmithDuke University",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-smith.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/coilable-stacked-solar-sails-for-very-high-delta-v-missions/",
       "url": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/coilable-stacked-solar-sails-for-very-high-delta-v-missions/",
       "title": "solar sails",
@@ -388,21 +572,6 @@
       ]
     },
     {
-      "id": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
-      "url": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
-      "title": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI | NVIDIA Technical Blog",
-      "content_text": "What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale. These factories are now tasked with…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-rubin-gpu.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/",
       "url": "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/",
       "title": "NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI | NVIDIA Technical Blog",
@@ -425,6 +594,21 @@
       "attachments": [
         {
           "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/World-Record.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
+      "url": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
+      "title": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI | NVIDIA Technical Blog",
+      "content_text": "What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale. These factories are now tasked with…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-rubin-gpu.webp",
           "mime_type": "image/webp"
         }
       ],
@@ -730,194 +914,6 @@
       ],
       "tags": [
         "gsel-esports-ai"
-      ]
-    },
-    {
-      "id": "https://www.pewresearch.org/short-reads/2026/07/20/how-global-energy-production-is-changing-in-6-charts/",
-      "url": "https://www.pewresearch.org/short-reads/2026/07/20/how-global-energy-production-is-changing-in-6-charts/",
-      "title": "How global energy production is changing, in 6 charts",
-      "content_text": "Fossil fuels still dominate global electricity, but wind and solar are surging. In 2025, renewables outpaced coal worldwide for the first time, supplying 34% of electricity.",
-      "attachments": [
-        {
-          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/SR_26.07.20_GlobalEnergyTrends_featured.png?w=1200&h=628&crop=1",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories/",
-      "url": "https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories/",
-      "title": "NVIDIA NVLink: The Scale-Up Network for AI Factories | NVIDIA Technical Blog",
-      "content_text": "The demand for AI continues to accelerate. Workloads are getting larger, models are becoming more complex, and there is mounting pressure to deploy AI compute infrastructure faster than ever.",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/nvlinkimage1_16x9.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
-      "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
-      "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
-      "content_text": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/siggraph-featured-still-1920x1080-1.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/5451751_26Sigg_Promo_Pack_1280x720_v03.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/integrate-nvidia-omniverse-rtx-sensor-simulation-into-existing-apps/",
-      "url": "https://developer.nvidia.com/blog/integrate-nvidia-omniverse-rtx-sensor-simulation-into-existing-apps/",
-      "title": "Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps | NVIDIA Technical Blog",
-      "content_text": "Developers building 3D, design, simulation, robotics, and industrial digital twin applications need ways to bring physical AI capabilities into the tools and services they already use.",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-omniverse-rtx-sensor-ximulation.webp",
-          "mime_type": "image/webp"
-        },
-        {
-          "url": "https://www.youtube.com/embed/3561hc4cFGk?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://iptc.org/news/iptc-at-w3c-odrl-workshop-2026/",
-      "url": "https://iptc.org/news/iptc-at-w3c-odrl-workshop-2026/",
-      "title": "Towards ODRL 3.0: IPTC's RightsML at W3C ODRL Workshop - IPTC",
-      "content_text": "IPTC is the global standards body of the news media. We provide the technical foundation for the news ecosystem.",
-      "attachments": [
-        {
-          "url": "https://iptc.org/wp-content/uploads/2026/07/Screenshot-2026-07-20-at-16.00.27.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "content-provenance"
-      ]
-    },
-    {
-      "id": "https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/",
-      "url": "https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/",
-      "title": "Microsoft expands Azure AI and HPC infrastructure with AMD - The Official Microsoft Blog",
-      "content_text": "AI workloads are scaling faster than any single infrastructure approach can support — with more models, new agent-driven workloads and surging compute demand driving the need for greater specialization across the stack. To meet this need, Microsoft continues to evolve Azure’s infrastructure, including expanding its AI fleet with AMD’s most advanced AI and high-performance computing...",
-      "attachments": [
-        {
-          "url": "https://blogs.microsoft.com/wp-content/uploads/2026/07/OMB-Azure-AMD-Hero-1024x576.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "satya-nadella"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/led-light-pollution",
-      "url": "https://spectrum.ieee.org/led-light-pollution",
-      "title": "We’re Squandering LEDs’ Potential to Save Our Night Skies",
-      "content_text": "Bad decisions have turned efficient technology into a driver of light pollution. There is a better way",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=67480571&width=1200&height=600&coordinates=0%2C125%2C0%2C125",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://blog.khanacademy.org/explain-your-thinking-student-reasoning/",
-      "url": "https://blog.khanacademy.org/explain-your-thinking-student-reasoning/",
-      "title": "Beyond the Score: Why “Explain Your Thinking” Matters",
-      "content_text": "Learn how Explain Your Thinking helps educators use AI to make student reasoning visible and improve feedback, assessment, and intervention.",
-      "attachments": [
-        {
-          "url": "https://blog.khanacademy.org/wp-content/uploads/2026/07/1024-x-571-1.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai-native-education"
-      ]
-    },
-    {
-      "id": "https://www.bgs.ac.uk/news/building-europes-geological-future/",
-      "url": "https://www.bgs.ac.uk/news/building-europes-geological-future/",
-      "title": "Building Europe’s geological future - British Geological Survey",
-      "content_text": "BGS scientists are contributing to a continent-wide initiative that is strengthening collaboration across borders to tackle shared subsurface challenges and unlock new opportunities.",
-      "attachments": [
-        {
-          "url": "https://www.bgs.ac.uk/wp-content/uploads/2026/07/IMG_9048.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "subsurface-frontier"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
-      "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
-      "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
-      "content_text": "The pharmaceutical company has demonstrated how AI can transform how drugs discovery and is now scaling AI across R&D to accelerate the discovery of next-generation medicines.",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Image-7-1680x1120.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://retractionwatch.com/2026/07/20/publisher-investigating-peer-reviewer-for-alleged-bribery-scheme/",
-      "url": "https://retractionwatch.com/2026/07/20/publisher-investigating-peer-reviewer-for-alleged-bribery-scheme/",
-      "title": "Publisher investigating peer reviewer for alleged bribery scheme",
-      "content_text": "Deagreez/iStock Earlier this year, Tushar Sen, an independent researcher based in New Delhi, submitted a manuscript to Security and Privacy about the modeling of polymorphic malware. On May 15, a p…",
-      "attachments": [
-        {
-          "url": "https://retractionwatch.com/wp-content/uploads/2026/07/iStock-2216021200_credit_deagreez-e1784314619532.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "research-integrity"
-      ]
-    },
-    {
-      "id": "https://www.embl.org/news/science-technology/scientists-map-how-the-flu-virus-rewires-the-human-cell-from-the-inside/",
-      "url": "https://www.embl.org/news/science-technology/scientists-map-how-the-flu-virus-rewires-the-human-cell-from-the-inside/",
-      "title": "Scientists map how the flu virus rewires the human cell from the inside | EMBL",
-      "content_text": "EMBL Hamburg researchers and their collaborators have gained new insights into how the influenza A virus reprograms cellular machinery",
-      "attachments": [
-        {
-          "url": "https://www.embl.org/news/wp-content/uploads/2026/07/Kosinski_fluVirus.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "biotech"
       ]
     }
   ]

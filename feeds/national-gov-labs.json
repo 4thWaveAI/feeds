@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/national-gov-labs.json",
   "items": [
     {
+      "id": "https://news.fnal.gov/2026/07/u-s-department-of-energy-invests-in-fermilab-projects-to-accelerate-ai-enabled-scientific-discovery/",
+      "url": "https://news.fnal.gov/2026/07/u-s-department-of-energy-invests-in-fermilab-projects-to-accelerate-ai-enabled-scientific-discovery/",
+      "title": "U.S. Department of Energy invests in Fermilab projects to accelerate AI-enabled scientific discovery",
+      "content_text": "The awards will support Fermilab projects by leveraging AI to boost innovation and technology development, advance DOE’s Genesis Mission and accelerate scientific discovery.",
+      "attachments": [
+        {
+          "url": "https://news.fnal.gov/wp-content/uploads/2026/07/26-0132-05.hr_.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "national-gov-labs"
+      ]
+    },
+    {
       "id": "https://newscenter.lbl.gov/2026/07/16/cyclotron-road-welcomes-11-new-entrepreneurial-fellows/",
       "url": "https://newscenter.lbl.gov/2026/07/16/cyclotron-road-welcomes-11-new-entrepreneurial-fellows/",
       "title": "Cyclotron Road Welcomes 11 New Entrepreneurial Fellows",
@@ -140,14 +155,44 @@
       ]
     },
     {
-      "id": "https://news.fnal.gov/2026/06/fermilab-and-harmoniqs-integrate-open-source-tools-to-advance-qubit-control-optimization/",
-      "url": "https://news.fnal.gov/2026/06/fermilab-and-harmoniqs-integrate-open-source-tools-to-advance-qubit-control-optimization/",
-      "title": "Fermilab and Harmoniqs integrate open-source tools to advance qubit control optimization",
-      "content_text": "Fermilab developed the Quantum Instrumentation Control Kit, or QICK, as a compact, customizable and cost-effective quantum readout and control option for scientists. Harmoniqs, a quantum computing software company, developed Piccolo.jl, a quantum control and calibration software package. Together, their developers are integrating the two to achieve precise, repeatable qubit control, providing better results in less time.",
+      "id": "https://www.nsf.gov/news/new-nsf-initiative-aims-unlock-dataset-value-ai-enabled",
+      "url": "https://www.nsf.gov/news/new-nsf-initiative-aims-unlock-dataset-value-ai-enabled",
+      "title": "New NSF initiative aims to unlock dataset value for AI-enabled scientific discovery",
+      "content_text": "The U.S. National Science Foundation announced the NSF Unlocking Dataset Value for AI-Enabled Scientific Discovery program, a new investment to advance scientific community datasets and enable…",
       "attachments": [
         {
-          "url": "https://news.fnal.gov/wp-content/uploads/2026/06/harmoniqs.jpg",
+          "url": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/AI-Enabled_Discovery_hero.png?itok=6swttzX-",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "national-gov-labs"
+      ]
+    },
+    {
+      "id": "https://www.nsf.gov/news/nsf-announces-83m-investment-integrated-data-systems",
+      "url": "https://www.nsf.gov/news/nsf-announces-83m-investment-integrated-data-systems",
+      "title": "NSF announces $83M investment in integrated data systems and services to advance AI-driven science and strengthen U.S. research infrastructure",
+      "content_text": "The U.S. National Science Foundation today announced $83 million in awards through the Integrated Data Systems and Services (IDSS) program. The awards will expand access to data infrastructure…",
+      "attachments": [
+        {
+          "url": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/IDSS%20Announcement%20Graphic.jpg?itok=H0qC4Ahp",
           "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "national-gov-labs"
+      ]
+    },
+    {
+      "id": "https://www.nsf.gov/news/statement-nsf-chief-staff-brian-stone-performing-duties-nsf-1",
+      "url": "https://www.nsf.gov/news/statement-nsf-chief-staff-brian-stone-performing-duties-nsf-1",
+      "title": "Statement from NSF Chief of Staff Brian Stone, performing the duties of the NSF director, on advancing the Administration's AI priorities through the Genesis Mission",
+      "content_text": "The U.S. National Science Foundation is proud to join the White House Office of Science and Technology Policy, the U.S. Department of Energy and other federal partners in advancing the administration…",
+      "attachments": [
+        {
+          "url": "https://www.nsf.gov/themes/custom/nsf_theme/logo-200x200.png",
+          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -253,51 +298,6 @@
         {
           "url": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/noirlab2616a.jpg?itok=ovMkAGfd",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "national-gov-labs"
-      ]
-    },
-    {
-      "id": "https://www.nsf.gov/news/podcast-future-quantum-cryptography",
-      "url": "https://www.nsf.gov/news/podcast-future-quantum-cryptography",
-      "title": "Podcast: The future of quantum cryptography",
-      "content_text": "Secure information is essential in the digital exchanges of modern life. NSF-supported professor Vinod Vaikuntanathan discusses quantum cryptography and the future of encryption...",
-      "attachments": [
-        {
-          "url": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media/images/DFPod_GraphicForNSFNews_QuantumCryptography_240x160.jpg?itok=K_sJbTzz",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "national-gov-labs"
-      ]
-    },
-    {
-      "id": "https://www.nsf.gov/news/podcast-brain-computer-interface-controls-exoskeleton",
-      "url": "https://www.nsf.gov/news/podcast-brain-computer-interface-controls-exoskeleton",
-      "title": "Podcast: Brain-computer interface controls exoskeleton",
-      "content_text": "Payam Heydari discusses a breakthrough brain-computer interface that controls a robotic exoskeleton, technology that could transform the lives of people living with spinal cord injuries...",
-      "attachments": [
-        {
-          "url": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media/images/DFPod_GraphicForNSFNews_HeydariBCIExoskeleton_240x160.jpg?itok=tU5fDqOo",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "national-gov-labs"
-      ]
-    },
-    {
-      "id": "https://www.nsf.gov/news/nsf-selects-five-additional-teams-national-quantum-virtual",
-      "url": "https://www.nsf.gov/news/nsf-selects-five-additional-teams-national-quantum-virtual",
-      "title": "NSF selects five additional teams in National Quantum Virtual Laboratory design competition",
-      "content_text": "The U.S. National Science Foundation has selected five new teams to design experimental quantum technologies, from networks that can ferry fragile quantum information across long distances to sensors…",
-      "attachments": [
-        {
-          "url": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/NSF_NQVL_hero%202026.png?itok=zBBhkIw8",
-          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -620,13 +620,13 @@
       ]
     },
     {
-      "id": "https://www6.slac.stanford.edu/news/2026-06-30-action-rubin-observatory-begins-capturing-greatest-cosmic-movie-ever-made",
-      "url": "https://www6.slac.stanford.edu/news/2026-06-30-action-rubin-observatory-begins-capturing-greatest-cosmic-movie-ever-made",
-      "title": "Action! NSF–DOE Vera C. Rubin Observatory begins capturing the greatest cosmic movie ever made",
-      "content_text": "The 10-year Legacy Survey of Space and Time has officially started, marking the beginning of a new era in astronomy and astrophysics.",
+      "id": "https://www6.slac.stanford.edu/news/2026-07-22-slac-lead-genesis-mission-ai-project-recover-critical-metals-lithium-ion-battery",
+      "url": "https://www6.slac.stanford.edu/news/2026-07-22-slac-lead-genesis-mission-ai-project-recover-critical-metals-lithium-ion-battery",
+      "title": "SLAC to lead Genesis Mission AI project to recover critical metals from lithium-ion battery waste",
+      "content_text": "Researchers from the SLAC-Stanford Battery Center join USC in a project to help secure the U.S. supply of critical minerals.",
       "attachments": [
         {
-          "url": "https://www6.slac.stanford.edu/sites/default/files/styles/extra_large_card/public/2026-06/noirlab2616a.jpg?h=50786202&itok=JqItdfGw",
+          "url": "https://www6.slac.stanford.edu/sites/default/files/styles/extra_large_card/public/2026-07/genesis_announcement_july2026_final.jpg?h=8134f090&itok=9z8GLOPh",
           "mime_type": "image/jpeg"
         }
       ],
@@ -737,7 +737,7 @@
       "id": "https://news.fnal.gov/newsroom/news/",
       "url": "https://news.fnal.gov/newsroom/news/",
       "title": "News and features",
-      "content_text": "July 9, 2026",
+      "content_text": "July 22, 2026",
       "tags": [
         "national-gov-labs"
       ]

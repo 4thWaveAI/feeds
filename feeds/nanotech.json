@@ -335,6 +335,21 @@
       ]
     },
     {
+      "id": "https://www.sciencedaily.com/releases/2026/07/260718010149.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010149.htm",
+      "title": "New programmable photonic chip can control how fast light moves",
+      "content_text": "Scientists have created a programmable optical chip that can slow light on demand, giving engineers far greater control over how optical signals propagate through a circuit. The technology could provide the delays, synchronization, and buffering functions needed to make light-based computing more practical. A single chip could eventually perform several tasks that currently require separate devices, potentially reducing energy use, cost, and complexity in AI servers and data centers.",
+      "attachments": [
+        {
+          "url": "https://www.sciencedaily.com/images/1920/programmable-crit-photonic-integrated-circuit.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
       "url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
       "title": "Scientists built a camera that can track invisible particles in 3D",
@@ -492,21 +507,6 @@
       "attachments": [
         {
           "url": "https://www.sciencedaily.com/images/1920/quijote-simulations.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/06/260606075511.htm",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260606075511.htm",
-      "title": "Heat breaks the rules at the nanoscale and scientists used it to their advantage",
-      "content_text": "Scientists used nanoscale gold metamaterials to supercharge heat transfer across tiny gaps, achieving up to four times more energy flow than similar conventional systems. The breakthrough could lead to better chip cooling, more efficient energy technologies, and a new era of precision heat engineering.",
-      "attachments": [
-        {
-          "url": "https://www.sciencedaily.com/images/1920/metamaterials-cooling-for-chips.webp",
           "mime_type": "image/webp"
         }
       ],

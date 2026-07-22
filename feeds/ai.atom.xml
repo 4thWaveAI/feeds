@@ -4,7 +4,21 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai</id>
-  <updated>Wed, 22 Jul 2026 08:49:00 +0000</updated>
+  <updated>Wed, 22 Jul 2026 14:27:02 +0000</updated>
+  <entry>
+    <title>NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework</title>
+    <link href="https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/"/>
+    <id>https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/</id>
+    <summary type="text">Medical device leaders are already building on NVIDIA’s new Medical Physics Simulation framework — giving surgical robots the virtual experience they need before interacting with patients.</summary>
+    <updated>Wed, 22 Jul 2026 13:00:11 +0000</updated>
+  </entry>
+  <entry>
+    <title>3 Google updates from Galaxy Unpacked 2026</title>
+    <link href="https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/"/>
+    <id>https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/</id>
+    <summary type="text">We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.</summary>
+    <updated>Wed, 22 Jul 2026 00:00:00 -0000</updated>
+  </entry>
   <entry>
     <title>Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems</title>
     <link href="https://blogs.nvidia.com/blog/wistron-manufacturing-texas/"/>
@@ -34,13 +48,6 @@
     <updated>Tue, 21 Jul 2026 15:00:20 +0000</updated>
   </entry>
   <entry>
-    <title>Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/"/>
-    <id>https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/</id>
-    <summary type="text">What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale. These factories are now tasked with…</summary>
-    <updated>Tue, 21 Jul 2026 15:00:00 +0000</updated>
-  </entry>
-  <entry>
     <title>NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI | NVIDIA Technical Blog</title>
     <link href="https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/"/>
     <id>https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/</id>
@@ -52,6 +59,13 @@
     <link href="https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/"/>
     <id>https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/</id>
     <summary type="text">Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token falls…</summary>
+    <updated>Tue, 21 Jul 2026 15:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/"/>
+    <id>https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/</id>
+    <summary type="text">What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale. These factories are now tasked with…</summary>
     <updated>Tue, 21 Jul 2026 15:00:00 +0000</updated>
   </entry>
   <entry>
@@ -165,13 +179,6 @@
     <id>https://blogs.nvidia.com/blog/japan-ecosystem-2026/</id>
     <summary type="text">NVIDIA and its partners in Japan are this week showcasing the AI ecosystem&#x27;s latest advancements. Check back here for updates.</summary>
     <updated>Wed, 15 Jul 2026 10:51:37 +0000</updated>
-  </entry>
-  <entry>
-    <title>Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize</title>
-    <link href="https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/"/>
-    <id>https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/</id>
-    <summary type="text">Learn how NVIDIA Nemotron open models help enterprises build specialized AI they can trust, control and customize with accuracy, efficiency and flexibility.</summary>
-    <updated>Tue, 14 Jul 2026 16:45:13 +0000</updated>
   </entry>
   <entry>
     <title>AI in Indian Education: Atal Innovation Mission and Google launch ATL Saathi</title>
@@ -319,13 +326,6 @@
     <id>https://deepmind.google/blog/securing-the-future-of-ai-agents/</id>
     <summary type="text">Discover our AI Control Roadmap: a defense-in-depth system to securely manage advanced, potentially misaligned AI agents.</summary>
     <updated>Thu, 18 Jun 2026 14:00:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>New research shows how AMIE, our medical AI, could help manage health conditions.</title>
-    <link href="https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/"/>
-    <id>https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/</id>
-    <summary type="text">Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.</summary>
-    <updated>Wed, 17 Jun 2026 00:00:00 -0000</updated>
   </entry>
   <entry>
     <title>Unlocking UK house-building with AI-accelerated planning</title>

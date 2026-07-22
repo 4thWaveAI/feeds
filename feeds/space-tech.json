@@ -133,21 +133,6 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/directorates/stmd/niac/robotically-assembled-electromagnetic-metamaterials-for-long-range-space-situational-awareness/",
-      "url": "https://www.nasa.gov/directorates/stmd/niac/robotically-assembled-electromagnetic-metamaterials-for-long-range-space-situational-awareness/",
-      "title": "Robotically Assembled Electromagnetic Metamaterials",
-      "content_text": "David SmithDuke University",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-smith.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/",
       "url": "https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/",
       "title": "NASA Study Finds Near-Earth Asteroid Is Actually Comet - NASA",
@@ -232,6 +217,21 @@
       ]
     },
     {
+      "id": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "url": "https://www.nasa.gov/news/nasa-media-contacts/",
+      "title": "NASA Media Contacts - NASA",
+      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Alise",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/jsc2026e397516/jsc2026e397516~large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/news/",
       "url": "https://www.nasa.gov/news/",
       "title": "NASA News",
@@ -239,6 +239,21 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2025/05/54492396655-c6ba83df1d-o-1.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-joins-genesis-mission-to-accelerate-ai-driven-discovery/",
+      "url": "https://www.nasa.gov/news-release/nasa-joins-genesis-mission-to-accelerate-ai-driven-discovery/",
+      "title": "NASA Joins Genesis Mission to Accelerate AI-Driven Discovery - NASA",
+      "content_text": "NASA is supporting the Genesis Mission, a national effort to drive the use of artificial intelligence in tackling complex scientific and engineering",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -299,21 +314,6 @@
       "attachments": [
         {
           "url": "https://images-assets.nasa.gov/image/iss074e0813893/iss074e0813893~large.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/07/20/expedition-74-turns-attention-to-departing-crewmates/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/07/20/expedition-74-turns-attention-to-departing-crewmates/",
-      "title": "Expedition 74 Turns Attention to Departing Crewmates - NASA",
-      "content_text": "Three Expedition 74 crew members are packing up cargo and handing over their responsibilities with less than one week to go before returning to Earth. The International Space Station’s three newest crewmates are already in the second week of their mission getting used to life on orbit and researching how microgravity affects the human body.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/iss074e0814088/iss074e0814088~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],

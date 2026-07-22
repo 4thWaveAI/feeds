@@ -4,7 +4,19 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/advanced-materials-technology.atom.xml"/>
   <id>urn:4thwaveai-feeds:advanced-materials-technology</id>
-  <updated>Wed, 22 Jul 2026 08:52:55 +0000</updated>
+  <updated>Wed, 22 Jul 2026 14:31:12 +0000</updated>
+  <entry>
+    <title>A strange quantum effect dramatically boosts energy transfer</title>
+    <link href="https://www.sciencedaily.com/releases/2026/07/260722032130.htm"/>
+    <id>https://www.sciencedaily.com/releases/2026/07/260722032130.htm</id>
+    <summary type="text">Researchers discovered a proton-assisted mechanism that greatly improves how triplet energy moves between quantum dots and nearby molecules. The proton briefly shifts position, helps coordinate electron movement, and then returns to where it started. This quantum-driven shuttle could offer a powerful new way to tune solar cells, lasers, and catalytic reactions.</summary>
+  </entry>
+  <entry>
+    <title>New programmable photonic chip can control how fast light moves</title>
+    <link href="https://www.sciencedaily.com/releases/2026/07/260718010149.htm"/>
+    <id>https://www.sciencedaily.com/releases/2026/07/260718010149.htm</id>
+    <summary type="text">Scientists have created a programmable optical chip that can slow light on demand, giving engineers far greater control over how optical signals propagate through a circuit. The technology could provide the delays, synchronization, and buffering functions needed to make light-based computing more practical. A single chip could eventually perform several tasks that currently require separate devices, potentially reducing energy use, cost, and complexity in AI servers and data centers.</summary>
+  </entry>
   <entry>
     <title>Scientists found two powerful new ways to destroy forever chemicals</title>
     <link href="https://www.sciencedaily.com/releases/2026/07/260718010147.htm"/>
@@ -64,17 +76,5 @@
     <link href="https://www.sciencedaily.com/releases/2026/06/260626030435.htm"/>
     <id>https://www.sciencedaily.com/releases/2026/06/260626030435.htm</id>
     <summary type="text">A new quantum device can generate precisely controlled bursts of sound-like particles, or phonons, by forcing electrons through an ultra-thin crystal at extremely low temperatures. The surprising behavior pushes beyond the limits predicted by current theories, suggesting scientists need to rethink how energy moves through advanced materials. In the future, the breakthrough could lead to phonon lasers, faster communications, improved medical technologies, and powerful new sensing systems.</summary>
-  </entry>
-  <entry>
-    <title>Simple water trick slashes diesel engine pollution by over 60%</title>
-    <link href="https://www.sciencedaily.com/releases/2026/06/260621052413.htm"/>
-    <id>https://www.sciencedaily.com/releases/2026/06/260621052413.htm</id>
-    <summary type="text">A surprisingly simple fuel modification could help tackle one of diesel engines’ biggest problems: pollution. Researchers reviewing studies from around the world found that mixing small amounts of water into diesel fuel can dramatically reduce harmful emissions, including nitrogen oxides and soot, while maintaining or even improving engine efficiency.</summary>
-  </entry>
-  <entry>
-    <title>New solid-state material converts sunlight into higher-energy UV light</title>
-    <link href="https://www.sciencedaily.com/releases/2026/06/260623083058.htm"/>
-    <id>https://www.sciencedaily.com/releases/2026/06/260623083058.htm</id>
-    <summary type="text">A new sunlight-powered material can convert visible light into higher-energy UV light, overcoming a challenge that has frustrated scientists for years. The breakthrough could enable cleaner air purification, solar-driven chemistry, and advanced manufacturing technologies using nothing more than natural sunlight.</summary>
   </entry>
 </feed>

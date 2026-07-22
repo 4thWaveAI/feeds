@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/satya-nadella.json",
   "items": [
     {
+      "id": "https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/",
+      "url": "https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/",
+      "title": "Powering America's Genesis Mission: Microsoft's commitment to scientific discovery - The Official Microsoft Blog",
+      "content_text": "Today, we’re excited to share a long-term commitment to the Department of Energy’s (DOE) Genesis Mission, backed by a $60 million investment designed to accelerate AI for science and the breakthroughs it can deliver for the country. This deepened commitment includes Microsoft’s new Scientific Partnership Advancing Research & Knowledge coordination hub and program office, otherwise...",
+      "attachments": [
+        {
+          "url": "https://blogs.microsoft.com/wp-content/uploads/2026/07/GettyImages-1413606459-1024x540.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "satya-nadella"
+      ]
+    },
+    {
       "id": "https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/",
       "url": "https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/",
       "title": "Microsoft expands Azure AI and HPC infrastructure with AMD - The Official Microsoft Blog",
@@ -35,13 +50,13 @@
       ]
     },
     {
-      "id": "https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/",
-      "url": "https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/",
-      "title": "Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence - The Official Microsoft Blog",
-      "content_text": "The pace of AI adoption is moving incredibly fast. Customers have moved well beyond experimentation and understand the importance of adopting AI to transform their business. They are now concentrating on delivering measurable business outcomes and demonstrating a return on their AI investments, while ensuring their intelligence is amplified and their IP is protected. Today...",
+      "id": "https://blogs.microsoft.com/blog/author/cbarry/",
+      "url": "https://blogs.microsoft.com/blog/author/cbarry/",
+      "title": "Chris Barry, Author at The Official Microsoft Blog",
+      "content_text": "Jul 22, 2026 | Chris Barry - President, US Public Sector Industries",
       "attachments": [
         {
-          "url": "https://blogs.microsoft.com/wp-content/uploads/2026/07/official-microsoft-blog-header-1024x683.jpeg",
+          "url": "https://secure.gravatar.com/avatar/a90cd31d2cf0d5c5b78b76ac2dc06ab46f50106746317fe9fca70ff7b549f2cb?s=500&d=mm&r=g",
           "mime_type": "image/jpeg"
         }
       ],
@@ -72,21 +87,6 @@
       "attachments": [
         {
           "url": "https://secure.gravatar.com/avatar/8322d323ed803aee63f13bee99e0071a?s=500&d=mm&r=g",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "satya-nadella"
-      ]
-    },
-    {
-      "id": "https://blogs.microsoft.com/blog/author/judson-althoff/",
-      "url": "https://blogs.microsoft.com/blog/author/judson-althoff/",
-      "title": "Judson Althoff, Author at The Official Microsoft Blog",
-      "content_text": "Jul 2, 2026 | Judson Althoff - CEO, Microsoft Commercial Business",
-      "attachments": [
-        {
-          "url": "https://secure.gravatar.com/avatar/e22d3e7313d5c22aee726a5974c84004?s=500&d=mm&r=g",
           "mime_type": "image/jpeg"
         }
       ],

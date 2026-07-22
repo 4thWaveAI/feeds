@@ -68,13 +68,22 @@
       "id": "https://www.roadtovr.com/feed/",
       "url": "https://www.roadtovr.com/feed/",
       "title": "Road to VR",
-      "content_text": "We at Road to VR have been asking ourselves: how do we offer the most value to our readers? That question led to an experiment over the last few months that changed the way we structured each article, with the goal of making them more useful to you. Now, we’d like to hear your thoughts. […]",
+      "content_text": "Meta announced it’s partnering with Microsoft to bring a “starter edition” of its cloud-based XBOX Game Pass to Horizon+, Meta’s own VR game subscription service. In the coming weeks, Meta also says it’s pushing out Xbox gamepad emulation for Quest’s Touch controllers too. The News The new Xbox Game Pass addition brings a library of 50+ […]",
       "attachments": [
         {
           "url": "https://www.youtube.com/embed/Fx1UDR-mOYc?feature=oembed",
           "mime_type": "video/mp4"
         }
       ],
+      "tags": [
+        "extended-reality"
+      ]
+    },
+    {
+      "id": "https://spectrum.ieee.org/join",
+      "url": "https://spectrum.ieee.org/join",
+      "title": "JavaScript is disabled",
+      "content_text": "JavaScript is disabled",
       "tags": [
         "extended-reality"
       ]

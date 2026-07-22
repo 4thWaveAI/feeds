@@ -185,6 +185,21 @@
       ]
     },
     {
+      "id": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/will-the-promise-of-rain-threaten-the-suns-long-reign",
+      "url": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/will-the-promise-of-rain-threaten-the-suns-long-reign",
+      "title": "Will the promise of rain threaten the sun’s long reign?",
+      "content_text": "Author: Met Office",
+      "attachments": [
+        {
+          "url": "https://www.metoffice.gov.uk/api/images/file/cumulus-cloud-1024x512.jpg?prefix=images&prefix=images",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "climate-environment"
+      ]
+    },
+    {
       "id": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/marine-heatwave-intensified-impacts-of-storm-babet-by-9-20-new-study-finds",
       "url": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/marine-heatwave-intensified-impacts-of-storm-babet-by-9-20-new-study-finds",
       "title": "Marine heatwave intensified impacts of Storm Babet by 9-20%, new study finds",
@@ -312,21 +327,6 @@
       "attachments": [
         {
           "url": "https://www.metoffice.gov.uk/api/images/file/beautiful-orange-sunset-over-the-ocean-1024x512.jpg?prefix=images&prefix=images",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "climate-environment"
-      ]
-    },
-    {
-      "id": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/englands-warmest-june-on-record--the-second-warmest-for-the-uk-and-wales-",
-      "url": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/englands-warmest-june-on-record--the-second-warmest-for-the-uk-and-wales-",
-      "title": "England’s warmest June on record – the second warmest for the UK and Wales",
-      "content_text": "Author: Met Office",
-      "attachments": [
-        {
-          "url": "https://www.metoffice.gov.uk/api/images/file/sunshine-and-clouds-heatwave-weather-1024x512.jpg?prefix=images",
           "mime_type": "image/jpeg"
         }
       ],
@@ -491,7 +491,7 @@
       "content_text": "Climate change scientist Debora Ley discusses how the world can break its addiction to fossil fuels and give more people access to clean, reliable electricity.",
       "attachments": [
         {
-          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2026-07/20230703_Noor%20Solare%20Inger%20Andersen%20Visit_Morocco_UNEP_Duncan%20Moore_1760.jpg?h=5d6b4972&itok=h6mAM4q0",
+          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2026-07/20230703_Noor%20Solare%20Inger%20Andersen%20Visit_Morocco_UNEP_Duncan%20Moore_1760.jpg?h=5d6b4972&itok=GSIS8sav",
           "mime_type": "image/jpeg"
         }
       ],
@@ -506,7 +506,7 @@
       "content_text": "As lunar exploration is regaining momentum, the sustainability of space launches has come into the spotlight.",
       "attachments": [
         {
-          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2026-07/mike-petrucci-uIf6H1or1nE-unsplash.jpg?h=2100bcb1&itok=MkaVzygy",
+          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2026-07/mike-petrucci-uIf6H1or1nE-unsplash.jpg?h=2100bcb1&itok=Wv7OQHCE",
           "mime_type": "image/jpeg"
         }
       ],
@@ -521,7 +521,7 @@
       "content_text": "As billions of fans around the globe follow the FIFA World Cup 2026, several host cities are using the tournament as an opportunity to accelerate the green transition and protect nature.",
       "attachments": [
         {
-          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2026-07/AFP__20260714__C27T6WA__v3__HighRes__TopshotFblWc2026Match101FraEsp.jpg?h=5d4e9746&itok=Ey4aDQ5p",
+          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2026-07/AFP__20260714__C27T6WA__v3__HighRes__TopshotFblWc2026Match101FraEsp.jpg?h=5d4e9746&itok=dGVC_gf-",
           "mime_type": "image/jpeg"
         }
       ],
@@ -536,7 +536,7 @@
       "content_text": "A heatwave blanketing France is the latest sign that we must rethink how our cities are designed and how our buildings are constructed.",
       "attachments": [
         {
-          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2026-07/AFP__20260528__B4AE94E__v7__MidRes__TopshotFilesFranceParisHeatCentury.jpg?itok=XoVYrPeB",
+          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2026-07/AFP__20260528__B4AE94E__v7__MidRes__TopshotFilesFranceParisHeatCentury.jpg?itok=05MhNTHx",
           "mime_type": "image/jpeg"
         }
       ],
@@ -551,7 +551,7 @@
       "content_text": "The powerful tempests are becoming increasingly common as climate change and land degradation turn once-productive landscapes into desert.",
       "attachments": [
         {
-          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2023-07/32AU9DL-highres_small.jpg?h=1baaac50&itok=pR5n2qqL",
+          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2023-07/32AU9DL-highres_small.jpg?h=1baaac50&itok=5yYL-Ib7",
           "mime_type": "image/jpeg"
         }
       ],
@@ -566,7 +566,7 @@
       "content_text": "Climate change and destructive practices, like deforestation and agricultural sprawl, have left 40 per cent of Earth’s land degraded.",
       "attachments": [
         {
-          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2026-07/Football_Web_story%20%281%29.jpg?h=efca084c&itok=JYBE_goc",
+          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2026-07/Football_Web_story%20%281%29.jpg?h=efca084c&itok=R02RkKdv",
           "mime_type": "image/jpeg"
         }
       ],
@@ -581,7 +581,7 @@
       "content_text": "Supermodel and UNEP Goodwill Ambassador Amber Valletta travels to Tunisia, where denim manufacturers are striving to lighten their environmental footprint.",
       "attachments": [
         {
-          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2026-06/55338512605_3c87109d33_k.jpg?h=dd7bef35&itok=EZdYWg4N",
+          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2026-06/55338512605_3c87109d33_k.jpg?h=dd7bef35&itok=JibtrJgu",
           "mime_type": "image/jpeg"
         },
         {
@@ -600,7 +600,7 @@
       "content_text": "From drawing your curtains to placing wet towels on \"pulse points\", these tips will help you contend with spiking temperatures, which are becoming more common.",
       "attachments": [
         {
-          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2026-06/AFP__20260622__B7WQ8LJ__v1__MidRes__FranceWeatherClimateHeat.jpg?h=0c674c34&itok=ragWQULw",
+          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2026-06/AFP__20260622__B7WQ8LJ__v1__MidRes__FranceWeatherClimateHeat.jpg?h=0c674c34&itok=46L-L0Oh",
           "mime_type": "image/jpeg"
         }
       ],
@@ -615,7 +615,7 @@
       "content_text": "Atlantic salmon are returning to Canada’s rivers thanks to an Indigenous-led restoration effort that is reviving ecosystems, cultural traditions and endangered fish populations.",
       "attachments": [
         {
-          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2026-06/20250925UNEP%20Decade-Restoration_Canada%20Salmon%20Restoration_Todd%20Brown_51.jpg?h=1fbb8f5b&itok=H0aELRPh",
+          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2026-06/20250925UNEP%20Decade-Restoration_Canada%20Salmon%20Restoration_Todd%20Brown_51.jpg?h=1fbb8f5b&itok=Hn93cIIY",
           "mime_type": "image/jpeg"
         },
         {

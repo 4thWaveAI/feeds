@@ -4,7 +4,14 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.atom.xml"/>
   <id>urn:4thwaveai-feeds:videos</id>
-  <updated>Wed, 22 Jul 2026 09:15:04 +0000</updated>
+  <updated>Wed, 22 Jul 2026 14:47:18 +0000</updated>
+  <entry>
+    <title>NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework</title>
+    <link href="https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/"/>
+    <id>https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/</id>
+    <summary type="text">Medical device leaders are already building on NVIDIA’s new Medical Physics Simulation framework — giving surgical robots the virtual experience they need before interacting with patients.</summary>
+    <updated>Wed, 22 Jul 2026 13:00:11 +0000</updated>
+  </entry>
   <entry>
     <title>A Week of Smoky Skies Across North America - NASA Science</title>
     <link href="https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/"/>
@@ -264,7 +271,7 @@
     <title>Road to VR</title>
     <link href="https://www.roadtovr.com/feed/"/>
     <id>https://www.roadtovr.com/feed/</id>
-    <summary type="text">We at Road to VR have been asking ourselves: how do we offer the most value to our readers? That question led to an experiment over the last few months that changed the way we structured each article, with the goal of making them more useful to you. Now, we’d like to hear your thoughts. […]</summary>
+    <summary type="text">Meta announced it’s partnering with Microsoft to bring a “starter edition” of its cloud-based XBOX Game Pass to Horizon+, Meta’s own VR game subscription service. In the coming weeks, Meta also says it’s pushing out Xbox gamepad emulation for Quest’s Touch controllers too. The News The new Xbox Game Pass addition brings a library of 50+ […]</summary>
   </entry>
   <entry>
     <title>Latest Meta Company News | Meta Newsroom</title>
@@ -277,6 +284,12 @@
     <link href="https://about.fb.com/news/category/technology-and-innovation/"/>
     <id>https://about.fb.com/news/category/technology-and-innovation/</id>
     <summary type="text">Technology and Innovation News | Meta Newsroom</summary>
+  </entry>
+  <entry>
+    <title>“AI Is Transforming Seniors’ Daily Lives”: SK hynix Explores AI Solutions for an Aging Society at the Chungbuk SR Forum | SK hynix Newsroom</title>
+    <link href="https://news.skhynix.com/en/2026-chungbuk-sr-forum/"/>
+    <id>https://news.skhynix.com/en/2026-chungbuk-sr-forum/</id>
+    <summary type="text">Kiosks are appearing in store after store, and smartphone apps have become more familiar than face-to-face service. As digital technology weaves its way into every corner of daily life, living has grown more convenient — yet it is also an</summary>
   </entry>
   <entry>
     <title>Materials Research Society</title>
@@ -377,17 +390,5 @@ Through world-renowned Meetings, peer-reviewed journals, webinars, workshops, ad
     <link href="https://aspire.usu.edu/from-vacuum-to-lab-a-students-journey-towards-real-world-application/"/>
     <id>https://aspire.usu.edu/from-vacuum-to-lab-a-students-journey-towards-real-world-application/</id>
     <summary type="text">In the classroom, students have the opportunity to learn and practice specific concepts in a controlled situation, sometimes referred to as a vacuum. Yet in the real-world, many concepts and skills must be considered simultaneously to arrive at a solution. Whitney Walpole, a mechanical engineering student at ASPIRE, is discovering what it takes to answer real-world questions.</summary>
-  </entry>
-  <entry>
-    <title>From Student to Alumni: Software Engineer Makes a Real-World Impact at ASPIRE – ASPIRE Research Center</title>
-    <link href="https://aspire.usu.edu/from-student-to-alumni-software-engineer-makes-a-real-world-impact-at-aspire/"/>
-    <id>https://aspire.usu.edu/from-student-to-alumni-software-engineer-makes-a-real-world-impact-at-aspire/</id>
-    <summary type="text">Managing a fleet of electric buses requires tracking not only the buses but also the electric vehicle chargers themselves in order to track overall purchasing and maintenance costs and power loads. With so many moving parts, this can be difficult and time consuming to do. However, Max Ramsdell, a software engineer at ASPIRE, led a team to find a way to make it easier for electric fleets.</summary>
-  </entry>
-  <entry>
-    <title>Prepping the Future Workforce: ASPIRE’s High School Internships – ASPIRE Research Center</title>
-    <link href="https://aspire.usu.edu/prepping-the-future-workforce-aspires-high-school-internships/"/>
-    <id>https://aspire.usu.edu/prepping-the-future-workforce-aspires-high-school-internships/</id>
-    <summary type="text">What should I study? What career do I want to pursue?</summary>
   </entry>
 </feed>

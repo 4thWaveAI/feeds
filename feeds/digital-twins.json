@@ -5,6 +5,15 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/digital-twins.json",
   "items": [
     {
+      "id": "https://spectrum.ieee.org/join",
+      "url": "https://spectrum.ieee.org/join",
+      "title": "JavaScript is disabled",
+      "content_text": "JavaScript is disabled",
+      "tags": [
+        "digital-twins"
+      ]
+    },
+    {
       "id": "https://spectrum.ieee.org/",
       "url": "https://spectrum.ieee.org/",
       "title": "IEEE Spectrum",

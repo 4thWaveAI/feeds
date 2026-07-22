@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/quantum-biology.atom.xml"/>
   <id>urn:4thwaveai-feeds:quantum-biology</id>
-  <updated>Wed, 22 Jul 2026 09:11:36 +0000</updated>
+  <updated>Wed, 22 Jul 2026 14:45:41 +0000</updated>
   <entry>
     <title>2010 TSC Tucson ARIZONA</title>
     <link href="https://consciousness.arizona.edu/news/2010-tsc-tucson-arizona"/>
@@ -205,13 +205,31 @@
     <title>Agentic AI-assisted coding offers a unique opportunity to instill epistemic grounding during software development</title>
     <link href="https://arxiv.org/abs/2604.21744"/>
     <id>https://arxiv.org/abs/2604.21744</id>
-    <summary type="text">The capabilities of AI-assisted coding are progressing at breakneck speed. Chat-based vibe coding has evolved into fully fledged AI-assisted, agentic software development using agent scaffolds where the human developer creates a plan that agentic AIs implement. One current trend is utilizing documents beyond this plan document, such as project and method-scoped documents. Here we propose GROUNDING.md, a community-governed, field-scoped epistemic grounding document, using mass spectrometry-based proteomics as an example. We have drafted a file specific to proteomics: proteomics_GROUNDING.md (available at https://github.com/OmicsGrounding/proteomics-grounding) to demonstrate what a GROUNDING.md would look like. This explicit field-scoped grounding document encodes Hard Constraints (non-negot</summary>
+    <summary type="text">The capabilities of AI-assisted coding are progressing at breakneck speed. Chat-based vibe coding has evolved into fully fledged AI-assisted, agentic software development using agent scaffolds where the human developer creates a plan that agentic AIs implement. One current trend is utilizing documents beyond this plan document, such as project and method-scoped documents. Here we propose GROUNDING$.$md, a community-governed, field-scoped epistemic grounding document, using mass spectrometry-based proteomics as an example. We have drafted a file specific to proteomics: proteomics_GROUNDING$.$md (available at https://github.com/OmicsGrounding/proteomics-grounding) to demonstrate what a GROUNDING$.$md would look like. This explicit field-scoped grounding document encodes Hard Constraints (non</summary>
+  </entry>
+  <entry>
+    <title>Cryo-EM insights into isoform-specific properties of the IP3R2 channel - Nature Communications</title>
+    <link href="https://www.nature.com/articles/s41467-026-75806-y"/>
+    <id>https://www.nature.com/articles/s41467-026-75806-y</id>
+    <summary type="text">IP3R2 is a major intracellular Ca2+ release channel whose structure has remained elusive. Here, the authors determine cryo-EM structures of human IP3R2 and reveal isoform-specific allosteric mechanisms that control channel activation and Ca2+ signaling</summary>
+  </entry>
+  <entry>
+    <title>Structural insights enable drug discovery for the neuronal NBCn2 carbonate transporter - Nature Communications</title>
+    <link href="https://www.nature.com/articles/s41467-026-75444-4"/>
+    <id>https://www.nature.com/articles/s41467-026-75444-4</id>
+    <summary type="text">In this work, researchers elucidate sodium and carbonate binding at the NBCn2 transporter through cryoEM, and further develop NBCn2 inhibitors that reduce neuronal activity in primary culture and brain slices using structure-based drug discovery.</summary>
   </entry>
   <entry>
     <title>The bacterial mechanosensitive channel MscM gates through concerted changes in its transmembrane and cytoplasmic domains - Nature Communications</title>
     <link href="https://www.nature.com/articles/s41467-026-75798-9"/>
     <id>https://www.nature.com/articles/s41467-026-75798-9</id>
     <summary type="text">Mechanosensitive channels in bacteria provide protection against hypoosmotic shock. Here, the authors use cryo-electron microscopy to reveal the gating mechanism of MscS-like channel EcMscM, showing that the conformations of the transmembrane and cytoplasmic domains are coupled.</summary>
+  </entry>
+  <entry>
+    <title>Quantifying outer membrane permeability to β-lactam antibiotics using outer membrane vesicles that protect antibiotic-susceptible bacteria - Nature Communications</title>
+    <link href="https://www.nature.com/articles/s41467-026-75817-9"/>
+    <id>https://www.nature.com/articles/s41467-026-75817-9</id>
+    <summary type="text">The outer membrane limits antibiotic entry into Gram-negative bacteria. Here, authors introduce an NMR-based outer membrane vesicle assay that quantifies β-lactam permeability and explore how vesicles protect susceptible bacteria.</summary>
   </entry>
   <entry>
     <title>Mechanistic studies of the human NIPA2 transporter - Nature Communications</title>
@@ -248,24 +266,6 @@
     <link href="https://www.nature.com/articles/s41467-026-74809-z"/>
     <id>https://www.nature.com/articles/s41467-026-74809-z</id>
     <summary type="text">This study identifies the cardiac protein Leiomodin 2 as an actin filament polymerase that enables growth from filament pointed ends, revealing how muscle actin filament length is controlled and how Lmod2 mutations may cause dilated cardiomyopathy.</summary>
-  </entry>
-  <entry>
-    <title>Numerical simulation of mitochondrial systems for ATP generation and membrane transport - Scientific Reports</title>
-    <link href="https://www.nature.com/articles/s41598-026-61463-0"/>
-    <id>https://www.nature.com/articles/s41598-026-61463-0</id>
-    <summary type="text">Scientific Reports ( 2026 ) Cite this article</summary>
-  </entry>
-  <entry>
-    <title>Designed β-hairpin switches for controllable mechanical properties - Communications Materials</title>
-    <link href="https://www.nature.com/articles/s43246-026-01298-4"/>
-    <id>https://www.nature.com/articles/s43246-026-01298-4</id>
-    <summary type="text">β-structure formation gives structural proteins their strength and flexibility, but the mechanisms controlling its formation are still not fully understood. Here, the authors designed β-hairpin peptides that switch from a disordered to a β-structured state upon sodium dodecyl sulfate exposure, offering a tunable platform for biomaterial design.</summary>
-  </entry>
-  <entry>
-    <title>Distinct conformational dynamics of the type-2 Angiotensin II receptor bound to Angiotensin II and Angiotensin (1–7) - Scientific Reports</title>
-    <link href="https://www.nature.com/articles/s41598-026-40510-w"/>
-    <id>https://www.nature.com/articles/s41598-026-40510-w</id>
-    <summary type="text">Scientific Reports ( 2026 ) Cite this article</summary>
   </entry>
   <entry>
     <title>Transversal fault tolerant distributed quantum computing operations - Nature Communications</title>
