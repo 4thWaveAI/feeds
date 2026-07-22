@@ -5,13 +5,13 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/national-gov-labs.json",
   "items": [
     {
-      "id": "https://news.fnal.gov/2026/07/u-s-department-of-energy-invests-in-fermilab-projects-to-accelerate-ai-enabled-scientific-discovery/",
-      "url": "https://news.fnal.gov/2026/07/u-s-department-of-energy-invests-in-fermilab-projects-to-accelerate-ai-enabled-scientific-discovery/",
-      "title": "U.S. Department of Energy invests in Fermilab projects to accelerate AI-enabled scientific discovery",
-      "content_text": "The awards will support Fermilab projects by leveraging AI to boost innovation and technology development, advance DOE’s Genesis Mission and accelerate scientific discovery.",
+      "id": "https://newscenter.lbl.gov/2026/07/22/berkeley-lab-to-lead-13-new-genesis-mission-ai-projects/",
+      "url": "https://newscenter.lbl.gov/2026/07/22/berkeley-lab-to-lead-13-new-genesis-mission-ai-projects/",
+      "title": "Berkeley Lab to Lead 13 New Genesis Mission AI Projects",
+      "content_text": "Researchers will apply AI, supercomputing, and advanced instruments to accelerate discoveries for energy, science, and national security.",
       "attachments": [
         {
-          "url": "https://news.fnal.gov/wp-content/uploads/2026/07/26-0132-05.hr_.jpg",
+          "url": "https://newscenter.lbl.gov/wp-content/uploads/2026/07/GenesisPhase1_Featured_1025x685px.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -20,14 +20,14 @@
       ]
     },
     {
-      "id": "https://newscenter.lbl.gov/2026/07/16/cyclotron-road-welcomes-11-new-entrepreneurial-fellows/",
-      "url": "https://newscenter.lbl.gov/2026/07/16/cyclotron-road-welcomes-11-new-entrepreneurial-fellows/",
-      "title": "Cyclotron Road Welcomes 11 New Entrepreneurial Fellows",
-      "content_text": "The U.S. Department of Energy (DOE) has announced the 2026 cohort of scientists and engineers selected to join Cyclotron Road at Lawrence Berkeley National Laboratory (Berkeley Lab). Cyclotron Road is one of four nodes in the DOE Office of Technology Commercialization’s Lab-Embedded Entrepreneurship Program (LEEP) .",
+      "id": "https://news.fnal.gov/2026/07/u-s-department-of-energy-invests-in-fermilab-projects-to-accelerate-ai-enabled-scientific-discovery/",
+      "url": "https://news.fnal.gov/2026/07/u-s-department-of-energy-invests-in-fermilab-projects-to-accelerate-ai-enabled-scientific-discovery/",
+      "title": "U.S. Department of Energy invests in Fermilab projects to accelerate AI-enabled scientific discovery",
+      "content_text": "The awards will support Fermilab projects by leveraging AI to boost innovation and technology development, advance DOE’s Genesis Mission and accelerate scientific discovery.",
       "attachments": [
         {
-          "url": "https://newscenter.lbl.gov/wp-content/uploads/2026/07/Newscenter_Featured_1190x750px_2026-cyclotron-road-fellows_transparent.png",
-          "mime_type": "image/png"
+          "url": "https://news.fnal.gov/wp-content/uploads/2026/07/26-0132-05.hr_.jpg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -635,6 +635,21 @@
       ]
     },
     {
+      "id": "https://www6.slac.stanford.edu/news/2026-06-30-action-rubin-observatory-begins-capturing-greatest-cosmic-movie-ever-made",
+      "url": "https://www6.slac.stanford.edu/news/2026-06-30-action-rubin-observatory-begins-capturing-greatest-cosmic-movie-ever-made",
+      "title": "Action! NSF–DOE Vera C. Rubin Observatory begins capturing the greatest cosmic movie ever made",
+      "content_text": "The 10-year Legacy Survey of Space and Time has officially started, marking the beginning of a new era in astronomy and astrophysics.",
+      "attachments": [
+        {
+          "url": "https://www6.slac.stanford.edu/sites/default/files/styles/extra_large_card/public/2026-06/noirlab2616a.jpg?h=50786202&itok=JqItdfGw",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "national-gov-labs"
+      ]
+    },
+    {
       "id": "https://www6.slac.stanford.edu/news/2026-06-24-slac-researchers-watch-molecules-steered-laser-light",
       "url": "https://www6.slac.stanford.edu/news/2026-06-24-slac-researchers-watch-molecules-steered-laser-light",
       "title": "SLAC researchers ‘watch’ molecules steered by laser light",
@@ -702,21 +717,6 @@
       "attachments": [
         {
           "url": "https://www6.slac.stanford.edu/sites/default/files/styles/extra_large_card/public/2026-04/designer_protein_la_final.jpg?h=c5dfd578&itok=4IrJrNgo",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "national-gov-labs"
-      ]
-    },
-    {
-      "id": "https://www6.slac.stanford.edu/news/2026-04-29-groundbreaking-instrument-back-online-marking-key-milestone-high-energy-upgrade",
-      "url": "https://www6.slac.stanford.edu/news/2026-04-29-groundbreaking-instrument-back-online-marking-key-milestone-high-energy-upgrade",
-      "title": "Groundbreaking instrument back online, marking a key milestone in high-energy upgrade to SLAC’s X-ray laser",
-      "content_text": "The X-ray Pump Probe instrument is returning to normal operations this spring, anticipating a major capability boost when the high-energy beam comes online.",
-      "attachments": [
-        {
-          "url": "https://www6.slac.stanford.edu/sites/default/files/styles/extra_large_card/public/2026-04/2026_0326_XPP_First_Light_Photos-9.jpg?h=b93efcb0&itok=BPInZteX",
           "mime_type": "image/jpeg"
         }
       ],

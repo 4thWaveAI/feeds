@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/quantum.atom.xml"/>
   <id>urn:4thwaveai-feeds:quantum</id>
-  <updated>Wed, 22 Jul 2026 14:28:14 +0000</updated>
+  <updated>Wed, 22 Jul 2026 19:50:13 +0000</updated>
   <entry>
     <title>NIST Receives New Patent for Microbe-Killing Water Heater</title>
     <link href="https://www.nist.gov/news-events/news/2026/07/nist-receives-new-patent-microbe-killing-water-heater"/>
@@ -111,16 +111,16 @@
     <updated>Wed, 19 Feb 2025 16:00:00 +0000</updated>
   </entry>
   <entry>
+    <title>IBM commits $50M in quantum access for US Genesis Mission</title>
+    <link href="https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai"/>
+    <id>https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai</id>
+    <summary type="text">An IBM project was also selected to accelerate AI-driven scientific discovery.</summary>
+  </entry>
+  <entry>
     <title>This could be the largest synthetic code dataset yet</title>
     <link href="https://research.ibm.com/blog/code-alchemy-for-synthetic-code"/>
     <id>https://research.ibm.com/blog/code-alchemy-for-synthetic-code</id>
     <summary type="text">Introducing CodeAlchemy, a synthetic data pipeline that has already produced nearly 1 trillion tokens of open-source code</summary>
-  </entry>
-  <entry>
-    <title>CoFrGeNets replace the ‘bones’ of transformer-based models</title>
-    <link href="https://research.ibm.com/blog/cofrgenets-replace-the-bones-of-transformer-based-models"/>
-    <id>https://research.ibm.com/blog/cofrgenets-replace-the-bones-of-transformer-based-models</id>
-    <summary type="text">This new approach, a practical and conceptual shift, points to lighter-weight generative AI models that perform competitively, and in many cases even better.</summary>
   </entry>
   <entry>
     <title>It’s time for cryptography to get its own abstraction layer</title>
@@ -139,6 +139,12 @@
     <link href="https://research.ibm.com/blog/qiskit-2-5-release-summary"/>
     <id>https://research.ibm.com/blog/qiskit-2-5-release-summary</id>
     <summary type="text">Technical release summary for Qiskit SDK v2.5, including top new features and performance improvements.</summary>
+  </entry>
+  <entry>
+    <title>CoFrGeNets replace the ‘bones’ of transformer-based models</title>
+    <link href="https://research.ibm.com/blog/cofrgenets-replace-the-bones-of-transformer-based-models"/>
+    <id>https://research.ibm.com/blog/cofrgenets-replace-the-bones-of-transformer-based-models</id>
+    <summary type="text">This new approach, a practical and conceptual shift, points to lighter-weight generative AI models that perform competitively, and in many cases even better.</summary>
   </entry>
   <entry>
     <title>How training environments can teach AI models to misbehave</title>
@@ -163,12 +169,6 @@
     <link href="https://research.ibm.com/blog/ponder-this-july-2026"/>
     <id>https://research.ibm.com/blog/ponder-this-july-2026</id>
     <summary type="text">Ponder This Challenge - July 2026 - Return of the Superheroes</summary>
-  </entry>
-  <entry>
-    <title>Apply to IBM Quantum Developer Conference 2026 | IBM Quantum Computing Blog</title>
-    <link href="https://research.ibm.com/blog/qdc-application-2026"/>
-    <id>https://research.ibm.com/blog/qdc-application-2026</id>
-    <summary type="text">Get an exclusive look at the breakthroughs, tools, and workflows shaping the path to quantum advantage.</summary>
   </entry>
   <entry>
     <title>How to measure the performance of a quantum computer | IBM Quantum Computing Blog</title>

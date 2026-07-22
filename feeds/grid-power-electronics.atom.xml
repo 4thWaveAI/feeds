@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/grid-power-electronics.atom.xml"/>
   <id>urn:4thwaveai-feeds:grid-power-electronics</id>
-  <updated>Wed, 22 Jul 2026 14:39:15 +0000</updated>
+  <updated>Wed, 22 Jul 2026 20:00:00 +0000</updated>
   <entry>
     <title>2026 Federal Utility Partnership Working Group (FUPWG) Seminar</title>
     <link href="https://www.energy.gov/cmei/femp/events/2026-federal-utility-partnership-working-group-fupwg-seminar"/>
@@ -20,13 +20,25 @@
     <updated>Mon, 08 Jun 2026 13:54:44 -0400</updated>
   </entry>
   <entry>
+    <title>Ford, Global Power Products debut home backup solution</title>
+    <link href="https://www.utilitydive.com/news/ford-and-global-power-products-debut-vehicle-to-home-backup-solution/825928/"/>
+    <id>https://www.utilitydive.com/news/ford-and-global-power-products-debut-vehicle-to-home-backup-solution/825928/</id>
+    <summary type="text">More than 800 electric utilities have approved GPP’s GenerLink transfer switch, which provides backup power for outlets and hardwired appliances at significantly lower cost than a standby generator, Ford says.</summary>
+  </entry>
+  <entry>
     <title>Don’t gut the utility model just as we need it most</title>
     <link href="https://www.utilitydive.com/news/utility-model-grid-investment-affordability-roe/825672/"/>
     <id>https://www.utilitydive.com/news/utility-model-grid-investment-affordability-roe/825672/</id>
-    <summary type="text">Cutting utility returns won&#x27;t lower electric bills and will leave us a more fragile power grid, writes Scott Aaronson, former secretary of the Electricity Subsector Coordinating Council.</summary>
+    <summary type="text">Cutting utility returns won&#x27;t lower electric bills and will leave us with a more fragile power grid, writes Scott Aaronson, former secretary of the Electricity Subsector Coordinating Council.</summary>
   </entry>
   <entry>
-    <title>SRP to propose mixed-resource project to its board in September</title>
+    <title>Wisconsin gas plant proposals test state review process</title>
+    <link href="https://www.utilitydive.com/news/wisconsin-gas-plant-proposals-test-state-review-process/825885/"/>
+    <id>https://www.utilitydive.com/news/wisconsin-gas-plant-proposals-test-state-review-process/825885/</id>
+    <summary type="text">Integrated resource planning would give regulators a clearer long-term picture of electricity needs before major energy investments are approved, advocates say.</summary>
+  </entry>
+  <entry>
+    <title>SRP to propose up to 1.7-GW mixed-resource project to its board in September</title>
     <link href="https://www.utilitydive.com/news/srp-marigold-project-board-energy-storage/825813/"/>
     <id>https://www.utilitydive.com/news/srp-marigold-project-board-energy-storage/825813/</id>
     <summary type="text">The Marigold Energy Center, about 45 miles south of Phoenix, would include 400 MW of battery storage, 600 MW of solar generation, up to 675 MW of gas generation and a new substation.</summary>
@@ -66,18 +78,6 @@
     <link href="https://www.utilitydive.com/news/best-buy-adds-more-solar-generation-to-portfolio/825634/"/>
     <id>https://www.utilitydive.com/news/best-buy-adds-more-solar-generation-to-portfolio/825634/</id>
     <summary type="text">The new solar sites include the retailer’s first store with a rooftop “community solar garden” as it looks to a 2040 net-zero target.</summary>
-  </entry>
-  <entry>
-    <title>Data centers drove $6.3B in PJM capacity auction costs: market monitor</title>
-    <link href="https://www.utilitydive.com/news/pjm-data-centers-capacity-auction-imm-bowring/825626/"/>
-    <id>https://www.utilitydive.com/news/pjm-data-centers-capacity-auction-imm-bowring/825626/</id>
-    <summary type="text">In the PJM’s last four capacity auctions, data center-related capacity charges were nearly half of the $63.6 billion in total charges, Monitoring Analytics says.</summary>
-  </entry>
-  <entry>
-    <title>We don’t need more proof that flexibility works. We need more people using it.</title>
-    <link href="https://www.utilitydive.com/spons/we-dont-need-more-proof-that-flexibility-works-we-need-more-people-using/825192/"/>
-    <id>https://www.utilitydive.com/spons/we-dont-need-more-proof-that-flexibility-works-we-need-more-people-using/825192/</id>
-    <summary type="text">&quot;Flexibility works. The real bottleneck is scaling participation fast enough to matter.&quot;</summary>
   </entry>
   <entry>
     <title>Home Page</title>

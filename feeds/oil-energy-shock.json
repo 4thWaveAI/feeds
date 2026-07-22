@@ -5,13 +5,28 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/oil-energy-shock.json",
   "items": [
     {
+      "id": "https://www.eia.gov/todayinenergy/detail.php?id=67868",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=67868",
+      "title": "Commercial crude oil inventories increased by 2.0 million barrels - U.S. Energy Information Administration (EIA)",
+      "content_text": "Menu",
+      "attachments": [
+        {
+          "url": "https://www.eia.gov/todayinenergy/images/2026.07.22/main.png?1784750832=",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "oil-energy-shock"
+      ]
+    },
+    {
       "id": "https://www.eia.gov/todayinenergy/detail.php?id=67867",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=67867",
       "title": "New York imports more electricity from Canada after high-voltage transmission line opens - U.S. Energy Information Administration (EIA)",
       "content_text": "Menu",
       "attachments": [
         {
-          "url": "https://www.eia.gov/todayinenergy/images/2026.07.20/main.png?1784731605=",
+          "url": "https://www.eia.gov/todayinenergy/images/2026.07.20/main.png?1784750848=",
           "mime_type": "image/png"
         }
       ],
@@ -26,7 +41,7 @@
       "content_text": "Menu",
       "attachments": [
         {
-          "url": "https://www.eia.gov/todayinenergy/images/2026.07.16/main.png?1784731605=",
+          "url": "https://www.eia.gov/todayinenergy/images/2026.07.16/main.png?1784750833=",
           "mime_type": "image/png"
         }
       ],
@@ -41,7 +56,7 @@
       "content_text": "Menu",
       "attachments": [
         {
-          "url": "https://www.eia.gov/todayinenergy/images/2026.07.15/main.png?1784731605=",
+          "url": "https://www.eia.gov/todayinenergy/images/2026.07.15/main.png?1784750848=",
           "mime_type": "image/png"
         }
       ],
@@ -56,7 +71,7 @@
       "content_text": "Menu",
       "attachments": [
         {
-          "url": "https://www.eia.gov/todayinenergy/images/2026.07.14/main.png?1784731605=",
+          "url": "https://www.eia.gov/todayinenergy/images/2026.07.14/main.png?1784750849=",
           "mime_type": "image/png"
         }
       ],
@@ -71,7 +86,7 @@
       "content_text": "Menu",
       "attachments": [
         {
-          "url": "https://www.eia.gov/todayinenergy/images/2026.07.09/main.png?1784731605=",
+          "url": "https://www.eia.gov/todayinenergy/images/2026.07.09/main.png?1784750840=",
           "mime_type": "image/png"
         }
       ],
@@ -86,7 +101,7 @@
       "content_text": "Menu",
       "attachments": [
         {
-          "url": "https://www.eia.gov/todayinenergy/images/2026.07.08/main.png?1784731606=",
+          "url": "https://www.eia.gov/todayinenergy/images/2026.07.08/main.png?1784750849=",
           "mime_type": "image/png"
         }
       ],
@@ -101,7 +116,7 @@
       "content_text": "Menu",
       "attachments": [
         {
-          "url": "https://www.eia.gov/todayinenergy/images/2026.06.30/main.png?1784731606=",
+          "url": "https://www.eia.gov/todayinenergy/images/2026.06.30/main.png?1784750849=",
           "mime_type": "image/png"
         }
       ],
@@ -116,7 +131,7 @@
       "content_text": "Menu",
       "attachments": [
         {
-          "url": "https://www.eia.gov/todayinenergy/images/2026.06.29/main.png?1784731606=",
+          "url": "https://www.eia.gov/todayinenergy/images/2026.06.29/main.png?1784750849=",
           "mime_type": "image/png"
         }
       ],
@@ -131,22 +146,7 @@
       "content_text": "Menu",
       "attachments": [
         {
-          "url": "https://www.eia.gov/todayinenergy/images/2026.06.26/main.png?1784731606=",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "oil-energy-shock"
-      ]
-    },
-    {
-      "id": "https://www.eia.gov/todayinenergy/detail.php?id=67805",
-      "url": "https://www.eia.gov/todayinenergy/detail.php?id=67805",
-      "title": "U.S. commercial crude oil inventories have decreased in June - U.S. Energy Information Administration (EIA)",
-      "content_text": "Menu",
-      "attachments": [
-        {
-          "url": "https://www.eia.gov/todayinenergy/images/2026.06.24/main.png?1784731607=",
+          "url": "https://www.eia.gov/todayinenergy/images/2026.06.26/main.png?1784750849=",
           "mime_type": "image/png"
         }
       ],
@@ -242,7 +242,7 @@
       "content_text": "Gasoline and diesel fuel prices released weekly.",
       "attachments": [
         {
-          "url": "https://www.eia.gov/petroleum/gasdiesel/images/feature-image/regular-gasoline-prices-2026-07-22.png?1784731608=",
+          "url": "https://www.eia.gov/petroleum/gasdiesel/images/feature-image/regular-gasoline-prices-2026-07-22.png?1784750851=",
           "mime_type": "image/png"
         }
       ],

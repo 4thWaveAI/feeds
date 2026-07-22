@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/financial-freedom.json",
   "items": [
     {
+      "id": "https://www.sec.gov/newsroom/press-releases/2026-68-sec-announces-departure-principal-deputy-director-enforcement-sam-waldon",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-68-sec-announces-departure-principal-deputy-director-enforcement-sam-waldon",
+      "title": "SEC Announces Departure of Principal Deputy Director of Enforcement Sam Waldon",
+      "content_text": "An official website of the United States government",
+      "attachments": [
+        {
+          "url": "https://www.sec.gov/files/styles/open_graph/public/images/social-media-card-press-release.png?itok=EUHbCjAo",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "financial-freedom"
+      ]
+    },
+    {
       "id": "https://www.sec.gov/newsroom/press-releases/2026-67-sec-proposes-new-e-delivery-approach-make-information-more-readily-accessible-useful-investors",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-67-sec-proposes-new-e-delivery-approach-make-information-more-readily-accessible-useful-investors",
       "title": "SEC Proposes New E-Delivery Approach to Make Information More Readily Accessible and Useful for Investors",
@@ -140,28 +155,13 @@
       ]
     },
     {
-      "id": "https://www.sec.gov/newsroom/press-releases/2026-58-sec-appoints-kathleen-hutchinson-director-office-international-affairs",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-58-sec-appoints-kathleen-hutchinson-director-office-international-affairs",
-      "title": "SEC Appoints Kathleen Hutchinson as Director of Office of International Affairs",
-      "content_text": "An official website of the United States government",
-      "attachments": [
-        {
-          "url": "https://www.sec.gov/files/styles/open_graph/public/images/social-media-card-press-release.png?itok=EUHbCjAo",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "financial-freedom"
-      ]
-    },
-    {
       "id": "https://www.who.int/news/item/21-07-2026-un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist",
       "url": "https://www.who.int/news/item/21-07-2026-un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist",
       "title": "UN report: Global hunger levels ease for third consecutive year as regional disparities persist",
       "content_text": "Global hunger declined for a third consecutive year in 2025, demonstrating that progress is possible. However, the improvements remain fragile, unevenly distributed and insufficient to achieve the Sustainable Development Goals by 2030, according to The State of Food Security and Nutrition in the World 2026 (SOFI 2026) report, released on Tuesday by five United Nations specialized agencies.The report estimates that 7.8 percent of the global population faced hunger in 2025, down from 8.1 percent in 2024 and 8.6 percent in 2022, confirming a sustained, albeit slow, improvement. This means that around 645 million people were affected by hunger in 2025, representing a reduction of nearly 14 million compared to 2024 and 43 million compared to 2022.Despite global progress, recovery remains uneven",
       "attachments": [
         {
-          "url": "https://cdn.who.int/media/images/default-source/topics/nutrition-and-food/healthy-diet/a-mother-and-a-child-in-a-market-choosing-fruit-and-vegetables.tmb-1200v.jpg?sfvrsn=4c0930f3_1",
+          "url": "https://cdn.who.int/media/images/default-source/topics/nutrition-and-food/healthy-diet/a-mother-and-a-child-in-a-market-choosing-fruit-and-vegetables.tmb-1200v.jpg?sfvrsn=4c0930f3_6",
           "mime_type": "image/jpeg"
         }
       ],
@@ -191,7 +191,7 @@
       "content_text": "Despite the addition of more than one billion motor-vehicles to the world’s roads, road traffic deaths declined by 21% between 2011 and 2025, according to new data released by the World Health Organization (WHO).",
       "attachments": [
         {
-          "url": "https://cdn.who.int/media/images/default-source/topics/populations-demographics-human-behaviour-and-injuries/road-traffic/bloomberg-initiative-for-global-road-safety.tmb-1200v.jpg?sfvrsn=254cb8e9_3",
+          "url": "https://cdn.who.int/media/images/default-source/topics/populations-demographics-human-behaviour-and-injuries/road-traffic/bloomberg-initiative-for-global-road-safety.tmb-1200v.jpg?sfvrsn=254cb8e9_5",
           "mime_type": "image/jpeg"
         }
       ],

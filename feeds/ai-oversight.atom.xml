@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai-oversight.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai-oversight</id>
-  <updated>Wed, 22 Jul 2026 14:46:32 +0000</updated>
+  <updated>Wed, 22 Jul 2026 20:07:18 +0000</updated>
   <entry>
     <title>NIST Receives New Patent for Microbe-Killing Water Heater</title>
     <link href="https://www.nist.gov/news-events/news/2026/07/nist-receives-new-patent-microbe-killing-water-heater"/>
@@ -200,6 +200,12 @@ We think these posts will be useful to readers who are interested in digging int
     <updated>Fri, 18 Oct 2024 15:46:02 +0000</updated>
   </entry>
   <entry>
+    <title>The Economics of Recursive Self-Improvement</title>
+    <link href="https://metr.org/notes/2026-07-22-economics-of-recursive-self-improvement/"/>
+    <id>https://metr.org/notes/2026-07-22-economics-of-recursive-self-improvement/</id>
+    <summary type="text">Parker Whitfill and Tom Cunningham highlight context and takeaways from a new paper modeling how AI may accelerate AI R&amp;D, and whether feedback effects could be strong enough for self-sustaining acceleration.</summary>
+  </entry>
+  <entry>
     <title>Expenditure Horizon: Measuring Optimization Ability, with an Application to NanoGPT</title>
     <link href="https://metr.org/blog/2026-07-21-expenditure-horizon/"/>
     <id>https://metr.org/blog/2026-07-21-expenditure-horizon/</id>
@@ -252,11 +258,5 @@ We think these posts will be useful to readers who are interested in digging int
     <link href="https://metr.org/blog/2026-05-08-rd-section-anthropic-risk-report-feb-2026-review/"/>
     <id>https://metr.org/blog/2026-05-08-rd-section-anthropic-risk-report-feb-2026-review/</id>
     <summary type="text">External review from METR of the &quot;Risks from automated R&amp;D&quot; section in Anthropic&#x27;s February 2026 Risk Report</summary>
-  </entry>
-  <entry>
-    <title>Evidence on AI R&amp;D Progress from NanoGPT</title>
-    <link href="https://metr.org/notes/2026-04-21-ai-rd-nanogpt-progress/"/>
-    <id>https://metr.org/notes/2026-04-21-ai-rd-nanogpt-progress/</id>
-    <summary type="text">Classifying human and agent contributions to the NanoGPT speedrun, and what publicly tracked challenges can tell us about AI R&amp;D acceleration.</summary>
   </entry>
 </feed>

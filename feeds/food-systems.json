@@ -5,10 +5,19 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/food-systems.json",
   "items": [
     {
-      "id": "http://www.nass.usda.gov/Publications/Todays_Reports/reports/prog2926.pdf",
-      "url": "http://www.nass.usda.gov/Publications/Todays_Reports/reports/prog2926.pdf",
-      "title": "Prog2926.Pdf",
-      "content_text": "Prog2926.Pdf",
+      "id": "http://www.nass.usda.gov/Publications/Todays_Reports/reports/mkpr0726.pdf",
+      "url": "http://www.nass.usda.gov/Publications/Todays_Reports/reports/mkpr0726.pdf",
+      "title": "Mkpr0726.Pdf",
+      "content_text": "Mkpr0726.Pdf",
+      "tags": [
+        "food-systems"
+      ]
+    },
+    {
+      "id": "http://www.nass.usda.gov/Publications/Todays_Reports/reports/brls2926.pdf",
+      "url": "http://www.nass.usda.gov/Publications/Todays_Reports/reports/brls2926.pdf",
+      "title": "Brls2926.Pdf",
+      "content_text": "Brls2926.Pdf",
       "tags": [
         "food-systems"
       ]

@@ -4,7 +4,14 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.atom.xml"/>
   <id>urn:4thwaveai-feeds:videos</id>
-  <updated>Wed, 22 Jul 2026 14:47:18 +0000</updated>
+  <updated>Wed, 22 Jul 2026 20:08:19 +0000</updated>
+  <entry>
+    <title>Join the Jam on Proxima b - NASA Science</title>
+    <link href="https://science.nasa.gov/resource/join-the-jam-on-proxima-b/"/>
+    <id>https://science.nasa.gov/resource/join-the-jam-on-proxima-b/</id>
+    <summary type="text">Tidally Locked and Ready to Rock! Only 4.2 Light-Years From Earth! It&#x27;s always golden hour at the Perpetual Sunset Stadium on Proxima Centauri b. This planet</summary>
+    <updated>Wed, 22 Jul 2026 12:23:50 -0400</updated>
+  </entry>
   <entry>
     <title>NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework</title>
     <link href="https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/"/>
@@ -18,13 +25,6 @@
     <id>https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/</id>
     <summary type="text">Brown carbon, emitted by wildland fires and tracked over the span of a week in July 2026, worsened air quality in parts of the U.S. and Canada.</summary>
     <updated>Wed, 22 Jul 2026 00:00:00 -0400</updated>
-  </entry>
-  <entry>
-    <title>NASA Langley Celebrates Community through Music with ‘Symphony Under the Stars’ Event  - NASA</title>
-    <link href="https://www.nasa.gov/general/nasa-langley-celebrates-community-through-music-with-symphony-under-the-stars-event/"/>
-    <id>https://www.nasa.gov/general/nasa-langley-celebrates-community-through-music-with-symphony-under-the-stars-event/</id>
-    <summary type="text">NASA Langley’s “Stars, Stripes, and Supernovas – Symphony Under the Stars” event brought employees, families, and community members together for an</summary>
-    <updated>Tue, 21 Jul 2026 14:00:43 -0400</updated>
   </entry>
   <entry>
     <title>At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI</title>
@@ -60,13 +60,6 @@
     <id>https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/</id>
     <summary type="text">Developers building video analytics applications across large spaces must track the same object as it moves between camera views. Single-camera 2D tracking lacks reliable depth information and…</summary>
     <updated>Wed, 15 Jul 2026 23:00:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry</title>
-    <link href="https://blogs.nvidia.com/blog/japan-ecosystem-2026/"/>
-    <id>https://blogs.nvidia.com/blog/japan-ecosystem-2026/</id>
-    <summary type="text">NVIDIA and its partners in Japan are this week showcasing the AI ecosystem&#x27;s latest advancements. Check back here for updates.</summary>
-    <updated>Wed, 15 Jul 2026 10:51:37 +0000</updated>
   </entry>
   <entry>
     <title>AI in Indian Education: Atal Innovation Mission and Google launch ATL Saathi</title>
@@ -151,13 +144,6 @@
     <id>https://meshtastic.org/blog/meshtastic-2-7-preview/</id>
     <summary type="text">Meshtastic 2.7 is here with a complete redesign of the standard UI, Introducing BaseUI! New input support on native linux, and the ability to switch between UIs on supported hardware.</summary>
     <updated>Sat, 21 Jun 2025 07:30:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>Everything you need to know about Amazon Business and how it helps 11 million organizations save time and money</title>
-    <link href="https://www.aboutamazon.com/news/company-news/what-is-amazon-business"/>
-    <id>https://www.aboutamazon.com/news/company-news/what-is-amazon-business</id>
-    <summary type="text">Amazon Business drives over $60 billion in annualized gross sales, helping more than 11 million organizations worldwide simplify business buying. Here&#x27;s what it is and how it works.</summary>
-    <updated>Thu, 13 Apr 2023 11:55:00 +0000</updated>
   </entry>
   <entry>
     <title>Introducing Helix 02: Full-Body Autonomy</title>
@@ -271,7 +257,7 @@
     <title>Road to VR</title>
     <link href="https://www.roadtovr.com/feed/"/>
     <id>https://www.roadtovr.com/feed/</id>
-    <summary type="text">Meta announced it’s partnering with Microsoft to bring a “starter edition” of its cloud-based XBOX Game Pass to Horizon+, Meta’s own VR game subscription service. In the coming weeks, Meta also says it’s pushing out Xbox gamepad emulation for Quest’s Touch controllers too. The News The new Xbox Game Pass addition brings a library of 50+ […]</summary>
+    <summary type="text">Samsung today teased a new slate of smart glasses designs, which includes two new frames from eyewear partners Gentle Monster and Warby Parker. The News When Samsung and Google finally unveiled their jointly-developed smart glasses at Google I/O in May, US-based Warby Parker and South Korean eyewear brand Gentle Monster showed off their initial designs, […]</summary>
   </entry>
   <entry>
     <title>Latest Meta Company News | Meta Newsroom</title>
@@ -390,5 +376,17 @@ Through world-renowned Meetings, peer-reviewed journals, webinars, workshops, ad
     <link href="https://aspire.usu.edu/from-vacuum-to-lab-a-students-journey-towards-real-world-application/"/>
     <id>https://aspire.usu.edu/from-vacuum-to-lab-a-students-journey-towards-real-world-application/</id>
     <summary type="text">In the classroom, students have the opportunity to learn and practice specific concepts in a controlled situation, sometimes referred to as a vacuum. Yet in the real-world, many concepts and skills must be considered simultaneously to arrive at a solution. Whitney Walpole, a mechanical engineering student at ASPIRE, is discovering what it takes to answer real-world questions.</summary>
+  </entry>
+  <entry>
+    <title>From Student to Alumni: Software Engineer Makes a Real-World Impact at ASPIRE – ASPIRE Research Center</title>
+    <link href="https://aspire.usu.edu/from-student-to-alumni-software-engineer-makes-a-real-world-impact-at-aspire/"/>
+    <id>https://aspire.usu.edu/from-student-to-alumni-software-engineer-makes-a-real-world-impact-at-aspire/</id>
+    <summary type="text">Managing a fleet of electric buses requires tracking not only the buses but also the electric vehicle chargers themselves in order to track overall purchasing and maintenance costs and power loads. With so many moving parts, this can be difficult and time consuming to do. However, Max Ramsdell, a software engineer at ASPIRE, led a team to find a way to make it easier for electric fleets.</summary>
+  </entry>
+  <entry>
+    <title>Prepping the Future Workforce: ASPIRE’s High School Internships – ASPIRE Research Center</title>
+    <link href="https://aspire.usu.edu/prepping-the-future-workforce-aspires-high-school-internships/"/>
+    <id>https://aspire.usu.edu/prepping-the-future-workforce-aspires-high-school-internships/</id>
+    <summary type="text">What should I study? What career do I want to pursue?</summary>
   </entry>
 </feed>

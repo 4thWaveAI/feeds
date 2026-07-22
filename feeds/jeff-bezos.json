@@ -20,6 +20,21 @@
       ]
     },
     {
+      "id": "https://www.aboutamazon.com/news/entertainment/prime-video-top-10-movies-shows",
+      "url": "https://www.aboutamazon.com/news/entertainment/prime-video-top-10-movies-shows",
+      "title": "Top 10 Original films and series on Prime Video: See the weekly rankings",
+      "content_text": "From action-packed films to buzzy series, here are the Original titles Prime Video members watched most from July 13-19.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/661e5bb/2147483647/strip/true/crop/2000x1000+0+125/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fb7%2F3f%2F671e07e44267a8a3b0fd3db4174c%2Fprime-video-weekly-top-10-amazon-news-nb-07-22-26.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/entertainment/masters-of-the-universe-movie-amazon-mgm-studios",
       "url": "https://www.aboutamazon.com/news/entertainment/masters-of-the-universe-movie-amazon-mgm-studios",
       "title": "How to watch the 'Masters of the Universe' movie, streaming now on Prime Video",
@@ -84,18 +99,14 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/company-news/what-is-amazon-business",
-      "url": "https://www.aboutamazon.com/news/company-news/what-is-amazon-business",
-      "title": "Everything you need to know about Amazon Business and how it helps 11 million organizations save time and money",
-      "content_text": "Amazon Business drives over $60 billion in annualized gross sales, helping more than 11 million organizations worldwide simplify business buying. Here's what it is and how it works.",
+      "id": "https://www.aboutamazon.com/news/entertainment",
+      "url": "https://www.aboutamazon.com/news/entertainment",
+      "title": "Entertainment",
+      "content_text": "Stories about the latest apps and games, movies, TV shows, and music available from Amazon Prime Video, Amazon Music, and Kindle.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/eb7fa64/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ffc%2F64%2Feeadb2c24a4e899970723ce55e98%2Famazon-business-still.jpg",
+          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
           "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/Yl0wwa1Tzo4?enablejsapi=1",
-          "mime_type": "video/mp4"
         }
       ],
       "tags": [
@@ -103,10 +114,10 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/entertainment",
-      "url": "https://www.aboutamazon.com/news/entertainment",
-      "title": "Entertainment",
-      "content_text": "Stories about the latest apps and games, movies, TV shows, and music available from Amazon Prime Video, Amazon Music, and Kindle.",
+      "id": "https://www.aboutamazon.com/news/company-news",
+      "url": "https://www.aboutamazon.com/news/company-news",
+      "title": "Company news",
+      "content_text": "News and information about Amazon, Inc.",
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
@@ -137,21 +148,6 @@
       "url": "https://www.aboutamazon.com/news/retail",
       "title": "Retail",
       "content_text": "More information about shopping on Amazon and our selection of products and services.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/company-news",
-      "url": "https://www.aboutamazon.com/news/company-news",
-      "title": "Company news",
-      "content_text": "News and information about Amazon, Inc.",
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",

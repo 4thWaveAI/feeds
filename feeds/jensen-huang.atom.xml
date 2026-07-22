@@ -4,7 +4,14 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/jensen-huang.atom.xml"/>
   <id>urn:4thwaveai-feeds:jensen-huang</id>
-  <updated>Wed, 22 Jul 2026 14:31:15 +0000</updated>
+  <updated>Wed, 22 Jul 2026 19:51:53 +0000</updated>
+  <entry>
+    <title>NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework</title>
+    <link href="https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/"/>
+    <id>https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/</id>
+    <summary type="text">Medical device leaders are already building on NVIDIA’s new Medical Physics Simulation framework — giving surgical robots the virtual experience they need before interacting with patients.</summary>
+    <updated>Wed, 22 Jul 2026 13:00:11 +0000</updated>
+  </entry>
   <entry>
     <title>Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems</title>
     <link href="https://blogs.nvidia.com/blog/wistron-manufacturing-texas/"/>
@@ -49,24 +56,18 @@
     <title>AI Archives</title>
     <link href="https://blogs.nvidia.com/blog/category/generative-ai/"/>
     <id>https://blogs.nvidia.com/blog/category/generative-ai/</id>
-    <summary type="text">From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics....</summary>
+    <summary type="text">Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend,...</summary>
   </entry>
   <entry>
     <title>AI Infrastructure Archives</title>
     <link href="https://blogs.nvidia.com/blog/category/enterprise/"/>
     <id>https://blogs.nvidia.com/blog/category/enterprise/</id>
-    <summary type="text">Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building...</summary>
+    <summary type="text">Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend,...</summary>
   </entry>
   <entry>
     <title>Networking Archives</title>
     <link href="https://blogs.nvidia.com/blog/category/enterprise/intelligent-networking/"/>
     <id>https://blogs.nvidia.com/blog/category/enterprise/intelligent-networking/</id>
     <summary type="text">AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier...</summary>
-  </entry>
-  <entry>
-    <title>Supercomputing Archives</title>
-    <link href="https://blogs.nvidia.com/blog/category/enterprise/supercomputing/"/>
-    <id>https://blogs.nvidia.com/blog/category/enterprise/supercomputing/</id>
-    <summary type="text">Erin Davis calls it the “SuperDuperPOD.” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI...</summary>
   </entry>
 </feed>

@@ -5,6 +5,25 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.json",
   "items": [
     {
+      "id": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
+      "url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
+      "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
+      "content_text": "Medical device leaders are already building on NVIDIA’s new Medical Physics Simulation framework — giving surgical robots the virtual experience they need before interacting with patients.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/medical-physica-simulation.png",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/catheter_2_v4.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/entertainment/lily-allen-documentary-prime-video",
       "url": "https://www.aboutamazon.com/news/entertainment/lily-allen-documentary-prime-video",
       "title": "Prime Video announces Lily Allen documentary, coming to streaming in 2027",
@@ -223,6 +242,21 @@
       ]
     },
     {
+      "id": "https://www.aboutamazon.com/news/entertainment/prime-video-top-10-movies-shows",
+      "url": "https://www.aboutamazon.com/news/entertainment/prime-video-top-10-movies-shows",
+      "title": "Top 10 Original films and series on Prime Video: See the weekly rankings",
+      "content_text": "From action-packed films to buzzy series, here are the Original titles Prime Video members watched most from July 13-19.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/661e5bb/2147483647/strip/true/crop/2000x1000+0+125/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fb7%2F3f%2F671e07e44267a8a3b0fd3db4174c%2Fprime-video-weekly-top-10-amazon-news-nb-07-22-26.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
       "id": "https://www.aboutamazon.com/news/entertainment/masters-of-the-universe-movie-amazon-mgm-studios",
       "url": "https://www.aboutamazon.com/news/entertainment/masters-of-the-universe-movie-amazon-mgm-studios",
       "title": "How to watch the 'Masters of the Universe' movie, streaming now on Prime Video",
@@ -336,25 +370,6 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/company-news/what-is-amazon-business",
-      "url": "https://www.aboutamazon.com/news/company-news/what-is-amazon-business",
-      "title": "Everything you need to know about Amazon Business and how it helps 11 million organizations save time and money",
-      "content_text": "Amazon Business drives over $60 billion in annualized gross sales, helping more than 11 million organizations worldwide simplify business buying. Here's what it is and how it works.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/eb7fa64/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ffc%2F64%2Feeadb2c24a4e899970723ce55e98%2Famazon-business-still.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/Yl0wwa1Tzo4?enablejsapi=1",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
       "id": "https://nvidianews.nvidia.com/news/nvidia-agent-toolkit-expands-with-new-omniverse-libraries-putting-ai-agents-to-work-building-simulation-ready-worlds",
       "url": "https://nvidianews.nvidia.com/news/nvidia-agent-toolkit-expands-with-new-omniverse-libraries-putting-ai-agents-to-work-building-simulation-ready-worlds",
       "title": "NVIDIA Agent Toolkit Expands With New Omniverse Libraries, Putting AI Agents to Work Building Simulation-Ready Worlds",
@@ -388,7 +403,7 @@
       "id": "https://blogs.nvidia.com/blog/category/generative-ai/",
       "url": "https://blogs.nvidia.com/blog/category/generative-ai/",
       "title": "AI Archives",
-      "content_text": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics....",
+      "content_text": "Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend,...",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2026/03/nvidia-kv-2026-ari.jpg",
@@ -403,7 +418,7 @@
       "id": "https://blogs.nvidia.com/blog/category/enterprise/",
       "url": "https://blogs.nvidia.com/blog/category/enterprise/",
       "title": "AI Infrastructure Archives",
-      "content_text": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building...",
+      "content_text": "Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend,...",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2026/03/nvidia-kv-2026-ari.jpg",
@@ -419,21 +434,6 @@
       "url": "https://blogs.nvidia.com/blog/category/enterprise/intelligent-networking/",
       "title": "Networking Archives",
       "content_text": "AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier...",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/03/nvidia-kv-2026-ari.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jensen-huang"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/category/enterprise/supercomputing/",
-      "url": "https://blogs.nvidia.com/blog/category/enterprise/supercomputing/",
-      "title": "Supercomputing Archives",
-      "content_text": "Erin Davis calls it the “SuperDuperPOD.” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI...",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2026/03/nvidia-kv-2026-ari.jpg",
@@ -754,7 +754,7 @@
       "content_text": "The official source for news about Apple, from Apple. Read press releases, get updates, watch video and download images.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202607210140=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202607202327=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -769,7 +769,7 @@
       "content_text": "The source for news about Apple Services. Get updates on the latest Apple Arcade games, Apple Originals on TV+, Podcasts, Books, and more from Apple Newsroom.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1784598071362=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1784590671803=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -784,7 +784,7 @@
       "content_text": "Discover more stories from Apple Newsroom that showcase the creators, developers, and innovators leaving the world better than they found it.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1784590218182=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1784590025777=",
           "mime_type": "image/jpeg"
         }
       ],

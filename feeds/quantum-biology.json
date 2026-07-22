@@ -485,6 +485,15 @@
       ]
     },
     {
+      "id": "https://www.nature.com/articles/s41467-026-75821-z",
+      "url": "https://www.nature.com/articles/s41467-026-75821-z",
+      "title": "Membrane remodeling by the collective action of caveolin-1 - Nature Communications",
+      "content_text": "Caveolin-1 proteins scaffold invaginations in the plasma membrane, but the underlying biophysical mechanisms remain poorly understood. Here, authors develop a coarse-grained simulation model to show how membrane remodeling emerges from the collective action of multiple caveolin-1 complexes.",
+      "tags": [
+        "quantum-biology"
+      ]
+    },
+    {
       "id": "https://www.nature.com/articles/s41467-026-75806-y",
       "url": "https://www.nature.com/articles/s41467-026-75806-y",
       "title": "Cryo-EM insights into isoform-specific properties of the IP3R2 channel - Nature Communications",
@@ -498,6 +507,15 @@
       "url": "https://www.nature.com/articles/s41467-026-75444-4",
       "title": "Structural insights enable drug discovery for the neuronal NBCn2 carbonate transporter - Nature Communications",
       "content_text": "In this work, researchers elucidate sodium and carbonate binding at the NBCn2 transporter through cryoEM, and further develop NBCn2 inhibitors that reduce neuronal activity in primary culture and brain slices using structure-based drug discovery.",
+      "tags": [
+        "quantum-biology"
+      ]
+    },
+    {
+      "id": "https://www.nature.com/articles/s41467-026-75892-y",
+      "url": "https://www.nature.com/articles/s41467-026-75892-y",
+      "title": "Molecular rotors reveal the 3D viscous habitat of mucus-colonizing bacteria - Nature Communications",
+      "content_text": "Authors quantify the 3D viscous structure of undisturbed mucus and associated bacteria using molecular rotors. Diatom aggregates and the mucus layer of a jellyfish ephyra show distinct viscous morphologies and bacterial colonization patterns.",
       "tags": [
         "quantum-biology"
       ]
@@ -563,29 +581,14 @@
       ]
     },
     {
-      "id": "https://www.nature.com/articles/s41467-026-75392-z",
-      "url": "https://www.nature.com/articles/s41467-026-75392-z",
-      "title": "Comprehensive biophysical and structural profiling of alpha-actinin-2 variants reveals mechanistic diversity in hypertrophic cardiomyopathy - Nature Communications",
-      "content_text": "Inherited cardiac conditions are linked to genetic misspellings (or&nbsp;variants) in essential heart proteins such as alpha-actinin-2. Here, the authors uncover mechanistic diversity by which distinct genetic variants may drive disease, using a comprehensive range of structural analyses.",
+      "id": "https://www.nature.com/articles/d41586-026-02219-8",
+      "url": "https://www.nature.com/articles/d41586-026-02219-8",
+      "title": "How do quantum computers work?",
+      "content_text": "Recent breakthroughs suggest usable devices could be here in a decade.",
       "attachments": [
         {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-75392-z/MediaObjects/41467_2026_75392_Fig1_HTML.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "quantum-biology"
-      ]
-    },
-    {
-      "id": "https://www.nature.com/articles/s41467-026-74809-z",
-      "url": "https://www.nature.com/articles/s41467-026-74809-z",
-      "title": "Leiomodin 2 is a processive pointed-end elongator of actin filaments - Nature Communications",
-      "content_text": "This study identifies the cardiac protein Leiomodin 2 as an actin filament polymerase that enables growth from filament pointed ends, revealing how muscle actin filament length is controlled and how Lmod2 mutations may cause dilated cardiomyopathy.",
-      "attachments": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-74809-z/MediaObjects/41467_2026_74809_Fig1_HTML.png",
-          "mime_type": "image/png"
+          "url": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02219-8/d41586-026-02219-8_52970478.jpg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -711,15 +714,6 @@
           "mime_type": "image/png"
         }
       ],
-      "tags": [
-        "quantum-biology"
-      ]
-    },
-    {
-      "id": "https://www.nature.com/articles/s42005-026-02746-w",
-      "url": "https://www.nature.com/articles/s42005-026-02746-w",
-      "title": "Nonlinear tripartite coupling of trapped electrons with magnons in a hybrid quantum system - Communications Physics",
-      "content_text": "Coherent many-body interactions bring the quantum nature that is key to exploring quantum applications with multipartite entanglement. This work studies a nonlinear tripartite coupling mechanism in a hybrid quantum system, which provides an experimentally promising and reliable platform for manipulating few-body entangled quantum states.",
       "tags": [
         "quantum-biology"
       ]

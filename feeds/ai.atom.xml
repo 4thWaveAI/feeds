@@ -4,7 +4,14 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai</id>
-  <updated>Wed, 22 Jul 2026 14:27:02 +0000</updated>
+  <updated>Wed, 22 Jul 2026 19:48:39 +0000</updated>
+  <entry>
+    <title>Make Long-Running NVIDIA TensorRT Engine Builds Observable and Cancelable in Python or C++ | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/"/>
+    <id>https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/</id>
+    <summary type="text">A TensorRT engine build can take seconds to many minutes. Large strongly typed models, deep tactic search, and a cold timing cache on a brand-new GPU SKU can leave developers, end users…</summary>
+    <updated>Wed, 22 Jul 2026 16:35:04 +0000</updated>
+  </entry>
   <entry>
     <title>NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework</title>
     <link href="https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/"/>
@@ -48,6 +55,13 @@
     <updated>Tue, 21 Jul 2026 15:00:20 +0000</updated>
   </entry>
   <entry>
+    <title>Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/"/>
+    <id>https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/</id>
+    <summary type="text">What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale. These factories are now tasked with…</summary>
+    <updated>Tue, 21 Jul 2026 15:00:00 +0000</updated>
+  </entry>
+  <entry>
     <title>NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI | NVIDIA Technical Blog</title>
     <link href="https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/"/>
     <id>https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/</id>
@@ -59,13 +73,6 @@
     <link href="https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/"/>
     <id>https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/</id>
     <summary type="text">Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token falls…</summary>
-    <updated>Tue, 21 Jul 2026 15:00:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/"/>
-    <id>https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/</id>
-    <summary type="text">What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale. These factories are now tasked with…</summary>
     <updated>Tue, 21 Jul 2026 15:00:00 +0000</updated>
   </entry>
   <entry>
@@ -167,20 +174,6 @@
     <updated>Wed, 15 Jul 2026 23:00:00 +0000</updated>
   </entry>
   <entry>
-    <title>Develop Lightweight USD Runtimes Faster with AI Agents | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents/"/>
-    <id>https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents/</id>
-    <summary type="text">OpenUSD is an open, extensible framework that provides a common scene description language for physical AI. It enables teams to bring CAD data, simulation assets, and real-world telemetry into a…</summary>
-    <updated>Wed, 15 Jul 2026 21:57:23 +0000</updated>
-  </entry>
-  <entry>
-    <title>NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry</title>
-    <link href="https://blogs.nvidia.com/blog/japan-ecosystem-2026/"/>
-    <id>https://blogs.nvidia.com/blog/japan-ecosystem-2026/</id>
-    <summary type="text">NVIDIA and its partners in Japan are this week showcasing the AI ecosystem&#x27;s latest advancements. Check back here for updates.</summary>
-    <updated>Wed, 15 Jul 2026 10:51:37 +0000</updated>
-  </entry>
-  <entry>
     <title>AI in Indian Education: Atal Innovation Mission and Google launch ATL Saathi</title>
     <link href="https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/"/>
     <id>https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/</id>
@@ -249,6 +242,13 @@
     <id>https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/</id>
     <summary type="text">We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.</summary>
     <updated>Tue, 07 Jul 2026 00:00:00 -0000</updated>
+  </entry>
+  <entry>
+    <title>NVIDIA and Partners Build in America, for America</title>
+    <link href="https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/"/>
+    <id>https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/</id>
+    <summary type="text">NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.</summary>
+    <updated>Wed, 01 Jul 2026 13:00:47 +0000</updated>
   </entry>
   <entry>
     <title>The latest AI news we announced in June 2026</title>

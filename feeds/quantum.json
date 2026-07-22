@@ -230,6 +230,21 @@
       ]
     },
     {
+      "id": "https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai",
+      "url": "https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai",
+      "title": "IBM commits $50M in quantum access for US Genesis Mission",
+      "content_text": "An IBM project was also selected to accelerate AI-driven scientific discovery.",
+      "attachments": [
+        {
+          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2FIBM_Quantum_System_Two_leadspace_2520_x1418_1fcc44a0d1.jpg&w=1200&q=75",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
       "id": "https://research.ibm.com/blog/code-alchemy-for-synthetic-code",
       "url": "https://research.ibm.com/blog/code-alchemy-for-synthetic-code",
       "title": "This could be the largest synthetic code dataset yet",
@@ -242,21 +257,6 @@
         {
           "url": "https://d35x6597f7j1wm.cloudfront.net/blog_Art_ICA_art_d82b7c8a89.mp4",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "quantum"
-      ]
-    },
-    {
-      "id": "https://research.ibm.com/blog/cofrgenets-replace-the-bones-of-transformer-based-models",
-      "url": "https://research.ibm.com/blog/cofrgenets-replace-the-bones-of-transformer-based-models",
-      "title": "CoFrGeNets replace the ‘bones’ of transformer-based models",
-      "content_text": "This new approach, a practical and conceptual shift, points to lighter-weight generative AI models that perform competitively, and in many cases even better.",
-      "attachments": [
-        {
-          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fblog_Art_Co_Fr_Ge_Net_98d3eaa9df.png&w=1200&q=85",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -302,6 +302,21 @@
         {
           "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/Qiskit_v2_5_Blog_Image_2_2e6e0c50ac.png",
           "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://research.ibm.com/blog/cofrgenets-replace-the-bones-of-transformer-based-models",
+      "url": "https://research.ibm.com/blog/cofrgenets-replace-the-bones-of-transformer-based-models",
+      "title": "CoFrGeNets replace the ‘bones’ of transformer-based models",
+      "content_text": "This new approach, a practical and conceptual shift, points to lighter-weight generative AI models that perform competitively, and in many cases even better.",
+      "attachments": [
+        {
+          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fblog_Art_Co_Fr_Ge_Net_98d3eaa9df.png&w=1200&q=85",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -366,21 +381,6 @@
         {
           "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fblog_Art_ponder_This_July_1_c8c93dbda7.png&w=1200&q=85",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "quantum"
-      ]
-    },
-    {
-      "id": "https://research.ibm.com/blog/qdc-application-2026",
-      "url": "https://research.ibm.com/blog/qdc-application-2026",
-      "title": "Apply to IBM Quantum Developer Conference 2026 | IBM Quantum Computing Blog",
-      "content_text": "Get an exclusive look at the breakthroughs, tools, and workflows shaping the path to quantum advantage.",
-      "attachments": [
-        {
-          "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/QDC_26_Announcement_0bd80c541e.gif",
-          "mime_type": "image/gif"
         }
       ],
       "tags": [

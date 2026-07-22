@@ -5,6 +5,36 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/gsel-esports-ai.json",
   "items": [
     {
+      "id": "https://esports.gg/news/league-of-legends/faker-youth-cyber-gambling-awareness-ambassador/",
+      "url": "https://esports.gg/news/league-of-legends/faker-youth-cyber-gambling-awareness-ambassador/",
+      "title": "Faker named Youth Cyber Gambling Awareness Ambassador by Korean National Police Agency",
+      "content_text": "Faker will front a nationwide campaign in South Korea, encouraging young people struggling with cyber gambling to seek help.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/07/Faker-Police-.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/gaming/blizzcon-2026-brings-new-skins-mounts-and-more-to-your-favorite-blizzard-games/",
+      "url": "https://esports.gg/news/gaming/blizzcon-2026-brings-new-skins-mounts-and-more-to-your-favorite-blizzard-games/",
+      "title": "BlizzCon 2026 bundles bring new skins, mounts, and more to your favorite Blizzard games",
+      "content_text": "Here's everything to know about the BlizzCon Ultimate Collection and new digital bundles! We also go over what to expect at BlizzCon 2026 itself.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/07/01-BLIZZCON-BUNDLES-1920X1080.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
       "id": "https://esports.gg/news/mobile-legends-bang-bang/msc-2026-ewc-schedule-results-livestream/",
       "url": "https://esports.gg/news/mobile-legends-bang-bang/msc-2026-ewc-schedule-results-livestream/",
       "title": "MSC 2026 Esports World Cup: Format, schedule, results, and more",
@@ -125,36 +155,6 @@
       ]
     },
     {
-      "id": "https://esports.gg/news/fatal-fury-city-wolves-season-3-new-fighters/",
-      "url": "https://esports.gg/news/fatal-fury-city-wolves-season-3-new-fighters/",
-      "title": "Fatal Fury: City of the Wolves Season 3 has six new fighters — and a character identity crisis",
-      "content_text": "SNK unveiled a relentless Season 3 schedule for Fatal Fury: City of the Wolves, but a growing chorus of competitive players argues that more characters won't fix the game's \"sauce\" problem.",
-      "attachments": [
-        {
-          "url": "https://media.esports.gg/uploads/2026/07/fatal-fury-city-of-the-wolves-season-3-has-six-new-fighters-1.avif",
-          "mime_type": "image/avif"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
-      "id": "https://esports.gg/news/overwatch/new-overwatch-lucio-skin-enters-heroes-of-the-storm/",
-      "url": "https://esports.gg/news/overwatch/new-overwatch-lucio-skin-enters-heroes-of-the-storm/",
-      "title": "New Overwatch Lucio skin enters Heroes of the Storm!",
-      "content_text": "The Ruby Chromesthesia Lucio skin can now be unlocked in Heroes of the Storm. The patch also introduces the mighty Slapathur ability!",
-      "attachments": [
-        {
-          "url": "https://media.esports.gg/uploads/2026/07/overwatch-lucio-skin-heroes-of-the-storm-2026-article-by-esportsgg-screenshots-by-esportsgg-ruby-Cchromesthesia-lucio-july-2026-heroes-of-the-storm-patch-notes-5.avif",
-          "mime_type": "image/avif"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
       "id": "https://esportsinsider.com/2026/07/fatal-fury-dlc-schedule-sauce-debate",
       "url": "https://esportsinsider.com/2026/07/fatal-fury-dlc-schedule-sauce-debate",
       "title": "Fatal Fury: City of the Wolves has an insane DLC schedule, but it may not be enough to bring the sauce",
@@ -163,21 +163,6 @@
         {
           "url": "https://esportsinsider.com/wp-content/uploads/2026/07/fatal-fury-city-of-the-wolves-kenshiro.webp",
           "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
-      "id": "https://esports.gg/news/fortnite/fortnite-obsession-skins/",
-      "url": "https://esports.gg/news/fortnite/fortnite-obsession-skins/",
-      "title": "Fortnite's latest Sprite trailer features an 'Obsession' crossover – could skins be next?",
-      "content_text": "Fortnite skins based on the film Obsession have become a real possibility following a recent collaboration with the film!",
-      "attachments": [
-        {
-          "url": "https://media.esports.gg/uploads/2026/07/FN-Obsession.avif",
-          "mime_type": "image/avif"
         }
       ],
       "tags": [
@@ -293,7 +278,16 @@
       "id": "https://esports.gg/news/",
       "url": "https://esports.gg/news/",
       "title": "News Archives",
-      "content_text": "Here is a complete guide to MSC 2026 at the Esports World Cup, including match results, schedules, and key information.",
+      "content_text": "Faker will front a nationwide campaign in South Korea, encouraging young people struggling with cyber gambling to seek help.",
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/page/2/",
+      "url": "https://esports.gg/news/page/2/",
+      "title": "News Archives",
+      "content_text": "Team Vitality wins a back-to-back MWI at EWC 2026 championship title after defeating NAVI PH in a six-round series.",
       "tags": [
         "gsel-esports-ai"
       ]

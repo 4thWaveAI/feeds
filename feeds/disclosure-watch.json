@@ -5,13 +5,28 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/disclosure-watch.json",
   "items": [
     {
-      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/gw-sig-seminar-23-july-2026/",
-      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/gw-sig-seminar-23-july-2026/",
-      "title": "GW SIG Seminar, 23 July 2026 - NASA Science",
-      "content_text": "GW SIG Seminar on LISA Preparatory Science and LISA Science Gaps. Speakers: Ira Thorpe, NASA LISA Project Scientist, and Ann Hornschemeier Cardiff, NASA LISA Deputy Project Scientist",
+      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/jwst-cycle-6-call-for-proposals/",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/jwst-cycle-6-call-for-proposals/",
+      "title": "JWST Cycle 6 Call for Proposals - NASA Science",
+      "content_text": "We are pleased to announce the Cycle 6 Call for Proposals for JWST General Observer (GO), Survey, and Archival Research (AR) programs. Proposals are due on 30 September 2026.",
       "attachments": [
         {
-          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/physics-of-the-cosmos/images/gwsig/ligo20160211d.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "url": "https://science.nasa.gov/wp-content/uploads/2023/10/NASA_logo-1.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/",
+      "url": "https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/",
+      "title": "Robotic Servicing Mission Launches with NASA Support - NASA",
+      "content_text": "Following its liftoff from Cape Canaveral on July 21 aboard a SpaceX Falcon 9 rocket, the Mission Robotic Vehicle (MRV) hosting the NASA-supported Robotic",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/20260721-cc-mrv-mep-curbh-img-0499.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -20,122 +35,17 @@
       ]
     },
     {
-      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xr-sig-seminar-24-july-2026/",
-      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xr-sig-seminar-24-july-2026/",
-      "title": "XR SIG Seminar, 24 July 2026 - NASA Science",
-      "content_text": "Hybrid CMOS Detectors for Future X-ray Missions. Speaker: Abraham D. Falcone, Penn State University. 1:00pm – 2:00pm ET",
+      "id": "https://science.nasa.gov/resource/join-the-jam-on-proxima-b/",
+      "url": "https://science.nasa.gov/resource/join-the-jam-on-proxima-b/",
+      "title": "Join the Jam on Proxima b - NASA Science",
+      "content_text": "Tidally Locked and Ready to Rock! Only 4.2 Light-Years From Earth! It's always golden hour at the Perpetual Sunset Stadium on Proxima Centauri b. This planet",
       "attachments": [
         {
-          "url": "https://assets.science.nasa.gov/content/dam/science/cds/svs/a010000/a013200/a013214/NICERNightMovesnolabels.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xr-sig-seminar-7-august-2026/",
-      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xr-sig-seminar-7-august-2026/",
-      "title": "XR SIG Seminar, 7 August 2026 - NASA Science",
-      "content_text": "A TDAMM Mission Concept Offered by the X-ray Timing Science Analysis Group: the Dynamic Extreme Universe in X-rays (DEUS-X) Machine",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/cds/svs/a010000/a013200/a013214/NICERNightMovesnolabels.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/habitable-worlds-observatory-sig-seminar-12-aug-2026/",
-      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/habitable-worlds-observatory-sig-seminar-12-aug-2026/",
-      "title": "Habitable Worlds Observatory SIG Seminar, 12 Aug 2026 - NASA Science",
-      "content_text": "Habitable Worlds Observatory SIG Seminar. Details TBA",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/cds/general/images/2023/07/jpegpia17999.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/ad-astra/",
-      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/ad-astra/",
-      "title": "Community Science (Ad ASTRA) Workshop, Sept 2026 - NASA Science",
-      "content_text": "1-3 September 2026. The Community Science (Ad ASTRA) Workshop is organized by the NASA Astrophysics Division.",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/physics-of-the-cosmos/images/misc/Westerlund-2-heic1509a.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/dgce-sig-seminar-23-july-2026/",
-      "url": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/dgce-sig-seminar-23-july-2026/",
-      "title": "DGCE SIG Seminar, 23 July 2026 - NASA Science",
-      "content_text": "From Micro to Macro: Connecting the Physics of Galaxy Formation Across Scales. Speaker: Drummond Fielding, New York University",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/cosmic-origins/images/dgce-sig/LH_95-DGCE.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/hwo-sig-seminar-12-august-2026/",
-      "url": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/hwo-sig-seminar-12-august-2026/",
-      "title": "HWO SIG Seminar, 12 August 2026 - NASA Science",
-      "content_text": "TBA",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/exep/resources/links/images/97_PIA17002.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ad-astra/",
-      "url": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ad-astra/",
-      "title": "Community Science (Ad ASTRA) Workshop, Sept 2026 - NASA Science",
-      "content_text": "1-3 September 2026. The Community Science (Ad ASTRA) Workshop is organized by the NASA Astrophysics Division to engage the community in defining future large, strategic astrophysics missions.",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/physics-of-the-cosmos/images/hubble/NGC%202174.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/",
-      "url": "https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/",
-      "title": "A Week of Smoky Skies Across North America - NASA Science",
-      "content_text": "Brown carbon, emitted by wildland fires and tracked over the span of a week in July 2026, worsened air quality in parts of the U.S. and Canada.",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-week-of-smoky-skies-across-north-america/nambrowncarbon_geos5_20260720_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/exo-explore/exoplanet-travel-bureau/proxima-b/Proxima_b_poster_image_only--no-border-5x4.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
           "mime_type": "image/jpeg"
         },
         {
-          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-week-of-smoky-skies-across-north-america/nambrowncarbon_geos5_20260720.mp4",
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/exo-explore/exoplanet-travel-bureau/proxima-b/PROXIMA-b_Poster_Flythru_001.mp4",
           "mime_type": "video/mp4"
         }
       ],
@@ -144,13 +54,103 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news-release/nasa-joins-genesis-mission-to-accelerate-ai-driven-discovery/",
-      "url": "https://www.nasa.gov/news-release/nasa-joins-genesis-mission-to-accelerate-ai-driven-discovery/",
-      "title": "NASA Joins Genesis Mission to Accelerate AI-Driven Discovery - NASA",
-      "content_text": "NASA is supporting the Genesis Mission, a national effort to drive the use of artificial intelligence in tackling complex scientific and engineering",
+      "id": "https://science.nasa.gov/photojournal/mapping-ios-hidden-heat-with-nasas-juno/",
+      "url": "https://science.nasa.gov/photojournal/mapping-ios-hidden-heat-with-nasas-juno/",
+      "title": "Mapping Io’s Hidden Heat With NASA’s Juno - NASA Science",
+      "content_text": "This graphic illustrates the areas of Jupiter’s moon Io sampled by the Microwave Radiometer (MWR) instrument aboard NASA’s Juno spacecraft during two close",
       "attachments": [
         {
-          "url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+          "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26757/PIA26757.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/photojournal/nasas-juno-peers-beneath-ios-surface/",
+      "url": "https://science.nasa.gov/photojournal/nasas-juno-peers-beneath-ios-surface/",
+      "title": "NASA’s Juno Peers Beneath Io’s Surface - NASA Science",
+      "content_text": "This map represents data captured by the Microwave Radiometer (MWR) aboard NASA’s Juno spacecraft, indicating heat rising from just beneath the surface of",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26756/PIA26756.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/",
+      "url": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/",
+      "title": "NASA to Showcase Agency’s Newest Wind Tunnel in Virginia - NASA",
+      "content_text": "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyfdrfjune2026-ba2289.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/07/22/weekend-departure-preps-continue-as-crew-works-science-spacesuits/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/07/22/weekend-departure-preps-continue-as-crew-works-science-spacesuits/",
+      "title": "Weekend Departure Preps Continue as Crew Works Science, Spacesuits - NASA",
+      "content_text": "Three Expedition 74 crew members are nearing the end of their stay aboard the International Space Station handing over mission responsibilities and packing up cargo for return to Earth. Science hardware, lab maintenance, and spacesuits kept the rest of the crew busy aboard the orbital outpost.",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/iss074e0814792/iss074e0814792~large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/people/darryl-gaines/",
+      "url": "https://www.nasa.gov/people/darryl-gaines/",
+      "title": "Darryl Gaines  - NASA",
+      "content_text": "Darryl Gaines currently serves as acting deputy director of the Exploration Architecture Integration and Science Directorate",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/darryl-gaines.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-chris-williams-crewmates-return/",
+      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-chris-williams-crewmates-return/",
+      "title": "NASA Sets Coverage for Astronaut Chris Williams, Crewmates Return - NASA",
+      "content_text": "NASA astronaut Chris Williams and Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev are wrapping up their 241‑day mission aboard the International",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/williams.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/image-article/a-new-look-and-sound-for-messier-94/",
+      "url": "https://www.nasa.gov/image-article/a-new-look-and-sound-for-messier-94/",
+      "title": "A New Look – and Sound – for Messier 94 - NASA",
+      "content_text": "NASA's Chandra X-ray Observatory unveiled this new look at the galaxy NGC 4736, also known as Messier 94, on June 30, 2026. Messier 94 is a spiral galaxy with",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/250th-ngc4736.jpg",
           "mime_type": "image/jpeg"
         }
       ],

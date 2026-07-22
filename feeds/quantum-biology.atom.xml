@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/quantum-biology.atom.xml"/>
   <id>urn:4thwaveai-feeds:quantum-biology</id>
-  <updated>Wed, 22 Jul 2026 14:45:41 +0000</updated>
+  <updated>Wed, 22 Jul 2026 20:06:25 +0000</updated>
   <entry>
     <title>2010 TSC Tucson ARIZONA</title>
     <link href="https://consciousness.arizona.edu/news/2010-tsc-tucson-arizona"/>
@@ -208,6 +208,12 @@
     <summary type="text">The capabilities of AI-assisted coding are progressing at breakneck speed. Chat-based vibe coding has evolved into fully fledged AI-assisted, agentic software development using agent scaffolds where the human developer creates a plan that agentic AIs implement. One current trend is utilizing documents beyond this plan document, such as project and method-scoped documents. Here we propose GROUNDING$.$md, a community-governed, field-scoped epistemic grounding document, using mass spectrometry-based proteomics as an example. We have drafted a file specific to proteomics: proteomics_GROUNDING$.$md (available at https://github.com/OmicsGrounding/proteomics-grounding) to demonstrate what a GROUNDING$.$md would look like. This explicit field-scoped grounding document encodes Hard Constraints (non</summary>
   </entry>
   <entry>
+    <title>Membrane remodeling by the collective action of caveolin-1 - Nature Communications</title>
+    <link href="https://www.nature.com/articles/s41467-026-75821-z"/>
+    <id>https://www.nature.com/articles/s41467-026-75821-z</id>
+    <summary type="text">Caveolin-1 proteins scaffold invaginations in the plasma membrane, but the underlying biophysical mechanisms remain poorly understood. Here, authors develop a coarse-grained simulation model to show how membrane remodeling emerges from the collective action of multiple caveolin-1 complexes.</summary>
+  </entry>
+  <entry>
     <title>Cryo-EM insights into isoform-specific properties of the IP3R2 channel - Nature Communications</title>
     <link href="https://www.nature.com/articles/s41467-026-75806-y"/>
     <id>https://www.nature.com/articles/s41467-026-75806-y</id>
@@ -218,6 +224,12 @@
     <link href="https://www.nature.com/articles/s41467-026-75444-4"/>
     <id>https://www.nature.com/articles/s41467-026-75444-4</id>
     <summary type="text">In this work, researchers elucidate sodium and carbonate binding at the NBCn2 transporter through cryoEM, and further develop NBCn2 inhibitors that reduce neuronal activity in primary culture and brain slices using structure-based drug discovery.</summary>
+  </entry>
+  <entry>
+    <title>Molecular rotors reveal the 3D viscous habitat of mucus-colonizing bacteria - Nature Communications</title>
+    <link href="https://www.nature.com/articles/s41467-026-75892-y"/>
+    <id>https://www.nature.com/articles/s41467-026-75892-y</id>
+    <summary type="text">Authors quantify the 3D viscous structure of undisturbed mucus and associated bacteria using molecular rotors. Diatom aggregates and the mucus layer of a jellyfish ephyra show distinct viscous morphologies and bacterial colonization patterns.</summary>
   </entry>
   <entry>
     <title>The bacterial mechanosensitive channel MscM gates through concerted changes in its transmembrane and cytoplasmic domains - Nature Communications</title>
@@ -256,16 +268,10 @@
     <summary type="text">npj Biological Timing and Sleep volume 3 ,  Article number: 32 ( 2026 ) Cite this article</summary>
   </entry>
   <entry>
-    <title>Comprehensive biophysical and structural profiling of alpha-actinin-2 variants reveals mechanistic diversity in hypertrophic cardiomyopathy - Nature Communications</title>
-    <link href="https://www.nature.com/articles/s41467-026-75392-z"/>
-    <id>https://www.nature.com/articles/s41467-026-75392-z</id>
-    <summary type="text">Inherited cardiac conditions are linked to genetic misspellings (or&amp;nbsp;variants) in essential heart proteins such as alpha-actinin-2. Here, the authors uncover mechanistic diversity by which distinct genetic variants may drive disease, using a comprehensive range of structural analyses.</summary>
-  </entry>
-  <entry>
-    <title>Leiomodin 2 is a processive pointed-end elongator of actin filaments - Nature Communications</title>
-    <link href="https://www.nature.com/articles/s41467-026-74809-z"/>
-    <id>https://www.nature.com/articles/s41467-026-74809-z</id>
-    <summary type="text">This study identifies the cardiac protein Leiomodin 2 as an actin filament polymerase that enables growth from filament pointed ends, revealing how muscle actin filament length is controlled and how Lmod2 mutations may cause dilated cardiomyopathy.</summary>
+    <title>How do quantum computers work?</title>
+    <link href="https://www.nature.com/articles/d41586-026-02219-8"/>
+    <id>https://www.nature.com/articles/d41586-026-02219-8</id>
+    <summary type="text">Recent breakthroughs suggest usable devices could be here in a decade.</summary>
   </entry>
   <entry>
     <title>Transversal fault tolerant distributed quantum computing operations - Nature Communications</title>
@@ -320,12 +326,6 @@
     <link href="https://www.nature.com/articles/s41467-026-74620-w"/>
     <id>https://www.nature.com/articles/s41467-026-74620-w</id>
     <summary type="text">The authors introduce a verifier-initiated quantum message-authentication method, in which authentication is requested only when needed. Their approach uses quantum zero knowledge techniques to protect information about the signer’s secret key while providing information-theoretic security against forgery</summary>
-  </entry>
-  <entry>
-    <title>Nonlinear tripartite coupling of trapped electrons with magnons in a hybrid quantum system - Communications Physics</title>
-    <link href="https://www.nature.com/articles/s42005-026-02746-w"/>
-    <id>https://www.nature.com/articles/s42005-026-02746-w</id>
-    <summary type="text">Coherent many-body interactions bring the quantum nature that is key to exploring quantum applications with multipartite entanglement. This work studies a nonlinear tripartite coupling mechanism in a hybrid quantum system, which provides an experimentally promising and reliable platform for manipulating few-body entangled quantum states.</summary>
   </entry>
   <entry>
     <title>Find an expert | University of Surrey</title>

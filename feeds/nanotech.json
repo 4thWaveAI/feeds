@@ -5,6 +5,36 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
+      "id": "https://phys.org/news/2026-07-optical-method-proteins-shift.html",
+      "url": "https://phys.org/news/2026-07-optical-method-proteins-shift.html",
+      "title": "New optical method follows single proteins as they shift shape",
+      "content_text": "Researchers at the University of Twente have developed an optical method that follows the shape changes of a single protein in liquid without attaching anything to it. It reads the protein's structure from its own molecular vibrations, free from the labels or tags that other techniques rely on. The method could help researchers study how proteins respond to drugs, toxins and other biomolecules. The paper is published in the journal ACS Nano.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2026/new-optical-method-fol.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2026-07-combined-nanoparticle-internal-laser-method.html",
+      "url": "https://phys.org/news/2026-07-combined-nanoparticle-internal-laser-method.html",
+      "title": "Combined nanoparticle and internal laser method could make cancer therapy less invasive",
+      "content_text": "In a promising development for cancer treatment, a collaborative research team has overcome two issues that have prevented photothermal therapy, a much less invasive treatment option than surgery and/or radiation, from becoming more common.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2026/researchers-clear-two.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://phys.org/news/2026-07-ruthenium-nanoparticles-captured-perchlorate-harmless.html",
       "url": "https://phys.org/news/2026-07-ruthenium-nanoparticles-captured-perchlorate-harmless.html",
       "title": "Ruthenium nanoparticles convert captured perchlorate into harmless chloride in water treatment waste",
@@ -147,36 +177,6 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/chemists-shrink-galliu.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2026-07-method-scales-oxide-materials-future.html",
-      "url": "https://phys.org/news/2026-07-method-scales-oxide-materials-future.html",
-      "title": "New method scales up twist-engineered oxide materials for future electronics",
-      "content_text": "Researchers have shown it is possible to expand the field of twistronics—literally. They have demonstrated a technique that allows them to fabricate oxide twistronic materials at much larger scales while also controlling the twist angles between materials that dictate their structural and electronic properties.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/researchers-extend-the.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2026-07-quantum-currents-nano-soccer-ball.html",
-      "url": "https://phys.org/news/2026-07-quantum-currents-nano-soccer-ball.html",
-      "title": "Quantum currents turn a nano 'soccer ball' into a powerful molecular electromagnet",
-      "content_text": "Driving an electric current through a molecule can create a magnetic field. Yet in practice, such fields are often too weak to be detected experimentally. Through theoretical modeling, researchers at the Institute of Science and Technology Austria (ISTA) show how quantum effects can turn single molecules into effective magnets—including one shaped like a microscopic soccer ball, just in time for the FIFA World Cup final. The findings are published in Nature Communications.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2026/goal-a-nano-soccer-bal.jpg",
           "mime_type": "image/jpeg"
         }
       ],

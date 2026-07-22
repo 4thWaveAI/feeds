@@ -4,7 +4,14 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/robotics.atom.xml"/>
   <id>urn:4thwaveai-feeds:robotics</id>
-  <updated>Wed, 22 Jul 2026 14:27:48 +0000</updated>
+  <updated>Wed, 22 Jul 2026 19:49:49 +0000</updated>
+  <entry>
+    <title>Robotic Servicing Mission Launches with NASA Support - NASA</title>
+    <link href="https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/"/>
+    <id>https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/</id>
+    <summary type="text">Following its liftoff from Cape Canaveral on July 21 aboard a SpaceX Falcon 9 rocket, the Mission Robotic Vehicle (MRV) hosting the NASA-supported Robotic</summary>
+    <updated>Wed, 22 Jul 2026 14:04:15 -0400</updated>
+  </entry>
   <entry>
     <title>solar sails</title>
     <link href="https://www.nasa.gov/directorates/stmd/niac/niac-studies/coilable-stacked-solar-sails-for-very-high-delta-v-missions/"/>
@@ -62,11 +69,76 @@
     <updated>Fri, 26 Jun 2026 13:16:22 -0400</updated>
   </entry>
   <entry>
-    <title>Signs of Thaw in the Bering Sea - NASA Science</title>
-    <link href="https://science.nasa.gov/earth/earth-observatory/signs-of-thaw-in-the-bering-sea/"/>
-    <id>https://science.nasa.gov/earth/earth-observatory/signs-of-thaw-in-the-bering-sea/</id>
-    <summary type="text">Drifting sea ice fragments near Alaska’s Saint Lawrence and Nunivak islands and colorful water around the Yukon Delta heralded the approach of the summer solstice.</summary>
-    <updated>Mon, 22 Jun 2026 00:01:00 -0400</updated>
+    <title>News | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/news/"/>
+    <id>https://bostondynamics.com/news/</id>
+    <summary type="text">Discover the latest news about Boston Dynamics and stay up to date with what we’ve been working on. Explore product news, media coverage, and more.</summary>
+  </entry>
+  <entry>
+    <title>Blogs | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/"/>
+    <id>https://bostondynamics.com/blog/</id>
+    <summary type="text">Stay up to date on the latest trends in robotics and other industry insights from the Boston Dynamics blog.</summary>
+  </entry>
+  <entry>
+    <title>Training a Humanoid Robot for Hard Work | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/training-a-humanoid-robot-for-hard-work/"/>
+    <id>https://bostondynamics.com/blog/training-a-humanoid-robot-for-hard-work/</id>
+    <summary type="text">Using AI-driven behaviors, Boston Dynamics’ Atlas robot coordinates its whole body to execute complex tasks with accuracy and reliability.</summary>
+  </entry>
+  <entry>
+    <title>Deploying Robots Into (and Onto) the Field | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/deploying-robots-into-and-onto-the-field/"/>
+    <id>https://bostondynamics.com/blog/deploying-robots-into-and-onto-the-field/</id>
+    <summary type="text">On Sunday July 5th, Atlas®, Boston Dynamics humanoid robot, stepped onto the field during halftime of the FIFA World Cup 2026™ Norway-Brazil round of 16 match at New York New Jersey Stadium. In the first public appearance of our production Atlas—and the first ever robotic halftime activation of the FIFA World Cup™—the robot presented the […]</summary>
+  </entry>
+  <entry>
+    <title>Bridging the ‘Porch Gap’ | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/bridging-the-porch-gap/"/>
+    <id>https://bostondynamics.com/blog/bridging-the-porch-gap/</id>
+    <summary type="text">Boston Dynamics is testing a last-mile delivery solution with Spot to get packages to the doorstep with less strain and greater efficiency.</summary>
+  </entry>
+  <entry>
+    <title>Securing the FIFA World Cup 2026 | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/securing-the-fifa-world-cup-2026/"/>
+    <id>https://bostondynamics.com/blog/securing-the-fifa-world-cup-2026/</id>
+    <summary type="text">At FIFA World Cup 2026™, Boston Dynamics&#x27; Spot robots have taken on a new security assignment: helping protect the largest sporting event in the world.</summary>
+  </entry>
+  <entry>
+    <title>Can football teach a robot to move? | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/can-football-teach-a-robot-to-move/"/>
+    <id>https://bostondynamics.com/blog/can-football-teach-a-robot-to-move/</id>
+    <summary type="text">Aathletes perform amazing acts of physicality every day and that&#x27;s the bar for Boston Dynamics Atlas robot. Learn how we train Atlas from human demonstration.</summary>
+  </entry>
+  <entry>
+    <title>Ask a Roboticist: Meet Chastity | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/ask-a-roboticist-meet-chastity/"/>
+    <id>https://bostondynamics.com/blog/ask-a-roboticist-meet-chastity/</id>
+    <summary type="text">Chastity Kelly, a mechanical design engineer, answers questions about the design of Atlas’ foot, whether robots need shoes, and her path to robotics. Read the interview below and watch a conversation with Chastity on how Atlas strides through the world. Working at Boston Dynamics What is your role at Boston Dynamics?I’m a mechanical design engineer […]</summary>
+  </entry>
+  <entry>
+    <title>Ask a Roboticist: Meet Ethan | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/ask-a-roboticist-meet-ethan/"/>
+    <id>https://bostondynamics.com/blog/ask-a-roboticist-meet-ethan/</id>
+    <summary type="text">Ethan Lauer, a software engineer at Boston Dynamics, answers questions about robot perception, world modeling, and what spooks Stretch.</summary>
+  </entry>
+  <entry>
+    <title>Tools for Your To Do List with Spot and Gemini Robotics | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/"/>
+    <id>https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/</id>
+    <summary type="text">A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.</summary>
+  </entry>
+  <entry>
+    <title>AIVI-Learning Is Now Powered by Google Gemini Robotics | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/aivi-learning-now-powered-google-gemini-robotics/"/>
+    <id>https://bostondynamics.com/blog/aivi-learning-now-powered-google-gemini-robotics/</id>
+    <summary type="text">We have partnered with Google Cloud and Google DeepMind to integrate Gemini and Gemini Robotics ER 1.6 into Orbit AIVI-Learning.</summary>
+  </entry>
+  <entry>
+    <title>Scaling New Career Heights with Stretch | Boston Dynamics</title>
+    <link href="https://bostondynamics.com/blog/scaling-new-career-heights-with-stretch/"/>
+    <id>https://bostondynamics.com/blog/scaling-new-career-heights-with-stretch/</id>
+    <summary type="text">Boston Dynamics&#x27; employee spotlight series shares the journeys of our team members: featuring Dayme Delgado, a Field Applications Engineer.</summary>
   </entry>
   <entry>
     <title>Introducing Helix 02: Full-Body Autonomy</title>
@@ -301,78 +373,5 @@
     <link href="https://arxiv.org/abs/2607.18653"/>
     <id>https://arxiv.org/abs/2607.18653</id>
     <summary type="text">High penetrations of variable renewable energy introduce significant resource adequacy challenges, particularly when weather-driven uncertainty affects renewable availability, electricity demand, and the effective capacity of thermal generators. Existing capacity credit accreditation methods often neglect these correlated weather effects, which may overstate firm capacity, distort long-term investment decisions, and weaken reliability outcomes in electricity market with price caps. This paper proposes a two-stage stochastic optimization framework for capacity accreditation that explicitly captures uncertainty in wind, solar, and temperature-dependent thermal derating. Using five years of ERCOT demand and renewable availability data, we compare the proposed stochastic capacity credit method</summary>
-  </entry>
-  <entry>
-    <title>Rethinking Joint UAV Placement and Beamforming: A Correlation-Aware Geometric Approach</title>
-    <link href="https://arxiv.org/abs/2607.18668"/>
-    <id>https://arxiv.org/abs/2607.18668</id>
-    <summary type="text">In multiuser unmanned aerial vehicle (UAV)-assisted downlink communications, UAV placement and transmit beamforming are inherently coupled through the propagation geometry. However, fully joint design based on instantaneous channel state information (CSI) is impractical, because the small-scale fading depends on the UAV location to be optimized and thus is unavailable a priori. Moreover, existing joint placement and beamforming methods do not explicitly optimize the UAV position with respect to the geometry-dependent multiuser interference induced by inter-user steering correlation. To address this issue, we propose a correlation-aware geometric framework for joint UAV placement and beamforming. Specifically, the UAV position is first optimized based on long-term channel statistics, where </summary>
-  </entry>
-  <entry>
-    <title>Aggregation of Evolutionary Game Dynamics on Large-Scale Weighted Networks</title>
-    <link href="https://arxiv.org/abs/2607.18776"/>
-    <id>https://arxiv.org/abs/2607.18776</id>
-    <summary type="text">Networked evolutionary games, which integrate network topology and game dynamics, serve as a powerful framework for complex systems. Evolutionary games on large-scale networks, however, have been analytically challenging due to the curse of dimensionality arising from large network size. This paper proposes an aggregation method based on backward equivalence, such that agents within the same equivalence class behave exactly the same over time. We give a necessary and sufficient condition under which the weighted networked evolutionary games (WNEG) are reduced to an equivalent system with low dimension. The aggregation is shown to reduce the computational burden ranging from strategy consensus, strategy optimization, controllability, to optimal control of the WNEG. Examples are provided. Ou</summary>
-  </entry>
-  <entry>
-    <title>Bifurcation Analysis of Sub-Synchronous Oscillations Related to Grid-Forming Converter Inner Controllers</title>
-    <link href="https://arxiv.org/abs/2607.18894"/>
-    <id>https://arxiv.org/abs/2607.18894</id>
-    <summary type="text">To ensure power system stability and security, it is vital to understand the complex nonlinear power system dynamics related to converter-interfaced generators. For example, grid-forming (GFM) converters are expected to be a key asset for maintaining a strong and stable power system, but might cause wide-bandwidth stability issues with underlying mechanisms heretofore unseen or understudied, including sub-synchronous oscillations (SSOs). This paper details a continuation-based bifurcation analysis of a GFM converter, revealing stability bounds with respect to operational conditions in addition to the time constant of the cascaded inner voltage and current controllers. We focus our analysis on the strong grid instability caused by an inner controller-related SSO, including continuation of t</summary>
-  </entry>
-  <entry>
-    <title>Forecast-Assisted Deep Reinforcement Learning for Energy Management of Hydrogen-Enabled Community Microgrids</title>
-    <link href="https://arxiv.org/abs/2607.18903"/>
-    <id>https://arxiv.org/abs/2607.18903</id>
-    <summary type="text">Hydrogen-enabled community microgrids can improve renewable energy utilization and local resilience, but their operation is complicated by uncertain residential demand, variable renewable generation, dynamic electricity prices, and the coupled dynamics of battery and hydrogen storage. This paper extends a previously developed proximal policy optimization (PPO) energy management system by adding multi-horizon community-load forecasts to the controller state. The framework is evaluated for a 1,000-household residential microgrid in Rockhampton, Australia. Forecast accuracy is mixed: the 1-h model achieves an RMSE of 239.32 kW and an R2 of 0.201, whereas the 6-h and 12-h horizons produce negative R2 values; the 24-h forecast achieves an RMSE of 249.79 kW, a MAPE of 62.52%, and an R2 of 0.126.</summary>
-  </entry>
-  <entry>
-    <title>How network perturbations distort agreement trajectories in LTI multi-agent systems</title>
-    <link href="https://arxiv.org/abs/2607.18913"/>
-    <id>https://arxiv.org/abs/2607.18913</id>
-    <summary type="text">Distributed coordination of multi-agent systems frequently relies on cooperative protocols designed to achieve agreement on a prescribed, non-trivial trajectory. While the robustness of such protocols to various uncertainties is well documented, existing literature universally assumes that the target agreement trajectory itself remains invariant. This assumption may hold in ideal cases, but we prove that network perturbations can vastly modify the asymptotic agreement trajectory. We first investigate the exact trajectories of Linear Time-Invariant (LTI) agents subjected to dynamic coupling uncertainties by establishing a new Laplace-domain criterion that characterizes the specific closed-loop poles governing the perturbed agreement manifold. To formalize our analysis, we introduce the noti</summary>
-  </entry>
-  <entry>
-    <title>Online sparse observers for cyber-physical systems under sensor bias</title>
-    <link href="https://arxiv.org/abs/2607.18951"/>
-    <id>https://arxiv.org/abs/2607.18951</id>
-    <summary type="text">The design of state observers for cyber-physical systems under sparse sensor biases, faults, or attacks has drawn substantial attention in recent years. While sparsity-based batch approaches, which collect multiple measurements and run offline, are relatively mature, online secure state estimation, for real-time state/attack recovery, is still an open problem. Although some algorithms have been proposed, convergence guarantees remain limited, even for the case of constant attacks.
-  As a first step toward addressing this gap, we focus on constant attacks. We analyze the observability of this setting and we study several online sparse observers, derived from different methodological frameworks such as online sparse optimization and block Bregman methods. Some of the proposed observers are a</summary>
-  </entry>
-  <entry>
-    <title>34</title>
-    <link href="https://www.unitree.com/cn/news/34"/>
-    <id>https://www.unitree.com/cn/news/34</id>
-    <summary type="text">机器人</summary>
-  </entry>
-  <entry>
-    <title>30</title>
-    <link href="https://www.unitree.com/cn/news/30"/>
-    <id>https://www.unitree.com/cn/news/30</id>
-    <summary type="text">机器人</summary>
-  </entry>
-  <entry>
-    <title>News - Robotics Institute Carnegie Mellon University</title>
-    <link href="https://www.ri.cmu.edu/news/"/>
-    <id>https://www.ri.cmu.edu/news/</id>
-    <summary type="text">Cool stories about the Robotics Institute at CMU from all over the web.</summary>
-  </entry>
-  <entry>
-    <title>As Walker S Strikes the Gong, UBTECH Robotics Becomes the First Humanoid Robot  Company Listed on the Main Board of the HKEX | UBTECH Robotics</title>
-    <link href="https://www.ubtrobot.com/en/about/news/498762019606597"/>
-    <id>https://www.ubtrobot.com/en/about/news/498762019606597</id>
-    <summary type="text">UBTECH</summary>
-  </entry>
-  <entry>
-    <title>Vision2035 En.Pdf</title>
-    <link href="https://www.yaskawa-global.com/wp-content/uploads/2026/05/Vision2035_en.pdf"/>
-    <id>https://www.yaskawa-global.com/wp-content/uploads/2026/05/Vision2035_en.pdf</id>
-    <summary type="text">Vision2035 En.Pdf</summary>
-  </entry>
-  <entry>
-    <title>Dash35 En.Pdf</title>
-    <link href="https://www.yaskawa-global.com/wp-content/uploads/2026/05/Dash35_en.pdf"/>
-    <id>https://www.yaskawa-global.com/wp-content/uploads/2026/05/Dash35_en.pdf</id>
-    <summary type="text">Dash35 En.Pdf</summary>
   </entry>
 </feed>

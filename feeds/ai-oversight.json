@@ -335,6 +335,21 @@
       ]
     },
     {
+      "id": "https://metr.org/notes/2026-07-22-economics-of-recursive-self-improvement/",
+      "url": "https://metr.org/notes/2026-07-22-economics-of-recursive-self-improvement/",
+      "title": "The Economics of Recursive Self-Improvement",
+      "content_text": "Parker Whitfill and Tom Cunningham highlight context and takeaways from a new paper modeling how AI may accelerate AI R&D, and whether feedback effects could be strong enough for self-sustaining acceleration.",
+      "attachments": [
+        {
+          "url": "https://metr.org/assets/images/logo/og-image-logo.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
       "id": "https://metr.org/blog/2026-07-21-expenditure-horizon/",
       "url": "https://metr.org/blog/2026-07-21-expenditure-horizon/",
       "title": "Expenditure Horizon: Measuring Optimization Ability, with an Application to NanoGPT",
@@ -462,21 +477,6 @@
       "attachments": [
         {
           "url": "https://metr.org/assets/images/logo/og-image-logo.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai-oversight"
-      ]
-    },
-    {
-      "id": "https://metr.org/notes/2026-04-21-ai-rd-nanogpt-progress/",
-      "url": "https://metr.org/notes/2026-04-21-ai-rd-nanogpt-progress/",
-      "title": "Evidence on AI R&D Progress from NanoGPT",
-      "content_text": "Classifying human and agent contributions to the NanoGPT speedrun, and what publicly tracked challenges can tell us about AI R&D acceleration.",
-      "attachments": [
-        {
-          "url": "https://metr.org/assets/images/ai-rd-nanogpt-progress/timeline_provenance.png",
           "mime_type": "image/png"
         }
       ],

@@ -5,6 +5,36 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/human_effect.json",
   "items": [
     {
+      "id": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
+      "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
+      "title": "The Computer That Helped Win World War II",
+      "content_text": "Colossus cracked Germany’s encrypted communications",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/black-and-white-image-of-two-women-operating-a-wall-sized-1940s-computer.jpg?id=67520993&width=1200&height=600&coordinates=0%2C125%2C0%2C125",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.pewresearch.org/short-reads/2026/07/22/what-we-know-about-the-typical-polymarket-user/",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/22/what-we-know-about-the-typical-polymarket-user/",
+      "title": "What we know about the typical Polymarket user",
+      "content_text": "The typical Polymarket user placed a total of 46 trades across 10 active trading days during our study period.",
+      "attachments": [
+        {
+          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/SR_26.07.22_prediction-market_featured.png?w=1200&h=628&crop=1",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://aiforgood.itu.int/planetary-intelligence-ai-for-the-21st-century-earth-will-marshalls-case-for-a-smarter-planet/",
       "url": "https://aiforgood.itu.int/planetary-intelligence-ai-for-the-21st-century-earth-will-marshalls-case-for-a-smarter-planet/",
       "title": "Planetary Intelligence, AI for the 21st Century Earth: Will Marshall's Case for a Smarter Planet",
@@ -215,21 +245,6 @@
       ]
     },
     {
-      "id": "https://www.pewresearch.org/journalism/2026/07/16/democrats-and-republicans-engage-in-public-life-in-similar-ways/",
-      "url": "https://www.pewresearch.org/journalism/2026/07/16/democrats-and-republicans-engage-in-public-life-in-similar-ways/",
-      "title": "Democrats and Republicans engage in public life in similar ways",
-      "content_text": "Each of the two major parties includes people who are deeply involved in public life – across politics, community, religion and news – and those who are less so.",
-      "attachments": [
-        {
-          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/PJ_26.07.16_engagement_featured.png?w=1200&h=628&crop=1",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
       "id": "https://spectrum.ieee.org/fishery-satellite-surveillance",
       "url": "https://spectrum.ieee.org/fishery-satellite-surveillance",
       "title": "Why Indonesia’s Fisheries Future Hinges On Data Integrity and Trust",
@@ -312,21 +327,6 @@
       "attachments": [
         {
           "url": "https://noetic.org/wp-content/uploads/2026/06/Death-Lets-Talk-About-It-Blog.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/jailbreaking-llms",
-      "url": "https://spectrum.ieee.org/jailbreaking-llms",
-      "title": "How Darth Vader Taught Me Card Counting and AI Security Got Weird",
-      "content_text": "It only took a little prompting to hijack the biggest AI models",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/glossy-red-robot-devil-standing-on-a-bundle-of-dynamite-against-blue-glow-background.png?id=67163741&width=1200&height=600&coordinates=0%2C750%2C0%2C750",
           "mime_type": "image/png"
         }
       ],
@@ -836,8 +836,8 @@
       "content_text": "The Nancy Grace Roman Space Telescope will be the first space telescope to use an “active coronagraph” to block out unwanted starlight.",
       "attachments": [
         {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/260708_RomanCoronagraph.gif?resize=1200%2C600",
-          "mime_type": "image/gif"
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/260708_RomanCoronagraph.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
