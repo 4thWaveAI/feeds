@@ -5,6 +5,51 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
+      "id": "https://esports.gg/news/mobile-legends-bang-bang/msc-2026-ewc-schedule-results-livestream/",
+      "url": "https://esports.gg/news/mobile-legends-bang-bang/msc-2026-ewc-schedule-results-livestream/",
+      "title": "MSC 2026 Esports World Cup: Format, schedule, results, and more",
+      "content_text": "Here is a complete guide to MSC 2026 at the Esports World Cup, including match results, schedules, and key information.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/07/MSC-2026-Esports-World-Cup-Format-schedule-results-and-more.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/league-of-legends/old-school-masteries-league-classic/",
+      "url": "https://esports.gg/news/league-of-legends/old-school-masteries-league-classic/",
+      "title": "Old-school Masteries are back in League Classic!",
+      "content_text": "The Offense, Defense, and Utility Mastery Trees are back! Here's everything you need to know about Masteries in League Classic.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/07/Old-school-Masteries-are-back-in-League-Classic.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esportsinsider.com/2026/07/counter-strike-2-sticker-esports-scene-collapse",
+      "url": "https://esportsinsider.com/2026/07/counter-strike-2-sticker-esports-scene-collapse",
+      "title": "Risk without reward: Counter-Strike 2's new sticker system threatens the entire esports scene's structure",
+      "content_text": "Valve just made some big changes to the sticker system, causing Counter-Strike 2 teams to lose a ton of revenue. This could spell trouble.",
+      "attachments": [
+        {
+          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/20260602_Adela-Sznajder_IEM-Cologne_00371-2.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
       "id": "https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/",
       "url": "https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/",
       "title": "Olympic Mountain Glory - NASA Science",
@@ -16,7 +61,7 @@
         }
       ],
       "tags": [
-        "disclosure-watch"
+        "space-tech"
       ]
     },
     {
@@ -358,21 +403,6 @@
       ]
     },
     {
-      "id": "https://esports.gg/news/mobile-legends-bang-bang/msc-2026-ewc-schedule-results-livestream/",
-      "url": "https://esports.gg/news/mobile-legends-bang-bang/msc-2026-ewc-schedule-results-livestream/",
-      "title": "MSC 2026 Esports World Cup: Format, schedule, results, and more",
-      "content_text": "Here is a complete guide to MSC 2026 at the Esports World Cup, including match results, schedules, and key information.",
-      "attachments": [
-        {
-          "url": "https://media.esports.gg/uploads/2026/07/MSC-2026-Esports-World-Cup-Format-schedule-results-and-more.avif",
-          "mime_type": "image/avif"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
       "id": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-returns-money-consumers-harmed-trend-deploys-deceptive-marketing",
       "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-returns-money-consumers-harmed-trend-deploys-deceptive-marketing",
       "title": "FTC Returns Money to Consumers Harmed by Trend Deploy’s Deceptive Marketing",
@@ -528,21 +558,6 @@
       ],
       "tags": [
         "gsel-esports-ai"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/",
-      "url": "https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/",
-      "title": "NISAR’s L-Band Radar Reveals ‘Hummingbird’ in Antarctica - NASA Science",
-      "content_text": "Data from the Earth-orbiting U.S.-India NISAR (NASA-ISRO Synthetic Aperture Radar) satellite’s L-band radar was used to produce an image of Nunatak",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26617/PIA26617.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "space-tech"
       ]
     },
     {
@@ -726,6 +741,21 @@
       ]
     },
     {
+      "id": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
+      "url": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
+      "title": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI | NVIDIA Technical Blog",
+      "content_text": "What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale. These factories are now tasked with…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-rubin-gpu.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/",
       "url": "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/",
       "title": "NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI | NVIDIA Technical Blog",
@@ -753,36 +783,6 @@
       ],
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
-      "url": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
-      "title": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI | NVIDIA Technical Blog",
-      "content_text": "What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale. These factories are now tasked with…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-rubin-gpu.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://esports.gg/news/mobile-legends-bang-bang/mlbb-ai-generated-main-menu-layla-backlash/",
-      "url": "https://esports.gg/news/mobile-legends-bang-bang/mlbb-ai-generated-main-menu-layla-backlash/",
-      "title": "MLBB backtracks after fans outrage over AI-generated main menu in advanced server",
-      "content_text": "Fans are upset about the recent MLBB Advanced Server update that adds a 3D model of Layla that seems to be generated by AI.",
-      "attachments": [
-        {
-          "url": "https://media.esports.gg/uploads/2026/07/MLBB-backtracks-after-fans-outrage-over-AI-generated-main-menu-in-advanced-server.avif",
-          "mime_type": "image/avif"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
       ]
     },
     {

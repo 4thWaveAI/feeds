@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai-policy-ethics-standards.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai-policy-ethics-standards</id>
-  <updated>Thu, 23 Jul 2026 03:58:53 +0000</updated>
+  <updated>Thu, 23 Jul 2026 08:59:00 +0000</updated>
   <entry>
     <title>FTC Returns Money to Consumers Harmed by Trend Deploy’s Deceptive Marketing</title>
     <link href="https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-returns-money-consumers-harmed-trend-deploys-deceptive-marketing"/>
@@ -62,13 +62,6 @@
     <updated>Thu, 25 Jun 2026 08:00:00 -0400</updated>
   </entry>
   <entry>
-    <title>Veterans: Here are Ways to Help Protect Your Small Business</title>
-    <link href="https://www.ftc.gov/news-events/events/2026/07/veterans-here-are-ways-help-protect-your-small-business"/>
-    <id>https://www.ftc.gov/news-events/events/2026/07/veterans-here-are-ways-help-protect-your-small-business</id>
-    <summary type="text">As a veteran, you’ve worked hard to protect our country. And if you run a small business, you know how important it is to have protections against scammers.</summary>
-    <updated>Wed, 24 Jun 2026 10:37:58 -0400</updated>
-  </entry>
-  <entry>
     <title>Department of Commerce Announces Definitive Agreement with SandboxAQ for a $500 Million CHIPS R&amp;D Award to Accelerate Al-Driven Semiconductor Materials Discovery</title>
     <link href="https://www.nist.gov/news-events/news/2026/06/department-commerce-announces-definitive-agreement-sandboxaq-500-million"/>
     <id>https://www.nist.gov/news-events/news/2026/06/department-commerce-announces-definitive-agreement-sandboxaq-500-million</id>
@@ -81,6 +74,13 @@
     <id>https://www.nist.gov/news-events/news/2026/06/department-commerces-chips-program-announces-letter-intent-coherent-50</id>
     <summary type="text">The Department of Commerce’s CHIPS Program Office announced the signing of a letter of intent to provide up to $50 million in direct funding to Coherent Corp. (Coherent) under the CHIPS and Science Act.</summary>
     <updated>Tue, 16 Jun 2026 08:00:00 -0400</updated>
+  </entry>
+  <entry>
+    <title>Helping Military Patrons Spot and Avoid Scams</title>
+    <link href="https://www.ftc.gov/news-events/events/2026/07/helping-military-patrons-spot-avoid-scams"/>
+    <id>https://www.ftc.gov/news-events/events/2026/07/helping-military-patrons-spot-avoid-scams</id>
+    <summary type="text">Librarians serve as a resource to military consumers both on- and off base. Whether you’re helping active-duty servicemembers, veterans, and military families, this webinar is for you.</summary>
+    <updated>Thu, 07 May 2026 17:22:10 -0400</updated>
   </entry>
   <entry>
     <title>Muck Around and Find Out: NIST&#x27;s Domestic Sludge SRM</title>
@@ -192,12 +192,6 @@
     <summary type="text">The MOSAIC pilot project has built and tested technology so media organisations can share content across language borders.</summary>
   </entry>
   <entry>
-    <title>New GenAI pilots for public administrations</title>
-    <link href="https://digital-strategy.ec.europa.eu/en/news/new-genai-pilots-public-administrations"/>
-    <id>https://digital-strategy.ec.europa.eu/en/news/new-genai-pilots-public-administrations</id>
-    <summary type="text">Three new pilot projects supporting the uptake of Generative AI in public administrations officially started on 1 July 2026.</summary>
-  </entry>
-  <entry>
     <title>Digital technologies to power Europe&#x27;s clean energy transition</title>
     <link href="https://digital-strategy.ec.europa.eu/en/news/digital-technologies-power-europes-clean-energy-transition"/>
     <id>https://digital-strategy.ec.europa.eu/en/news/digital-technologies-power-europes-clean-energy-transition</id>
@@ -210,16 +204,16 @@
     <summary type="text">The European Commission published its seventh annual Rule of Law Report, assessing the state of the rule of law across all EU Member States, as well as four candidate countries: Albania, Montenegro, North Macedonia and Serbia.</summary>
   </entry>
   <entry>
-    <title>EU agrees to simplify AI rules to boost innovation and ban ‘nudification&#x27; apps to protect citizens</title>
-    <link href="https://digital-strategy.ec.europa.eu/en/news/eu-agrees-simplify-ai-rules-boost-innovation-and-ban-nudification-apps-protect-citizens"/>
-    <id>https://digital-strategy.ec.europa.eu/en/news/eu-agrees-simplify-ai-rules-boost-innovation-and-ban-nudification-apps-protect-citizens</id>
-    <summary type="text">The European Commission welcomes the political agreement reached between the European Parliament and the Council of the EU on simpler, innovation-friendly rules for artificial intelligence (AI).</summary>
-  </entry>
-  <entry>
     <title>Supporting the implementation of the AI Act with clear guidelines</title>
     <link href="https://digital-strategy.ec.europa.eu/en/news/supporting-implementation-ai-act-clear-guidelines"/>
     <id>https://digital-strategy.ec.europa.eu/en/news/supporting-implementation-ai-act-clear-guidelines</id>
     <summary type="text">The AI Office is preparing guidelines to ensure a smooth implementation of the AI Act.</summary>
+  </entry>
+  <entry>
+    <title>Inauguration Ceremony for the 2026 Digital Reform Co-Creation Platform Ambassadors held｜Digital Agency</title>
+    <link href="https://www.digital.go.jp/en/news/9df060ae-3a45-483d-8f4b-97a05d75b2c3"/>
+    <id>https://www.digital.go.jp/en/news/9df060ae-3a45-483d-8f4b-97a05d75b2c3</id>
+    <summary type="text">The Digital Agency, has been established on September1, 2021, contributes to reforming the culture of administration in a user-driven manner through digitalization.</summary>
   </entry>
   <entry>
     <title>How do AI models persuade? Exploring the levers of AI-enabled persuasion through large-scale experiments | AISI Work</title>

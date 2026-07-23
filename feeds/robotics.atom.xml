@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/robotics.atom.xml"/>
   <id>urn:4thwaveai-feeds:robotics</id>
-  <updated>Thu, 23 Jul 2026 03:50:11 +0000</updated>
+  <updated>Thu, 23 Jul 2026 08:49:27 +0000</updated>
   <entry>
     <title>Robotic Servicing Mission Launches with NASA Support - NASA</title>
     <link href="https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/"/>
@@ -285,64 +285,64 @@
     <summary type="text">Robots</summary>
   </entry>
   <entry>
-    <title>FARO: Feasibility-Aware Robot Motion Optimization</title>
-    <link href="https://arxiv.org/abs/2607.18362"/>
-    <id>https://arxiv.org/abs/2607.18362</id>
-    <summary type="text">Fast planning of novel behaviors in unseen scenarios remains a fundamental challenge in robotics. The high-dimensional, hybrid, and underactuated nature of humanoid loco-manipulation continues to hinder the realization of this goal. In this paper, we address this challenge by proposing a nested kino-dynamic framework for rapid feasibility checking and dynamically consistent trajectory generation given a candidate contact sequence. By integrating this module with a feasibility-guided tree search and a Large Language Model (LLM)-based contact plan sampling strategy, we demonstrate that the proposed framework can substantially improve the search process. Furthermore, we show that the generated trajectories can be tracked using a reinforcement learning (RL)-based controller and show that the r</summary>
+    <title>ModPack: An Extensible Teleoperation Interface for Bimanual Mobile Manipulation</title>
+    <link href="https://arxiv.org/abs/2607.19479"/>
+    <id>https://arxiv.org/abs/2607.19479</id>
+    <summary type="text">Existing teleoperation systems are often tailored to specific robot hardware and task domains, limiting their scalability and adaptability. We present ModPack, a modular and extensible teleoperation system designed to support diverse robot embodiments and task requirements within a unified framework. At the core of ModPack is a self-contained wearable &quot;backpack&quot; that integrates onboard computation, power, communication, and data storage. Built on top of this shared interface, the system supports plug-and-play capability modules including joint-level teleoperation with haptic feedback, mobile manipulation, and active perception. Experiments across two distinct robot platforms and real-world mobile manipulation tasks demonstrate that ModPack provides a flexible and reusable framework for dat</summary>
   </entry>
   <entry>
-    <title>Towards Torque-Driven Reinforcement Learning for Quadruped Locomotion</title>
-    <link href="https://arxiv.org/abs/2607.18365"/>
-    <id>https://arxiv.org/abs/2607.18365</id>
-    <summary type="text">Reinforcement learning (RL) for legged robots is advancing locomotion, demonstrating its ability to adapt to new and challenging terrain. Traditionally, these RL locomotion frameworks are position-based, making the policy less adaptable to terrain types and requiring state estimation techniques in the observation space, i.e., linear velocity. Moreover, these RL frameworks often use small, lightweight quadrupeds that are limited in their viability for high-complexity tasks due to hardware constraints. This work explores an RL torque control framework for heavyweight high-torque quadrupeds. The RL framework in this paper can traverse rough terrain and effectively track a desired linear velocity without requiring knowledge of the agent&#x27;s current velocity. Using Nvidia&#x27;s Isaac Sim and Isaac La</summary>
+    <title>Emergent Autonomous Drifting for Collision Avoidance in Real-World Winter Driving Scenarios</title>
+    <link href="https://arxiv.org/abs/2607.19484"/>
+    <id>https://arxiv.org/abs/2607.19484</id>
+    <summary type="text">Real-world collision avoidance is a core motivation for studying the dynamics and control of high sideslip drifting in vehicles, yet the practical benefit of such maneuvers has so far primarily been tested in scenarios explicitly engineered to require drifting. In this work, we explore the question of if and when drifting may be optimal for safety in real-world winter driving conditions. We present a drift-capable nonlinear model predictive control (MPC) system designed to handle scenarios grounded in crash fatality data and deploy the controller in a high fidelity simulator across road departure and oncoming vehicle collision avoidance scenarios. The controller naturally initiates and sustains drifting maneuvers to stay on the road when hitting a patch of ice on the rear axle and to avoid</summary>
   </entry>
   <entry>
-    <title>The Open Ant: A Robot Platform for Reinforcement Learning Research</title>
-    <link href="https://arxiv.org/abs/2607.18488"/>
-    <id>https://arxiv.org/abs/2607.18488</id>
-    <summary type="text">Reinforcement learning (RL) research has demonstrated success in both physical and simulated domains; however, the predominant methodology remains rooted in simulations. The predominance of simulations makes translating research to physical reality uncertain for both algorithms and researchers. We propose a physical platform that is designed to simplify the transition. In this paper, we present the Open Ant: a physical variant of the commonly used Gymnasium Ant environment, along with a simulation. We demonstrate that competent walking policies can be learned from scratch in approximately one hour directly from the physical robot&#x27;s experience for two substantially different RL algorithms: SARSA($λ$) and Soft Actor-Critic (SAC). Separately, we show policies that were learned in simulation t</summary>
+    <title>Milo, a Fully Autonomous Indoor/Outdoor Robotic Guide Dog</title>
+    <link href="https://arxiv.org/abs/2607.19530"/>
+    <id>https://arxiv.org/abs/2607.19530</id>
+    <summary type="text">Many Blind and Low-Vision (BLV) people rely on guide dogs for moment-to-moment navigation, such as staying on path and avoiding obstacles and pedestrians. However, guide dogs are expensive to acquire and maintain (approximately \$50k USD plus ongoing costs), often involve long waiting lists, and have relatively short life expectancies. While robot guide dogs offer a promising alternative, existing approaches exploring this idea suffer from several drawbacks: They often lack the autonomy required for real-world deployment, relying on prior 3D scans of the environment, external computation, or limited awareness of the handler. In this work, we present Milo, the first open-source, low-cost (approximately \$2k USD) robotic guide dog platform capable of fulfilling the basic collaborative naviga</summary>
   </entry>
   <entry>
-    <title>Beyond Fixed Goal Delivery: Online POMDP Planning for Target Interception in Crowds</title>
-    <link href="https://arxiv.org/abs/2607.18517"/>
-    <id>https://arxiv.org/abs/2607.18517</id>
-    <summary type="text">Target interception in crowded environments requires reaching a moving objective while navigating among multiple uncertain human agents. Since human navigation intent is not directly observable, the robot must reason over multiple possible future interaction outcomes. We formulate interception in crowds as a partially observable Markov decision process and solve it online using tree search under a fixed computational budget. In this setting, the action-space structure directly shapes the search tree and how computational effort is allocated. We perform a controlled comparison between a sequential path-speed planner, which first plans a spatial path and then modulates speed along it, and a unified planner that jointly branches over steering and speed within tree search. Across simulations w</summary>
+    <title>Learning Personalized Safety Interventions for Haptic Human-Robot Shared Control</title>
+    <link href="https://arxiv.org/abs/2607.19534"/>
+    <id>https://arxiv.org/abs/2607.19534</id>
+    <summary type="text">Haptic feedback provides an implicit channel for communicating safety intentions during human-robot shared control. Existing haptic guidance systems typically employ predefined intervention strategies that cannot accommodate the diverse safety preferences of individual users or application scenarios. To address this limitation, we propose a Learning from Haptics (LfH) framework that learns user-preferred safety interventions from sparse demonstrations, eliminating the need for manual trial-and-error design. Our framework is built on a differentiable Control Barrier Function (CBF)-based optimization layer that automatically adjusts the underlying safety parameters to match the demonstrated haptic responses. Instead of tuning controller parameters directly, users teach the system how they ex</summary>
   </entry>
   <entry>
-    <title>DASH Robot: Minimalistic Design and Optimal Aerial-Terrestrial Locomotion via Contact-Implicit Control</title>
-    <link href="https://arxiv.org/abs/2607.18527"/>
-    <id>https://arxiv.org/abs/2607.18527</id>
-    <summary type="text">We present a novel and minimalistic design of an aerial-terrestrial robot DASH: Ducted Aerial Spring Hopper. The goal is to enable both aerial and ground locomotion capabilities on a unified mobile robot that is mechanically-minimalistic, locomotion-versatile, and energy-efficient. We propose an organic integration of ducted fan co-axial body with a springy leg at the bottom for realization. The ducted fan module provides thrust-vectoring as the main actuation for agile flying; when it is combined with the light-weight spring leg, the robot realizes highly efficient ground hopping with energy circulation. Moreover, to realize optimal locomotion with two modes, we employ a contact-implicit model predictive controller to automatically choose locomotion modes and actuation. We successfully va</summary>
+    <title>LENS: LLM-guided Environment Simplification for Planning and Control in Clutter</title>
+    <link href="https://arxiv.org/abs/2607.19633"/>
+    <id>https://arxiv.org/abs/2607.19633</id>
+    <summary type="text">Despite recent advances in general-purpose robotic manipulation, real-world multi-object clutter remains challenging to handle for today&#x27;s prevalent approaches. The problem scales in complexity due to more objects and collisions, more unpredictable contact physics, distractors, and task ambiguity. Bridging this gap to real-world deployment requires effective scene abstractions; yet today, producing such abstractions requires extensive task-specific manual engineering, which does not scale. These abstractions are costly to generate and difficult to adjust or fine-tune. We instead propose a plug-and-play fix to automatically generate scene-specific, task-specific, adaptively updating abstractions on top of existing planning and control stacks. LLM-guided Environment Simplification (LENS) pro</summary>
   </entry>
   <entry>
-    <title>Two-Stage Extrinsic Calibration of a Static Line-Scanning Lidar with a Rotary Platform</title>
-    <link href="https://arxiv.org/abs/2607.18578"/>
-    <id>https://arxiv.org/abs/2607.18578</id>
-    <summary type="text">A line-scanning lidar yields range and azimuth values in a fixed plane. To perceive surrounding objects in 3D, there must be relative motion between the lidar plane and the object. Thus, using a rotating base-platform is promising for industrial applications where objects need to be scanned or inspected precisely, and is the main focus of this work. In the rotary platform setup, a 3D point cloud of an object can be constructed if the axis of rotation and the precise motion about that axis are known. However, this setup gives rise to the following problem: how can the axis of rotation of the platform be accurately identified with respect to the lidar coordinate system? It is referred to as the calibration problem in the robotics community. Any inaccuracy in this transformation directly affe</summary>
+    <title>Remote ID Spoofing-Aware Trajectory Planning for Small Unmanned Aerial Systems</title>
+    <link href="https://arxiv.org/abs/2607.19650"/>
+    <id>https://arxiv.org/abs/2607.19650</id>
+    <summary type="text">This work presents a decentralized, spoofing-aware trajectory planning framework for small unmanned aerial systems operating under Remote Identification (RID) location spoofing attacks. Existing planners typically assume RID broadcasts are trustworthy, which can increase the risk of loss of separation and mid-air collisions when spoofing occurs. In contrast, the proposed approach explicitly treats RID information as unverified and incorporates physical-layer observations to assess broadcast credibility. Received signal-strength measurements from neighboring aircraft are used to detect spoofing and probabilistically localize a spoofing agent. The resulting uncertainty is converted into a risk-bounded unsafe region using a chance-constrained formulation and integrated into a per-agent Markov</summary>
   </entry>
   <entry>
-    <title>STeP: Signal Temporal Logic for Precise Specifications for Action Generation with Vision Language Models</title>
-    <link href="https://arxiv.org/abs/2607.18580"/>
-    <id>https://arxiv.org/abs/2607.18580</id>
-    <summary type="text">Vision-language-action (VLA) models have shown impressive generalization, but often lack interpretability and can struggle to follow precise natural language instructions that encode spatial, temporal, and logical requirements. We propose a hierarchical framework that uses Signal Temporal Logic (STL) as a shared representation connecting high-level language understanding with low-level robot execution. A high-level policy leverages a VLM to decompose language instructions into high-level subtasks, generate STL specifications for each subtask, and choose a low-level policy for executing each subtask. The STL specifications translate language-derived intent into precise constraints, and the low-level policy selection determines whether those constraints are enforced directly through STL-guid</summary>
+    <title>NavVerse: Benchmarking Indoor-to-Outdoor Embodied Navigation in Continuous Robot Simulation</title>
+    <link href="https://arxiv.org/abs/2607.19695"/>
+    <id>https://arxiv.org/abs/2607.19695</id>
+    <summary type="text">Robots deployed in delivery, campus, and emergency-response settings often need to navigate from buildings to streets within a single continuous episode. Existing benchmarks usually evaluate indoor and outdoor navigation separately, and many abstract away robot execution, leaving exit finding, boundary traversal, adaptation, and kinodynamic failures underexplored. We introduce NavVerse, a physics-enabled benchmark for indoor-to-outdoor embodied navigation. NavVerse contains 100 indoor scenes, 50 urban outdoor scenes, and 50 indoor-to-outdoor scenes, and 10,000 episodes spanning Object Navigation, Vision-and-Language Navigation, and Place Navigation tasks, where agents search for semantic points of interest such as restaurants or banks. Agents are evaluated through executable robot interfac</summary>
   </entry>
   <entry>
-    <title>Bridging the Sim-to-Real Gap under Real-Time Constraints in Autonomous Racing</title>
-    <link href="https://arxiv.org/abs/2607.18586"/>
-    <id>https://arxiv.org/abs/2607.18586</id>
-    <summary type="text">Autonomous racing exposes the sim-to-real gap under extreme operating conditions characterized by high speed, tight stability margins, and stringent real-time constraints. Although simulation is indispensable for development, controllers that perform well in simulation often degrade abruptly on physical platforms due to interacting effects of dynamics mismatch, estimation delay, and execution-layer latency. This paper frames sim-to-real transfer in autonomous racing as a full-stack, real-time systems problem. We introduce a structured three-layer perspective (Physical/Cyber/Execution) to analyze how mismatches propagate and amplify through closed-loop feedback. We present diagnostic metrics beyond nominal lap time, including performance flip, stability-oriented measures, sensitivity to del</summary>
+    <title>Contact-Persistent Full Actuation for Aerial Physical Interaction</title>
+    <link href="https://arxiv.org/abs/2607.19708"/>
+    <id>https://arxiv.org/abs/2607.19708</id>
+    <summary type="text">Fully actuated unmanned aerial vehicles (UAVs) are usually certified through rank conditions on a control-allocation matrix or through free-flight tracking performance. For aerial physical interaction, this certification may be incomplete. During sustained contact, part of the available wrench is consumed by the interaction task, and only the residual wrench remains available for stabilization, disturbance rejection, and maneuvering. This paper introduces a control-theoretic framework for \emph{contact-persistent full actuation}. A rigid-body model on $\R^{3}\times\SO\left(3\right)$ is combined with a morphology-dependent wrench map that captures fixed-tilt, variable-tilt, coaxial, and overactuated multirotor architectures. We define feasible wrench sets under actuator limits, residual wre</summary>
   </entry>
   <entry>
-    <title>Intelligent Multi-UAV Navigation in ITNTNs: A Hierarchical LLM Approach</title>
-    <link href="https://arxiv.org/abs/2607.18604"/>
-    <id>https://arxiv.org/abs/2607.18604</id>
-    <summary type="text">The deployment of high-speed Uncrewed Aerial Vehicles (UAVs) in 3D aerial highways necessitates robust coordination of physical flight kinematics and multi-tier network handovers. While Deep Reinforcement Learning (DRL) offers rapid tactical control, it lacks the zero-shot strategic reasoning required to quickly adapt to dynamic Integrated Terrestrial and Non-Terrestrial Networks (ITNTNs). Conversely, Large Language Models (LLMs) excel at semantic reasoning but suffer from high inference latency, rendering them unsuitable for real-time aerodynamic control. To bridge this gap, we propose a novel Hierarchical LLM-driven control framework. A massive cloud-based LLM deployed on a High-Altitude Platform Station (HAPS) manages slow-timescale global load balancing, while lightweight edge-LLMs on </summary>
+    <title>Morphing MILR: Design and control of a cable-driven limbless robot with rolling joints for maneuvering in complex environments</title>
+    <link href="https://arxiv.org/abs/2607.19714"/>
+    <id>https://arxiv.org/abs/2607.19714</id>
+    <summary type="text">Limbless robots offer exceptional mobility in confined and cluttered environments due to their slender bodies and their ability to exploit body-terrain interactions. Recent designs incorporating compliance demonstrate robust locomotion without complex sensing or control; however, these systems typically rely on fixed body configurations, with each morphology specialized for a single locomotion mode or environment. This raises a key challenge: how can a single limbless robot achieve versatile locomotion while preserving the robustness of compliance-mediated locomotion? To address this challenge, we present a cable-driven limbless robot that reconfigures body morphology and compliance to enable diverse locomotion modes. Distributed cable actuation generates traveling body waves, while progra</summary>
   </entry>
   <entry>
-    <title>On the Limits of Sampling-Based Reachability: Geometry, Dynamics, and Sample Complexity</title>
-    <link href="https://arxiv.org/abs/2607.18606"/>
-    <id>https://arxiv.org/abs/2607.18606</id>
-    <summary type="text">Reachability analysis is central to safety-critical control, robotics, and neural network verification, but classical computational methods, such as Hamilton--Jacobi reachability and set propagation, scale poorly with state dimension. Sampling-based methods have emerged as a promising alternative, often providing finite-sample guarantees that bound the probability-mass left uncovered. However, an explicit account of how the geometry of the initial set, the dynamics, and the sampling law affect the accuracy of the estimator is not fully available in the literature. We study this by casting sampling-based reachable-set recovery as geometric support estimation over a family of problems specified by an initial set, its dynamics, and a sampling law. First, we identify two regularity properties,</summary>
+    <title>EgoRecovery: Acquiring Failure Recovery Ability Through Human Recovery Demonstration</title>
+    <link href="https://arxiv.org/abs/2607.19745"/>
+    <id>https://arxiv.org/abs/2607.19745</id>
+    <summary type="text">Robust embodied robots should be able to recover from failures and retry tasks in order to operate reliably in unstructured and noisy real-world environments. Achieving this capability requires training policies on data that captures recovery behaviors. However, collecting such data through robot teleoperation is difficult to scale, as it is time-consuming to induce diverse failure states, perform corrective actions, and reset the environment. This challenge is further exacerbated by the high diversity of failure modes, which demands substantially more recovery data than success demonstrations. In this work, we show that egocentric human data capturing failure recovery processes provides a scalable alternative. By efficiently arranging task-level failure configurations and recording short </summary>
   </entry>
   <entry>
     <title>NASA Identifies More Than 40 Space Technologies for Collaboration - NASA</title>
@@ -351,27 +351,27 @@
     <summary type="text">NASA selected 41 proposals from 37 companies to advance technologies in support of the agency’s goals to establish a long-term presence on the Moon and enable</summary>
   </entry>
   <entry>
-    <title>Learnable Sequential Memory in Coupled Oscillator Networks</title>
-    <link href="https://arxiv.org/abs/2607.18439"/>
-    <id>https://arxiv.org/abs/2607.18439</id>
-    <summary type="text">The Hopfield network established that static memories can be stored as energy minima of a recurrent dynamical system, yet real intelligent agents must navigate \emph{sequences} of memories rather than isolated snapshots.Biological cortex addresses this through a separation of timescales: fast synaptic dynamics encode individual states while slow neuromodulatory processes govern transitions between them. Inspired by this multi-timescale organization, we propose a sequential memory architecture that is fully continuous, admits exponential storage capacity, and is learnable in the sense that the transition structure is carried by a separate routing matrix -- decoupled from the stored patterns, driven by the input context, and free to be chosen, optimized, or learned from data rather than hard</summary>
+    <title>Human-in-the-Loop Distributed Control of Grid-Interactive Buildings for Demand Response Participation</title>
+    <link href="https://arxiv.org/abs/2607.19552"/>
+    <id>https://arxiv.org/abs/2607.19552</id>
+    <summary type="text">This paper proposes a human-in-the-loop distributed consensus control approach for demand-side management across multiple buildings. Specifically, a novel framework is introduced in which a human acts as the non-autonomous leader in consensus control of cooperative buildings participating in demand response programs. In this system, the facility manager in the facility building serves as the leader, determining the participation level of cooperative buildings in demand response events while simultaneously considering occupants&#x27; comfort. Cooperative buildings align their responses with the facility management building, despite lacking direct access to the facility manager&#x27;s decisions, which presents a challenge for observer design. To address this, a nonlinear unknown input sliding-mode obs</summary>
   </entry>
   <entry>
-    <title>Large-Signal Stability Analysis of Optimization-Based Secondary Control for Distributed Energy Resources</title>
-    <link href="https://arxiv.org/abs/2607.18500"/>
-    <id>https://arxiv.org/abs/2607.18500</id>
-    <summary type="text">This article develops a large-signal stability analysis for a sampled-data optimization-based secondary controller for distributed energy resources (DERs) in power systems. The induced closed loop combines nonlinear inverter power-flow dynamics, filtered active and reactive power measurements, constrained optimization updates, and interpolation-based actuation between sampling instants. We study this optimization-in-the-loop nonlinear sampled-data system beyond local linearization. The analysis provides computable bounds on the voltage, filtered reactive power, and the secondary control input. We further characterize steady-state operating points and establish how the optimizer objectives and constraints connect voltage regulation with equal per-unitized reactive power sharing. Finally, in</summary>
+    <title>From P&amp;ID Drawings to Process Graphs: A Multimodal Language Model Approach</title>
+    <link href="https://arxiv.org/abs/2607.19568"/>
+    <id>https://arxiv.org/abs/2607.19568</id>
+    <summary type="text">Piping and instrumentation diagrams (P&amp;IDs) encode the functional structure of process plants and are a critical yet underutilised source of engineering knowledge for digital twins and intelli-gent decision support. However, digitising legacy P&amp;IDs remains challenging due to heterogene-ous drawing standards and the reliance of existing methods on brittle symbol recognition and rule-based connectivity reconstruction. This work reframes P&amp;ID digitization as the extraction of equipment tags and inference of process topology, rather than graphical reproduction. We pro-pose a two-stage workflow based on multimodal large language models, in which visual extrac-tion and topology reconstruction are treated as distinct reasoning stages guided by chemical en-gineering process knowledge. The approach</summary>
   </entry>
   <entry>
-    <title>Integrity-Gated Eco-CACC: Epistemic Admissibility for Cooperative Driving at Signalized Intersections</title>
-    <link href="https://arxiv.org/abs/2607.18565"/>
-    <id>https://arxiv.org/abs/2607.18565</id>
-    <summary type="text">Eco-Cooperative Adaptive Cruise Control (Eco-CACC) systems rely on accurate localization, signal timing, and interaction awareness to optimize energy consumption at signalized intersections. Existing approaches typically assume that the internal world model used for optimization remains valid, making them vulnerable when sensing outages or semantic inconsistencies invalidate planning premises. This letter proposes an Integrity-Gated Eco-CACC framework that explicitly monitors the consistency between internal vehicle beliefs and external sensing. A unified integrity metric is constructed by combining positional innovation, observability loss, and semantic inconsistencies. The resulting trust score regulates control authority, enabling a transition between nominal eco-driving and a safety-do</summary>
+    <title>Quantum-Resilient Distributed Optimization for Multi-Region Unit Commitment</title>
+    <link href="https://arxiv.org/abs/2607.19581"/>
+    <id>https://arxiv.org/abs/2607.19581</id>
+    <summary type="text">Multi-region unit commitment with reserve sharing requires coordinated optimization across jurisdictionally distinct system operators, exposing sensitive cost curves, topology, and dispatch decisions to inference attacks. The accelerating progress of quantum computing further compounds this threat. As quantum hardware matures, current classically-encrypted data flow becomes vulnerable to retrospective decryption. To enable post-quantum-secure distributed optimization, we propose a customized Benders decomposition-based approach with the global summation structure to share aggregated cuts and variables. By exploiting this structure, we further develop a multi-layer quantum-resilient secure aggregation protocol comprising additive masking for information-theoretic content privacy, affine var</summary>
   </entry>
   <entry>
-    <title>Stochastic Capacity Accreditation: Incentivizing Resource Adequacy under Weather Uncertainty</title>
-    <link href="https://arxiv.org/abs/2607.18653"/>
-    <id>https://arxiv.org/abs/2607.18653</id>
-    <summary type="text">High penetrations of variable renewable energy introduce significant resource adequacy challenges, particularly when weather-driven uncertainty affects renewable availability, electricity demand, and the effective capacity of thermal generators. Existing capacity credit accreditation methods often neglect these correlated weather effects, which may overstate firm capacity, distort long-term investment decisions, and weaken reliability outcomes in electricity market with price caps. This paper proposes a two-stage stochastic optimization framework for capacity accreditation that explicitly captures uncertainty in wind, solar, and temperature-dependent thermal derating. Using five years of ERCOT demand and renewable availability data, we compare the proposed stochastic capacity credit method</summary>
+    <title>Do Co-Located AI Training Jobs Synchronize? Load-Dependent Throttling as a Coupling Mechanism for Phase-Locking Behind a Shared Power Cap</title>
+    <link href="https://arxiv.org/abs/2607.19638"/>
+    <id>https://arxiv.org/abs/2607.19638</id>
+    <summary type="text">Large-scale AI training turns computing facilities into multi-megawatt loads whose power draw is periodic: tens of thousands of accelerators step in lockstep between compute-bound phases near peak power and communication-bound phases where they idle. Prior work treats each facility as an exogenous periodic forcing on the grid. We pose the operator&#x27;s question instead: when many independent training jobs share one oversubscribed power envelope, do their cycles stay independent, so aggregate fluctuation grows as the square root of the number of jobs, or can the power-management stack phase-lock them into linear growth? This is emergent synchronization in a population of nonlinear oscillators - the Kuramoto setting - but classical coupling is absent, since accelerator clocks are decoupled from</summary>
   </entry>
 </feed>

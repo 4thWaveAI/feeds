@@ -125,21 +125,6 @@
       ]
     },
     {
-      "id": "https://www.ftc.gov/news-events/events/2026/07/veterans-here-are-ways-help-protect-your-small-business",
-      "url": "https://www.ftc.gov/news-events/events/2026/07/veterans-here-are-ways-help-protect-your-small-business",
-      "title": "Veterans: Here are Ways to Help Protect Your Small Business",
-      "content_text": "As a veteran, you’ve worked hard to protect our country. And if you run a small business, you know how important it is to have protections against scammers.",
-      "attachments": [
-        {
-          "url": "https://www.ftc.gov/sites/default/files/ftc_gov/images/ftc_social_share_default_en.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai-policy-ethics-standards"
-      ]
-    },
-    {
       "id": "https://www.nist.gov/news-events/news/2026/06/department-commerce-announces-definitive-agreement-sandboxaq-500-million",
       "url": "https://www.nist.gov/news-events/news/2026/06/department-commerce-announces-definitive-agreement-sandboxaq-500-million",
       "title": "Department of Commerce Announces Definitive Agreement with SandboxAQ for a $500 Million CHIPS R&D Award to Accelerate Al-Driven Semiconductor Materials Discovery",
@@ -163,6 +148,21 @@
         {
           "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2025/07/25/CHIPS%20Xcelerate%202X-fullcolor.png?itok=0uAutXTW",
           "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai-policy-ethics-standards"
+      ]
+    },
+    {
+      "id": "https://www.ftc.gov/news-events/events/2026/07/helping-military-patrons-spot-avoid-scams",
+      "url": "https://www.ftc.gov/news-events/events/2026/07/helping-military-patrons-spot-avoid-scams",
+      "title": "Helping Military Patrons Spot and Avoid Scams",
+      "content_text": "Librarians serve as a resource to military consumers both on- and off base. Whether you’re helping active-duty servicemembers, veterans, and military families, this webinar is for you.",
+      "attachments": [
+        {
+          "url": "https://www.ftc.gov/sites/default/files/ftc_gov/images/ftc_social_share_default_en.jpg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -383,15 +383,6 @@
       ]
     },
     {
-      "id": "https://digital-strategy.ec.europa.eu/en/news/new-genai-pilots-public-administrations",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/new-genai-pilots-public-administrations",
-      "title": "New GenAI pilots for public administrations",
-      "content_text": "Three new pilot projects supporting the uptake of Generative AI in public administrations officially started on 1 July 2026.",
-      "tags": [
-        "ai-policy-ethics-standards"
-      ]
-    },
-    {
       "id": "https://digital-strategy.ec.europa.eu/en/news/digital-technologies-power-europes-clean-energy-transition",
       "url": "https://digital-strategy.ec.europa.eu/en/news/digital-technologies-power-europes-clean-energy-transition",
       "title": "Digital technologies to power Europe's clean energy transition",
@@ -410,19 +401,25 @@
       ]
     },
     {
-      "id": "https://digital-strategy.ec.europa.eu/en/news/eu-agrees-simplify-ai-rules-boost-innovation-and-ban-nudification-apps-protect-citizens",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/eu-agrees-simplify-ai-rules-boost-innovation-and-ban-nudification-apps-protect-citizens",
-      "title": "EU agrees to simplify AI rules to boost innovation and ban ‘nudification' apps to protect citizens",
-      "content_text": "The European Commission welcomes the political agreement reached between the European Parliament and the Council of the EU on simpler, innovation-friendly rules for artificial intelligence (AI).",
+      "id": "https://digital-strategy.ec.europa.eu/en/news/supporting-implementation-ai-act-clear-guidelines",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/supporting-implementation-ai-act-clear-guidelines",
+      "title": "Supporting the implementation of the AI Act with clear guidelines",
+      "content_text": "The AI Office is preparing guidelines to ensure a smooth implementation of the AI Act.",
       "tags": [
         "ai-policy-ethics-standards"
       ]
     },
     {
-      "id": "https://digital-strategy.ec.europa.eu/en/news/supporting-implementation-ai-act-clear-guidelines",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/supporting-implementation-ai-act-clear-guidelines",
-      "title": "Supporting the implementation of the AI Act with clear guidelines",
-      "content_text": "The AI Office is preparing guidelines to ensure a smooth implementation of the AI Act.",
+      "id": "https://www.digital.go.jp/en/news/9df060ae-3a45-483d-8f4b-97a05d75b2c3",
+      "url": "https://www.digital.go.jp/en/news/9df060ae-3a45-483d-8f4b-97a05d75b2c3",
+      "title": "Inauguration Ceremony for the 2026 Digital Reform Co-Creation Platform Ambassadors held｜Digital Agency",
+      "content_text": "The Digital Agency, has been established on September1, 2021, contributes to reforming the culture of administration in a user-driven manner through digitalization.",
+      "attachments": [
+        {
+          "url": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp-en.png",
+          "mime_type": "image/png"
+        }
+      ],
       "tags": [
         "ai-policy-ethics-standards"
       ]

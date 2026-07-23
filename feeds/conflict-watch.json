@@ -155,6 +155,36 @@
       ]
     },
     {
+      "id": "https://www.gov.uk/foreign-travel-advice/kuwait",
+      "url": "https://www.gov.uk/foreign-travel-advice/kuwait",
+      "title": "Kuwait travel advice",
+      "content_text": "FCDO travel advice for Kuwait. Includes safety and security, insurance, entry requirements and legal differences.",
+      "attachments": [
+        {
+          "url": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "conflict-watch"
+      ]
+    },
+    {
+      "id": "https://www.gov.uk/foreign-travel-advice/bahrain",
+      "url": "https://www.gov.uk/foreign-travel-advice/bahrain",
+      "title": "Bahrain travel advice",
+      "content_text": "FCDO travel advice for Bahrain. Includes safety and security, insurance, entry requirements and legal differences.",
+      "attachments": [
+        {
+          "url": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "conflict-watch"
+      ]
+    },
+    {
       "id": "https://www.gov.uk/foreign-travel-advice/iran",
       "url": "https://www.gov.uk/foreign-travel-advice/iran",
       "title": "Iran travel advice",
@@ -264,36 +294,6 @@
       "url": "https://www.gov.uk/government/publications/ukkazakhstan-strategic-partnership-and-cooperation-agreement-ts-no282026",
       "title": "UK/Kazakhstan: Strategic Partnership and Cooperation Agreement [TS No.28/2026]",
       "content_text": "This treaty was presented to Parliament in July 2026.",
-      "attachments": [
-        {
-          "url": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "conflict-watch"
-      ]
-    },
-    {
-      "id": "https://www.gov.uk/foreign-travel-advice/turkey",
-      "url": "https://www.gov.uk/foreign-travel-advice/turkey",
-      "title": "Turkey travel advice",
-      "content_text": "Latest FCDO travel advice for Turkey including on entry requirements, safety and security and local laws and customs.",
-      "attachments": [
-        {
-          "url": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "conflict-watch"
-      ]
-    },
-    {
-      "id": "https://www.gov.uk/foreign-travel-advice/jordan",
-      "url": "https://www.gov.uk/foreign-travel-advice/jordan",
-      "title": "Jordan travel advice",
-      "content_text": "FCDO travel advice for Jordan. Includes safety and security, insurance, entry requirements and legal differences.",
       "attachments": [
         {
           "url": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",

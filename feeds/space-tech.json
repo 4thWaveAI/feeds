@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.json",
   "items": [
     {
+      "id": "https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/",
+      "url": "https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/",
+      "title": "Olympic Mountain Glory - NASA Science",
+      "content_text": "Snow-capped mountains carved by deep river valleys preside over northwestern Washington state.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/olympic-mountain-glory/ISS047-E-104144_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/",
       "url": "https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/",
       "title": "Robotic Servicing Mission Launches with NASA Support - NASA",
@@ -77,21 +92,6 @@
         {
           "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-week-of-smoky-skies-across-north-america/nambrowncarbon_geos5_20260720.mp4",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/",
-      "url": "https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/",
-      "title": "NISAR’s L-Band Radar Reveals ‘Hummingbird’ in Antarctica - NASA Science",
-      "content_text": "Data from the Earth-orbiting U.S.-India NISAR (NASA-ISRO Synthetic Aperture Radar) satellite’s L-band radar was used to produce an image of Nunatak",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26617/PIA26617.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-          "mime_type": "image/png"
         }
       ],
       "tags": [
