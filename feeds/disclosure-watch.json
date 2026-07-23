@@ -5,6 +5,55 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/disclosure-watch.json",
   "items": [
     {
+      "id": "https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/",
+      "url": "https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/",
+      "title": "Olympic Mountain Glory - NASA Science",
+      "content_text": "Snow-capped mountains carved by deep river valleys preside over northwestern Washington state.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/olympic-mountain-glory/ISS047-E-104144_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/exoplanets/immersive/exoplanet-travel-bureau/proxima-centauri-b/",
+      "url": "https://science.nasa.gov/exoplanets/immersive/exoplanet-travel-bureau/proxima-centauri-b/",
+      "title": "Exoplanet Travel Bureau: Proxima Centauri b - NASA Science",
+      "content_text": "Tidally locked, ready  to rock — and only 4.2 light-years from Earth",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/exo-explore/exoplanet-travel-bureau/proxima-b/Proxima_b_poster_image_only--no-border-5x4.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/exo-explore/exoplanet-travel-bureau/proxima-b/PROXIMA-b_Poster_Flythru_001.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/upcoming-sig-and-sag-activities/",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/upcoming-sig-and-sag-activities/",
+      "title": "Upcoming SIG and SAG Activities, 23 July - 29 July 2026 - NASA Science",
+      "content_text": "Upcoming Science Interest Group & Science Analysis Group Activities, 23 July - 29 July 2026",
+      "attachments": [
+        {
+          "url": "https://science.nasa.gov/wp-content/uploads/2023/10/NASA_logo-1.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
       "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/jwst-cycle-6-call-for-proposals/",
       "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/jwst-cycle-6-call-for-proposals/",
       "title": "JWST Cycle 6 Call for Proposals - NASA Science",
@@ -35,32 +84,13 @@
       ]
     },
     {
-      "id": "https://science.nasa.gov/resource/join-the-jam-on-proxima-b/",
-      "url": "https://science.nasa.gov/resource/join-the-jam-on-proxima-b/",
-      "title": "Join the Jam on Proxima b - NASA Science",
-      "content_text": "Tidally Locked and Ready to Rock! Only 4.2 Light-Years From Earth! It's always golden hour at the Perpetual Sunset Stadium on Proxima Centauri b. This planet",
+      "id": "https://www.nasa.gov/starport/kickboxing/",
+      "url": "https://www.nasa.gov/starport/kickboxing/",
+      "title": "Kickboxing - NASA",
+      "content_text": "Kickboxing combines practical striking techniques with dynamic, full-body exercise to develop cardiovascular fitness, coordination, balance, agility, and",
       "attachments": [
         {
-          "url": "https://assets.science.nasa.gov/content/dam/science/astro/exo-explore/exoplanet-travel-bureau/proxima-b/Proxima_b_poster_image_only--no-border-5x4.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/astro/exo-explore/exoplanet-travel-bureau/proxima-b/PROXIMA-b_Poster_Flythru_001.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/photojournal/mapping-ios-hidden-heat-with-nasas-juno/",
-      "url": "https://science.nasa.gov/photojournal/mapping-ios-hidden-heat-with-nasas-juno/",
-      "title": "Mapping Io’s Hidden Heat With NASA’s Juno - NASA Science",
-      "content_text": "This graphic illustrates the areas of Jupiter’s moon Io sampled by the Microwave Radiometer (MWR) instrument aboard NASA’s Juno spacecraft during two close",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26757/PIA26757.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/starport-web-banners-kickboxing.png",
           "mime_type": "image/png"
         }
       ],
@@ -69,13 +99,13 @@
       ]
     },
     {
-      "id": "https://science.nasa.gov/photojournal/nasas-juno-peers-beneath-ios-surface/",
-      "url": "https://science.nasa.gov/photojournal/nasas-juno-peers-beneath-ios-surface/",
-      "title": "NASA’s Juno Peers Beneath Io’s Surface - NASA Science",
-      "content_text": "This map represents data captured by the Microwave Radiometer (MWR) aboard NASA’s Juno spacecraft, indicating heat rising from just beneath the surface of",
+      "id": "https://www.nasa.gov/podcasts/small-steps-giant-leaps/small-steps-giant-leaps-episode-178-science-takes-a-village-in-alabama/",
+      "url": "https://www.nasa.gov/podcasts/small-steps-giant-leaps/small-steps-giant-leaps-episode-178-science-takes-a-village-in-alabama/",
+      "title": "Small Steps, Giant Leaps: Episode 178: Science - It Takes a Village (in Alabama) - NASA",
+      "content_text": "Ground teams connect with astronauts aboard the International Space Station to help them carry out research and experiments. Kassandra Stephens, payload communications manager at the Payload Operations Integration Center at Marshall Space Flight Center, works with space station crews to get science done.",
       "attachments": [
         {
-          "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26756/PIA26756.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/02/ssgl-4-by-3.png",
           "mime_type": "image/png"
         }
       ],
@@ -121,36 +151,6 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2026/07/darryl-gaines.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-chris-williams-crewmates-return/",
-      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-chris-williams-crewmates-return/",
-      "title": "NASA Sets Coverage for Astronaut Chris Williams, Crewmates Return - NASA",
-      "content_text": "NASA astronaut Chris Williams and Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev are wrapping up their 241‑day mission aboard the International",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/williams.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/image-article/a-new-look-and-sound-for-messier-94/",
-      "url": "https://www.nasa.gov/image-article/a-new-look-and-sound-for-messier-94/",
-      "title": "A New Look – and Sound – for Messier 94 - NASA",
-      "content_text": "NASA's Chandra X-ray Observatory unveiled this new look at the galaxy NGC 4736, also known as Messier 94, on June 30, 2026. Messier 94 is a spiral galaxy with",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/250th-ngc4736.jpg",
           "mime_type": "image/jpeg"
         }
       ],

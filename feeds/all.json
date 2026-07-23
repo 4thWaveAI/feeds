@@ -5,6 +5,134 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
+      "id": "https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/",
+      "url": "https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/",
+      "title": "Olympic Mountain Glory - NASA Science",
+      "content_text": "Snow-capped mountains carved by deep river valleys preside over northwestern Washington state.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/olympic-mountain-glory/ISS047-E-104144_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
+      "url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
+      "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
+      "content_text": "NVIDIA founder and CEO Jensen Huang joined school leadership in Monterey, California, to commission the system, which will fuel AI education and research at the US military’s premier technical graduate university.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/260722-N-UT641-7052-scaled.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/zDuZmccxjlA?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/mobile-legends-bang-bang/flcn-hadji-international-stage-msc-ewc-2026/",
+      "url": "https://esports.gg/news/mobile-legends-bang-bang/flcn-hadji-international-stage-msc-ewc-2026/",
+      "title": "FLCN Hadji ecstatic to be back in the international stage in MSC at EWC 2026: \"I really miss this feeling.\"",
+      "content_text": "Hadji shares his excitement as he returns to the international stage. Here are his thoughts on the MSC at EWC 2026.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/07/FLCN-Hadji-ecstatic-to-be-back-in-the-international-stage-in-MSC-at-EWC-2026-I-really-miss-this-feeling.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/exoplanets/immersive/exoplanet-travel-bureau/proxima-centauri-b/",
+      "url": "https://science.nasa.gov/exoplanets/immersive/exoplanet-travel-bureau/proxima-centauri-b/",
+      "title": "Exoplanet Travel Bureau: Proxima Centauri b - NASA Science",
+      "content_text": "Tidally locked, ready  to rock — and only 4.2 light-years from Earth",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/exo-explore/exoplanet-travel-bureau/proxima-b/Proxima_b_poster_image_only--no-border-5x4.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/exo-explore/exoplanet-travel-bureau/proxima-b/PROXIMA-b_Poster_Flythru_001.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2026-07-reusable-magnetic-microplastics-pfas.html",
+      "url": "https://phys.org/news/2026-07-reusable-magnetic-microplastics-pfas.html",
+      "title": "Reusable magnetic invention removes microplastics plus some PFAS from water",
+      "content_text": "Microplastics are an increasing global concern, with growing evidence of their presence in water systems. RMIT University researchers have developed a water treatment material that rapidly removes micro- and nanoplastics and some PFAS (per- and polyfluoroalkyl substances), bringing the technology closer to real-world use. The invention builds on the team's 2022 breakthrough in microplastics removal, extending its performance to much smaller particles and more complex wastewater.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2026/magnetic-invention-rem.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://esportsinsider.com/2026/07/karmine-corp-tcg-monetization-strat",
+      "url": "https://esportsinsider.com/2026/07/karmine-corp-tcg-monetization-strat",
+      "title": "Forget the burrito bowl: Karmine Corp's Blue Rising TCG is the future of esports monetization",
+      "content_text": "Sick of the boring slapped on logos and lazy sponsored social media posts? Karmine Corp is showing how esports can truly thrive.",
+      "attachments": [
+        {
+          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/Screenshot-2026-07-22-132559.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/upcoming-sig-and-sag-activities/",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/upcoming-sig-and-sag-activities/",
+      "title": "Upcoming SIG and SAG Activities, 23 July - 29 July 2026 - NASA Science",
+      "content_text": "Upcoming Science Interest Group & Science Analysis Group Activities, 23 July - 29 July 2026",
+      "attachments": [
+        {
+          "url": "https://science.nasa.gov/wp-content/uploads/2023/10/NASA_logo-1.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/overwatch/lich-queen-mei-rises-in-new-overwatch-x-world-of-warcraft-collaboration/",
+      "url": "https://esports.gg/news/overwatch/lich-queen-mei-rises-in-new-overwatch-x-world-of-warcraft-collaboration/",
+      "title": "Lich Queen Mei rises in new Overwatch x World of Warcraft collaboration!",
+      "content_text": "The legendary Lich Queen Mei skin and Frostmourne Ana weapon have entered Overwatch as part of the game's latest World of Warcraft crossover.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/07/Lich-Queen-Mei-rises-in-new-Overwatch-x-Warcraft-collaboration-Article-By-Esportsgg-Images-via-Blizzard-Entertainment-Lich-Queen-Mei-Skin-Frostmourne-Ana-Skin-Overwatch-Warcraft-Collab-Crossover-S.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
       "id": "https://phys.org/news/2026-07-optical-method-proteins-shift.html",
       "url": "https://phys.org/news/2026-07-optical-method-proteins-shift.html",
       "title": "New optical method follows single proteins as they shift shape",
@@ -95,6 +223,21 @@
       ]
     },
     {
+      "id": "https://esports.gg/news/teamfight-tactics/huanmie-talks-tft-space-gods-tacticians-crown-i-still-believe-im-one-of-the-most-dominant-tft-players-in-the-world/",
+      "url": "https://esports.gg/news/teamfight-tactics/huanmie-talks-tft-space-gods-tacticians-crown-i-still-believe-im-one-of-the-most-dominant-tft-players-in-the-world/",
+      "title": "Huanmie talks TFT Space Gods Tactician's Crown: \"I still believe I'm one of the most dominant TFT players in the world.\"",
+      "content_text": "Huanmie won the TFT Space Gods Tactician's Crown. Here's what he said about his victory plus his advice to players who wish to start their own TFT esports journey.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/07/Huanmie-talks-TFT-Space-Gods-Tacticians-Crown-I-still-believe-Im-one-of-the-most-dominant-TFT-players-in-the-world-Article-By-Esportsgg-Image-via-Riot-Games.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
       "id": "https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/",
       "url": "https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/",
       "title": "Make Long-Running NVIDIA TensorRT Engine Builds Observable and Cancelable in Python or C++ | NVIDIA Technical Blog",
@@ -107,25 +250,6 @@
       ],
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/resource/join-the-jam-on-proxima-b/",
-      "url": "https://science.nasa.gov/resource/join-the-jam-on-proxima-b/",
-      "title": "Join the Jam on Proxima b - NASA Science",
-      "content_text": "Tidally Locked and Ready to Rock! Only 4.2 Light-Years From Earth! It's always golden hour at the Perpetual Sunset Stadium on Proxima Centauri b. This planet",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/astro/exo-explore/exoplanet-travel-bureau/proxima-b/Proxima_b_poster_image_only--no-border-5x4.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/astro/exo-explore/exoplanet-travel-bureau/proxima-b/PROXIMA-b_Poster_Flythru_001.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
       ]
     },
     {
@@ -325,6 +449,21 @@
       ],
       "tags": [
         "satya-nadella"
+      ]
+    },
+    {
+      "id": "https://www.nist.gov/news-events/news/2026/07/nist-announces-funding-opportunity-14-mep-centers-advance-small-and-medium",
+      "url": "https://www.nist.gov/news-events/news/2026/07/nist-announces-funding-opportunity-14-mep-centers-advance-small-and-medium",
+      "title": "NIST Announces Funding Opportunity for 14 MEP Centers to Advance Small and Medium-Sized U.S. Manufacturers",
+      "content_text": "NIST MEP will host an informational webinar on Tuesday, July 28, 2026, at 1 p.m. ET to provide general information about this opportunity and guidance on preparing applications.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/07/22/MEP%20Banner.png?itok=nN9qhFfl",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
       ]
     },
     {
@@ -587,21 +726,6 @@
       ]
     },
     {
-      "id": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
-      "url": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
-      "title": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI | NVIDIA Technical Blog",
-      "content_text": "What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale. These factories are now tasked with…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-rubin-gpu.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/",
       "url": "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/",
       "title": "NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI | NVIDIA Technical Blog",
@@ -632,6 +756,21 @@
       ]
     },
     {
+      "id": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
+      "url": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
+      "title": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI | NVIDIA Technical Blog",
+      "content_text": "What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale. These factories are now tasked with…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-rubin-gpu.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "https://esports.gg/news/mobile-legends-bang-bang/mlbb-ai-generated-main-menu-layla-backlash/",
       "url": "https://esports.gg/news/mobile-legends-bang-bang/mlbb-ai-generated-main-menu-layla-backlash/",
       "title": "MLBB backtracks after fans outrage over AI-generated main menu in advanced server",
@@ -647,18 +786,18 @@
       ]
     },
     {
-      "id": "https://esports.gg/news/saudia-ewc-2026-airline-partner-branded-plane/",
-      "url": "https://esports.gg/news/saudia-ewc-2026-airline-partner-branded-plane/",
-      "title": "Saudia unveils esports-branded plane for EWC 2026's Paris debut",
-      "content_text": "Saudia's expanded deal with the Esports Foundation includes a specially branded plane flying daily between Riyadh and Paris for the duration of EWC 2026.",
+      "id": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
+      "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
+      "title": "NVIDIA and Partners Build in America, for America",
+      "content_text": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
       "attachments": [
         {
-          "url": "https://media.esports.gg/uploads/2026/07/saudia-unveils-esports-branded-plane-for-ewc-2026s-paris-deb-1.avif",
-          "mime_type": "image/avif"
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/made-in-america-still-1920x1080-1.jpg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
-        "gsel-esports-ai"
+        "ai"
       ]
     },
     {
@@ -689,36 +828,6 @@
       ],
       "tags": [
         "biotech"
-      ]
-    },
-    {
-      "id": "https://esports.gg/news/league-of-legends/blg-bin-break-health-concerns/",
-      "url": "https://esports.gg/news/league-of-legends/blg-bin-break-health-concerns/",
-      "title": "BLG Bin to take a temporary break amid health concerns",
-      "content_text": "Due to health concerns, BLG top laner Bin will be taking a break from competitive League of Legends ahead of LPL Split 3.",
-      "attachments": [
-        {
-          "url": "https://media.esports.gg/uploads/2026/07/blg-bin.avif",
-          "mime_type": "image/avif"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
-      "id": "https://esports.gg/news/byd-team-vitality-esports-sponsor/",
-      "url": "https://esports.gg/news/byd-team-vitality-esports-sponsor/",
-      "title": "Team Vitality signs BYD as official vehicle partner for summer 2026",
-      "content_text": "BYD France and Team Vitality have confirmed a new vehicle supply deal covering rosters across Rocket League, Tekken 8, Teamfight Tactics, and several other titles for the summer period.",
-      "attachments": [
-        {
-          "url": "https://media.esports.gg/uploads/2026/07/team-vitality-signs-byd-as-official-vehicle-partner-for-summ-1.avif",
-          "mime_type": "image/avif"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
       ]
     },
     {
@@ -809,115 +918,6 @@
       ],
       "tags": [
         "nanotech"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/blogs/science-news/2026/07/20/nasa-funded-study-shows-how-controlled-burns-help-sequoias-survive-wildfires/",
-      "url": "https://science.nasa.gov/blogs/science-news/2026/07/20/nasa-funded-study-shows-how-controlled-burns-help-sequoias-survive-wildfires/",
-      "title": "NASA-Funded Study Shows How Controlled Burns Help Sequoias Survive Wildfires - NASA Science",
-      "content_text": "A new study, funded by NASA, found that giant sequoias were nearly four times more likely to survive extreme wildfires in forests that have been managed with prescribed burns, which decrease tree mortality.",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/esd/esnt/GiantSequoias.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "climate-environment"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2026-07-acid-resistant-nanocage-gastric-cancer.html",
-      "url": "https://phys.org/news/2026-07-acid-resistant-nanocage-gastric-cancer.html",
-      "title": "Acid-resistant nanocage shows promise for targeted gastric cancer therapy",
-      "content_text": "Researchers from the Yong Loo Lin School of Medicine, National University of Singapore (NUS Medicine), have developed a swallowable nanoscale delivery platform designed to transport therapeutic enzymes through the stomach's acidic environment and activate a cancer-killing reaction at tumor sites. Early preclinical findings suggest that the approach may offer a new strategy for treating gastric cancer more precisely while reducing damage to healthy tissue.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2026/nus-medicine-scientist.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/ieee-program-girls-india-stem",
-      "url": "https://spectrum.ieee.org/ieee-program-girls-india-stem",
-      "title": "IEEE Program Helps Girls In India See a Future In STEM",
-      "content_text": "Hands-on projects and role models open doors for STEM careers",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/a-group-of-university-student-volunteers-posing-together-in-matching-tee-shirts.jpg?id=67499901&width=1200&height=600&coordinates=0%2C125%2C0%2C125",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://esportsinsider.com/2026/07/souith-american-dota-2-playtime-esports-world-cup",
-      "url": "https://esportsinsider.com/2026/07/souith-american-dota-2-playtime-esports-world-cup",
-      "title": "South American Dota 2 just got dealt one of its worst blows yet after PlayTime's scandal at the Esports World Cup",
-      "content_text": "South American Dota 2 just got dealt one of its worst blows in God knows how long after PlayTime's EWC elimination.",
-      "attachments": [
-        {
-          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/image-27-large.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
-      "id": "https://www.pewresearch.org/short-reads/2026/07/20/how-global-energy-production-is-changing-in-6-charts/",
-      "url": "https://www.pewresearch.org/short-reads/2026/07/20/how-global-energy-production-is-changing-in-6-charts/",
-      "title": "How global energy production is changing, in 6 charts",
-      "content_text": "Fossil fuels still dominate global electricity, but wind and solar are surging. In 2025, renewables outpaced coal worldwide for the first time, supplying 34% of electricity.",
-      "attachments": [
-        {
-          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/SR_26.07.20_GlobalEnergyTrends_featured.png?w=1200&h=628&crop=1",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories/",
-      "url": "https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories/",
-      "title": "NVIDIA NVLink: The Scale-Up Network for AI Factories | NVIDIA Technical Blog",
-      "content_text": "The demand for AI continues to accelerate. Workloads are getting larger, models are becoming more complex, and there is mounting pressure to deploy AI compute infrastructure faster than ever.",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/nvlinkimage1_16x9.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
-      "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
-      "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
-      "content_text": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/siggraph-featured-still-1920x1080-1.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/5451751_26Sigg_Promo_Pack_1280x720_v03.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "ai"
       ]
     }
   ]

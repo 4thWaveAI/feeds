@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai-oversight.json",
   "items": [
     {
+      "id": "https://www.nist.gov/news-events/news/2026/07/nist-announces-funding-opportunity-14-mep-centers-advance-small-and-medium",
+      "url": "https://www.nist.gov/news-events/news/2026/07/nist-announces-funding-opportunity-14-mep-centers-advance-small-and-medium",
+      "title": "NIST Announces Funding Opportunity for 14 MEP Centers to Advance Small and Medium-Sized U.S. Manufacturers",
+      "content_text": "NIST MEP will host an informational webinar on Tuesday, July 28, 2026, at 1 p.m. ET to provide general information about this opportunity and guidance on preparing applications.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/07/22/MEP%20Banner.png?itok=nN9qhFfl",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai-oversight"
+      ]
+    },
+    {
       "id": "https://www.nist.gov/news-events/news/2026/07/nist-receives-new-patent-microbe-killing-water-heater",
       "url": "https://www.nist.gov/news-events/news/2026/07/nist-receives-new-patent-microbe-killing-water-heater",
       "title": "NIST Receives New Patent for Microbe-Killing Water Heater",
@@ -198,21 +213,6 @@
       "url": "https://www.alignment.org/blog/announcing-the-arc-white-box-estimation-challenge/",
       "title": "Announcing the ARC White-Box Estimation Challenge",
       "content_text": "ARC has teamed up with AIcrowd to launch the ARC White-Box Estimation Challenge, a contest to improve upon our estimation algorithms for random MLPs. The warm-up round begins this week, and later rounds will have a total prize pool of at least $100,000.\n\n\nWe are very grateful",
-      "tags": [
-        "ai-oversight"
-      ]
-    },
-    {
-      "id": "https://www.nist.gov/news-events/news/2026/05/nist-expands-ai-consortiums-scope-calls-new-members",
-      "url": "https://www.nist.gov/news-events/news/2026/05/nist-expands-ai-consortiums-scope-calls-new-members",
-      "title": "NIST Expands AI Consortium’s Scope, Calls for New Members",
-      "content_text": "The consortium will focus on AI innovation and adoption, with six task groups concentrating on different aspects of AI measurement science and evaluation.",
-      "attachments": [
-        {
-          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2023/11/02/shutterstock_1218220324.jpg?itok=eIsPazYV",
-          "mime_type": "image/jpeg"
-        }
-      ],
       "tags": [
         "ai-oversight"
       ]

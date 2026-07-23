@@ -5,6 +5,25 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.json",
   "items": [
     {
+      "id": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
+      "url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
+      "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
+      "content_text": "NVIDIA founder and CEO Jensen Huang joined school leadership in Monterey, California, to commission the system, which will fuel AI education and research at the US military’s premier technical graduate university.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/260722-N-UT641-7052-scaled.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/zDuZmccxjlA?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
       "id": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
       "url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
       "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
@@ -107,25 +126,6 @@
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/ethernet-spectrum-x-corp-blog-1920x1080-5205700.jpg",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jensen-huang"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
-      "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
-      "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
-      "content_text": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/siggraph-featured-still-1920x1080-1.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/5451751_26Sigg_Promo_Pack_1280x720_v03.mp4",
-          "mime_type": "video/mp4"
         }
       ],
       "tags": [
@@ -370,13 +370,13 @@
       ]
     },
     {
-      "id": "https://nvidianews.nvidia.com/news/nvidia-agent-toolkit-expands-with-new-omniverse-libraries-putting-ai-agents-to-work-building-simulation-ready-worlds",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-agent-toolkit-expands-with-new-omniverse-libraries-putting-ai-agents-to-work-building-simulation-ready-worlds",
-      "title": "NVIDIA Agent Toolkit Expands With New Omniverse Libraries, Putting AI Agents to Work Building Simulation-Ready Worlds",
-      "content_text": "NVIDIA today announced that NVIDIA Agent Toolkit now includes NVIDIA Omniverse™ libraries — a collection of software components that give AI agents tools and skills to add physical AI capabilities to existing applications and prepare 3D content for simulation.",
+      "id": "https://nvidianews.nvidia.com/news/japans-robotics-and-manufacturing-leaders-build-on-nvidia-cosmos-to-advance-physical-ai-frontier",
+      "url": "https://nvidianews.nvidia.com/news/japans-robotics-and-manufacturing-leaders-build-on-nvidia-cosmos-to-advance-physical-ai-frontier",
+      "title": "Japan’s Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier",
+      "content_text": "NVIDIA today announced that Japan’s physical AI leaders are building on the NVIDIA Cosmos™, NVIDIA Isaac™, NVIDIA Metropolis and NVIDIA Jetson™ platforms to accelerate the deployment of intelligent machines across manufacturing, mobility, infrastructure and robotics.",
       "attachments": [
         {
-          "url": "https://iprsoftwaremedia.com/219/files/202607/7da24036858337008646d9a6a3752ac4/6a5aaa273d63320eee00f8a6_nvidia-omniverse-libraries/nvidia-omniverse-libraries_65052a7c-b8c9-4405-8de6-07ab084378a4-prv.jpg?v=65052a7c-b8c9-4405-8de6-07ab084378a4",
+          "url": "https://iprsoftwaremedia.com/219/files/202607/ec180c85cf8840fb0edaf360eba98abd/6a580ccd3d63323228944ad6_NVIDIA%20Cosmos%20in%20Japan/NVIDIA%20Cosmos%20in%20Japan_0846fd59-e6d6-419e-91a3-f8cd075ab146-prv.jpg?v=0846fd59-e6d6-419e-91a3-f8cd075ab146",
           "mime_type": "image/jpeg"
         }
       ],
@@ -385,13 +385,13 @@
       ]
     },
     {
-      "id": "https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure",
-      "url": "https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure",
-      "title": "Japan Government, Industrial Leaders and NVIDIA Launch the World’s First National AI Infrastructure",
-      "content_text": "NVIDIA today announced it is working with Noetra Corp. to launch an NVIDIA Vera Rubin AI factory with 13,750 NVIDIA Vera CPUs and 27,500 NVIDIA Rubin GPUs for national physical AI.",
+      "id": "https://nvidianews.nvidia.com/news/nvidia-agent-toolkit-expands-with-new-omniverse-libraries-putting-ai-agents-to-work-building-simulation-ready-worlds",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-agent-toolkit-expands-with-new-omniverse-libraries-putting-ai-agents-to-work-building-simulation-ready-worlds",
+      "title": "NVIDIA Agent Toolkit Expands With New Omniverse Libraries, Putting AI Agents to Work Building Simulation-Ready Worlds",
+      "content_text": "NVIDIA today announced that NVIDIA Agent Toolkit now includes NVIDIA Omniverse™ libraries — a collection of software components that give AI agents tools and skills to add physical AI capabilities to existing applications and prepare 3D content for simulation.",
       "attachments": [
         {
-          "url": "https://iprsoftwaremedia.com/219/files/202607/06eb47bace9f6c49172afcccaea0f7a0/6a57f2cd3d6332c269944adc_japan-ai-infrastructure/japan-ai-infrastructure_396d279d-90dd-48ec-9372-c71a7a15dbfb-prv.jpg?v=396d279d-90dd-48ec-9372-c71a7a15dbfb",
+          "url": "https://iprsoftwaremedia.com/219/files/202607/7da24036858337008646d9a6a3752ac4/6a5aaa273d63320eee00f8a6_nvidia-omniverse-libraries/nvidia-omniverse-libraries_65052a7c-b8c9-4405-8de6-07ab084378a4-prv.jpg?v=65052a7c-b8c9-4405-8de6-07ab084378a4",
           "mime_type": "image/jpeg"
         }
       ],
@@ -418,7 +418,7 @@
       "id": "https://blogs.nvidia.com/blog/category/enterprise/",
       "url": "https://blogs.nvidia.com/blog/category/enterprise/",
       "title": "AI Infrastructure Archives",
-      "content_text": "Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend,...",
+      "content_text": "NVIDIA founder and CEO Jensen Huang today visited the Naval Postgraduate School in Monterey, California, to commission an NVIDIA DGX GB300 system — bringing one...",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2026/03/nvidia-kv-2026-ari.jpg",
@@ -754,7 +754,7 @@
       "content_text": "The official source for news about Apple, from Apple. Read press releases, get updates, watch video and download images.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202607202327=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202607202325=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -784,7 +784,7 @@
       "content_text": "Discover more stories from Apple Newsroom that showcase the creators, developers, and innovators leaving the world better than they found it.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1784590025777=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1784590322045=",
           "mime_type": "image/jpeg"
         }
       ],

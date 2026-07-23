@@ -4,7 +4,14 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai</id>
-  <updated>Wed, 22 Jul 2026 19:48:39 +0000</updated>
+  <updated>Thu, 23 Jul 2026 03:49:12 +0000</updated>
+  <entry>
+    <title>NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School</title>
+    <link href="https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/"/>
+    <id>https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/</id>
+    <summary type="text">NVIDIA founder and CEO Jensen Huang joined school leadership in Monterey, California, to commission the system, which will fuel AI education and research at the US military’s premier technical graduate university.</summary>
+    <updated>Thu, 23 Jul 2026 02:00:46 +0000</updated>
+  </entry>
   <entry>
     <title>Make Long-Running NVIDIA TensorRT Engine Builds Observable and Cancelable in Python or C++ | NVIDIA Technical Blog</title>
     <link href="https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/"/>
@@ -55,13 +62,6 @@
     <updated>Tue, 21 Jul 2026 15:00:20 +0000</updated>
   </entry>
   <entry>
-    <title>Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/"/>
-    <id>https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/</id>
-    <summary type="text">What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale. These factories are now tasked with…</summary>
-    <updated>Tue, 21 Jul 2026 15:00:00 +0000</updated>
-  </entry>
-  <entry>
     <title>NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI | NVIDIA Technical Blog</title>
     <link href="https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/"/>
     <id>https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/</id>
@@ -74,6 +74,20 @@
     <id>https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/</id>
     <summary type="text">Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token falls…</summary>
     <updated>Tue, 21 Jul 2026 15:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/"/>
+    <id>https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/</id>
+    <summary type="text">What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale. These factories are now tasked with…</summary>
+    <updated>Tue, 21 Jul 2026 15:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>NVIDIA and Partners Build in America, for America</title>
+    <link href="https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/"/>
+    <id>https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/</id>
+    <summary type="text">NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.</summary>
+    <updated>Tue, 21 Jul 2026 13:00:47 +0000</updated>
   </entry>
   <entry>
     <title>NVIDIA NVLink: The Scale-Up Network for AI Factories | NVIDIA Technical Blog</title>
@@ -160,13 +174,6 @@
     <updated>Thu, 16 Jul 2026 00:00:00 -0000</updated>
   </entry>
   <entry>
-    <title>NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI</title>
-    <link href="https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/"/>
-    <id>https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/</id>
-    <summary type="text">New NVIDIA Blackwell-powered T3000 and T2000 modules, paired with new NVIDIA Jetson software memory optimization and agent skills, help partners and customers move advanced robotics, visual AI and edge workloads onto compact, power-efficient systems.</summary>
-    <updated>Wed, 15 Jul 2026 23:00:54 +0000</updated>
-  </entry>
-  <entry>
     <title>Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills | NVIDIA Technical Blog</title>
     <link href="https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/"/>
     <id>https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/</id>
@@ -242,13 +249,6 @@
     <id>https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/</id>
     <summary type="text">We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.</summary>
     <updated>Tue, 07 Jul 2026 00:00:00 -0000</updated>
-  </entry>
-  <entry>
-    <title>NVIDIA and Partners Build in America, for America</title>
-    <link href="https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/"/>
-    <id>https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/</id>
-    <summary type="text">NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.</summary>
-    <updated>Wed, 01 Jul 2026 13:00:47 +0000</updated>
   </entry>
   <entry>
     <title>The latest AI news we announced in June 2026</title>

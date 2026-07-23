@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/financial-freedom.atom.xml"/>
   <id>urn:4thwaveai-feeds:financial-freedom</id>
-  <updated>Wed, 22 Jul 2026 20:04:29 +0000</updated>
+  <updated>Thu, 23 Jul 2026 04:05:36 +0000</updated>
   <entry>
     <title>SEC Announces Departure of Principal Deputy Director of Enforcement Sam Waldon</title>
     <link href="https://www.sec.gov/newsroom/press-releases/2026-68-sec-announces-departure-principal-deputy-director-enforcement-sam-waldon"/>
@@ -313,6 +313,12 @@
     <summary type="text">In order to clarify its policy on weak aliases or AKAs, OFAC has released the following frequently asked questions and answers .</summary>
   </entry>
   <entry>
+    <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog | CISA</title>
+    <link href="https://www.cisa.gov/news-events/alerts/2026/07/22/cisa-adds-two-known-exploited-vulnerabilities-catalog"/>
+    <id>https://www.cisa.gov/news-events/alerts/2026/07/22/cisa-adds-two-known-exploited-vulnerabilities-catalog</id>
+    <summary type="text">An official website of the United States government</summary>
+  </entry>
+  <entry>
     <title>Tycon Systems TPDIN-Monitor-WEB2 | CISA</title>
     <link href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-202-01"/>
     <id>https://www.cisa.gov/news-events/ics-advisories/icsa-26-202-01</id>
@@ -359,11 +365,5 @@
     <link href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-202-10"/>
     <id>https://www.cisa.gov/news-events/ics-advisories/icsa-26-202-10</id>
     <summary type="text">Rockwell Automation Studio 5000 Logix Designer | CISA</summary>
-  </entry>
-  <entry>
-    <title>Siemens CADRA | CISA</title>
-    <link href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-202-06"/>
-    <id>https://www.cisa.gov/news-events/ics-advisories/icsa-26-202-06</id>
-    <summary type="text">Siemens CADRA | CISA</summary>
   </entry>
 </feed>

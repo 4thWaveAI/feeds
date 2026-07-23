@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/quantum.json",
   "items": [
     {
+      "id": "https://www.nist.gov/news-events/news/2026/07/nist-announces-funding-opportunity-14-mep-centers-advance-small-and-medium",
+      "url": "https://www.nist.gov/news-events/news/2026/07/nist-announces-funding-opportunity-14-mep-centers-advance-small-and-medium",
+      "title": "NIST Announces Funding Opportunity for 14 MEP Centers to Advance Small and Medium-Sized U.S. Manufacturers",
+      "content_text": "NIST MEP will host an informational webinar on Tuesday, July 28, 2026, at 1 p.m. ET to provide general information about this opportunity and guidance on preparing applications.",
+      "attachments": [
+        {
+          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/07/22/MEP%20Banner.png?itok=nN9qhFfl",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
       "id": "https://www.nist.gov/news-events/news/2026/07/nist-receives-new-patent-microbe-killing-water-heater",
       "url": "https://www.nist.gov/news-events/news/2026/07/nist-receives-new-patent-microbe-killing-water-heater",
       "title": "NIST Receives New Patent for Microbe-Killing Water Heater",
@@ -140,21 +155,6 @@
       ]
     },
     {
-      "id": "https://www.nist.gov/news-events/news/2026/05/nist-expands-ai-consortiums-scope-calls-new-members",
-      "url": "https://www.nist.gov/news-events/news/2026/05/nist-expands-ai-consortiums-scope-calls-new-members",
-      "title": "NIST Expands AI Consortium’s Scope, Calls for New Members",
-      "content_text": "The consortium will focus on AI innovation and adoption, with six task groups concentrating on different aspects of AI measurement science and evaluation.",
-      "attachments": [
-        {
-          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2023/11/02/shutterstock_1218220324.jpg?itok=eIsPazYV",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "quantum"
-      ]
-    },
-    {
       "id": "https://azure.microsoft.com/en-us/blog/quantum/2026/01/22/powerful-new-developer-tools-increase-the-versatility-of-the-microsoft-quantum-platform/",
       "url": "https://azure.microsoft.com/en-us/blog/quantum/2026/01/22/powerful-new-developer-tools-increase-the-versatility-of-the-microsoft-quantum-platform/",
       "title": "Powerful new developer tools increase the versatility of the Microsoft Quantum platform - Microsoft Azure Quantum Blog",
@@ -233,7 +233,7 @@
       "id": "https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai",
       "url": "https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai",
       "title": "IBM commits $50M in quantum access for US Genesis Mission",
-      "content_text": "An IBM project was also selected to accelerate AI-driven scientific discovery.",
+      "content_text": "An IBM project was also selected to accelerate AI-driven quantum application discovery.",
       "attachments": [
         {
           "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2FIBM_Quantum_System_Two_leadspace_2520_x1418_1fcc44a0d1.jpg&w=1200&q=75",

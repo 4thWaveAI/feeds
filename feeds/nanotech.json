@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
+      "id": "https://phys.org/news/2026-07-reusable-magnetic-microplastics-pfas.html",
+      "url": "https://phys.org/news/2026-07-reusable-magnetic-microplastics-pfas.html",
+      "title": "Reusable magnetic invention removes microplastics plus some PFAS from water",
+      "content_text": "Microplastics are an increasing global concern, with growing evidence of their presence in water systems. RMIT University researchers have developed a water treatment material that rapidly removes micro- and nanoplastics and some PFAS (per- and polyfluoroalkyl substances), bringing the technology closer to real-world use. The invention builds on the team's 2022 breakthrough in microplastics removal, extending its performance to much smaller particles and more complex wastewater.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2026/magnetic-invention-rem.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://phys.org/news/2026-07-optical-method-proteins-shift.html",
       "url": "https://phys.org/news/2026-07-optical-method-proteins-shift.html",
       "title": "New optical method follows single proteins as they shift shape",
@@ -147,21 +162,6 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/brain-inspired-nanopor.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2026-07-hybrid-material-antiferroelectricity-coexist-switchable.html",
-      "url": "https://phys.org/news/2026-07-hybrid-material-antiferroelectricity-coexist-switchable.html",
-      "title": "Hybrid material confirms antiferroelectricity can coexist with switchable polarization",
-      "content_text": "Many of the advanced electronic components surrounding us in everyday life rely on polar materials to function. Polar materials have an uneven distribution of electric charge. This gives them a positive and a negative side even in the absence of an external electric field. The most important among these are ferroelectric materials, in which the direction of polarization can be reversed by applying an electric field.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2026/so-you-thought-antifer.jpg",
           "mime_type": "image/jpeg"
         }
       ],
