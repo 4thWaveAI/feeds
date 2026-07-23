@@ -5,6 +5,141 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/human_effect.json",
   "items": [
     {
+      "id": "https://www.pewresearch.org/short-reads/2026/07/23/what-americans-think-about-the-global-ai-race/",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/23/what-americans-think-about-the-global-ai-race/",
+      "title": "What Americans think about the global AI race",
+      "content_text": "Most Americans see China as more advanced than the U.S. in AI development, while 43% say U.S. leadership in AI is extremely or very important.",
+      "attachments": [
+        {
+          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/SR_26.07.23_ai-leader_featured.png?w=1200&h=628&crop=1",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.pewresearch.org/politics/2026/07/23/as-the-2026-midterms-approach-economy-is-front-and-center/",
+      "url": "https://www.pewresearch.org/politics/2026/07/23/as-the-2026-midterms-approach-economy-is-front-and-center/",
+      "title": "As the 2026 Midterms Approach, Economy Is Front and Center",
+      "content_text": "Americans are now almost evenly split over which party they most agree with on economic policies: 37% say the Democrats, while 36% say the GOP.",
+      "attachments": [
+        {
+          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/premidterms-share-image__crop.png?w=1117&h=628&crop=1",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.pewresearch.org/politics/2026/07/23/americans-evaluations-of-the-economy-remain-negative/",
+      "url": "https://www.pewresearch.org/politics/2026/07/23/americans-evaluations-of-the-economy-remain-negative/",
+      "title": "Americans’ evaluations of the economy remain negative",
+      "content_text": "|",
+      "attachments": [
+        {
+          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/premidterms-share-image__crop.png?w=1117&h=628&crop=1",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.pewresearch.org/politics/2026/07/23/midterm-voting-preferences-by-race-and-ethnicity-age-and-other-demographics/",
+      "url": "https://www.pewresearch.org/politics/2026/07/23/midterm-voting-preferences-by-race-and-ethnicity-age-and-other-demographics/",
+      "title": "Midterm voting preferences by race and ethnicity, age, and other demographics",
+      "content_text": "|",
+      "attachments": [
+        {
+          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/premidterms-share-image__crop.png?w=1117&h=628&crop=1",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.pewresearch.org/politics/2026/07/23/should-congressional-candidates-seek-common-ground-or-push-hard-for-party-priorities/",
+      "url": "https://www.pewresearch.org/politics/2026/07/23/should-congressional-candidates-seek-common-ground-or-push-hard-for-party-priorities/",
+      "title": "Should congressional candidates seek common ground or push hard for party priorities?",
+      "content_text": "|",
+      "attachments": [
+        {
+          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/premidterms-share-image__crop.png?w=1117&h=628&crop=1",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.pewresearch.org/politics/2026/07/23/2026-midterms-appendix-additional-charts/",
+      "url": "https://www.pewresearch.org/politics/2026/07/23/2026-midterms-appendix-additional-charts/",
+      "title": "Appendix: Additional charts",
+      "content_text": "|",
+      "attachments": [
+        {
+          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/premidterms-share-image__crop.png?w=1117&h=628&crop=1",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.pewresearch.org/politics/2026/07/23/2026-midterms-acknowledgments/",
+      "url": "https://www.pewresearch.org/politics/2026/07/23/2026-midterms-acknowledgments/",
+      "title": "Acknowledgments",
+      "content_text": "|",
+      "attachments": [
+        {
+          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/premidterms-share-image__crop.png?w=1117&h=628&crop=1",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.pewresearch.org/politics/2026/07/23/2026-midterms-methodology/",
+      "url": "https://www.pewresearch.org/politics/2026/07/23/2026-midterms-methodology/",
+      "title": "Methodology",
+      "content_text": "|",
+      "attachments": [
+        {
+          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/premidterms-share-image__crop.png?w=1117&h=628&crop=1",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
+      "id": "https://www.pewresearch.org/politics/2026/07/23/how-political-typology-groups-feel-about-the-midterm-elections-and-trump/",
+      "url": "https://www.pewresearch.org/politics/2026/07/23/how-political-typology-groups-feel-about-the-midterm-elections-and-trump/",
+      "title": "How political typology groups feel about the midterm elections and Trump",
+      "content_text": "|",
+      "attachments": [
+        {
+          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/premidterms-share-image__crop.png?w=1117&h=628&crop=1",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
       "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
       "title": "The Computer That Helped Win World War II",
@@ -20,21 +155,6 @@
       ]
     },
     {
-      "id": "https://www.pewresearch.org/short-reads/2026/07/22/what-we-know-about-the-typical-polymarket-user/",
-      "url": "https://www.pewresearch.org/short-reads/2026/07/22/what-we-know-about-the-typical-polymarket-user/",
-      "title": "What we know about the typical Polymarket user",
-      "content_text": "The typical Polymarket user placed a total of 46 trades across 10 active trading days during our study period.",
-      "attachments": [
-        {
-          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/SR_26.07.22_prediction-market_featured.png?w=1200&h=628&crop=1",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
       "id": "https://aiforgood.itu.int/planetary-intelligence-ai-for-the-21st-century-earth-will-marshalls-case-for-a-smarter-planet/",
       "url": "https://aiforgood.itu.int/planetary-intelligence-ai-for-the-21st-century-earth-will-marshalls-case-for-a-smarter-planet/",
       "title": "Planetary Intelligence, AI for the 21st Century Earth: Will Marshall's Case for a Smarter Planet",
@@ -43,36 +163,6 @@
         {
           "url": "https://s41721.pcdn.co/wp-content/uploads/2026/07/Celia-dont-touch-2026-07-21T163233.807.png",
           "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.pewresearch.org/short-reads/2026/07/21/what-do-people-in-middle-income-countries-think-about-cuts-to-us-humanitarian-aid/",
-      "url": "https://www.pewresearch.org/short-reads/2026/07/21/what-do-people-in-middle-income-countries-think-about-cuts-to-us-humanitarian-aid/",
-      "title": "What do people in middle-income countries think about cuts to U.S. humanitarian aid?",
-      "content_text": "In 16 middle-income countries surveyed, many people are unsure how U.S. humanitarian aid cuts will affect them, though those with opinions lean negative.",
-      "attachments": [
-        {
-          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/SR_26.07.21_foriegn-aid-survey_featured.png?w=1200&h=628&crop=1",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.pewresearch.org/short-reads/2026/07/21/us-foreign-aid-is-plunging-in-second-trump-administration/",
-      "url": "https://www.pewresearch.org/short-reads/2026/07/21/us-foreign-aid-is-plunging-in-second-trump-administration/",
-      "title": "U.S. foreign aid is plunging in second Trump administration",
-      "content_text": "U.S. foreign aid fell to its lowest inflation-adjusted level in over two decades in fiscal 2025, dropping to $47.3 billion — more than $24 billion less than the prior year.",
-      "attachments": [
-        {
-          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/SR_26.07.21_foreign-aid_featured.jpg?w=1200&h=628&crop=1",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -103,21 +193,6 @@
         {
           "url": "https://spectrum.ieee.org/media-library/a-group-of-university-student-volunteers-posing-together-in-matching-tee-shirts.jpg?id=67499901&width=1200&height=600&coordinates=0%2C125%2C0%2C125",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.pewresearch.org/short-reads/2026/07/20/how-global-energy-production-is-changing-in-6-charts/",
-      "url": "https://www.pewresearch.org/short-reads/2026/07/20/how-global-energy-production-is-changing-in-6-charts/",
-      "title": "How global energy production is changing, in 6 charts",
-      "content_text": "Fossil fuels still dominate global electricity, but wind and solar are surging. In 2025, renewables outpaced coal worldwide for the first time, supplying 34% of electricity.",
-      "attachments": [
-        {
-          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/SR_26.07.20_GlobalEnergyTrends_featured.png?w=1200&h=628&crop=1",
-          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -163,81 +238,6 @@
         {
           "url": "https://spectrum.ieee.org/media-library/a-young-woman-with-blonde-hair-softly-smiling-next-to-a-pair-of-collaborative-robot-arms.jpg?id=67499761&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.pewresearch.org/short-reads/2026/07/17/majorities-of-americans-say-key-financial-milestones-are-harder-for-todays-young-adults-to-reach/",
-      "url": "https://www.pewresearch.org/short-reads/2026/07/17/majorities-of-americans-say-key-financial-milestones-are-harder-for-todays-young-adults-to-reach/",
-      "title": "Majorities of Americans say key financial milestones are harder for today’s young adults to reach",
-      "content_text": "Most Americans say it’s harder for young adults to find a job, buy a house, pay for college and save for their future than it was for their parents' generation.",
-      "attachments": [
-        {
-          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/SR_26.07.18_young-adult_featured.png?w=1200&h=628&crop=1",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.pewresearch.org/short-reads/2026/07/16/mexicans-view-president-claudia-sheinbaum-favorably-but-less-so-than-in-2025/",
-      "url": "https://www.pewresearch.org/short-reads/2026/07/16/mexicans-view-president-claudia-sheinbaum-favorably-but-less-so-than-in-2025/",
-      "title": "Mexicans view President Claudia Sheinbaum favorably, but less so than in 2025",
-      "content_text": "Mexican President Claudia Sheinbaum remains popular, but her favorability has dropped to 64%. Views of the economy and democracy are also declining.",
-      "attachments": [
-        {
-          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/SR_26.07.16_Sheinbaum-Morena_featured.png?w=1200&h=628&crop=1",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.pewresearch.org/decoded/2026/07/16/how-we-measured-americans-engagement-in-public-life/",
-      "url": "https://www.pewresearch.org/decoded/2026/07/16/how-we-measured-americans-engagement-in-public-life/",
-      "title": "How we measured Americans’ engagement in public life",
-      "content_text": "This piece explains how researchers measured Americans' engagement in public life using multimode surveys, address-based sampling and cluster analysis.",
-      "attachments": [
-        {
-          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/d_26.07.16_cluster_featured.png?w=1200&h=628&crop=1",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/",
-      "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/",
-      "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
-      "content_text": "Americans’ engagement with others is not one-dimensional. Instead, they sort into four distinct groups that reflect different patterns of participation in society.",
-      "attachments": [
-        {
-          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/PJ_26.07.16_engagement_featured.png?w=1200&h=628&crop=1",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.pewresearch.org/journalism/2026/07/16/younger-and-older-americans-engage-in-public-life-in-different-ways/",
-      "url": "https://www.pewresearch.org/journalism/2026/07/16/younger-and-older-americans-engage-in-public-life-in-different-ways/",
-      "title": "Younger and older Americans engage in public life in different ways",
-      "content_text": "Older adults are more likely to participate in civic activities like voting, donating or attending religious services, while younger adults engage more in online spaces.",
-      "attachments": [
-        {
-          "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/PJ_26.07.16_engagement_featured.png?w=1200&h=628&crop=1",
-          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -650,9 +650,9 @@
       ]
     },
     {
-      "id": "https://www.pewresearch.org/newsletter/campaign/the-briefing-2026-07-16/",
-      "url": "https://www.pewresearch.org/newsletter/campaign/the-briefing-2026-07-16/",
-      "title": "How Americans are engaged with news, politics, religion and civic life",
+      "id": "https://www.pewresearch.org/newsletter/campaign/how-we-measured-americans-engagement-in-public-life/",
+      "url": "https://www.pewresearch.org/newsletter/campaign/how-we-measured-americans-engagement-in-public-life/",
+      "title": "How we measured Americans’ engagement in public life",
       "content_text": "Numbers, Facts and Trends Shaping Your World",
       "attachments": [
         {
@@ -815,6 +815,21 @@
       ]
     },
     {
+      "id": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
+      "url": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
+      "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
+      "content_text": "Kidneys kept at subzero temperatures in pressure-controlled containers can be stored for days before transplantation, raising hopes for longer-term storage of donated human organs.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/270622_livercooling_v3.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
       "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
       "title": "The Download: energy transmission and US threats against Chinese AI",
@@ -882,21 +897,6 @@
       "attachments": [
         {
           "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/260708_RomanCoronagraph.jpg?resize=1200%2C600",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
-      "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
-      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
-      "content_text": "Plus: Anthropic's record $1.5 billion copyright settlement has been approved.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-2194586709.jpg?resize=1200%2C600",
           "mime_type": "image/jpeg"
         }
       ],

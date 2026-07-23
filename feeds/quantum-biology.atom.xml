@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/quantum-biology.atom.xml"/>
   <id>urn:4thwaveai-feeds:quantum-biology</id>
-  <updated>Thu, 23 Jul 2026 14:59:17 +0000</updated>
+  <updated>Thu, 23 Jul 2026 20:11:43 +0000</updated>
   <entry>
     <title>2010 TSC Tucson ARIZONA</title>
     <link href="https://consciousness.arizona.edu/news/2010-tsc-tucson-arizona"/>
@@ -262,6 +262,12 @@
     <summary type="text">Mechanosensitive channels in bacteria provide protection against hypoosmotic shock. Here, the authors use cryo-electron microscopy to reveal the gating mechanism of MscS-like channel EcMscM, showing that the conformations of the transmembrane and cytoplasmic domains are coupled.</summary>
   </entry>
   <entry>
+    <title>Entanglement-enhanced learning of quantum processes at scale - Nature Communications</title>
+    <link href="https://www.nature.com/articles/s41467-026-75553-0"/>
+    <id>https://www.nature.com/articles/s41467-026-75553-0</id>
+    <summary type="text">The authors show that entanglement with noisy quantum memory can significantly speed up learning of quantum processes. With error mitigation, their method characterizes quantum noise at scale and outperforms entanglement-free approaches.</summary>
+  </entry>
+  <entry>
     <title>How do quantum computers work?</title>
     <link href="https://www.nature.com/articles/d41586-026-02219-8"/>
     <id>https://www.nature.com/articles/d41586-026-02219-8</id>
@@ -314,12 +320,6 @@
     <link href="https://www.nature.com/articles/s41467-026-75465-z"/>
     <id>https://www.nature.com/articles/s41467-026-75465-z</id>
     <summary type="text">Stability under generic time dependent perturbations remains poorly understood in quantum systems. Here, the authors identify a universal energy space localization property of driven q local Hamiltonians and show its consequences for robust dynamics in LDPC codes and hard optimization problems.</summary>
-  </entry>
-  <entry>
-    <title>Verifier-initiated quantum message-authentication via quantum zero-knowledge proofs - Nature Communications</title>
-    <link href="https://www.nature.com/articles/s41467-026-74620-w"/>
-    <id>https://www.nature.com/articles/s41467-026-74620-w</id>
-    <summary type="text">The authors introduce a verifier-initiated quantum message-authentication method, in which authentication is requested only when needed. Their approach uses quantum zero knowledge techniques to protect information about the signer’s secret key while providing information-theoretic security against forgery</summary>
   </entry>
   <entry>
     <title>Find an expert | University of Surrey</title>

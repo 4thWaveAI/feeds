@@ -4,7 +4,42 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai</id>
-  <updated>Thu, 23 Jul 2026 14:37:38 +0000</updated>
+  <updated>Thu, 23 Jul 2026 19:50:16 +0000</updated>
+  <entry>
+    <title>Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72 | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/"/>
+    <id>https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/</id>
+    <summary type="text">Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token falls…</summary>
+    <updated>Thu, 23 Jul 2026 18:30:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/"/>
+    <id>https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/</id>
+    <summary type="text">What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale. These factories are now tasked with…</summary>
+    <updated>Thu, 23 Jul 2026 18:15:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/"/>
+    <id>https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/</id>
+    <summary type="text">Agentic AI shifts more of the critical execution path onto the CPU. Agents operate in sandboxes to execute code, invoke tools, retrieve context, interact with databases, and analyze results before…</summary>
+    <updated>Thu, 23 Jul 2026 18:00:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit/"/>
+    <id>https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit/</id>
+    <summary type="text">NVIDIA OptiX ray tracing engine is an application framework for achieving optimal ray tracing performance on the GPU. Applications using OptiX can fail in ways that are difficult to diagnose: an…</summary>
+    <updated>Thu, 23 Jul 2026 16:07:03 +0000</updated>
+  </entry>
+  <entry>
+    <title>Start Customizing NVIDIA Nemotron 3 Nano with Prime Intellect Lab in Minutes | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/"/>
+    <id>https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/</id>
+    <summary type="text">Customization is what enables developers to take a general model and tailor it to use cases, domains, languages, and more. However, customization comes with a few challenges.</summary>
+    <updated>Thu, 23 Jul 2026 16:00:00 +0000</updated>
+  </entry>
   <entry>
     <title>GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud</title>
     <link href="https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/"/>
@@ -69,27 +104,6 @@
     <updated>Tue, 21 Jul 2026 15:00:20 +0000</updated>
   </entry>
   <entry>
-    <title>Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/"/>
-    <id>https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/</id>
-    <summary type="text">What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale. These factories are now tasked with…</summary>
-    <updated>Tue, 21 Jul 2026 15:00:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/"/>
-    <id>https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/</id>
-    <summary type="text">Agentic AI shifts more of the critical execution path onto the CPU. Agents operate in sandboxes to execute code, invoke tools, retrieve context, interact with databases, and analyze results before…</summary>
-    <updated>Tue, 21 Jul 2026 15:00:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72 | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/"/>
-    <id>https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/</id>
-    <summary type="text">Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token falls…</summary>
-    <updated>Tue, 21 Jul 2026 15:00:00 +0000</updated>
-  </entry>
-  <entry>
     <title>NVIDIA and Partners Build in America, for America</title>
     <link href="https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/"/>
     <id>https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/</id>
@@ -146,13 +160,6 @@
     <updated>Thu, 16 Jul 2026 16:03:35 +0000</updated>
   </entry>
   <entry>
-    <title>Scaling Agentic AI Factories Through Extreme Co-Design with NVIDIA BlueField | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/scaling-agentic-ai-factories-through-extreme-co-design-with-nvidia-bluefield/"/>
-    <id>https://developer.nvidia.com/blog/scaling-agentic-ai-factories-through-extreme-co-design-with-nvidia-bluefield/</id>
-    <summary type="text">Agentic AI changes the infrastructure pattern for AI factories. One request can trigger many model calls, tool calls, memory lookups, policy checks, storage accesses, and network transfers before a…</summary>
-    <updated>Thu, 16 Jul 2026 16:00:00 +0000</updated>
-  </entry>
-  <entry>
     <title>Google DeepMind and Isomorphic Labs approach to bioresilience</title>
     <link href="https://deepmind.google/blog/our-approach-to-bioresilience/"/>
     <id>https://deepmind.google/blog/our-approach-to-bioresilience/</id>
@@ -172,13 +179,6 @@
     <id>https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/</id>
     <summary type="text">Gemini Omni and personal avatars in Google Vids make video creation easier than ever.</summary>
     <updated>Thu, 16 Jul 2026 00:00:00 -0000</updated>
-  </entry>
-  <entry>
-    <title>Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/"/>
-    <id>https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/</id>
-    <summary type="text">Developers building video analytics applications across large spaces must track the same object as it moves between camera views. Single-camera 2D tracking lacks reliable depth information and…</summary>
-    <updated>Wed, 15 Jul 2026 23:00:00 +0000</updated>
   </entry>
   <entry>
     <title>AI in Indian Education: Atal Innovation Mission and Google launch ATL Saathi</title>

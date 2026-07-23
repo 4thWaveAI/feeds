@@ -230,33 +230,14 @@
       ]
     },
     {
-      "id": "https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai",
-      "url": "https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai",
-      "title": "IBM commits $50M in quantum access for US Genesis Mission",
-      "content_text": "An IBM project was also selected to accelerate AI-driven quantum application discovery.",
+      "id": "https://research.ibm.com/blog/hrl-laboratories-ibm",
+      "url": "https://research.ibm.com/blog/hrl-laboratories-ibm",
+      "title": "IBM to acquire HRL Laboratories",
+      "content_text": "Exploring the storied history of HRL Laboratories, from the invention of the laser to silicon spin qubits.",
       "attachments": [
         {
-          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2FIBM_Quantum_System_Two_leadspace_2520_x1418_1fcc44a0d1.jpg&w=1200&q=75",
+          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2FQ4_S_Hero_Image_8837bba61b.jpg&w=1200&q=75",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "quantum"
-      ]
-    },
-    {
-      "id": "https://research.ibm.com/blog/code-alchemy-for-synthetic-code",
-      "url": "https://research.ibm.com/blog/code-alchemy-for-synthetic-code",
-      "title": "This could be the largest synthetic code dataset yet",
-      "content_text": "Introducing CodeAlchemy, a synthetic data pipeline that has already produced nearly 1 trillion tokens of open-source code",
-      "attachments": [
-        {
-          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fblog_Art_ICA_stillimage_bf9e4c1757.png&w=1200&q=85",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://d35x6597f7j1wm.cloudfront.net/blog_Art_ICA_art_d82b7c8a89.mp4",
-          "mime_type": "video/mp4"
         }
       ],
       "tags": [
@@ -270,22 +251,7 @@
       "content_text": "IBM is part of a global team trying to make AI benchmarking results easier to compare, replicate, and reuse.",
       "attachments": [
         {
-          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2FBlogpost_Tiny_benchmark_F_F_97b22faa32.gif&w=1200&q=75",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "quantum"
-      ]
-    },
-    {
-      "id": "https://research.ibm.com/blog/hrl-laboratories-ibm",
-      "url": "https://research.ibm.com/blog/hrl-laboratories-ibm",
-      "title": "IBM to acquire HRL Laboratories",
-      "content_text": "Exploring the storied history of HRL Laboratories, from the invention of the laser to silicon spin qubits.",
-      "attachments": [
-        {
-          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2FQ4_S_Hero_Image_8837bba61b.jpg&w=1200&q=75",
+          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fblog_Art_evaluating_Evals_f636bb2315.png&w=1200&q=85",
           "mime_type": "image/jpeg"
         }
       ],
@@ -309,6 +275,21 @@
       ]
     },
     {
+      "id": "https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai",
+      "url": "https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai",
+      "title": "IBM commits $50M in quantum access for US Genesis Mission",
+      "content_text": "An IBM project was also selected to accelerate AI-driven quantum application discovery.",
+      "attachments": [
+        {
+          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2FIBM_Quantum_System_Two_leadspace_2520_x1418_1fcc44a0d1.jpg&w=1200&q=75",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
       "id": "https://research.ibm.com/blog/cyrography-abstraction-layer",
       "url": "https://research.ibm.com/blog/cyrography-abstraction-layer",
       "title": "It’s time for cryptography to get its own abstraction layer",
@@ -317,6 +298,25 @@
         {
           "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fattb_W5x71z_DU_Ig_P_Em_system_security_22a08fa0a4.png&w=1200&q=85",
           "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://research.ibm.com/blog/code-alchemy-for-synthetic-code",
+      "url": "https://research.ibm.com/blog/code-alchemy-for-synthetic-code",
+      "title": "This could be the largest synthetic code dataset yet",
+      "content_text": "Introducing CodeAlchemy, a synthetic data pipeline that has already produced nearly 1 trillion tokens of open-source code",
+      "attachments": [
+        {
+          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fblog_Art_ICA_stillimage_bf9e4c1757.png&w=1200&q=85",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://d35x6597f7j1wm.cloudfront.net/blog_Art_ICA_art_d82b7c8a89.mp4",
+          "mime_type": "video/mp4"
         }
       ],
       "tags": [

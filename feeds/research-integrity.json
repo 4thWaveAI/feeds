@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/research-integrity.json",
   "items": [
     {
+      "id": "https://retractionwatch.com/2026/07/23/exclusive-death-gene-editing-trial-china-nature-science-investigation/",
+      "url": "https://retractionwatch.com/2026/07/23/exclusive-death-gene-editing-trial-china-nature-science-investigation/",
+      "title": "Exclusive: A couple paid more than $800,000 for a gene-editing therapy for their daughter. She died, and it wasn’t made public",
+      "content_text": "Illustration: Daria Lada An investigation by Science and Retraction Watch has uncovered details about a clinical trial that resulted in the death of its sole patient: a 6-year-old girl with a rare …",
+      "attachments": [
+        {
+          "url": "https://retractionwatch.com/wp-content/uploads/2026/07/20260723_nf_chinageneediting-rw-main.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "research-integrity"
+      ]
+    },
+    {
       "id": "https://retractionwatch.com/2026/07/22/journal-retracts-breast-cancer-paper-10-years-after-sleuth-flagged-issues/",
       "url": "https://retractionwatch.com/2026/07/22/journal-retracts-breast-cancer-paper-10-years-after-sleuth-flagged-issues/",
       "title": "Journal retracts breast cancer paper 10 years after sleuth flagged issues",
@@ -133,21 +148,6 @@
         {
           "url": "https://retractionwatch.com/wp-content/uploads/2026/07/jama-journals-zhihao_lei-retractions-bkgd.png",
           "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "research-integrity"
-      ]
-    },
-    {
-      "id": "https://retractionwatch.com/2026/07/13/disappointed-cochrane-journal-asked-researchers-to-publish-article-then-retracted-it-for-conflicts/",
-      "url": "https://retractionwatch.com/2026/07/13/disappointed-cochrane-journal-asked-researchers-to-publish-article-then-retracted-it-for-conflicts/",
-      "title": "‘Disappointed’: Cochrane journal asked researchers to publish article, then retracted it for conflicts",
-      "content_text": "A developer of an AI tool for conducting literature reviews said he and his team were “excited and honored” when a Cochrane journal had extended a “specific and individual invitation” in January 20…",
-      "attachments": [
-        {
-          "url": "https://retractionwatch.com/wp-content/uploads/2026/07/cochrane-esm-cover.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [

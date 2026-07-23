@@ -4,7 +4,14 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/biotech.atom.xml"/>
   <id>urn:4thwaveai-feeds:biotech</id>
-  <updated>Thu, 23 Jul 2026 14:40:11 +0000</updated>
+  <updated>Thu, 23 Jul 2026 19:52:30 +0000</updated>
+  <entry>
+    <title>Combining AI with laboratory evolution yields improved proteins</title>
+    <link href="https://www.broadinstitute.org/news/combining-ai-laboratory-evolution-yields-improved-proteins"/>
+    <id>https://www.broadinstitute.org/news/combining-ai-laboratory-evolution-yields-improved-proteins</id>
+    <summary type="text">Researchers found that AI-redesigned versions of natural proteins serve as superior starting points to evolve proteins with new functions.</summary>
+    <updated>Thu, 23 Jul 2026 09:46:23 -0400</updated>
+  </entry>
   <entry>
     <title>Broad Institute, Boston Children’s Hospital, and The Jackson Laboratory launch the Center for Therapeutic Genetics, a non-profit effort to develop genetic medicines for rare and ultra-rare diseases</title>
     <link href="https://www.broadinstitute.org/news/broad-institute-boston-childrens-hospital-and-jackson-laboratory-launch-center-therapeutic"/>
@@ -53,13 +60,6 @@
     <id>https://www.broadinstitute.org/news/broad-led-consortium-receives-arpa-h-award-advance-gene-editing-rare-pediatric-epilepsy</id>
     <summary type="text">Twelve organizations spanning gene editing science, clinical medicine, manufacturing, regulatory strategy, and patient advocacy aim to deliver first-in-human trial within three years. div.hero-section__author { display:none;}</summary>
     <updated>Thu, 09 Jul 2026 10:15:26 -0400</updated>
-  </entry>
-  <entry>
-    <title>Low-cost genome sequencing approach is powering genetics research on mental illness and many other studies</title>
-    <link href="https://www.broadinstitute.org/news/low-cost-genome-sequencing-approach-powering-genetics-research-mental-illness-and-many-other"/>
-    <id>https://www.broadinstitute.org/news/low-cost-genome-sequencing-approach-powering-genetics-research-mental-illness-and-many-other</id>
-    <summary type="text">The Blended Genome Exome approach delivers high-quality, unbiased genetic data at a quarter of the cost of the leading sequencing method.</summary>
-    <updated>Wed, 08 Jul 2026 10:06:55 -0400</updated>
   </entry>
   <entry>
     <title>We are EMBL: Dal Nijjer on modernising science literature search | EMBL</title>
@@ -240,16 +240,22 @@
     <summary type="text">Volara system patient circuits may leak air and medication from the nebulizer cup during therapy, leading to reduced oxygenation and ineffective nebulization.</summary>
   </entry>
   <entry>
-    <title>Pulmonary Valve Catheter Delivery System Removal from Medtronic</title>
+    <title>Page Not Found</title>
     <link href="http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/pulmonary-valve-catheter-delivery-system-recall-medtronic-removes-harmony-delivery-catheter-system"/>
     <id>http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/pulmonary-valve-catheter-delivery-system-recall-medtronic-removes-harmony-delivery-catheter-system</id>
-    <summary type="text">The distal tip in certain lots of the Medtronic Harmony Delivery Catheter System (DCS) may detach which can require endovascular retrieval or surgical intervent</summary>
+    <summary type="text">We’re sorry. The page you are looking for is not available for one of the following reasons: the link to this page may not be correct or is out-of-date, or you have bookmarked a page that has moved.</summary>
   </entry>
   <entry>
-    <title>Convenience Kit Issue from Medical Action Industries</title>
-    <link href="http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-medical-action-industries"/>
-    <id>http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-medical-action-industries</id>
-    <summary type="text">Particulates have the potential to be introduced into blood circulation and become lodged within blood vessels.</summary>
+    <title>Convenience Kits Issue from Medline</title>
+    <link href="http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kits-issue-medline"/>
+    <id>http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kits-issue-medline</id>
+    <summary type="text">Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.</summary>
+  </entry>
+  <entry>
+    <title>Brain immunity may undergo a major midlife overhaul</title>
+    <link href="https://www.nih.gov/news-events/news-releases/brain-immunity-may-undergo-major-midlife-overhaul"/>
+    <id>https://www.nih.gov/news-events/news-releases/brain-immunity-may-undergo-major-midlife-overhaul</id>
+    <summary type="text">NIH-supported findings identify a new aspect of human brain aging that may contribute to age-related cognitive decline and dementia risk.</summary>
   </entry>
   <entry>
     <title>New Alzheimer’s blood test may tell when symptoms are around the corner</title>
@@ -304,12 +310,6 @@
     <link href="https://www.nih.gov/news-events/news-releases/researchers-trigger-sleeps-restorative-effect-parts-awake-brain"/>
     <id>https://www.nih.gov/news-events/news-releases/researchers-trigger-sleeps-restorative-effect-parts-awake-brain</id>
     <summary type="text">NIH-funded study in animals offers new details about how the brain resets during sleep.</summary>
-  </entry>
-  <entry>
-    <title>NIH Selects Dr. Steven Schiff as Director of Fogarty International Center, Associate Director for International Research</title>
-    <link href="https://www.nih.gov/news-events/news-releases/nih-selects-dr-steven-schiff-director-fogarty-international-center-associate-director-international-research"/>
-    <id>https://www.nih.gov/news-events/news-releases/nih-selects-dr-steven-schiff-director-fogarty-international-center-associate-director-international-research</id>
-    <summary type="text">Dr. Schiff will serve as the ninth permanent director of FIC.</summary>
   </entry>
   <entry>
     <title>Refnd: Preventing Data Leakage in Relational Datasets</title>

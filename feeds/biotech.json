@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/biotech.json",
   "items": [
     {
+      "id": "https://www.broadinstitute.org/news/combining-ai-laboratory-evolution-yields-improved-proteins",
+      "url": "https://www.broadinstitute.org/news/combining-ai-laboratory-evolution-yields-improved-proteins",
+      "title": "Combining AI with laboratory evolution yields improved proteins",
+      "content_text": "Researchers found that AI-redesigned versions of natural proteins serve as superior starting points to evolve proteins with new functions.",
+      "attachments": [
+        {
+          "url": "https://www.broadinstitute.org/files/longstory/News_Liu-AI%26amp%3Bproteins_ext-main_072126_v3.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "biotech"
+      ]
+    },
+    {
       "id": "https://www.broadinstitute.org/news/broad-institute-boston-childrens-hospital-and-jackson-laboratory-launch-center-therapeutic",
       "url": "https://www.broadinstitute.org/news/broad-institute-boston-childrens-hospital-and-jackson-laboratory-launch-center-therapeutic",
       "title": "Broad Institute, Boston Children’s Hospital, and The Jackson Laboratory launch the Center for Therapeutic Genetics, a non-profit effort to develop genetic medicines for rare and ultra-rare diseases",
@@ -107,21 +122,6 @@
         {
           "url": "https://www.broadinstitute.org/files/longstory/News_ARPA-H_ext-main_high-res_070926.png",
           "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "biotech"
-      ]
-    },
-    {
-      "id": "https://www.broadinstitute.org/news/low-cost-genome-sequencing-approach-powering-genetics-research-mental-illness-and-many-other",
-      "url": "https://www.broadinstitute.org/news/low-cost-genome-sequencing-approach-powering-genetics-research-mental-illness-and-many-other",
-      "title": "Low-cost genome sequencing approach is powering genetics research on mental illness and many other studies",
-      "content_text": "The Blended Genome Exome approach delivers high-quality, unbiased genetic data at a quarter of the cost of the leading sequencing method.",
-      "attachments": [
-        {
-          "url": "https://www.broadinstitute.org/files/longstory/BGEnews_main.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -555,8 +555,8 @@
     {
       "id": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/pulmonary-valve-catheter-delivery-system-recall-medtronic-removes-harmony-delivery-catheter-system",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/pulmonary-valve-catheter-delivery-system-recall-medtronic-removes-harmony-delivery-catheter-system",
-      "title": "Pulmonary Valve Catheter Delivery System Removal from Medtronic",
-      "content_text": "The distal tip in certain lots of the Medtronic Harmony Delivery Catheter System (DCS) may detach which can require endovascular retrieval or surgical intervent",
+      "title": "Page Not Found",
+      "content_text": "We’re sorry. The page you are looking for is not available for one of the following reasons: the link to this page may not be correct or is out-of-date, or you have bookmarked a page that has moved.",
       "attachments": [
         {
           "url": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
@@ -568,14 +568,29 @@
       ]
     },
     {
-      "id": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-medical-action-industries",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-medical-action-industries",
-      "title": "Convenience Kit Issue from Medical Action Industries",
-      "content_text": "Particulates have the potential to be introduced into blood circulation and become lodged within blood vessels.",
+      "id": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kits-issue-medline",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kits-issue-medline",
+      "title": "Convenience Kits Issue from Medline",
+      "content_text": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
       "attachments": [
         {
           "url": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
           "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "biotech"
+      ]
+    },
+    {
+      "id": "https://www.nih.gov/news-events/news-releases/brain-immunity-may-undergo-major-midlife-overhaul",
+      "url": "https://www.nih.gov/news-events/news-releases/brain-immunity-may-undergo-major-midlife-overhaul",
+      "title": "Brain immunity may undergo a major midlife overhaul",
+      "content_text": "NIH-supported findings identify a new aspect of human brain aging that may contribute to age-related cognitive decline and dementia risk.",
+      "attachments": [
+        {
+          "url": "https://www.nih.gov/sites/default/files/styles/max_650x650/public/2026-07/20260723-brain-immunity.jpeg?itok=M9GcZUik",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -710,21 +725,6 @@
       "attachments": [
         {
           "url": "https://www.nih.gov/sites/default/files/styles/max_650x650/public/2026-06/20250608-burnout.jpeg?itok=KUSljj6p",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "biotech"
-      ]
-    },
-    {
-      "id": "https://www.nih.gov/news-events/news-releases/nih-selects-dr-steven-schiff-director-fogarty-international-center-associate-director-international-research",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-selects-dr-steven-schiff-director-fogarty-international-center-associate-director-international-research",
-      "title": "NIH Selects Dr. Steven Schiff as Director of Fogarty International Center, Associate Director for International Research",
-      "content_text": "Dr. Schiff will serve as the ninth permanent director of FIC.",
-      "attachments": [
-        {
-          "url": "https://www.nih.gov/sites/default/files/styles/max_650x650/public/2026-06/steven-schiff.jpg?itok=ComNsx_L",
           "mime_type": "image/jpeg"
         }
       ],

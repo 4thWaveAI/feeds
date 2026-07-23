@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ocean-infrastructure.json",
   "items": [
     {
+      "id": "https://oceanobservatories.org/2026/07/nsf-solicitation-supports-ai-ready-scientific-datasets/",
+      "url": "https://oceanobservatories.org/2026/07/nsf-solicitation-supports-ai-ready-scientific-datasets/",
+      "title": "NSF Solicitation Supports AI-Ready Scientific Datasets - Ocean Observatories Initiative",
+      "content_text": "Researchers interested in applying artificial intelligence (AI) to scientific discovery may be interested in a new funding opportunity from the U.S. National Science Foundation (NSF). The new Unlocking Dataset Value for AI-Enabled Scientific Discovery (NSF 26-512) solicitation supports projects that increase the scientific value of existing datasets by preparing them…",
+      "attachments": [
+        {
+          "url": "https://oceanobservatories.org/wp-content/uploads/2026/07/NSF-Symbol.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ocean-infrastructure"
+      ]
+    },
+    {
       "id": "https://oceanobservatories.org/2026/07/new-research-powered-by-ooi-data-july-2026/",
       "url": "https://oceanobservatories.org/2026/07/new-research-powered-by-ooi-data-july-2026/",
       "title": "New Research Powered by OOI Data: July 2026 - Ocean Observatories Initiative",
@@ -132,21 +147,6 @@
       "attachments": [
         {
           "url": "https://oceanobservatories.org/wp-content/uploads/2026/04/Picture3.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ocean-infrastructure"
-      ]
-    },
-    {
-      "id": "https://oceanobservatories.org/2026/04/life-on-plastics-deep-sea-foraminiferal-colonization-patterns-and-reproductive-morphology/",
-      "url": "https://oceanobservatories.org/2026/04/life-on-plastics-deep-sea-foraminiferal-colonization-patterns-and-reproductive-morphology/",
-      "title": "Life on Plastics: Deep-Sea Foraminiferal Colonization Patterns and Reproductive Morphology - Ocean Observatories Initiative",
-      "content_text": "Burkett (2025) reports plastic debris has become a persistent feature of deep-sea ecosystems, yet its role as a habitat for calcifying organisms remains poorly understood. Foraminifera colonization has been observed in significant numbers on plastic surfaces, suggesting that these materials serve as novel and significant deep-sea colonization sites for these…",
-      "attachments": [
-        {
-          "url": "https://oceanobservatories.org/wp-content/uploads/2026/04/Picture2.png",
           "mime_type": "image/png"
         }
       ],

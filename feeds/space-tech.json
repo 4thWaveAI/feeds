@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.json",
   "items": [
     {
+      "id": "https://science.nasa.gov/missions/maven/nasas-maven-illuminates-new-understanding-of-auroras-at-mars/",
+      "url": "https://science.nasa.gov/missions/maven/nasas-maven-illuminates-new-understanding-of-auroras-at-mars/",
+      "title": "NASA’s MAVEN Illuminates New Understanding of Auroras at Mars - NASA Science",
+      "content_text": "NASA MAVEN (Mars Atmosphere and Volatile Evolution) mission scientists have uncovered a key puzzle piece in understanding certain types of auroras on Mars,",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia22/pia22076/PIA22076.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-chris-williams-closes-out-space-station-mission/",
       "url": "https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-chris-williams-closes-out-space-station-mission/",
       "title": "NASA Astronaut Chris Williams Closes Out Space Station Mission - NASA",
@@ -62,36 +77,6 @@
         {
           "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26757/PIA26757.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
           "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/photojournal/nasas-juno-peers-beneath-ios-surface/",
-      "url": "https://science.nasa.gov/photojournal/nasas-juno-peers-beneath-ios-surface/",
-      "title": "NASA’s Juno Peers Beneath Io’s Surface - NASA Science",
-      "content_text": "This map represents data captured by the Microwave Radiometer (MWR) aboard NASA’s Juno spacecraft, indicating heat rising from just beneath the surface of",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26756/PIA26756.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/missions/juno/nasas-juno-takes-temperature-of-jupiters-fiery-moon-io/",
-      "url": "https://www.nasa.gov/missions/juno/nasas-juno-takes-temperature-of-jupiters-fiery-moon-io/",
-      "title": "NASA’s Juno Takes Temperature of Jupiter’s Fiery Moon Io - NASA",
-      "content_text": "Lee esta historia en español aquí.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/PIA26484/PIA26484~large.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -183,21 +168,6 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/news/nasa-media-contacts/",
-      "url": "https://www.nasa.gov/news/nasa-media-contacts/",
-      "title": "NASA Media Contacts - NASA",
-      "content_text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Alise",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/jsc2026e397516/jsc2026e397516~large.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://www.nasa.gov/news/",
       "url": "https://www.nasa.gov/news/",
       "title": "NASA News",
@@ -265,6 +235,21 @@
       "attachments": [
         {
           "url": "https://images-assets.nasa.gov/image/NHQ202512200038/NHQ202512200038~large.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/blogs/spacestation/2026/07/23/science-and-spacesuit-work-before-crew-changes-commanders/",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/07/23/science-and-spacesuit-work-before-crew-changes-commanders/",
+      "title": "Science and Spacesuit Work Before Crew Changes Commanders - NASA",
+      "content_text": "The International Space Station will change commanders on Saturday before three Expedition 74 crew members return to Earth on Sunday. As the homebound trio prepares for departure, the rest of the orbital crewmates is keeping up microgravity research and checking out spacewalking gear.",
+      "attachments": [
+        {
+          "url": "https://images-assets.nasa.gov/image/iss074e0814453/iss074e0814453~large.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -555,6 +540,36 @@
         {
           "url": "https://www.youtube.com/embed/MKrGdH-g60w",
           "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/news-release/look-for-nasa-now-streaming-on-amazon-fire-tv/",
+      "url": "https://www.nasa.gov/news-release/look-for-nasa-now-streaming-on-amazon-fire-tv/",
+      "title": "Look for NASA+ Now Streaming on Amazon Fire TV - NASA",
+      "content_text": "Continuing agency efforts to bring space closer to home, NASA+ is heading to more streaming platforms. On Thursday, NASA announced its programming is on Fire",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/nasa-image.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.nasa.gov/image-article/crews-move-artemis-iv-liquid-hydrogen-tank/",
+      "url": "https://www.nasa.gov/image-article/crews-move-artemis-iv-liquid-hydrogen-tank/",
+      "title": "Crews Move Artemis IV Liquid Hydrogen Tank - NASA",
+      "content_text": "Crews at NASA’s Michoud Assembly Facility in New Orleans transport the 130-foot-tall Artemis IV liquid hydrogen tank out of a production cell inside the main",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/maf-20260515-cs4-lh2to451-08orig.jpg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [

@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/quantum.atom.xml"/>
   <id>urn:4thwaveai-feeds:quantum</id>
-  <updated>Thu, 23 Jul 2026 14:39:22 +0000</updated>
+  <updated>Thu, 23 Jul 2026 19:51:51 +0000</updated>
   <entry>
     <title>NIST Announces Funding Opportunity for 14 MEP Centers to Advance Small and Medium-Sized U.S. Manufacturers</title>
     <link href="https://www.nist.gov/news-events/news/2026/07/nist-announces-funding-opportunity-14-mep-centers-advance-small-and-medium"/>
@@ -111,16 +111,10 @@
     <updated>Wed, 19 Feb 2025 16:00:00 +0000</updated>
   </entry>
   <entry>
-    <title>IBM commits $50M in quantum access for US Genesis Mission</title>
-    <link href="https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai"/>
-    <id>https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai</id>
-    <summary type="text">An IBM project was also selected to accelerate AI-driven quantum application discovery.</summary>
-  </entry>
-  <entry>
-    <title>This could be the largest synthetic code dataset yet</title>
-    <link href="https://research.ibm.com/blog/code-alchemy-for-synthetic-code"/>
-    <id>https://research.ibm.com/blog/code-alchemy-for-synthetic-code</id>
-    <summary type="text">Introducing CodeAlchemy, a synthetic data pipeline that has already produced nearly 1 trillion tokens of open-source code</summary>
+    <title>IBM to acquire HRL Laboratories</title>
+    <link href="https://research.ibm.com/blog/hrl-laboratories-ibm"/>
+    <id>https://research.ibm.com/blog/hrl-laboratories-ibm</id>
+    <summary type="text">Exploring the storied history of HRL Laboratories, from the invention of the laser to silicon spin qubits.</summary>
   </entry>
   <entry>
     <title>All of AI benchmarking at your fingertips</title>
@@ -129,22 +123,28 @@
     <summary type="text">IBM is part of a global team trying to make AI benchmarking results easier to compare, replicate, and reuse.</summary>
   </entry>
   <entry>
-    <title>IBM to acquire HRL Laboratories</title>
-    <link href="https://research.ibm.com/blog/hrl-laboratories-ibm"/>
-    <id>https://research.ibm.com/blog/hrl-laboratories-ibm</id>
-    <summary type="text">Exploring the storied history of HRL Laboratories, from the invention of the laser to silicon spin qubits.</summary>
-  </entry>
-  <entry>
     <title>What are spin qubits? | IBM Quantum Computing Blog</title>
     <link href="https://research.ibm.com/blog/spin-qubits"/>
     <id>https://research.ibm.com/blog/spin-qubits</id>
     <summary type="text">Spin qubits are an important element of IBM’s recent HRL Laboratories acquisition.</summary>
   </entry>
   <entry>
+    <title>IBM commits $50M in quantum access for US Genesis Mission</title>
+    <link href="https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai"/>
+    <id>https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai</id>
+    <summary type="text">An IBM project was also selected to accelerate AI-driven quantum application discovery.</summary>
+  </entry>
+  <entry>
     <title>It’s time for cryptography to get its own abstraction layer</title>
     <link href="https://research.ibm.com/blog/cyrography-abstraction-layer"/>
     <id>https://research.ibm.com/blog/cyrography-abstraction-layer</id>
     <summary type="text">Filesystems and sockets once looked like unnecessary layers of indirection; now they’re the foundation of modern systems. Cryptography is ready for the same shift — and with PQC on the horizon, the timing is right.</summary>
+  </entry>
+  <entry>
+    <title>This could be the largest synthetic code dataset yet</title>
+    <link href="https://research.ibm.com/blog/code-alchemy-for-synthetic-code"/>
+    <id>https://research.ibm.com/blog/code-alchemy-for-synthetic-code</id>
+    <summary type="text">Introducing CodeAlchemy, a synthetic data pipeline that has already produced nearly 1 trillion tokens of open-source code</summary>
   </entry>
   <entry>
     <title>How to measure the performance of a quantum computer | IBM Quantum Computing Blog</title>

@@ -4,7 +4,21 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.atom.xml"/>
   <id>urn:4thwaveai-feeds:videos</id>
-  <updated>Thu, 23 Jul 2026 15:01:22 +0000</updated>
+  <updated>Thu, 23 Jul 2026 20:13:34 +0000</updated>
+  <entry>
+    <title>First 3D nanoscale maps of human airway epithelium reveal hidden architecture of lung defense cells</title>
+    <link href="https://phys.org/news/2026-07-3d-nanoscale-human-airway-epithelium.html"/>
+    <id>https://phys.org/news/2026-07-3d-nanoscale-human-airway-epithelium.html</id>
+    <summary type="text">Researchers at Queen Mary University of London and University of Cambridge in collaboration with colleagues at HHMI Janelia and NIH, have created some of the most detailed three-dimensional maps ever generated of human airway cells, revealing how the specialized cells that protect our lungs are built and organized.</summary>
+    <updated>Thu, 23 Jul 2026 15:50:01 -0400</updated>
+  </entry>
+  <entry>
+    <title>Start Customizing NVIDIA Nemotron 3 Nano with Prime Intellect Lab in Minutes | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/"/>
+    <id>https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/</id>
+    <summary type="text">Customization is what enables developers to take a general model and tailor it to use cases, domains, languages, and more. However, customization comes with a few challenges.</summary>
+    <updated>Thu, 23 Jul 2026 16:00:00 +0000</updated>
+  </entry>
   <entry>
     <title>NASA Astronaut Chris Williams Closes Out Space Station Mission - NASA</title>
     <link href="https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-chris-williams-closes-out-space-station-mission/"/>
@@ -25,13 +39,6 @@
     <id>https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/</id>
     <summary type="text">NVIDIA founder and CEO Jensen Huang joined school leadership in Monterey, California, to commission the system, which will fuel AI education and research at the US military’s premier technical graduate university.</summary>
     <updated>Thu, 23 Jul 2026 02:00:46 +0000</updated>
-  </entry>
-  <entry>
-    <title>Exoplanet Travel Bureau: Proxima Centauri b - NASA Science</title>
-    <link href="https://science.nasa.gov/exoplanets/immersive/exoplanet-travel-bureau/proxima-centauri-b/"/>
-    <id>https://science.nasa.gov/exoplanets/immersive/exoplanet-travel-bureau/proxima-centauri-b/</id>
-    <summary type="text">Tidally locked, ready  to rock — and only 4.2 light-years from Earth</summary>
-    <updated>Wed, 22 Jul 2026 18:46:08 -0400</updated>
   </entry>
   <entry>
     <title>NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework</title>
@@ -67,13 +74,6 @@
     <id>https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem/</id>
     <summary type="text">Capcom’s RE ENGINE team set out to bring path tracing into two shipping titles at once, Resident Evil Requiem and PRAGMATA, each with a different visual identity. Over two years, the RE ENGINE team…</summary>
     <updated>Thu, 16 Jul 2026 22:59:09 +0000</updated>
-  </entry>
-  <entry>
-    <title>Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/"/>
-    <id>https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/</id>
-    <summary type="text">Developers building video analytics applications across large spaces must track the same object as it moves between camera views. Single-camera 2D tracking lacks reliable depth information and…</summary>
-    <updated>Wed, 15 Jul 2026 23:00:00 +0000</updated>
   </entry>
   <entry>
     <title>AI in Indian Education: Atal Innovation Mission and Google launch ATL Saathi</title>
@@ -338,6 +338,12 @@ Through world-renowned Meetings, peer-reviewed journals, webinars, workshops, ad
     <summary type="text">Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.</summary>
   </entry>
   <entry>
+    <title>Event Recap | Keeping it Human: AI-free Spaces</title>
+    <link href="https://contentauthenticity.org/blog/event-recap-keeping-it-human-ai-free-spaces"/>
+    <id>https://contentauthenticity.org/blog/event-recap-keeping-it-human-ai-free-spaces</id>
+    <summary type="text">We hosted a conversation on safe havens for human creativity and AI-free spaces, and how Content Credentials can support them. See the highlights.</summary>
+  </entry>
+  <entry>
     <title>Event Recap | Verified Video: Authenticity from Capture to Playback</title>
     <link href="https://contentauthenticity.org/blog/event-recap-verified-video-authenticity-from-capture-to-playback"/>
     <id>https://contentauthenticity.org/blog/event-recap-verified-video-authenticity-from-capture-to-playback</id>
@@ -384,11 +390,5 @@ Through world-renowned Meetings, peer-reviewed journals, webinars, workshops, ad
     <link href="https://aspire.usu.edu/from-vacuum-to-lab-a-students-journey-towards-real-world-application/"/>
     <id>https://aspire.usu.edu/from-vacuum-to-lab-a-students-journey-towards-real-world-application/</id>
     <summary type="text">In the classroom, students have the opportunity to learn and practice specific concepts in a controlled situation, sometimes referred to as a vacuum. Yet in the real-world, many concepts and skills must be considered simultaneously to arrive at a solution. Whitney Walpole, a mechanical engineering student at ASPIRE, is discovering what it takes to answer real-world questions.</summary>
-  </entry>
-  <entry>
-    <title>From Student to Alumni: Software Engineer Makes a Real-World Impact at ASPIRE – ASPIRE Research Center</title>
-    <link href="https://aspire.usu.edu/from-student-to-alumni-software-engineer-makes-a-real-world-impact-at-aspire/"/>
-    <id>https://aspire.usu.edu/from-student-to-alumni-software-engineer-makes-a-real-world-impact-at-aspire/</id>
-    <summary type="text">Managing a fleet of electric buses requires tracking not only the buses but also the electric vehicle chargers themselves in order to track overall purchasing and maintenance costs and power loads. With so many moving parts, this can be difficult and time consuming to do. However, Max Ramsdell, a software engineer at ASPIRE, led a team to find a way to make it easier for electric fleets.</summary>
   </entry>
 </feed>

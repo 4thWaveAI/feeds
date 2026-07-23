@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai-safety-evals.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai-safety-evals</id>
-  <updated>Thu, 23 Jul 2026 14:51:50 +0000</updated>
+  <updated>Thu, 23 Jul 2026 20:05:29 +0000</updated>
   <entry>
     <title>Spotlight: Test Your Robot’s Skills in NIST’s Global Online Competition</title>
     <link href="https://www.nist.gov/news-events/news/2026/06/spotlight-test-your-robots-skills-nists-global-online-competition"/>
@@ -173,6 +173,12 @@
     <summary type="text">The International Network for Advanced AI Measurement, Evaluation and Science convened in Seoul to continue outlining international best practice.</summary>
   </entry>
   <entry>
+    <title>UK AISI / CAISI Preliminary Assessment of Kimi K3&#x27;s Cyber Capabilities | AISI Work</title>
+    <link href="https://www.aisi.gov.uk/blog/preliminary-assessment-of-kimi-k3s-cyber-capabilities"/>
+    <id>https://www.aisi.gov.uk/blog/preliminary-assessment-of-kimi-k3s-cyber-capabilities</id>
+    <summary type="text">Our joint evaluation with CAISI finds Kimi K3 trails leading US frontier closed weight models on cyber capability.</summary>
+  </entry>
+  <entry>
     <title>How our new Control Red Team is stress-testing frontier monitors  | AISI Work</title>
     <link href="https://www.aisi.gov.uk/blog/how-our-new-control-red-team-is-stress-testing-frontier-monitors"/>
     <id>https://www.aisi.gov.uk/blog/how-our-new-control-red-team-is-stress-testing-frontier-monitors</id>
@@ -219,12 +225,6 @@
     <link href="https://www.aisi.gov.uk/blog/realitytest-do-ai-systems-disclose-their-identity-when-asked"/>
     <id>https://www.aisi.gov.uk/blog/realitytest-do-ai-systems-disclose-their-identity-when-asked</id>
     <summary type="text">A new benchmark grounded in how real users actually probe AI identity during interactions – covering five languages, across text and speech.</summary>
-  </entry>
-  <entry>
-    <title>Deepening our partnership with the Australian AI Safety Institute | AISI Work</title>
-    <link href="https://www.aisi.gov.uk/blog/deepening-our-partnership-with-the-australian-ai-safety-institute"/>
-    <id>https://www.aisi.gov.uk/blog/deepening-our-partnership-with-the-australian-ai-safety-institute</id>
-    <summary type="text">An agreement between Institutes to collaborate on best practices in AI evaluation, and share research findings.</summary>
   </entry>
   <entry>
     <title>Expenditure Horizon: Measuring Optimization Ability, with an Application to NanoGPT</title>

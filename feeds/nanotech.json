@@ -5,6 +5,55 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
+      "id": "https://phys.org/news/2026-07-3d-nanoscale-human-airway-epithelium.html",
+      "url": "https://phys.org/news/2026-07-3d-nanoscale-human-airway-epithelium.html",
+      "title": "First 3D nanoscale maps of human airway epithelium reveal hidden architecture of lung defense cells",
+      "content_text": "Researchers at Queen Mary University of London and University of Cambridge in collaboration with colleagues at HHMI Janelia and NIH, have created some of the most detailed three-dimensional maps ever generated of human airway cells, revealing how the specialized cells that protect our lungs are built and organized.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/first-3d-nanoscale-map-2.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://scx2.b-cdn.net/gfx/video/2026/first-3d-nanoscale-map.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2026-07-nanopores-human-cells-biochemical.html",
+      "url": "https://phys.org/news/2026-07-nanopores-human-cells-biochemical.html",
+      "title": "Nanopores can activate human T cells without biochemical signals",
+      "content_text": "Immune cells protect and heal the human body. In medicine, they are specifically activated through biochemical reactions to treat certain diseases. Researchers at the Helmholtz-Zentrum Hereon, ETH Zurich, Humboldt University of Berlin, Charité Berlin and Inselspital Bern have now discovered that immune cells also respond to the surface structure of materials—without chemistry.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2026/a-new-switch-for-the-i.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2026-07-lipid-nanoparticles-resistant-oral-tumors.html",
+      "url": "https://phys.org/news/2026-07-lipid-nanoparticles-resistant-oral-tumors.html",
+      "title": "Lipid nanoparticles deliver one-two punch to shrink resistant oral tumors in preclinical models",
+      "content_text": "Oral squamous cell carcinoma (OSCC) is the most common form of head and neck cancer, and the number of new cases is predicted to rise by 30% in the next decade. Despite decades of cancer research, treating OSCC remains a challenge. The five-year survival rate is approximately 50%, and standard treatments such as ablative surgery and radiation often leave patients with permanent disfigurement or profound, lifelong impairment of essential oral functions such as speaking and swallowing.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/a-one-two-punch-using.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://phys.org/news/2026-07-reusable-magnetic-microplastics-pfas.html",
       "url": "https://phys.org/news/2026-07-reusable-magnetic-microplastics-pfas.html",
       "title": "Reusable magnetic invention removes microplastics plus some PFAS from water",
@@ -132,51 +181,6 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/2026/too-thin-to-fail-an-al.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2026-07-graphene-nanoribbons-survive-gamma-revealing.html",
-      "url": "https://phys.org/news/2026-07-graphene-nanoribbons-survive-gamma-revealing.html",
-      "title": "Graphene nanoribbons survive gamma radiation, revealing potential sensors for fusion reactors",
-      "content_text": "University of Arizona researchers have demonstrated a promising new application for graphene nanoribbons, a nanoscale semiconductor material with the potential to withstand extreme environments. The team's findings could help clear a key hurdle to bringing fusion energy to the electric grid.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2026/quantum-materials-disc.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2026-07-brain-nanopore-device-current-memory.html",
-      "url": "https://phys.org/news/2026-07-brain-nanopore-device-current-memory.html",
-      "title": "Brain-inspired nanopore device uses current-induced heating for memory operations",
-      "content_text": "Some researchers are leaning into biology for inspiration in computing. In particular, neuromorphic computing offers a brain-inspired approach to hardware that replaces traditional binary processing with systems that function more like neurons and synapses. Now, a new study, published in Nature Communications, describes an innovative design for a fluidic memristor that uses its own self-heating mechanism to induce a history-dependent memory effect.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/brain-inspired-nanopor.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2026-07-chemists-gallium-nitride-material-nanocrystals.html",
-      "url": "https://phys.org/news/2026-07-chemists-gallium-nitride-material-nanocrystals.html",
-      "title": "Chemists shrink gallium nitride, the material behind LED lighting, into nanocrystals",
-      "content_text": "Nanocrystals are so useful that they formed the basis of the 2023 Nobel Prize in Chemistry. But despite their usefulness, scientists have so far been able to make these microscopic crystals from only a limited palette of materials. A group of chemists at the University of Chicago and Argonne National Laboratory has announced a way to make nanocrystals from a useful class of materials known as metal nitrides—a previously impossible task.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/chemists-shrink-galliu.jpg",
           "mime_type": "image/jpeg"
         }
       ],

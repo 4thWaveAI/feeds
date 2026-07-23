@@ -215,6 +215,25 @@
       ]
     },
     {
+      "id": "https://contentauthenticity.org/blog/event-recap-keeping-it-human-ai-free-spaces",
+      "url": "https://contentauthenticity.org/blog/event-recap-keeping-it-human-ai-free-spaces",
+      "title": "Event Recap | Keeping it Human: AI-free Spaces",
+      "content_text": "We hosted a conversation on safe havens for human creativity and AI-free spaces, and how Content Credentials can support them. See the highlights.",
+      "attachments": [
+        {
+          "url": "https://assets.contentauthenticity.org/Screenshot_2026_07_07_at_11_13_49_AM_22dd860197.png",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/h0Tzow4Wxyg",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "content-provenance"
+      ]
+    },
+    {
       "id": "https://contentauthenticity.org/blog/event-recap-verified-video-authenticity-from-capture-to-playback",
       "url": "https://contentauthenticity.org/blog/event-recap-verified-video-authenticity-from-capture-to-playback",
       "title": "Event Recap | Verified Video: Authenticity from Capture to Playback",
@@ -358,21 +377,6 @@
       "attachments": [
         {
           "url": "https://assets.contentauthenticity.org/David_Butow12_d25622bc04.JPG",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "content-provenance"
-      ]
-    },
-    {
-      "id": "https://contentauthenticity.org/blog/introducing-content-credentials-foundations-a-course-for-implementers",
-      "url": "https://contentauthenticity.org/blog/introducing-content-credentials-foundations-a-course-for-implementers",
-      "title": "Introducing Content Credentials Foundations: a course for implementers",
-      "content_text": "We're launching an educational video series in partnership with Pixelstream to expedite implementations of the C2PA standard.",
-      "attachments": [
-        {
-          "url": "https://assets.contentauthenticity.org/blog_header_c99bb123c4.jpg",
           "mime_type": "image/jpeg"
         }
       ],

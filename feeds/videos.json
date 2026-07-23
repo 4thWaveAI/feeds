@@ -5,6 +5,44 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.json",
   "items": [
     {
+      "id": "https://phys.org/news/2026-07-3d-nanoscale-human-airway-epithelium.html",
+      "url": "https://phys.org/news/2026-07-3d-nanoscale-human-airway-epithelium.html",
+      "title": "First 3D nanoscale maps of human airway epithelium reveal hidden architecture of lung defense cells",
+      "content_text": "Researchers at Queen Mary University of London and University of Cambridge in collaboration with colleagues at HHMI Janelia and NIH, have created some of the most detailed three-dimensional maps ever generated of human airway cells, revealing how the specialized cells that protect our lungs are built and organized.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/first-3d-nanoscale-map-2.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://scx2.b-cdn.net/gfx/video/2026/first-3d-nanoscale-map.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/",
+      "url": "https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/",
+      "title": "Start Customizing NVIDIA Nemotron 3 Nano with Prime Intellect Lab in Minutes | NVIDIA Technical Blog",
+      "content_text": "Customization is what enables developers to take a general model and tailor it to use cases, domains, languages, and more. However, customization comes with a few challenges.",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/Start-Customizing.webp",
+          "mime_type": "image/webp"
+        },
+        {
+          "url": "https://www.youtube.com/embed/Bc8SMuzWvgc?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-chris-williams-closes-out-space-station-mission/",
       "url": "https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-chris-williams-closes-out-space-station-mission/",
       "title": "NASA Astronaut Chris Williams Closes Out Space Station Mission - NASA",
@@ -59,25 +97,6 @@
       ],
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/exoplanets/immersive/exoplanet-travel-bureau/proxima-centauri-b/",
-      "url": "https://science.nasa.gov/exoplanets/immersive/exoplanet-travel-bureau/proxima-centauri-b/",
-      "title": "Exoplanet Travel Bureau: Proxima Centauri b - NASA Science",
-      "content_text": "Tidally locked, ready  to rock — and only 4.2 light-years from Earth",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/astro/exo-explore/exoplanet-travel-bureau/proxima-b/Proxima_b_poster_image_only--no-border-5x4.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/astro/exo-explore/exoplanet-travel-bureau/proxima-b/PROXIMA-b_Poster_Flythru_001.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
       ]
     },
     {
@@ -168,25 +187,6 @@
         },
         {
           "url": "https://www.youtube.com/embed/t8tAbd_c6DY?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/",
-      "url": "https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills/",
-      "title": "Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills | NVIDIA Technical Blog",
-      "content_text": "Developers building video analytics applications across large spaces must track the same object as it moves between camera views. Single-camera 2D tracking lacks reliable depth information and…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/deepstream-featured-500x282.gif",
-          "mime_type": "image/gif"
-        },
-        {
-          "url": "https://www.youtube.com/embed/rQoLYCB0YUc?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
           "mime_type": "video/mp4"
         }
       ],
@@ -930,7 +930,7 @@
       "content_text": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/tile/Apple-services-hero-lp.jpg.og.jpg?202607210144=",
+          "url": "https://www.apple.com/newsroom/images/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/tile/Apple-services-hero-lp.jpg.og.jpg?202606301659=",
           "mime_type": "image/jpeg"
         },
         {
@@ -949,7 +949,7 @@
       "content_text": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/tile/Apple-development-tools-hero-260608-lp.jpg.og.jpg?202606301704=",
+          "url": "https://www.apple.com/newsroom/images/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/tile/Apple-development-tools-hero-260608-lp.jpg.og.jpg?202606301701=",
           "mime_type": "image/jpeg"
         },
         {
@@ -959,6 +959,25 @@
       ],
       "tags": [
         "key-players"
+      ]
+    },
+    {
+      "id": "https://contentauthenticity.org/blog/event-recap-keeping-it-human-ai-free-spaces",
+      "url": "https://contentauthenticity.org/blog/event-recap-keeping-it-human-ai-free-spaces",
+      "title": "Event Recap | Keeping it Human: AI-free Spaces",
+      "content_text": "We hosted a conversation on safe havens for human creativity and AI-free spaces, and how Content Credentials can support them. See the highlights.",
+      "attachments": [
+        {
+          "url": "https://assets.contentauthenticity.org/Screenshot_2026_07_07_at_11_13_49_AM_22dd860197.png",
+          "mime_type": "image/png"
+        },
+        {
+          "url": "https://www.youtube.com/embed/h0Tzow4Wxyg",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "content-provenance"
       ]
     },
     {
@@ -1102,21 +1121,6 @@
       "attachments": [
         {
           "url": "https://www.youtube.com/embed/djXb6MrB1-0?feature=oembed",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "enabling-tools"
-      ]
-    },
-    {
-      "id": "https://aspire.usu.edu/from-student-to-alumni-software-engineer-makes-a-real-world-impact-at-aspire/",
-      "url": "https://aspire.usu.edu/from-student-to-alumni-software-engineer-makes-a-real-world-impact-at-aspire/",
-      "title": "From Student to Alumni: Software Engineer Makes a Real-World Impact at ASPIRE – ASPIRE Research Center",
-      "content_text": "Managing a fleet of electric buses requires tracking not only the buses but also the electric vehicle chargers themselves in order to track overall purchasing and maintenance costs and power loads. With so many moving parts, this can be difficult and time consuming to do. However, Max Ramsdell, a software engineer at ASPIRE, led a team to find a way to make it easier for electric fleets.",
-      "attachments": [
-        {
-          "url": "https://www.youtube.com/embed/VWm8as_-Iv4?feature=oembed",
           "mime_type": "video/mp4"
         }
       ],

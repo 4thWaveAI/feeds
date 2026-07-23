@@ -365,6 +365,21 @@
       ]
     },
     {
+      "id": "https://www.aisi.gov.uk/blog/preliminary-assessment-of-kimi-k3s-cyber-capabilities",
+      "url": "https://www.aisi.gov.uk/blog/preliminary-assessment-of-kimi-k3s-cyber-capabilities",
+      "title": "UK AISI / CAISI Preliminary Assessment of Kimi K3's Cyber Capabilities | AISI Work",
+      "content_text": "Our joint evaluation with CAISI finds Kimi K3 trails leading US frontier closed weight models on cyber capability.",
+      "attachments": [
+        {
+          "url": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a48/6a624d7a39430cd8ef9ea34a_Copy%20of%20Metacard%20(13).png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "ai-safety-evals"
+      ]
+    },
+    {
       "id": "https://www.aisi.gov.uk/blog/how-our-new-control-red-team-is-stress-testing-frontier-monitors",
       "url": "https://www.aisi.gov.uk/blog/how-our-new-control-red-team-is-stress-testing-frontier-monitors",
       "title": "How our new Control Red Team is stress-testing frontier monitors  | AISI Work",
@@ -471,21 +486,6 @@
       "attachments": [
         {
           "url": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a48/6a26b1d83d122785571c2fa3_RealityTest%20Metacard.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai-safety-evals"
-      ]
-    },
-    {
-      "id": "https://www.aisi.gov.uk/blog/deepening-our-partnership-with-the-australian-ai-safety-institute",
-      "url": "https://www.aisi.gov.uk/blog/deepening-our-partnership-with-the-australian-ai-safety-institute",
-      "title": "Deepening our partnership with the Australian AI Safety Institute | AISI Work",
-      "content_text": "An agreement between Institutes to collaborate on best practices in AI evaluation, and share research findings.",
-      "attachments": [
-        {
-          "url": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a48/6a171632c21a92c4eae4e798_Copy%20of%20Copy%20of%20Metacard%20(1).png",
           "mime_type": "image/png"
         }
       ],
