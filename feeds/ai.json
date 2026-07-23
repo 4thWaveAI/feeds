@@ -5,6 +5,25 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.json",
   "items": [
     {
+      "id": "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/",
+      "title": "GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud",
+      "content_text": "Plus, ‘Battlefield 6’ updates, Capcom classics, ‘Halo: Campaign Evolved Advanced Access’ and nine new games arrive on the cloud this week.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/gfn-thursday-7-23-blog-1920x1080-logo.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/ARFSbodxJZU?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
       "url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
       "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
@@ -318,21 +337,6 @@
         {
           "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/Bluefield-4.webp",
           "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/",
-      "title": "Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW",
-      "content_text": "Plus, GeForce NOW launches in India moving from beta to public availability, and delivers ‘Denshattack!’ alongside five new games this week.",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/blog-1920x1080-no-copy.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [

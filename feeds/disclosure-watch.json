@@ -5,6 +5,36 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/disclosure-watch.json",
   "items": [
     {
+      "id": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/dgce-sig-seminar-23-july-2026/",
+      "url": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/dgce-sig-seminar-23-july-2026/",
+      "title": "DGCE SIG Seminar, 23 July 2026 - NASA Science",
+      "content_text": "From Micro to Macro: Connecting the Physics of Galaxy Formation Across Scales. Speaker: Drummond Fielding, New York University",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/cosmic-origins/images/dgce-sig/LH_95-DGCE.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/gw-sig-seminar-23-july-2026/",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/gw-sig-seminar-23-july-2026/",
+      "title": "GW SIG Seminar, 23 July 2026 - NASA Science",
+      "content_text": "GW SIG Seminar on LISA Preparatory Science and LISA Science Gaps. Speakers: Ira Thorpe, NASA LISA Project Scientist, and Ann Hornschemeier Cardiff, NASA LISA Deputy Project Scientist",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/physics-of-the-cosmos/images/gwsig/ligo20160211d.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
       "id": "https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/",
       "url": "https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/",
       "title": "Olympic Mountain Glory - NASA Science",
@@ -69,13 +99,13 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/",
-      "url": "https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/",
-      "title": "Robotic Servicing Mission Launches with NASA Support - NASA",
-      "content_text": "Following its liftoff from Cape Canaveral on July 21 aboard a SpaceX Falcon 9 rocket, the Mission Robotic Vehicle (MRV) hosting the NASA-supported Robotic",
+      "id": "https://www.nasa.gov/people/andrew-keys/",
+      "url": "https://www.nasa.gov/people/andrew-keys/",
+      "title": "Andrew Keys",
+      "content_text": "Dr. Andrew S. Keys is a space technology consultant with Five Keys Technologies, LLC, a subcontractor to CGI Federal, where he serves the NASA Innovative",
       "attachments": [
         {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/20260721-cc-mrv-mep-curbh-img-0499.jpg",
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/andrew-keys.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -121,36 +151,6 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyfdrfjune2026-ba2289.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/07/22/weekend-departure-preps-continue-as-crew-works-science-spacesuits/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/07/22/weekend-departure-preps-continue-as-crew-works-science-spacesuits/",
-      "title": "Weekend Departure Preps Continue as Crew Works Science, Spacesuits - NASA",
-      "content_text": "Three Expedition 74 crew members are nearing the end of their stay aboard the International Space Station handing over mission responsibilities and packing up cargo for return to Earth. Science hardware, lab maintenance, and spacesuits kept the rest of the crew busy aboard the orbital outpost.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/iss074e0814792/iss074e0814792~large.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/people/darryl-gaines/",
-      "url": "https://www.nasa.gov/people/darryl-gaines/",
-      "title": "Darryl Gaines  - NASA",
-      "content_text": "Darryl Gaines currently serves as acting deputy director of the Exploration Architecture Integration and Science Directorate",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/darryl-gaines.jpg",
           "mime_type": "image/jpeg"
         }
       ],

@@ -5,6 +5,36 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/subsurface-frontier.json",
   "items": [
     {
+      "id": "https://www.bgs.ac.uk/news/new-nerc-funded-project-empowers-young-people-to-engage-with-environmental-science/",
+      "url": "https://www.bgs.ac.uk/news/new-nerc-funded-project-empowers-young-people-to-engage-with-environmental-science/",
+      "title": "New NERC-funded project empowers young people to engage with environmental science - British Geological Survey",
+      "content_text": "BGS is part of a new, collaborative project, funded through NERC’s ‘Opening up the environment’ programme, helping the environmental research community become more accessible.",
+      "attachments": [
+        {
+          "url": "https://www.bgs.ac.uk/wp-content/uploads/2026/07/P1074018.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "subsurface-frontier"
+      ]
+    },
+    {
+      "id": "https://www.bgs.ac.uk/news/geo-explorers-after-school-kids-clubs/",
+      "url": "https://www.bgs.ac.uk/news/geo-explorers-after-school-kids-clubs/",
+      "title": "Geo-Explorers - after-school kids' clubs - British Geological Survey",
+      "content_text": "The primary aim of the meeting is networking within technology areas in NERC and related research centres.",
+      "attachments": [
+        {
+          "url": "https://www.bgs.ac.uk/wp-content/uploads/2026/07/updated-2026-website-banner-final-programme-1.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "subsurface-frontier"
+      ]
+    },
+    {
       "id": "https://www.bgs.ac.uk/news/building-europes-geological-future/",
       "url": "https://www.bgs.ac.uk/news/building-europes-geological-future/",
       "title": "Building Europe’s geological future - British Geological Survey",
@@ -118,36 +148,6 @@
         {
           "url": "https://www.globalccsinstitute.com/wp-content/uploads/2026/03/Global-CC-Institute-Governance-and-Risk-Solutions-You-Can-Trust.webp",
           "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "subsurface-frontier"
-      ]
-    },
-    {
-      "id": "https://www.bgs.ac.uk/news/new-geological-mapping-underway-to-help-manage-flooding-along-the-river-tweed/",
-      "url": "https://www.bgs.ac.uk/news/new-geological-mapping-underway-to-help-manage-flooding-along-the-river-tweed/",
-      "title": "New geological mapping underway to help manage flooding along the River Tweed - British Geological Survey",
-      "content_text": "Scientists are surveying the Tweed catchment for the first time in over 100 years to enhance understanding of localised groundwater and improve flood forecasting.",
-      "attachments": [
-        {
-          "url": "https://www.bgs.ac.uk/wp-content/uploads/2026/05/iStock-1324039651.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "subsurface-frontier"
-      ]
-    },
-    {
-      "id": "https://www.bgs.ac.uk/news/geological-research-in-north-sea-helping-to-safeguard-subsea-cables/",
-      "url": "https://www.bgs.ac.uk/news/geological-research-in-north-sea-helping-to-safeguard-subsea-cables/",
-      "title": "Geological research in North Sea helping to safeguard subsea cables - British Geological Survey",
-      "content_text": "New research investigates optimal burial depths for critical subsea cable infrastructre to safeguard from anchor strikes and other hazards",
-      "attachments": [
-        {
-          "url": "https://www.bgs.ac.uk/wp-content/uploads/2026/07/Subsea_Cable_iStock-1362710800.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [

@@ -470,6 +470,48 @@
       ]
     },
     {
+      "id": "https://www.nature.com/articles/s41467-026-75876-y",
+      "url": "https://www.nature.com/articles/s41467-026-75876-y",
+      "title": "In situ mapping of late-stage biomechanical coordination during clathrin-mediated endocytosis - Nature Communications",
+      "content_text": "This study uses single particle tracking to map clathrin-mediated endocytosis in living cells, revealing actin-associated swing motion and dynamin-driven twisting as coordinated mechanical steps.",
+      "tags": [
+        "quantum-biology"
+      ]
+    },
+    {
+      "id": "https://www.nature.com/articles/s41540-026-00786-0",
+      "url": "https://www.nature.com/articles/s41540-026-00786-0",
+      "title": "Spatial modelling of NOTCH signalling predicts tuneable dynamic heterogeneity in endothelia - npj Systems Biology and Applications",
+      "content_text": "npj Systems Biology and Applications ( 2026 ) Cite this article",
+      "tags": [
+        "quantum-biology"
+      ]
+    },
+    {
+      "id": "https://www.nature.com/articles/s41467-026-75717-y",
+      "url": "https://www.nature.com/articles/s41467-026-75717-y",
+      "title": "Real-time photoactivated SRS imaging enables spatiotemporally controlled nitroxyl release and therapeutic guidance in vivo - Nature Communications",
+      "content_text": "Stimulated Raman scattering (SRS) microscopy is a powerful label-free bioimaging technique for real-time monitoring of photo-controlled drug delivery and metabolic processes. However, current SRS probes lack quantitative capability for tracking released species with high spatial resolution. Here, the authors present a series of photoactivatable SRS probes that enable quantitative, real-time visualization of bioactive HNO release with robust spatiotemporal resolution in a zebrafish model.",
+      "tags": [
+        "quantum-biology"
+      ]
+    },
+    {
+      "id": "https://www.nature.com/articles/s41598-026-62691-0",
+      "url": "https://www.nature.com/articles/s41598-026-62691-0",
+      "title": "Hybrid modeling of electroporation and impedance spectroscopy for label free characterization of stem cells - Scientific Reports",
+      "content_text": "Scientific Reports volume 16 ,  Article number: 23090 ( 2026 ) Cite this article",
+      "attachments": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-62691-0/MediaObjects/41598_2026_62691_Fig1_HTML.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum-biology"
+      ]
+    },
+    {
       "id": "https://www.nature.com/articles/s41598-026-63235-2",
       "url": "https://www.nature.com/articles/s41598-026-63235-2",
       "title": "Evaluation of the synergistic and antagonistic antibacterial effects of pulsed electromagnetic fields combined with ciprofloxacin and nanochitosan - Scientific Reports",
@@ -525,42 +567,6 @@
       "url": "https://www.nature.com/articles/s41467-026-75798-9",
       "title": "The bacterial mechanosensitive channel MscM gates through concerted changes in its transmembrane and cytoplasmic domains - Nature Communications",
       "content_text": "Mechanosensitive channels in bacteria provide protection against hypoosmotic shock. Here, the authors use cryo-electron microscopy to reveal the gating mechanism of MscS-like channel EcMscM, showing that the conformations of the transmembrane and cytoplasmic domains are coupled.",
-      "tags": [
-        "quantum-biology"
-      ]
-    },
-    {
-      "id": "https://www.nature.com/articles/s41467-026-75817-9",
-      "url": "https://www.nature.com/articles/s41467-026-75817-9",
-      "title": "Quantifying outer membrane permeability to β-lactam antibiotics using outer membrane vesicles that protect antibiotic-susceptible bacteria - Nature Communications",
-      "content_text": "The outer membrane limits antibiotic entry into Gram-negative bacteria. Here, authors introduce an NMR-based outer membrane vesicle assay that quantifies β-lactam permeability and explore how vesicles protect susceptible bacteria.",
-      "tags": [
-        "quantum-biology"
-      ]
-    },
-    {
-      "id": "https://www.nature.com/articles/s41467-026-75832-w",
-      "url": "https://www.nature.com/articles/s41467-026-75832-w",
-      "title": "Mechanistic studies of the human NIPA2 transporter - Nature Communications",
-      "content_text": "Here the authors show that the human NIPA2 transporter – a highly conserved member of the Drug Drug/Metabolite Transporter family linked to neurological disease – functions as a nucleotide transporter and may use a distinct translocation mechanism.",
-      "tags": [
-        "quantum-biology"
-      ]
-    },
-    {
-      "id": "https://www.nature.com/articles/s41467-026-75573-w",
-      "url": "https://www.nature.com/articles/s41467-026-75573-w",
-      "title": "Nucleotide flipping correlates with fluorescence activation in the RhoBAST imaging platform - Nature Communications",
-      "content_text": "RhoBAST (Rhodamine Binding Aptamer for Super-resolution Imaging Techniques) is a fluorogenic RNA aptamer and binds to the tetramethylrhodamine (TMR) in the fluorophore-quencher conjugate TMR-dinitroaniline (TMR-DN). Here, the authors determined the free-form structure of RhoBAST, along with its ligand-bound complexes with TMR-DN and related analogs TMR and 5-TAMRA.",
-      "tags": [
-        "quantum-biology"
-      ]
-    },
-    {
-      "id": "https://www.nature.com/articles/s41467-026-75793-0",
-      "url": "https://www.nature.com/articles/s41467-026-75793-0",
-      "title": "Symmetry-driven gating of TRPM8 by PIP2 and menthol - Nature Communications",
-      "content_text": "TRPM8 ion channels are central to cold and menthol sensation. Here, the authors present various cryo-EM structures of TRPM8, including a two-fold symmetric intermediate and a menthol-bound sensitized conformation, revealing how PIP2 and cooling agonists allosterically activate TRPM8.",
       "tags": [
         "quantum-biology"
       ]

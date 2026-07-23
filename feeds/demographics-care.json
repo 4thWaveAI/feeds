@@ -5,10 +5,10 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/demographics-care.json",
   "items": [
     {
-      "id": "https://www.census.gov/newsroom/press-releases/2026/btos-july-16.html",
-      "url": "https://www.census.gov/newsroom/press-releases/2026/btos-july-16.html",
-      "title": "Business Trends and Outlook Survey Data Release &#8212; July 16, 2026",
-      "content_text": "The Business Trends and Outlook Survey provides timely data for key economic measures and business expectations about future conditions.",
+      "id": "https://www.census.gov/newsroom/press-releases/2026/htops-data-tables.html",
+      "url": "https://www.census.gov/newsroom/press-releases/2026/htops-data-tables.html",
+      "title": "New Data Tables Released From Household Trends and Outlook Pulse Survey",
+      "content_text": "New data tables released about employment, social connectedness, and other topics from the experimental HTOPS.",
       "attachments": [
         {
           "url": "https://www.census.gov/content/dam/Census/gs-imports/social-media-sharing-images/social-image-newsroom.png",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "id": "https://www.census.gov/newsroom/press-releases/2026/2025-sipp.html",
-      "url": "https://www.census.gov/newsroom/press-releases/2026/2025-sipp.html",
-      "title": "2025 Survey of Income and Program Participation",
-      "content_text": "New SIPP data measures changes in economic well-being, family dynamics, education, assets, health insurance, child care, and food security.",
+      "id": "https://www.census.gov/newsroom/press-releases/2026/statement-on-supplemental-poverty-measure.html",
+      "url": "https://www.census.gov/newsroom/press-releases/2026/statement-on-supplemental-poverty-measure.html",
+      "title": "Census Bureau Statement on Supplemental Poverty Measure",
+      "content_text": "The U.S. Census Bureau today announced plans to re-release estimates for the Supplemental Poverty Measure (SPM) from 2019 to 2024.",
       "attachments": [
         {
           "url": "https://www.census.gov/content/dam/Census/gs-imports/social-media-sharing-images/social-image-newsroom.png",
@@ -80,6 +80,21 @@
       ]
     },
     {
+      "id": "https://www.census.gov/newsroom/blogs/director/2026/06/remembering-kenneth-prewitt.html",
+      "url": "https://www.census.gov/newsroom/blogs/director/2026/06/remembering-kenneth-prewitt.html",
+      "title": "Remembering Kenneth Prewitt",
+      "content_text": "I am sad to share news of the passing of Kenneth Prewitt, former director of the U.S. Census Bureau, at age 90.",
+      "attachments": [
+        {
+          "url": "https://www.census.gov/content/dam/Census/gs-imports/social-media-sharing-images/social-image-blogs.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "demographics-care"
+      ]
+    },
+    {
       "id": "https://www.census.gov/newsroom/press-releases/2026/2026-census-test-enumeration-begins.html",
       "url": "https://www.census.gov/newsroom/press-releases/2026/2026-census-test-enumeration-begins.html",
       "title": "Census Takers to Start Visiting Households for 2026 Census Test",
@@ -99,21 +114,6 @@
       "url": "https://www.census.gov/newsroom/blogs/random-samplings/2026/03/updating-the-planning-database.html",
       "title": "Updating the Planning Database With the 2020 Census Contact Strategy and Low Response Score",
       "content_text": "Planning Database now contains operational data and 2020 Census low response score.",
-      "attachments": [
-        {
-          "url": "https://www.census.gov/content/dam/Census/gs-imports/social-media-sharing-images/social-image-blogs.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "demographics-care"
-      ]
-    },
-    {
-      "id": "https://www.census.gov/newsroom/blogs/director/2025/08/source-data-innovation.html",
-      "url": "https://www.census.gov/newsroom/blogs/director/2025/08/source-data-innovation.html",
-      "title": "Source Data Innovation at the Census Bureau: Improving the Quality and Sustainability of Our Statistics",
-      "content_text": "Behind every Census Bureau statistical product are sources of detailed data. Learn about our source data innovation in Acting Director Jarmin's new blog.",
       "attachments": [
         {
           "url": "https://www.census.gov/content/dam/Census/gs-imports/social-media-sharing-images/social-image-blogs.png",

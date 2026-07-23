@@ -4,7 +4,14 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai</id>
-  <updated>Thu, 23 Jul 2026 08:48:23 +0000</updated>
+  <updated>Thu, 23 Jul 2026 14:37:38 +0000</updated>
+  <entry>
+    <title>GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud</title>
+    <link href="https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/"/>
+    <id>https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/</id>
+    <summary type="text">Plus, ‘Battlefield 6’ updates, Capcom classics, ‘Halo: Campaign Evolved Advanced Access’ and nine new games arrive on the cloud this week.</summary>
+    <updated>Thu, 23 Jul 2026 13:00:16 +0000</updated>
+  </entry>
   <entry>
     <title>NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School</title>
     <link href="https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/"/>
@@ -144,13 +151,6 @@
     <id>https://developer.nvidia.com/blog/scaling-agentic-ai-factories-through-extreme-co-design-with-nvidia-bluefield/</id>
     <summary type="text">Agentic AI changes the infrastructure pattern for AI factories. One request can trigger many model calls, tool calls, memory lookups, policy checks, storage accesses, and network transfers before a…</summary>
     <updated>Thu, 16 Jul 2026 16:00:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW</title>
-    <link href="https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/"/>
-    <id>https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/</id>
-    <summary type="text">Plus, GeForce NOW launches in India moving from beta to public availability, and delivers ‘Denshattack!’ alongside five new games this week.</summary>
-    <updated>Thu, 16 Jul 2026 13:00:34 +0000</updated>
   </entry>
   <entry>
     <title>Google DeepMind and Isomorphic Labs approach to bioresilience</title>

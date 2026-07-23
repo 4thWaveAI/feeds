@@ -5,6 +5,25 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
+      "id": "https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-chris-williams-closes-out-space-station-mission/",
+      "url": "https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-chris-williams-closes-out-space-station-mission/",
+      "title": "NASA Astronaut Chris Williams Closes Out Space Station Mission - NASA",
+      "content_text": "After eight months aboard the International Space Station for his first mission, NASA astronaut Chris Williams is preparing to return to Earth. During his",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2022/12/55167953296-8a5e30d6a1-o.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/HncCaFHwkEY",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://esports.gg/news/mobile-legends-bang-bang/msc-2026-ewc-schedule-results-livestream/",
       "url": "https://esports.gg/news/mobile-legends-bang-bang/msc-2026-ewc-schedule-results-livestream/",
       "title": "MSC 2026 Esports World Cup: Format, schedule, results, and more",
@@ -17,6 +36,130 @@
       ],
       "tags": [
         "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/fortnite/all-fortnite-season-start-and-end-dates/",
+      "url": "https://esports.gg/news/fortnite/all-fortnite-season-start-and-end-dates/",
+      "title": "All Fortnite Season start and end dates",
+      "content_text": "Here is a list of every start and end date for all of Fortnite's chapters and seasons.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2023/03/fortnitestartandenddates.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/",
+      "title": "GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud",
+      "content_text": "Plus, ‘Battlefield 6’ updates, Capcom classics, ‘Halo: Campaign Evolved Advanced Access’ and nine new games arrive on the cloud this week.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/gfn-thursday-7-23-blog-1920x1080-logo.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/ARFSbodxJZU?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "https://www.bgs.ac.uk/news/new-nerc-funded-project-empowers-young-people-to-engage-with-environmental-science/",
+      "url": "https://www.bgs.ac.uk/news/new-nerc-funded-project-empowers-young-people-to-engage-with-environmental-science/",
+      "title": "New NERC-funded project empowers young people to engage with environmental science - British Geological Survey",
+      "content_text": "BGS is part of a new, collaborative project, funded through NERC’s ‘Opening up the environment’ programme, helping the environmental research community become more accessible.",
+      "attachments": [
+        {
+          "url": "https://www.bgs.ac.uk/wp-content/uploads/2026/07/P1074018.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "subsurface-frontier"
+      ]
+    },
+    {
+      "id": "https://esportsinsider.com/2026/07/esports-foundations-hans-jagnow-on-paris-politics-and-building-fandom-across-24-games-at-the-esports-world-cup",
+      "url": "https://esportsinsider.com/2026/07/esports-foundations-hans-jagnow-on-paris-politics-and-building-fandom-across-24-games-at-the-esports-world-cup",
+      "title": "Hans Jagnow on Paris, politics, and building fandom across 24 games at the Esports World Cup",
+      "content_text": "Esports Foundation's Hans Jagnow talks about the Esports World Cup's relocation, the changing perception of esports, and esports fandom.",
+      "attachments": [
+        {
+          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/0x060a2b340101010201010f1213fd147e66e4390433120680738502CFA9B94827.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/street-fighter-6/lcq-sf6-ewc-2026-results/",
+      "url": "https://esports.gg/news/street-fighter-6/lcq-sf6-ewc-2026-results/",
+      "title": "Street Fighter 6 LCQ at the EWC 2026: Tough matches to enter the biggest stage",
+      "content_text": "It’s an LCQ, alright, but the possibility of advancing to the main Esports World Cup 2026 (EWC 2026) event makes it a totally stacked and extremely",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/07/SF6-EWC-2026-LCQ-cover.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://www.bgs.ac.uk/news/geo-explorers-after-school-kids-clubs/",
+      "url": "https://www.bgs.ac.uk/news/geo-explorers-after-school-kids-clubs/",
+      "title": "Geo-Explorers - after-school kids' clubs - British Geological Survey",
+      "content_text": "The primary aim of the meeting is networking within technology areas in NERC and related research centres.",
+      "attachments": [
+        {
+          "url": "https://www.bgs.ac.uk/wp-content/uploads/2026/07/updated-2026-website-banner-final-programme-1.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "subsurface-frontier"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/dgce-sig-seminar-23-july-2026/",
+      "url": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/dgce-sig-seminar-23-july-2026/",
+      "title": "DGCE SIG Seminar, 23 July 2026 - NASA Science",
+      "content_text": "From Micro to Macro: Connecting the Physics of Galaxy Formation Across Scales. Speaker: Drummond Fielding, New York University",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/cosmic-origins/images/dgce-sig/LH_95-DGCE.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/gw-sig-seminar-23-july-2026/",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/gw-sig-seminar-23-july-2026/",
+      "title": "GW SIG Seminar, 23 July 2026 - NASA Science",
+      "content_text": "GW SIG Seminar on LISA Preparatory Science and LISA Science Gaps. Speakers: Ira Thorpe, NASA LISA Project Scientist, and Ann Hornschemeier Cardiff, NASA LISA Deputy Project Scientist",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/physics-of-the-cosmos/images/gwsig/ligo20160211d.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
       ]
     },
     {
@@ -65,6 +208,21 @@
       ]
     },
     {
+      "id": "https://www.census.gov/newsroom/press-releases/2026/htops-data-tables.html",
+      "url": "https://www.census.gov/newsroom/press-releases/2026/htops-data-tables.html",
+      "title": "New Data Tables Released From Household Trends and Outlook Pulse Survey",
+      "content_text": "New data tables released about employment, social connectedness, and other topics from the experimental HTOPS.",
+      "attachments": [
+        {
+          "url": "https://www.census.gov/content/dam/Census/gs-imports/social-media-sharing-images/social-image-newsroom.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "demographics-care"
+      ]
+    },
+    {
       "id": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
       "url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
       "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
@@ -96,6 +254,51 @@
       ],
       "tags": [
         "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260723~c2d43f9170.en.html",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260723~c2d43f9170.en.html",
+      "title": "ECB reveals shortlisted designs for new banknotes and launches public survey",
+      "content_text": "Our monetary policy strategy, the tools we use and the impact they have",
+      "attachments": [
+        {
+          "url": "https://www.ecb.europa.eu/press/shared/img/socialmedia/social-default.jpg?0ef1632c35edede913681bb76af694a4=",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "programmable-finance"
+      ]
+    },
+    {
+      "id": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260723~b6fadd48f4.en.html",
+      "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260723~b6fadd48f4.en.html",
+      "title": "Monetary policy statement",
+      "content_text": "Our monetary policy strategy, the tools we use and the impact they have",
+      "attachments": [
+        {
+          "url": "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/shared/img/socialmedia/social-default.jpg?1b07e3d68efd7f29f4771d75b50bd667=",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "programmable-finance"
+      ]
+    },
+    {
+      "id": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html",
+      "title": "Monetary policy decisions",
+      "content_text": "Our monetary policy strategy, the tools we use and the impact they have",
+      "attachments": [
+        {
+          "url": "https://www.ecb.europa.eu/press/shared/img/socialmedia/social-default.jpg?0ef1632c35edede913681bb76af694a4=",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "programmable-finance"
       ]
     },
     {
@@ -527,25 +730,6 @@
       ]
     },
     {
-      "id": "https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/",
-      "url": "https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/",
-      "title": "A Week of Smoky Skies Across North America - NASA Science",
-      "content_text": "Brown carbon, emitted by wildland fires and tracked over the span of a week in July 2026, worsened air quality in parts of the U.S. and Canada.",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-week-of-smoky-skies-across-north-america/nambrowncarbon_geos5_20260720_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-week-of-smoky-skies-across-north-america/nambrowncarbon_geos5_20260720.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
       "id": "https://esportsinsider.com/2026/07/single-player-games-esports",
       "url": "https://esportsinsider.com/2026/07/single-player-games-esports",
       "title": "Single-player games deserve more attention in esports",
@@ -651,21 +835,6 @@
       ]
     },
     {
-      "id": "https://esports.gg/news/overwatch/overwatch-reveals-shions-original-face-and-hashimoto-elders-in-new-story/",
-      "url": "https://esports.gg/news/overwatch/overwatch-reveals-shions-original-face-and-hashimoto-elders-in-new-story/",
-      "title": "Overwatch reveals Shion's original face and Hashimoto elders in new story",
-      "content_text": "Overwatch's new Shion short story titled \"Ambush\" revealed Shion's original omnic form plus the names and personalities of the Hashimoto elders.",
-      "attachments": [
-        {
-          "url": "https://media.esports.gg/uploads/2026/07/Overwatch-Shion-Ambush-Story-Comic-Article-By-Esportsgg-Images-Via-Blizzard-Entertainment-July-21-2026-3.avif",
-          "mime_type": "image/avif"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
       "id": "https://spectrum.ieee.org/ai-agent-benchmark",
       "url": "https://spectrum.ieee.org/ai-agent-benchmark",
       "title": "Why AI Needs a \"Genie Coefficient\"",
@@ -753,171 +922,6 @@
       ],
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/",
-      "url": "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/",
-      "title": "NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI | NVIDIA Technical Blog",
-      "content_text": "Agentic AI shifts more of the critical execution path onto the CPU. Agents operate in sandboxes to execute code, invoke tools, retrieve context, interact with databases, and analyze results before…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/Vera-CPU-e1783372749296.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/",
-      "url": "https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/",
-      "title": "Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72 | NVIDIA Technical Blog",
-      "content_text": "Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token falls…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/World-Record.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
-      "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
-      "title": "NVIDIA and Partners Build in America, for America",
-      "content_text": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/made-in-america-still-1920x1080-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/a-new-compact-instrument-enables-high-fidelity-measurements-of-energetic-particles-on-cubesats/",
-      "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/a-new-compact-instrument-enables-high-fidelity-measurements-of-energetic-particles-on-cubesats/",
-      "title": "A New Compact Instrument Enables High-Fidelity Measurements of Energetic Particles on CubeSats - NASA Science",
-      "content_text": "“Most CubeSats can observe particles from only a single direction, so they have to spin in order to build up a full picture — and that takes a few seconds,",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/cds/science-enabling-technology/technology-highlights/2026/22-01235-31-12213.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://www.broadinstitute.org/news/broad-institute-boston-childrens-hospital-and-jackson-laboratory-launch-center-therapeutic",
-      "url": "https://www.broadinstitute.org/news/broad-institute-boston-childrens-hospital-and-jackson-laboratory-launch-center-therapeutic",
-      "title": "Broad Institute, Boston Children’s Hospital, and The Jackson Laboratory launch the Center for Therapeutic Genetics, a non-profit effort to develop genetic medicines for rare and ultra-rare diseases",
-      "content_text": "The new collaboration aims to develop precision medicines, including base and prime editing, to treat patients with rare diseases, using infrastructure and repeatable practices the center will share with others. div.hero-section__author { display:none;}",
-      "attachments": [
-        {
-          "url": "https://www.broadinstitute.org/files/longstory/News_CTG-logo-collage_main-ext_071526_v2.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "biotech"
-      ]
-    },
-    {
-      "id": "https://retractionwatch.com/2026/07/21/exclusive-medical-student-in-nepal-behind-busy-research-factory/",
-      "url": "https://retractionwatch.com/2026/07/21/exclusive-medical-student-in-nepal-behind-busy-research-factory/",
-      "title": "Exclusive: Medical student in Nepal behind busy research factory",
-      "content_text": "A second-year medical student in Nepal is at the center of an international research network churning out everything from systematic reviews and meta-analyses to case reports and database studies, …",
-      "attachments": [
-        {
-          "url": "https://retractionwatch.com/wp-content/uploads/2026/07/mahato-headshot-linkedin.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "research-integrity"
-      ]
-    },
-    {
-      "id": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721_1~8c6ba4c5fb.en.html",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721_1~8c6ba4c5fb.en.html",
-      "title": "ECB appoints Boris Kisselevsky as Director General Secretariat",
-      "content_text": "Our monetary policy strategy, the tools we use and the impact they have",
-      "attachments": [
-        {
-          "url": "https://www.ecb.europa.eu/press/shared/img/socialmedia/social-default.jpg?0ef1632c35edede913681bb76af694a4=",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "programmable-finance"
-      ]
-    },
-    {
-      "id": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html",
-      "title": "July 2026 euro area bank lending survey",
-      "content_text": "Our monetary policy strategy, the tools we use and the impact they have",
-      "attachments": [
-        {
-          "url": "https://www.ecb.europa.eu/press/shared/img/socialmedia/social-default.jpg?0ef1632c35edede913681bb76af694a4=",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "programmable-finance"
-      ]
-    },
-    {
-      "id": "https://esportsinsider.com/2026/07/fatal-fury-dlc-schedule-sauce-debate",
-      "url": "https://esportsinsider.com/2026/07/fatal-fury-dlc-schedule-sauce-debate",
-      "title": "Fatal Fury: City of the Wolves has an insane DLC schedule, but it may not be enough to bring the sauce",
-      "content_text": "Fatal Fury: City of the Wolves devs are going ham with the DLC, dropping tons of characters. But do they have the sauce?",
-      "attachments": [
-        {
-          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/fatal-fury-city-of-the-wolves-kenshiro.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2026-07-molecules-carbon-nanotubes-clumping-electricity.html",
-      "url": "https://phys.org/news/2026-07-molecules-carbon-nanotubes-clumping-electricity.html",
-      "title": "Molecules stop carbon nanotubes clumping, unlocking record heat-to-electricity performance",
-      "content_text": "QUT researchers have overcome a challenge that has limited next-generation energy-harvesting materials for more than two decades, opening the door to more powerful wearable electronics and new ways of turning wasted heat into electricity. The breakthrough centers on carbon nanotubes, which are flexible, conductive microscopic rods that have long shown promise for wearable technologies but have been difficult to control.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/unlocking-a-long-sough-1.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2026-07-carbon-nanotube-reveals-smart-sensors.html",
-      "url": "https://phys.org/news/2026-07-carbon-nanotube-reveals-smart-sensors.html",
-      "title": "Carbon nanotube model reveals how smart sensors perform at aircraft-like extremes",
-      "content_text": "Researchers from Skoltech, in collaboration with the Harbin Institute of Technology and Jiangsu University (China), have published a study presenting the first empirical model to explain and predict the sensing behavior of hierarchical tri-phase carbon nanotube systems across a wide temperature range (from -170°C (-274°F) to 90°C (194°F)). The study has been published in the Carbon journal.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/carbon-fiber.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
       ]
     }
   ]

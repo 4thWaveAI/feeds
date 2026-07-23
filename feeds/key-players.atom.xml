@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/key-players.atom.xml"/>
   <id>urn:4thwaveai-feeds:key-players</id>
-  <updated>Thu, 23 Jul 2026 08:59:54 +0000</updated>
+  <updated>Thu, 23 Jul 2026 14:49:24 +0000</updated>
   <entry>
     <title>Powering America&#x27;s Genesis Mission: Microsoft&#x27;s commitment to scientific discovery - The Official Microsoft Blog</title>
     <link href="https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/"/>
@@ -76,6 +76,12 @@
     <updated>Tue, 02 Jun 2026 18:54:13 +0000</updated>
   </entry>
   <entry>
+    <title>Apple Maps to power navigation experience for Ford UEV Platform</title>
+    <link href="https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/"/>
+    <id>https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/</id>
+    <summary type="text">Apple and Ford announced Apple Maps will be integrated directly into Ford’s UEV Platform through the MapKit for Automotive SDK.</summary>
+  </entry>
+  <entry>
     <title>Major League Soccer returns to Apple TV tomorrow</title>
     <link href="https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/"/>
     <id>https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/</id>
@@ -128,11 +134,5 @@
     <link href="https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/"/>
     <id>https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/</id>
     <summary type="text">Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.</summary>
-  </entry>
-  <entry>
-    <title>Apple unveils next generation of Apple Intelligence, Siri AI, and more</title>
-    <link href="https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/"/>
-    <id>https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/</id>
-    <summary type="text">Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.</summary>
   </entry>
 </feed>

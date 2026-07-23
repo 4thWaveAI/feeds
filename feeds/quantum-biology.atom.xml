@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/quantum-biology.atom.xml"/>
   <id>urn:4thwaveai-feeds:quantum-biology</id>
-  <updated>Thu, 23 Jul 2026 09:07:55 +0000</updated>
+  <updated>Thu, 23 Jul 2026 14:59:17 +0000</updated>
   <entry>
     <title>2010 TSC Tucson ARIZONA</title>
     <link href="https://consciousness.arizona.edu/news/2010-tsc-tucson-arizona"/>
@@ -202,6 +202,30 @@
     <summary type="text">Nanopore devices have emerged as powerful tools for single-molecule sensing, with potential for rapid, portable diagnostics. They detect changes in ionic current as analytes enter nanometer-scale pores, providing a means of identifying diverse biomarkers from their characteristic signal patterns. However, these signals are highly complex, and reliably assigning them to specific molecules remains a major challenge. Here, we address this by introducing a multi-modal deep learning architecture that jointly processes multiple signal representations, including raw time-series data, wavelet-based images, and static feature vectors. Our approach surpasses existing methods by more than 10 percentage points on a 42-peptide benchmark and transfers to a 20-amino-acid dataset with near-perfect accurac</summary>
   </entry>
   <entry>
+    <title>In situ mapping of late-stage biomechanical coordination during clathrin-mediated endocytosis - Nature Communications</title>
+    <link href="https://www.nature.com/articles/s41467-026-75876-y"/>
+    <id>https://www.nature.com/articles/s41467-026-75876-y</id>
+    <summary type="text">This study uses single particle tracking to map clathrin-mediated endocytosis in living cells, revealing actin-associated swing motion and dynamin-driven twisting as coordinated mechanical steps.</summary>
+  </entry>
+  <entry>
+    <title>Spatial modelling of NOTCH signalling predicts tuneable dynamic heterogeneity in endothelia - npj Systems Biology and Applications</title>
+    <link href="https://www.nature.com/articles/s41540-026-00786-0"/>
+    <id>https://www.nature.com/articles/s41540-026-00786-0</id>
+    <summary type="text">npj Systems Biology and Applications ( 2026 ) Cite this article</summary>
+  </entry>
+  <entry>
+    <title>Real-time photoactivated SRS imaging enables spatiotemporally controlled nitroxyl release and therapeutic guidance in vivo - Nature Communications</title>
+    <link href="https://www.nature.com/articles/s41467-026-75717-y"/>
+    <id>https://www.nature.com/articles/s41467-026-75717-y</id>
+    <summary type="text">Stimulated Raman scattering (SRS) microscopy is a powerful label-free bioimaging technique for real-time monitoring of photo-controlled drug delivery and metabolic processes. However, current SRS probes lack quantitative capability for tracking released species with high spatial resolution. Here, the authors present a series of photoactivatable SRS probes that enable quantitative, real-time visualization of bioactive HNO release with robust spatiotemporal resolution in a zebrafish model.</summary>
+  </entry>
+  <entry>
+    <title>Hybrid modeling of electroporation and impedance spectroscopy for label free characterization of stem cells - Scientific Reports</title>
+    <link href="https://www.nature.com/articles/s41598-026-62691-0"/>
+    <id>https://www.nature.com/articles/s41598-026-62691-0</id>
+    <summary type="text">Scientific Reports volume 16 ,  Article number: 23090 ( 2026 ) Cite this article</summary>
+  </entry>
+  <entry>
     <title>Evaluation of the synergistic and antagonistic antibacterial effects of pulsed electromagnetic fields combined with ciprofloxacin and nanochitosan - Scientific Reports</title>
     <link href="https://www.nature.com/articles/s41598-026-63235-2"/>
     <id>https://www.nature.com/articles/s41598-026-63235-2</id>
@@ -236,30 +260,6 @@
     <link href="https://www.nature.com/articles/s41467-026-75798-9"/>
     <id>https://www.nature.com/articles/s41467-026-75798-9</id>
     <summary type="text">Mechanosensitive channels in bacteria provide protection against hypoosmotic shock. Here, the authors use cryo-electron microscopy to reveal the gating mechanism of MscS-like channel EcMscM, showing that the conformations of the transmembrane and cytoplasmic domains are coupled.</summary>
-  </entry>
-  <entry>
-    <title>Quantifying outer membrane permeability to β-lactam antibiotics using outer membrane vesicles that protect antibiotic-susceptible bacteria - Nature Communications</title>
-    <link href="https://www.nature.com/articles/s41467-026-75817-9"/>
-    <id>https://www.nature.com/articles/s41467-026-75817-9</id>
-    <summary type="text">The outer membrane limits antibiotic entry into Gram-negative bacteria. Here, authors introduce an NMR-based outer membrane vesicle assay that quantifies β-lactam permeability and explore how vesicles protect susceptible bacteria.</summary>
-  </entry>
-  <entry>
-    <title>Mechanistic studies of the human NIPA2 transporter - Nature Communications</title>
-    <link href="https://www.nature.com/articles/s41467-026-75832-w"/>
-    <id>https://www.nature.com/articles/s41467-026-75832-w</id>
-    <summary type="text">Here the authors show that the human NIPA2 transporter – a highly conserved member of the Drug Drug/Metabolite Transporter family linked to neurological disease – functions as a nucleotide transporter and may use a distinct translocation mechanism.</summary>
-  </entry>
-  <entry>
-    <title>Nucleotide flipping correlates with fluorescence activation in the RhoBAST imaging platform - Nature Communications</title>
-    <link href="https://www.nature.com/articles/s41467-026-75573-w"/>
-    <id>https://www.nature.com/articles/s41467-026-75573-w</id>
-    <summary type="text">RhoBAST (Rhodamine Binding Aptamer for Super-resolution Imaging Techniques) is a fluorogenic RNA aptamer and binds to the tetramethylrhodamine (TMR) in the fluorophore-quencher conjugate TMR-dinitroaniline (TMR-DN). Here, the authors determined the free-form structure of RhoBAST, along with its ligand-bound complexes with TMR-DN and related analogs TMR and 5-TAMRA.</summary>
-  </entry>
-  <entry>
-    <title>Symmetry-driven gating of TRPM8 by PIP2 and menthol - Nature Communications</title>
-    <link href="https://www.nature.com/articles/s41467-026-75793-0"/>
-    <id>https://www.nature.com/articles/s41467-026-75793-0</id>
-    <summary type="text">TRPM8 ion channels are central to cold and menthol sensation. Here, the authors present various cryo-EM structures of TRPM8, including a two-fold symmetric intermediate and a menthol-bound sensitized conformation, revealing how PIP2 and cooling agonists allosterically activate TRPM8.</summary>
   </entry>
   <entry>
     <title>How do quantum computers work?</title>

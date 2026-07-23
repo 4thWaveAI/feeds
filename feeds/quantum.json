@@ -264,6 +264,51 @@
       ]
     },
     {
+      "id": "https://research.ibm.com/blog/every-evaluation-ever",
+      "url": "https://research.ibm.com/blog/every-evaluation-ever",
+      "title": "All of AI benchmarking at your fingertips",
+      "content_text": "IBM is part of a global team trying to make AI benchmarking results easier to compare, replicate, and reuse.",
+      "attachments": [
+        {
+          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2FBlogpost_Tiny_benchmark_F_F_97b22faa32.gif&w=1200&q=75",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://research.ibm.com/blog/hrl-laboratories-ibm",
+      "url": "https://research.ibm.com/blog/hrl-laboratories-ibm",
+      "title": "IBM to acquire HRL Laboratories",
+      "content_text": "Exploring the storied history of HRL Laboratories, from the invention of the laser to silicon spin qubits.",
+      "attachments": [
+        {
+          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2FQ4_S_Hero_Image_8837bba61b.jpg&w=1200&q=75",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "id": "https://research.ibm.com/blog/spin-qubits",
+      "url": "https://research.ibm.com/blog/spin-qubits",
+      "title": "What are spin qubits? | IBM Quantum Computing Blog",
+      "content_text": "Spin qubits are an important element of IBM’s recent HRL Laboratories acquisition.",
+      "attachments": [
+        {
+          "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/IBM_Quantum_Interference_03_4a8fa77138.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
       "id": "https://research.ibm.com/blog/cyrography-abstraction-layer",
       "url": "https://research.ibm.com/blog/cyrography-abstraction-layer",
       "title": "It’s time for cryptography to get its own abstraction layer",
@@ -343,28 +388,13 @@
       ]
     },
     {
-      "id": "https://research.ibm.com/blog/whats-new-q2-2026",
-      "url": "https://research.ibm.com/blog/whats-new-q2-2026",
-      "title": "What’s new at IBM Quantum - Q2 2026 | IBM Quantum Computing Blog",
-      "content_text": "Explore new updates, releases, and resources from IBM Quantum and Qiskit with this convenient one-pager, designed to get you started with the latest capabilities right away.",
+      "id": "https://www.ibm.com/quantum/blog/hardware-metrics-2026",
+      "url": "https://www.ibm.com/quantum/blog/hardware-metrics-2026",
+      "title": "How to measure the performance of a quantum computer | IBM Quantum Computing Blog",
+      "content_text": "Three key hardware metrics reveal the scale, quality, and speed of any quantum computer—factors that determine computational capability and cost efficiency.",
       "attachments": [
         {
-          "url": "https://www.ibm.com/quantum/api/og?title=What%E2%80%99s+new+at+IBM+Quantum+-+Q2+2026&bg=swirl",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "quantum"
-      ]
-    },
-    {
-      "id": "https://research.ibm.com/blog/molten-salts-fusion-quantum",
-      "url": "https://research.ibm.com/blog/molten-salts-fusion-quantum",
-      "title": "Modeling the chemistry of fusion reactor material | IBM Quantum Computing Blog",
-      "content_text": "Researchers used quantum-centric supercomputing to simulate molten salts, in an early step toward solving a key problem in fusion power.",
-      "attachments": [
-        {
-          "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/Final_molten_salt_ORNL_blog_5_e778b84864.png",
+          "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/Programmable_vs_physical_3_84864149cb.png",
           "mime_type": "image/png"
         }
       ],
@@ -373,28 +403,13 @@
       ]
     },
     {
-      "id": "https://research.ibm.com/blog/ponder-this-july-2026",
-      "url": "https://research.ibm.com/blog/ponder-this-july-2026",
-      "title": "Ponder This Challenge - July 2026 - Return of the Superheroes",
-      "content_text": "Ponder This Challenge - July 2026 - Return of the Superheroes",
+      "id": "https://www.ibm.com/quantum/blog/spin-qubits",
+      "url": "https://www.ibm.com/quantum/blog/spin-qubits",
+      "title": "What are spin qubits? | IBM Quantum Computing Blog",
+      "content_text": "Spin qubits are an important element of IBM’s recent HRL Laboratories acquisition.",
       "attachments": [
         {
-          "url": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fblog_Art_ponder_This_July_1_c8c93dbda7.png&w=1200&q=85",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "quantum"
-      ]
-    },
-    {
-      "id": "https://www.ibm.com/quantum/blog/hardware-metrics-2026",
-      "url": "https://www.ibm.com/quantum/blog/hardware-metrics-2026",
-      "title": "How to measure the performance of a quantum computer | IBM Quantum Computing Blog",
-      "content_text": "Three key hardware metrics reveal the scale, quality, and speed of any quantum computer—factors that determine computational capability and cost efficiency.",
-      "attachments": [
-        {
-          "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/Programmable_vs_physical_3_84864149cb.png",
+          "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/IBM_Quantum_Interference_03_4a8fa77138.png",
           "mime_type": "image/png"
         }
       ],
@@ -515,21 +530,6 @@
       "attachments": [
         {
           "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/electron_orbitals4_f76770a42d.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "quantum"
-      ]
-    },
-    {
-      "id": "https://www.ibm.com/quantum/blog/qiskit-fall-fest-2026",
-      "url": "https://www.ibm.com/quantum/blog/qiskit-fall-fest-2026",
-      "title": "Qiskit Fall Fest 2026: Applications open | IBM Quantum Computing Blog",
-      "content_text": "Apply to host a Qiskit Fall Fest 2026 event and lead a global quantum computing experience on your campus or in your community.",
-      "attachments": [
-        {
-          "url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/Fall_Fest_be10f3ebbf.png",
           "mime_type": "image/png"
         }
       ],

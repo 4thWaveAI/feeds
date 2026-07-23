@@ -5,6 +5,25 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.json",
   "items": [
     {
+      "id": "https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-chris-williams-closes-out-space-station-mission/",
+      "url": "https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-chris-williams-closes-out-space-station-mission/",
+      "title": "NASA Astronaut Chris Williams Closes Out Space Station Mission - NASA",
+      "content_text": "After eight months aboard the International Space Station for his first mission, NASA astronaut Chris Williams is preparing to return to Earth. During his",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2022/12/55167953296-8a5e30d6a1-o.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/HncCaFHwkEY",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/",
       "url": "https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/",
       "title": "Olympic Mountain Glory - NASA Science",
@@ -73,25 +92,6 @@
         {
           "url": "https://images-assets.nasa.gov/image/PIA26484/PIA26484~large.jpg",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/",
-      "url": "https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/",
-      "title": "A Week of Smoky Skies Across North America - NASA Science",
-      "content_text": "Brown carbon, emitted by wildland fires and tracked over the span of a week in July 2026, worsened air quality in parts of the U.S. and Canada.",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-week-of-smoky-skies-across-north-america/nambrowncarbon_geos5_20260720_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-week-of-smoky-skies-across-north-america/nambrowncarbon_geos5_20260720.mp4",
-          "mime_type": "video/mp4"
         }
       ],
       "tags": [
@@ -231,7 +231,7 @@
       "id": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-chris-williams-crewmates-return/",
       "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-chris-williams-crewmates-return/",
       "title": "NASA Sets Coverage for Astronaut Chris Williams, Crewmates Return - NASA",
-      "content_text": "NASA astronaut Chris Williams and Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev are wrapping up their 241‑day mission aboard the International",
+      "content_text": "Editor’s Note: This advisory was updated on July 23, 2026, to reflect changes to the mission timeline.",
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2026/07/williams.jpg",

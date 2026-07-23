@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/quantum.atom.xml"/>
   <id>urn:4thwaveai-feeds:quantum</id>
-  <updated>Thu, 23 Jul 2026 08:50:00 +0000</updated>
+  <updated>Thu, 23 Jul 2026 14:39:22 +0000</updated>
   <entry>
     <title>NIST Announces Funding Opportunity for 14 MEP Centers to Advance Small and Medium-Sized U.S. Manufacturers</title>
     <link href="https://www.nist.gov/news-events/news/2026/07/nist-announces-funding-opportunity-14-mep-centers-advance-small-and-medium"/>
@@ -123,6 +123,24 @@
     <summary type="text">Introducing CodeAlchemy, a synthetic data pipeline that has already produced nearly 1 trillion tokens of open-source code</summary>
   </entry>
   <entry>
+    <title>All of AI benchmarking at your fingertips</title>
+    <link href="https://research.ibm.com/blog/every-evaluation-ever"/>
+    <id>https://research.ibm.com/blog/every-evaluation-ever</id>
+    <summary type="text">IBM is part of a global team trying to make AI benchmarking results easier to compare, replicate, and reuse.</summary>
+  </entry>
+  <entry>
+    <title>IBM to acquire HRL Laboratories</title>
+    <link href="https://research.ibm.com/blog/hrl-laboratories-ibm"/>
+    <id>https://research.ibm.com/blog/hrl-laboratories-ibm</id>
+    <summary type="text">Exploring the storied history of HRL Laboratories, from the invention of the laser to silicon spin qubits.</summary>
+  </entry>
+  <entry>
+    <title>What are spin qubits? | IBM Quantum Computing Blog</title>
+    <link href="https://research.ibm.com/blog/spin-qubits"/>
+    <id>https://research.ibm.com/blog/spin-qubits</id>
+    <summary type="text">Spin qubits are an important element of IBM’s recent HRL Laboratories acquisition.</summary>
+  </entry>
+  <entry>
     <title>It’s time for cryptography to get its own abstraction layer</title>
     <link href="https://research.ibm.com/blog/cyrography-abstraction-layer"/>
     <id>https://research.ibm.com/blog/cyrography-abstraction-layer</id>
@@ -153,28 +171,16 @@
     <summary type="text">A new study presented at ICML showed that language models trained with reinforcement learning can find and exploit loopholes to maximize reward — at a cost.</summary>
   </entry>
   <entry>
-    <title>What’s new at IBM Quantum - Q2 2026 | IBM Quantum Computing Blog</title>
-    <link href="https://research.ibm.com/blog/whats-new-q2-2026"/>
-    <id>https://research.ibm.com/blog/whats-new-q2-2026</id>
-    <summary type="text">Explore new updates, releases, and resources from IBM Quantum and Qiskit with this convenient one-pager, designed to get you started with the latest capabilities right away.</summary>
-  </entry>
-  <entry>
-    <title>Modeling the chemistry of fusion reactor material | IBM Quantum Computing Blog</title>
-    <link href="https://research.ibm.com/blog/molten-salts-fusion-quantum"/>
-    <id>https://research.ibm.com/blog/molten-salts-fusion-quantum</id>
-    <summary type="text">Researchers used quantum-centric supercomputing to simulate molten salts, in an early step toward solving a key problem in fusion power.</summary>
-  </entry>
-  <entry>
-    <title>Ponder This Challenge - July 2026 - Return of the Superheroes</title>
-    <link href="https://research.ibm.com/blog/ponder-this-july-2026"/>
-    <id>https://research.ibm.com/blog/ponder-this-july-2026</id>
-    <summary type="text">Ponder This Challenge - July 2026 - Return of the Superheroes</summary>
-  </entry>
-  <entry>
     <title>How to measure the performance of a quantum computer | IBM Quantum Computing Blog</title>
     <link href="https://www.ibm.com/quantum/blog/hardware-metrics-2026"/>
     <id>https://www.ibm.com/quantum/blog/hardware-metrics-2026</id>
     <summary type="text">Three key hardware metrics reveal the scale, quality, and speed of any quantum computer—factors that determine computational capability and cost efficiency.</summary>
+  </entry>
+  <entry>
+    <title>What are spin qubits? | IBM Quantum Computing Blog</title>
+    <link href="https://www.ibm.com/quantum/blog/spin-qubits"/>
+    <id>https://www.ibm.com/quantum/blog/spin-qubits</id>
+    <summary type="text">Spin qubits are an important element of IBM’s recent HRL Laboratories acquisition.</summary>
   </entry>
   <entry>
     <title>Release News: Qiskit v2.5 is here! | IBM Quantum Computing Blog</title>
@@ -223,12 +229,6 @@
     <link href="https://www.ibm.com/quantum/blog/ffsim"/>
     <id>https://www.ibm.com/quantum/blog/ffsim</id>
     <summary type="text">Open-source Python library for fast simulation of fermionic quantum circuits enables efficient prototyping and benchmarking for real quantum hardware.</summary>
-  </entry>
-  <entry>
-    <title>Qiskit Fall Fest 2026: Applications open | IBM Quantum Computing Blog</title>
-    <link href="https://www.ibm.com/quantum/blog/qiskit-fall-fest-2026"/>
-    <id>https://www.ibm.com/quantum/blog/qiskit-fall-fest-2026</id>
-    <summary type="text">Apply to host a Qiskit Fall Fest 2026 event and lead a global quantum computing experience on your campus or in your community.</summary>
   </entry>
   <entry>
     <title>Technical perspective: By the end of the decade, we will deliver universal, fully fault-tolerant quantum computing</title>
