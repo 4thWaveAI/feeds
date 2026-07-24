@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/health-medicine.atom.xml"/>
   <id>urn:4thwaveai-feeds:health-medicine</id>
-  <updated>Fri, 24 Jul 2026 14:26:20 +0000</updated>
+  <updated>Fri, 24 Jul 2026 19:59:54 +0000</updated>
   <entry>
     <title>Newsroom</title>
     <link href="https://www.who.int/mega-menu/news/all-news"/>
@@ -92,6 +92,18 @@
     <summary type="text">Time-of-flight magnetic resonance angiography (TOF-MRA) is widely used for structural vascular imaging, but extracting functional hemodynamics like blood velocity typically requires supplementary phase-contrast scans. This study proposes a novel, physics-informed computational framework to extract variable fluid velocity directly from standard TOF-MRA signal profiles. We analytically expand the Bloch equations into Bloch-McConnell flow equations, establishing a mathematical relationship between the spatial decay of longitudinal magnetization and fluid velocity. To validate this derivation and overcome the limitations of constant-velocity assumptions, a MATLAB simulation framework was developed to model fluid flow in two variable-geometry flowing tube cases i.e continuous tapering and focal</summary>
   </entry>
   <entry>
+    <title>WHO joins Uganda to celebrate 90 years of the Uganda Virus Research Institute</title>
+    <link href="https://www.afro.who.int/countries/uganda/news/who-joins-uganda-celebrate-90-years-uganda-virus-research-institute"/>
+    <id>https://www.afro.who.int/countries/uganda/news/who-joins-uganda-celebrate-90-years-uganda-virus-research-institute</id>
+    <summary type="text">The World Health Organization joined the Government of Uganda and partners in celebrating the 90th anniversary of the Uganda Virus Research Institute (UVRI), one of Africa&#x27;s most respected institutions for infectious disease research, surveillance and outbreak response.</summary>
+  </entry>
+  <entry>
+    <title>South Sudan receives emergency medical supplies to strengthen cholera response</title>
+    <link href="https://www.afro.who.int/countries/south-sudan/news/south-sudan-receives-emergency-medical-supplies-strengthen-cholera-response"/>
+    <id>https://www.afro.who.int/countries/south-sudan/news/south-sudan-receives-emergency-medical-supplies-strengthen-cholera-response</id>
+    <summary type="text">Juba- In response to the emerging needs for the sustained Cholera outbreak in South Sudan, WHO has received 19 metric tons of emergency supplies to replenish the fast-depleting stockpile of medical countermeasures needed in the response. These medical supplies enhance operational readiness and surge capacity. The shipment includes cholera response kits to support early detection and treatment, Inter-Agency Emergency Health Kits, as well as tents to expand temporary isolation capacity.</summary>
+  </entry>
+  <entry>
     <title>United against polio: Zimbabwe strengthens regional immunity through synchronized vaccination</title>
     <link href="https://www.afro.who.int/countries/zimbabwe/news/united-against-polio-zimbabwe-strengthens-regional-immunity-through-synchronized-vaccination"/>
     <id>https://www.afro.who.int/countries/zimbabwe/news/united-against-polio-zimbabwe-strengthens-regional-immunity-through-synchronized-vaccination</id>
@@ -104,22 +116,10 @@
     <summary type="text">Maputo – The Government of Mozambique, through the Ministry of Health, launched the Action Plan for Child Survival 2026–2030, launched on Monday 20 July 2026, in Maputo Province, a strategic instrument aimed at accelerating the reduction of child mortality and ensuring that all children have the opportunity to survive, grow and develop to their full potential.</summary>
   </entry>
   <entry>
-    <title>Uganda safeguards essential health services during Ebola outbreak response</title>
-    <link href="https://www.afro.who.int/countries/uganda/news/uganda-safeguards-essential-health-services-during-ebola-outbreak-response"/>
-    <id>https://www.afro.who.int/countries/uganda/news/uganda-safeguards-essential-health-services-during-ebola-outbreak-response</id>
-    <summary type="text">At a health clinic in Arua, a border town in northern Uganda, staff are on high alert after unsuspectingly attending to a patient who was later diagnosed with Ebola disease caused by the Bundibugyo virus. It was 8 May 2026, before the outbreak was declared in neighbouring Democratic Republic of Congo, and the staff’s index of suspicion was low. After the patient asked to be discharged, she travelled to Kampala, Uganda’s capital city, where she tested positive for the virus.</summary>
-  </entry>
-  <entry>
     <title>Access to care for severe chronic diseases in Africa growing: new report</title>
     <link href="https://www.afro.who.int/countries/zambia/news/access-care-severe-chronic-diseases-africa-growing-new-report"/>
     <id>https://www.afro.who.int/countries/zambia/news/access-care-severe-chronic-diseases-africa-growing-new-report</id>
     <summary type="text">More than 170 000 people have been attending health facilities offering PEN-Plus services across 20 African countries during the three years of implementation of the PEN-Plus Regional Strategy, according to a new report by the World Health Organization (WHO) Regional Office for Africa.</summary>
-  </entry>
-  <entry>
-    <title>Communicating to protect</title>
-    <link href="https://www.afro.who.int/countries/angola/news/communicating-protect"/>
-    <id>https://www.afro.who.int/countries/angola/news/communicating-protect</id>
-    <summary type="text">By: Olívio Gambo, WHO Angola Communication OfficerIn a world increasingly affected by outbreaks, epidemics, extreme weather events, and other public health challenges, the question is no longer whether new crises will arise, but rather how well prepared we will be to tackle them. Preparedness for crises does not depend solely on hospitals, medicines, or the availability of healthcare professionals; it also depends on something less visible, yet equally crucial: the trust of communities.</summary>
   </entry>
   <entry>
     <title>In the frontlines of a safe and dignified Ebola outbreak response in Uganda</title>

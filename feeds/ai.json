@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.json",
   "items": [
     {
+      "id": "https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light/",
+      "url": "https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light/",
+      "title": "ModelExpress: Distributing Model Artifacts at the Speed of Light | NVIDIA Technical Blog",
+      "content_text": "Every byte moved has a cost. As model checkpoints grow to hundreds of gigabytes or even a terabyte, that cost adds up quickly. To make things even worse, moving these model weights around the cluster…",
+      "attachments": [
+        {
+          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/image5-11.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
       "url": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
       "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
@@ -341,21 +356,6 @@
         {
           "url": "https://www.youtube.com/embed/t8tAbd_c6DY?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
           "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/",
-      "url": "https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/",
-      "title": "Integrating Context-Aware Video AI Agents Into Enterprise Workflows | NVIDIA Technical Blog",
-      "content_text": "A video analytics AI agent that can perceive, reason, and act based on massive amounts of video footage must be integrated with existing workflows and applications to be useful.",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-metropolis-nemoclaw.webp",
-          "mime_type": "image/webp"
         }
       ],
       "tags": [
@@ -855,6 +855,21 @@
       ]
     },
     {
+      "id": "https://www.amazon.science/blog/how-flat-is-replacing-fat-in-aws-data-center-networks",
+      "url": "https://www.amazon.science/blog/how-flat-is-replacing-fat-in-aws-data-center-networks",
+      "title": "How flat is replacing fat in AWS data center networks",
+      "content_text": "“Quasi-random” network topologies and new passive optical components called ShuffleBoxes make more-efficient flat networks as practical as traditional “fat-tree” networks.",
+      "attachments": [
+        {
+          "url": "https://cdn.amazon.science/dims4/default/32871e3/2147483647/strip/true/crop/2346x1232+0+44/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2Ff7%2Fc1%2F91bf132542b59ece724d075ee6fa%2Fwaypoints-16-9.png",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
       "url": "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
       "title": "Extending human intelligence through AI",
@@ -878,25 +893,6 @@
         {
           "url": "https://cdn.amazon.science/dims4/default/8d473d4/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2Fe9%2F2d%2F4f5c32b943aea970aa879a3730c9%2Fantibodybenchmark-01-16x9.png",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://www.amazon.science/blog/how-ai-is-changing-the-nature-of-mathematical-research",
-      "url": "https://www.amazon.science/blog/how-ai-is-changing-the-nature-of-mathematical-research",
-      "title": "How AI is changing the nature of mathematical research",
-      "content_text": "What machine learning theorists learned using AI agents to generate proofs — and what comes next.",
-      "attachments": [
-        {
-          "url": "https://cdn.amazon.science/dims4/default/fc1274d/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F37%2F23%2Fb207cbc54257bba9555bd6824c15%2Fmathresearch-01-16x9.png",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://cdn.amazon.science/7e/ae/d07eb6f949099374eb6a5e32592f/mathresearch-01-16x9.mp4",
-          "mime_type": "video/mp4"
         }
       ],
       "tags": [

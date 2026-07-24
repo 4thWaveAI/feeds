@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/quantum-biology.atom.xml"/>
   <id>urn:4thwaveai-feeds:quantum-biology</id>
-  <updated>Fri, 24 Jul 2026 14:34:31 +0000</updated>
+  <updated>Fri, 24 Jul 2026 20:08:59 +0000</updated>
   <entry>
     <title>2010 TSC Tucson ARIZONA</title>
     <link href="https://consciousness.arizona.edu/news/2010-tsc-tucson-arizona"/>
@@ -233,6 +233,12 @@
     <summary type="text">Biophysical and structural studies have found that leiomodin 2, a protein discovered in muscle cells, is the first example of a molecule that promotes the elongation of actin filaments at their slowly growing “pointed ends.” This breakthrough will stimulate work to answer many puzzling questions about the mechanism of this process.</summary>
   </entry>
   <entry>
+    <title>Computer experimentation reveals mechanisms for signaling and coupled transport that trade efficiency for robust growth - npj Systems Biology and Applications</title>
+    <link href="https://www.nature.com/articles/s41540-026-00793-1"/>
+    <id>https://www.nature.com/articles/s41540-026-00793-1</id>
+    <summary type="text">npj Systems Biology and Applications ( 2026 ) Cite this article</summary>
+  </entry>
+  <entry>
     <title>In situ mapping of late-stage biomechanical coordination during clathrin-mediated endocytosis - Nature Communications</title>
     <link href="https://www.nature.com/articles/s41467-026-75876-y"/>
     <id>https://www.nature.com/articles/s41467-026-75876-y</id>
@@ -279,12 +285,6 @@
     <link href="https://www.nature.com/articles/s41467-026-75444-4"/>
     <id>https://www.nature.com/articles/s41467-026-75444-4</id>
     <summary type="text">In this work, researchers elucidate sodium and carbonate binding at the NBCn2 transporter through cryoEM, and further develop NBCn2 inhibitors that reduce neuronal activity in primary culture and brain slices using structure-based drug discovery.</summary>
-  </entry>
-  <entry>
-    <title>Molecular rotors reveal the 3D viscous habitat of mucus-colonizing bacteria - Nature Communications</title>
-    <link href="https://www.nature.com/articles/s41467-026-75892-y"/>
-    <id>https://www.nature.com/articles/s41467-026-75892-y</id>
-    <summary type="text">Authors quantify the 3D viscous structure of undisturbed mucus and associated bacteria using molecular rotors. Diatom aggregates and the mucus layer of a jellyfish ephyra show distinct viscous morphologies and bacterial colonization patterns.</summary>
   </entry>
   <entry>
     <title>Entanglement-enhanced learning of quantum processes at scale - Nature Communications</title>

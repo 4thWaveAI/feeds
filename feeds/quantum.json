@@ -290,8 +290,8 @@
       ]
     },
     {
-      "id": "https://research.ibm.com/blog/cyrography-abstraction-layer",
-      "url": "https://research.ibm.com/blog/cyrography-abstraction-layer",
+      "id": "https://research.ibm.com/blog/cryptography-abstraction-layer",
+      "url": "https://research.ibm.com/blog/cryptography-abstraction-layer",
       "title": "It’s time for cryptography to get its own abstraction layer",
       "content_text": "Filesystems and sockets once looked like unnecessary layers of indirection; now they’re the foundation of modern systems. Cryptography is ready for the same shift — and with PQC on the horizon, the timing is right.",
       "attachments": [

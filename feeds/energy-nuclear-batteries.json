@@ -242,7 +242,7 @@
       "id": "https://www.llnl.gov/news/lab-report",
       "url": "https://www.llnl.gov/news/lab-report",
       "title": "Lab Report | Lawrence Livermore National Laboratory",
-      "content_text": "July 17, 2026",
+      "content_text": "July 24, 2026",
       "tags": [
         "energy-nuclear-batteries"
       ]
@@ -392,6 +392,15 @@
       ]
     },
     {
+      "id": "https://www.oecd-nea.org/upload/docs/application/pdf/2026-07/nea_dlm_r_2025_3_2026-07-24_15-07-58_215.pdf",
+      "url": "https://www.oecd-nea.org/upload/docs/application/pdf/2026-07/nea_dlm_r_2025_3_2026-07-24_15-07-58_215.pdf",
+      "title": "Nea Dlm R 2025 3 2026 07 24 15 07 58 215.Pdf",
+      "content_text": "Nea Dlm R 2025 3 2026 07 24 15 07 58 215.Pdf",
+      "tags": [
+        "energy-nuclear-batteries"
+      ]
+    },
+    {
       "id": "https://www.oecd-nea.org/upload/docs/application/pdf/2026-07/nea_csni_r_2024_1.pdf",
       "url": "https://www.oecd-nea.org/upload/docs/application/pdf/2026-07/nea_csni_r_2024_1.pdf",
       "title": "Nea Csni R 2024 1.Pdf",
@@ -405,15 +414,6 @@
       "url": "https://www.oecd-nea.org/upload/docs/application/pdf/2026-07/7744_preservation_of_key_experimental_datasets_for_nuclear_safety.pdf",
       "title": "7744 Preservation Of Key Experimental Datasets For Nuclear Safety.Pdf",
       "content_text": "7744 Preservation Of Key Experimental Datasets For Nuclear Safety.Pdf",
-      "tags": [
-        "energy-nuclear-batteries"
-      ]
-    },
-    {
-      "id": "https://www.oecd-nea.org/upload/docs/application/pdf/2026-06/nuclear_energy_outlook_-_rev.pdf",
-      "url": "https://www.oecd-nea.org/upload/docs/application/pdf/2026-06/nuclear_energy_outlook_-_rev.pdf",
-      "title": "Nuclear Energy Outlook Rev.Pdf",
-      "content_text": "�Q�o�d�_����}7��]D1c�r˅dN�+���i5̖�쯍�Ҩ�|�zy�T)���%����%�+2P�6�;�p��S�ԗɣOYT�%�W�2���q��w�uMn�k�*�\n�׽Y,g��i&���h����޿B�ϗ͓�� ��1�<��^\\��Wk�R��\n�w޸��0+�̓���m4����m��J�AbZ驷��u|~����I��$o��B�4���f�6IP��c�VS7�[.>}Ȓ���K-�������'�B�\n���%�*bQ^Q3��j��0�cW�|��FK��^W�BK𽉖T����W�u���61Ш��g��$iGa�q�/\nM�i!S6͎+������ٌ��p��(rƟ�lo�20M%_!��Y�N5Ҟ�v��Ӿ>�~u6�m7=���]*�d/����ݪn��:��|V��I�Mɼɭ/�ˁ��5�;_QQz1X�k��u�\t�p\n$i��,>=է�%\n��*��Բj-��6#�N��}�tj:\\v�*\\�C0����$����߹G�f�c�����r�,w�E}ެ\\d�oR�i�����<0�?2;�ډ�kfi���8�S���-����\noM{��/�x~�j[�\n��IwXi��\n<��{��R���kWV��v)�;E9����o��qj�[o���W*�ZM4�{�<��YJ�yU*F���T��o8�Q�����V�|�2�����3(tڣ�h�qͫ*�i)%]��x~,9 �[R�~���~;�?麘��e(�};����Υ��.��z�%m�N\n[��﵎�iל��VW6�(�*nJ�iP�ih�Y�b��$Զ{2����a��K\"�濏,��r\\��n��x��ׁ�l��|%�s���:�\n�,5+$r�&9e�<�g,ӓǚ�8䩨F6�Qk��9��4�z��&�>S����*R���S����G,��G��",
       "tags": [
         "energy-nuclear-batteries"
       ]
@@ -436,8 +436,14 @@
     {
       "id": "https://www.sandia.gov/news/image-gallery",
       "url": "https://www.sandia.gov/news/image-gallery",
-      "title": "Request Rejected",
-      "content_text": "Request Rejected",
+      "title": "Image Gallery",
+      "content_text": "Members of the media are welcome to download and use these images and photos. Please credit either the photographer or Sandia National Laboratories.",
+      "attachments": [
+        {
+          "url": "https://www.sandia.gov/app/uploads/2020/11/cropped-SNL_thunderbird.png",
+          "mime_type": "image/png"
+        }
+      ],
       "tags": [
         "energy-nuclear-batteries"
       ]

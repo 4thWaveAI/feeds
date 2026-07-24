@@ -4,7 +4,14 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/robotics.atom.xml"/>
   <id>urn:4thwaveai-feeds:robotics</id>
-  <updated>Fri, 24 Jul 2026 14:18:28 +0000</updated>
+  <updated>Fri, 24 Jul 2026 19:52:19 +0000</updated>
+  <entry>
+    <title>New Small Spacecraft Technology Demonstration Mission at the Moon</title>
+    <link href="https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/"/>
+    <id>https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/</id>
+    <summary type="text">NASA is working with industry to advance the next phase of cislunar infrastructure for the agency’s Artemis program and Moon Base, including orbital assets</summary>
+    <updated>Fri, 24 Jul 2026 12:35:46 -0400</updated>
+  </entry>
   <entry>
     <title>Robotic Servicing Mission Launches with NASA Support - NASA</title>
     <link href="https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/"/>
@@ -343,12 +350,6 @@
     <link href="https://arxiv.org/abs/2607.20771"/>
     <id>https://arxiv.org/abs/2607.20771</id>
     <summary type="text">We consider the problem of learning compositional robot policies end-to-end from expert demonstrations, without any pre-specified notion of task decomposition or hierarchy. We ask whether a VLA trained with a simplified Mixture-of-Experts (MoE) action head can emergently learn to decompose tasks into reusable, interpretable primitives. We find that learned experts are heavily reused across tasks and consistently correspond to qualitatively distinct low-level behaviors, suggesting that the router implicitly learns to perform high-level sequencing while experts serve as compositional primitives. Our MoE matches the task performance of a monolithic baseline while demonstrating meaningful expert specialization, a step toward modular, interpretable robot policies that emerge from data alone.</summary>
-  </entry>
-  <entry>
-    <title>NASA Identifies More Than 40 Space Technologies for Collaboration - NASA</title>
-    <link href="https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/"/>
-    <id>https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/</id>
-    <summary type="text">NASA selected 41 proposals from 37 companies to advance technologies in support of the agency’s goals to establish a long-term presence on the Moon and enable</summary>
   </entry>
   <entry>
     <title>Human-Aware Power Restoration for Fair Outage Experience in Distribution Systems</title>

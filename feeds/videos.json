@@ -5,6 +5,63 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.json",
   "items": [
     {
+      "id": "https://phys.org/news/2026-07-algorithms-foundry-ready-photonic-circuits.html",
+      "url": "https://phys.org/news/2026-07-algorithms-foundry-ready-photonic-circuits.html",
+      "title": "Algorithms create foundry-ready photonic circuits",
+      "content_text": "Photonic microchips can process data at extremely high speeds and are embedded in a wide variety of today's technologies. Researchers at the Max Planck Institute for the Science of Light (MPL) and Harvard University have now succeeded in developing three functional components for such chips that are up to 500 times smaller than conventional designs. The researchers used inverse design, a computer algorithm, to achieve this. The results are published in Nature Communications.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2026/beyond-human-intuition.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://scx2.b-cdn.net/gfx/video/2026/beyond-human-intuition.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/blade-runner-2099-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/blade-runner-2099-prime-video",
+      "title": "Watch the teaser trailer for 'Blade Runner 2099,' a new sci-fi series coming to Prime Video November 25",
+      "content_text": "The limited series starring Michelle Yeoh and Hunter Schafer is set 50 years after 'Blade Runner 2049'.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/31537f4/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F7f%2F76%2F9b717a584e438320848a0a954ef3%2Funtitled-24-july-2026-at-10-38-39.png",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/0Dr8I_RyRCg?enablejsapi=1",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/fortnite/fortnite-kicks-a-complete-list-of-all-shoes-in-the-game/",
+      "url": "https://esports.gg/news/fortnite/fortnite-kicks-a-complete-list-of-all-shoes-in-the-game/",
+      "title": "Fortnite Kicks: A complete list of all shoes in the game",
+      "content_text": "Here is a complete list of all Fortnite Kicks!",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2024/11/Fortnite-Kicks.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://media.esports.gg/uploads/2024/11/twittervid.com_FortniteGame_dd8b45.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
       "id": "https://phys.org/news/2026-07-3d-nanoscale-human-airway-epithelium.html",
       "url": "https://phys.org/news/2026-07-3d-nanoscale-human-airway-epithelium.html",
       "title": "First 3D nanoscale maps of human airway epithelium reveal hidden architecture of lung defense cells",
@@ -40,25 +97,6 @@
       ],
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-chris-williams-closes-out-space-station-mission/",
-      "url": "https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-chris-williams-closes-out-space-station-mission/",
-      "title": "NASA Astronaut Chris Williams Closes Out Space Station Mission - NASA",
-      "content_text": "After eight months aboard the International Space Station for his first mission, NASA astronaut Chris Williams is preparing to return to Earth. During his",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2022/12/55167953296-8a5e30d6a1-o.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/HncCaFHwkEY",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "space-tech"
       ]
     },
     {
@@ -290,25 +328,6 @@
       ]
     },
     {
-      "id": "https://www.amazon.science/blog/how-ai-is-changing-the-nature-of-mathematical-research",
-      "url": "https://www.amazon.science/blog/how-ai-is-changing-the-nature-of-mathematical-research",
-      "title": "How AI is changing the nature of mathematical research",
-      "content_text": "What machine learning theorists learned using AI agents to generate proofs — and what comes next.",
-      "attachments": [
-        {
-          "url": "https://cdn.amazon.science/dims4/default/fc1274d/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F37%2F23%2Fb207cbc54257bba9555bd6824c15%2Fmathresearch-01-16x9.png",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://cdn.amazon.science/7e/ae/d07eb6f949099374eb6a5e32592f/mathresearch-01-16x9.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "https://meshtastic.org/blog/tak-server-integration-ios/",
       "url": "https://meshtastic.org/blog/tak-server-integration-ios/",
       "title": "No Plugins, No Problem: Integrating TAK, Meshtastic, and iOS | Meshtastic",
@@ -325,25 +344,6 @@
       ],
       "tags": [
         "human-continuity"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/entertainment/masters-of-the-universe-movie-amazon-mgm-studios",
-      "url": "https://www.aboutamazon.com/news/entertainment/masters-of-the-universe-movie-amazon-mgm-studios",
-      "title": "How to watch the 'Masters of the Universe' movie, streaming now on Prime Video",
-      "content_text": "The live-action film adaptation of the classic 1980s toy brand stars Nicholas Galitzine as Prince Adam/He-Man.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/9b393c2/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fe5%2F5f%2F16a1a4ed467f82af98246f674e98%2Funtitled-16-july-2026-at-10-35-53.png",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/lBnfz93v27Q?enablejsapi=1",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
       ]
     },
     {
@@ -401,6 +401,25 @@
       ],
       "tags": [
         "human-continuity"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment/lord-of-the-rings-rings-of-power-season-3-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/lord-of-the-rings-rings-of-power-season-3-prime-video",
+      "title": "Watch the teaser trailer for ‘The Lord of the Rings: The Rings of Power’ Season 3, premiering November 11",
+      "content_text": "Prime Video’s epic saga set in J.R.R. Tolkien's Middle-earth will be back for a third season.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/81da023/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fcb%2Fcb%2Fb53e548747d5ab3d7ac510435791%2Fthelordoftherings-theringsofpower-primevideo-amazonnews-cdlt-july-24-2026.png",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/QmS7WuI9u40?enablejsapi=1",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
       ]
     },
     {
@@ -911,7 +930,7 @@
       "content_text": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/tile/Apple-Arcade-Madden-NFL-27-Arcade-Edition-trailer-lp.jpg.og.jpg?202607231301=",
+          "url": "https://www.apple.com/newsroom/images/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/tile/Apple-Arcade-Madden-NFL-27-Arcade-Edition-trailer-lp.jpg.og.jpg?202607241526=",
           "mime_type": "image/jpeg"
         },
         {
@@ -930,7 +949,7 @@
       "content_text": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/tile/Apple-services-hero-lp.jpg.og.jpg?202606301701=",
+          "url": "https://www.apple.com/newsroom/images/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/tile/Apple-services-hero-lp.jpg.og.jpg?202606301700=",
           "mime_type": "image/jpeg"
         },
         {
@@ -949,7 +968,7 @@
       "content_text": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/tile/Apple-development-tools-hero-260608-lp.jpg.og.jpg?202606301704=",
+          "url": "https://www.apple.com/newsroom/images/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/tile/Apple-development-tools-hero-260608-lp.jpg.og.jpg?202607210140=",
           "mime_type": "image/jpeg"
         },
         {
@@ -1111,21 +1130,6 @@
       ],
       "tags": [
         "earth-dynamics"
-      ]
-    },
-    {
-      "id": "https://aspire.usu.edu/from-vacuum-to-lab-a-students-journey-towards-real-world-application/",
-      "url": "https://aspire.usu.edu/from-vacuum-to-lab-a-students-journey-towards-real-world-application/",
-      "title": "From Vacuum to Lab: A Student’s Journey Towards Real-World Application  – ASPIRE Research Center",
-      "content_text": "In the classroom, students have the opportunity to learn and practice specific concepts in a controlled situation, sometimes referred to as a vacuum. Yet in the real-world, many concepts and skills must be considered simultaneously to arrive at a solution. Whitney Walpole, a mechanical engineering student at ASPIRE, is discovering what it takes to answer real-world questions.",
-      "attachments": [
-        {
-          "url": "https://www.youtube.com/embed/djXb6MrB1-0?feature=oembed",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "enabling-tools"
       ]
     }
   ]

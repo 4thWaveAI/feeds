@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/soil-agriculture.json",
   "items": [
     {
+      "id": "https://rodaleinstitute.org/blog/growing-better-hemp-grain-rodale-institute-studies-how-cover-crops-boost-yield-and-nutrition/",
+      "url": "https://rodaleinstitute.org/blog/growing-better-hemp-grain-rodale-institute-studies-how-cover-crops-boost-yield-and-nutrition/",
+      "title": "Growing Better Hemp Grain: Rodale Institute Studies How Cover Crops Boost Yield and Nutrition - Rodale Institute",
+      "content_text": "INDUSTRIAL HEMP IS RE-EMERGING AS A VALUABLE CROP.  Since the 2018 Farm Bill opened the door to growing it as a mainstream agricultural commodity, farmers",
+      "attachments": [
+        {
+          "url": "https://rodaleinstitute.org/wp-content/uploads/1.-Grain-hemp-field-e1784917730846.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "soil-agriculture"
+      ]
+    },
+    {
       "id": "https://rodaleinstitute.org/blog/rodale-institute-and-ancient-nutrition-partner-to-advance-regenerative-organic-farmer-transition/",
       "url": "https://rodaleinstitute.org/blog/rodale-institute-and-ancient-nutrition-partner-to-advance-regenerative-organic-farmer-transition/",
       "title": "RODALE INSTITUTE AND ANCIENT NUTRITION PARTNER TO ADVANCE REGENERATIVE ORGANIC FARMER TRANSITION - Rodale Institute",
@@ -132,21 +147,6 @@
       "attachments": [
         {
           "url": "https://rodaleinstitute.org/wp-content/uploads/untitled-7409873.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "soil-agriculture"
-      ]
-    },
-    {
-      "id": "https://rodaleinstitute.org/blog/organic-explained/",
-      "url": "https://rodaleinstitute.org/blog/organic-explained/",
-      "title": "Organic Explained: A Q&A with Rodale Institute's Southeast Organic Consultant - Rodale Institute",
-      "content_text": "What is organic agriculture? What is regenerative? Why is organic agriculture worthwhile? Our Southeast Organic Consultant weighs in.",
-      "attachments": [
-        {
-          "url": "https://rodaleinstitute.org/wp-content/uploads/RIC08812-e1769625811489.jpg",
           "mime_type": "image/jpeg"
         }
       ],

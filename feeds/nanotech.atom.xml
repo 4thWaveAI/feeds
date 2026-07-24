@@ -4,7 +4,28 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.atom.xml"/>
   <id>urn:4thwaveai-feeds:nanotech</id>
-  <updated>Fri, 24 Jul 2026 14:19:39 +0000</updated>
+  <updated>Fri, 24 Jul 2026 19:53:28 +0000</updated>
+  <entry>
+    <title>Quantum dots reveal hidden light waves on metal surfaces</title>
+    <link href="https://phys.org/news/2026-07-quantum-dots-reveal-hidden-metal.html"/>
+    <id>https://phys.org/news/2026-07-quantum-dots-reveal-hidden-metal.html</id>
+    <summary type="text">Photographs can reveal things that are otherwise impossible for the naked eye to see, be they distant galaxies or microscopic cells. Researchers at Osaka Metropolitan University have developed a practical and versatile imaging technique that makes another usually invisible phenomenon visible: surface plasmon polaritons (SPPs), light waves that travel along metal surfaces.</summary>
+    <updated>Fri, 24 Jul 2026 14:40:07 -0400</updated>
+  </entry>
+  <entry>
+    <title>Algorithms create foundry-ready photonic circuits</title>
+    <link href="https://phys.org/news/2026-07-algorithms-foundry-ready-photonic-circuits.html"/>
+    <id>https://phys.org/news/2026-07-algorithms-foundry-ready-photonic-circuits.html</id>
+    <summary type="text">Photonic microchips can process data at extremely high speeds and are embedded in a wide variety of today&#x27;s technologies. Researchers at the Max Planck Institute for the Science of Light (MPL) and Harvard University have now succeeded in developing three functional components for such chips that are up to 500 times smaller than conventional designs. The researchers used inverse design, a computer algorithm, to achieve this. The results are published in Nature Communications.</summary>
+    <updated>Fri, 24 Jul 2026 13:40:08 -0400</updated>
+  </entry>
+  <entry>
+    <title>Metal-ion coating improves extracellular vesicles for cancer detection and targeted delivery</title>
+    <link href="https://phys.org/news/2026-07-metal-ion-coating-extracellular-vesicles.html"/>
+    <id>https://phys.org/news/2026-07-metal-ion-coating-extracellular-vesicles.html</id>
+    <summary type="text">Researchers, including those from the University of Tokyo, found a way to optimize how cells bind to small packages they release called extracellular vesicles. By coating the vesicles with metal ions, they made cells and their corresponding vesicles stick together more strongly than they would naturally. This reduced the time needed for cells to capture their own vesicles, even in mixtures containing billions of other vesicles.</summary>
+    <updated>Fri, 24 Jul 2026 11:00:02 -0400</updated>
+  </entry>
   <entry>
     <title>First 3D nanoscale maps of human airway epithelium reveal hidden architecture of lung defense cells</title>
     <link href="https://phys.org/news/2026-07-3d-nanoscale-human-airway-epithelium.html"/>
@@ -62,32 +83,11 @@
     <updated>Mon, 20 Jul 2026 17:40:06 -0400</updated>
   </entry>
   <entry>
-    <title>Carbon nanotube model reveals how smart sensors perform at aircraft-like extremes</title>
-    <link href="https://phys.org/news/2026-07-carbon-nanotube-reveals-smart-sensors.html"/>
-    <id>https://phys.org/news/2026-07-carbon-nanotube-reveals-smart-sensors.html</id>
-    <summary type="text">Researchers from Skoltech, in collaboration with the Harbin Institute of Technology and Jiangsu University (China), have published a study presenting the first empirical model to explain and predict the sensing behavior of hierarchical tri-phase carbon nanotube systems across a wide temperature range (from -170°C (-274°F) to 90°C (194°F)). The study has been published in the Carbon journal.</summary>
-    <updated>Mon, 20 Jul 2026 17:20:05 -0400</updated>
-  </entry>
-  <entry>
     <title>Acid-resistant nanocage shows promise for targeted gastric cancer therapy</title>
     <link href="https://phys.org/news/2026-07-acid-resistant-nanocage-gastric-cancer.html"/>
     <id>https://phys.org/news/2026-07-acid-resistant-nanocage-gastric-cancer.html</id>
     <summary type="text">Researchers from the Yong Loo Lin School of Medicine, National University of Singapore (NUS Medicine), have developed a swallowable nanoscale delivery platform designed to transport therapeutic enzymes through the stomach&#x27;s acidic environment and activate a cancer-killing reaction at tumor sites. Early preclinical findings suggest that the approach may offer a new strategy for treating gastric cancer more precisely while reducing damage to healthy tissue.</summary>
     <updated>Mon, 20 Jul 2026 16:20:07 -0400</updated>
-  </entry>
-  <entry>
-    <title>Nanoparticles could remove harmful immune molecules from blood</title>
-    <link href="https://phys.org/news/2026-07-nanoparticles-immune-molecules-blood.html"/>
-    <id>https://phys.org/news/2026-07-nanoparticles-immune-molecules-blood.html</id>
-    <summary type="text">The immune system, the body&#x27;s defense network against infections and injuries, can sometimes become too active. In these cases, it can produce too many immune mediators, fragments of genetic material or proteins that regulate immune responses.</summary>
-    <updated>Sat, 18 Jul 2026 13:40:01 -0400</updated>
-  </entry>
-  <entry>
-    <title>Thinner wires, faster electrons: Quantum material challenges copper at chip scale</title>
-    <link href="https://phys.org/news/2026-07-thinner-wires-faster-electrons-quantum.html"/>
-    <id>https://phys.org/news/2026-07-thinner-wires-faster-electrons-quantum.html</id>
-    <summary type="text">Electrical interconnects may very well be the unsung heroes of modern microchips. These tiny wires—typically made of copper due to its high conductivity—string together the billions of transistors that drive our computers and electronic devices. But as the technology advances and additional transistors are piled on, the components must shrink to the nanoscale. And that&#x27;s when copper begins to fail.</summary>
-    <updated>Fri, 17 Jul 2026 11:40:01 -0400</updated>
   </entry>
   <entry>
     <title>The Department of Commerce’s CHIPS Program Announces a Letter of Intent with Coherent for up to $50 Million to Expand Indium Phosphide Production</title>

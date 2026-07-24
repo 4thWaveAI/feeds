@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/human_effect.json",
   "items": [
     {
+      "id": "https://spectrum.ieee.org/ieee-president-ray-liu-award",
+      "url": "https://spectrum.ieee.org/ieee-president-ray-liu-award",
+      "title": "2022 IEEE President K.J. Ray Liu Honored for His Leadership",
+      "content_text": "He led the effort for more equitable representation of members",
+      "attachments": [
+        {
+          "url": "https://spectrum.ieee.org/media-library/a-middle-aged-asian-man-in-formal-attire-speaking-on-stage-behind-a-podium-with-a-woman-standing-in-the-background-holding-a-box.jpg?id=67521521&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://www.pewresearch.org/short-reads/2026/07/23/what-americans-think-about-the-global-ai-race/",
       "url": "https://www.pewresearch.org/short-reads/2026/07/23/what-americans-think-about-the-global-ai-race/",
       "title": "What Americans think about the global AI race",
@@ -282,21 +297,6 @@
       "attachments": [
         {
           "url": "https://spectrum.ieee.org/media-library/a-word-bubble-with-the-ieee-inside.jpg?id=25592350&width=1200&height=600&coordinates=0%2C155%2C0%2C155",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/eliza-chatbot-source-code",
-      "url": "https://spectrum.ieee.org/eliza-chatbot-source-code",
-      "title": "Inside ELIZA’s Source Code and Its Multiple Personalities",
-      "content_text": "Uncovering ELIZA’s source code reveals hidden lessons",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/image.jpg?id=67155632&width=1200&height=600&coordinates=0%2C62%2C0%2C63",
           "mime_type": "image/jpeg"
         }
       ],
@@ -815,6 +815,21 @@
       ]
     },
     {
+      "id": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+      "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+      "title": "The quest to keep organs alive outside the body",
+      "content_text": "Researchers are breaking new ground in preserving organs by freezing them, pumping nutrients into them, or supercooling them.",
+      "attachments": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/organ-transport.jpg?resize=1200%2C600",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "human_effect"
+      ]
+    },
+    {
       "id": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
       "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
       "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
@@ -883,21 +898,6 @@
         {
           "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/NKT_CHPE-6_2.jpg?resize=1200%2C600",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
-      "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
-      "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
-      "content_text": "Plus: France has become the first EU country to ban social media for under-15s.",
-      "attachments": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/260708_RomanCoronagraph.gif?resize=1200%2C600",
-          "mime_type": "image/gif"
         }
       ],
       "tags": [

@@ -4,7 +4,14 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai</id>
-  <updated>Fri, 24 Jul 2026 14:17:21 +0000</updated>
+  <updated>Fri, 24 Jul 2026 19:51:14 +0000</updated>
+  <entry>
+    <title>ModelExpress: Distributing Model Artifacts at the Speed of Light | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light/"/>
+    <id>https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light/</id>
+    <summary type="text">Every byte moved has a cost. As model checkpoints grow to hundreds of gigabytes or even a terabyte, that cost adds up quickly. To make things even worse, moving these model weights around the cluster…</summary>
+    <updated>Fri, 24 Jul 2026 16:45:00 +0000</updated>
+  </entry>
   <entry>
     <title>At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners</title>
     <link href="https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/"/>
@@ -151,13 +158,6 @@
     <id>https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem/</id>
     <summary type="text">Capcom’s RE ENGINE team set out to bring path tracing into two shipping titles at once, Resident Evil Requiem and PRAGMATA, each with a different visual identity. Over two years, the RE ENGINE team…</summary>
     <updated>Thu, 16 Jul 2026 22:59:09 +0000</updated>
-  </entry>
-  <entry>
-    <title>Integrating Context-Aware Video AI Agents Into Enterprise Workflows | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/"/>
-    <id>https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/</id>
-    <summary type="text">A video analytics AI agent that can perceive, reason, and act based on massive amounts of video footage must be integrated with existing workflows and applications to be useful.</summary>
-    <updated>Thu, 16 Jul 2026 16:03:35 +0000</updated>
   </entry>
   <entry>
     <title>Google DeepMind and Isomorphic Labs approach to bioresilience</title>
@@ -384,6 +384,13 @@
     <updated>Thu, 28 May 2026 16:00:00 +0000</updated>
   </entry>
   <entry>
+    <title>How flat is replacing fat in AWS data center networks</title>
+    <link href="https://www.amazon.science/blog/how-flat-is-replacing-fat-in-aws-data-center-networks"/>
+    <id>https://www.amazon.science/blog/how-flat-is-replacing-fat-in-aws-data-center-networks</id>
+    <summary type="text">“Quasi-random” network topologies and new passive optical components called ShuffleBoxes make more-efficient flat networks as practical as traditional “fat-tree” networks.</summary>
+    <updated>Thu, 28 May 2026 10:30:00 -0000</updated>
+  </entry>
+  <entry>
     <title>Extending human intelligence through AI</title>
     <link href="https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/"/>
     <id>https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/</id>
@@ -396,13 +403,6 @@
     <id>https://www.amazon.science/news/aws-gray-lab-johns-hopkins-announce-groundbreaking-database-for-ai-ml-antibody-design</id>
     <summary type="text">The Antibody Developability Benchmark is powered by one of the most diverse antibody datasets, enabling transparent performance evaluation for AI-guided antibody design.</summary>
     <updated>Tue, 14 Apr 2026 14:00:00 -0000</updated>
-  </entry>
-  <entry>
-    <title>How AI is changing the nature of mathematical research</title>
-    <link href="https://www.amazon.science/blog/how-ai-is-changing-the-nature-of-mathematical-research"/>
-    <id>https://www.amazon.science/blog/how-ai-is-changing-the-nature-of-mathematical-research</id>
-    <summary type="text">What machine learning theorists learned using AI agents to generate proofs — and what comes next.</summary>
-    <updated>Mon, 09 Mar 2026 17:55:47 -0000</updated>
   </entry>
   <entry>
     <title>SIMA 2: A Gemini-Powered AI Agent for 3D Virtual Worlds</title>

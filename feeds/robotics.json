@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/robotics.json",
   "items": [
     {
+      "id": "https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/",
+      "url": "https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/",
+      "title": "New Small Spacecraft Technology Demonstration Mission at the Moon",
+      "content_text": "NASA is working with industry to advance the next phase of cislunar infrastructure for the agency’s Artemis program and Moon Base, including orbital assets",
+      "attachments": [
+        {
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/capstone2.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
       "id": "https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/",
       "url": "https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/",
       "title": "Robotic Servicing Mission Launches with NASA Support - NASA",
@@ -797,21 +812,6 @@
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
           "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/",
-      "url": "https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/",
-      "title": "NASA Identifies More Than 40 Space Technologies for Collaboration - NASA",
-      "content_text": "NASA selected 41 proposals from 37 companies to advance technologies in support of the agency’s goals to establish a long-term presence on the Moon and enable",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [

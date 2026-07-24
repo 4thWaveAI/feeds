@@ -5,6 +5,25 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/gsel-esports-ai.json",
   "items": [
     {
+      "id": "https://esports.gg/news/fortnite/fortnite-kicks-a-complete-list-of-all-shoes-in-the-game/",
+      "url": "https://esports.gg/news/fortnite/fortnite-kicks-a-complete-list-of-all-shoes-in-the-game/",
+      "title": "Fortnite Kicks: A complete list of all shoes in the game",
+      "content_text": "Here is a complete list of all Fortnite Kicks!",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2024/11/Fortnite-Kicks.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://media.esports.gg/uploads/2024/11/twittervid.com_FortniteGame_dd8b45.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
       "id": "https://esports.gg/news/esports-revenue-model-g2/",
       "url": "https://esports.gg/news/esports-revenue-model-g2/",
       "title": "G2 Esports' $35M business blueprint: How the org profits whether fans love or hate them",
@@ -22,7 +41,7 @@
     {
       "id": "https://esportsinsider.com/2026/07/ai-vs-expert-lec-week-one-predictions",
       "url": "https://esportsinsider.com/2026/07/ai-vs-expert-lec-week-one-predictions",
-      "title": "AI vs expert: Claude, ChatGPT and Gemini take on our LEC week one predictions",
+      "title": "AI vs expert: Claude, ChatGPT, and Gemini take on our LEC week one predictions",
       "content_text": "Claude, ChatGPT and Gemini each built a $10 LEC week one accumulator — see how their picks and odds stack up against our own expert's predictions.",
       "attachments": [
         {
@@ -215,21 +234,6 @@
       ]
     },
     {
-      "id": "https://esports.gg/news/overwatch/lich-queen-mei-rises-in-new-overwatch-x-world-of-warcraft-collaboration/",
-      "url": "https://esports.gg/news/overwatch/lich-queen-mei-rises-in-new-overwatch-x-world-of-warcraft-collaboration/",
-      "title": "Lich Queen Mei rises in new Overwatch x World of Warcraft collaboration!",
-      "content_text": "The legendary Lich Queen Mei skin and Frostmourne Ana weapon have entered Overwatch as part of the game's latest World of Warcraft crossover.",
-      "attachments": [
-        {
-          "url": "https://media.esports.gg/uploads/2026/07/Lich-Queen-Mei-rises-in-new-Overwatch-x-Warcraft-collaboration-Article-By-Esportsgg-Images-via-Blizzard-Entertainment-Lich-Queen-Mei-Skin-Frostmourne-Ana-Skin-Overwatch-Warcraft-Collab-Crossover-S.avif",
-          "mime_type": "image/avif"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
       "id": "https://esportsinsider.com/2026/07/single-player-games-esports",
       "url": "https://esportsinsider.com/2026/07/single-player-games-esports",
       "title": "Single-player games deserve more attention in esports",
@@ -263,7 +267,7 @@
       "id": "https://esportsinsider.com/latest-news",
       "url": "https://esportsinsider.com/latest-news",
       "title": "Latest News Archives - Esports Insider",
-      "content_text": "Fatal Fury: City of the Wolves devs are going ham with the DLC, dropping tons of characters. But do they have the sauce?",
+      "content_text": "With Mobile Legends: Bang Bang recently accused of having AI in its menu, I got to thinking: Who cares really? Is it impacting esports?",
       "attachments": [
         {
           "url": "https://esportsinsider.com/wp-content/uploads/2025/01/esi_logo_white.jpg",
@@ -293,7 +297,7 @@
       "id": "https://esports.gg/news/",
       "url": "https://esports.gg/news/",
       "title": "News Archives",
-      "content_text": "G2 CEO Alban Dechelotte pulled back the curtain on the org's commercial engine at the Esports World Cup 2026 in Paris, revealing a $35M annual turnover built on diversified revenue and a deliberately borderless identity.",
+      "content_text": "Here is a complete list of all Fortnite Kicks!",
       "tags": [
         "gsel-esports-ai"
       ]

@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/biotech.atom.xml"/>
   <id>urn:4thwaveai-feeds:biotech</id>
-  <updated>Fri, 24 Jul 2026 14:19:31 +0000</updated>
+  <updated>Fri, 24 Jul 2026 19:53:19 +0000</updated>
   <entry>
     <title>EMBL spin-off Epitome Therapeutics launches to advance precision epigenome editing | EMBL</title>
     <link href="https://www.embl.org/news/science-technology/embl-spin-off-epitome-therapeutics-launches-to-advance-precision-epigenome-editing/"/>
@@ -192,6 +192,12 @@
     <summary type="text">The U.S. Food and Drug Administration today approved the first generic of Xofluza (baloxavir marboxil) tablets, the first single-dose treatment for acute uncomplicated influenza and prophylaxis in patients 5 years of age and older.</summary>
   </entry>
   <entry>
+    <title>Sunny Pharmtech, Inc. Issues Voluntary Nationwide Recall of Cyclophosphamide for Injection, USP to the User Level Due to the Presence of Particulate Matter</title>
+    <link href="http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sunny-pharmtech-inc-issues-voluntary-nationwide-recall-cyclophosphamide-injection-usp-user-level-due"/>
+    <id>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sunny-pharmtech-inc-issues-voluntary-nationwide-recall-cyclophosphamide-injection-usp-user-level-due</id>
+    <summary type="text">July 24, 2026 - Taoyuan City, Taiwan - Sunny Pharmtech, Inc is voluntarily recalling three lots of Cyclophosphamide for Injection, USP, 1g/vial and 2g/vial, to the User Level due to the presence of particulate matter identified as steel. To date, no adverse events or injuries associated with this pa</summary>
+  </entry>
+  <entry>
     <title>Early Alert: Intravascular Administration Set Issue from Baxter</title>
     <link href="http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-intravascular-administration-set-issue-baxter"/>
     <id>http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-intravascular-administration-set-issue-baxter</id>
@@ -246,10 +252,10 @@
     <summary type="text">The distal tip in certain lots of the Medtronic Harmony Delivery Catheter System (DCS) may detach which can require endovascular retrieval or surgical intervent</summary>
   </entry>
   <entry>
-    <title>Convenience Kit Issue from Medical Action Industries</title>
-    <link href="http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-medical-action-industries"/>
-    <id>http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-medical-action-industries</id>
-    <summary type="text">Particulates have the potential to be introduced into blood circulation and become lodged within blood vessels.</summary>
+    <title>NIH selects Dr. Courtney Aklin as director of the National Institute of Nursing Research</title>
+    <link href="https://www.nih.gov/news-events/news-releases/nih-selects-dr-courtney-aklin-director-national-institute-nursing-research"/>
+    <id>https://www.nih.gov/news-events/news-releases/nih-selects-dr-courtney-aklin-director-national-institute-nursing-research</id>
+    <summary type="text">Dr. Aklin is expected to begin her permanent role as the NINR director on July 26, 2026.</summary>
   </entry>
   <entry>
     <title>Brain immunity may undergo a major midlife overhaul</title>
@@ -304,12 +310,6 @@
     <link href="https://www.nih.gov/news-events/news-releases/nih-researchers-identify-regulatory-cells-shield-against-inflammatory-bowel-disease"/>
     <id>https://www.nih.gov/news-events/news-releases/nih-researchers-identify-regulatory-cells-shield-against-inflammatory-bowel-disease</id>
     <summary type="text">Discovery opens the door for improved diagnoses and treatments.</summary>
-  </entry>
-  <entry>
-    <title>Researchers trigger sleep’s restorative effect in parts of the awake brain</title>
-    <link href="https://www.nih.gov/news-events/news-releases/researchers-trigger-sleeps-restorative-effect-parts-awake-brain"/>
-    <id>https://www.nih.gov/news-events/news-releases/researchers-trigger-sleeps-restorative-effect-parts-awake-brain</id>
-    <summary type="text">NIH-funded study in animals offers new details about how the brain resets during sleep.</summary>
   </entry>
   <entry>
     <title>FISHER: Gradient-Decoupled Hierarchical Multi-Task Learning for Fine-Grained Aquatic Species Recognition</title>

@@ -5,6 +5,55 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.json",
   "items": [
     {
+      "id": "https://phys.org/news/2026-07-quantum-dots-reveal-hidden-metal.html",
+      "url": "https://phys.org/news/2026-07-quantum-dots-reveal-hidden-metal.html",
+      "title": "Quantum dots reveal hidden light waves on metal surfaces",
+      "content_text": "Photographs can reveal things that are otherwise impossible for the naked eye to see, be they distant galaxies or microscopic cells. Researchers at Osaka Metropolitan University have developed a practical and versatile imaging technique that makes another usually invisible phenomenon visible: surface plasmon polaritons (SPPs), light waves that travel along metal surfaces.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2026/seeing-the-unseen-quan.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2026-07-algorithms-foundry-ready-photonic-circuits.html",
+      "url": "https://phys.org/news/2026-07-algorithms-foundry-ready-photonic-circuits.html",
+      "title": "Algorithms create foundry-ready photonic circuits",
+      "content_text": "Photonic microchips can process data at extremely high speeds and are embedded in a wide variety of today's technologies. Researchers at the Max Planck Institute for the Science of Light (MPL) and Harvard University have now succeeded in developing three functional components for such chips that are up to 500 times smaller than conventional designs. The researchers used inverse design, a computer algorithm, to achieve this. The results are published in Nature Communications.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2026/beyond-human-intuition.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://scx2.b-cdn.net/gfx/video/2026/beyond-human-intuition.mp4",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
+      "id": "https://phys.org/news/2026-07-metal-ion-coating-extracellular-vesicles.html",
+      "url": "https://phys.org/news/2026-07-metal-ion-coating-extracellular-vesicles.html",
+      "title": "Metal-ion coating improves extracellular vesicles for cancer detection and targeted delivery",
+      "content_text": "Researchers, including those from the University of Tokyo, found a way to optimize how cells bind to small packages they release called extracellular vesicles. By coating the vesicles with metal ions, they made cells and their corresponding vesicles stick together more strongly than they would naturally. This reduced the time needed for cells to capture their own vesicles, even in mixtures containing billions of other vesicles.",
+      "attachments": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/helping-cells-find-the.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "nanotech"
+      ]
+    },
+    {
       "id": "https://phys.org/news/2026-07-3d-nanoscale-human-airway-epithelium.html",
       "url": "https://phys.org/news/2026-07-3d-nanoscale-human-airway-epithelium.html",
       "title": "First 3D nanoscale maps of human airway epithelium reveal hidden architecture of lung defense cells",
@@ -129,21 +178,6 @@
       ]
     },
     {
-      "id": "https://phys.org/news/2026-07-carbon-nanotube-reveals-smart-sensors.html",
-      "url": "https://phys.org/news/2026-07-carbon-nanotube-reveals-smart-sensors.html",
-      "title": "Carbon nanotube model reveals how smart sensors perform at aircraft-like extremes",
-      "content_text": "Researchers from Skoltech, in collaboration with the Harbin Institute of Technology and Jiangsu University (China), have published a study presenting the first empirical model to explain and predict the sensing behavior of hierarchical tri-phase carbon nanotube systems across a wide temperature range (from -170°C (-274°F) to 90°C (194°F)). The study has been published in the Carbon journal.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/carbon-fiber.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
       "id": "https://phys.org/news/2026-07-acid-resistant-nanocage-gastric-cancer.html",
       "url": "https://phys.org/news/2026-07-acid-resistant-nanocage-gastric-cancer.html",
       "title": "Acid-resistant nanocage shows promise for targeted gastric cancer therapy",
@@ -151,36 +185,6 @@
       "attachments": [
         {
           "url": "https://scx2.b-cdn.net/gfx/news/2026/nus-medicine-scientist.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2026-07-nanoparticles-immune-molecules-blood.html",
-      "url": "https://phys.org/news/2026-07-nanoparticles-immune-molecules-blood.html",
-      "title": "Nanoparticles could remove harmful immune molecules from blood",
-      "content_text": "The immune system, the body's defense network against infections and injuries, can sometimes become too active. In these cases, it can produce too many immune mediators, fragments of genetic material or proteins that regulate immune responses.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/nanoparticles-could-re.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2026-07-thinner-wires-faster-electrons-quantum.html",
-      "url": "https://phys.org/news/2026-07-thinner-wires-faster-electrons-quantum.html",
-      "title": "Thinner wires, faster electrons: Quantum material challenges copper at chip scale",
-      "content_text": "Electrical interconnects may very well be the unsung heroes of modern microchips. These tiny wires—typically made of copper due to its high conductivity—string together the billions of transistors that drive our computers and electronic devices. But as the technology advances and additional transistors are piled on, the components must shrink to the nanoscale. And that's when copper begins to fail.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2026/too-thin-to-fail-an-al.jpg",
           "mime_type": "image/jpeg"
         }
       ],
