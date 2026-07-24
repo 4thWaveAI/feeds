@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/demographics-care.json",
   "items": [
     {
+      "id": "https://www.census.gov/newsroom/tip-sheets/2026/tp26-15.html",
+      "url": "https://www.census.gov/newsroom/tip-sheets/2026/tp26-15.html",
+      "title": "Tip Sheet Number 15 &#8212; July 24, 2026",
+      "content_text": "Bi-weekly information on upcoming and recently released multimedia, publications, data, products, and reports.",
+      "attachments": [
+        {
+          "url": "https://www.census.gov/content/dam/Census/public/brand/census-logo-sharing-card.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "demographics-care"
+      ]
+    },
+    {
       "id": "https://www.census.gov/newsroom/press-releases/2026/htops-data-tables.html",
       "url": "https://www.census.gov/newsroom/press-releases/2026/htops-data-tables.html",
       "title": "New Data Tables Released From Household Trends and Outlook Pulse Survey",
@@ -43,21 +58,6 @@
         {
           "url": "https://www.census.gov/content/dam/Census/gs-imports/social-media-sharing-images/social-image-newsroom.png",
           "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "demographics-care"
-      ]
-    },
-    {
-      "id": "https://www.census.gov/newsroom/tip-sheets/2026/tp26-14.html",
-      "url": "https://www.census.gov/newsroom/tip-sheets/2026/tp26-14.html",
-      "title": "Tip Sheet Number 14 &#8212; July 10, 2026",
-      "content_text": "Bi-weekly information on upcoming and recently released multimedia, publications, data, products, and reports.",
-      "attachments": [
-        {
-          "url": "https://www.census.gov/content/dam/Census/public/brand/census-logo-sharing-card.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [

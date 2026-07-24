@@ -77,7 +77,7 @@
       "id": "https://www.who.int/mega-menu/news/all-news/commentaries",
       "url": "https://www.who.int/mega-menu/news/all-news/commentaries",
       "title": "Commentaries",
-      "content_text": "The digital choices shaping our children’s health",
+      "content_text": "80 years strong: the WHO Constitution",
       "tags": [
         "health-medicine"
       ]
@@ -154,6 +154,21 @@
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
           "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "health-medicine"
+      ]
+    },
+    {
+      "id": "https://www.afro.who.int/countries/zimbabwe/news/united-against-polio-zimbabwe-strengthens-regional-immunity-through-synchronized-vaccination",
+      "url": "https://www.afro.who.int/countries/zimbabwe/news/united-against-polio-zimbabwe-strengthens-regional-immunity-through-synchronized-vaccination",
+      "title": "United against polio: Zimbabwe strengthens regional immunity through synchronized vaccination",
+      "content_text": "Harare, Zimbabwe – July 2026 – Zimbabwe has successfully completed three rounds of synchronized vaccination campaigns using the novel oral polio vaccine type 2 (nOPV2) as part of a coordinated Southern African response to prevent the re-establishment of circulating vaccine-derived poliovirus type 2 (cVDPV2).",
+      "attachments": [
+        {
+          "url": "https://www.afro.who.int/sites/default/files/styles/teaser_thumbnail_600x600_/public/2026-07/DSC_2404_0.JPG?itok=SajGx_8I",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -288,21 +303,6 @@
       "attachments": [
         {
           "url": "https://www.afro.who.int/sites/default/files/Logo%20EN.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "health-medicine"
-      ]
-    },
-    {
-      "id": "https://www.afro.who.int/countries/zimbabwe/news/united-against-polio-zimbabwe-strengthens-regional-immunity-through-synchronized-vaccination",
-      "url": "https://www.afro.who.int/countries/zimbabwe/news/united-against-polio-zimbabwe-strengthens-regional-immunity-through-synchronized-vaccination",
-      "title": "United against polio: Zimbabwe strengthens regional immunity through synchronized vaccination",
-      "content_text": "Harare, Zimbabwe – July 2026 – Zimbabwe has successfully completed three rounds of synchronized vaccination campaigns using the novel oral polio vaccine type 2 (nOPV2) as part of a coordinated Southern African response to prevent the re-establishment of circulating vaccine-derived poliovirus type 2 (cVDPV2).",
-      "attachments": [
-        {
-          "url": "https://www.afro.who.int/sites/default/files/styles/teaser_thumbnail_600x600_/public/2026-07/DSC_2404_0.JPG?itok=SajGx_8I",
           "mime_type": "image/jpeg"
         }
       ],

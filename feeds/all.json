@@ -5,6 +5,141 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
+      "id": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/hwo-sig-seminar-12-august-2026/",
+      "url": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/hwo-sig-seminar-12-august-2026/",
+      "title": "HWO SIG Seminar, 12 August 2026 - NASA Science",
+      "content_text": "Habitable Worlds Observatory SIG Seminar. Details TBA",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/exep/resources/links/images/97_PIA17002.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ad-astra/",
+      "url": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ad-astra/",
+      "title": "Community Science (Ad ASTRA) Workshop, Sept 2026 - NASA Science",
+      "content_text": "1-3 September 2026. The Community Science (Ad ASTRA) Workshop is organized by the NASA Astrophysics Division to engage the community in defining future large, strategic astrophysics missions.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/physics-of-the-cosmos/images/hubble/NGC%202174.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xr-sig-seminar-24-july-2026/",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xr-sig-seminar-24-july-2026/",
+      "title": "XR SIG Seminar, 24 July 2026 - NASA Science",
+      "content_text": "Hybrid CMOS Detectors for Future X-ray Missions. Speaker: Abraham D. Falcone, Penn State University. 1:00pm – 2:00pm ET",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/cds/svs/a010000/a013200/a013214/NICERNightMovesnolabels.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xr-sig-seminar-7-august-2026/",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xr-sig-seminar-7-august-2026/",
+      "title": "XR SIG Seminar, 7 August 2026 - NASA Science",
+      "content_text": "A TDAMM Mission Concept Offered by the X-ray Timing Science Analysis Group: the Dynamic Extreme Universe in X-rays (DEUS-X) Machine",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/cds/svs/a010000/a013200/a013214/NICERNightMovesnolabels.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/habitable-worlds-observatory-sig-seminar-12-aug-2026/",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/habitable-worlds-observatory-sig-seminar-12-aug-2026/",
+      "title": "Habitable Worlds Observatory SIG Seminar, 12 Aug 2026 - NASA Science",
+      "content_text": "Habitable Worlds Observatory SIG Seminar. Details TBA",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/cds/general/images/2023/07/jpegpia17999.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/ad-astra/",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/ad-astra/",
+      "title": "Community Science (Ad ASTRA) Workshop, Sept 2026 - NASA Science",
+      "content_text": "1-3 September 2026. The Community Science (Ad ASTRA) Workshop is organized by the NASA Astrophysics Division.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/physics-of-the-cosmos/images/misc/Westerlund-2-heic1509a.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/esports-revenue-model-g2/",
+      "url": "https://esports.gg/news/esports-revenue-model-g2/",
+      "title": "G2 Esports' $35M business blueprint: How the org profits whether fans love or hate them",
+      "content_text": "G2 CEO Alban Dechelotte pulled back the curtain on the org's commercial engine at the Esports World Cup 2026 in Paris, revealing a $35M annual turnover built on diversified revenue and a deliberately borderless identity.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/07/g2-esports-35m-business-blueprint-how-the-org-profits-whethe-1.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esportsinsider.com/2026/07/ai-vs-expert-lec-week-one-predictions",
+      "url": "https://esportsinsider.com/2026/07/ai-vs-expert-lec-week-one-predictions",
+      "title": "AI vs expert: Claude, ChatGPT and Gemini take on our LEC week one predictions",
+      "content_text": "Claude, ChatGPT and Gemini each built a $10 LEC week one accumulator — see how their picks and odds stack up against our own expert's predictions.",
+      "attachments": [
+        {
+          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/55321975236_d4055474cd_c.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/missions/hubble/hubble-spies-one-sided-spiral/",
+      "url": "https://science.nasa.gov/missions/hubble/hubble-spies-one-sided-spiral/",
+      "title": "Hubble Spies One-Sided Spiral - NASA Science",
+      "content_text": "This Hubble image features the spiral galaxy NGC 4654, located 72 million light-years away in the constellation Virgo (the Maiden).",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/galaxies/spiral/Hubble_NGC4654_potm2607a.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://www.embl.org/news/science-technology/embl-spin-off-epitome-therapeutics-launches-to-advance-precision-epigenome-editing/",
       "url": "https://www.embl.org/news/science-technology/embl-spin-off-epitome-therapeutics-launches-to-advance-precision-epigenome-editing/",
       "title": "EMBL spin-off Epitome Therapeutics launches to advance precision epigenome editing | EMBL",
@@ -50,6 +185,21 @@
       ]
     },
     {
+      "id": "https://www.census.gov/newsroom/tip-sheets/2026/tp26-15.html",
+      "url": "https://www.census.gov/newsroom/tip-sheets/2026/tp26-15.html",
+      "title": "Tip Sheet Number 15 &#8212; July 24, 2026",
+      "content_text": "Bi-weekly information on upcoming and recently released multimedia, publications, data, products, and reports.",
+      "attachments": [
+        {
+          "url": "https://www.census.gov/content/dam/Census/public/brand/census-logo-sharing-card.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "demographics-care"
+      ]
+    },
+    {
       "id": "https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/",
       "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/",
       "title": "Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present - NASA Science",
@@ -62,6 +212,66 @@
       ],
       "tags": [
         "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260724~43d9337ecd.en.html",
+      "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260724~43d9337ecd.en.html",
+      "title": "Macroprudential policy and productivity: friends not foes",
+      "content_text": "Our monetary policy strategy, the tools we use and the impact they have",
+      "attachments": [
+        {
+          "url": "https://www.ecb.europa.eu/press/shared/img/socialmedia/social-default.jpg?0ef1632c35edede913681bb76af694a4=",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "programmable-finance"
+      ]
+    },
+    {
+      "id": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260724~eebbc30622.en.html",
+      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260724~eebbc30622.en.html",
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "content_text": "Our monetary policy strategy, the tools we use and the impact they have",
+      "attachments": [
+        {
+          "url": "https://www.ecb.europa.eu/press/govcdec/shared/img/socialmedia/social-default.jpg?1b07e3d68efd7f29f4771d75b50bd667=",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "programmable-finance"
+      ]
+    },
+    {
+      "id": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html",
+      "title": "ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims",
+      "content_text": "Our monetary policy strategy, the tools we use and the impact they have",
+      "attachments": [
+        {
+          "url": "https://www.ecb.europa.eu/press/shared/img/socialmedia/social-default.jpg?0ef1632c35edede913681bb76af694a4=",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "programmable-finance"
+      ]
+    },
+    {
+      "id": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_3~c0b45e246f.en.html",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_3~c0b45e246f.en.html",
+      "title": "Results of the June 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
+      "content_text": "Our monetary policy strategy, the tools we use and the impact they have",
+      "attachments": [
+        {
+          "url": "https://www.ecb.europa.eu/press/shared/img/socialmedia/social-default.jpg?0ef1632c35edede913681bb76af694a4=",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "programmable-finance"
       ]
     },
     {
@@ -712,216 +922,6 @@
       ],
       "tags": [
         "programmable-finance"
-      ]
-    },
-    {
-      "id": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260723~b6fadd48f4.en.html",
-      "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260723~b6fadd48f4.en.html",
-      "title": "Monetary policy statement (with Q&A)",
-      "content_text": "Our monetary policy strategy, the tools we use and the impact they have",
-      "attachments": [
-        {
-          "url": "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/shared/img/socialmedia/social-default.jpg?1b07e3d68efd7f29f4771d75b50bd667=",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "programmable-finance"
-      ]
-    },
-    {
-      "id": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html",
-      "title": "Monetary policy decisions",
-      "content_text": "Our monetary policy strategy, the tools we use and the impact they have",
-      "attachments": [
-        {
-          "url": "https://www.ecb.europa.eu/press/shared/img/socialmedia/social-default.jpg?0ef1632c35edede913681bb76af694a4=",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "programmable-finance"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2026-07-reusable-magnetic-microplastics-pfas.html",
-      "url": "https://phys.org/news/2026-07-reusable-magnetic-microplastics-pfas.html",
-      "title": "Reusable magnetic invention removes microplastics plus some PFAS from water",
-      "content_text": "Microplastics are an increasing global concern, with growing evidence of their presence in water systems. RMIT University researchers have developed a water treatment material that rapidly removes micro- and nanoplastics and some PFAS (per- and polyfluoroalkyl substances), bringing the technology closer to real-world use. The invention builds on the team's 2022 breakthrough in microplastics removal, extending its performance to much smaller particles and more complex wastewater.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2026/magnetic-invention-rem.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://esportsinsider.com/2026/07/karmine-corp-tcg-monetization-strat",
-      "url": "https://esportsinsider.com/2026/07/karmine-corp-tcg-monetization-strat",
-      "title": "Forget the burrito bowl: Karmine Corp's Blue Rising TCG is the future of esports monetization",
-      "content_text": "Sick of the boring slapped on logos and lazy sponsored social media posts? Karmine Corp is showing how esports can truly thrive.",
-      "attachments": [
-        {
-          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/Screenshot-2026-07-22-132559.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
-      "id": "https://esports.gg/news/overwatch/lich-queen-mei-rises-in-new-overwatch-x-world-of-warcraft-collaboration/",
-      "url": "https://esports.gg/news/overwatch/lich-queen-mei-rises-in-new-overwatch-x-world-of-warcraft-collaboration/",
-      "title": "Lich Queen Mei rises in new Overwatch x World of Warcraft collaboration!",
-      "content_text": "The legendary Lich Queen Mei skin and Frostmourne Ana weapon have entered Overwatch as part of the game's latest World of Warcraft crossover.",
-      "attachments": [
-        {
-          "url": "https://media.esports.gg/uploads/2026/07/Lich-Queen-Mei-rises-in-new-Overwatch-x-Warcraft-collaboration-Article-By-Esportsgg-Images-via-Blizzard-Entertainment-Lich-Queen-Mei-Skin-Frostmourne-Ana-Skin-Overwatch-Warcraft-Collab-Crossover-S.avif",
-          "mime_type": "image/avif"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2026-07-optical-method-proteins-shift.html",
-      "url": "https://phys.org/news/2026-07-optical-method-proteins-shift.html",
-      "title": "New optical method follows single proteins as they shift shape",
-      "content_text": "Researchers at the University of Twente have developed an optical method that follows the shape changes of a single protein in liquid without attaching anything to it. It reads the protein's structure from its own molecular vibrations, free from the labels or tags that other techniques rely on. The method could help researchers study how proteins respond to drugs, toxins and other biomolecules. The paper is published in the journal ACS Nano.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2026/new-optical-method-fol.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/",
-      "url": "https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/",
-      "title": "Robotic Servicing Mission Launches with NASA Support - NASA",
-      "content_text": "Following its liftoff from Cape Canaveral on July 21 aboard a SpaceX Falcon 9 rocket, the Mission Robotic Vehicle (MRV) hosting the NASA-supported Robotic",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/20260721-cc-mrv-mep-curbh-img-0499.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://esports.gg/news/league-of-legends/faker-youth-cyber-gambling-awareness-ambassador/",
-      "url": "https://esports.gg/news/league-of-legends/faker-youth-cyber-gambling-awareness-ambassador/",
-      "title": "Faker named Youth Cyber Gambling Awareness Ambassador by Korean National Police Agency",
-      "content_text": "Faker will front a nationwide campaign in South Korea, encouraging young people struggling with cyber gambling to seek help.",
-      "attachments": [
-        {
-          "url": "https://media.esports.gg/uploads/2026/07/Faker-Police-.avif",
-          "mime_type": "image/avif"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
-      "id": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
-      "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
-      "title": "The Computer That Helped Win World War II",
-      "content_text": "Colossus cracked Germany’s encrypted communications",
-      "attachments": [
-        {
-          "url": "https://spectrum.ieee.org/media-library/black-and-white-image-of-two-women-operating-a-wall-sized-1940s-computer.jpg?id=67520993&width=1200&height=600&coordinates=0%2C125%2C0%2C125",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "human_effect"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/",
-      "url": "https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c/",
-      "title": "Make Long-Running NVIDIA TensorRT Engine Builds Observable and Cancelable in Python or C++ | NVIDIA Technical Blog",
-      "content_text": "A TensorRT engine build can take seconds to many minutes. Large strongly typed models, deep tactic search, and a cold timing cache on a brand-new GPU SKU can leave developers, end users…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/05/NVIDIA-NCCL-Inspector-Real-Time-Performance-Monitoring.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://phys.org/news/2026-07-combined-nanoparticle-internal-laser-method.html",
-      "url": "https://phys.org/news/2026-07-combined-nanoparticle-internal-laser-method.html",
-      "title": "Combined nanoparticle and internal laser method could make cancer therapy less invasive",
-      "content_text": "In a promising development for cancer treatment, a collaborative research team has overcome two issues that have prevented photothermal therapy, a much less invasive treatment option than surgery and/or radiation, from becoming more common.",
-      "attachments": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2026/researchers-clear-two.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "nanotech"
-      ]
-    },
-    {
-      "id": "https://newscenter.lbl.gov/2026/07/22/berkeley-lab-to-lead-13-new-genesis-mission-ai-projects/",
-      "url": "https://newscenter.lbl.gov/2026/07/22/berkeley-lab-to-lead-13-new-genesis-mission-ai-projects/",
-      "title": "Berkeley Lab to Lead 13 New Genesis Mission AI Projects",
-      "content_text": "Researchers will apply AI, supercomputing, and advanced instruments to accelerate discoveries for energy, science, and national security.",
-      "attachments": [
-        {
-          "url": "https://newscenter.lbl.gov/wp-content/uploads/2026/07/GenesisPhase1_Featured_1025x685px.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "national-gov-labs"
-      ]
-    },
-    {
-      "id": "https://news.fnal.gov/2026/07/u-s-department-of-energy-invests-in-fermilab-projects-to-accelerate-ai-enabled-scientific-discovery/",
-      "url": "https://news.fnal.gov/2026/07/u-s-department-of-energy-invests-in-fermilab-projects-to-accelerate-ai-enabled-scientific-discovery/",
-      "title": "U.S. Department of Energy invests in Fermilab projects to accelerate AI-enabled scientific discovery",
-      "content_text": "The awards will support Fermilab projects by leveraging AI to boost innovation and technology development, advance DOE’s Genesis Mission and accelerate scientific discovery.",
-      "attachments": [
-        {
-          "url": "https://news.fnal.gov/wp-content/uploads/2026/07/26-0132-05.hr_.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "national-gov-labs"
-      ]
-    },
-    {
-      "id": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-returns-money-consumers-harmed-trend-deploys-deceptive-marketing",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-returns-money-consumers-harmed-trend-deploys-deceptive-marketing",
-      "title": "FTC Returns Money to Consumers Harmed by Trend Deploy’s Deceptive Marketing",
-      "content_text": "The Federal Trade Commission is sending more than $672,000 to consumers deceived by the operator of Trend Deploy, Frank Romero.",
-      "attachments": [
-        {
-          "url": "https://www.ftc.gov/sites/default/files/styles/social_standard/public/images/press-releases/social-share/badge-explore-data-ftc-refunds-fb_0.png?h=ec041e41&itok=O8xF38KO",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai-policy-ethics-standards"
       ]
     }
   ]

@@ -69,13 +69,13 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/community/amazon-disaster-relief-programs-hubs-portal",
-      "url": "https://www.aboutamazon.com/news/community/amazon-disaster-relief-programs-hubs-portal",
-      "title": "How Amazon’s Disaster Relief hubs help communities when every minute counts",
-      "content_text": "Amazon donates and delivers emergency supplies to American Red Cross, World Central Kitchen, and other nonprofits from our Disaster Relief hubs.",
+      "id": "https://www.aboutamazon.com/news/devices/new-alexa-top-features",
+      "url": "https://www.aboutamazon.com/news/devices/new-alexa-top-features",
+      "title": "50+ things to try with Alexa+",
+      "content_text": "Alexa+ is our next-generation AI assistant that gets things done—it solves daily problems, keeps you entertained, helps you stay connected, and can converse about virtually any topic.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/70f961c/2147483647/strip/true/crop/6720x3360+0+210/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F67%2Fe1%2Fea63e59a4423b2d0eb7bd138b8bf%2Fatl7-0912.jpg",
+          "url": "https://assets.aboutamazon.com/dims4/default/4145a2e/2147483647/strip/true/crop/1999x1000+0+16/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fe2%2F1a%2F40c5872c47d3add7e3250e6cef32%2Falexa-calendar-widget-home-screen-2000x1125.jpg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -96,6 +96,21 @@
         {
           "url": "https://www.youtube.com/embed/pNhijtUqyeg?enablejsapi=1",
           "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/devices",
+      "url": "https://www.aboutamazon.com/news/devices",
+      "title": "Devices",
+      "content_text": "Stories and information about Amazon devices, such as Kindle e-readers, Fire tablets, Fire TV streaming media players, Echo devices, Dash Buttons, and more.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [

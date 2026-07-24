@@ -20,21 +20,6 @@
       ]
     },
     {
-      "id": "https://wmo.int/media/news/wmo-ra-vi-expands-services-and-applications-training-and-resource-toolkit-new-edition-focused-data",
-      "url": "https://wmo.int/media/news/wmo-ra-vi-expands-services-and-applications-training-and-resource-toolkit-new-edition-focused-data",
-      "title": "WMO RA VI expands Services and Applications Training and Resource Toolkit with new edition focused on data resources",
-      "content_text": "The WMO Regional Association VI (RA VI) has released the second edition of the Services and Applications Training and Resource Toolkit, focusing on data resources supporting weather, climate, hydrological and environmental services.Building on the first edition, the new toolkit provides a curated guide to selected data platforms, repositories and visualization tools to help NMHSs, researchers and partners discover, access and use relevant observations, climate datasets, hydrological information and environmental data.",
-      "attachments": [
-        {
-          "url": "https://wmo.int/sites/default/files/2026-04/Capacity%20development%20toolkit%20series%20overview_0.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "climate-environment"
-      ]
-    },
-    {
       "id": "https://science.nasa.gov/blogs/planetary-expeditions/2026/07/14/utah-helicopter-flights-test-nasas-davinci-mission-to-venus/",
       "url": "https://science.nasa.gov/blogs/planetary-expeditions/2026/07/14/utah-helicopter-flights-test-nasas-davinci-mission-to-venus/",
       "title": "Utah Helicopter Flights Test NASA’s DAVINCI Mission to Venus - NASA Science",
@@ -43,6 +28,21 @@
         {
           "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar-system/planetary-expeditions/2026-07-davinci-vadix/Brent%20Bos%20VADIX%20DAVINCI.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
           "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "climate-environment"
+      ]
+    },
+    {
+      "id": "https://wmo.int/media/news/AirborneDustBulletinJuly25",
+      "url": "https://wmo.int/media/news/AirborneDustBulletinJuly25",
+      "title": "WMO highlights sand and dust storm hotspots, impacts and research",
+      "content_text": "Geneva, Switzerland (WMO) – Some parts of the world, including China and the US-Mexican border, experienced record- breaking sand and dust storms in 2025, impacting health and the environment and disrupting economic activities and transport. However, overall average dust concentrations were similar to 2024, according to a new report from the World Meteorological Organization (WMO).",
+      "attachments": [
+        {
+          "url": "https://wmo.int/sites/default/files/2026-07/fig5a-americas-case%20%281%29.png",
+          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -200,13 +200,13 @@
       ]
     },
     {
-      "id": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/will-the-promise-of-rain-threaten-the-suns-long-reign",
-      "url": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/will-the-promise-of-rain-threaten-the-suns-long-reign",
-      "title": "Will the promise of rain threaten the sun’s long reign?",
+      "id": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/rain-on-the-horizon-but-dry-conditions-likely-to-persist-for-many",
+      "url": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/rain-on-the-horizon-but-dry-conditions-likely-to-persist-for-many",
+      "title": "Rain on the horizon, but dry conditions likely to persist for many",
       "content_text": "Author: Met Office",
       "attachments": [
         {
-          "url": "https://www.metoffice.gov.uk/api/images/file/cumulus-cloud-1024x512.jpg?prefix=images&prefix=images",
+          "url": "https://www.metoffice.gov.uk/api/images/file/summerjpg-1024x577.jpg?prefix=images&prefix=images&prefix=images",
           "mime_type": "image/jpeg"
         }
       ],
@@ -305,6 +305,21 @@
       ]
     },
     {
+      "id": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/will-the-promise-of-rain-threaten-the-suns-long-reign",
+      "url": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/will-the-promise-of-rain-threaten-the-suns-long-reign",
+      "title": "Will the promise of rain threaten the sun’s long reign?",
+      "content_text": "Author: Met Office",
+      "attachments": [
+        {
+          "url": "https://www.metoffice.gov.uk/api/images/file/cumulus-cloud-1024x512.jpg?prefix=images&prefix=images",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "climate-environment"
+      ]
+    },
+    {
       "id": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/heatwave-continues-as-uk-records-unprecedented-run-of-35c-days",
       "url": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/heatwave-continues-as-uk-records-unprecedented-run-of-35c-days",
       "title": "Heatwave continues as UK records unprecedented run of 35°C days",
@@ -335,13 +350,13 @@
       ]
     },
     {
-      "id": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/third-heatwave-of-year-to-bring-prolonged-spell-of-hot-and-dry-weather",
-      "url": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/third-heatwave-of-year-to-bring-prolonged-spell-of-hot-and-dry-weather",
-      "title": "Third heatwave of year to bring prolonged spell of hot and dry weather",
-      "content_text": "Author: Met Office",
+      "id": "https://www.ecmwf.int/en/about/media-centre/news/2026/ecmwf-events-bring-global-communities-together",
+      "url": "https://www.ecmwf.int/en/about/media-centre/news/2026/ecmwf-events-bring-global-communities-together",
+      "title": "ECMWF events bring global communities together",
+      "content_text": "A series of major events brought together hundreds of users, experts and partners to exchange knowledge and shape future services.",
       "attachments": [
         {
-          "url": "https://www.metoffice.gov.uk/api/images/file/beach-huts-in-summer-1024x683.png?prefix=images&prefix=images",
+          "url": "https://www.ecmwf.int/sites/default/files/2026-07/ECMWF%20event%20highlights%202026%201.png",
           "mime_type": "image/png"
         }
       ],
@@ -440,13 +455,13 @@
       ]
     },
     {
-      "id": "https://www.ecmwf.int/en/about/media-centre/news/2026/ecmwf-council-highlights-progress-forecasting-resilience-and-future-capability",
-      "url": "https://www.ecmwf.int/en/about/media-centre/news/2026/ecmwf-council-highlights-progress-forecasting-resilience-and-future-capability",
-      "title": "ECMWF Council highlights progress on forecasting, resilience and future capability",
-      "content_text": "The ECMWF Council discussed future priorities, including collaboration with Member States, advances in forecasting and AI, investments in computing, and progress towards a more connected European meteorological infrastructure.",
+      "id": "https://www.ecmwf.int/en/about/media-centre/news/2026/hpc-computing-power-weather-forecasts",
+      "url": "https://www.ecmwf.int/en/about/media-centre/news/2026/hpc-computing-power-weather-forecasts",
+      "title": "Computing power is the backbone for sustaining world-leading weather forecasts",
+      "content_text": "ECMWF highlights strategic importance of high-performance computing at the ISC High Performance conference.",
       "attachments": [
         {
-          "url": "https://www.ecmwf.int/sites/default/files/2026-06/Council-at-Reading-HQ.png",
+          "url": "https://www.ecmwf.int/sites/default/files/2026-06/Atos-HPC-Bologna.png",
           "mime_type": "image/png"
         }
       ],
@@ -455,13 +470,13 @@
       ]
     },
     {
-      "id": "https://www.ecmwf.int/en/about/media-centre/news/2026/hpc-computing-power-weather-forecasts",
-      "url": "https://www.ecmwf.int/en/about/media-centre/news/2026/hpc-computing-power-weather-forecasts",
-      "title": "Computing power is the backbone for sustaining world-leading weather forecasts",
-      "content_text": "ECMWF highlights strategic importance of high-performance computing at the ISC High Performance conference.",
+      "id": "https://www.ecmwf.int/en/about/media-centre/news/2026/ecmwf-council-highlights-progress-forecasting-resilience-and-future-capability",
+      "url": "https://www.ecmwf.int/en/about/media-centre/news/2026/ecmwf-council-highlights-progress-forecasting-resilience-and-future-capability",
+      "title": "ECMWF Council highlights progress on forecasting, resilience and future capability",
+      "content_text": "The ECMWF Council discussed future priorities, including collaboration with Member States, advances in forecasting and AI, investments in computing, and progress towards a more connected European meteorological infrastructure.",
       "attachments": [
         {
-          "url": "https://www.ecmwf.int/sites/default/files/2026-06/Atos-HPC-Bologna.png",
+          "url": "https://www.ecmwf.int/sites/default/files/2026-06/Council-at-Reading-HQ.png",
           "mime_type": "image/png"
         }
       ],
@@ -485,14 +500,14 @@
       ]
     },
     {
-      "id": "https://www.ecmwf.int/en/about/media-centre/news/2026/ecmwf-annual-report-2025-published",
-      "url": "https://www.ecmwf.int/en/about/media-centre/news/2026/ecmwf-annual-report-2025-published",
-      "title": "ECMWF Annual Report 2025 published",
-      "content_text": "The ECMWF Annual Report 2025 highlights a year of significant achievements, including the operationalisation of the AIFS, the opening of the Real-time Catalogue, and ECMWF’s 50th anniversary.",
+      "id": "https://www.unep.org/news-and-stories/story/mangroves-are-making-comeback-heres-whats-working",
+      "url": "https://www.unep.org/news-and-stories/story/mangroves-are-making-comeback-heres-whats-working",
+      "title": "Mangroves are making a comeback. Here’s what’s working",
+      "content_text": "Global mangrove loss is slowing as science-led restoration and community conservation help coastal forests recover from Kenya to Viet Nam.",
       "attachments": [
         {
-          "url": "https://www.ecmwf.int/sites/default/files/2026-06/ecmwf-annual-report-2025-cover-690px.png",
-          "mime_type": "image/png"
+          "url": "https://cdn.unenvironment.org/styles/article_billboard_image/s3/2026-07/Mangroves-Malindi.jpg?h=eba49a1a&itok=AfDBPEX9",
+          "mime_type": "image/jpeg"
         }
       ],
       "tags": [

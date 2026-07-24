@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/health-medicine.atom.xml"/>
   <id>urn:4thwaveai-feeds:health-medicine</id>
-  <updated>Fri, 24 Jul 2026 08:55:46 +0000</updated>
+  <updated>Fri, 24 Jul 2026 14:26:20 +0000</updated>
   <entry>
     <title>Newsroom</title>
     <link href="https://www.who.int/mega-menu/news/all-news"/>
@@ -51,7 +51,7 @@
     <title>Commentaries</title>
     <link href="https://www.who.int/mega-menu/news/all-news/commentaries"/>
     <id>https://www.who.int/mega-menu/news/all-news/commentaries</id>
-    <summary type="text">The digital choices shaping our children’s health</summary>
+    <summary type="text">80 years strong: the WHO Constitution</summary>
   </entry>
   <entry>
     <title>WHO Multimedia Library</title>
@@ -90,6 +90,12 @@
     <link href="https://arxiv.org/abs/2607.16498"/>
     <id>https://arxiv.org/abs/2607.16498</id>
     <summary type="text">Time-of-flight magnetic resonance angiography (TOF-MRA) is widely used for structural vascular imaging, but extracting functional hemodynamics like blood velocity typically requires supplementary phase-contrast scans. This study proposes a novel, physics-informed computational framework to extract variable fluid velocity directly from standard TOF-MRA signal profiles. We analytically expand the Bloch equations into Bloch-McConnell flow equations, establishing a mathematical relationship between the spatial decay of longitudinal magnetization and fluid velocity. To validate this derivation and overcome the limitations of constant-velocity assumptions, a MATLAB simulation framework was developed to model fluid flow in two variable-geometry flowing tube cases i.e continuous tapering and focal</summary>
+  </entry>
+  <entry>
+    <title>United against polio: Zimbabwe strengthens regional immunity through synchronized vaccination</title>
+    <link href="https://www.afro.who.int/countries/zimbabwe/news/united-against-polio-zimbabwe-strengthens-regional-immunity-through-synchronized-vaccination"/>
+    <id>https://www.afro.who.int/countries/zimbabwe/news/united-against-polio-zimbabwe-strengthens-regional-immunity-through-synchronized-vaccination</id>
+    <summary type="text">Harare, Zimbabwe – July 2026 – Zimbabwe has successfully completed three rounds of synchronized vaccination campaigns using the novel oral polio vaccine type 2 (nOPV2) as part of a coordinated Southern African response to prevent the re-establishment of circulating vaccine-derived poliovirus type 2 (cVDPV2).</summary>
   </entry>
   <entry>
     <title>Mozambique launches Action Plan for Child Survival and reaffirms its commitment to reduce child mortality</title>
@@ -144,12 +150,6 @@
     <link href="https://www.afro.who.int/news/statements"/>
     <id>https://www.afro.who.int/news/statements</id>
     <summary type="text">Statements | WHO | Regional Office for Africa</summary>
-  </entry>
-  <entry>
-    <title>United against polio: Zimbabwe strengthens regional immunity through synchronized vaccination</title>
-    <link href="https://www.afro.who.int/countries/zimbabwe/news/united-against-polio-zimbabwe-strengthens-regional-immunity-through-synchronized-vaccination"/>
-    <id>https://www.afro.who.int/countries/zimbabwe/news/united-against-polio-zimbabwe-strengthens-regional-immunity-through-synchronized-vaccination</id>
-    <summary type="text">Harare, Zimbabwe – July 2026 – Zimbabwe has successfully completed three rounds of synchronized vaccination campaigns using the novel oral polio vaccine type 2 (nOPV2) as part of a coordinated Southern African response to prevent the re-establishment of circulating vaccine-derived poliovirus type 2 (cVDPV2).</summary>
   </entry>
   <entry>
     <title>NHS England » News</title>

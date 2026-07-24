@@ -5,13 +5,28 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/oil-energy-shock.json",
   "items": [
     {
+      "id": "https://www.eia.gov/todayinenergy/detail.php?id=67884",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=67884",
+      "title": "Energia Costa Azul, MexicoŌĆÖs second LNG terminal, shipped first cargo - U.S. Energy Information Administration (EIA)",
+      "content_text": "Menu",
+      "attachments": [
+        {
+          "url": "https://www.eia.gov/todayinenergy/images/2026.07.24/main.png?1784903717=",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "oil-energy-shock"
+      ]
+    },
+    {
       "id": "https://www.eia.gov/todayinenergy/detail.php?id=67868",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=67868",
       "title": "Commercial crude oil inventories increased by 2.0 million barrels - U.S. Energy Information Administration (EIA)",
       "content_text": "Menu",
       "attachments": [
         {
-          "url": "https://www.eia.gov/todayinenergy/images/2026.07.22/main.png?1784883899=",
+          "url": "https://www.eia.gov/todayinenergy/images/2026.07.22/main.png?1784903719=",
           "mime_type": "image/png"
         }
       ],
@@ -26,7 +41,7 @@
       "content_text": "Menu",
       "attachments": [
         {
-          "url": "https://www.eia.gov/todayinenergy/images/2026.07.20/main.png?1784883899=",
+          "url": "https://www.eia.gov/todayinenergy/images/2026.07.20/main.png?1784903739=",
           "mime_type": "image/png"
         }
       ],
@@ -41,7 +56,7 @@
       "content_text": "Menu",
       "attachments": [
         {
-          "url": "https://www.eia.gov/todayinenergy/images/2026.07.16/main.png?1784883900=",
+          "url": "https://www.eia.gov/todayinenergy/images/2026.07.16/main.png?1784903740=",
           "mime_type": "image/png"
         }
       ],
@@ -56,7 +71,7 @@
       "content_text": "Menu",
       "attachments": [
         {
-          "url": "https://www.eia.gov/todayinenergy/images/2026.07.15/main.png?1784883900=",
+          "url": "https://www.eia.gov/todayinenergy/images/2026.07.15/main.png?1784903712=",
           "mime_type": "image/png"
         }
       ],
@@ -71,7 +86,7 @@
       "content_text": "Menu",
       "attachments": [
         {
-          "url": "https://www.eia.gov/todayinenergy/images/2026.07.14/main.png?1784883900=",
+          "url": "https://www.eia.gov/todayinenergy/images/2026.07.14/main.png?1784903740=",
           "mime_type": "image/png"
         }
       ],
@@ -86,7 +101,7 @@
       "content_text": "Menu",
       "attachments": [
         {
-          "url": "https://www.eia.gov/todayinenergy/images/2026.07.09/main.png?1784883900=",
+          "url": "https://www.eia.gov/todayinenergy/images/2026.07.09/main.png?1784903740=",
           "mime_type": "image/png"
         }
       ],
@@ -101,7 +116,7 @@
       "content_text": "Menu",
       "attachments": [
         {
-          "url": "https://www.eia.gov/todayinenergy/images/2026.07.08/main.png?1784883900=",
+          "url": "https://www.eia.gov/todayinenergy/images/2026.07.08/main.png?1784903740=",
           "mime_type": "image/png"
         }
       ],
@@ -116,7 +131,7 @@
       "content_text": "Menu",
       "attachments": [
         {
-          "url": "https://www.eia.gov/todayinenergy/images/2026.06.30/main.png?1784883901=",
+          "url": "https://www.eia.gov/todayinenergy/images/2026.06.30/main.png?1784903741=",
           "mime_type": "image/png"
         }
       ],
@@ -131,22 +146,7 @@
       "content_text": "Menu",
       "attachments": [
         {
-          "url": "https://www.eia.gov/todayinenergy/images/2026.06.29/main.png?1784883901=",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "oil-energy-shock"
-      ]
-    },
-    {
-      "id": "https://www.eia.gov/todayinenergy/detail.php?id=67806",
-      "url": "https://www.eia.gov/todayinenergy/detail.php?id=67806",
-      "title": "Metered electricity demand in the New York ISO falls midday because of small-scale solar - U.S. Energy Information Administration (EIA)",
-      "content_text": "Menu",
-      "attachments": [
-        {
-          "url": "https://www.eia.gov/todayinenergy/images/2026.06.26/main.png?1784883901=",
+          "url": "https://www.eia.gov/todayinenergy/images/2026.06.29/main.png?1784903741=",
           "mime_type": "image/png"
         }
       ],
@@ -242,7 +242,7 @@
       "content_text": "Gasoline and diesel fuel prices released weekly.",
       "attachments": [
         {
-          "url": "https://www.eia.gov/petroleum/gasdiesel/images/feature-image/regular-gasoline-prices-2026-07-24.png?1784883902=",
+          "url": "https://www.eia.gov/petroleum/gasdiesel/images/feature-image/regular-gasoline-prices-2026-07-24.png?1784903742=",
           "mime_type": "image/png"
         }
       ],

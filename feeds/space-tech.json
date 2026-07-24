@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.json",
   "items": [
     {
+      "id": "https://science.nasa.gov/missions/hubble/hubble-spies-one-sided-spiral/",
+      "url": "https://science.nasa.gov/missions/hubble/hubble-spies-one-sided-spiral/",
+      "title": "Hubble Spies One-Sided Spiral - NASA Science",
+      "content_text": "This Hubble image features the spiral galaxy NGC 4654, located 72 million light-years away in the constellation Virgo (the Maiden).",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/galaxies/spiral/Hubble_NGC4654_potm2607a.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/",
       "url": "https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/",
       "title": "A Million-Panel Project - NASA Science",
@@ -204,8 +219,8 @@
       "content_text": "Continuing agency efforts to bring space closer to home, NASA+ is heading to more streaming platforms. On Thursday, NASA announced its programming is on Fire",
       "attachments": [
         {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/nasa-image.jpeg",
-          "mime_type": "image/jpeg"
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/nasa-promo-image-horizontal.png",
+          "mime_type": "image/png"
         }
       ],
       "tags": [
@@ -554,21 +569,6 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2026/07/maf-20260515-cs4-lh2to451-08orig.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-chris-williams-crewmates-return/",
-      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-chris-williams-crewmates-return/",
-      "title": "NASA Sets Coverage for Astronaut Chris Williams, Crewmates Return - NASA",
-      "content_text": "Editor’s Note: This advisory was updated on July 23, 2026, to reflect changes to the mission timeline.",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/williams.jpg",
           "mime_type": "image/jpeg"
         }
       ],

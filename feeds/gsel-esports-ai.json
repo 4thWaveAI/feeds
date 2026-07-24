@@ -5,6 +5,36 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/gsel-esports-ai.json",
   "items": [
     {
+      "id": "https://esports.gg/news/esports-revenue-model-g2/",
+      "url": "https://esports.gg/news/esports-revenue-model-g2/",
+      "title": "G2 Esports' $35M business blueprint: How the org profits whether fans love or hate them",
+      "content_text": "G2 CEO Alban Dechelotte pulled back the curtain on the org's commercial engine at the Esports World Cup 2026 in Paris, revealing a $35M annual turnover built on diversified revenue and a deliberately borderless identity.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/07/g2-esports-35m-business-blueprint-how-the-org-profits-whethe-1.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://esportsinsider.com/2026/07/ai-vs-expert-lec-week-one-predictions",
+      "url": "https://esportsinsider.com/2026/07/ai-vs-expert-lec-week-one-predictions",
+      "title": "AI vs expert: Claude, ChatGPT and Gemini take on our LEC week one predictions",
+      "content_text": "Claude, ChatGPT and Gemini each built a $10 LEC week one accumulator — see how their picks and odds stack up against our own expert's predictions.",
+      "attachments": [
+        {
+          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/55321975236_d4055474cd_c.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
       "id": "https://esports.gg/news/valorant/navi-streamer-ardiis-transphobic-comments/",
       "url": "https://esports.gg/news/valorant/navi-streamer-ardiis-transphobic-comments/",
       "title": "Riot suspends NAVI streamer ardiis for transphobic Game Changers comments",
@@ -200,21 +230,6 @@
       ]
     },
     {
-      "id": "https://esports.gg/news/league-of-legends/faker-youth-cyber-gambling-awareness-ambassador/",
-      "url": "https://esports.gg/news/league-of-legends/faker-youth-cyber-gambling-awareness-ambassador/",
-      "title": "Faker named Youth Cyber Gambling Awareness Ambassador by Korean National Police Agency",
-      "content_text": "Faker will front a nationwide campaign in South Korea, encouraging young people struggling with cyber gambling to seek help.",
-      "attachments": [
-        {
-          "url": "https://media.esports.gg/uploads/2026/07/Faker-Police-.avif",
-          "mime_type": "image/avif"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
       "id": "https://esportsinsider.com/2026/07/single-player-games-esports",
       "url": "https://esportsinsider.com/2026/07/single-player-games-esports",
       "title": "Single-player games deserve more attention in esports",
@@ -230,25 +245,10 @@
       ]
     },
     {
-      "id": "https://esportsinsider.com/2026/07/esports-ai-controversy",
-      "url": "https://esportsinsider.com/2026/07/esports-ai-controversy",
-      "title": "I am not convinced that hunting for AI is going to solve esports' biggest issues",
-      "content_text": "With Mobile Legends: Bang Bang recently accused of having AI in its menu, I got to thinking: Who cares really? Is it impacting esports?",
-      "attachments": [
-        {
-          "url": "https://esportsinsider.com/wp-content/uploads/2026/07/fatal-fury-AI.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
-      ]
-    },
-    {
       "id": "https://esportsinsider.com/top-stories",
       "url": "https://esportsinsider.com/top-stories",
       "title": "Top Stories Archives - Esports Insider",
-      "content_text": "South American Dota 2 just got dealt one of its worst blows in God knows how long after PlayTime's EWC elimination.",
+      "content_text": "Fatal Fury: City of the Wolves devs are going ham with the DLC, dropping tons of characters. But do they have the sauce?",
       "attachments": [
         {
           "url": "https://esportsinsider.com/wp-content/uploads/2025/01/esi_logo_white.jpg",
@@ -263,7 +263,7 @@
       "id": "https://esportsinsider.com/latest-news",
       "url": "https://esportsinsider.com/latest-news",
       "title": "Latest News Archives - Esports Insider",
-      "content_text": "South American Dota 2 just got dealt one of its worst blows in God knows how long after PlayTime's EWC elimination.",
+      "content_text": "Fatal Fury: City of the Wolves devs are going ham with the DLC, dropping tons of characters. But do they have the sauce?",
       "attachments": [
         {
           "url": "https://esportsinsider.com/wp-content/uploads/2025/01/esi_logo_white.jpg",
@@ -293,7 +293,7 @@
       "id": "https://esports.gg/news/",
       "url": "https://esports.gg/news/",
       "title": "News Archives",
-      "content_text": "After transphobic comments, ardiis will be unable to co-stream VCT matches for one month, but many fans believe the punishment isn't enough.",
+      "content_text": "G2 CEO Alban Dechelotte pulled back the curtain on the org's commercial engine at the Esports World Cup 2026 in Paris, revealing a $35M annual turnover built on diversified revenue and a deliberately borderless identity.",
       "tags": [
         "gsel-esports-ai"
       ]

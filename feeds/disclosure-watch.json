@@ -5,6 +5,111 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/disclosure-watch.json",
   "items": [
     {
+      "id": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/hwo-sig-seminar-12-august-2026/",
+      "url": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/hwo-sig-seminar-12-august-2026/",
+      "title": "HWO SIG Seminar, 12 August 2026 - NASA Science",
+      "content_text": "Habitable Worlds Observatory SIG Seminar. Details TBA",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/exep/resources/links/images/97_PIA17002.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ad-astra/",
+      "url": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ad-astra/",
+      "title": "Community Science (Ad ASTRA) Workshop, Sept 2026 - NASA Science",
+      "content_text": "1-3 September 2026. The Community Science (Ad ASTRA) Workshop is organized by the NASA Astrophysics Division to engage the community in defining future large, strategic astrophysics missions.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/physics-of-the-cosmos/images/hubble/NGC%202174.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xr-sig-seminar-24-july-2026/",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xr-sig-seminar-24-july-2026/",
+      "title": "XR SIG Seminar, 24 July 2026 - NASA Science",
+      "content_text": "Hybrid CMOS Detectors for Future X-ray Missions. Speaker: Abraham D. Falcone, Penn State University. 1:00pm – 2:00pm ET",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/cds/svs/a010000/a013200/a013214/NICERNightMovesnolabels.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xr-sig-seminar-7-august-2026/",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xr-sig-seminar-7-august-2026/",
+      "title": "XR SIG Seminar, 7 August 2026 - NASA Science",
+      "content_text": "A TDAMM Mission Concept Offered by the X-ray Timing Science Analysis Group: the Dynamic Extreme Universe in X-rays (DEUS-X) Machine",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/cds/svs/a010000/a013200/a013214/NICERNightMovesnolabels.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/habitable-worlds-observatory-sig-seminar-12-aug-2026/",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/habitable-worlds-observatory-sig-seminar-12-aug-2026/",
+      "title": "Habitable Worlds Observatory SIG Seminar, 12 Aug 2026 - NASA Science",
+      "content_text": "Habitable Worlds Observatory SIG Seminar. Details TBA",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/cds/general/images/2023/07/jpegpia17999.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/ad-astra/",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/ad-astra/",
+      "title": "Community Science (Ad ASTRA) Workshop, Sept 2026 - NASA Science",
+      "content_text": "1-3 September 2026. The Community Science (Ad ASTRA) Workshop is organized by the NASA Astrophysics Division.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/astro/programs/physics-of-the-cosmos/images/misc/Westerlund-2-heic1509a.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/missions/hubble/hubble-spies-one-sided-spiral/",
+      "url": "https://science.nasa.gov/missions/hubble/hubble-spies-one-sided-spiral/",
+      "title": "Hubble Spies One-Sided Spiral - NASA Science",
+      "content_text": "This Hubble image features the spiral galaxy NGC 4654, located 72 million light-years away in the constellation Virgo (the Maiden).",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/galaxies/spiral/Hubble_NGC4654_potm2607a.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
       "id": "https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/",
       "url": "https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/",
       "title": "A Million-Panel Project - NASA Science",
@@ -35,119 +140,14 @@
       ]
     },
     {
-      "id": "https://www.nasa.gov/mission/expedition-75/",
-      "url": "https://www.nasa.gov/mission/expedition-75/",
-      "title": "Expedition 75 - NASA",
-      "content_text": "Expedition 75 begins on July 26, 2026, and will end in spring 2027. The crew will welcome the SpaceX Crew-13 mission in late summer while exploring in-space manufacturing techniques, augmented reality and artificial intelligence methods for crew health checks, and bioprinting human tissue.",
+      "id": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/iss-results-materials-science/",
+      "url": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/iss-results-materials-science/",
+      "title": "ISS Results: Materials Science - NASA",
+      "content_text": "On episode 430, Kim de Groh and Sylvie Crowell review what researchers have learned and published from the Materials International Space Station Experiment (MISSE) platform that tests how materials perform in the harsh environment of space.",
       "attachments": [
         {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/iss075-s-002-mission-hero.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/expedition-75-news-releases/",
-      "url": "https://www.nasa.gov/expedition-75-news-releases/",
-      "title": "Expedition 75 News Releases - NASA",
-      "content_text": "Stay up-to-date with the latest science experiments and mission updates during the Expedition 75 mission aboard the International Space Station.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/iss075-s-001/iss075-s-001~large.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/gallery/expedition-75-image-gallery/",
-      "url": "https://www.nasa.gov/gallery/expedition-75-image-gallery/",
-      "title": "Expedition 75 Image Gallery",
-      "content_text": "Expedition 75 image gallery shows photographs taken by the crew from aboard the International Space Station of its mission and science activities, including the Earth below.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/iss075-s-002/iss075-s-002~large.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/people/lucia-s-tsaoussi-ph-d/",
-      "url": "https://science.nasa.gov/people/lucia-s-tsaoussi-ph-d/",
-      "title": "Lucia S. Tsaoussi, Ph.D.  - NASA Science",
-      "content_text": "Dr. Tsaoussi serves as the Program Manager for NASA’s Space Geodesy program",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/esd/earth-science-division/people/tsaoussi_lucia_headshot.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/people/eric-n-becker/",
-      "url": "https://www.nasa.gov/people/eric-n-becker/",
-      "title": "Eric N. Becker - NASA",
-      "content_text": "Eric N. Becker is the chief engineer at NASA’s Armstrong Flight Research Center in Edwards, California. Appointed to the position in May 2026, he promotes,",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/afrc2026-0001-01-eric-becker.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/langley/science/polcube/",
-      "url": "https://www.nasa.gov/langley/science/polcube/",
-      "title": "NASA Langley Research Center PolCube Information Site - NASA",
-      "content_text": "What is PolCube? The proposed PolCube mission is an international collaboration between NASA Langley Research Center and the Korea Astronomy and Space Science Institute (KASI).",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/2023-05-22-polcube-polarimetrydiagram-scaled-1.png",
+          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/hwhapep430-iss-results-material-science-featured.png",
           "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/news-release/look-for-nasa-now-streaming-on-amazon-fire-tv/",
-      "url": "https://www.nasa.gov/news-release/look-for-nasa-now-streaming-on-amazon-fire-tv/",
-      "title": "Look for NASA+ Now Streaming on Amazon Fire TV - NASA",
-      "content_text": "Continuing agency efforts to bring space closer to home, NASA+ is heading to more streaming platforms. On Thursday, NASA announced its programming is on Fire",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/nasa-image.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "disclosure-watch"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/blogs/spacestation/2026/07/23/science-and-spacesuit-work-before-crew-changes-commanders/",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/07/23/science-and-spacesuit-work-before-crew-changes-commanders/",
-      "title": "Science and Spacesuit Work Before Crew Changes Commanders - NASA",
-      "content_text": "The International Space Station will change commanders on Saturday before three Expedition 74 crew members return to Earth on Sunday. As the homebound trio prepares for departure, the rest of the orbital crewmates is keeping up microgravity research and checking out spacewalking gear.",
-      "attachments": [
-        {
-          "url": "https://images-assets.nasa.gov/image/iss074e0814453/iss074e0814453~large.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
