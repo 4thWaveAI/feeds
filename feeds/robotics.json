@@ -144,6 +144,186 @@
       ]
     },
     {
+      "id": "https://bostondynamics.com/news/",
+      "url": "https://bostondynamics.com/news/",
+      "title": "News | Boston Dynamics",
+      "content_text": "Discover the latest news about Boston Dynamics and stay up to date with what we’ve been working on. Explore product news, media coverage, and more.",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/uploads/2023/07/library-bd-hq.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://bostondynamics.com/blog/",
+      "url": "https://bostondynamics.com/blog/",
+      "title": "Blogs | Boston Dynamics",
+      "content_text": "Stay up to date on the latest trends in robotics and other industry insights from the Boston Dynamics blog.",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/themes/boston-dynamics/button-icons/search.svg",
+          "mime_type": "image/svg+xml"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://bostondynamics.com/blog/training-a-humanoid-robot-for-hard-work/",
+      "url": "https://bostondynamics.com/blog/training-a-humanoid-robot-for-hard-work/",
+      "title": "Training a Humanoid Robot for Hard Work | Boston Dynamics",
+      "content_text": "Using AI-driven behaviors, Boston Dynamics’ Atlas robot coordinates its whole body to execute complex tasks with accuracy and reliability.",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/uploads/2026/05/training-fridge-tech-blog.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://bostondynamics.com/blog/deploying-robots-into-and-onto-the-field/",
+      "url": "https://bostondynamics.com/blog/deploying-robots-into-and-onto-the-field/",
+      "title": "Deploying Robots Into (and Onto) the Field | Boston Dynamics",
+      "content_text": "On Sunday July 5th, Atlas®, Boston Dynamics humanoid robot, stepped onto the field during halftime of the FIFA World Cup 2026™ Norway-Brazil round of 16 match at New York New Jersey Stadium. In the first public appearance of our production Atlas—and the first ever robotic halftime activation of the FIFA World Cup™—the robot presented the […]",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/uploads/2026/07/atlas-world-cup-team.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://bostondynamics.com/blog/bridging-the-porch-gap/",
+      "url": "https://bostondynamics.com/blog/bridging-the-porch-gap/",
+      "title": "Bridging the ‘Porch Gap’ | Boston Dynamics",
+      "content_text": "Boston Dynamics is testing a last-mile delivery solution with Spot to get packages to the doorstep with less strain and greater efficiency.",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/uploads/2026/07/last-mile-delivery-loading.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://bostondynamics.com/blog/securing-the-fifa-world-cup-2026/",
+      "url": "https://bostondynamics.com/blog/securing-the-fifa-world-cup-2026/",
+      "title": "Securing the FIFA World Cup 2026 | Boston Dynamics",
+      "content_text": "At FIFA World Cup 2026™, Boston Dynamics' Spot robots have taken on a new security assignment: helping protect the largest sporting event in the world.",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/uploads/2026/07/spot-fife-security.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://bostondynamics.com/blog/can-football-teach-a-robot-to-move/",
+      "url": "https://bostondynamics.com/blog/can-football-teach-a-robot-to-move/",
+      "title": "Can football teach a robot to move? | Boston Dynamics",
+      "content_text": "Aathletes perform amazing acts of physicality every day and that's the bar for Boston Dynamics Atlas robot. Learn how we train Atlas from human demonstration.",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/uploads/2026/06/Thumbnails_16X9_TRAINING_3.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://bostondynamics.com/blog/ask-a-roboticist-meet-chastity/",
+      "url": "https://bostondynamics.com/blog/ask-a-roboticist-meet-chastity/",
+      "title": "Ask a Roboticist: Meet Chastity | Boston Dynamics",
+      "content_text": "Chastity Kelly, a mechanical design engineer, answers questions about the design of Atlas’ foot, whether robots need shoes, and her path to robotics. Read the interview below and watch a conversation with Chastity on how Atlas strides through the world. Working at Boston Dynamics What is your role at Boston Dynamics?I’m a mechanical design engineer […]",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/uploads/2026/06/chastity-kelly.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://bostondynamics.com/blog/ask-a-roboticist-meet-ethan/",
+      "url": "https://bostondynamics.com/blog/ask-a-roboticist-meet-ethan/",
+      "title": "Ask a Roboticist: Meet Ethan | Boston Dynamics",
+      "content_text": "Ethan Lauer, a software engineer at Boston Dynamics, answers questions about robot perception, world modeling, and what spooks Stretch.",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/uploads/2026/04/ethan.lauer_.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/",
+      "url": "https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/",
+      "title": "Tools for Your To Do List with Spot and Gemini Robotics | Boston Dynamics",
+      "content_text": "A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/uploads/2026/03/spot-to-do-list.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://bostondynamics.com/blog/aivi-learning-now-powered-google-gemini-robotics/",
+      "url": "https://bostondynamics.com/blog/aivi-learning-now-powered-google-gemini-robotics/",
+      "title": "AIVI-Learning Is Now Powered by Google Gemini Robotics | Boston Dynamics",
+      "content_text": "We have partnered with Google Cloud and Google DeepMind to integrate Gemini and Gemini Robotics ER 1.6 into Orbit AIVI-Learning.",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/uploads/2026/04/aivi-5sboard.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://bostondynamics.com/blog/scaling-new-career-heights-with-stretch/",
+      "url": "https://bostondynamics.com/blog/scaling-new-career-heights-with-stretch/",
+      "title": "Scaling New Career Heights with Stretch | Boston Dynamics",
+      "content_text": "Boston Dynamics' employee spotlight series shares the journeys of our team members: featuring Dayme Delgado, a Field Applications Engineer.",
+      "attachments": [
+        {
+          "url": "https://bostondynamics.com/wp-content/uploads/2026/03/dayme-delgado-employee-spotlight.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
       "id": "https://www.figure.ai/news/helix-02",
       "url": "https://www.figure.ai/news/helix-02",
       "title": "Introducing Helix 02: Full-Body Autonomy",
@@ -474,10 +654,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.19479",
-      "url": "https://arxiv.org/abs/2607.19479",
-      "title": "ModPack: An Extensible Teleoperation Interface for Bimanual Mobile Manipulation",
-      "content_text": "Existing teleoperation systems are often tailored to specific robot hardware and task domains, limiting their scalability and adaptability. We present ModPack, a modular and extensible teleoperation system designed to support diverse robot embodiments and task requirements within a unified framework. At the core of ModPack is a self-contained wearable \"backpack\" that integrates onboard computation, power, communication, and data storage. Built on top of this shared interface, the system supports plug-and-play capability modules including joint-level teleoperation with haptic feedback, mobile manipulation, and active perception. Experiments across two distinct robot platforms and real-world mobile manipulation tasks demonstrate that ModPack provides a flexible and reusable framework for dat",
+      "id": "https://arxiv.org/abs/2607.20505",
+      "url": "https://arxiv.org/abs/2607.20505",
+      "title": "HERMES: Heterogeneous Edge-Relational Multi-Head Embedded SSM Attention for Traffic Conflict Prediction at Signalized Intersections",
+      "content_text": "Surrogate safety measures (SSMs) enable proactive traffic safety assessment, but many existing methods evaluate pairwise interactions independently or flatten multi-agent scenes into fixed feature vectors, limiting their ability to represent heterogeneous interaction structure and evolving scene-level risk. This study formulates traffic conflict assessment as temporal heterogeneous scene-graph classification and proposes HERMES, a heterogeneous edge-relational graph neural network with SSM-informed multi-head attention. Vehicles and pedestrians are represented as heterogeneous nodes, while vehicle-vehicle, vehicle-pedestrian, and pedestrian-pedestrian interactions are encoded as relation-specific edges with continuous kinematic and surrogate-safety descriptors. Relation-specific attention,",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -489,10 +669,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.19484",
-      "url": "https://arxiv.org/abs/2607.19484",
-      "title": "Emergent Autonomous Drifting for Collision Avoidance in Real-World Winter Driving Scenarios",
-      "content_text": "Real-world collision avoidance is a core motivation for studying the dynamics and control of high sideslip drifting in vehicles, yet the practical benefit of such maneuvers has so far primarily been tested in scenarios explicitly engineered to require drifting. In this work, we explore the question of if and when drifting may be optimal for safety in real-world winter driving conditions. We present a drift-capable nonlinear model predictive control (MPC) system designed to handle scenarios grounded in crash fatality data and deploy the controller in a high fidelity simulator across road departure and oncoming vehicle collision avoidance scenarios. The controller naturally initiates and sustains drifting maneuvers to stay on the road when hitting a patch of ice on the rear axle and to avoid",
+      "id": "https://arxiv.org/abs/2607.20653",
+      "url": "https://arxiv.org/abs/2607.20653",
+      "title": "PhysCoRe: Physics-Corrected Residual World Models for Material-Aware Deformable Dynamics",
+      "content_text": "Predicting how deformable objects evolve under robotic manipulation is a longstanding challenge. Existing approaches typically rely on per-object optimization to fit material parameters, which can be slow and cannot generalize, while end-to-end learned alternatives extrapolate poorly and often violate basic physical structure. We present PhysCoRe, a physics-corrected residual world model that couples a differentiable Material Point Method (MPM) simulator with two feed-forward neural networks. A material refinement module, Material from Motion (MfM), infers per-particle elasticity from visual observations, grounding the simulator in object-specific physics. A residual correction module, Residual from Dynamics (RfD), learns the discrepancy and predicts corrections to the simulator's internal",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -504,10 +684,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.19530",
-      "url": "https://arxiv.org/abs/2607.19530",
-      "title": "Milo, a Fully Autonomous Indoor/Outdoor Robotic Guide Dog",
-      "content_text": "Many Blind and Low-Vision (BLV) people rely on guide dogs for moment-to-moment navigation, such as staying on path and avoiding obstacles and pedestrians. However, guide dogs are expensive to acquire and maintain (approximately \\$50k USD plus ongoing costs), often involve long waiting lists, and have relatively short life expectancies. While robot guide dogs offer a promising alternative, existing approaches exploring this idea suffer from several drawbacks: They often lack the autonomy required for real-world deployment, relying on prior 3D scans of the environment, external computation, or limited awareness of the handler. In this work, we present Milo, the first open-source, low-cost (approximately \\$2k USD) robotic guide dog platform capable of fulfilling the basic collaborative naviga",
+      "id": "https://arxiv.org/abs/2607.20662",
+      "url": "https://arxiv.org/abs/2607.20662",
+      "title": "Scalable Low-Cost Laboratory Automation: A Digital Twin-Integrated Robotic Platform for Autonomous Liquid Handling (RAINBOTTM)",
+      "content_text": "Laboratory automation accelerates discovery, yet its adoption is constrained by the high cost, proprietary design, and limited remote supervisability of commercial liquid-handling systems. This work presents RAINBOT\\textsuperscript{TM}, a low-cost, openly reproducible liquid-handling robot built by converting a consumer-grade Cartesian 3D printer (Elegoo Neptune 4 Max). The printer extruder is replaced by a precision single-channel pipette actuated through the printer's own G-code-driven X--Y--Z gantry, with plunger and tip-eject motions effected by two compact linear actuators under Python control. To make experiments transparent and remotely supervisable, a browser-based digital twin is implemented to synchronise bidirectionally with the physical platform, mirroring kinematics and pipett",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -519,10 +699,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.19534",
-      "url": "https://arxiv.org/abs/2607.19534",
-      "title": "Learning Personalized Safety Interventions for Haptic Human-Robot Shared Control",
-      "content_text": "Haptic feedback provides an implicit channel for communicating safety intentions during human-robot shared control. Existing haptic guidance systems typically employ predefined intervention strategies that cannot accommodate the diverse safety preferences of individual users or application scenarios. To address this limitation, we propose a Learning from Haptics (LfH) framework that learns user-preferred safety interventions from sparse demonstrations, eliminating the need for manual trial-and-error design. Our framework is built on a differentiable Control Barrier Function (CBF)-based optimization layer that automatically adjusts the underlying safety parameters to match the demonstrated haptic responses. Instead of tuning controller parameters directly, users teach the system how they ex",
+      "id": "https://arxiv.org/abs/2607.20665",
+      "url": "https://arxiv.org/abs/2607.20665",
+      "title": "Safe and Scalable Multi-Drone Payload Transport via CBF-based Reinforcement Learning with Zero-Shot Sim-to-Real Transfer",
+      "content_text": "Multi-drone payload transportation has emerged as a promising research paradigm with potential applications in construction, logistics, and disaster response. However, the complex coupled dynamics among drones, cables, and payloads pose significant challenges, and existing approaches remain limited in safety and scalability, particularly in dynamic and unstructured environments. In this work, we propose a learning-based framework for safe and scalable multi-drone cooperative payload transport. We introduce a minimal 2D abstraction that preserves the task-relevant drone-payload coupling required for coordination and safety, while remaining computationally efficient for large-scale learning. Using domain randomization over team size and physical parameters, we train a fully distributed polic",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -534,10 +714,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.19633",
-      "url": "https://arxiv.org/abs/2607.19633",
-      "title": "LENS: LLM-guided Environment Simplification for Planning and Control in Clutter",
-      "content_text": "Despite recent advances in general-purpose robotic manipulation, real-world multi-object clutter remains challenging to handle for today's prevalent approaches. The problem scales in complexity due to more objects and collisions, more unpredictable contact physics, distractors, and task ambiguity. Bridging this gap to real-world deployment requires effective scene abstractions; yet today, producing such abstractions requires extensive task-specific manual engineering, which does not scale. These abstractions are costly to generate and difficult to adjust or fine-tune. We instead propose a plug-and-play fix to automatically generate scene-specific, task-specific, adaptively updating abstractions on top of existing planning and control stacks. LLM-guided Environment Simplification (LENS) pro",
+      "id": "https://arxiv.org/abs/2607.20679",
+      "url": "https://arxiv.org/abs/2607.20679",
+      "title": "Towards Capability-Aware Traversability Navigation for Unstructured Environments",
+      "content_text": "Estimating traversability in unstructured environments requires conditioning on robot embodiment, as the same terrain can be traversable for one platform and unsafe for another. Existing methods often transfer predictions across morphologies through late-stage trajectory filtering rather than encoding platform constraints in the learned representation. We propose Capability-Aware Traversability (CAT), a framework that embeds physical limits directly into the spatial feature space. CAT grounds dense supervision masks in physical trajectories through an interactive annotation pipeline and modulates semantic terrain maps with robot-specific traversability vectors through Spatially-Adaptive Denormalization (SPADE) blocks. Across human-annotated and trajectory-aligned datasets, CAT leads all ra",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -549,10 +729,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.19650",
-      "url": "https://arxiv.org/abs/2607.19650",
-      "title": "Remote ID Spoofing-Aware Trajectory Planning for Small Unmanned Aerial Systems",
-      "content_text": "This work presents a decentralized, spoofing-aware trajectory planning framework for small unmanned aerial systems operating under Remote Identification (RID) location spoofing attacks. Existing planners typically assume RID broadcasts are trustworthy, which can increase the risk of loss of separation and mid-air collisions when spoofing occurs. In contrast, the proposed approach explicitly treats RID information as unverified and incorporates physical-layer observations to assess broadcast credibility. Received signal-strength measurements from neighboring aircraft are used to detect spoofing and probabilistically localize a spoofing agent. The resulting uncertainty is converted into a risk-bounded unsafe region using a chance-constrained formulation and integrated into a per-agent Markov",
+      "id": "https://arxiv.org/abs/2607.20683",
+      "url": "https://arxiv.org/abs/2607.20683",
+      "title": "FELT: Generating Tactile Signals from Vision for Visuo-Tactile Manipulation",
+      "content_text": "The sense of touch is central to manipulation, especially when vision is occluded or ambiguous. Although combining vision and touch improves manipulation, learning robust visuo-tactile policies requires substantial tactile data. Such data remains scarcer than visual data, because tactile sensors are fragile, specialized, and hard to standardize. To address this, we present Feature-Extracted Latent Tactile (FELT), a learning-based framework that synthesizes per-finger pressure tactile images from RGB observations, reducing the need for tactile-equipped data collection. FELT uses a large frozen visual encoder and a lightweight query decoder to predict tactile signals in a single feed-forward pass. To respect the physical topology of dual-finger tactile sensors, FELT decodes the left and righ",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -564,10 +744,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.19695",
-      "url": "https://arxiv.org/abs/2607.19695",
-      "title": "NavVerse: Benchmarking Indoor-to-Outdoor Embodied Navigation in Continuous Robot Simulation",
-      "content_text": "Robots deployed in delivery, campus, and emergency-response settings often need to navigate from buildings to streets within a single continuous episode. Existing benchmarks usually evaluate indoor and outdoor navigation separately, and many abstract away robot execution, leaving exit finding, boundary traversal, adaptation, and kinodynamic failures underexplored. We introduce NavVerse, a physics-enabled benchmark for indoor-to-outdoor embodied navigation. NavVerse contains 100 indoor scenes, 50 urban outdoor scenes, and 50 indoor-to-outdoor scenes, and 10,000 episodes spanning Object Navigation, Vision-and-Language Navigation, and Place Navigation tasks, where agents search for semantic points of interest such as restaurants or banks. Agents are evaluated through executable robot interfac",
+      "id": "https://arxiv.org/abs/2607.20710",
+      "url": "https://arxiv.org/abs/2607.20710",
+      "title": "Decentralized UAV Swarms for Ground Target Protection in GPS- and Communication-Denied Environments",
+      "content_text": "The presence of UAVs in military operations has recently increased, also increasing the demand for defense systems against UAV attacks. UAVs can also be used as countermeasures. Most available methods rely on UAV-to-UAV communication and global positioning. However, such resources may not be available in modern warfare scenarios. To address these limitations, we propose a pipeline for ground-target protection against UAV attacks that employs autonomous swarms of UAVs. We assume a communication- and GPS-denied environment in which the UAVs use onboard sensors to track the target and coordinate as a swarm. We developed Kalman filters to estimate the states of unknown targets and the positions of UAVs in the swarm using only relative measurements. Also, our strategy is to encircle the target ",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -579,10 +759,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.19708",
-      "url": "https://arxiv.org/abs/2607.19708",
-      "title": "Contact-Persistent Full Actuation for Aerial Physical Interaction",
-      "content_text": "Fully actuated unmanned aerial vehicles (UAVs) are usually certified through rank conditions on a control-allocation matrix or through free-flight tracking performance. For aerial physical interaction, this certification may be incomplete. During sustained contact, part of the available wrench is consumed by the interaction task, and only the residual wrench remains available for stabilization, disturbance rejection, and maneuvering. This paper introduces a control-theoretic framework for \\emph{contact-persistent full actuation}. A rigid-body model on $\\R^{3}\\times\\SO\\left(3\\right)$ is combined with a morphology-dependent wrench map that captures fixed-tilt, variable-tilt, coaxial, and overactuated multirotor architectures. We define feasible wrench sets under actuator limits, residual wre",
+      "id": "https://arxiv.org/abs/2607.20743",
+      "url": "https://arxiv.org/abs/2607.20743",
+      "title": "Self-Supervised Bio-Inspired Robotic Trajectory Planning with Obstacle Avoidance",
+      "content_text": "Trajectory planning is a fundamental problem in robotics, requiring the generation of collision-free and efficient trajectories in a potentially complex environment. While sampling-based planners remain the dominant approach, they are often computationally expensive, particularly in high-dimensional spaces and obstacle-rich environments. Methods based on model learning offer a promising alternative, enabling efficient planning through a bounded number of forward passes through a neural trajectory planner, but commonly suffer from low sample efficiency or limited generalisation due to their reliance on exploration or expert demonstrations. This follow-up work tests our neuro-inspired self-supervised learning framework for trajectory planning that leverages forward and inverse models as the ",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -594,10 +774,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.19714",
-      "url": "https://arxiv.org/abs/2607.19714",
-      "title": "Morphing MILR: Design and control of a cable-driven limbless robot with rolling joints for maneuvering in complex environments",
-      "content_text": "Limbless robots offer exceptional mobility in confined and cluttered environments due to their slender bodies and their ability to exploit body-terrain interactions. Recent designs incorporating compliance demonstrate robust locomotion without complex sensing or control; however, these systems typically rely on fixed body configurations, with each morphology specialized for a single locomotion mode or environment. This raises a key challenge: how can a single limbless robot achieve versatile locomotion while preserving the robustness of compliance-mediated locomotion? To address this challenge, we present a cable-driven limbless robot that reconfigures body morphology and compliance to enable diverse locomotion modes. Distributed cable actuation generates traveling body waves, while progra",
+      "id": "https://arxiv.org/abs/2607.20748",
+      "url": "https://arxiv.org/abs/2607.20748",
+      "title": "A real-time RGB-D perception pipeline for autonomous impact hammers in mining: self-filtering, rock segmentation and rock-breaking poses generation",
+      "content_text": "Impact hammers, also known as rock-breakers, are essential machines in mining operations, where they perform secondary reduction. In underground mining, these machines are typically teleoperated, limiting operational efficiency. This paper presents a real-time RGB-D perception pipeline as a step towards automating the operation of hydraulic impact hammers used in mining. The proposed system simultaneously generates operationally feasible rock-breaking poses and a robot-free 3D representation of the workspace. The proposed approach combines image-based instance segmentation with geometric point cloud processing, and operates on embedded hardware at approximately 10 Hz with a total latency of around 675 ms, enabling responsive closed-loop behavior when integrated with a control system. Exper",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -609,10 +789,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.19745",
-      "url": "https://arxiv.org/abs/2607.19745",
-      "title": "EgoRecovery: Acquiring Failure Recovery Ability Through Human Recovery Demonstration",
-      "content_text": "Robust embodied robots should be able to recover from failures and retry tasks in order to operate reliably in unstructured and noisy real-world environments. Achieving this capability requires training policies on data that captures recovery behaviors. However, collecting such data through robot teleoperation is difficult to scale, as it is time-consuming to induce diverse failure states, perform corrective actions, and reset the environment. This challenge is further exacerbated by the high diversity of failure modes, which demands substantially more recovery data than success demonstrations. In this work, we show that egocentric human data capturing failure recovery processes provides a scalable alternative. By efficiently arranging task-level failure configurations and recording short ",
+      "id": "https://arxiv.org/abs/2607.20771",
+      "url": "https://arxiv.org/abs/2607.20771",
+      "title": "Emergent Compositional Skills in Mixture-of-Experts VLAs",
+      "content_text": "We consider the problem of learning compositional robot policies end-to-end from expert demonstrations, without any pre-specified notion of task decomposition or hierarchy. We ask whether a VLA trained with a simplified Mixture-of-Experts (MoE) action head can emergently learn to decompose tasks into reusable, interpretable primitives. We find that learned experts are heavily reused across tasks and consistently correspond to qualitatively distinct low-level behaviors, suggesting that the router implicitly learns to perform high-level sequencing while experts serve as compositional primitives. Our MoE matches the task performance of a monolithic baseline while demonstrating meaningful expert specialization, a step toward modular, interpretable robot policies that emerge from data alone.",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -639,10 +819,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.19552",
-      "url": "https://arxiv.org/abs/2607.19552",
-      "title": "Human-in-the-Loop Distributed Control of Grid-Interactive Buildings for Demand Response Participation",
-      "content_text": "This paper proposes a human-in-the-loop distributed consensus control approach for demand-side management across multiple buildings. Specifically, a novel framework is introduced in which a human acts as the non-autonomous leader in consensus control of cooperative buildings participating in demand response programs. In this system, the facility manager in the facility building serves as the leader, determining the participation level of cooperative buildings in demand response events while simultaneously considering occupants' comfort. Cooperative buildings align their responses with the facility management building, despite lacking direct access to the facility manager's decisions, which presents a challenge for observer design. To address this, a nonlinear unknown input sliding-mode obs",
+      "id": "https://arxiv.org/abs/2607.20580",
+      "url": "https://arxiv.org/abs/2607.20580",
+      "title": "Human-Aware Power Restoration for Fair Outage Experience in Distribution Systems",
+      "content_text": "This paper proposes a novel methodology for human-aware and fair service restoration in power distribution networks, explicitly accounting for the customer experience of outage duration. The complexity of this problem stems from the inherently unpredictable and stochastic nature of power outage events. Traditional approaches often oversimplify the problem by treating failures as deterministic, overlooking the lived experiences of customers and the true uncertainty of outage patterns. In contrast, the proposed method incorporates the probability of potential failures to guide a customer-aware and fairness-driven resource allocation, ensuring that restoration is not only fast but also perceived as fair from the customer's perspective. To achieve this, a spatially distributed, adaptive, and s",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -654,10 +834,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.19568",
-      "url": "https://arxiv.org/abs/2607.19568",
-      "title": "From P&ID Drawings to Process Graphs: A Multimodal Language Model Approach",
-      "content_text": "Piping and instrumentation diagrams (P&IDs) encode the functional structure of process plants and are a critical yet underutilised source of engineering knowledge for digital twins and intelli-gent decision support. However, digitising legacy P&IDs remains challenging due to heterogene-ous drawing standards and the reliance of existing methods on brittle symbol recognition and rule-based connectivity reconstruction. This work reframes P&ID digitization as the extraction of equipment tags and inference of process topology, rather than graphical reproduction. We pro-pose a two-stage workflow based on multimodal large language models, in which visual extrac-tion and topology reconstruction are treated as distinct reasoning stages guided by chemical en-gineering process knowledge. The approach",
+      "id": "https://arxiv.org/abs/2607.20842",
+      "url": "https://arxiv.org/abs/2607.20842",
+      "title": "Robust Adaptive Backup Control Barrier Functions",
+      "content_text": "We propose a notion of robust adaptive backup control barrier functions for nonlinear control affine systems with parametric uncertainty in both the drift dynamics and actuation matrix. Backup control barrier functions guarantee safety by predicting the system's trajectory under a pre-certified safe controller. However, these predictions rely on the model and can be inaccurate when the system contains unknown parameters. To address this issue, we estimate the unknown parameters using element-wise certified adaptive estimators that provide a parameter adaptation law and component-wise estimation error bounds. We compute the backup flow using the estimated model and tighten the safety conditions using these certified bounds. The resulting safety conditions account for the sensitivity of the ",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -669,10 +849,10 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.19581",
-      "url": "https://arxiv.org/abs/2607.19581",
-      "title": "Quantum-Resilient Distributed Optimization for Multi-Region Unit Commitment",
-      "content_text": "Multi-region unit commitment with reserve sharing requires coordinated optimization across jurisdictionally distinct system operators, exposing sensitive cost curves, topology, and dispatch decisions to inference attacks. The accelerating progress of quantum computing further compounds this threat. As quantum hardware matures, current classically-encrypted data flow becomes vulnerable to retrospective decryption. To enable post-quantum-secure distributed optimization, we propose a customized Benders decomposition-based approach with the global summation structure to share aggregated cuts and variables. By exploiting this structure, we further develop a multi-layer quantum-resilient secure aggregation protocol comprising additive masking for information-theoretic content privacy, affine var",
+      "id": "https://arxiv.org/abs/2607.20939",
+      "url": "https://arxiv.org/abs/2607.20939",
+      "title": "Interaction Dynamics Modeling and Predictive Control for Safe Steerable Catheter--Tissue Interaction",
+      "content_text": "Safe steerable catheter control is fundamentally a problem of interaction dynamics: the tip must follow a planned motion, remain compliant against moving tissue, reject friction and hysteresis, and respect a clinically meaningful never-exceed contact-force bound. We formulate catheter--tissue interaction dynamics in the scalar tip-normal coordinate of a single-segment single-tendon catheter. A partial-physics feedforward cancels only the reliable nominal bending dynamics, exposing a configuration-invariant linear interaction-dynamics model whose input gain varies through the scalar catheter inertia. A predictive optimizer then regulates this interaction state subject to hard contact-force, tendon-force, and curvature constraints. An augmented Kalman filter compresses contact, friction, and",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -684,166 +864,16 @@
       ]
     },
     {
-      "id": "https://arxiv.org/abs/2607.19638",
-      "url": "https://arxiv.org/abs/2607.19638",
-      "title": "Do Co-Located AI Training Jobs Synchronize? Load-Dependent Throttling as a Coupling Mechanism for Phase-Locking Behind a Shared Power Cap",
-      "content_text": "Large-scale AI training turns computing facilities into multi-megawatt loads whose power draw is periodic: tens of thousands of accelerators step in lockstep between compute-bound phases near peak power and communication-bound phases where they idle. Prior work treats each facility as an exogenous periodic forcing on the grid. We pose the operator's question instead: when many independent training jobs share one oversubscribed power envelope, do their cycles stay independent, so aggregate fluctuation grows as the square root of the number of jobs, or can the power-management stack phase-lock them into linear growth? This is emergent synchronization in a population of nonlinear oscillators - the Kuramoto setting - but classical coupling is absent, since accelerator clocks are decoupled from",
+      "id": "https://arxiv.org/abs/2607.21040",
+      "url": "https://arxiv.org/abs/2607.21040",
+      "title": "Supervisory Control with Event Forcing Under Partial Observation",
+      "content_text": "In this paper, we address supervisory control in discrete-event systems with event forcing. In particular, partial observation of the supervisor is considered. Unlike traditional supervisory control, which relies on event enablement and disablement, the forcing mechanism allows a supervisor to preempt unwanted transitions by actively triggering forcible events. Under partial observation, we face a new challenge where the supervisor's forcing decisions must be consistent across all indistinguishable strings meanwhile guarantee all violating transitions are excluded through preemption. We introduce the concept of forcing consistency as a necessary and sufficient condition for the existence of a supervisor that achieves a given specification. We prove that forcing consistency is strictly stro",
       "attachments": [
         {
           "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
           "mime_type": "image/png"
         }
       ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://arxiv.org/abs/2607.19665",
-      "url": "https://arxiv.org/abs/2607.19665",
-      "title": "Human-on-the-loop Resilient Control of InverterBased Resources Under Actuator Degradation",
-      "content_text": "This paper proposes a human-on-the-loop resilient control architecture for grid-supporting inverter-based resources (IBRs) operating under actuator degradation. Conventional fault-tolerant control and adaptive control strategies each face notable limitations in this setting: active FTC depends on fast, accurate fault detection and isolation, leaving it vulnerable to misdiagnosis of incipient or ambiguous degradation, while passive FTC tends toward overly conservative operation. Adaptive controllers face a related problem as they typically assume sufficient control authority, but when actuator degradation erodes that authority, the adaptive law may misinterpret tracking errors, leading to parameter drift, performance loss, or instability. To overcome these limitations, the proposed framewor",
-      "attachments": [
-        {
-          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://arxiv.org/abs/2607.19667",
-      "url": "https://arxiv.org/abs/2607.19667",
-      "title": "A Human-AI Teaming Framework for Deep Reinforcement Learning-Based Voltage Regulation in Distribution Networks",
-      "content_text": "The growing penetration of distributed energy resources (DERs) has increased the operational variability of distribution networks, making voltage regulation increasingly challenging. Conventional deep reinforcement learning (DRL) methods exhibit unsafe exploration behavior, slow convergence, and limited reliability, which restrict their applicability in safety-critical power system settings. This paper presents a human-interactive reinforcement learning framework that enhances the safety and robustness of autonomous voltage regulation. The proposed approach integrates a Soft Actor-Critic (SAC) agent with an adaptive Lagrange constraint mechanism to enforce voltage limits, while a human-guidance module provides sensitivity-based corrections through coordinated capacitor-bank and Battery Ene",
-      "attachments": [
-        {
-          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://arxiv.org/abs/2607.19851",
-      "url": "https://arxiv.org/abs/2607.19851",
-      "title": "Quantification and Surrogate Model Estimation of Spatial-Temporal Carbon Intensity Factors",
-      "content_text": "The transition toward sustainable urban infrastructure is driving a rapid increase in distributed energy resources, particularly among prosumers equipped with solar photovoltaic (PV) installations. Such PV systems are highly dependent on solar radiation, which fluctuates over time and across different city districts, leading to substantial spatial and temporal variations in local carbon intensity factors. The carbon intensity factor is a critical parameter for optimizing energy consumption and reducing emissions in context of smart building control, electric vehicle charging or district heating systems. Hence, high-resolution information on local carbon intensity factors is crucial for intelligent control strategies that minimize environmental impact across urban infrastructures. In this p",
-      "attachments": [
-        {
-          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://arxiv.org/abs/2607.19926",
-      "url": "https://arxiv.org/abs/2607.19926",
-      "title": "Integrating Deep Learning and Contraction Theory for Robust Nonlinear State Estimation via Unsupervised Scientific Machine Learning",
-      "content_text": "A common way to design observers is to add a correction term to a copy of the system; however, designing the correction term for nonlinear systems remains a significant long-standing challenge. Contraction theory offers a unified approach to designing this correction term by solving a matrix partial differential inequality (MPDI) and identifying a contraction metric. However, solving the MPDI for both the correction term and the contraction metric is highly challenging, both analytically and numerically. Therefore, the aim of this paper is to propose a learning-based approach to determine both the observer's correction term and the contraction metric by incorporating the contraction requirements into the learning process. The proposed approach relies on a scientific machine learning formul",
-      "attachments": [
-        {
-          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://arxiv.org/abs/2607.20079",
-      "url": "https://arxiv.org/abs/2607.20079",
-      "title": "Time-Series Anomaly Detection for Mobile Robots in Automotive Active Safety Testing using an RNN-VAE",
-      "content_text": "Mobile robots, like the ultra-flat overrunable (UFO) robot platform, used in automotive active safety tests, currently lack self-diagnostic capabilities necessary to detect present hardware defects. This circumstance can lead to more severe failures, causing expensive repairs and operational downtime. This work proposes, for the first time, a reconstructionbased time-series anomaly detection model for these mobile robots, considering defect classes such as unevenly worn full-rubber tires or damaged dampers. Unlike prior publications, the proposed approach leverages the vast quantities of unlabeled data generated during routine operation through a simple pre-training step. Furthermore, it optimizes the hyperparameters of the implemented gated recurrent unit-based variational autoencoder (GR",
-      "attachments": [
-        {
-          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://arxiv.org/abs/2505.01894",
-      "url": "https://arxiv.org/abs/2505.01894",
-      "title": "Certus: A domain specific language for confidence assessment in assurance cases",
-      "content_text": "Assurance cases (ACs) are prepared to argue that a system has satisfied critical quality attributes. Many methods exist to assess confidence in ACs, including quantitative methods that represent confidence numerically. While quantitative methods are attractive in principle, existing methods suffer from issues related to interpretation, subjectivity, scalability, dialectic reasoning, and trustworthiness, which have limited their adoption. This paper introduces Certus, a domain specific language for quantitative confidence assessment. In Certus, users describe their confidence with fuzzy sets, which allow them to represent their judgment using vague, but linguistically meaningful terminology. Certus includes syntax to specify confidence propagation using expressions that can be easily inspec",
-      "attachments": [
-        {
-          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://www.unitree.com/cn/news/34",
-      "url": "https://www.unitree.com/cn/news/34",
-      "title": "34",
-      "content_text": "机器人",
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://www.unitree.com/cn/news/30",
-      "url": "https://www.unitree.com/cn/news/30",
-      "title": "30",
-      "content_text": "机器人",
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://www.ri.cmu.edu/news/",
-      "url": "https://www.ri.cmu.edu/news/",
-      "title": "News - Robotics Institute Carnegie Mellon University",
-      "content_text": "Cool stories about the Robotics Institute at CMU from all over the web.",
-      "attachments": [
-        {
-          "url": "https://www.ri.cmu.edu/app/uploads/2024/06/cmu-robotics-news.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://www.ubtrobot.com/en/about/news/498762019606597",
-      "url": "https://www.ubtrobot.com/en/about/news/498762019606597",
-      "title": "As Walker S Strikes the Gong, UBTECH Robotics Becomes the First Humanoid Robot  Company Listed on the Main Board of the HKEX | UBTECH Robotics",
-      "content_text": "UBTECH",
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/Vision2035_en.pdf",
-      "url": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/Vision2035_en.pdf",
-      "title": "Vision2035 En.Pdf",
-      "content_text": "Vision2035 En.Pdf",
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/Dash35_en.pdf",
-      "url": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/Dash35_en.pdf",
-      "title": "Dash35 En.Pdf",
-      "content_text": "Dash35 En.Pdf",
       "tags": [
         "robotics"
       ]

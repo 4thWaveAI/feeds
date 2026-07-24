@@ -5,6 +5,36 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
+      "id": "https://www.embl.org/news/science-technology/embl-spin-off-epitome-therapeutics-launches-to-advance-precision-epigenome-editing/",
+      "url": "https://www.embl.org/news/science-technology/embl-spin-off-epitome-therapeutics-launches-to-advance-precision-epigenome-editing/",
+      "title": "EMBL spin-off Epitome Therapeutics launches to advance precision epigenome editing | EMBL",
+      "content_text": "EMBL spin-off Epitome Therapeutics will develop a new generation of precision medicines using epigenome editing to precisely regulate gene expression.",
+      "attachments": [
+        {
+          "url": "https://www.embl.org/news/wp-content/uploads/2026/07/Cover_Final.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "biotech"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
+      "url": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
+      "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
+      "content_text": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem partners to chart Korea’s AI progress.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/jhh-k-ai-summit-1920x1080-2.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/",
       "url": "https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/",
       "title": "A Million-Panel Project - NASA Science",
@@ -16,7 +46,7 @@
         }
       ],
       "tags": [
-        "disclosure-watch"
+        "space-tech"
       ]
     },
     {
@@ -32,6 +62,51 @@
       ],
       "tags": [
         "space-tech"
+      ]
+    },
+    {
+      "id": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_2~d7d475d2f0.en.html",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_2~d7d475d2f0.en.html",
+      "title": "ECB to start implementing enhanced repo facility for central banks",
+      "content_text": "Our monetary policy strategy, the tools we use and the impact they have",
+      "attachments": [
+        {
+          "url": "https://www.ecb.europa.eu/press/shared/img/socialmedia/social-default.jpg?0ef1632c35edede913681bb76af694a4=",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "programmable-finance"
+      ]
+    },
+    {
+      "id": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724~a099353951.en.html",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724~a099353951.en.html",
+      "title": "Results of the ECB Survey of Professional Forecasters for the third quarter of 2026",
+      "content_text": "Our monetary policy strategy, the tools we use and the impact they have",
+      "attachments": [
+        {
+          "url": "https://www.ecb.europa.eu/press/shared/img/socialmedia/social-default.jpg?0ef1632c35edede913681bb76af694a4=",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "programmable-finance"
+      ]
+    },
+    {
+      "id": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_1~fa277eb6fe.en.html",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_1~fa277eb6fe.en.html",
+      "title": "ECB Consumer Expectations Survey results – June 2026",
+      "content_text": "Our monetary policy strategy, the tools we use and the impact they have",
+      "attachments": [
+        {
+          "url": "https://www.ecb.europa.eu/press/shared/img/socialmedia/social-default.jpg?0ef1632c35edede913681bb76af694a4=",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "programmable-finance"
       ]
     },
     {
@@ -847,85 +922,6 @@
       ],
       "tags": [
         "ai-policy-ethics-standards"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
-      "url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
-      "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
-      "content_text": "Medical device leaders are already building on NVIDIA’s new Medical Physics Simulation framework — giving surgical robots the virtual experience they need before interacting with patients.",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/medical-physica-simulation.png",
-          "mime_type": "image/png"
-        },
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/catheter_2_v4.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/entertainment/lily-allen-documentary-prime-video",
-      "url": "https://www.aboutamazon.com/news/entertainment/lily-allen-documentary-prime-video",
-      "title": "Prime Video announces Lily Allen documentary, coming to streaming in 2027",
-      "content_text": "The upcoming film will chart the life and work of Lily Allen, from her early years through to 'West End Girl.'",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/d968362/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F8a%2Fa5%2F2aa28ac641f18764d28b9cbd734a%2Funtitled-21-july-2026-at-10-43-30-1.png",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://combinedmaritimeforces.com/2026/07/22/international-maritime-law-institute-conducts-new-staff-enhancement-training-for-cmf/",
-      "url": "https://combinedmaritimeforces.com/2026/07/22/international-maritime-law-institute-conducts-new-staff-enhancement-training-for-cmf/",
-      "title": "International Maritime Law Institute Conducts New Staff Enhancement Training for CMF",
-      "content_text": "MANAMA, Bahrain (July 22, 2026) – The International Maritime Law Institute (IMLI), part of the International Maritime Organization, conducted virtual staff enhancement training (SET) for Combined M…",
-      "attachments": [
-        {
-          "url": "https://i0.wp.com/combinedmaritimeforces.com/wp-content/uploads/2026/02/ctf-154-india.png?fit=1200%2C1200&ssl=1",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "conflict-watch"
-      ]
-    },
-    {
-      "id": "https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/",
-      "url": "https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/",
-      "title": "Powering America's Genesis Mission: Microsoft's commitment to scientific discovery - The Official Microsoft Blog",
-      "content_text": "Today, we’re excited to share a long-term commitment to the Department of Energy’s (DOE) Genesis Mission, backed by a $60 million investment designed to accelerate AI for science and the breakthroughs it can deliver for the country. This deepened commitment includes Microsoft’s new Scientific Partnership Advancing Research & Knowledge coordination hub and program office, otherwise...",
-      "attachments": [
-        {
-          "url": "https://blogs.microsoft.com/wp-content/uploads/2026/07/GettyImages-1413606459-1024x540.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "satya-nadella"
-      ]
-    },
-    {
-      "id": "https://www.nist.gov/news-events/news/2026/07/nist-announces-funding-opportunity-14-mep-centers-advance-small-and-medium",
-      "url": "https://www.nist.gov/news-events/news/2026/07/nist-announces-funding-opportunity-14-mep-centers-advance-small-and-medium",
-      "title": "NIST Announces Funding Opportunity for 14 MEP Centers to Advance Small and Medium-Sized U.S. Manufacturers",
-      "content_text": "NIST MEP will host an informational webinar on Tuesday, July 28, 2026, at 1 p.m. ET to provide general information about this opportunity and guidance on preparing applications.",
-      "attachments": [
-        {
-          "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/07/22/MEP%20Banner.png?itok=nN9qhFfl",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "quantum"
       ]
     }
   ]

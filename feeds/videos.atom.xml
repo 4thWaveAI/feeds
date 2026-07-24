@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.atom.xml"/>
   <id>urn:4thwaveai-feeds:videos</id>
-  <updated>Fri, 24 Jul 2026 04:08:21 +0000</updated>
+  <updated>Fri, 24 Jul 2026 09:05:29 +0000</updated>
   <entry>
     <title>First 3D nanoscale maps of human airway epithelium reveal hidden architecture of lung defense cells</title>
     <link href="https://phys.org/news/2026-07-3d-nanoscale-human-airway-epithelium.html"/>
@@ -102,13 +102,6 @@
     <id>https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/</id>
     <summary type="text">A mission to raise the orbit of NASA’s Swift observatory is poised for launch June 30.</summary>
     <updated>Fri, 26 Jun 2026 13:16:22 -0400</updated>
-  </entry>
-  <entry>
-    <title>EasyGrid: towards better automation in cryo-electron microscopy | EMBL</title>
-    <link href="https://www.embl.org/news/science-technology/easygrid-towards-better-automation-in-cryo-electron-microscopy/"/>
-    <id>https://www.embl.org/news/science-technology/easygrid-towards-better-automation-in-cryo-electron-microscopy/</id>
-    <summary type="text">EMBL Grenoble scientists have developed EasyGrid and EasyGrid Control, unique instruments that automate advanced microscopy sample preparation and quality control</summary>
-    <updated>Tue, 23 Jun 2026 12:39:38 +0000</updated>
   </entry>
   <entry>
     <title>Call for proposals for innovations across the Global South now open - Global Resilience Partnership</title>
@@ -278,7 +271,7 @@
     <title>Road to VR</title>
     <link href="https://www.roadtovr.com/feed/"/>
     <id>https://www.roadtovr.com/feed/</id>
-    <summary type="text">With affordable PC-compatible headsets like Quest 3S and PSVR 2, it’s easy to jump into PC VR. For the gamers considering purchasing a PC VR headset, one major question marks the starting point on your journey to a decision: does my PC meet the minimum specs? Here’s how to find out. Updated – July 23rd, […]</summary>
+    <summary type="text">Flat2VR Studios has finally brought its VR adapatation of Roboquest (2023) to Quest 3 and 3S, which also brings to the fast-paced roguelite shooter its long-awaited co-op mode. The new two-player co-op mode is now live, featuring full cross-play between all supported VR platforms, including both SteamVR and PSVR 2 versions. This includes Quickplay matches […]</summary>
   </entry>
   <entry>
     <title>Latest Meta Company News | Meta Newsroom</title>
@@ -391,5 +384,11 @@ Through world-renowned Meetings, peer-reviewed journals, webinars, workshops, ad
     <link href="https://www.bas.ac.uk/news/study-finds-surface-melt-can-strengthen-antarctic-ice-shelves-while-seawater-infiltration-weakens-them/"/>
     <id>https://www.bas.ac.uk/news/study-finds-surface-melt-can-strengthen-antarctic-ice-shelves-while-seawater-infiltration-weakens-them/</id>
     <summary type="text">New research led by British Antarctic Survey provides fresh insights into how cracks and fractures develop in ice and how future sea-level rise may unfold.</summary>
+  </entry>
+  <entry>
+    <title>From Vacuum to Lab: A Student’s Journey Towards Real-World Application  – ASPIRE Research Center</title>
+    <link href="https://aspire.usu.edu/from-vacuum-to-lab-a-students-journey-towards-real-world-application/"/>
+    <id>https://aspire.usu.edu/from-vacuum-to-lab-a-students-journey-towards-real-world-application/</id>
+    <summary type="text">In the classroom, students have the opportunity to learn and practice specific concepts in a controlled situation, sometimes referred to as a vacuum. Yet in the real-world, many concepts and skills must be considered simultaneously to arrive at a solution. Whitney Walpole, a mechanical engineering student at ASPIRE, is discovering what it takes to answer real-world questions.</summary>
   </entry>
 </feed>

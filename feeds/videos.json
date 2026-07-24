@@ -271,25 +271,6 @@
       ]
     },
     {
-      "id": "https://www.embl.org/news/science-technology/easygrid-towards-better-automation-in-cryo-electron-microscopy/",
-      "url": "https://www.embl.org/news/science-technology/easygrid-towards-better-automation-in-cryo-electron-microscopy/",
-      "title": "EasyGrid: towards better automation in cryo-electron microscopy | EMBL",
-      "content_text": "EMBL Grenoble scientists have developed EasyGrid and EasyGrid Control, unique instruments that automate advanced microscopy sample preparation and quality control",
-      "attachments": [
-        {
-          "url": "https://www.embl.org/news/wp-content/uploads/2026/06/EasyGridInauguration_GergelyPappSimoMattei_IC1000x600.jpg",
-          "mime_type": "image/jpeg"
-        },
-        {
-          "url": "https://www.youtube.com/embed/8BNmp_BDZng",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "biotech"
-      ]
-    },
-    {
       "id": "https://www.globalresiliencepartnership.org/call-for-proposals-for-innovations-across-the-global-south-now-open/",
       "url": "https://www.globalresiliencepartnership.org/call-for-proposals-for-innovations-across-the-global-south-now-open/",
       "title": "Call for proposals for innovations across the Global South now open - Global Resilience Partnership",
@@ -783,10 +764,10 @@
       "id": "https://www.roadtovr.com/feed/",
       "url": "https://www.roadtovr.com/feed/",
       "title": "Road to VR",
-      "content_text": "With affordable PC-compatible headsets like Quest 3S and PSVR 2, it’s easy to jump into PC VR. For the gamers considering purchasing a PC VR headset, one major question marks the starting point on your journey to a decision: does my PC meet the minimum specs? Here’s how to find out. Updated – July 23rd, […]",
+      "content_text": "Flat2VR Studios has finally brought its VR adapatation of Roboquest (2023) to Quest 3 and 3S, which also brings to the fast-paced roguelite shooter its long-awaited co-op mode. The new two-player co-op mode is now live, featuring full cross-play between all supported VR platforms, including both SteamVR and PSVR 2 versions. This includes Quickplay matches […]",
       "attachments": [
         {
-          "url": "https://www.youtube.com/embed/Fx1UDR-mOYc?feature=oembed",
+          "url": "https://www.youtube.com/embed/LtxsOp9wuaY?feature=oembed&enablejsapi=1",
           "mime_type": "video/mp4"
         }
       ],
@@ -949,7 +930,7 @@
       "content_text": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/tile/Apple-services-hero-lp.jpg.og.jpg?202606301701=",
+          "url": "https://www.apple.com/newsroom/images/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/tile/Apple-services-hero-lp.jpg.og.jpg?202606301659=",
           "mime_type": "image/jpeg"
         },
         {
@@ -968,7 +949,7 @@
       "content_text": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/tile/Apple-development-tools-hero-260608-lp.jpg.og.jpg?202606301659=",
+          "url": "https://www.apple.com/newsroom/images/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/tile/Apple-development-tools-hero-260608-lp.jpg.og.jpg?202607210140=",
           "mime_type": "image/jpeg"
         },
         {
@@ -1130,6 +1111,21 @@
       ],
       "tags": [
         "earth-dynamics"
+      ]
+    },
+    {
+      "id": "https://aspire.usu.edu/from-vacuum-to-lab-a-students-journey-towards-real-world-application/",
+      "url": "https://aspire.usu.edu/from-vacuum-to-lab-a-students-journey-towards-real-world-application/",
+      "title": "From Vacuum to Lab: A Student’s Journey Towards Real-World Application  – ASPIRE Research Center",
+      "content_text": "In the classroom, students have the opportunity to learn and practice specific concepts in a controlled situation, sometimes referred to as a vacuum. Yet in the real-world, many concepts and skills must be considered simultaneously to arrive at a solution. Whitney Walpole, a mechanical engineering student at ASPIRE, is discovering what it takes to answer real-world questions.",
+      "attachments": [
+        {
+          "url": "https://www.youtube.com/embed/djXb6MrB1-0?feature=oembed",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "enabling-tools"
       ]
     }
   ]

@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.json",
   "items": [
     {
+      "id": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
+      "url": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
+      "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
+      "content_text": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem partners to chart Korea’s AI progress.",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/jhh-k-ai-summit-1920x1080-2.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "id": "https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit/",
       "url": "https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit/",
       "title": "Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit | NVIDIA Technical Blog",
@@ -306,21 +321,6 @@
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Image-7-1680x1120.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
-      "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
-      "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
-      "content_text": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/inline-1784235912807.png",
           "mime_type": "image/png"
         }
       ],

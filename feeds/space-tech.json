@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/space-tech.json",
   "items": [
     {
+      "id": "https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/",
+      "title": "A Million-Panel Project - NASA Science",
+      "content_text": "Utah’s new solar power and battery storage facility is among the largest in the region.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-million-panel-project/solarutah_oli_20260606_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
       "id": "https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/",
       "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/",
       "title": "Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present - NASA Science",
@@ -554,21 +569,6 @@
       "attachments": [
         {
           "url": "https://www.nasa.gov/wp-content/uploads/2026/07/williams.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "space-tech"
-      ]
-    },
-    {
-      "id": "https://www.nasa.gov/image-article/a-new-look-and-sound-for-messier-94/",
-      "url": "https://www.nasa.gov/image-article/a-new-look-and-sound-for-messier-94/",
-      "title": "A New Look – and Sound – for Messier 94 - NASA",
-      "content_text": "NASA's Chandra X-ray Observatory unveiled this new look at the galaxy NGC 4736, also known as Messier 94, on June 30, 2026. Messier 94 is a spiral galaxy with",
-      "attachments": [
-        {
-          "url": "https://www.nasa.gov/wp-content/uploads/2026/07/250th-ngc4736.jpg",
           "mime_type": "image/jpeg"
         }
       ],

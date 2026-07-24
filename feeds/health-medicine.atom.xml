@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/health-medicine.atom.xml"/>
   <id>urn:4thwaveai-feeds:health-medicine</id>
-  <updated>Fri, 24 Jul 2026 03:57:53 +0000</updated>
+  <updated>Fri, 24 Jul 2026 08:55:46 +0000</updated>
   <entry>
     <title>Newsroom</title>
     <link href="https://www.who.int/mega-menu/news/all-news"/>
@@ -66,40 +66,30 @@
     <summary type="text">The latest WHO Disease Outbreak News (DONs) provide information on confirmed and potential acute public health events of concern across all hazards.</summary>
   </entry>
   <entry>
-    <title>Koopman-Operator Spectral Decomposition for Nonlinear Motion Suppression in Dynamic Contrast-Enhanced MRI of the Head and Neck</title>
-    <link href="https://arxiv.org/abs/2607.19401"/>
-    <id>https://arxiv.org/abs/2607.19401</id>
-    <summary type="text">We build a motion suppression pipeline based on Koopman operator theory, which provides a way to turn nonlinear dynamics into linear ones by looking at the data through the right set of mathematical &quot;lenses&quot; (called observables). We test three versions of this idea: plain DMD that works directly on pixel values, an extended version (EDMD) that adds physically motivated features like squared intensities and spatial gradients to better capture how the MRI signal and tissue motion interact, and a neural network version that tries to learn the best features automatically. A key practical contribution is time-course repetition: we tile the entire temporal series multiple times before decomposition, which does not change the underlying dynamics but gives the algorithm more data to work with, fix</summary>
+    <title>PVS-Facing AQP4 Transport and Dynamic Inter-Endfoot Gaps Regulate Gap-Dominated Glymphatic Clearance: Implications for Aging</title>
+    <link href="https://arxiv.org/abs/2607.20544"/>
+    <id>https://arxiv.org/abs/2607.20544</id>
+    <summary type="text">Experimental studies show that impaired aquaporin-4 (AQP4) function or polarization reduces glymphatic clearance, whereas recent mechanical models suggest that pressure-driven water exchange occurs mainly through inter-endfoot gaps rather than directly across the AQP4-rich membrane. To reconcile these observations, we develop a reduced arterial--ECS--venous multicompartment model coupling vascular forcing, PVS deformation, AQP4-mediated endfoot water exchange, dynamic inter-endfoot gap regulation, and tracer transport. The model shows that cardiac-like oscillations generate strong bidirectional exchange but weak net clearance, whereas asymmetric vasodilation enhances directional transport by reducing recovery-phase backflow. Under fixed-gap conditions, the gap-mediated flux is approximatel</summary>
   </entry>
   <entry>
-    <title>COBRA2026: a large-scale multicenter pelvic cone-beam computed tomography projection dataset</title>
-    <link href="https://arxiv.org/abs/2607.20037"/>
-    <id>https://arxiv.org/abs/2607.20037</id>
-    <summary type="text">The COBRA2026 dataset is a large-scale, multicenter resource of raw radiotherapy cone-beam computed tomography (CBCT) acquisitions created for the development and evaluation of conventional and learning-based reconstruction and image-correction methods. It contains data from 867 patients undergoing pelvic radiotherapy at six European centers, acquired using Elekta and Varian imaging systems. For each case, the dataset includes raw projection data, acquisition geometry, calibration and correction information, clinically reconstructed CBCT images, and corresponding planning CT images. Vendor-specific files were anonymized and converted into open formats. Planning CT images were deformably registered to the daily CBCT anatomy, and matched projections were simulated using the corresponding acq</summary>
+    <title>A Rapid Reconstruction Method of Gamma Radiation Field based on Normalized Proper Orthogonal Decomposition</title>
+    <link href="https://arxiv.org/abs/2505.07088"/>
+    <id>https://arxiv.org/abs/2505.07088</id>
+    <summary type="text">When a fault occurs in nuclear facilities, accurately reconstructing gamma radiation fields through measurements from the mobile radiation detection (MRD) system becomes crucial to enable access to internal facility areas for essential safety assessments and repairs. Reconstruction of these fields is difficult because of the uncertainty in the positions and intensities of the gamma sources, the complexity of the gamma distribution, and the physics and radiation hardness constraints on the MRD systems. In this work, a novel reconstruction framework of the gamma radiation is proposed. This system entails a NPOD-based reconstruction algorithm with MRD data, and a variation-based adaptive measurements selection mechanism. Our approach has been thoroughly assessed using extensive simulations, a</summary>
   </entry>
   <entry>
-    <title>PRIME-SVR: Physics-infoRmed Implicit Multi-Echo Slice-to-Volume Reconstruction for Fetal T2 mapping</title>
-    <link href="https://arxiv.org/abs/2607.20136"/>
-    <id>https://arxiv.org/abs/2607.20136</id>
-    <summary type="text">Slice-to-volume reconstruction (SVR) is the standard method for obtaining high-resolution (HR) 3D fetal brain volumes from motion-corrupted 2D MRI slice stacks acquired in multiple orientations. Existing SVR methods are optimized and validated only for clinical-range echo times (TEs), limiting their use at non-clinical TEs and making them incompatible with quantitative T2 mapping, a protocol- and center-independent biomarker of fetal brain maturation requiring HR reconstructions across multiple TEs. We present PRIME-SVR, the first implicit neural representation (INR) framework for joint HR reconstruction from multi-echo MRI. A single fully connected network models a continuous function from spatial coordinates to signal intensities across TEs, while a second network estimates slice-specifi</summary>
+    <title>Equivariant Conditional Diffusion Model for Head and Neck CT Image Synthesis from CBCT</title>
+    <link href="https://arxiv.org/abs/2509.21913"/>
+    <id>https://arxiv.org/abs/2509.21913</id>
+    <summary type="text">Background: Cone-beam computed tomography CBCT is a commonly used modality for image guided radiotherapy. It offers real time anatomical visualization with low acquisition cost and dose. Nevertheless, photon scattering and beam hindrance lead CBCT images to suffer from several artifacts. These involve inaccurate Hounsfield Unit HU values, which render a lower reliability towards the dose calculations and adaptive planning.
+  Purpose: Computed tomography CT, on the contrary, offers better image quality and accurate HU calibration, yet is typically acquired using offline mode and fails to capture the intra-treatment anatomical changes. This renders a need for developing an accurate CBCT to CT synthesis to mitigate the gap in imaging quality in the adaptive radiotherapy workflow.
+  Methods: W</summary>
   </entry>
   <entry>
-    <title>A simplified reconstruction of Positron Emission Tomography image using Time of Flight simulated data in Gate 10</title>
-    <link href="https://arxiv.org/abs/2607.20169"/>
-    <id>https://arxiv.org/abs/2607.20169</id>
-    <summary type="text">Background: Ultrafast Time-of-Flight (TOF) information in Gate 10 simulations enables direct 3D PET reconstruction without scanner-specific modeling. Although such picosecond timing is not achievable in current detectors, simulated data allow exploration of idealized TOF regimes and rapid evaluation of prototype PET designs. Methods: The TOF-driven reconstruction assigns each coincidence to its annihilation position using sub-picosecond timestamps, producing voxelized 3D histograms with flexible voxel size and field-of-view selection. The approach operates directly on Gate-sorted coincidences, requires no corrections, and outputs MHD/DICOM images. Timestamp precision (~10^-13 s) enables localization on the millimeter scale. Results: Full 3D images of the simulated INSPIRE PET scanner are g</summary>
-  </entry>
-  <entry>
-    <title>When Does Consensus Beat Voting? A Critical Analysis of Statistical Label Fusion in Medical Image Segmentation</title>
-    <link href="https://arxiv.org/abs/2607.19402"/>
-    <id>https://arxiv.org/abs/2607.19402</id>
-    <summary type="text">This paper provides a rigorous, self-contained investigation of consensus segmentation. We derive the mathematical foundations from first principles -- the generative model, EM algorithm, Van Leemput&#x27;s marginalization analysis, identifiability conditions, Spatial STAPLE, and deep variational formulations -- and validate each theoretical prediction through controlled experiments. The central finding is sobering: under common conditions, STAPLE reduces to thresholded majority voting, suffers 95% EM suboptimality, and collapses under class imbalance. These are not edge cases but typical scenarios in medical imaging. Majority voting -- simple, non-parametric, and robust -- is a surprisingly strong baseline that the field has perhaps too hastily dismissed in favor of more &quot;sophisticated&quot; method</summary>
-  </entry>
-  <entry>
-    <title>FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization</title>
-    <link href="https://arxiv.org/abs/2607.20382"/>
-    <id>https://arxiv.org/abs/2607.20382</id>
-    <summary type="text">Clinical biomarker workflows in translational research settings often rely on spreadsheet-driven tracking, manual quality control (QC) reconciliation, and loosely integrated systems, resulting in limited state visibility, delayed reporting, and increased operational risk. These challenges are particularly pronounced in multi-day assays such as Luminex-based quantification of Fragile X Messenger Ribonucleoprotein (FMRP), where HIPAA-compliant data governance, deterministic workflow progression, and coordinated communication across laboratory and clinical teams are required. This paper presents FMRP-LEAN, a HIPAA-compliant, AI-augmented Laboratory Information Management System (LIMS) architecture that formalizes biospecimen lifecycle management through a finite-state workflow model with expl</summary>
+    <title>Theoretical derivation of blood velocity from TOF-MRA based artery centerline</title>
+    <link href="https://arxiv.org/abs/2607.16498"/>
+    <id>https://arxiv.org/abs/2607.16498</id>
+    <summary type="text">Time-of-flight magnetic resonance angiography (TOF-MRA) is widely used for structural vascular imaging, but extracting functional hemodynamics like blood velocity typically requires supplementary phase-contrast scans. This study proposes a novel, physics-informed computational framework to extract variable fluid velocity directly from standard TOF-MRA signal profiles. We analytically expand the Bloch equations into Bloch-McConnell flow equations, establishing a mathematical relationship between the spatial decay of longitudinal magnetization and fluid velocity. To validate this derivation and overcome the limitations of constant-velocity assumptions, a MATLAB simulation framework was developed to model fluid flow in two variable-geometry flowing tube cases i.e continuous tapering and focal</summary>
   </entry>
   <entry>
     <title>Mozambique launches Action Plan for Child Survival and reaffirms its commitment to reduce child mortality</title>
@@ -108,16 +98,16 @@
     <summary type="text">Maputo – The Government of Mozambique, through the Ministry of Health, launched the Action Plan for Child Survival 2026–2030, launched on Monday 20 July 2026, in Maputo Province, a strategic instrument aimed at accelerating the reduction of child mortality and ensuring that all children have the opportunity to survive, grow and develop to their full potential.</summary>
   </entry>
   <entry>
-    <title>Access to care for severe chronic diseases in Africa growing: new report</title>
-    <link href="https://www.afro.who.int/countries/zambia/news/access-care-severe-chronic-diseases-africa-growing-new-report"/>
-    <id>https://www.afro.who.int/countries/zambia/news/access-care-severe-chronic-diseases-africa-growing-new-report</id>
-    <summary type="text">More than 170 000 people have been attending health facilities offering PEN-Plus services across 20 African countries during the three years of implementation of the PEN-Plus Regional Strategy, according to a new report by the World Health Organization (WHO) Regional Office for Africa.</summary>
-  </entry>
-  <entry>
     <title>Uganda safeguards essential health services during Ebola outbreak response</title>
     <link href="https://www.afro.who.int/countries/uganda/news/uganda-safeguards-essential-health-services-during-ebola-outbreak-response"/>
     <id>https://www.afro.who.int/countries/uganda/news/uganda-safeguards-essential-health-services-during-ebola-outbreak-response</id>
     <summary type="text">At a health clinic in Arua, a border town in northern Uganda, staff are on high alert after unsuspectingly attending to a patient who was later diagnosed with Ebola disease caused by the Bundibugyo virus. It was 8 May 2026, before the outbreak was declared in neighbouring Democratic Republic of Congo, and the staff’s index of suspicion was low. After the patient asked to be discharged, she travelled to Kampala, Uganda’s capital city, where she tested positive for the virus.</summary>
+  </entry>
+  <entry>
+    <title>Access to care for severe chronic diseases in Africa growing: new report</title>
+    <link href="https://www.afro.who.int/countries/zambia/news/access-care-severe-chronic-diseases-africa-growing-new-report"/>
+    <id>https://www.afro.who.int/countries/zambia/news/access-care-severe-chronic-diseases-africa-growing-new-report</id>
+    <summary type="text">More than 170 000 people have been attending health facilities offering PEN-Plus services across 20 African countries during the three years of implementation of the PEN-Plus Regional Strategy, according to a new report by the World Health Organization (WHO) Regional Office for Africa.</summary>
   </entry>
   <entry>
     <title>Communicating to protect</title>

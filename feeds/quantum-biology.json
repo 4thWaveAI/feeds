@@ -530,6 +530,21 @@
       ]
     },
     {
+      "id": "https://www.nature.com/articles/s41467-026-75794-z",
+      "url": "https://www.nature.com/articles/s41467-026-75794-z",
+      "title": "Leiomodin2 is a polymerase at the pointed ends of actin filaments - Nature Communications",
+      "content_text": "Biophysical and structural studies have found that leiomodin 2, a protein discovered in muscle cells, is the first example of a molecule that promotes the elongation of actin filaments at their slowly growing “pointed ends.” This breakthrough will stimulate work to answer many puzzling questions about the mechanism of this process.",
+      "attachments": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-75794-z/MediaObjects/41467_2026_75794_Fig1_HTML.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "quantum-biology"
+      ]
+    },
+    {
       "id": "https://www.nature.com/articles/s41467-026-75876-y",
       "url": "https://www.nature.com/articles/s41467-026-75876-y",
       "title": "In situ mapping of late-stage biomechanical coordination during clathrin-mediated endocytosis - Nature Communications",
@@ -618,15 +633,6 @@
       "url": "https://www.nature.com/articles/s41467-026-75892-y",
       "title": "Molecular rotors reveal the 3D viscous habitat of mucus-colonizing bacteria - Nature Communications",
       "content_text": "Authors quantify the 3D viscous structure of undisturbed mucus and associated bacteria using molecular rotors. Diatom aggregates and the mucus layer of a jellyfish ephyra show distinct viscous morphologies and bacterial colonization patterns.",
-      "tags": [
-        "quantum-biology"
-      ]
-    },
-    {
-      "id": "https://www.nature.com/articles/s41467-026-75798-9",
-      "url": "https://www.nature.com/articles/s41467-026-75798-9",
-      "title": "The bacterial mechanosensitive channel MscM gates through concerted changes in its transmembrane and cytoplasmic domains - Nature Communications",
-      "content_text": "Mechanosensitive channels in bacteria provide protection against hypoosmotic shock. Here, the authors use cryo-electron microscopy to reveal the gating mechanism of MscS-like channel EcMscM, showing that the conformations of the transmembrane and cytoplasmic domains are coupled.",
       "tags": [
         "quantum-biology"
       ]

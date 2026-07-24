@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/nanotech.atom.xml"/>
   <id>urn:4thwaveai-feeds:nanotech</id>
-  <updated>Fri, 24 Jul 2026 03:50:30 +0000</updated>
+  <updated>Fri, 24 Jul 2026 08:48:54 +0000</updated>
   <entry>
     <title>First 3D nanoscale maps of human airway epithelium reveal hidden architecture of lung defense cells</title>
     <link href="https://phys.org/news/2026-07-3d-nanoscale-human-airway-epithelium.html"/>
@@ -232,63 +232,63 @@
     <summary type="text">Scientists found that transfer learning can make the search for new physics in the universe much faster, slashing the need for expensive simulations. Yet the approach can backfire when AI relies too heavily on familiar patterns, potentially missing evidence of something truly new.</summary>
   </entry>
   <entry>
-    <title>Electron-Induced Formation of C$_{2}$ on Si(100) from Acetylene and Ethylene</title>
-    <link href="https://arxiv.org/abs/2607.19488"/>
-    <id>https://arxiv.org/abs/2607.19488</id>
-    <summary type="text">Hydrogen Desorption Lithography on Si(100) demonstrates the ability of the Scanning Tunneling Microscope (STM) to create functional atomic-scale structures and devices. The dehydrogenation of adsorbed molecules represents a potential complementary technique that has received little attention. For example, formation of C$_{2}$ could introduce local strain or act as centers for subsequent reactions and would inform positionally controlled mechanosynthesis, an approach with vast potential in surface patterning and functionalization. Here, we studied the electron-induced dehydrogenation of acetylene and ethylene on Si(100) at 4 K using STM. Excitation of acetylene at +3.2 V and above induces configurational switching, including to a new sublayer-bonded geometry previously predicted to be an ad</summary>
+    <title>Lithium-Projected Phonon Spectral Distributions as Robust Descriptors of Ionic Conductivity in Solid Electrolytes</title>
+    <link href="https://arxiv.org/abs/2607.20591"/>
+    <id>https://arxiv.org/abs/2607.20591</id>
+    <summary type="text">Lattice dynamics are widely invoked in the design of solid electrolytes, yet phonon information is commonly compressed into a band center or another scalar softness measure. Here we test whether the complete lithium-projected phonon density of states (Li-PDOS) provides a reproducible descriptor of experimental room-temperature ionic conductivity. MatterSim forces and Phonopy were used to generate harmonic total and Li-projected spectra for crystallographically resolved entries in the OBELiX dataset. A composition and structure audit defined a primary cohort of 260 materials (212 train and 48 test), a strict cohort of 241, and an exact-composition cohort of 168. Across 20 independently generated phonon-calculation database comparisons, the mean Wasserstein-1 distance was 0.542 THz for total</summary>
   </entry>
   <entry>
-    <title>Photoemission from Semi-Infinite Crystals: An \emph{Ab Initio} Scattering-State Approach</title>
-    <link href="https://arxiv.org/abs/2607.19551"/>
-    <id>https://arxiv.org/abs/2607.19551</id>
-    <summary type="text">Photoemission is an escape problem, yet first-principles calculations usually trap the electron in a periodic box. We present a parameter-free \emph{ab initio} framework that removes this artificial boundary by constructing open scattering states for semi-infinite crystal-vacuum interfaces from Wannier Hamiltonians and Green-function embedding. The method gives continuum-normalized time-reversed LEED final states with microscopic quasiparticle attenuation. For Ag(111), it predicts absolute quantum efficiency, vectorial photoemission, and mean transverse energy on the experimental scale.</summary>
+    <title>Magnetic ground states of CrPS$_4$ and NiPS$_3$ monolayers from long-range exchange interactions</title>
+    <link href="https://arxiv.org/abs/2607.20631"/>
+    <id>https://arxiv.org/abs/2607.20631</id>
+    <summary type="text">We investigate the magnetic properties of monolayer CrPS$_4$ and NiPS$_3$ by combining first-principles calculations, second-principles spin models, and Monte Carlo simulations. Unlike conventional approaches that truncate exchange interactions after only a few shells and determine them by fitting total energies, we extract the magnetic exchange tensors directly from density functional theory using the LKAG formalism and include interactions until numerical convergence is achieved. We show that long-range exchange interactions qualitatively modify the magnetic behavior of both materials. In CrPS$_4$, they destabilize the previously predicted ferromagnetic ground state and stabilize a spin-spiral phase, reducing the critical temperature to about 21\,K, in agreement with available experiment</summary>
   </entry>
   <entry>
-    <title>Assessing the Influence of d-Orbital Radius on the Formation of Localized Photogenerated States in Corundum Metal Oxides</title>
-    <link href="https://arxiv.org/abs/2607.19569"/>
-    <id>https://arxiv.org/abs/2607.19569</id>
-    <summary type="text">Photogenerated polarons are fundamental to the photophysics of transition metal oxide semiconductors. It is therefore imperative to understand the mechanisms by which polarons form upon photoexcitation of transition metal oxides to realize their potential in photoapplications. Hematite (α-Fe2O3) is known to form photoexcited small polarons, which limit its performance as a photoelectrocatalyst for water oxidation. Here, we report a systematic comparison of the electronic, optical and vibrational properties of hematite to those other metal oxides in the corundum crystal family that elucidates the impact of d-orbital radius on carrier-phonon coupling. Three corundum metal oxides are analyzed: α-Al2O3 (no d-electrons), α-Fe2O3 (3d), and α-Rh2O3 (4d) with a combined approach of resonance Raman</summary>
+    <title>A high-dimensional neural network potential for finite-temperature phenomena in NiTi martensite</title>
+    <link href="https://arxiv.org/abs/2607.20681"/>
+    <id>https://arxiv.org/abs/2607.20681</id>
+    <summary type="text">We present a high-dimensional neural network potential (HDNNP) for the martensitic phase of the NiTi shape-memory alloy trained to density functional theory (DFT) data. A central aspect of this work is the systematic validation of the potential with respect to the underlying DFT reference method for key properties governing structural evolution, including equilibrium crystal structures, elastic constants, generalized-stacking fault energies, and vibrational spectra. The HDNNP accurately describes the relative stability of the B19$^\prime$ and B33 phases, including subtle energy differences on the order of meV/atom. The predicted stacking-fault energy landscape is strongly anisotropic and reveals a preferential shear pathway, providing atomistic insight into deformation and twinning mechani</summary>
   </entry>
   <entry>
-    <title>Macroscopic Polarization and Magnetization from Cavity Vacuum Fluctuations</title>
-    <link href="https://arxiv.org/abs/2607.19612"/>
-    <id>https://arxiv.org/abs/2607.19612</id>
-    <summary type="text">Cavity light-matter interaction has recently emerged as a new avenue for manipulating material properties without driving fields. Here, we demonstrate that cavity vacuum fluctuations can induce macroscopic polarization (magnetization), even in materials that lack spontaneous polarization (net magnetization) in free space. Starting from the effective photon-free quantum-electrodynamics Hamiltonian, we identify all crystallographic (magnetic) point groups that allow such cavity-induced responses. We derive the form of the corresponding response tensors based on symmetry analysis, whose elements can be obtained by quantum electrodynamical density functional theory (QEDFT) calculations. As representative examples, we show that the cavity-induced polarization in $α$-quartz can be continuously c</summary>
+    <title>Analytical Forces from the Bethe-Salpeter Equation for Large-Scale Excited-State Relaxation</title>
+    <link href="https://arxiv.org/abs/2607.20728"/>
+    <id>https://arxiv.org/abs/2607.20728</id>
+    <summary type="text">We present an efficient plane-wave implementation of analytical nuclear forces for electronic excited states described by the Bethe-Salpeter equation (BSE). The formulation combines density-matrix perturbation theory with a Lagrangian approach, and avoids both explicit empty-state summations and the response calculations for each atomic displacement, required by conventional approaches based on density functional perturbation theory. Together with GPU acceleration, these advances make BSE forces calculations tractable for solid-state systems containing hundreds of atoms. We demonstrate the method on two point defects with distinct dielectric environments: the nitrogen-vacancy center in diamond, where BSE and time-dependent density functional theory (TDDFT) yield consistent excited-state re</summary>
   </entry>
   <entry>
-    <title>Nitrospinics as a platform from orbital-torque memory to artificial intelligence</title>
-    <link href="https://arxiv.org/abs/2607.19656"/>
-    <id>https://arxiv.org/abs/2607.19656</id>
-    <summary type="text">The exploration of energy-efficient and functional spintronics has attracted considerable attention. Orbital transport has opened new pathways for current-induced torque generation beyond the conventional spin transport based on the spin Hall effect. In addition, artificial intelligence computing has been demonstrated using spintronic devices. Further progress of these devices can be anticipated through the development of unique and functional materials beyond the existing heavy metals and topological systems with strong spin-orbit coupling. The nitride materials exhibit unique chemical, magnetic, and structural versatility, including antiferromagnetism, high thermal stability, and compatibility with diverse device architectures. Here, we propose Nitrospinics as a conceptual and functional</summary>
+    <title>First-principles calculation of electron-phonon spectral functions for defects using phonon interpolation</title>
+    <link href="https://arxiv.org/abs/2607.20788"/>
+    <id>https://arxiv.org/abs/2607.20788</id>
+    <summary type="text">Point defects in wide-band-gap semiconductors exhibit optical spectra strongly shaped by electron-phonon coupling, but direct first-principles calculation of the corresponding phonon sidebands is often limited by the coarse vibrational spectrum of the largest defect supercells accessible by ab-initio electronic structure codes. In this work, we present a phonon-interpolation method for Huang-Rhys spectral densities and optical lineshape functions on hypercells created by extending the defect-containing supercells on arbitrarily dense phonon $q$-point grids. The method is based on reconstructing the transition-induced force associated with the optical excitation and using this localized force source to couple the defect transition to a densely sampled vibrational continuum. In this formulat</summary>
   </entry>
   <entry>
-    <title>Raman spectroscopy of van der Waals topological magnet GdGaI</title>
-    <link href="https://arxiv.org/abs/2607.19663"/>
-    <id>https://arxiv.org/abs/2607.19663</id>
-    <summary type="text">We report polarization-resolved Raman spectroscopy of a van der Waals compound GdGaI that is a candidate for excitonic insulators. By combining the symmetry analysis with density functional theory calculations, we identify six Raman-active phonons. The spectra exhibit only the expected anharmonic hardening down to 4 K: no additional peaks, no soft modes, and no signatures of zone folding are observed. This result indicates that any lattice distortion is below our experimental sensitivity, supporting an electronically driven origin for the band reconstruction reported by angle-resolved photoemission spectroscopy rather than an electron-phonon-driven mechanism. Moreover, we observe a pronounced circular dichroism of the $A_{1g}$ modes under an out-of-plane magnetic field. Based on symmetry c</summary>
+    <title>Photo-induced currents and short-term memory for reservoir computing in a ferroelectric semiconductor</title>
+    <link href="https://arxiv.org/abs/2607.20810"/>
+    <id>https://arxiv.org/abs/2607.20810</id>
+    <summary type="text">Physical reservoir computing represents an energy efficient approach for processing temporal signals by exploiting the intrinsic nonlinear dynamics and fading memory of a physical system. Recently, ferroelectric semiconductors moved into focus as reservoir materials motivated by their versatile electronic responses to external stimuli. Here, we explore the fundamental possibility to recognize time-varying light pulses via photo-induced currents, using the small-band-gap p-type semiconductor ErMnO$_3$ as a model system. Under white light illumination, ErMnO$_3$ exhibits non-linearly evolving photo-induced currents and controllable relaxation dynamics that naturally realize the high-dimensional projection and fading memory capabilities required for reservoir computing. The reservoir capabili</summary>
   </entry>
   <entry>
-    <title>Synergistic Interface Stability and High Room-Temperature Ionic Conductivity for Wide-Temperature All-Solid-State Batteries Based on Li6+xSixSb1-xS5I Electrolytes</title>
-    <link href="https://arxiv.org/abs/2607.19664"/>
-    <id>https://arxiv.org/abs/2607.19664</id>
-    <summary type="text">Solid-state lithium-ion batteries (LIBs) are increasingly recognized for their exceptional energy density and safety. However, their widespread adoption is challenged by persistent issues such as thermal and electrochemical instability, dendrite formation, and limited compatibility with high-voltage cathodes. Sulfide-based solid electrolytes (SEs), particularly iodide argyrodites, offer outstanding ionic conductivity and stability; however, their practical application is constrained by the formation of space-charge layers, slow ion transport, and susceptibility to dendrite penetration. To address these challenges, we synthesized a novel Li6.6Si0.6Sb0.4S5I argyrodite electrolyte via ball milling and heat treatment, achieving a remarkable room-temperature ionic conductivity of 9.9 mS cm^-1. </summary>
+    <title>MatDiffract: A Material-Informed Automated Analysis Platform for X-ray Powder Diffraction</title>
+    <link href="https://arxiv.org/abs/2607.20880"/>
+    <id>https://arxiv.org/abs/2607.20880</id>
+    <summary type="text">High-throughput experimentation and self-driving laboratories are drastically accelerating materials discovery, yet automated interpretation of X-ray powder diffraction (XRPD) data remains a critical rate-limiting step. Conventional search-match workflows rely heavily on expert manual intervention, while pure data-driven machine learning approaches suffer from limited generalizability across chemical systems and lack rigorous crystallographic interpretability. Here we present MatDiffract, a material-informed automated analysis platform for high-throughput XRPD characterization. Built on a first-principles density functional theory (DFT)-derived inorganic crystal structure database, Atomly, MatDiffract constructs a perturbation-augmented simulated diffraction database, embeds multi-scale di</summary>
   </entry>
   <entry>
-    <title>Analytical Retrieval of Material Parameters in Monolayer Transition-Metal Dichalcogenides Based on a Solvable Exciton Model</title>
-    <link href="https://arxiv.org/abs/2607.19698"/>
-    <id>https://arxiv.org/abs/2607.19698</id>
-    <summary type="text">We develop an analytical procedure to retrieve fundamental material parameters of monolayer transition-metal dichalcogenides from optical and magneto-optical exciton spectra, based on the solvable modified Kratzer model. The proposed retrieval procedure naturally consists of two complementary stages. In the first stage, explicit inversion formulas determine the quasiparticle bandgap, effective screening parameter, and energy scaling factor directly from the experimentally measured energies of the three lowest excitonic states, from which the screening length is subsequently obtained. In the second stage, an analytical expression for the magnetic-field dependence of the exciton energies independently yields the reduced exciton mass, from which the surrounding dielectric constant is then cal</summary>
+    <title>Long- and Short-Range Anion Order in SrTiO$_{3-x}$H$_x$ Perovskite Oxyhydrides: DFT+$U$ Sensitivity and HSE06 Cluster Expansion</title>
+    <link href="https://arxiv.org/abs/2607.20885"/>
+    <id>https://arxiv.org/abs/2607.20885</id>
+    <summary type="text">Anion ordering in perovskite oxyhydrides can remain significant even in disordered states, particularly at non-dilute hydrogen concentrations. Nevertheless, hydride substitution poses challenges for accurate simulations based on density functional theory due to configurational complexity and Ti 3$d$ reduction. Here, we develop a cluster expansion (CE) framework for SrTiO$_{3-x}$H$_x$ incorporating HSE06 hybrid-DFT energetics. We first demonstrate that calculated mixing energies and ordering stability are highly sensitive to the choice of DFT+$U$, with maximum variations on the order of 100 meV/anion. We benchmark ordering energetics against HSE06 calculations and identify $U$ = 3.3 eV as an HSE06 proxy, which enables extensive configurational exploration while limiting costly HSE06 calcula</summary>
   </entry>
   <entry>
-    <title>A Thermodynamic Pinning Criterion for Two-Dimensional Structural Superlubricity</title>
-    <link href="https://arxiv.org/abs/2607.19732"/>
-    <id>https://arxiv.org/abs/2607.19732</id>
-    <summary type="text">Incommensurability and elastic reconstruction do not by themselves define a structurally superlubric phase. We define fully sliding and pinned zero-temperature phases by $\limsup_{A\to\infty}τ_{\rm dep}^{\max}(A)=0$ and $\liminf_{A\to\infty}τ_{\rm dep}^{\min}(A)&gt;0$, respectively; $Λ_n=|V_n|G_{n,i}[D_{\rm rel}^{-1}(\mathbf q_n)]_{ij}G_{n,j}$ measures only reconstruction susceptibility. Translational covariance then proves that a clean, smooth, infinite moiré continuum can reconstruct without acquiring a bulk sliding barrier. We restore atomic sampling in a two-dimensional discrete model of graphene/hBN and test both a diffusion quantum Monte Carlo first-star potential and a 15-harmonic Leven potential across three rational approximants and five directions. No physical-coupling equilibrium o</summary>
+    <title>Orbital Hall Effect Enables Field-Free Magnetization Reversal in Ferrimagnets without Additional Conversion Layer</title>
+    <link href="https://arxiv.org/abs/2607.20888"/>
+    <id>https://arxiv.org/abs/2607.20888</id>
+    <summary type="text">The spin Hall effect provides a well-established route for electrical magnetization control, while the orbital Hall effect offers a powerful yet less explored source of angular momentum. Achieving field-free deterministic switching in straightforward orbital-torque architectures remains challenging. Here, we demonstrate orbital-Hall-current-driven switching in a Mo/CoGd bilayer without the need for a separate orbital-to-spin conversion layer across a wide temperature range. In this simplified geometry, Mo serves as both an orbital and spin current source. However, the spin contribution is insufficient due to weak spin-orbit coupling, which is consistent with first-principles calculations predicting a large orbital Hall conductivity. The adjacent ferrimagnetic CoGd layer provides both orbit</summary>
   </entry>
   <entry>
-    <title>Numerical exploration on unveiling the photovoltaic potential of MgXS3(X = Ti, Zr, Hf) chalcogenide perovskites</title>
-    <link href="https://arxiv.org/abs/2607.19789"/>
-    <id>https://arxiv.org/abs/2607.19789</id>
-    <summary type="text">Lead-free chalcogenide perovskites offer a nontoxic and thermally robust path beyond Pb-based perovskite solar cells (PSCs), but their device-level behavior in realistic three-dimensional geometries remains insufficiently characterized. In this work, we investigate ZnSe/MgXS3(X = Ti, Zr, Hf)/Sb2S3 solar cell architecture where MgXS3 absorbers from the II-IV-VI chalcogenide perovskite family is employed as the absorber layer. The device is analyzed using 3D finite-element simulations in COMSOL Multiphysics that self-consistently couple optical generation, drift-diffusion carrier transport, and heat transfer under AM 1.5G 1-sun illumination, following a fully coupled opto-electro-thermal framework. For each absorber composition, the impacts of absorber thickness, doping, and defect density a</summary>
+    <title>Visualizing Microwave-Driven Dynamics of Antiskyrmions and Surface Skyrmions</title>
+    <link href="https://arxiv.org/abs/2607.20904"/>
+    <id>https://arxiv.org/abs/2607.20904</id>
+    <summary type="text">Microwaves provide coherent access to low-energy excitations and serve as effective probes of high-frequency spin dynamics in quantum and magnetic systems. For topological spin textures, microwave excitation is expected to generate rich collective responses, yet direct real-space observation of ultrafast dynamics remains limited. Here we use time-resolved Lorentz transmission electron microscopy to visualize microwave-driven dynamics in a hybrid antiskyrmion structure composed of a central antiskyrmion and surface skyrmions. We resolve the picosecond evolution of antiskyrmion area and second-harmonic signals, evidencing nonlinear responses of spin textures under microwave excitations. We track the core motions of the antiskyrmion and surface skyrmions, which follow distinct trajectories wh</summary>
   </entry>
 </feed>

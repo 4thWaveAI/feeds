@@ -125,6 +125,21 @@
       ]
     },
     {
+      "id": "https://www.ftc.gov/news-events/events/2026/07/helping-military-veterans-protect-their-small-business-scams-cybersecurity-risks",
+      "url": "https://www.ftc.gov/news-events/events/2026/07/helping-military-veterans-protect-their-small-business-scams-cybersecurity-risks",
+      "title": "Helping Military Veterans Protect Their Small Business from Scams and Cybersecurity Risks",
+      "content_text": "If you’re a veteran and run a small business, you know that your best defense against scammers and cybercriminals is an informed workforce.",
+      "attachments": [
+        {
+          "url": "https://www.ftc.gov/sites/default/files/ftc_gov/images/ftc_social_share_default_en.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "ai-policy-ethics-standards"
+      ]
+    },
+    {
       "id": "https://www.nist.gov/news-events/news/2026/06/department-commerce-announces-definitive-agreement-sandboxaq-500-million",
       "url": "https://www.nist.gov/news-events/news/2026/06/department-commerce-announces-definitive-agreement-sandboxaq-500-million",
       "title": "Department of Commerce Announces Definitive Agreement with SandboxAQ for a $500 Million CHIPS R&D Award to Accelerate Al-Driven Semiconductor Materials Discovery",
@@ -148,21 +163,6 @@
         {
           "url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2025/07/25/CHIPS%20Xcelerate%202X-fullcolor.png?itok=0uAutXTW",
           "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "ai-policy-ethics-standards"
-      ]
-    },
-    {
-      "id": "https://www.ftc.gov/news-events/events/2026/07/helping-military-patrons-spot-avoid-scams",
-      "url": "https://www.ftc.gov/news-events/events/2026/07/helping-military-patrons-spot-avoid-scams",
-      "title": "Helping Military Patrons Spot and Avoid Scams",
-      "content_text": "Librarians serve as a resource to military consumers both on- and off base. Whether you’re helping active-duty servicemembers, veterans, and military families, this webinar is for you.",
-      "attachments": [
-        {
-          "url": "https://www.ftc.gov/sites/default/files/ftc_gov/images/ftc_social_share_default_en.jpg",
-          "mime_type": "image/jpeg"
         }
       ],
       "tags": [
@@ -350,16 +350,7 @@
       "id": "https://digital-strategy.ec.europa.eu/en/news/commission-fines-google-eu890-million-breaches-digital-markets-act",
       "url": "https://digital-strategy.ec.europa.eu/en/news/commission-fines-google-eu890-million-breaches-digital-markets-act",
       "title": "Commission fines Google €890 million for breaches of the Digital Markets Act",
-      "content_text": "Today, the European Commission took two decisions finding non-compliance by Google with the Digital Markets Act (DMA) for self-preferencing its own services on Google Search, and for putting in place restrictions on businesses to direct consumers to alternative, often cheaper, purchase channels on Google Play (steering).",
-      "tags": [
-        "ai-policy-ethics-standards"
-      ]
-    },
-    {
-      "id": "https://digital-strategy.ec.europa.eu/en/news/europai-reusable-european-generative-ai-solutions-public-administrations",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/europai-reusable-european-generative-ai-solutions-public-administrations",
-      "title": "EuropAI - Reusable European Generative AI solutions for public administrations",
-      "content_text": "EuropAI will develop, procure and test sovereign and trustworthy GenAI solutions that can be reused and scaled across European public administrations.",
+      "content_text": "The European Commission took two decisions finding non-compliance by Google with the Digital Markets Act (DMA) for self-preferencing its own services on Google Search, and for putting in place restrictions on businesses to direct consumers to alternative, often cheaper, purchase channels on Google Play (steering).",
       "tags": [
         "ai-policy-ethics-standards"
       ]
@@ -374,55 +365,31 @@
       ]
     },
     {
-      "id": "https://digital-strategy.ec.europa.eu/en/news/mosaic-paves-way-european-multilingual-information-space",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/mosaic-paves-way-european-multilingual-information-space",
-      "title": "MOSAIC paves the way for a European multilingual information space",
-      "content_text": "The MOSAIC pilot project has built and tested technology so media organisations can share content across language borders.",
+      "id": "https://www.digital.go.jp/en/news/b6d94913-60d0-450d-ab46-8e89659f1fc6",
+      "url": "https://www.digital.go.jp/en/news/b6d94913-60d0-450d-ab46-8e89659f1fc6",
+      "title": "Online Briefing on the Government AI GENAI OSS Ver 2.0 Plan｜Digital Agency",
+      "content_text": "The Digital Agency, has been established on September1, 2021, contributes to reforming the culture of administration in a user-driven manner through digitalization.",
+      "attachments": [
+        {
+          "url": "https://www.digital.go.jp/assets/contents/node/information/field_thumbnail_image/b6d94913-60d0-450d-ab46-8e89659f1fc6/dee92357/20260723_04.png",
+          "mime_type": "image/png"
+        }
+      ],
       "tags": [
         "ai-policy-ethics-standards"
       ]
     },
     {
-      "id": "https://digital-strategy.ec.europa.eu/en/news/new-genai-pilots-public-administrations",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/new-genai-pilots-public-administrations",
-      "title": "New GenAI pilots for public administrations",
-      "content_text": "Three new pilot projects supporting the uptake of Generative AI in public administrations officially started on 1 July 2026.",
-      "tags": [
-        "ai-policy-ethics-standards"
-      ]
-    },
-    {
-      "id": "https://digital-strategy.ec.europa.eu/en/news/floods-droughts-generative-ai-managing-floods-droughts-and-water-related-risks",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/floods-droughts-generative-ai-managing-floods-droughts-and-water-related-risks",
-      "title": "FLOODS & DROUGHTS - Generative AI for managing floods, droughts and water-related risks",
-      "content_text": "FLOODS & DROUGHTS will develop and test trustworthy GenAI solutions to help public authorities better anticipate, manage and communicate floods, droughts and other water-related risks.",
-      "tags": [
-        "ai-policy-ethics-standards"
-      ]
-    },
-    {
-      "id": "https://digital-strategy.ec.europa.eu/en/news/digital-technologies-power-europes-clean-energy-transition",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/digital-technologies-power-europes-clean-energy-transition",
-      "title": "Digital technologies to power Europe's clean energy transition",
-      "content_text": "The European Commission adopted the Electrification Action Plan and proposed an amendment to Regulation (EU) 2019/943 to future-proof electricity bills in the EU.",
-      "tags": [
-        "ai-policy-ethics-standards"
-      ]
-    },
-    {
-      "id": "https://digital-strategy.ec.europa.eu/en/news/eu-agrees-simplify-ai-rules-boost-innovation-and-ban-nudification-apps-protect-citizens",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/eu-agrees-simplify-ai-rules-boost-innovation-and-ban-nudification-apps-protect-citizens",
-      "title": "EU agrees to simplify AI rules to boost innovation and ban ‘nudification' apps to protect citizens",
-      "content_text": "The European Commission welcomes the political agreement reached between the European Parliament and the Council of the EU on simpler, innovation-friendly rules for artificial intelligence (AI).",
-      "tags": [
-        "ai-policy-ethics-standards"
-      ]
-    },
-    {
-      "id": "https://digital-strategy.ec.europa.eu/en/news/supporting-implementation-ai-act-clear-guidelines",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/supporting-implementation-ai-act-clear-guidelines",
-      "title": "Supporting the implementation of the AI Act with clear guidelines",
-      "content_text": "The AI Office is preparing guidelines to ensure a smooth implementation of the AI Act.",
+      "id": "https://www.digital.go.jp/en/policies/health/public-medical-hub/terms-of-use/20260803",
+      "url": "https://www.digital.go.jp/en/policies/health/public-medical-hub/terms-of-use/20260803",
+      "title": "Revision of the Terms and Conditions of Use of the Public Medical Hub System (for Local Governments) (for Medical Institutions and Pharmacies)｜Digital Agency",
+      "content_text": "The Digital Agency, has been established on September1, 2021, contributes to reforming the culture of administration in a user-driven manner through digitalization.",
+      "attachments": [
+        {
+          "url": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp-en.png",
+          "mime_type": "image/png"
+        }
+      ],
       "tags": [
         "ai-policy-ethics-standards"
       ]
@@ -515,6 +482,15 @@
       ]
     },
     {
+      "id": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_d8866a8d87b04cc2af57ce15a4529ffe.html",
+      "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_d8866a8d87b04cc2af57ce15a4529ffe.html",
+      "title": "李乐成出席亚太经合组织数智赋能高级别对话",
+      "content_text": "2026年7月24日，工业和信息化部在四川省成都市举办亚太经合组织（APEC）数智赋能高级别对话。该对话是2026年“APEC数字周”的重要活动之一。工业和信息化部部长李乐成，四川省省长施小琳出席开幕式并致辞。泰国数字经济与社会部部长猜察诺·奇触，越南科学与技术部部长武海军，中国香港创新科技及工业局局长孙东，俄罗斯数字发展、通信和大众传媒部副部长贝拉·切尔科索娃，新加坡数码发展及新闻部兼卫生部高级政务部长陈杰豪，成都市市长陈书平出席并致辞。工业和信息化部副部长熊继军主持开幕式。",
+      "tags": [
+        "ai-policy-ethics-standards"
+      ]
+    },
+    {
       "id": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_d109e2b6dc4844cc902a1f6f49712f67.html",
       "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_d109e2b6dc4844cc902a1f6f49712f67.html",
       "title": "2026年亚太经合组织（APEC）数字和人工智能部长会议新闻发布会在成都召开",
@@ -543,15 +519,6 @@
           "mime_type": "video/mp4"
         }
       ],
-      "tags": [
-        "ai-policy-ethics-standards"
-      ]
-    },
-    {
-      "id": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_d5d82ba934584aaa9b7bce5598eaec7a.html",
-      "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_d5d82ba934584aaa9b7bce5598eaec7a.html",
-      "title": "工业和信息化部召开树立和践行正确政绩观学习教育开门教育座谈会",
-      "content_text": "2026年7月15日，工业和信息化部党组书记、部长李乐成主持召开树立和践行正确政绩观学习教育开门教育座谈会，通报部学习教育开展情况，听取基层一线行业企业和干部群众意见建议。部总工程师钟志红、王卫明出席会议。",
       "tags": [
         "ai-policy-ethics-standards"
       ]

@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/quantum-biology.atom.xml"/>
   <id>urn:4thwaveai-feeds:quantum-biology</id>
-  <updated>Fri, 24 Jul 2026 04:06:35 +0000</updated>
+  <updated>Fri, 24 Jul 2026 09:03:54 +0000</updated>
   <entry>
     <title>2010 TSC Tucson ARIZONA</title>
     <link href="https://consciousness.arizona.edu/news/2010-tsc-tucson-arizona"/>
@@ -227,6 +227,12 @@
     <summary type="text">Molecular property prediction from structure often uses a single representative conformation, even though many molecules exist as conformational ensembles in solution. We introduce EnsembleEGNN, a molecular ensemble foundation model that encodes an ensemble by first encoding each conformer with shared Equivariant Graph Neural Network (EGNN) layers, then pooling the resulting conformer representations with a Set Attention Block. We pretrain the model on CREMP, a cyclic peptide ensemble dataset, using a multi-task self-supervised objective combining masked token recovery, noisy-coordinate reconstruction, and pairwise distance reconstruction. On the CREMP-CycPeptMPDB dataset, training EnsembleEGNN from scratch fails entirely ($R^2=0.005$). However, the pretrained model reaches $R^2=0.477$ and</summary>
   </entry>
   <entry>
+    <title>Leiomodin2 is a polymerase at the pointed ends of actin filaments - Nature Communications</title>
+    <link href="https://www.nature.com/articles/s41467-026-75794-z"/>
+    <id>https://www.nature.com/articles/s41467-026-75794-z</id>
+    <summary type="text">Biophysical and structural studies have found that leiomodin 2, a protein discovered in muscle cells, is the first example of a molecule that promotes the elongation of actin filaments at their slowly growing “pointed ends.” This breakthrough will stimulate work to answer many puzzling questions about the mechanism of this process.</summary>
+  </entry>
+  <entry>
     <title>In situ mapping of late-stage biomechanical coordination during clathrin-mediated endocytosis - Nature Communications</title>
     <link href="https://www.nature.com/articles/s41467-026-75876-y"/>
     <id>https://www.nature.com/articles/s41467-026-75876-y</id>
@@ -279,12 +285,6 @@
     <link href="https://www.nature.com/articles/s41467-026-75892-y"/>
     <id>https://www.nature.com/articles/s41467-026-75892-y</id>
     <summary type="text">Authors quantify the 3D viscous structure of undisturbed mucus and associated bacteria using molecular rotors. Diatom aggregates and the mucus layer of a jellyfish ephyra show distinct viscous morphologies and bacterial colonization patterns.</summary>
-  </entry>
-  <entry>
-    <title>The bacterial mechanosensitive channel MscM gates through concerted changes in its transmembrane and cytoplasmic domains - Nature Communications</title>
-    <link href="https://www.nature.com/articles/s41467-026-75798-9"/>
-    <id>https://www.nature.com/articles/s41467-026-75798-9</id>
-    <summary type="text">Mechanosensitive channels in bacteria provide protection against hypoosmotic shock. Here, the authors use cryo-electron microscopy to reveal the gating mechanism of MscS-like channel EcMscM, showing that the conformations of the transmembrane and cytoplasmic domains are coupled.</summary>
   </entry>
   <entry>
     <title>Entanglement-enhanced learning of quantum processes at scale - Nature Communications</title>
