@@ -84,13 +84,32 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/community/amazon-wildfire-disaster-relief",
-      "url": "https://www.aboutamazon.com/news/community/amazon-wildfire-disaster-relief",
-      "title": "Amazon opens first Canada Disaster Relief hub and bolsters California hub to support wildfire relief efforts",
-      "content_text": "A new wildfire hub in Edmonton, Alberta, will join Amazon's California facility as the company prepares for increasingly severe fire seasons.",
+      "id": "https://www.aboutamazon.com/news/entertainment/batman-caped-crusader-release-date-trailer-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/batman-caped-crusader-release-date-trailer-prime-video",
+      "title": "How to watch 'Batman: Caped Crusader' Season 2, coming to Prime Video July 31",
+      "content_text": "The critically acclaimed animated series returns to Prime Video, with the arrival of fan-favorite Gotham City residents including Edward Nygma, Carrie Kelly, and The Joker.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/06a0e15/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F44%2F7d%2F3f97f43543289e4ed66cac151b54%2Fabout-amazon-hero-amazon-news-as-20260720-amazon-news-as-20260720.jpg",
+          "url": "https://assets.aboutamazon.com/dims4/default/c1151de/2147483647/strip/true/crop/1600x800+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F75%2Ffa%2Fa806a9d44eb68e46623ac3860ec8%2Fcaped-crusader-s2-inline-amazon-news-nb-062626.jpg",
+          "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/pNhijtUqyeg?enablejsapi=1",
+          "mime_type": "video/mp4"
+        }
+      ],
+      "tags": [
+        "jeff-bezos"
+      ]
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/entertainment",
+      "url": "https://www.aboutamazon.com/news/entertainment",
+      "title": "Entertainment",
+      "content_text": "Stories about the latest apps and games, movies, TV shows, and music available from Amazon Prime Video, Amazon Music, and Kindle.",
+      "attachments": [
+        {
+          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
           "mime_type": "image/jpeg"
         }
       ],
@@ -103,21 +122,6 @@
       "url": "https://www.aboutamazon.com/news/company-news",
       "title": "Company news",
       "content_text": "News and information about Amazon, Inc.",
-      "attachments": [
-        {
-          "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "jeff-bezos"
-      ]
-    },
-    {
-      "id": "https://www.aboutamazon.com/news/entertainment",
-      "url": "https://www.aboutamazon.com/news/entertainment",
-      "title": "Entertainment",
-      "content_text": "Stories about the latest apps and games, movies, TV shows, and music available from Amazon Prime Video, Amazon Music, and Kindle.",
       "attachments": [
         {
           "url": "https://assets.aboutamazon.com/dims4/default/9374e06/2147483647/strip/true/crop/1320x660+0+79/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fba%2F44%2F8dd0ae674c79b69994045de8187a%2Famazon-smile-og.jpeg",

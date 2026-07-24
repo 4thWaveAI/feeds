@@ -144,186 +144,6 @@
       ]
     },
     {
-      "id": "https://bostondynamics.com/news/",
-      "url": "https://bostondynamics.com/news/",
-      "title": "News | Boston Dynamics",
-      "content_text": "Discover the latest news about Boston Dynamics and stay up to date with what we’ve been working on. Explore product news, media coverage, and more.",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/uploads/2023/07/library-bd-hq.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://bostondynamics.com/blog/",
-      "url": "https://bostondynamics.com/blog/",
-      "title": "Blogs | Boston Dynamics",
-      "content_text": "Stay up to date on the latest trends in robotics and other industry insights from the Boston Dynamics blog.",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/themes/boston-dynamics/button-icons/search.svg",
-          "mime_type": "image/svg+xml"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://bostondynamics.com/blog/training-a-humanoid-robot-for-hard-work/",
-      "url": "https://bostondynamics.com/blog/training-a-humanoid-robot-for-hard-work/",
-      "title": "Training a Humanoid Robot for Hard Work | Boston Dynamics",
-      "content_text": "Using AI-driven behaviors, Boston Dynamics’ Atlas robot coordinates its whole body to execute complex tasks with accuracy and reliability.",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/uploads/2026/05/training-fridge-tech-blog.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://bostondynamics.com/blog/deploying-robots-into-and-onto-the-field/",
-      "url": "https://bostondynamics.com/blog/deploying-robots-into-and-onto-the-field/",
-      "title": "Deploying Robots Into (and Onto) the Field | Boston Dynamics",
-      "content_text": "On Sunday July 5th, Atlas®, Boston Dynamics humanoid robot, stepped onto the field during halftime of the FIFA World Cup 2026™ Norway-Brazil round of 16 match at New York New Jersey Stadium. In the first public appearance of our production Atlas—and the first ever robotic halftime activation of the FIFA World Cup™—the robot presented the […]",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/uploads/2026/07/atlas-world-cup-team.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://bostondynamics.com/blog/bridging-the-porch-gap/",
-      "url": "https://bostondynamics.com/blog/bridging-the-porch-gap/",
-      "title": "Bridging the ‘Porch Gap’ | Boston Dynamics",
-      "content_text": "Boston Dynamics is testing a last-mile delivery solution with Spot to get packages to the doorstep with less strain and greater efficiency.",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/uploads/2026/07/last-mile-delivery-loading.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://bostondynamics.com/blog/securing-the-fifa-world-cup-2026/",
-      "url": "https://bostondynamics.com/blog/securing-the-fifa-world-cup-2026/",
-      "title": "Securing the FIFA World Cup 2026 | Boston Dynamics",
-      "content_text": "At FIFA World Cup 2026™, Boston Dynamics' Spot robots have taken on a new security assignment: helping protect the largest sporting event in the world.",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/uploads/2026/07/spot-fife-security.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://bostondynamics.com/blog/can-football-teach-a-robot-to-move/",
-      "url": "https://bostondynamics.com/blog/can-football-teach-a-robot-to-move/",
-      "title": "Can football teach a robot to move? | Boston Dynamics",
-      "content_text": "Aathletes perform amazing acts of physicality every day and that's the bar for Boston Dynamics Atlas robot. Learn how we train Atlas from human demonstration.",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/uploads/2026/06/Thumbnails_16X9_TRAINING_3.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://bostondynamics.com/blog/ask-a-roboticist-meet-chastity/",
-      "url": "https://bostondynamics.com/blog/ask-a-roboticist-meet-chastity/",
-      "title": "Ask a Roboticist: Meet Chastity | Boston Dynamics",
-      "content_text": "Chastity Kelly, a mechanical design engineer, answers questions about the design of Atlas’ foot, whether robots need shoes, and her path to robotics. Read the interview below and watch a conversation with Chastity on how Atlas strides through the world. Working at Boston Dynamics What is your role at Boston Dynamics?I’m a mechanical design engineer […]",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/uploads/2026/06/chastity-kelly.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://bostondynamics.com/blog/ask-a-roboticist-meet-ethan/",
-      "url": "https://bostondynamics.com/blog/ask-a-roboticist-meet-ethan/",
-      "title": "Ask a Roboticist: Meet Ethan | Boston Dynamics",
-      "content_text": "Ethan Lauer, a software engineer at Boston Dynamics, answers questions about robot perception, world modeling, and what spooks Stretch.",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/uploads/2026/04/ethan.lauer_.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/",
-      "url": "https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/",
-      "title": "Tools for Your To Do List with Spot and Gemini Robotics | Boston Dynamics",
-      "content_text": "A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/uploads/2026/03/spot-to-do-list.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://bostondynamics.com/blog/aivi-learning-now-powered-google-gemini-robotics/",
-      "url": "https://bostondynamics.com/blog/aivi-learning-now-powered-google-gemini-robotics/",
-      "title": "AIVI-Learning Is Now Powered by Google Gemini Robotics | Boston Dynamics",
-      "content_text": "We have partnered with Google Cloud and Google DeepMind to integrate Gemini and Gemini Robotics ER 1.6 into Orbit AIVI-Learning.",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/uploads/2026/04/aivi-5sboard.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
-      "id": "https://bostondynamics.com/blog/scaling-new-career-heights-with-stretch/",
-      "url": "https://bostondynamics.com/blog/scaling-new-career-heights-with-stretch/",
-      "title": "Scaling New Career Heights with Stretch | Boston Dynamics",
-      "content_text": "Boston Dynamics' employee spotlight series shares the journeys of our team members: featuring Dayme Delgado, a Field Applications Engineer.",
-      "attachments": [
-        {
-          "url": "https://bostondynamics.com/wp-content/uploads/2026/03/dayme-delgado-employee-spotlight.jpg",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "robotics"
-      ]
-    },
-    {
       "id": "https://www.figure.ai/news/helix-02",
       "url": "https://www.figure.ai/news/helix-02",
       "title": "Introducing Helix 02: Full-Body Autonomy",
@@ -874,6 +694,156 @@
           "mime_type": "image/png"
         }
       ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.19665",
+      "url": "https://arxiv.org/abs/2607.19665",
+      "title": "Human-on-the-loop Resilient Control of InverterBased Resources Under Actuator Degradation",
+      "content_text": "This paper proposes a human-on-the-loop resilient control architecture for grid-supporting inverter-based resources (IBRs) operating under actuator degradation. Conventional fault-tolerant control and adaptive control strategies each face notable limitations in this setting: active FTC depends on fast, accurate fault detection and isolation, leaving it vulnerable to misdiagnosis of incipient or ambiguous degradation, while passive FTC tends toward overly conservative operation. Adaptive controllers face a related problem as they typically assume sufficient control authority, but when actuator degradation erodes that authority, the adaptive law may misinterpret tracking errors, leading to parameter drift, performance loss, or instability. To overcome these limitations, the proposed framewor",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.19667",
+      "url": "https://arxiv.org/abs/2607.19667",
+      "title": "A Human-AI Teaming Framework for Deep Reinforcement Learning-Based Voltage Regulation in Distribution Networks",
+      "content_text": "The growing penetration of distributed energy resources (DERs) has increased the operational variability of distribution networks, making voltage regulation increasingly challenging. Conventional deep reinforcement learning (DRL) methods exhibit unsafe exploration behavior, slow convergence, and limited reliability, which restrict their applicability in safety-critical power system settings. This paper presents a human-interactive reinforcement learning framework that enhances the safety and robustness of autonomous voltage regulation. The proposed approach integrates a Soft Actor-Critic (SAC) agent with an adaptive Lagrange constraint mechanism to enforce voltage limits, while a human-guidance module provides sensitivity-based corrections through coordinated capacitor-bank and Battery Ene",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.19851",
+      "url": "https://arxiv.org/abs/2607.19851",
+      "title": "Quantification and Surrogate Model Estimation of Spatial-Temporal Carbon Intensity Factors",
+      "content_text": "The transition toward sustainable urban infrastructure is driving a rapid increase in distributed energy resources, particularly among prosumers equipped with solar photovoltaic (PV) installations. Such PV systems are highly dependent on solar radiation, which fluctuates over time and across different city districts, leading to substantial spatial and temporal variations in local carbon intensity factors. The carbon intensity factor is a critical parameter for optimizing energy consumption and reducing emissions in context of smart building control, electric vehicle charging or district heating systems. Hence, high-resolution information on local carbon intensity factors is crucial for intelligent control strategies that minimize environmental impact across urban infrastructures. In this p",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.19926",
+      "url": "https://arxiv.org/abs/2607.19926",
+      "title": "Integrating Deep Learning and Contraction Theory for Robust Nonlinear State Estimation via Unsupervised Scientific Machine Learning",
+      "content_text": "A common way to design observers is to add a correction term to a copy of the system; however, designing the correction term for nonlinear systems remains a significant long-standing challenge. Contraction theory offers a unified approach to designing this correction term by solving a matrix partial differential inequality (MPDI) and identifying a contraction metric. However, solving the MPDI for both the correction term and the contraction metric is highly challenging, both analytically and numerically. Therefore, the aim of this paper is to propose a learning-based approach to determine both the observer's correction term and the contraction metric by incorporating the contraction requirements into the learning process. The proposed approach relies on a scientific machine learning formul",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2607.20079",
+      "url": "https://arxiv.org/abs/2607.20079",
+      "title": "Time-Series Anomaly Detection for Mobile Robots in Automotive Active Safety Testing using an RNN-VAE",
+      "content_text": "Mobile robots, like the ultra-flat overrunable (UFO) robot platform, used in automotive active safety tests, currently lack self-diagnostic capabilities necessary to detect present hardware defects. This circumstance can lead to more severe failures, causing expensive repairs and operational downtime. This work proposes, for the first time, a reconstructionbased time-series anomaly detection model for these mobile robots, considering defect classes such as unevenly worn full-rubber tires or damaged dampers. Unlike prior publications, the proposed approach leverages the vast quantities of unlabeled data generated during routine operation through a simple pre-training step. Furthermore, it optimizes the hyperparameters of the implemented gated recurrent unit-based variational autoencoder (GR",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://arxiv.org/abs/2505.01894",
+      "url": "https://arxiv.org/abs/2505.01894",
+      "title": "Certus: A domain specific language for confidence assessment in assurance cases",
+      "content_text": "Assurance cases (ACs) are prepared to argue that a system has satisfied critical quality attributes. Many methods exist to assess confidence in ACs, including quantitative methods that represent confidence numerically. While quantitative methods are attractive in principle, existing methods suffer from issues related to interpretation, subjectivity, scalability, dialectic reasoning, and trustworthiness, which have limited their adoption. This paper introduces Certus, a domain specific language for quantitative confidence assessment. In Certus, users describe their confidence with fuzzy sets, which allow them to represent their judgment using vague, but linguistically meaningful terminology. Certus includes syntax to specify confidence propagation using expressions that can be easily inspec",
+      "attachments": [
+        {
+          "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "mime_type": "image/png"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.unitree.com/cn/news/34",
+      "url": "https://www.unitree.com/cn/news/34",
+      "title": "34",
+      "content_text": "机器人",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.unitree.com/cn/news/30",
+      "url": "https://www.unitree.com/cn/news/30",
+      "title": "30",
+      "content_text": "机器人",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.ri.cmu.edu/news/",
+      "url": "https://www.ri.cmu.edu/news/",
+      "title": "News - Robotics Institute Carnegie Mellon University",
+      "content_text": "Cool stories about the Robotics Institute at CMU from all over the web.",
+      "attachments": [
+        {
+          "url": "https://www.ri.cmu.edu/app/uploads/2024/06/cmu-robotics-news.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.ubtrobot.com/en/about/news/498762019606597",
+      "url": "https://www.ubtrobot.com/en/about/news/498762019606597",
+      "title": "As Walker S Strikes the Gong, UBTECH Robotics Becomes the First Humanoid Robot  Company Listed on the Main Board of the HKEX | UBTECH Robotics",
+      "content_text": "UBTECH",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/Vision2035_en.pdf",
+      "url": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/Vision2035_en.pdf",
+      "title": "Vision2035 En.Pdf",
+      "content_text": "Vision2035 En.Pdf",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/Dash35_en.pdf",
+      "url": "https://www.yaskawa-global.com/wp-content/uploads/2026/05/Dash35_en.pdf",
+      "title": "Dash35 En.Pdf",
+      "content_text": "Dash35 En.Pdf",
       "tags": [
         "robotics"
       ]

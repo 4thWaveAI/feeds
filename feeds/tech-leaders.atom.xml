@@ -4,20 +4,13 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/tech-leaders.atom.xml"/>
   <id>urn:4thwaveai-feeds:tech-leaders</id>
-  <updated>Thu, 23 Jul 2026 20:13:34 +0000</updated>
+  <updated>Fri, 24 Jul 2026 04:08:21 +0000</updated>
   <entry>
     <title>NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School</title>
     <link href="https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/"/>
     <id>https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/</id>
     <summary type="text">NVIDIA founder and CEO Jensen Huang joined school leadership in Monterey, California, to commission the system, which will fuel AI education and research at the US military’s premier technical graduate university.</summary>
     <updated>Thu, 23 Jul 2026 02:00:46 +0000</updated>
-  </entry>
-  <entry>
-    <title>NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework</title>
-    <link href="https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/"/>
-    <id>https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/</id>
-    <summary type="text">Medical device leaders are already building on NVIDIA’s new Medical Physics Simulation framework — giving surgical robots the virtual experience they need before interacting with patients.</summary>
-    <updated>Wed, 22 Jul 2026 13:00:11 +0000</updated>
   </entry>
   <entry>
     <title>Prime Video announces Lily Allen documentary, coming to streaming in 2027</title>
@@ -160,17 +153,23 @@
     <updated>Fri, 14 Feb 2025 17:48:42 +0000</updated>
   </entry>
   <entry>
-    <title>Amazon opens first Canada Disaster Relief hub and bolsters California hub to support wildfire relief efforts</title>
-    <link href="https://www.aboutamazon.com/news/community/amazon-wildfire-disaster-relief"/>
-    <id>https://www.aboutamazon.com/news/community/amazon-wildfire-disaster-relief</id>
-    <summary type="text">A new wildfire hub in Edmonton, Alberta, will join Amazon&#x27;s California facility as the company prepares for increasingly severe fire seasons.</summary>
-    <updated>Thu, 22 Aug 2024 17:18:17 +0000</updated>
+    <title>How to watch &#x27;Batman: Caped Crusader&#x27; Season 2, coming to Prime Video July 31</title>
+    <link href="https://www.aboutamazon.com/news/entertainment/batman-caped-crusader-release-date-trailer-prime-video"/>
+    <id>https://www.aboutamazon.com/news/entertainment/batman-caped-crusader-release-date-trailer-prime-video</id>
+    <summary type="text">The critically acclaimed animated series returns to Prime Video, with the arrival of fan-favorite Gotham City residents including Edward Nygma, Carrie Kelly, and The Joker.</summary>
+    <updated>Tue, 02 Jul 2024 19:39:46 +0000</updated>
   </entry>
   <entry>
     <title>Japan’s Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier</title>
     <link href="https://nvidianews.nvidia.com/news/japans-robotics-and-manufacturing-leaders-build-on-nvidia-cosmos-to-advance-physical-ai-frontier"/>
     <id>https://nvidianews.nvidia.com/news/japans-robotics-and-manufacturing-leaders-build-on-nvidia-cosmos-to-advance-physical-ai-frontier</id>
     <summary type="text">NVIDIA today announced that Japan’s physical AI leaders are building on the NVIDIA Cosmos™, NVIDIA Isaac™, NVIDIA Metropolis and NVIDIA Jetson™ platforms to accelerate the deployment of intelligent machines across manufacturing, mobility, infrastructure and robotics.</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA and KAIST Launch Joint AI Research Lab to Accelerate AI Innovation in Korea</title>
+    <link href="https://nvidianews.nvidia.com/news/nvidia-and-kaist-launch-joint-ai-research-lab-to-accelerate-ai-innovation-in-korea"/>
+    <id>https://nvidianews.nvidia.com/news/nvidia-and-kaist-launch-joint-ai-research-lab-to-accelerate-ai-innovation-in-korea</id>
+    <summary type="text">NVIDIA and the Korea Advanced Institute of Science and Technology (KAIST) today announced the launch of a joint AI research laboratory at the KAIST Kim Jaechul Graduate School of AI in Seoul, dedicated to advancing agentic AI for South Korea.</summary>
   </entry>
   <entry>
     <title>NVIDIA Agent Toolkit Expands With New Omniverse Libraries, Putting AI Agents to Work Building Simulation-Ready Worlds</title>
@@ -195,6 +194,12 @@
     <link href="https://blogs.nvidia.com/blog/category/enterprise/intelligent-networking/"/>
     <id>https://blogs.nvidia.com/blog/category/enterprise/intelligent-networking/</id>
     <summary type="text">AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier...</summary>
+  </entry>
+  <entry>
+    <title>Gaming Archives</title>
+    <link href="https://blogs.nvidia.com/blog/category/gaming/"/>
+    <id>https://blogs.nvidia.com/blog/category/gaming/</id>
+    <summary type="text">Lock in and load up the cloud. GFN Thursday brings fresh updates and new adventures, all ready to play without waiting for downloads. Set sail...</summary>
   </entry>
   <entry>
     <title>&lt;![CDATA[OpenAI News]]&gt;</title>
@@ -381,11 +386,5 @@
     <link href="https://about.fb.com/news/category/data-and-privacy/"/>
     <id>https://about.fb.com/news/category/data-and-privacy/</id>
     <summary type="text">Data and Privacy News | Meta Newsroom</summary>
-  </entry>
-  <entry>
-    <title>Security News Archives | Meta Newsroom</title>
-    <link href="https://about.fb.com/news/tag/security/"/>
-    <id>https://about.fb.com/news/tag/security/</id>
-    <summary type="text">The latest updates on our work to keep people safe on our apps and protect our platform from abuse.</summary>
   </entry>
 </feed>

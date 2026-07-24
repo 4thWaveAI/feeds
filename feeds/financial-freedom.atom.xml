@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/financial-freedom.atom.xml"/>
   <id>urn:4thwaveai-feeds:financial-freedom</id>
-  <updated>Thu, 23 Jul 2026 20:09:32 +0000</updated>
+  <updated>Fri, 24 Jul 2026 04:04:40 +0000</updated>
   <entry>
     <title>SEC Announces Roundtable on Preparations for 24-Hour Trading</title>
     <link href="https://www.sec.gov/newsroom/press-releases/2026-69-sec-announces-roundtable-preparations-24-hour-trading"/>
@@ -319,6 +319,12 @@
     <summary type="text">Weintek cMT3092X | CISA</summary>
   </entry>
   <entry>
+    <title>Rockwell Automation ThinManager | CISA</title>
+    <link href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-204-05"/>
+    <id>https://www.cisa.gov/news-events/ics-advisories/icsa-26-204-05</id>
+    <summary type="text">Rockwell Automation ThinManager | CISA</summary>
+  </entry>
+  <entry>
     <title>Russian State-Supported Cyber Actors Conduct Phishing Campaign Targeting Users of Zimbra Collaboration Suite | CISA</title>
     <link href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-204a"/>
     <id>https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-204a</id>
@@ -359,11 +365,5 @@
     <link href="https://www.cisa.gov/news-events/alerts/2026/07/22/cisa-adds-two-known-exploited-vulnerabilities-catalog"/>
     <id>https://www.cisa.gov/news-events/alerts/2026/07/22/cisa-adds-two-known-exploited-vulnerabilities-catalog</id>
     <summary type="text">An official website of the United States government</summary>
-  </entry>
-  <entry>
-    <title>Rockwell Automation 1718-AENTR/1719-AENTR | CISA</title>
-    <link href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-202-08"/>
-    <id>https://www.cisa.gov/news-events/ics-advisories/icsa-26-202-08</id>
-    <summary type="text">Rockwell Automation 1718-AENTR/1719-AENTR | CISA</summary>
   </entry>
 </feed>

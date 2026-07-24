@@ -5,6 +5,81 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/all.json",
   "items": [
     {
+      "id": "https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/",
+      "title": "A Million-Panel Project - NASA Science",
+      "content_text": "Utah’s new solar power and battery storage facility is among the largest in the region.",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-million-panel-project/solarutah_oli_20260606_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "disclosure-watch"
+      ]
+    },
+    {
+      "id": "https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/",
+      "title": "Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present - NASA Science",
+      "content_text": "Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick, Canada",
+      "attachments": [
+        {
+          "url": "https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/july/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04955_opgs_edr_ncam_NRB_837362437EDR_S1231344NCAM00594M_.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "space-tech"
+      ]
+    },
+    {
+      "id": "https://eprijournal.com/epri-journal-celebrating-fifty-years-of-the-long-view/",
+      "url": "https://eprijournal.com/epri-journal-celebrating-fifty-years-of-the-long-view/",
+      "title": "EPRI Journal: Celebrating Fifty Years of the Long View - EPRI Journal",
+      "content_text": "Share this article:By Chris Warren EPRI had a very clear mission when it was founded in 1972. Launched in response to a 1965 blackout that left around 30 million people in eight Northeastern states and two Canadian provinces without power, the formation of EPRI was an acknowledgment both of the vital importance of electricity and […]",
+      "attachments": [
+        {
+          "url": "http://eprijournal.com/wp-content/uploads/2026/07/2026.07_EJ-Fiftieth-anniversary.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "grid-water-compute"
+      ]
+    },
+    {
+      "id": "https://esports.gg/news/valorant/navi-streamer-ardiis-transphobic-comments/",
+      "url": "https://esports.gg/news/valorant/navi-streamer-ardiis-transphobic-comments/",
+      "title": "Riot suspends NAVI streamer ardiis for transphobic Game Changers comments",
+      "content_text": "After transphobic comments, ardiis will be unable to co-stream VCT matches for one month, but many fans believe the punishment isn't enough.",
+      "attachments": [
+        {
+          "url": "https://media.esports.gg/uploads/2026/07/ardiis.avif",
+          "mime_type": "image/avif"
+        }
+      ],
+      "tags": [
+        "gsel-esports-ai"
+      ]
+    },
+    {
+      "id": "https://retractionwatch.com/2026/07/23/editors-of-economics-journal-resign-after-association-renews-taylor-francis-contract/",
+      "url": "https://retractionwatch.com/2026/07/23/editors-of-economics-journal-resign-after-association-renews-taylor-francis-contract/",
+      "title": "Editors of economics journal resign after association renews Taylor & Francis contract",
+      "content_text": "Forty-one editors, associate editors and advisory board members resigned from their roles at the Review of Social Economy after the Association for Social Economics, which owns the journal, renewed…",
+      "attachments": [
+        {
+          "url": "https://retractionwatch.com/wp-content/uploads/2026/07/rose.webp",
+          "mime_type": "image/webp"
+        }
+      ],
+      "tags": [
+        "research-integrity"
+      ]
+    },
+    {
       "id": "https://phys.org/news/2026-07-3d-nanoscale-human-airway-epithelium.html",
       "url": "https://phys.org/news/2026-07-3d-nanoscale-human-airway-epithelium.html",
       "title": "First 3D nanoscale maps of human airway epithelium reveal hidden architecture of lung defense cells",
@@ -39,36 +114,6 @@
       ]
     },
     {
-      "id": "https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/",
-      "url": "https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/",
-      "title": "Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72 | NVIDIA Technical Blog",
-      "content_text": "Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token falls…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/World-Record.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
-      "url": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
-      "title": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI | NVIDIA Technical Blog",
-      "content_text": "What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale. These factories are now tasked with…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-rubin-gpu.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "https://esports.gg/news/mobile-legends-bang-bang/rora-coach-midnight-tlph-msc-ewc-2026-reaction/",
       "url": "https://esports.gg/news/mobile-legends-bang-bang/rora-coach-midnight-tlph-msc-ewc-2026-reaction/",
       "title": "RORA Coach Midnight on facing TLPH early in MSC at EWC 2026: \"Fortunate and unfortunate at the same time.\"",
@@ -81,21 +126,6 @@
       ],
       "tags": [
         "gsel-esports-ai"
-      ]
-    },
-    {
-      "id": "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/",
-      "url": "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/",
-      "title": "NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI | NVIDIA Technical Blog",
-      "content_text": "Agentic AI shifts more of the critical execution path onto the CPU. Agents operate in sandboxes to execute code, invoke tools, retrieve context, interact with databases, and analyze results before…",
-      "attachments": [
-        {
-          "url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/Vera-CPU-e1783372749296.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -404,21 +434,6 @@
       ],
       "tags": [
         "biotech"
-      ]
-    },
-    {
-      "id": "https://esports.gg/news/fortnite/all-fortnite-season-start-and-end-dates/",
-      "url": "https://esports.gg/news/fortnite/all-fortnite-season-start-and-end-dates/",
-      "title": "All Fortnite Season start and end dates",
-      "content_text": "Here is a list of every start and end date for all of Fortnite's chapters and seasons.",
-      "attachments": [
-        {
-          "url": "https://media.esports.gg/uploads/2023/03/fortnitestartandenddates.webp",
-          "mime_type": "image/webp"
-        }
-      ],
-      "tags": [
-        "gsel-esports-ai"
       ]
     },
     {
@@ -787,21 +802,6 @@
       ],
       "tags": [
         "nanotech"
-      ]
-    },
-    {
-      "id": "https://science.nasa.gov/photojournal/mapping-ios-hidden-heat-with-nasas-juno/",
-      "url": "https://science.nasa.gov/photojournal/mapping-ios-hidden-heat-with-nasas-juno/",
-      "title": "Mapping Io’s Hidden Heat With NASA’s Juno - NASA Science",
-      "content_text": "This graphic illustrates the areas of Jupiter’s moon Io sampled by the Microwave Radiometer (MWR) instrument aboard NASA’s Juno spacecraft during two close",
-      "attachments": [
-        {
-          "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26757/PIA26757.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-          "mime_type": "image/png"
-        }
-      ],
-      "tags": [
-        "space-tech"
       ]
     },
     {

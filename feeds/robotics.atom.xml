@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/robotics.atom.xml"/>
   <id>urn:4thwaveai-feeds:robotics</id>
-  <updated>Thu, 23 Jul 2026 19:51:21 +0000</updated>
+  <updated>Fri, 24 Jul 2026 03:49:19 +0000</updated>
   <entry>
     <title>Robotic Servicing Mission Launches with NASA Support - NASA</title>
     <link href="https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/"/>
@@ -67,78 +67,6 @@
     <id>https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/</id>
     <summary type="text">A mission to raise the orbit of NASA’s Swift observatory is poised for launch June 30.</summary>
     <updated>Fri, 26 Jun 2026 13:16:22 -0400</updated>
-  </entry>
-  <entry>
-    <title>News | Boston Dynamics</title>
-    <link href="https://bostondynamics.com/news/"/>
-    <id>https://bostondynamics.com/news/</id>
-    <summary type="text">Discover the latest news about Boston Dynamics and stay up to date with what we’ve been working on. Explore product news, media coverage, and more.</summary>
-  </entry>
-  <entry>
-    <title>Blogs | Boston Dynamics</title>
-    <link href="https://bostondynamics.com/blog/"/>
-    <id>https://bostondynamics.com/blog/</id>
-    <summary type="text">Stay up to date on the latest trends in robotics and other industry insights from the Boston Dynamics blog.</summary>
-  </entry>
-  <entry>
-    <title>Training a Humanoid Robot for Hard Work | Boston Dynamics</title>
-    <link href="https://bostondynamics.com/blog/training-a-humanoid-robot-for-hard-work/"/>
-    <id>https://bostondynamics.com/blog/training-a-humanoid-robot-for-hard-work/</id>
-    <summary type="text">Using AI-driven behaviors, Boston Dynamics’ Atlas robot coordinates its whole body to execute complex tasks with accuracy and reliability.</summary>
-  </entry>
-  <entry>
-    <title>Deploying Robots Into (and Onto) the Field | Boston Dynamics</title>
-    <link href="https://bostondynamics.com/blog/deploying-robots-into-and-onto-the-field/"/>
-    <id>https://bostondynamics.com/blog/deploying-robots-into-and-onto-the-field/</id>
-    <summary type="text">On Sunday July 5th, Atlas®, Boston Dynamics humanoid robot, stepped onto the field during halftime of the FIFA World Cup 2026™ Norway-Brazil round of 16 match at New York New Jersey Stadium. In the first public appearance of our production Atlas—and the first ever robotic halftime activation of the FIFA World Cup™—the robot presented the […]</summary>
-  </entry>
-  <entry>
-    <title>Bridging the ‘Porch Gap’ | Boston Dynamics</title>
-    <link href="https://bostondynamics.com/blog/bridging-the-porch-gap/"/>
-    <id>https://bostondynamics.com/blog/bridging-the-porch-gap/</id>
-    <summary type="text">Boston Dynamics is testing a last-mile delivery solution with Spot to get packages to the doorstep with less strain and greater efficiency.</summary>
-  </entry>
-  <entry>
-    <title>Securing the FIFA World Cup 2026 | Boston Dynamics</title>
-    <link href="https://bostondynamics.com/blog/securing-the-fifa-world-cup-2026/"/>
-    <id>https://bostondynamics.com/blog/securing-the-fifa-world-cup-2026/</id>
-    <summary type="text">At FIFA World Cup 2026™, Boston Dynamics&#x27; Spot robots have taken on a new security assignment: helping protect the largest sporting event in the world.</summary>
-  </entry>
-  <entry>
-    <title>Can football teach a robot to move? | Boston Dynamics</title>
-    <link href="https://bostondynamics.com/blog/can-football-teach-a-robot-to-move/"/>
-    <id>https://bostondynamics.com/blog/can-football-teach-a-robot-to-move/</id>
-    <summary type="text">Aathletes perform amazing acts of physicality every day and that&#x27;s the bar for Boston Dynamics Atlas robot. Learn how we train Atlas from human demonstration.</summary>
-  </entry>
-  <entry>
-    <title>Ask a Roboticist: Meet Chastity | Boston Dynamics</title>
-    <link href="https://bostondynamics.com/blog/ask-a-roboticist-meet-chastity/"/>
-    <id>https://bostondynamics.com/blog/ask-a-roboticist-meet-chastity/</id>
-    <summary type="text">Chastity Kelly, a mechanical design engineer, answers questions about the design of Atlas’ foot, whether robots need shoes, and her path to robotics. Read the interview below and watch a conversation with Chastity on how Atlas strides through the world. Working at Boston Dynamics What is your role at Boston Dynamics?I’m a mechanical design engineer […]</summary>
-  </entry>
-  <entry>
-    <title>Ask a Roboticist: Meet Ethan | Boston Dynamics</title>
-    <link href="https://bostondynamics.com/blog/ask-a-roboticist-meet-ethan/"/>
-    <id>https://bostondynamics.com/blog/ask-a-roboticist-meet-ethan/</id>
-    <summary type="text">Ethan Lauer, a software engineer at Boston Dynamics, answers questions about robot perception, world modeling, and what spooks Stretch.</summary>
-  </entry>
-  <entry>
-    <title>Tools for Your To Do List with Spot and Gemini Robotics | Boston Dynamics</title>
-    <link href="https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/"/>
-    <id>https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/</id>
-    <summary type="text">A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.</summary>
-  </entry>
-  <entry>
-    <title>AIVI-Learning Is Now Powered by Google Gemini Robotics | Boston Dynamics</title>
-    <link href="https://bostondynamics.com/blog/aivi-learning-now-powered-google-gemini-robotics/"/>
-    <id>https://bostondynamics.com/blog/aivi-learning-now-powered-google-gemini-robotics/</id>
-    <summary type="text">We have partnered with Google Cloud and Google DeepMind to integrate Gemini and Gemini Robotics ER 1.6 into Orbit AIVI-Learning.</summary>
-  </entry>
-  <entry>
-    <title>Scaling New Career Heights with Stretch | Boston Dynamics</title>
-    <link href="https://bostondynamics.com/blog/scaling-new-career-heights-with-stretch/"/>
-    <id>https://bostondynamics.com/blog/scaling-new-career-heights-with-stretch/</id>
-    <summary type="text">Boston Dynamics&#x27; employee spotlight series shares the journeys of our team members: featuring Dayme Delgado, a Field Applications Engineer.</summary>
   </entry>
   <entry>
     <title>Introducing Helix 02: Full-Body Autonomy</title>
@@ -373,5 +301,77 @@
     <link href="https://arxiv.org/abs/2607.19638"/>
     <id>https://arxiv.org/abs/2607.19638</id>
     <summary type="text">Large-scale AI training turns computing facilities into multi-megawatt loads whose power draw is periodic: tens of thousands of accelerators step in lockstep between compute-bound phases near peak power and communication-bound phases where they idle. Prior work treats each facility as an exogenous periodic forcing on the grid. We pose the operator&#x27;s question instead: when many independent training jobs share one oversubscribed power envelope, do their cycles stay independent, so aggregate fluctuation grows as the square root of the number of jobs, or can the power-management stack phase-lock them into linear growth? This is emergent synchronization in a population of nonlinear oscillators - the Kuramoto setting - but classical coupling is absent, since accelerator clocks are decoupled from</summary>
+  </entry>
+  <entry>
+    <title>Human-on-the-loop Resilient Control of InverterBased Resources Under Actuator Degradation</title>
+    <link href="https://arxiv.org/abs/2607.19665"/>
+    <id>https://arxiv.org/abs/2607.19665</id>
+    <summary type="text">This paper proposes a human-on-the-loop resilient control architecture for grid-supporting inverter-based resources (IBRs) operating under actuator degradation. Conventional fault-tolerant control and adaptive control strategies each face notable limitations in this setting: active FTC depends on fast, accurate fault detection and isolation, leaving it vulnerable to misdiagnosis of incipient or ambiguous degradation, while passive FTC tends toward overly conservative operation. Adaptive controllers face a related problem as they typically assume sufficient control authority, but when actuator degradation erodes that authority, the adaptive law may misinterpret tracking errors, leading to parameter drift, performance loss, or instability. To overcome these limitations, the proposed framewor</summary>
+  </entry>
+  <entry>
+    <title>A Human-AI Teaming Framework for Deep Reinforcement Learning-Based Voltage Regulation in Distribution Networks</title>
+    <link href="https://arxiv.org/abs/2607.19667"/>
+    <id>https://arxiv.org/abs/2607.19667</id>
+    <summary type="text">The growing penetration of distributed energy resources (DERs) has increased the operational variability of distribution networks, making voltage regulation increasingly challenging. Conventional deep reinforcement learning (DRL) methods exhibit unsafe exploration behavior, slow convergence, and limited reliability, which restrict their applicability in safety-critical power system settings. This paper presents a human-interactive reinforcement learning framework that enhances the safety and robustness of autonomous voltage regulation. The proposed approach integrates a Soft Actor-Critic (SAC) agent with an adaptive Lagrange constraint mechanism to enforce voltage limits, while a human-guidance module provides sensitivity-based corrections through coordinated capacitor-bank and Battery Ene</summary>
+  </entry>
+  <entry>
+    <title>Quantification and Surrogate Model Estimation of Spatial-Temporal Carbon Intensity Factors</title>
+    <link href="https://arxiv.org/abs/2607.19851"/>
+    <id>https://arxiv.org/abs/2607.19851</id>
+    <summary type="text">The transition toward sustainable urban infrastructure is driving a rapid increase in distributed energy resources, particularly among prosumers equipped with solar photovoltaic (PV) installations. Such PV systems are highly dependent on solar radiation, which fluctuates over time and across different city districts, leading to substantial spatial and temporal variations in local carbon intensity factors. The carbon intensity factor is a critical parameter for optimizing energy consumption and reducing emissions in context of smart building control, electric vehicle charging or district heating systems. Hence, high-resolution information on local carbon intensity factors is crucial for intelligent control strategies that minimize environmental impact across urban infrastructures. In this p</summary>
+  </entry>
+  <entry>
+    <title>Integrating Deep Learning and Contraction Theory for Robust Nonlinear State Estimation via Unsupervised Scientific Machine Learning</title>
+    <link href="https://arxiv.org/abs/2607.19926"/>
+    <id>https://arxiv.org/abs/2607.19926</id>
+    <summary type="text">A common way to design observers is to add a correction term to a copy of the system; however, designing the correction term for nonlinear systems remains a significant long-standing challenge. Contraction theory offers a unified approach to designing this correction term by solving a matrix partial differential inequality (MPDI) and identifying a contraction metric. However, solving the MPDI for both the correction term and the contraction metric is highly challenging, both analytically and numerically. Therefore, the aim of this paper is to propose a learning-based approach to determine both the observer&#x27;s correction term and the contraction metric by incorporating the contraction requirements into the learning process. The proposed approach relies on a scientific machine learning formul</summary>
+  </entry>
+  <entry>
+    <title>Time-Series Anomaly Detection for Mobile Robots in Automotive Active Safety Testing using an RNN-VAE</title>
+    <link href="https://arxiv.org/abs/2607.20079"/>
+    <id>https://arxiv.org/abs/2607.20079</id>
+    <summary type="text">Mobile robots, like the ultra-flat overrunable (UFO) robot platform, used in automotive active safety tests, currently lack self-diagnostic capabilities necessary to detect present hardware defects. This circumstance can lead to more severe failures, causing expensive repairs and operational downtime. This work proposes, for the first time, a reconstructionbased time-series anomaly detection model for these mobile robots, considering defect classes such as unevenly worn full-rubber tires or damaged dampers. Unlike prior publications, the proposed approach leverages the vast quantities of unlabeled data generated during routine operation through a simple pre-training step. Furthermore, it optimizes the hyperparameters of the implemented gated recurrent unit-based variational autoencoder (GR</summary>
+  </entry>
+  <entry>
+    <title>Certus: A domain specific language for confidence assessment in assurance cases</title>
+    <link href="https://arxiv.org/abs/2505.01894"/>
+    <id>https://arxiv.org/abs/2505.01894</id>
+    <summary type="text">Assurance cases (ACs) are prepared to argue that a system has satisfied critical quality attributes. Many methods exist to assess confidence in ACs, including quantitative methods that represent confidence numerically. While quantitative methods are attractive in principle, existing methods suffer from issues related to interpretation, subjectivity, scalability, dialectic reasoning, and trustworthiness, which have limited their adoption. This paper introduces Certus, a domain specific language for quantitative confidence assessment. In Certus, users describe their confidence with fuzzy sets, which allow them to represent their judgment using vague, but linguistically meaningful terminology. Certus includes syntax to specify confidence propagation using expressions that can be easily inspec</summary>
+  </entry>
+  <entry>
+    <title>34</title>
+    <link href="https://www.unitree.com/cn/news/34"/>
+    <id>https://www.unitree.com/cn/news/34</id>
+    <summary type="text">机器人</summary>
+  </entry>
+  <entry>
+    <title>30</title>
+    <link href="https://www.unitree.com/cn/news/30"/>
+    <id>https://www.unitree.com/cn/news/30</id>
+    <summary type="text">机器人</summary>
+  </entry>
+  <entry>
+    <title>News - Robotics Institute Carnegie Mellon University</title>
+    <link href="https://www.ri.cmu.edu/news/"/>
+    <id>https://www.ri.cmu.edu/news/</id>
+    <summary type="text">Cool stories about the Robotics Institute at CMU from all over the web.</summary>
+  </entry>
+  <entry>
+    <title>As Walker S Strikes the Gong, UBTECH Robotics Becomes the First Humanoid Robot  Company Listed on the Main Board of the HKEX | UBTECH Robotics</title>
+    <link href="https://www.ubtrobot.com/en/about/news/498762019606597"/>
+    <id>https://www.ubtrobot.com/en/about/news/498762019606597</id>
+    <summary type="text">UBTECH</summary>
+  </entry>
+  <entry>
+    <title>Vision2035 En.Pdf</title>
+    <link href="https://www.yaskawa-global.com/wp-content/uploads/2026/05/Vision2035_en.pdf"/>
+    <id>https://www.yaskawa-global.com/wp-content/uploads/2026/05/Vision2035_en.pdf</id>
+    <summary type="text">Vision2035 En.Pdf</summary>
+  </entry>
+  <entry>
+    <title>Dash35 En.Pdf</title>
+    <link href="https://www.yaskawa-global.com/wp-content/uploads/2026/05/Dash35_en.pdf"/>
+    <id>https://www.yaskawa-global.com/wp-content/uploads/2026/05/Dash35_en.pdf</id>
+    <summary type="text">Dash35 En.Pdf</summary>
   </entry>
 </feed>

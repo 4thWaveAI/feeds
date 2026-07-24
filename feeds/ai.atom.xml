@@ -4,28 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/ai.atom.xml"/>
   <id>urn:4thwaveai-feeds:ai</id>
-  <updated>Thu, 23 Jul 2026 19:50:16 +0000</updated>
-  <entry>
-    <title>Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72 | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/"/>
-    <id>https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/</id>
-    <summary type="text">Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token falls…</summary>
-    <updated>Thu, 23 Jul 2026 18:30:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/"/>
-    <id>https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/</id>
-    <summary type="text">What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale. These factories are now tasked with…</summary>
-    <updated>Thu, 23 Jul 2026 18:15:00 +0000</updated>
-  </entry>
-  <entry>
-    <title>NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI | NVIDIA Technical Blog</title>
-    <link href="https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/"/>
-    <id>https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/</id>
-    <summary type="text">Agentic AI shifts more of the critical execution path onto the CPU. Agents operate in sandboxes to execute code, invoke tools, retrieve context, interact with databases, and analyze results before…</summary>
-    <updated>Thu, 23 Jul 2026 18:00:00 +0000</updated>
-  </entry>
+  <updated>Fri, 24 Jul 2026 03:48:35 +0000</updated>
   <entry>
     <title>Debugging Ray Tracing Applications Using NVIDIA OptiX Toolkit | NVIDIA Technical Blog</title>
     <link href="https://developer.nvidia.com/blog/debugging-ray-tracing-applications-using-nvidia-optix-toolkit/"/>
@@ -81,6 +60,27 @@
     <id>https://blogs.nvidia.com/blog/wistron-manufacturing-texas/</id>
     <summary type="text">The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capable AI systems. In front of an audience of Wistron […]</summary>
     <updated>Tue, 21 Jul 2026 22:35:45 +0000</updated>
+  </entry>
+  <entry>
+    <title>Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72 | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/"/>
+    <id>https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/</id>
+    <summary type="text">Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token falls…</summary>
+    <updated>Tue, 21 Jul 2026 18:30:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/"/>
+    <id>https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/</id>
+    <summary type="text">What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale. These factories are now tasked with…</summary>
+    <updated>Tue, 21 Jul 2026 18:15:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI | NVIDIA Technical Blog</title>
+    <link href="https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/"/>
+    <id>https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/</id>
+    <summary type="text">Agentic AI shifts more of the critical execution path onto the CPU. Agents operate in sandboxes to execute code, invoke tools, retrieve context, interact with databases, and analyze results before…</summary>
+    <updated>Tue, 21 Jul 2026 18:00:00 +0000</updated>
   </entry>
   <entry>
     <title>Introducing Gemini 3.5 Flash Cyber</title>

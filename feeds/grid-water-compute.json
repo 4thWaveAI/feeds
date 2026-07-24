@@ -5,6 +5,21 @@
   "feed_url": "https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/grid-water-compute.json",
   "items": [
     {
+      "id": "https://eprijournal.com/epri-journal-celebrating-fifty-years-of-the-long-view/",
+      "url": "https://eprijournal.com/epri-journal-celebrating-fifty-years-of-the-long-view/",
+      "title": "EPRI Journal: Celebrating Fifty Years of the Long View - EPRI Journal",
+      "content_text": "Share this article:By Chris Warren EPRI had a very clear mission when it was founded in 1972. Launched in response to a 1965 blackout that left around 30 million people in eight Northeastern states and two Canadian provinces without power, the formation of EPRI was an acknowledgment both of the vital importance of electricity and […]",
+      "attachments": [
+        {
+          "url": "http://eprijournal.com/wp-content/uploads/2026/07/2026.07_EJ-Fiftieth-anniversary.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "grid-water-compute"
+      ]
+    },
+    {
       "id": "https://eprijournal.com/restarting-nuclear-power-plants-preserving-and-restoring-value/",
       "url": "https://eprijournal.com/restarting-nuclear-power-plants-preserving-and-restoring-value/",
       "title": "Restarting Nuclear Power Plants: Preserving and Restoring Value - EPRI Journal",
@@ -118,21 +133,6 @@
         {
           "url": "http://eprijournal.com/wp-content/uploads/2026/04/2026.04_EJ-AdobeStock_304073455.jpg",
           "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "grid-water-compute"
-      ]
-    },
-    {
-      "id": "https://eprijournal.com/why-data-readiness-is-one-of-utilities-most-urgent-ai-challenges/",
-      "url": "https://eprijournal.com/why-data-readiness-is-one-of-utilities-most-urgent-ai-challenges/",
-      "title": "Why Data Readiness is One of Utilities’ Most Urgent AI Challenges - EPRI Journal",
-      "content_text": "Share this article:Realizing AI potential starts with getting data right. By Chris Warren In a relatively short period of time, artificial intelligence (AI) has become the centerpiece of discussions across most industries, including the utility industry. Much of the recent focus has been on utilities’ ability to meet the growing demand for electricity coming from […]",
-      "attachments": [
-        {
-          "url": "http://eprijournal.com/wp-content/uploads/2026/03/2026.03_EJ-Copilot-AI-Readiness-1024x410.png",
-          "mime_type": "image/png"
         }
       ],
       "tags": [

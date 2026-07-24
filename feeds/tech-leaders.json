@@ -24,25 +24,6 @@
       ]
     },
     {
-      "id": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
-      "url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
-      "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
-      "content_text": "Medical device leaders are already building on NVIDIA’s new Medical Physics Simulation framework — giving surgical robots the virtual experience they need before interacting with patients.",
-      "attachments": [
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/medical-physica-simulation.png",
-          "mime_type": "image/png"
-        },
-        {
-          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/07/catheter_2_v4.mp4",
-          "mime_type": "video/mp4"
-        }
-      ],
-      "tags": [
-        "jensen-huang"
-      ]
-    },
-    {
       "id": "https://www.aboutamazon.com/news/entertainment/lily-allen-documentary-prime-video",
       "url": "https://www.aboutamazon.com/news/entertainment/lily-allen-documentary-prime-video",
       "title": "Prime Video announces Lily Allen documentary, coming to streaming in 2027",
@@ -355,14 +336,18 @@
       ]
     },
     {
-      "id": "https://www.aboutamazon.com/news/community/amazon-wildfire-disaster-relief",
-      "url": "https://www.aboutamazon.com/news/community/amazon-wildfire-disaster-relief",
-      "title": "Amazon opens first Canada Disaster Relief hub and bolsters California hub to support wildfire relief efforts",
-      "content_text": "A new wildfire hub in Edmonton, Alberta, will join Amazon's California facility as the company prepares for increasingly severe fire seasons.",
+      "id": "https://www.aboutamazon.com/news/entertainment/batman-caped-crusader-release-date-trailer-prime-video",
+      "url": "https://www.aboutamazon.com/news/entertainment/batman-caped-crusader-release-date-trailer-prime-video",
+      "title": "How to watch 'Batman: Caped Crusader' Season 2, coming to Prime Video July 31",
+      "content_text": "The critically acclaimed animated series returns to Prime Video, with the arrival of fan-favorite Gotham City residents including Edward Nygma, Carrie Kelly, and The Joker.",
       "attachments": [
         {
-          "url": "https://assets.aboutamazon.com/dims4/default/06a0e15/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F44%2F7d%2F3f97f43543289e4ed66cac151b54%2Fabout-amazon-hero-amazon-news-as-20260720-amazon-news-as-20260720.jpg",
+          "url": "https://assets.aboutamazon.com/dims4/default/c1151de/2147483647/strip/true/crop/1600x800+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F75%2Ffa%2Fa806a9d44eb68e46623ac3860ec8%2Fcaped-crusader-s2-inline-amazon-news-nb-062626.jpg",
           "mime_type": "image/jpeg"
+        },
+        {
+          "url": "https://www.youtube.com/embed/pNhijtUqyeg?enablejsapi=1",
+          "mime_type": "video/mp4"
         }
       ],
       "tags": [
@@ -377,6 +362,21 @@
       "attachments": [
         {
           "url": "https://iprsoftwaremedia.com/219/files/202607/ec180c85cf8840fb0edaf360eba98abd/6a580ccd3d63323228944ad6_NVIDIA%20Cosmos%20in%20Japan/NVIDIA%20Cosmos%20in%20Japan_0846fd59-e6d6-419e-91a3-f8cd075ab146-prv.jpg?v=0846fd59-e6d6-419e-91a3-f8cd075ab146",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://nvidianews.nvidia.com/news/nvidia-and-kaist-launch-joint-ai-research-lab-to-accelerate-ai-innovation-in-korea",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-kaist-launch-joint-ai-research-lab-to-accelerate-ai-innovation-in-korea",
+      "title": "NVIDIA and KAIST Launch Joint AI Research Lab to Accelerate AI Innovation in Korea",
+      "content_text": "NVIDIA and the Korea Advanced Institute of Science and Technology (KAIST) today announced the launch of a joint AI research laboratory at the KAIST Kim Jaechul Graduate School of AI in Seoul, dedicated to advancing agentic AI for South Korea.",
+      "attachments": [
+        {
+          "url": "https://iprsoftwaremedia.com/219/files/20266/28a0fa81d0fd7998ecd0fa89b61037ac/6a62a26c3d63324a0f0657ca_kaist-nvidia-logos-16x9/kaist-nvidia-logos-16x9_8f849691-d966-496c-962f-2a7f9b7e8f67-prv.jpg?v=8f849691-d966-496c-962f-2a7f9b7e8f67",
           "mime_type": "image/jpeg"
         }
       ],
@@ -434,6 +434,21 @@
       "url": "https://blogs.nvidia.com/blog/category/enterprise/intelligent-networking/",
       "title": "Networking Archives",
       "content_text": "AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier...",
+      "attachments": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2026/03/nvidia-kv-2026-ari.jpg",
+          "mime_type": "image/jpeg"
+        }
+      ],
+      "tags": [
+        "jensen-huang"
+      ]
+    },
+    {
+      "id": "https://blogs.nvidia.com/blog/category/gaming/",
+      "url": "https://blogs.nvidia.com/blog/category/gaming/",
+      "title": "Gaming Archives",
+      "content_text": "Lock in and load up the cloud. GFN Thursday brings fresh updates and new adventures, all ready to play without waiting for downloads. Set sail...",
       "attachments": [
         {
           "url": "https://blogs.nvidia.com/wp-content/uploads/2026/03/nvidia-kv-2026-ari.jpg",
@@ -754,7 +769,7 @@
       "content_text": "The official source for news about Apple, from Apple. Read press releases, get updates, watch video and download images.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202607231300=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202607231301=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -769,7 +784,7 @@
       "content_text": "The source for news about Apple Services. Get updates on the latest Apple Arcade games, Apple Originals on TV+, Podcasts, Books, and more from Apple Newsroom.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1784812258364=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1784811809236=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -784,7 +799,7 @@
       "content_text": "Discover more stories from Apple Newsroom that showcase the creators, developers, and innovators leaving the world better than they found it.",
       "attachments": [
         {
-          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1784812091594=",
+          "url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?1784811641964=",
           "mime_type": "image/jpeg"
         }
       ],
@@ -895,21 +910,6 @@
       "url": "https://about.fb.com/news/category/data-and-privacy/",
       "title": "Data and Privacy News | Meta Newsroom",
       "content_text": "Data and Privacy News | Meta Newsroom",
-      "attachments": [
-        {
-          "url": "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200",
-          "mime_type": "image/jpeg"
-        }
-      ],
-      "tags": [
-        "mark-zuckerberg"
-      ]
-    },
-    {
-      "id": "https://about.fb.com/news/tag/security/",
-      "url": "https://about.fb.com/news/tag/security/",
-      "title": "Security News Archives | Meta Newsroom",
-      "content_text": "The latest updates on our work to keep people safe on our apps and protect our platform from abuse.",
       "attachments": [
         {
           "url": "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200",

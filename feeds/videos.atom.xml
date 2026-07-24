@@ -4,7 +4,7 @@
   <link href="https://www.4thwaveai.com"/>
   <link rel="self" href="https://4thwaveai-feeds.github.io/4thwaveai-feeds/feeds/videos.atom.xml"/>
   <id>urn:4thwaveai-feeds:videos</id>
-  <updated>Thu, 23 Jul 2026 20:13:34 +0000</updated>
+  <updated>Fri, 24 Jul 2026 04:08:21 +0000</updated>
   <entry>
     <title>First 3D nanoscale maps of human airway epithelium reveal hidden architecture of lung defense cells</title>
     <link href="https://phys.org/news/2026-07-3d-nanoscale-human-airway-epithelium.html"/>
@@ -158,6 +158,13 @@
     <id>https://meshtastic.org/blog/meshtastic-2-7-preview/</id>
     <summary type="text">Meshtastic 2.7 is here with a complete redesign of the standard UI, Introducing BaseUI! New input support on native linux, and the ability to switch between UIs on supported hardware.</summary>
     <updated>Sat, 21 Jun 2025 07:30:00 +0000</updated>
+  </entry>
+  <entry>
+    <title>How to watch &#x27;Batman: Caped Crusader&#x27; Season 2, coming to Prime Video July 31</title>
+    <link href="https://www.aboutamazon.com/news/entertainment/batman-caped-crusader-release-date-trailer-prime-video"/>
+    <id>https://www.aboutamazon.com/news/entertainment/batman-caped-crusader-release-date-trailer-prime-video</id>
+    <summary type="text">The critically acclaimed animated series returns to Prime Video, with the arrival of fan-favorite Gotham City residents including Edward Nygma, Carrie Kelly, and The Joker.</summary>
+    <updated>Tue, 02 Jul 2024 19:39:46 +0000</updated>
   </entry>
   <entry>
     <title>Introducing Helix 02: Full-Body Autonomy</title>
@@ -384,11 +391,5 @@ Through world-renowned Meetings, peer-reviewed journals, webinars, workshops, ad
     <link href="https://www.bas.ac.uk/news/study-finds-surface-melt-can-strengthen-antarctic-ice-shelves-while-seawater-infiltration-weakens-them/"/>
     <id>https://www.bas.ac.uk/news/study-finds-surface-melt-can-strengthen-antarctic-ice-shelves-while-seawater-infiltration-weakens-them/</id>
     <summary type="text">New research led by British Antarctic Survey provides fresh insights into how cracks and fractures develop in ice and how future sea-level rise may unfold.</summary>
-  </entry>
-  <entry>
-    <title>From Vacuum to Lab: A Student’s Journey Towards Real-World Application  – ASPIRE Research Center</title>
-    <link href="https://aspire.usu.edu/from-vacuum-to-lab-a-students-journey-towards-real-world-application/"/>
-    <id>https://aspire.usu.edu/from-vacuum-to-lab-a-students-journey-towards-real-world-application/</id>
-    <summary type="text">In the classroom, students have the opportunity to learn and practice specific concepts in a controlled situation, sometimes referred to as a vacuum. Yet in the real-world, many concepts and skills must be considered simultaneously to arrive at a solution. Whitney Walpole, a mechanical engineering student at ASPIRE, is discovering what it takes to answer real-world questions.</summary>
   </entry>
 </feed>
